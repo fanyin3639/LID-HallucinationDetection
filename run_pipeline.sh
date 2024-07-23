@@ -5,7 +5,7 @@ source ~/.bashrc
 # Initialize Conda environment
 eval "$(conda shell.bash hook)"
 
-conda activate icl
+conda activate lid
 python src/get_activation.py \
 	--data_name coqa \
 	--model_name  mistralai/Mistral-7B-v0.1 \
