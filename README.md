@@ -10,7 +10,7 @@ The code is tested under python3.9 and CUDA12.3
 ## Run the code
 We experimented with Llama-2-7B, Llama-2-13B, and Mistral-7B-v0.1. Please acquire the access through huggingface hub.
 
-We reported results on the following datasets:
+We reported results on the following datasets. We pick 2,000 examples to test from each dataset. 500 correctly answered queries and their answers are used as reference points:
 
 [TriviaQA](https://huggingface.co/datasets/mandarjoshi/trivia_qa)
 
