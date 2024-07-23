@@ -1,0 +1,15 @@
+[
+    [
+        3093,
+        [],
+        "Fluoroantimonic acid"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Fluoroantimonic acid is an inorganic compound with the chemical formula H 2FSbF 6 (also written H 2F[SbF 6], 2HF\u00b7SbF5, or simply HF-SbF5).  It is an extremely strong acid, easily qualifying as a superacid.  The Hammett acidity function, H0, has been measured for different ratios of HF:SbF5.   While the H0 of pure HF is \u221215, addition of just 1mol % of SbF5 lowers it to around \u221220.  However, further addition of SbF5 results in rapidly diminishing returns, with the H0 reaching \u221221 at 10mol %.  The use of an extremely weak base as indicator shows that the lowest attainable H0, even with > 50mol % SbF5, is somewhere between \u221221 and \u221223.[1][2][3] Question: What is the most powerful acid? Answer:",
+    {
+        "id": "english--811051342897098862-0",
+        "lang": "english",
+        "summary": "Fluoroantimonic acid is an inorganic compound with the chemical formula H 2FSbF 6 (also written H 2F[SbF 6], 2HF\u00b7SbF5, or simply HF-SbF5).  It is an extremely strong acid, easily qualifying as a superacid.  The Hammett acidity function, H0, has been measured for different ratios of HF:SbF5.   While the H0 of pure HF is \u221215, addition of just 1mol % of SbF5 lowers it to around \u221220.  However, further addition of SbF5 results in rapidly diminishing returns, with the H0 reaching \u221221 at 10mol %.  The use of an extremely weak base as indicator shows that the lowest attainable H0, even with > 50mol % SbF5, is somewhere between \u221221 and \u221223.[1][2][3]",
+        "question": "What is the most powerful acid?",
+        "label": "Fluoroantimonic acid"
+    }
+]

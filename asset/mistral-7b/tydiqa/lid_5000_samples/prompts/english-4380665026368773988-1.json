@@ -1,0 +1,15 @@
+[
+    [
+        1891,
+        [],
+        "end of World War II in 1945"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Division of Korea began at the end of World War II in 1945. With the defeat of Japan, the Soviet Union occupied the north of Korea, and the United States occupied the south, with the boundary between their zones being the 38th parallel. Question: When did North and South Korea split? Answer:",
+    {
+        "id": "english-4380665026368773988-1",
+        "lang": "english",
+        "summary": "The Division of Korea began at the end of World War II in 1945. With the defeat of Japan, the Soviet Union occupied the north of Korea, and the United States occupied the south, with the boundary between their zones being the 38th parallel.",
+        "question": "When did North and South Korea split?",
+        "label": "end of World War II in 1945"
+    }
+]

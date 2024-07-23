@@ -1,0 +1,15 @@
+[
+    [
+        2393,
+        [],
+        "1947"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Polish People's Republic (Polish: Polska Rzeczpospolita Ludowa, PRL) was a state in Central Europe that existed from 1947 to 1989, and the predecessor of the modern democratic Republic of Poland. With a population of approximately 37.9 million inhabitants near the end of its existence, it was the most populous state of the Eastern Bloc after the Soviet Union.[1] Having a unitary Marxist\u2013Leninist communist government, it was also one of the main signatories of the Warsaw Pact. The official capital since 1947 and largest city was Warsaw, followed by industrial \u0141\u00f3d\u017a and cultural Krak\u00f3w.  Question: When was the Polish People\u2019s Republic established? Answer:",
+    {
+        "id": "english--4734844116197187112-0",
+        "lang": "english",
+        "summary": "The Polish People's Republic (Polish: Polska Rzeczpospolita Ludowa, PRL) was a state in Central Europe that existed from 1947 to 1989, and the predecessor of the modern democratic Republic of Poland. With a population of approximately 37.9 million inhabitants near the end of its existence, it was the most populous state of the Eastern Bloc after the Soviet Union.[1] Having a unitary Marxist\u2013Leninist communist government, it was also one of the main signatories of the Warsaw Pact. The official capital since 1947 and largest city was Warsaw, followed by industrial \u0141\u00f3d\u017a and cultural Krak\u00f3w. ",
+        "question": "When was the Polish People\u2019s Republic established?",
+        "label": "1947"
+    }
+]

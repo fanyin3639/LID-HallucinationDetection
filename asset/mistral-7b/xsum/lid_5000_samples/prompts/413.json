@@ -1,0 +1,14 @@
+[
+    [
+        413,
+        [],
+        "There's not long left until the general election, when adults across the UK will decide who they want to run the country."
+    ],
+    "Write a short summary for the following passage:\n26 May 2017 Last updated at 13:28 BST\nThe big vote on 8 June will reveal who runs the UK government  and who moves into 10 Downing Street as prime minister.\nSo voting's pretty important! But how does it happen?\nWatch Whitney's report to find out.\nSummary:\n",
+    {
+        "id": 413,
+        "document": "26 May 2017 Last updated at 13:28 BST\nThe big vote on 8 June will reveal who runs the UK government  and who moves into 10 Downing Street as prime minister.\nSo voting's pretty important! But how does it happen?\nWatch Whitney's report to find out.",
+        "summary": "There's not long left until the general election, when adults across the UK will decide who they want to run the country.",
+        "label": "There's not long left until the general election, when adults across the UK will decide who they want to run the country."
+    }
+]

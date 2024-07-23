@@ -1,0 +1,15 @@
+[
+    [
+        2746,
+        [],
+        "12 to 15 months"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Despite maximum treatment, the cancer usually recurs.[3] The most common length of survival following diagnosis is 12 to 15 months, with fewer than 3% to 5% of people surviving longer than five years.[2][3] Without treatment, survival is typically three months.[9] It is the most common cancer that begins within the brain and the second most common brain tumor, after meningioma.[5][10] About 3 per 100,000 people develop the disease a year.[3] It most often begins around 64 years of age and occurs more commonly in males than females.[2][3] Immunotherapy is being studied.[11] Question: What is the survival rate for glioblastoma multiforme? Answer:",
+    {
+        "id": "english--1761508020102435644-3",
+        "lang": "english",
+        "summary": "Despite maximum treatment, the cancer usually recurs.[3] The most common length of survival following diagnosis is 12 to 15 months, with fewer than 3% to 5% of people surviving longer than five years.[2][3] Without treatment, survival is typically three months.[9] It is the most common cancer that begins within the brain and the second most common brain tumor, after meningioma.[5][10] About 3 per 100,000 people develop the disease a year.[3] It most often begins around 64 years of age and occurs more commonly in males than females.[2][3] Immunotherapy is being studied.[11]",
+        "question": "What is the survival rate for glioblastoma multiforme?",
+        "label": "12 to 15 months"
+    }
+]

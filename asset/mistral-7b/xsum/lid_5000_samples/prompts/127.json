@@ -1,0 +1,14 @@
+[
+    [
+        127,
+        [],
+        "Happy, sad... confused?"
+    ],
+    "Write a short summary for the following passage:\n9 June 2017 Last updated at 08:33 BST\nOne thing we know for sure about this election is that the result is definitely not straightforward.\nThe Conservatives are the largest party but have fewer MPs than before the vote, despite calling the election themselves!\nLabour has failed to take power, but the number of votes and seats they've won has gone up.\nSo how are all those politicians feeling today? Bring on the the emojis!\nSummary:\n",
+    {
+        "id": 127,
+        "document": "9 June 2017 Last updated at 08:33 BST\nOne thing we know for sure about this election is that the result is definitely not straightforward.\nThe Conservatives are the largest party but have fewer MPs than before the vote, despite calling the election themselves!\nLabour has failed to take power, but the number of votes and seats they've won has gone up.\nSo how are all those politicians feeling today? Bring on the the emojis!",
+        "summary": "Happy, sad... confused?",
+        "label": "Happy, sad... confused?"
+    }
+]

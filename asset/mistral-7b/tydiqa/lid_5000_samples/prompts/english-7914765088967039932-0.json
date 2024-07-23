@@ -1,0 +1,15 @@
+[
+    [
+        244,
+        [],
+        "suffering a stroke"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On 5 March 1953, at 21:50 EET, Joseph Stalin, the second leader of the Soviet Union, died at the Kuntsevo Dacha aged 74 after suffering a stroke. After four days of national mourning, Stalin was given a state funeral and then buried in Lenin's Mausoleum on 9 March. Nikita Khrushchev, Georgy Malenkov, Vyacheslav Molotov and Lavrentiy Beria were in charge of organizing the funeral. Question: How did Joseph Stalin died? Answer:",
+    {
+        "id": "english-7914765088967039932-0",
+        "lang": "english",
+        "summary": "On 5 March 1953, at 21:50 EET, Joseph Stalin, the second leader of the Soviet Union, died at the Kuntsevo Dacha aged 74 after suffering a stroke. After four days of national mourning, Stalin was given a state funeral and then buried in Lenin's Mausoleum on 9 March. Nikita Khrushchev, Georgy Malenkov, Vyacheslav Molotov and Lavrentiy Beria were in charge of organizing the funeral.",
+        "question": "How did Joseph Stalin died?",
+        "label": "suffering a stroke"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        994,
+        [],
+        "6'4\""
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Michael P. Pratt (born August 4, 1948) is an American retired basketball player and coach. He was a 6'4\" (1.93 m), 195lb (88.5kg) guard. Question: How tall is Mike Pratt? Answer:",
+    {
+        "id": "english--1581448835666267026-0",
+        "lang": "english",
+        "summary": "Michael P. Pratt (born August 4, 1948) is an American retired basketball player and coach. He was a 6'4\" (1.93 m), 195lb (88.5kg) guard.",
+        "question": "How tall is Mike Pratt?",
+        "label": "6'4\""
+    }
+]

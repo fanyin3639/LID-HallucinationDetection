@@ -1,0 +1,15 @@
+[
+    [
+        1991,
+        [],
+        "The Department of Transportation"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Department of Transportation (DOTr; Filipino: Kagawar\u00e1n ng Transportasyon) is the executive department of the Philippine government responsible for the maintenance and expansion of viable, efficient, and dependable transportation systems as effective instruments for national recovery and economic progress. Question: What is the national agency governing rail transportation in the Philippines? Answer:",
+    {
+        "id": "english--5097499211717845944-0",
+        "lang": "english",
+        "summary": "The Department of Transportation (DOTr; Filipino: Kagawar\u00e1n ng Transportasyon) is the executive department of the Philippine government responsible for the maintenance and expansion of viable, efficient, and dependable transportation systems as effective instruments for national recovery and economic progress.",
+        "question": "What is the national agency governing rail transportation in the Philippines?",
+        "label": "The Department of Transportation"
+    }
+]

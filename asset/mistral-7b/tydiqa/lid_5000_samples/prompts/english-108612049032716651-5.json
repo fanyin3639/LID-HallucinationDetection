@@ -1,0 +1,15 @@
+[
+    [
+        425,
+        [],
+        "Bengt I. Samuelsson"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Nobel laureate, Bengt I. Samuelsson, and colleagues first described 5(S)-HETE in 1976 as a metabolite of arachidonic acid made by rabbit neutrophils.[1] Biological activity was linked to it several years later when it was found to stimulate human neutrophil rises in cytosolic calcium, chemotaxis, and increases in their cell surface adhesiveness as indicated by their aggregation to each other.[2] Since a previously discovered arachidonic acid metabolite made by neutrophils, leukotriene B4 (LTB4), also stimulates human neutrophil calcium rises, chemotaxis, and auto-aggregation and is structurally similar to 5(S)-HETE in being a 5-(S)-hydroxy-eicosateraenoate, it was assumed that 5-(S)-HETE stimulated cells through the same cell surface receptors as those used by (LTB4) viz., the leukotriene B4 receptors. However, further studies in neutrophils indicated that 5-(S)-HETE acts through a receptor distinct from that used by LTB4 as well as various other neutrophil stimuli. This 5(S)-HETE receptor is termed the oxoeicosanoid receptor 1 (abbreviated as (OXER1).[3][4] Question: Who discovered 5-Hydroxyeicosatetraenoic acid? Answer:",
+    {
+        "id": "english-108612049032716651-5",
+        "lang": "english",
+        "summary": "The Nobel laureate, Bengt I. Samuelsson, and colleagues first described 5(S)-HETE in 1976 as a metabolite of arachidonic acid made by rabbit neutrophils.[1] Biological activity was linked to it several years later when it was found to stimulate human neutrophil rises in cytosolic calcium, chemotaxis, and increases in their cell surface adhesiveness as indicated by their aggregation to each other.[2] Since a previously discovered arachidonic acid metabolite made by neutrophils, leukotriene B4 (LTB4), also stimulates human neutrophil calcium rises, chemotaxis, and auto-aggregation and is structurally similar to 5(S)-HETE in being a 5-(S)-hydroxy-eicosateraenoate, it was assumed that 5-(S)-HETE stimulated cells through the same cell surface receptors as those used by (LTB4) viz., the leukotriene B4 receptors. However, further studies in neutrophils indicated that 5-(S)-HETE acts through a receptor distinct from that used by LTB4 as well as various other neutrophil stimuli. This 5(S)-HETE receptor is termed the oxoeicosanoid receptor 1 (abbreviated as (OXER1).[3][4]",
+        "question": "Who discovered 5-Hydroxyeicosatetraenoic acid?",
+        "label": "Bengt I. Samuelsson"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        787,
+        [],
+        "Samuel Morse"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Samuel Morse independently developed and patented a recording electric telegraph in 1837. Morse's assistant Alfred Vail developed an instrument that was called the register for recording the received messages. It embossed dots and dashes on a moving paper tape by a stylus which was operated by an electromagnet.[19] Morse and Vail developed the Morse code signalling alphabet. The first telegram in the United States was sent by Morse on 11 January 1838, across two miles (3km) of wire at Speedwell Ironworks near Morristown, New Jersey, although it was only later, in 1844, that he sent the message \"WHAT HATH GOD WROUGHT\" over the 44 miles (71km) from the Capitol in Washington to the old Mt. Clare Depot in Baltimore.[20][21] Question: Who invented the telegraph machine? Answer:",
+    {
+        "id": "english-7740087150073341814-18",
+        "lang": "english",
+        "summary": "Samuel Morse independently developed and patented a recording electric telegraph in 1837. Morse's assistant Alfred Vail developed an instrument that was called the register for recording the received messages. It embossed dots and dashes on a moving paper tape by a stylus which was operated by an electromagnet.[19] Morse and Vail developed the Morse code signalling alphabet. The first telegram in the United States was sent by Morse on 11 January 1838, across two miles (3km) of wire at Speedwell Ironworks near Morristown, New Jersey, although it was only later, in 1844, that he sent the message \"WHAT HATH GOD WROUGHT\" over the 44 miles (71km) from the Capitol in Washington to the old Mt. Clare Depot in Baltimore.[20][21]",
+        "question": "Who invented the telegraph machine?",
+        "label": "Samuel Morse"
+    }
+]

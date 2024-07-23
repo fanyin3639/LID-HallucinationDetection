@@ -1,0 +1,15 @@
+[
+    [
+        170,
+        [],
+        "37"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: While this action was in progress near Yonil Airfield, the week-long battle for Hill 300 north of Kyongju came to an end. A regiment of the ROK 3rd Division captured the hill on September 11. In midafternoon the 3rd Battalion, US 19th Infantry, relieved the South Korean troops there. Scattered over Hill 300 lay 257 counted North Korean dead and great quantities of abandoned equipment and weapons, some of it American. In this fighting for Hill 300, the US 3rd Battalion, 19th Infantry, 37 men killed.[40] Question: How many people died during The Battle of Kyongju? Answer:",
+    {
+        "id": "english--7671421809606739911-35",
+        "lang": "english",
+        "summary": "While this action was in progress near Yonil Airfield, the week-long battle for Hill 300 north of Kyongju came to an end. A regiment of the ROK 3rd Division captured the hill on September 11. In midafternoon the 3rd Battalion, US 19th Infantry, relieved the South Korean troops there. Scattered over Hill 300 lay 257 counted North Korean dead and great quantities of abandoned equipment and weapons, some of it American. In this fighting for Hill 300, the US 3rd Battalion, 19th Infantry, 37 men killed.[40]",
+        "question": "How many people died during The Battle of Kyongju?",
+        "label": "37"
+    }
+]

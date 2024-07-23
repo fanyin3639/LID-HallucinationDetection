@@ -1,0 +1,15 @@
+[
+    [
+        2770,
+        [],
+        "type of democracy founded on the principle of elected officials representing a group of people"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Representative democracy (also indirect democracy, representative government or psephocracy) is a type of democracy founded on the principle of elected officials representing a group of people, as opposed to direct democracy.[2] Nearly all modern Western-style democracies are types of representative democracies; for example, the United Kingdom is a constitutional monarchy, France is a unitary state, and the United States is a federal republic.[3] Question: what is a representative democracy? Answer:",
+    {
+        "id": "english--585787715057018269-2",
+        "lang": "english",
+        "summary": "Representative democracy (also indirect democracy, representative government or psephocracy) is a type of democracy founded on the principle of elected officials representing a group of people, as opposed to direct democracy.[2] Nearly all modern Western-style democracies are types of representative democracies; for example, the United Kingdom is a constitutional monarchy, France is a unitary state, and the United States is a federal republic.[3]",
+        "question": "what is a representative democracy?",
+        "label": "type of democracy founded on the principle of elected officials representing a group of people"
+    }
+]

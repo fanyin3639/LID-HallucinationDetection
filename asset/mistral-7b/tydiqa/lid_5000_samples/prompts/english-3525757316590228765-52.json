@@ -1,0 +1,15 @@
+[
+    [
+        781,
+        [],
+        "0,01%"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Iran's Jewish community is officially recognized as a religious minority group by the government, and, like the Zoroastrians and Christians, they are allocated one seat in the Iranian Parliament. Siamak Moreh Sedgh is the current Jewish member of the parliament, replacing Maurice Motamed in the 2008 election. In 2000, former Jewish MP Manuchehr Eliasi estimated that at that time there were still 60,000\u201385,000 Jews in Iran; most other sources put the figure at 25,000.[67] As of 2018, only 8,500 Jews still live in Iran[68] and they constitute 0,01% of Iranian population, a number confirmed by Sergio DellaPergola, a leading Jewish demographer.[69] Question: What percentage of the Iranian population is Jewish? Answer:",
+    {
+        "id": "english-3525757316590228765-52",
+        "lang": "english",
+        "summary": "Iran's Jewish community is officially recognized as a religious minority group by the government, and, like the Zoroastrians and Christians, they are allocated one seat in the Iranian Parliament. Siamak Moreh Sedgh is the current Jewish member of the parliament, replacing Maurice Motamed in the 2008 election. In 2000, former Jewish MP Manuchehr Eliasi estimated that at that time there were still 60,000\u201385,000 Jews in Iran; most other sources put the figure at 25,000.[67] As of 2018, only 8,500 Jews still live in Iran[68] and they constitute 0,01% of Iranian population, a number confirmed by Sergio DellaPergola, a leading Jewish demographer.[69]",
+        "question": "What percentage of the Iranian population is Jewish?",
+        "label": "0,01%"
+    }
+]

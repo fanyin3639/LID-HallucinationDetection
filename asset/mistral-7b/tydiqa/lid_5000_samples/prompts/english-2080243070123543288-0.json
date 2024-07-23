@@ -1,0 +1,15 @@
+[
+    [
+        2525,
+        [],
+        "33"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mohamed Mohamed el-Amir Awad el-Sayed Atta (/\u02c8\u00e6t\u0251\u02d0/ AT-ah; Arabic: \u0645\u062d\u0645\u062f \u0645\u062d\u0645\u062f \u0627\u0644\u0623\u0645\u064a\u0631 \u0639\u0648\u0636 \u0627\u0644\u0633\u064a\u062f \u0639\u0637\u0627\u200e Mu\u1e25ammad Mu\u1e25ammad al-Amir 'Awa\u1e0d as-Sayyid 'A\u1e6d\u0101 [m\u00e6\u02c8\u0127\u00e6mm\u00e6d el\u0294\u00e6\u02c8mi\u02d0\u027e \u02c8\u0295\u0251w\u0251d\u02e4 es\u02c8s\u00e6j.jed \u02c8\u0295\u0251t\u02e4\u0251]; September 1, 1968 \u2013 September 11, 2001) was an Egyptian hijacker and one of the ringleaders of the September 11 attacks in which four United States commercial aircraft were commandeered with the intention of destroying specific civilian targets. He served as the hijacker-pilot of American Airlines Flight 11 and crashed the plane into the North Tower of the World Trade Center as part of the coordinated attacks.[1][2][3][4][5] At 33 years of age, he was the oldest of the 19 hijackers who took part in the attacks. Question: How old was Mohamed Mohamed el-Amir Awad el-Sayed Atta at the time of the September 11 attacks? Answer:",
+    {
+        "id": "english-2080243070123543288-0",
+        "lang": "english",
+        "summary": "Mohamed Mohamed el-Amir Awad el-Sayed Atta (/\u02c8\u00e6t\u0251\u02d0/ AT-ah; Arabic: \u0645\u062d\u0645\u062f \u0645\u062d\u0645\u062f \u0627\u0644\u0623\u0645\u064a\u0631 \u0639\u0648\u0636 \u0627\u0644\u0633\u064a\u062f \u0639\u0637\u0627\u200e Mu\u1e25ammad Mu\u1e25ammad al-Amir 'Awa\u1e0d as-Sayyid 'A\u1e6d\u0101 [m\u00e6\u02c8\u0127\u00e6mm\u00e6d el\u0294\u00e6\u02c8mi\u02d0\u027e \u02c8\u0295\u0251w\u0251d\u02e4 es\u02c8s\u00e6j.jed \u02c8\u0295\u0251t\u02e4\u0251]; September 1, 1968 \u2013 September 11, 2001) was an Egyptian hijacker and one of the ringleaders of the September 11 attacks in which four United States commercial aircraft were commandeered with the intention of destroying specific civilian targets. He served as the hijacker-pilot of American Airlines Flight 11 and crashed the plane into the North Tower of the World Trade Center as part of the coordinated attacks.[1][2][3][4][5] At 33 years of age, he was the oldest of the 19 hijackers who took part in the attacks.",
+        "question": "How old was Mohamed Mohamed el-Amir Awad el-Sayed Atta at the time of the September 11 attacks?",
+        "label": "33"
+    }
+]

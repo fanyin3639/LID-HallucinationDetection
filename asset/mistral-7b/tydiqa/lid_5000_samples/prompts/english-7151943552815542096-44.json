@@ -1,0 +1,15 @@
+[
+    [
+        3178,
+        [],
+        "75"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: O'Brien disagreed with the establishment of a southern Irish Free State under the Treaty, still believing that Partition of Ireland was too high a price to pay for partial independence.  He wrote in 1923, \"It is now obvious enough that, had the Irish Council Bill been allowed to pass in 1907, the Partition of Ireland would never have been heard of.\"[44] Retiring from political life, he contented himself with writing and declined \u00c9amon de Valera's offer to stand for Fianna F\u00e1il in the 1927 general election. He died suddenly on 25 February 1928 while on a visit to London with his wife at the age of 75. His remains rest in Mallow, and one of the principal streets in the town bears his name to this day. His head-bust overlooks the town Council's Chamber Room and one of his finest portraits hangs in University College Cork. Question: How old was William O'Brien? Answer:",
+    {
+        "id": "english-7151943552815542096-44",
+        "lang": "english",
+        "summary": "O'Brien disagreed with the establishment of a southern Irish Free State under the Treaty, still believing that Partition of Ireland was too high a price to pay for partial independence.  He wrote in 1923, \"It is now obvious enough that, had the Irish Council Bill been allowed to pass in 1907, the Partition of Ireland would never have been heard of.\"[44] Retiring from political life, he contented himself with writing and declined \u00c9amon de Valera's offer to stand for Fianna F\u00e1il in the 1927 general election. He died suddenly on 25 February 1928 while on a visit to London with his wife at the age of 75. His remains rest in Mallow, and one of the principal streets in the town bears his name to this day. His head-bust overlooks the town Council's Chamber Room and one of his finest portraits hangs in University College Cork.",
+        "question": "How old was William O'Brien?",
+        "label": "75"
+    }
+]

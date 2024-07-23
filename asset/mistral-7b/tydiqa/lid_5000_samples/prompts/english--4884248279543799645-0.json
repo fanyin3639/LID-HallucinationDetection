@@ -1,0 +1,15 @@
+[
+    [
+        1175,
+        [],
+        "D\u01b0\u01a1ng V\u0103n Minh"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The arrest and assassination of Ng\u00f4 \u0110\u00ecnh Di\u1ec7m, the president of South Vietnam, marked the culmination of a successful CIA-backed coup d'\u00e9tat led by General D\u01b0\u01a1ng V\u0103n Minh in November 1963. On 2 November 1963, Di\u1ec7m and his adviser, his younger brother Ng\u00f4 \u0110\u00ecnh Nhu, were arrested after the Army of the Republic of Vietnam (ARVN) had been successful in a bloody overnight siege on Gia Long Palace in Saigon. The coup was the culmination of nine years of autocratic and nepotistic family rule in South Vietnam. Discontent with the Di\u1ec7m regime had been simmering below the surface, and exploded with mass Buddhist protests against long-standing religious discrimination after the government shooting of protesters who defied a ban on the flying of the Buddhist flag. Question: Who assassinated Ngo Dinh Diem? Answer:",
+    {
+        "id": "english--4884248279543799645-0",
+        "lang": "english",
+        "summary": "The arrest and assassination of Ng\u00f4 \u0110\u00ecnh Di\u1ec7m, the president of South Vietnam, marked the culmination of a successful CIA-backed coup d'\u00e9tat led by General D\u01b0\u01a1ng V\u0103n Minh in November 1963. On 2 November 1963, Di\u1ec7m and his adviser, his younger brother Ng\u00f4 \u0110\u00ecnh Nhu, were arrested after the Army of the Republic of Vietnam (ARVN) had been successful in a bloody overnight siege on Gia Long Palace in Saigon. The coup was the culmination of nine years of autocratic and nepotistic family rule in South Vietnam. Discontent with the Di\u1ec7m regime had been simmering below the surface, and exploded with mass Buddhist protests against long-standing religious discrimination after the government shooting of protesters who defied a ban on the flying of the Buddhist flag.",
+        "question": "Who assassinated Ngo Dinh Diem?",
+        "label": "D\u01b0\u01a1ng V\u0103n Minh"
+    }
+]

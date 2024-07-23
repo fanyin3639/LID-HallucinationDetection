@@ -1,0 +1,15 @@
+[
+    [
+        212,
+        [],
+        "n. When n is a positive integer, exponentiation corresponds to repeated multiplication of the base: that is, bn is the product of multiplying n bas"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Exponentiation is a mathematical operation, written as bn, involving two numbers, the base b and the exponent n. When n is a positive integer, exponentiation corresponds to repeated multiplication of the base: that is, bn is the product of multiplying n bases: Question: What is exponentiation? Answer:",
+    {
+        "id": "english-6342624156617705724-0",
+        "lang": "english",
+        "summary": "Exponentiation is a mathematical operation, written as bn, involving two numbers, the base b and the exponent n. When n is a positive integer, exponentiation corresponds to repeated multiplication of the base: that is, bn is the product of multiplying n bases:",
+        "question": "What is exponentiation?",
+        "label": "n. When n is a positive integer, exponentiation corresponds to repeated multiplication of the base: that is, bn is the product of multiplying n bas"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1965,
+        [],
+        "ethnic subgenre of the exploitation film that emerged in the United States during the early 1970s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Blaxploitation or blacksploitation is an ethnic subgenre of the exploitation film that emerged in the United States during the early 1970s. The films, though receiving backlash for stereotypical characters, are among the first in which black characters and communities are the heroes and subjects of film and television, rather than sidekicks or villains or victims of brutality.[1] The genre's inception coincides with the rethinking of race relations in the 1970s. Question: What is blaxploitation? Answer:",
+    {
+        "id": "english--7420757286056814928-0",
+        "lang": "english",
+        "summary": "Blaxploitation or blacksploitation is an ethnic subgenre of the exploitation film that emerged in the United States during the early 1970s. The films, though receiving backlash for stereotypical characters, are among the first in which black characters and communities are the heroes and subjects of film and television, rather than sidekicks or villains or victims of brutality.[1] The genre's inception coincides with the rethinking of race relations in the 1970s.",
+        "question": "What is blaxploitation?",
+        "label": "ethnic subgenre of the exploitation film that emerged in the United States during the early 1970s"
+    }
+]

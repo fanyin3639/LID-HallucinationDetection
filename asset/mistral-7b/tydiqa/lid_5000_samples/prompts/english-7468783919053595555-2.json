@@ -1,0 +1,15 @@
+[
+    [
+        250,
+        [],
+        "Germany"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lili Elbe was the first known recipient of male-to-female sex reassignment surgery, in Germany in 1930. She was the subject of four surgeries: one for orchiectomy, one to transplant an ovary, one for penectomy, and one for vaginoplasty and a uterus transplant. However, she died three months after her last operation. Question: Where was the first sex change operation performed? Answer:",
+    {
+        "id": "english-7468783919053595555-2",
+        "lang": "english",
+        "summary": "Lili Elbe was the first known recipient of male-to-female sex reassignment surgery, in Germany in 1930. She was the subject of four surgeries: one for orchiectomy, one to transplant an ovary, one for penectomy, and one for vaginoplasty and a uterus transplant. However, she died three months after her last operation.",
+        "question": "Where was the first sex change operation performed?",
+        "label": "Germany"
+    }
+]

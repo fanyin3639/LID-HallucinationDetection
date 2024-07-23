@@ -1,0 +1,14 @@
+[
+    [
+        582,
+        [],
+        "A Sinn F\u00e9in election agent's car has been set on fire during a petrol bomb attack in Bangor, County Down."
+    ],
+    "Write a short summary for the following passage:\nPolice received a report of a black Citroen C4 Picasso on fire at Towerview Crescent at 22:30 GMT on Monday.\nThe vehicle's window was smashed and a petrol bomb was thrown inside. Two masked men were seen in the area at the time.\nPolice say they are treating the incident as a hate crime.\nSinn F\u00e9in's leader in the north Michelle O'Neill has condemned the attack.\n\"This is an attack on the democratic process but it will not deter the local candidate or anyone else in Sinn F\u00e9in,\" she said.\n\"There are clearly those who are intent on turning this into a brutal campaign and sectarianising the election.\"\nNorth Down DUP Assembly Candidates Alex Easton and Gordon Dunne condemned the attack.\n\"There is no place for this type of activity and such an attack is undermining the democratic system,\" they said.\n\"Any attack on a property or on an individual is wrong, regardless of who owns the property.\"\nSummary:\n",
+    {
+        "id": 582,
+        "document": "Police received a report of a black Citroen C4 Picasso on fire at Towerview Crescent at 22:30 GMT on Monday.\nThe vehicle's window was smashed and a petrol bomb was thrown inside. Two masked men were seen in the area at the time.\nPolice say they are treating the incident as a hate crime.\nSinn F\u00e9in's leader in the north Michelle O'Neill has condemned the attack.\n\"This is an attack on the democratic process but it will not deter the local candidate or anyone else in Sinn F\u00e9in,\" she said.\n\"There are clearly those who are intent on turning this into a brutal campaign and sectarianising the election.\"\nNorth Down DUP Assembly Candidates Alex Easton and Gordon Dunne condemned the attack.\n\"There is no place for this type of activity and such an attack is undermining the democratic system,\" they said.\n\"Any attack on a property or on an individual is wrong, regardless of who owns the property.\"",
+        "summary": "A Sinn F\u00e9in election agent's car has been set on fire during a petrol bomb attack in Bangor, County Down.",
+        "label": "A Sinn F\u00e9in election agent's car has been set on fire during a petrol bomb attack in Bangor, County Down."
+    }
+]

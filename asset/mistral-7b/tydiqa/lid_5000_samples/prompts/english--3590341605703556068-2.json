@@ -1,0 +1,15 @@
+[
+    [
+        1622,
+        [],
+        "2016"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In February 2015, the State government established the Melbourne Metro Rail Authority, with $40 million in funding, to oversee planning of the project and $1.5 billion to commence land and property acquisitions and detailed route investigation, and a further $3 billion in funding was committed. Most of the project would be built as a public-private partnership, with private sector investors funding much of the estimated $9 billion to $11 billion cost upfront.[2] Early enabling works commenced in late 2016. In late 2017, sections of the Melbourne central business district, including City Square and parts of Swanston Street, were closed to enable construction of the tunnel and stations. The project was originally expected to be completed in 2026,[3] but has now been revised to late 2025.[4] Question: When did construction begin on the Metro Tunnel in Melbourne? Answer:",
+    {
+        "id": "english--3590341605703556068-2",
+        "lang": "english",
+        "summary": "In February 2015, the State government established the Melbourne Metro Rail Authority, with $40 million in funding, to oversee planning of the project and $1.5 billion to commence land and property acquisitions and detailed route investigation, and a further $3 billion in funding was committed. Most of the project would be built as a public-private partnership, with private sector investors funding much of the estimated $9 billion to $11 billion cost upfront.[2] Early enabling works commenced in late 2016. In late 2017, sections of the Melbourne central business district, including City Square and parts of Swanston Street, were closed to enable construction of the tunnel and stations. The project was originally expected to be completed in 2026,[3] but has now been revised to late 2025.[4]",
+        "question": "When did construction begin on the Metro Tunnel in Melbourne?",
+        "label": "2016"
+    }
+]

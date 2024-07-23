@@ -1,0 +1,15 @@
+[
+    [
+        1461,
+        [],
+        "Dom P\u00e9rignon"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Dom P\u00e9rignon (/\u02ccd\u0252mp\u025br\u026an\u02c8j\u0252n/; French pronunciation:\u200b[d\u0254\u0303 pe\u0281i\u0272\u0254\u0303]) is a brand of vintage Champagne produced by the Champagne house Mo\u00ebt & Chandon and serves as that house's prestige champagne. It is named after Dom P\u00e9rignon, a Benedictine monk who was an important quality pioneer for Champagne wine but who, contrary to popular myths, did not discover the champagne method for making sparkling wines.[1] Question: What is the most expensive Champagne? Answer:",
+    {
+        "id": "english-6155821186547777573-0",
+        "lang": "english",
+        "summary": "Dom P\u00e9rignon (/\u02ccd\u0252mp\u025br\u026an\u02c8j\u0252n/; French pronunciation:\u200b[d\u0254\u0303 pe\u0281i\u0272\u0254\u0303]) is a brand of vintage Champagne produced by the Champagne house Mo\u00ebt & Chandon and serves as that house's prestige champagne. It is named after Dom P\u00e9rignon, a Benedictine monk who was an important quality pioneer for Champagne wine but who, contrary to popular myths, did not discover the champagne method for making sparkling wines.[1]",
+        "question": "What is the most expensive Champagne?",
+        "label": "Dom P\u00e9rignon"
+    }
+]

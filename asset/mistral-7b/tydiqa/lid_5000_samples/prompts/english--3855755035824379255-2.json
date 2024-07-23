@@ -1,0 +1,15 @@
+[
+    [
+        1417,
+        [],
+        "21,000m (69,000ft) or more"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Towering cumulonimbus clouds are typically accompanied by smaller cumulus clouds. The cumulonimbus base may extend several miles across and occupy low to middle altitudes - formed at altitude from approximately 200 to 4,000m (700 to 10,000ft).   Peaks typically reach to as much as 12,000m (39,000ft), with extreme instances as high as 21,000m (69,000ft) or more.[2]   Well-developed cumulonimbus clouds are characterized by a flat, anvil-like top (anvil dome), caused by wind shear or inversion near the tropopause. The shelf of the anvil may precede the main cloud's vertical component for many miles, and be accompanied by lightning. Occasionally, rising air parcels surpass the equilibrium level (due to momentum) and form an overshooting top culminating at the maximum parcel level. When vertically developed, this largest of all clouds usually extends through all three cloud regions.  Even the smallest cumulonimbus cloud dwarfs its neighbors in comparison. Question: How high can clouds reach in the atmosphere? Answer:",
+    {
+        "id": "english--3855755035824379255-2",
+        "lang": "english",
+        "summary": "Towering cumulonimbus clouds are typically accompanied by smaller cumulus clouds. The cumulonimbus base may extend several miles across and occupy low to middle altitudes - formed at altitude from approximately 200 to 4,000m (700 to 10,000ft).   Peaks typically reach to as much as 12,000m (39,000ft), with extreme instances as high as 21,000m (69,000ft) or more.[2]   Well-developed cumulonimbus clouds are characterized by a flat, anvil-like top (anvil dome), caused by wind shear or inversion near the tropopause. The shelf of the anvil may precede the main cloud's vertical component for many miles, and be accompanied by lightning. Occasionally, rising air parcels surpass the equilibrium level (due to momentum) and form an overshooting top culminating at the maximum parcel level. When vertically developed, this largest of all clouds usually extends through all three cloud regions.  Even the smallest cumulonimbus cloud dwarfs its neighbors in comparison.",
+        "question": "How high can clouds reach in the atmosphere?",
+        "label": "21,000m (69,000ft) or more"
+    }
+]

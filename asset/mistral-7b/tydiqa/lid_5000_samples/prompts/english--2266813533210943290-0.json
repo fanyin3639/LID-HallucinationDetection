@@ -1,0 +1,15 @@
+[
+    [
+        162,
+        [],
+        "China"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Citrus \u00d7 meyeri, the Meyer lemon, is a hybrid citrus fruit native to China. It is a cross between a citron and a mandarin/pomelo hybrid distinct from the common or bitter oranges.[1] Question: Where is the Meyer lemon from? Answer:",
+    {
+        "id": "english--2266813533210943290-0",
+        "lang": "english",
+        "summary": "Citrus \u00d7 meyeri, the Meyer lemon, is a hybrid citrus fruit native to China. It is a cross between a citron and a mandarin/pomelo hybrid distinct from the common or bitter oranges.[1]",
+        "question": "Where is the Meyer lemon from?",
+        "label": "China"
+    }
+]

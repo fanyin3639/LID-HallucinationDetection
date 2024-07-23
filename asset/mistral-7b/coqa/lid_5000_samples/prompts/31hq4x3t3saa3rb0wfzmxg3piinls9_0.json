@@ -1,0 +1,19 @@
+[
+    [
+        705,
+        [],
+        "Two"
+    ],
+    "Answer the following questions:\nContext: One day Billy and Sandy went to the neighborhood fair. They were so exited because this year Bob the clown was going to be there. They had heard a lot about Bob the clown, he was funny and knew a lot of balloon tricks. He always made the kids laugh and gave out small prizes to many of the children at the fair. Billy and Sandy had even heard that sometimes Bob the clown would give out free cotton candy and candy apples. They had waited all year and were so excited. They did all their chores and cleaned their rooms so they could go to the fair. When they got to the fair they were so happy to see that Bob the clown was handing out cotton candy and candy apples. Billy and Sandy waited in line and then once it was their turn Billy got a balloon in the shape of a dog and Sandy got a big bag of cotton candy. They were both happy and could not wait to tell their friends all about Bob the clown.\n'Question': How many people went to the fair?\n'Answer: '",
+    {
+        "id": "31hq4x3t3saa3rb0wfzmxg3piinls9_0",
+        "summary": "One day Billy and Sandy went to the neighborhood fair. They were so exited because this year Bob the clown was going to be there. They had heard a lot about Bob the clown, he was funny and knew a lot of balloon tricks. He always made the kids laugh and gave out small prizes to many of the children at the fair. Billy and Sandy had even heard that sometimes Bob the clown would give out free cotton candy and candy apples. They had waited all year and were so excited. They did all their chores and cleaned their rooms so they could go to the fair. When they got to the fair they were so happy to see that Bob the clown was handing out cotton candy and candy apples. Billy and Sandy waited in line and then once it was their turn Billy got a balloon in the shape of a dog and Sandy got a big bag of cotton candy. They were both happy and could not wait to tell their friends all about Bob the clown.",
+        "question": "How many people went to the fair?",
+        "label": "Two",
+        "additional_answers": [
+            "two",
+            "Two",
+            "two"
+        ]
+    }
+]

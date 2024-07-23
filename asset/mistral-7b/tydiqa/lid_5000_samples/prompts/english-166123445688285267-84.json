@@ -1,0 +1,15 @@
+[
+    [
+        1298,
+        [],
+        "a thick dense ice-crystal cloud appears brilliant white with pronounced grey shading because of its greater reflectivity"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The luminance or brightness of a cloud is determined by how light is reflected, scattered, and transmitted by the cloud's particles. Its brightness may also be affected by the presence of haze or photometeors such as halos and rainbows.[112] In the troposphere, dense, deep clouds exhibit a high reflectance (70% to 95%) throughout the visible spectrum. Tiny particles of water are densely packed and sunlight cannot penetrate far into the cloud before it is reflected out, giving a cloud its characteristic white color, especially when viewed from the top.[113] Cloud droplets tend to scatter light efficiently, so that the intensity of the solar radiation decreases with depth into the gases. As a result, the cloud base can vary from a very light to very-dark-grey depending on the cloud's thickness and how much light is being reflected or transmitted back to the observer. High thin tropospheric clouds reflect less light because of the comparatively low concentration of constituent ice crystals or supercooled water droplets which results in a slightly off-white appearance. However, a thick dense ice-crystal cloud appears brilliant white with pronounced grey shading because of its greater reflectivity.[112] Question: Why is are clouds white? Answer:",
+    {
+        "id": "english-166123445688285267-84",
+        "lang": "english",
+        "summary": "The luminance or brightness of a cloud is determined by how light is reflected, scattered, and transmitted by the cloud's particles. Its brightness may also be affected by the presence of haze or photometeors such as halos and rainbows.[112] In the troposphere, dense, deep clouds exhibit a high reflectance (70% to 95%) throughout the visible spectrum. Tiny particles of water are densely packed and sunlight cannot penetrate far into the cloud before it is reflected out, giving a cloud its characteristic white color, especially when viewed from the top.[113] Cloud droplets tend to scatter light efficiently, so that the intensity of the solar radiation decreases with depth into the gases. As a result, the cloud base can vary from a very light to very-dark-grey depending on the cloud's thickness and how much light is being reflected or transmitted back to the observer. High thin tropospheric clouds reflect less light because of the comparatively low concentration of constituent ice crystals or supercooled water droplets which results in a slightly off-white appearance. However, a thick dense ice-crystal cloud appears brilliant white with pronounced grey shading because of its greater reflectivity.[112]",
+        "question": "Why is are clouds white?",
+        "label": "a thick dense ice-crystal cloud appears brilliant white with pronounced grey shading because of its greater reflectivity"
+    }
+]

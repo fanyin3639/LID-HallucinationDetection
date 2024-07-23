@@ -1,0 +1,15 @@
+[
+    [
+        3169,
+        [],
+        "817,488"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Columbia is the capital and second largest city of the U.S. state of South Carolina, with a population estimate of 134,309 as of 2016.[2] The city serves as the county seat of Richland County, and a portion of the city extends into neighboring Lexington County. It is the center of the Columbia metropolitan statistical area, which had a population of 767,598 as of the 2010 United States Census, growing to 817,488 by July 1, 2016, according to 2015 U.S. Census estimates. The name Columbia is a poetic term used for the United States, originating from the name of Christopher Columbus. Question: What's the population of Columbia? Answer:",
+    {
+        "id": "english-3576418658045422556-0",
+        "lang": "english",
+        "summary": "Columbia is the capital and second largest city of the U.S. state of South Carolina, with a population estimate of 134,309 as of 2016.[2] The city serves as the county seat of Richland County, and a portion of the city extends into neighboring Lexington County. It is the center of the Columbia metropolitan statistical area, which had a population of 767,598 as of the 2010 United States Census, growing to 817,488 by July 1, 2016, according to 2015 U.S. Census estimates. The name Columbia is a poetic term used for the United States, originating from the name of Christopher Columbus.",
+        "question": "What's the population of Columbia?",
+        "label": "817,488"
+    }
+]

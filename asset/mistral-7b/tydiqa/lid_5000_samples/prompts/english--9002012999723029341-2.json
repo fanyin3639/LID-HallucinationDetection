@@ -1,0 +1,15 @@
+[
+    [
+        1688,
+        [],
+        "1492"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Hispaniola is the site of the first permanent European settlement in the Americas, founded by Christopher Columbus on his voyages in 1492 and 1493.[5][6] Question: When did Hispaniola become settled? Answer:",
+    {
+        "id": "english--9002012999723029341-2",
+        "lang": "english",
+        "summary": "Hispaniola is the site of the first permanent European settlement in the Americas, founded by Christopher Columbus on his voyages in 1492 and 1493.[5][6]",
+        "question": "When did Hispaniola become settled?",
+        "label": "1492"
+    }
+]

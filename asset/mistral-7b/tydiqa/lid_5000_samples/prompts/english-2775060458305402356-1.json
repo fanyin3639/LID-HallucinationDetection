@@ -1,0 +1,15 @@
+[
+    [
+        1940,
+        [],
+        "Collingwood"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The premiership was decided by a full replay on 2 October 2010. It was attended by 93,853 people. Collingwood defeated St Kilda by 56 points, marking Collingwood's fifteenth VFL/AFL premiership victory and their first since 1990.[1] It was the last grand final to be replayed prior to the introduction of extra time.[2] Question: Who won the 2010 AFL Grand Final? Answer:",
+    {
+        "id": "english-2775060458305402356-1",
+        "lang": "english",
+        "summary": "The premiership was decided by a full replay on 2 October 2010. It was attended by 93,853 people. Collingwood defeated St Kilda by 56 points, marking Collingwood's fifteenth VFL/AFL premiership victory and their first since 1990.[1] It was the last grand final to be replayed prior to the introduction of extra time.[2]",
+        "question": "Who won the 2010 AFL Grand Final?",
+        "label": "Collingwood"
+    }
+]

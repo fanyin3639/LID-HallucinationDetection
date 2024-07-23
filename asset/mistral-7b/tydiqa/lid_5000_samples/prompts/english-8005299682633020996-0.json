@@ -1,0 +1,15 @@
+[
+    [
+        2040,
+        [],
+        "1453"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Hundred Years' War was a series of conflicts waged from 1337 to 1453 by the House of Plantagenet, rulers of the Kingdom of England, against the French House of Valois, over the right to rule the Kingdom of France. Each side drew many allies into the war. It was one of the most notable conflicts of the Middle Ages, in which five generations of kings from two rival dynasties fought for the throne of the largest kingdom in Western Europe. The war marked both the height of chivalry and its subsequent decline, and the development of strong national identities in both countries. Question: When did the Hundred Years' War end? Answer:",
+    {
+        "id": "english-8005299682633020996-0",
+        "lang": "english",
+        "summary": "The Hundred Years' War was a series of conflicts waged from 1337 to 1453 by the House of Plantagenet, rulers of the Kingdom of England, against the French House of Valois, over the right to rule the Kingdom of France. Each side drew many allies into the war. It was one of the most notable conflicts of the Middle Ages, in which five generations of kings from two rival dynasties fought for the throne of the largest kingdom in Western Europe. The war marked both the height of chivalry and its subsequent decline, and the development of strong national identities in both countries.",
+        "question": "When did the Hundred Years' War end?",
+        "label": "1453"
+    }
+]

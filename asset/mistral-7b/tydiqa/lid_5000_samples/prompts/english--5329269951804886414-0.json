@@ -1,0 +1,15 @@
+[
+    [
+        965,
+        [],
+        "U.S. Highway 20"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: U.S. Highway 20 (US20) is an east\u2013west United States highway that stretches from the Pacific Northwest all the way to New England. The \"0\" in its route number indicates that US20 is a coast-to-coast route. Spanning 3,365 miles (5,415km), it is the longest road in the United States,[1] and particularly from Newport, Oregon  to Boston, Massachusetts, the route is roughly parallel to that of the newer Interstate 90 (I-90), which is in turn the longest Interstate Highway in the U.S. There is a discontinuity in the official designation of US20 through Yellowstone National Park, with unnumbered roads used to traverse the park. Question: What's the longest highway in America? Answer:",
+    {
+        "id": "english--5329269951804886414-0",
+        "lang": "english",
+        "summary": "U.S. Highway 20 (US20) is an east\u2013west United States highway that stretches from the Pacific Northwest all the way to New England. The \"0\" in its route number indicates that US20 is a coast-to-coast route. Spanning 3,365 miles (5,415km), it is the longest road in the United States,[1] and particularly from Newport, Oregon  to Boston, Massachusetts, the route is roughly parallel to that of the newer Interstate 90 (I-90), which is in turn the longest Interstate Highway in the U.S. There is a discontinuity in the official designation of US20 through Yellowstone National Park, with unnumbered roads used to traverse the park.",
+        "question": "What's the longest highway in America?",
+        "label": "U.S. Highway 20"
+    }
+]

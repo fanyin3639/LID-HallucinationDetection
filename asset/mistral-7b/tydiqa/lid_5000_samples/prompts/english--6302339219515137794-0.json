@@ -1,0 +1,15 @@
+[
+    [
+        2714,
+        [],
+        "Indian subcontinent and Southeast Asia"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Asian elephant (Elephas maximus), also called Asiatic elephant, is the only living species of the genus Elephas and is distributed in the Indian subcontinent and Southeast Asia, from India and Nepal in the west to Borneo in the south. Three subspecies are recognised\u2014E. m. maximus from Sri Lanka, E. m. indicus from mainland Asia and E. m. sumatranus from the island of Sumatra.[3] The Asian elephant is the largest living land animal in Asia.[4] Question: Where do Asian elephants live? Answer:",
+    {
+        "id": "english--6302339219515137794-0",
+        "lang": "english",
+        "summary": "The Asian elephant (Elephas maximus), also called Asiatic elephant, is the only living species of the genus Elephas and is distributed in the Indian subcontinent and Southeast Asia, from India and Nepal in the west to Borneo in the south. Three subspecies are recognised\u2014E. m. maximus from Sri Lanka, E. m. indicus from mainland Asia and E. m. sumatranus from the island of Sumatra.[3] The Asian elephant is the largest living land animal in Asia.[4]",
+        "question": "Where do Asian elephants live?",
+        "label": "Indian subcontinent and Southeast Asia"
+    }
+]

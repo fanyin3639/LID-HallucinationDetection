@@ -1,0 +1,15 @@
+[
+    [
+        2499,
+        [],
+        "June 19, 1910"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Father's Day was founded in Spokane, Washington at the YMCA in 1910 by Sonora Smart Dodd, who was born in Arkansas.[4] Its first celebration was in the Spokane YMCA on June 19, 1910.[4][5] Her father, the Civil War veteran William Jackson Smart, was a single parent who raised his six children there.[4] After hearing a sermon about Jarvis' Mother's Day at Central Methodist Episcopal Church in 1909, she told her pastor that fathers should have a similar holiday honoring them.[4][6] Although she initially suggested June 5, her father's birthday, the pastors did not have enough time to prepare their sermons, and the celebration was deferred to the third Sunday of June.[7][8] Question: When was Father's Day first celebrated in America? Answer:",
+    {
+        "id": "english-8222596586158795857-2",
+        "lang": "english",
+        "summary": "Father's Day was founded in Spokane, Washington at the YMCA in 1910 by Sonora Smart Dodd, who was born in Arkansas.[4] Its first celebration was in the Spokane YMCA on June 19, 1910.[4][5] Her father, the Civil War veteran William Jackson Smart, was a single parent who raised his six children there.[4] After hearing a sermon about Jarvis' Mother's Day at Central Methodist Episcopal Church in 1909, she told her pastor that fathers should have a similar holiday honoring them.[4][6] Although she initially suggested June 5, her father's birthday, the pastors did not have enough time to prepare their sermons, and the celebration was deferred to the third Sunday of June.[7][8]",
+        "question": "When was Father's Day first celebrated in America?",
+        "label": "June 19, 1910"
+    }
+]

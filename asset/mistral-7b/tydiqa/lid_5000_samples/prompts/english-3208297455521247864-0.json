@@ -1,0 +1,15 @@
+[
+    [
+        2029,
+        [],
+        "1970s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Catopsbaatar is a genus of multituberculate, an extinct order of rodent-like mammals. It lived in what is now Mongolia during the late Campanian age of the Late Cretaceous Period, about 72 million years ago. The first fossils were collected in the early 1970s, and the animal was named as a new species of the genus Djadochtatherium  in 1974, D. catopsaloides. The specific name refers to the animal's similarity to the genus Catopsalis. The species was moved to the genus Catopsalis in 1979, and received its own genus (Catopsbaatar, Greek and Mongolian for \"visible hero\") in 1994. Five skulls, one molar, and one skeleton with a skull are known; the latter is the genus' most complete specimen. Catopsbaatar was a member of the family Djadochtatheriidae. Question: When was evidence of the Catopsbaatar first found? Answer:",
+    {
+        "id": "english-3208297455521247864-0",
+        "lang": "english",
+        "summary": "Catopsbaatar is a genus of multituberculate, an extinct order of rodent-like mammals. It lived in what is now Mongolia during the late Campanian age of the Late Cretaceous Period, about 72 million years ago. The first fossils were collected in the early 1970s, and the animal was named as a new species of the genus Djadochtatherium  in 1974, D. catopsaloides. The specific name refers to the animal's similarity to the genus Catopsalis. The species was moved to the genus Catopsalis in 1979, and received its own genus (Catopsbaatar, Greek and Mongolian for \"visible hero\") in 1994. Five skulls, one molar, and one skeleton with a skull are known; the latter is the genus' most complete specimen. Catopsbaatar was a member of the family Djadochtatheriidae.",
+        "question": "When was evidence of the Catopsbaatar first found?",
+        "label": "1970s"
+    }
+]

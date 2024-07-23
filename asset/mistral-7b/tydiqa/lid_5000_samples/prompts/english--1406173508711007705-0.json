@@ -1,0 +1,15 @@
+[
+    [
+        1014,
+        [],
+        "1953"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Korean conflict is an ongoing conflict based on the division of Korea between North Korea (Democratic People's Republic of Korea) and South Korea (Republic of Korea), both of which claim to be the sole legitimate government of all of Korea.  During the Cold War, North Korea was backed by the Soviet Union, the People's Republic of China and their communist allies, while South Korea was backed by the United States and its Western allies. The division of Korea by external powers occurred at the end of World War II, starting in 1945, and tensions erupted into the Korean War, which lasted from 1950 to 1953.  When the war ended, both countries were devastated, with utter destruction of much of the countries, but the division remained. North and South Korea continued a military standoff, with periodic clashes. The conflict survived the collapse of the Eastern Bloc of 1989 to 1991 and continues to this day. Question: When did the Korean War end? Answer:",
+    {
+        "id": "english--1406173508711007705-0",
+        "lang": "english",
+        "summary": "The Korean conflict is an ongoing conflict based on the division of Korea between North Korea (Democratic People's Republic of Korea) and South Korea (Republic of Korea), both of which claim to be the sole legitimate government of all of Korea.  During the Cold War, North Korea was backed by the Soviet Union, the People's Republic of China and their communist allies, while South Korea was backed by the United States and its Western allies. The division of Korea by external powers occurred at the end of World War II, starting in 1945, and tensions erupted into the Korean War, which lasted from 1950 to 1953.  When the war ended, both countries were devastated, with utter destruction of much of the countries, but the division remained. North and South Korea continued a military standoff, with periodic clashes. The conflict survived the collapse of the Eastern Bloc of 1989 to 1991 and continues to this day.",
+        "question": "When did the Korean War end?",
+        "label": "1953"
+    }
+]

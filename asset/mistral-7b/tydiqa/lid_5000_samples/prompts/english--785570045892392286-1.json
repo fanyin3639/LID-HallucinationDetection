@@ -1,0 +1,15 @@
+[
+    [
+        222,
+        [],
+        "The company was founded in 1916"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The company was founded in 1916 and has its headquarters in Munich, Bavaria. BMW produces motor vehicles in Germany, Brazil, China, India, South Africa, the United Kingdom, and the United States. In 2015, BMW was the world's twelfth largest producer of motor vehicles, with 2,279,503 vehicles produced.[2] The Quandt family are long-term shareholders of the company, with the remaining shares owned by public float. Question: How old is BMW? Answer:",
+    {
+        "id": "english--785570045892392286-1",
+        "lang": "english",
+        "summary": "The company was founded in 1916 and has its headquarters in Munich, Bavaria. BMW produces motor vehicles in Germany, Brazil, China, India, South Africa, the United Kingdom, and the United States. In 2015, BMW was the world's twelfth largest producer of motor vehicles, with 2,279,503 vehicles produced.[2] The Quandt family are long-term shareholders of the company, with the remaining shares owned by public float.",
+        "question": "How old is BMW?",
+        "label": "The company was founded in 1916"
+    }
+]

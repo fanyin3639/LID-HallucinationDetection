@@ -1,0 +1,14 @@
+[
+    [
+        1571,
+        [],
+        "The first inflatable space home will be launched on Friday, 8 April."
+    ],
+    "Write a short summary for the following passage:\n1 April 2016 Last updated at 07:11 BST\nThe Bigelow Expandable Activity Module, or Beam for short, is headed for the International Space Station.\nIt looks like a giant pillow and, when fully inflated in space, it will be large enough to hold a car.\nAstronauts will test the module, which is designed by Nasa and Bigelow Aerospace, for two years to see how it holds up.\nSummary:\n",
+    {
+        "id": 1571,
+        "document": "1 April 2016 Last updated at 07:11 BST\nThe Bigelow Expandable Activity Module, or Beam for short, is headed for the International Space Station.\nIt looks like a giant pillow and, when fully inflated in space, it will be large enough to hold a car.\nAstronauts will test the module, which is designed by Nasa and Bigelow Aerospace, for two years to see how it holds up.",
+        "summary": "The first inflatable space home will be launched on Friday, 8 April.",
+        "label": "The first inflatable space home will be launched on Friday, 8 April."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        1830,
+        [],
+        "Fiji is braced for the arrival of Tropical Cyclone Winston, a category five storm expected to bring huge waves and destructive winds of up to 320 km/h (200 mph)."
+    ],
+    "Write a short summary for the following passage:\nWinston is forecast to hit the capital, Suva, late on Saturday.\nThe Fijian Red Cross has put emergency response teams on standby across the country, the New Zealand Herald says.\nThe government has compared the storm to Cyclone Pam, which devastated Vanuatu last year.\nEvacuation centres for residents were reported to have opened in the eastern Lau island chain on Friday.\nThe storm had been expected to move through the islands overnight Friday and into Saturday.\nHeavy rainfall of between 200-400mm (7.9-15.7 inches) is expected.\nCyclone Winston earlier passed through Tonga's northern Vava'u island as a category four storm, but caused less damage than had been expected, Australia's ABC says.\nSeveral days ago Winston had passed eastwards through the same islands as a category two storm, before reversing course and heading back westwards.\nSummary:\n",
+    {
+        "id": 1830,
+        "document": "Winston is forecast to hit the capital, Suva, late on Saturday.\nThe Fijian Red Cross has put emergency response teams on standby across the country, the New Zealand Herald says.\nThe government has compared the storm to Cyclone Pam, which devastated Vanuatu last year.\nEvacuation centres for residents were reported to have opened in the eastern Lau island chain on Friday.\nThe storm had been expected to move through the islands overnight Friday and into Saturday.\nHeavy rainfall of between 200-400mm (7.9-15.7 inches) is expected.\nCyclone Winston earlier passed through Tonga's northern Vava'u island as a category four storm, but caused less damage than had been expected, Australia's ABC says.\nSeveral days ago Winston had passed eastwards through the same islands as a category two storm, before reversing course and heading back westwards.",
+        "summary": "Fiji is braced for the arrival of Tropical Cyclone Winston, a category five storm expected to bring huge waves and destructive winds of up to 320 km/h (200 mph).",
+        "label": "Fiji is braced for the arrival of Tropical Cyclone Winston, a category five storm expected to bring huge waves and destructive winds of up to 320 km/h (200 mph)."
+    }
+]

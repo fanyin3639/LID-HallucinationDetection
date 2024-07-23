@@ -1,0 +1,15 @@
+[
+    [
+        1195,
+        [],
+        "the only qualification for membership being a high IQ"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Roland Berrill, an Australian barrister, and Dr. Lancelot Ware, a British scientist and lawyer, founded Mensa at Lincoln College, in Oxford, England, in 1946. They had the idea of forming a society for very intelligent people, the only qualification for membership being a high IQ.[6] It was ostensibly to be non-political and free from all other social distinctions (racial, religious, etc.).[10] Question: How do you get into MENSA? Answer:",
+    {
+        "id": "english-455003289342775977-1",
+        "lang": "english",
+        "summary": "Roland Berrill, an Australian barrister, and Dr. Lancelot Ware, a British scientist and lawyer, founded Mensa at Lincoln College, in Oxford, England, in 1946. They had the idea of forming a society for very intelligent people, the only qualification for membership being a high IQ.[6] It was ostensibly to be non-political and free from all other social distinctions (racial, religious, etc.).[10]",
+        "question": "How do you get into MENSA?",
+        "label": "the only qualification for membership being a high IQ"
+    }
+]

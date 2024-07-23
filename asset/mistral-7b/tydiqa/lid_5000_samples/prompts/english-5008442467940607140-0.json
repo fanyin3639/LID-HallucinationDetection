@@ -1,0 +1,15 @@
+[
+    [
+        3122,
+        [],
+        "Boston Red Sox Radio Network"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Boston Red Sox Radio Network consists of 61 stations (39 A.M., 22 F.M. and 7 F.M. translators) in the 6 New England states, along with New Mexico, New York, and Wyoming.[1]  The primary English-language announcers are Joe Castiglione and Tim Neverett, who alternate play-by-play and color commentary.[2] In 2015, Rob Bradford and Lou Merloni  filled in for former announcer Dave O'Brien when he called Monday Night Baseball for ESPN.[3] Mike Mutnansky serves as pre- and post-game host. Question: Which Boston radio station broadcasts the Red Sox games? Answer:",
+    {
+        "id": "english-5008442467940607140-0",
+        "lang": "english",
+        "summary": "The Boston Red Sox Radio Network consists of 61 stations (39 A.M., 22 F.M. and 7 F.M. translators) in the 6 New England states, along with New Mexico, New York, and Wyoming.[1]  The primary English-language announcers are Joe Castiglione and Tim Neverett, who alternate play-by-play and color commentary.[2] In 2015, Rob Bradford and Lou Merloni  filled in for former announcer Dave O'Brien when he called Monday Night Baseball for ESPN.[3] Mike Mutnansky serves as pre- and post-game host.",
+        "question": "Which Boston radio station broadcasts the Red Sox games?",
+        "label": "Boston Red Sox Radio Network"
+    }
+]

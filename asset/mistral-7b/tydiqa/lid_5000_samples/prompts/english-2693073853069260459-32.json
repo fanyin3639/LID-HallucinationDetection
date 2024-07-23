@@ -1,0 +1,15 @@
+[
+    [
+        1620,
+        [],
+        "Antibiotics"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Antibiotics to combat the streptococcal infection are the mainstay of treatment for scarlet fever. Prompt administration of appropriate antibiotics decreases the length of illness. Peeling of the outer layer of skin, however, will happen despite treatment.[7] One of the main goals of treatment is to prevent the child from developing one of the suppurative or nonsuppurative complications, especially acute rheumatic fever.[16] As long as antibiotics are started within 9 days, it is very unlikely for the child to develop acute rheumatic fever.[13] Antibiotic therapy has not been shown to prevent the development of poststreptococcal glomerulonephritis.[14][7] Another important reason for prompt treatment with antibiotics is the ability to prevent transmission of the infection between children. An infected individual is most likely to pass on the infection to another person during the first 2 weeks.[18] A child is no longer contagious (able to pass the infection to another child) after 24 hours of antibiotics.[13] Question: How do you cure Scarlet fever? Answer:",
+    {
+        "id": "english-2693073853069260459-32",
+        "lang": "english",
+        "summary": "Antibiotics to combat the streptococcal infection are the mainstay of treatment for scarlet fever. Prompt administration of appropriate antibiotics decreases the length of illness. Peeling of the outer layer of skin, however, will happen despite treatment.[7] One of the main goals of treatment is to prevent the child from developing one of the suppurative or nonsuppurative complications, especially acute rheumatic fever.[16] As long as antibiotics are started within 9 days, it is very unlikely for the child to develop acute rheumatic fever.[13] Antibiotic therapy has not been shown to prevent the development of poststreptococcal glomerulonephritis.[14][7] Another important reason for prompt treatment with antibiotics is the ability to prevent transmission of the infection between children. An infected individual is most likely to pass on the infection to another person during the first 2 weeks.[18] A child is no longer contagious (able to pass the infection to another child) after 24 hours of antibiotics.[13]",
+        "question": "How do you cure Scarlet fever?",
+        "label": "Antibiotics"
+    }
+]

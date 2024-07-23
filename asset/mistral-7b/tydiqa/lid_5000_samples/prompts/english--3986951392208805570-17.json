@@ -1,0 +1,15 @@
+[
+    [
+        821,
+        [],
+        "Connie Francis Sings Italian Favorites"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Following another idea from her father, Francis traveled to London in August 1959[7] to record an Italian album at EMI's famous Abbey Road Studios.[6] Entitled Connie Francis Sings Italian Favorites, the album was released in November 1959. It soon entered the album charts where it remained for 81 weeks, peaking at number 4. To this day, it is still Francis' most successful album. \"Mama,\" the single taken from the album, reached number 8 in the United States and number 2 in the United Kingdom.[9] Question: What was Connie Francis' first album? Answer:",
+    {
+        "id": "english--3986951392208805570-17",
+        "lang": "english",
+        "summary": "Following another idea from her father, Francis traveled to London in August 1959[7] to record an Italian album at EMI's famous Abbey Road Studios.[6] Entitled Connie Francis Sings Italian Favorites, the album was released in November 1959. It soon entered the album charts where it remained for 81 weeks, peaking at number 4. To this day, it is still Francis' most successful album. \"Mama,\" the single taken from the album, reached number 8 in the United States and number 2 in the United Kingdom.[9]",
+        "question": "What was Connie Francis' first album?",
+        "label": "Connie Francis Sings Italian Favorites"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        760,
+        [],
+        "Rogan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Martin Rogan and David Dolan met in the final each boasting unbeaten records of 9-0. Rogan won after three rounds of boxing in which Dolan had been knocked down twice.[3] Dolan was possibly still feeling the effects of a gruelling first round fight in which a punishing left hook from Darren Morgan had him out on his feet and holding on.[4] Question: Who won the first Prizefighter series? Answer:",
+    {
+        "id": "english--4777318446958090370-2",
+        "lang": "english",
+        "summary": "Martin Rogan and David Dolan met in the final each boasting unbeaten records of 9-0. Rogan won after three rounds of boxing in which Dolan had been knocked down twice.[3] Dolan was possibly still feeling the effects of a gruelling first round fight in which a punishing left hook from Darren Morgan had him out on his feet and holding on.[4]",
+        "question": "Who won the first Prizefighter series?",
+        "label": "Rogan"
+    }
+]

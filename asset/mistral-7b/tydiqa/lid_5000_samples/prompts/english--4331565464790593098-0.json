@@ -1,0 +1,15 @@
+[
+    [
+        106,
+        [],
+        "United States"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Tornadoes have been recorded on all continents except Antarctica and are most common in the middle latitudes where conditions are often favorable for convective storm development.[1] The United States has the most tornadoes of any country, as well as the strongest and most violent tornadoes. A large portion of these tornadoes form in an area of the central United States popularly known as Tornado Alley.[2] Other areas of the world that have frequent tornadoes include significant portions of Europe, South Africa, Philippines, Bangladesh, parts of Argentina, Uruguay, and southern and southeast Brazil, northern Mexico, New Zealand, and far eastern Asia.[3][4] Question: What country has the most tornados? Answer:",
+    {
+        "id": "english--4331565464790593098-0",
+        "lang": "english",
+        "summary": "Tornadoes have been recorded on all continents except Antarctica and are most common in the middle latitudes where conditions are often favorable for convective storm development.[1] The United States has the most tornadoes of any country, as well as the strongest and most violent tornadoes. A large portion of these tornadoes form in an area of the central United States popularly known as Tornado Alley.[2] Other areas of the world that have frequent tornadoes include significant portions of Europe, South Africa, Philippines, Bangladesh, parts of Argentina, Uruguay, and southern and southeast Brazil, northern Mexico, New Zealand, and far eastern Asia.[3][4]",
+        "question": "What country has the most tornados?",
+        "label": "United States"
+    }
+]

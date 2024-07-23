@@ -1,0 +1,15 @@
+[
+    [
+        2225,
+        [],
+        "106,460,000 square kilometers (41,100,000 square miles)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Atlantic Ocean is the second largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).[2][3] It covers approximately 20 percent of the Earth's surface and about 29 percent of its water surface area. It separates the \"Old World\" from the \"New World\". Question: How large is Atlantic Ocean? Answer:",
+    {
+        "id": "english--4574135004498803786-0",
+        "lang": "english",
+        "summary": "The Atlantic Ocean is the second largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).[2][3] It covers approximately 20 percent of the Earth's surface and about 29 percent of its water surface area. It separates the \"Old World\" from the \"New World\".",
+        "question": "How large is Atlantic Ocean?",
+        "label": "106,460,000 square kilometers (41,100,000 square miles)"
+    }
+]

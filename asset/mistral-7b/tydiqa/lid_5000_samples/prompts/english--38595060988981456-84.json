@@ -1,0 +1,15 @@
+[
+    [
+        2222,
+        [],
+        "George III"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Not only that, Austria now found herself estranged with the new developments within the empire itself. Beside the rise of Prussia, Augustus III, although ineffective, could muster an army not only from Saxony, but also Poland, since he was also the King of Poland as well as Elector of Saxony. Bavaria's growing power and independence was also apparent as it asserted more control on the deployment of its army, and managed to disengage from the war at its own will. Most importantly, with the now belligerent Hanover united personally under George III of Great Britain, It amassed a considerable power, and even brought Britain in, on future conflicts. This power dynamic was important to the future and the latter conflicts of the Reich. The war also proved that Maria Theresa's reforms were still insufficient to compete with Prussia: unlike its enemy, the Austrians were almost bankrupt at the end of war. Hence, she dedicated the next two decades to the consolidation of her administration. Question: Who was King of England during the Seven Years' War? Answer:",
+    {
+        "id": "english--38595060988981456-84",
+        "lang": "english",
+        "summary": "Not only that, Austria now found herself estranged with the new developments within the empire itself. Beside the rise of Prussia, Augustus III, although ineffective, could muster an army not only from Saxony, but also Poland, since he was also the King of Poland as well as Elector of Saxony. Bavaria's growing power and independence was also apparent as it asserted more control on the deployment of its army, and managed to disengage from the war at its own will. Most importantly, with the now belligerent Hanover united personally under George III of Great Britain, It amassed a considerable power, and even brought Britain in, on future conflicts. This power dynamic was important to the future and the latter conflicts of the Reich. The war also proved that Maria Theresa's reforms were still insufficient to compete with Prussia: unlike its enemy, the Austrians were almost bankrupt at the end of war. Hence, she dedicated the next two decades to the consolidation of her administration.",
+        "question": "Who was King of England during the Seven Years' War?",
+        "label": "George III"
+    }
+]

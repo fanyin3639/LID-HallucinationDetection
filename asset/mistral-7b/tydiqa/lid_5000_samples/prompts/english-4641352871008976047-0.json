@@ -1,0 +1,15 @@
+[
+    [
+        1637,
+        [],
+        "Okanagan Valley region of British Columbia, Canada"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lake Country is a district municipality with a population of approximately 13,000 in the Okanagan Valley region of British Columbia, Canada. It is a part of the Central Okanagan Regional District, and of the Kelowna metropolitan area. The city of Kelowna lies to the south, while the city of Vernon lies to the north. As its name suggests, there are a number of lakes in the vicinity of Lake Country, and outside the municipal boundaries in the hills to the east. Okanagan Lake defines the western boundary of the municipality, while the entirety of Wood Lake and the southernmost portion of Kalamalka Lake are encompassed by it. Question: Where is Lake Country? Answer:",
+    {
+        "id": "english-4641352871008976047-0",
+        "lang": "english",
+        "summary": "Lake Country is a district municipality with a population of approximately 13,000 in the Okanagan Valley region of British Columbia, Canada. It is a part of the Central Okanagan Regional District, and of the Kelowna metropolitan area. The city of Kelowna lies to the south, while the city of Vernon lies to the north. As its name suggests, there are a number of lakes in the vicinity of Lake Country, and outside the municipal boundaries in the hills to the east. Okanagan Lake defines the western boundary of the municipality, while the entirety of Wood Lake and the southernmost portion of Kalamalka Lake are encompassed by it.",
+        "question": "Where is Lake Country?",
+        "label": "Okanagan Valley region of British Columbia, Canada"
+    }
+]

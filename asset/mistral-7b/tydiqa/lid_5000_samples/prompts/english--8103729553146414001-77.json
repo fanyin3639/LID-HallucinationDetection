@@ -1,0 +1,15 @@
+[
+    [
+        2061,
+        [],
+        "November 1966"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: He died in San Diego in early November 1966, and was buried in Greenwood Memorial Park, as was his wife Freda in 1988. He had had no children.  At his request, his tombstone was headed with his ring name, Abe the Newsboy, the name used almost exclusively by the newspapers that covered his boxing and wrestling career. Question: When did Abe \"The Newsboy\" Hollandersky die? Answer:",
+    {
+        "id": "english--8103729553146414001-77",
+        "lang": "english",
+        "summary": "He died in San Diego in early November 1966, and was buried in Greenwood Memorial Park, as was his wife Freda in 1988. He had had no children.  At his request, his tombstone was headed with his ring name, Abe the Newsboy, the name used almost exclusively by the newspapers that covered his boxing and wrestling career.",
+        "question": "When did Abe \"The Newsboy\" Hollandersky die?",
+        "label": "November 1966"
+    }
+]

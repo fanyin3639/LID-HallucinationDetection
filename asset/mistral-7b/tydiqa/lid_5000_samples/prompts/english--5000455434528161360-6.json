@@ -1,0 +1,15 @@
+[
+    [
+        1566,
+        [],
+        "pork and shellfish"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Certain foods, notably pork and shellfish, are forbidden; meat and dairy may not be combined, and meat must be ritually slaughtered and salted to remove all traces of blood. Question: What foods are Jews not allowed to eat? Answer:",
+    {
+        "id": "english--5000455434528161360-6",
+        "lang": "english",
+        "summary": "Certain foods, notably pork and shellfish, are forbidden; meat and dairy may not be combined, and meat must be ritually slaughtered and salted to remove all traces of blood.",
+        "question": "What foods are Jews not allowed to eat?",
+        "label": "pork and shellfish"
+    }
+]

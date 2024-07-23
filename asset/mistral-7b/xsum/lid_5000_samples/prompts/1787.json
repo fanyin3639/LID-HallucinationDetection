@@ -1,0 +1,14 @@
+[
+    [
+        1787,
+        [],
+        "Patrick Reed takes a one-shot lead into the final round of the Wells Fargo Championship in North Carolina after a five-under-par 67 on Saturday."
+    ],
+    "Write a short summary for the following passage:\nThe American, chasing a sixth PGA Tour title, leads on eight under from Alex Noren of Sweden and Spain's Jon Rahm.\nAmerican world number one Dustin Johnson, playing his first event since pulling out of the Masters on the first tee with an injury, also shot a 67.\nJohnson is four under and one of 18 players within four shots of the lead.\nHe is joined by major winners Graeme McDowell of Northern Ireland and fellow American Phil Mickelson on that mark.\nReed, who saw a 30-foot eagle putt on the last hit the edge of the hole and spin out, said: \"It was the calmest of the three days, the scores are a lot lower and it seemed easier out there.\"\nItaly's Francesco Molinari, who began round three with a one-shot lead after completing his second round on Saturday morning, hit a second successive level-par 72 to remain on six under.\nSummary:\n",
+    {
+        "id": 1787,
+        "document": "The American, chasing a sixth PGA Tour title, leads on eight under from Alex Noren of Sweden and Spain's Jon Rahm.\nAmerican world number one Dustin Johnson, playing his first event since pulling out of the Masters on the first tee with an injury, also shot a 67.\nJohnson is four under and one of 18 players within four shots of the lead.\nHe is joined by major winners Graeme McDowell of Northern Ireland and fellow American Phil Mickelson on that mark.\nReed, who saw a 30-foot eagle putt on the last hit the edge of the hole and spin out, said: \"It was the calmest of the three days, the scores are a lot lower and it seemed easier out there.\"\nItaly's Francesco Molinari, who began round three with a one-shot lead after completing his second round on Saturday morning, hit a second successive level-par 72 to remain on six under.",
+        "summary": "Patrick Reed takes a one-shot lead into the final round of the Wells Fargo Championship in North Carolina after a five-under-par 67 on Saturday.",
+        "label": "Patrick Reed takes a one-shot lead into the final round of the Wells Fargo Championship in North Carolina after a five-under-par 67 on Saturday."
+    }
+]

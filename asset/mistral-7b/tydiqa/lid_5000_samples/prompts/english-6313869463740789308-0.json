@@ -1,0 +1,15 @@
+[
+    [
+        2371,
+        [],
+        "Crown colony"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Colony of New Zealand was a British colony that existed in New Zealand from 1841 to 1907, created as a Crown colony. The power of the British Government was vested in a governor, but the colony was granted self-government in 1852. The 1852 Constitution was inaugurated after the first parliament was elected in 1853, and the first government of New Zealand was formed in 1856. The Colony of New Zealand had three capitals: Old Russell (1841), Auckland (1841\u20131865), and Wellington (after 1865). In 1907, the colony became the Dominion of New Zealand with a more explicit recognition of self-government within the British Empire. Question: What kind of colony was New Zealand? Answer:",
+    {
+        "id": "english-6313869463740789308-0",
+        "lang": "english",
+        "summary": "The Colony of New Zealand was a British colony that existed in New Zealand from 1841 to 1907, created as a Crown colony. The power of the British Government was vested in a governor, but the colony was granted self-government in 1852. The 1852 Constitution was inaugurated after the first parliament was elected in 1853, and the first government of New Zealand was formed in 1856. The Colony of New Zealand had three capitals: Old Russell (1841), Auckland (1841\u20131865), and Wellington (after 1865). In 1907, the colony became the Dominion of New Zealand with a more explicit recognition of self-government within the British Empire.",
+        "question": "What kind of colony was New Zealand?",
+        "label": "Crown colony"
+    }
+]

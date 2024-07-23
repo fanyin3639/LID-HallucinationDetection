@@ -1,0 +1,15 @@
+[
+    [
+        2381,
+        [],
+        "The Amazonian is thought to have begun around 3 billion years ago, although error bars on this date are extremely large (~500 million years).[3] The period is sometimes subdivided into the Early, Middle, and Late Amazonian. The Amazonian continues to the present day"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Amazonian is a geologic system and time period on the planet Mars characterized by low rates of meteorite and asteroid impacts and by cold, hyperarid conditions broadly similar to those on Mars today.[1][2] The transition from the preceding Hesperian period is somewhat poorly defined. The Amazonian is thought to have begun around 3 billion years ago, although error bars on this date are extremely large (~500 million years).[3] The period is sometimes subdivided into the Early, Middle, and Late Amazonian. The Amazonian continues to the present day. Question: When was the Amazonian period? Answer:",
+    {
+        "id": "english--4081615803008141073-0",
+        "lang": "english",
+        "summary": "The Amazonian is a geologic system and time period on the planet Mars characterized by low rates of meteorite and asteroid impacts and by cold, hyperarid conditions broadly similar to those on Mars today.[1][2] The transition from the preceding Hesperian period is somewhat poorly defined. The Amazonian is thought to have begun around 3 billion years ago, although error bars on this date are extremely large (~500 million years).[3] The period is sometimes subdivided into the Early, Middle, and Late Amazonian. The Amazonian continues to the present day.",
+        "question": "When was the Amazonian period?",
+        "label": "The Amazonian is thought to have begun around 3 billion years ago, although error bars on this date are extremely large (~500 million years).[3] The period is sometimes subdivided into the Early, Middle, and Late Amazonian. The Amazonian continues to the present day"
+    }
+]

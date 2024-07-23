@@ -1,0 +1,15 @@
+[
+    [
+        1060,
+        [],
+        "game structured around shooting"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A third-person shooter is a game structured around shooting,[1] and in which the player can see the avatar on-screen in a third-person view.[1][2] Third-person shooter is a game where instead of seeing the games through the main character\u2019s eyes, you see the main character moving and shooting in the game and the game is specifically focused on shooting.[3] Question: What was the first third person shooter? Answer:",
+    {
+        "id": "english--9174928377713688611-2",
+        "lang": "english",
+        "summary": "A third-person shooter is a game structured around shooting,[1] and in which the player can see the avatar on-screen in a third-person view.[1][2] Third-person shooter is a game where instead of seeing the games through the main character\u2019s eyes, you see the main character moving and shooting in the game and the game is specifically focused on shooting.[3]",
+        "question": "What was the first third person shooter?",
+        "label": "game structured around shooting"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1155,
+        [],
+        "David Wolstencroft"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The programme was created by writer David Wolstencroft, and produced by Kudos for the BBC. A trademark style, coupled with the series' popularity, attracted a large number of high-profile guest stars. These included Martine McCutcheon, Hugh Laurie, Haluk Bilginer, Robert Hardy, Tim McInnerny, Bruce Payne, Reece Dinsdale, Ian McDiarmid, Ewen Bremner, Jimi Mistry, Andy Serkis, Benedict Cumberbatch, Kevin McNally, Rupert Graves, Andrew Tiernan, Anton Lesser, Anupam Kher, Alexander Siddig, and Anthony Head. Question: Who created the TV show Spooks? Answer:",
+    {
+        "id": "english--921067866108227718-33",
+        "lang": "english",
+        "summary": "The programme was created by writer David Wolstencroft, and produced by Kudos for the BBC. A trademark style, coupled with the series' popularity, attracted a large number of high-profile guest stars. These included Martine McCutcheon, Hugh Laurie, Haluk Bilginer, Robert Hardy, Tim McInnerny, Bruce Payne, Reece Dinsdale, Ian McDiarmid, Ewen Bremner, Jimi Mistry, Andy Serkis, Benedict Cumberbatch, Kevin McNally, Rupert Graves, Andrew Tiernan, Anton Lesser, Anupam Kher, Alexander Siddig, and Anthony Head.",
+        "question": "Who created the TV show Spooks?",
+        "label": "David Wolstencroft"
+    }
+]

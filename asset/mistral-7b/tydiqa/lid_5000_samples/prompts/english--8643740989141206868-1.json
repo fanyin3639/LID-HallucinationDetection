@@ -1,0 +1,15 @@
+[
+    [
+        274,
+        [],
+        "2012"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1977, the team returned to New Jersey and played as the New Jersey Nets from 1977 to 2012. During this time, the Nets won two consecutive Eastern Conference championships (in the 2001\u201302 and 2002\u201303 seasons), but failed to win a league title. In the summer of 2012, the team moved to Barclays Center, and took its current geographic name.[10] Question: When did the Brooklyn Nets move to Brooklyn? Answer:",
+    {
+        "id": "english--8643740989141206868-1",
+        "lang": "english",
+        "summary": "In 1977, the team returned to New Jersey and played as the New Jersey Nets from 1977 to 2012. During this time, the Nets won two consecutive Eastern Conference championships (in the 2001\u201302 and 2002\u201303 seasons), but failed to win a league title. In the summer of 2012, the team moved to Barclays Center, and took its current geographic name.[10]",
+        "question": "When did the Brooklyn Nets move to Brooklyn?",
+        "label": "2012"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2148,
+        [],
+        "SS Ancon"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: SS Ancon was an American cargo and passenger ship that became the first ship to officially transit the Panama Canal in 1914. The ship was built as Shawmut for the Boston Steamship Company by the Maryland Steel Company, Sparrows Point, Maryland and put into Pacific service operating out of Puget Sound ports for Japan, China and the Philippine Islands. Shawmut and sister ship Tremont were two of the largest United States commercial ships in service at the time and the company eventually found them too expensive to operate. Question: What was the first vessel to cross the Panama Canal? Answer:",
+    {
+        "id": "english--4866795965201604405-0",
+        "lang": "english",
+        "summary": "SS Ancon was an American cargo and passenger ship that became the first ship to officially transit the Panama Canal in 1914. The ship was built as Shawmut for the Boston Steamship Company by the Maryland Steel Company, Sparrows Point, Maryland and put into Pacific service operating out of Puget Sound ports for Japan, China and the Philippine Islands. Shawmut and sister ship Tremont were two of the largest United States commercial ships in service at the time and the company eventually found them too expensive to operate.",
+        "question": "What was the first vessel to cross the Panama Canal?",
+        "label": "SS Ancon"
+    }
+]

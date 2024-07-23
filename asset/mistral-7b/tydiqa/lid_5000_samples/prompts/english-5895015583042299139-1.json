@@ -1,0 +1,15 @@
+[
+    [
+        1972,
+        [],
+        "Korea"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Taekwondo was developed during the 1940s and 1950s by Korean martial artists with experience in martial arts such as karate, Chinese martial arts, and indigenous Korean martial arts traditions such as Taekkyeon, Subak, and Gwonbeop.[4][5] The oldest governing body for taekwondo is the Korea Taekwondo Association (KTA), formed in 1959 through a collaborative effort by representatives from the nine original kwans, or martial arts schools, in Korea. The main international organisational bodies for taekwondo today are the International Taekwon-Do Federation (ITF), founded by Choi Hong Hi in 1966, and the partnership of the Kukkiwon and World Taekwondo (WT, formerly WTF), founded in 1972 and 1973 respectively by the Korea Taekwondo Association. Gyeorugi ([kj\u028c\u027eu\u0261i]), a type of full-contact sparring, has been an Olympic event since 2000.  The governing body for taekwondo in the Olympics and Paralympics is World Taekwondo. Question: Where is Taekwondo from? Answer:",
+    {
+        "id": "english-5895015583042299139-1",
+        "lang": "english",
+        "summary": "Taekwondo was developed during the 1940s and 1950s by Korean martial artists with experience in martial arts such as karate, Chinese martial arts, and indigenous Korean martial arts traditions such as Taekkyeon, Subak, and Gwonbeop.[4][5] The oldest governing body for taekwondo is the Korea Taekwondo Association (KTA), formed in 1959 through a collaborative effort by representatives from the nine original kwans, or martial arts schools, in Korea. The main international organisational bodies for taekwondo today are the International Taekwon-Do Federation (ITF), founded by Choi Hong Hi in 1966, and the partnership of the Kukkiwon and World Taekwondo (WT, formerly WTF), founded in 1972 and 1973 respectively by the Korea Taekwondo Association. Gyeorugi ([kj\u028c\u027eu\u0261i]), a type of full-contact sparring, has been an Olympic event since 2000.  The governing body for taekwondo in the Olympics and Paralympics is World Taekwondo.",
+        "question": "Where is Taekwondo from?",
+        "label": "Korea"
+    }
+]

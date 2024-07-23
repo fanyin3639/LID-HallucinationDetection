@@ -1,0 +1,15 @@
+[
+    [
+        982,
+        [],
+        "1888"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Scheherazade, also commonly Sheherazade (Russian:\u0428\u0435\u0445\u0435\u0440\u0430\u0437\u0430\u0301\u0434\u0430, tr.Shekheraz\u00e1da,IPA:[\u0282\u0268x\u02b2\u026ar\u0250\u02c8zad\u0259]), Op. 35, is a symphonic suite composed by Nikolai Rimsky-Korsakov in 1888 and based on One Thousand and One Nights (also known as The Arabian Nights).[1] Question: When was Scheherezade composed by Rimsky-Korsakov? Answer:",
+    {
+        "id": "english-9057454405980269515-0",
+        "lang": "english",
+        "summary": "Scheherazade, also commonly Sheherazade (Russian:\u0428\u0435\u0445\u0435\u0440\u0430\u0437\u0430\u0301\u0434\u0430, tr.Shekheraz\u00e1da,IPA:[\u0282\u0268x\u02b2\u026ar\u0250\u02c8zad\u0259]), Op. 35, is a symphonic suite composed by Nikolai Rimsky-Korsakov in 1888 and based on One Thousand and One Nights (also known as The Arabian Nights).[1]",
+        "question": "When was Scheherezade composed by Rimsky-Korsakov?",
+        "label": "1888"
+    }
+]

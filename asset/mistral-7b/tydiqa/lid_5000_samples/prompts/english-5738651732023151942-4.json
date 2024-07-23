@@ -1,0 +1,15 @@
+[
+    [
+        1667,
+        [],
+        "lightning"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The B&B Complex Fires occurred in August and September 2003 in the central Cascades, west of Sisters, Oregon.  The fire complex began as two separate wildfires; both were caused by lightning striking in early August.  The Bear Butte Fire started at the north end of the Mount Jefferson Wilderness area (), approximately 25 miles (40km) northwest of Sisters.  It was reported by a helicopter crew from Warm Springs on 19 August at 1309 PDT.  The Booth Fire started near Henkel Butte (), about 15 miles (24km) west of Sisters.  It was reported by the Henkel Butte Lookout the same day at 1523 PDT.  The next day, the fire suppression efforts on these two fires were consolidated because of their size and proximity, creating the B&B Complex Fires.[1][3][4][5] Question: What started the B&B Complex fires? Answer:",
+    {
+        "id": "english-5738651732023151942-4",
+        "lang": "english",
+        "summary": "The B&B Complex Fires occurred in August and September 2003 in the central Cascades, west of Sisters, Oregon.  The fire complex began as two separate wildfires; both were caused by lightning striking in early August.  The Bear Butte Fire started at the north end of the Mount Jefferson Wilderness area (), approximately 25 miles (40km) northwest of Sisters.  It was reported by a helicopter crew from Warm Springs on 19 August at 1309 PDT.  The Booth Fire started near Henkel Butte (), about 15 miles (24km) west of Sisters.  It was reported by the Henkel Butte Lookout the same day at 1523 PDT.  The next day, the fire suppression efforts on these two fires were consolidated because of their size and proximity, creating the B&B Complex Fires.[1][3][4][5]",
+        "question": "What started the B&B Complex fires?",
+        "label": "lightning"
+    }
+]

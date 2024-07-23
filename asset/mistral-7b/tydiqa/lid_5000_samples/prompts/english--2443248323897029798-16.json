@@ -1,0 +1,15 @@
+[
+    [
+        1545,
+        [],
+        "1894"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: During the challenge cup period, none of the leagues that played for the trophy had a formal playoff system to decide their respective champions; whichever team finished in first place after the regular season won the league title. However, in 1894, four teams out of the five-team AHAC tied for the championship with records of 5\u20133\u20130. The AHAC had no tie-breaking system. After extensive negotiations and Quebec's withdrawal from the championship competition, it was decided that a three-team tournament would take place in Montreal, with the Ottawa team receiving a bye to the final because they were the only road team. On March 17, in the first ever Stanley Cup playoff game, the Montreal Hockey Club (Montreal HC) defeated the Montreal Victorias, 3\u20132. Five days later, in the first Stanley Cup Final game, Montreal HC beat the Ottawa Hockey Club 3\u20131.[21][22] Question: When was the Stanley Cup hockey championship first played? Answer:",
+    {
+        "id": "english--2443248323897029798-16",
+        "lang": "english",
+        "summary": "During the challenge cup period, none of the leagues that played for the trophy had a formal playoff system to decide their respective champions; whichever team finished in first place after the regular season won the league title. However, in 1894, four teams out of the five-team AHAC tied for the championship with records of 5\u20133\u20130. The AHAC had no tie-breaking system. After extensive negotiations and Quebec's withdrawal from the championship competition, it was decided that a three-team tournament would take place in Montreal, with the Ottawa team receiving a bye to the final because they were the only road team. On March 17, in the first ever Stanley Cup playoff game, the Montreal Hockey Club (Montreal HC) defeated the Montreal Victorias, 3\u20132. Five days later, in the first Stanley Cup Final game, Montreal HC beat the Ottawa Hockey Club 3\u20131.[21][22]",
+        "question": "When was the Stanley Cup hockey championship first played?",
+        "label": "1894"
+    }
+]

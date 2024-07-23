@@ -1,0 +1,19 @@
+[
+    [
+        1602,
+        [],
+        "no"
+    ],
+    "Answer the following questions:\nContext: Last week when I was sitting in my office,I heard an elderly lady talking on the phone about her husband.Her husband's name was Ed.He dropped her off for her doctor's appointment and was going to park the car and wait for her.She was so upset that she started to cry.I knew I should take action. The lady told me her name was Helen and she called the restaurant she and her husband were going to have lunch at after her appointment to see if he was waiting for her there.She explained that she thought her husband parked the car in the parking lot and waited for her in the car but she didn't find him there so she returned to see if he entered the medical building,but Ed was not there either.She regretted making her husband park the car alone since some signs of Alzheimer's had happened in his behavior.I asked a few nurses to help look for Ed inside and outside the medical building according to Helen's description.Then I offered to drive Helen to the restaurant to see if Ed was waiting for her there. On arriving at the parking lot of the restaurant,Helen began to search for Ed's car but she failed,which suggested Ed wasn't there.We decided to have a talk with the manager before we returned to the hospital.On our way to the manager's office.I received a call from a nurse,who said they had found Ed.What a relief! But we still needed to go on searching since he forgot where he parked his car! Fortunately, we didn't have much difficulty finding it. As I waved good-bye to the couple, I thought \"This is true love in life.The love is not romantic but it stays with us all the time.\"\n'Question': Did he have a good memory?\n'Answer: '",
+    {
+        "id": "3amw0rghod23ezytgbb7f3230k7pn8_9",
+        "summary": "Last week when I was sitting in my office,I heard an elderly lady talking on the phone about her husband.Her husband's name was Ed.He dropped her off for her doctor's appointment and was going to park the car and wait for her.She was so upset that she started to cry.I knew I should take action. The lady told me her name was Helen and she called the restaurant she and her husband were going to have lunch at after her appointment to see if he was waiting for her there.She explained that she thought her husband parked the car in the parking lot and waited for her in the car but she didn't find him there so she returned to see if he entered the medical building,but Ed was not there either.She regretted making her husband park the car alone since some signs of Alzheimer's had happened in his behavior.I asked a few nurses to help look for Ed inside and outside the medical building according to Helen's description.Then I offered to drive Helen to the restaurant to see if Ed was waiting for her there. On arriving at the parking lot of the restaurant,Helen began to search for Ed's car but she failed,which suggested Ed wasn't there.We decided to have a talk with the manager before we returned to the hospital.On our way to the manager's office.I received a call from a nurse,who said they had found Ed.What a relief! But we still needed to go on searching since he forgot where he parked his car! Fortunately, we didn't have much difficulty finding it. As I waved good-bye to the couple, I thought \"This is true love in life.The love is not romantic but it stays with us all the time.\"",
+        "question": "Did he have a good memory?",
+        "label": "no",
+        "additional_answers": [
+            "no",
+            "no",
+            "no"
+        ]
+    }
+]

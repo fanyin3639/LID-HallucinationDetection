@@ -1,0 +1,15 @@
+[
+    [
+        978,
+        [],
+        "pain management, hair growth, skin treatments, and accelerated wound healing"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Since then a large array of treatments using controlled light have been developed. Though the popular consumer understanding of \"light therapy\" is associated with treating seasonal affective disorder, circadian rhythm disorders and skin conditions like psoriasis, other applications include the use of low level laser, red light, near-infrared and ultraviolet lights for pain management, hair growth, skin treatments, and accelerated wound healing. Question: How is infrared light used in therapy? Answer:",
+    {
+        "id": "english--1031378542726190723-32",
+        "lang": "english",
+        "summary": "Since then a large array of treatments using controlled light have been developed. Though the popular consumer understanding of \"light therapy\" is associated with treating seasonal affective disorder, circadian rhythm disorders and skin conditions like psoriasis, other applications include the use of low level laser, red light, near-infrared and ultraviolet lights for pain management, hair growth, skin treatments, and accelerated wound healing.",
+        "question": "How is infrared light used in therapy?",
+        "label": "pain management, hair growth, skin treatments, and accelerated wound healing"
+    }
+]

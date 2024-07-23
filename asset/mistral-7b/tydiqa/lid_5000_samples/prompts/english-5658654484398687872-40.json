@@ -1,0 +1,15 @@
+[
+    [
+        2444,
+        [],
+        "William P. \"Bill\" Lyons"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1990 Esber proposed a merger with Borland. During the first discussions, the board backed out and dismissed Esber thinking him crazy to entertain a merger of equals (combining the companies at existing market valuations) with the smaller competitor Borland, and on February 11, 1991 replaced him as CEO with William P. \"Bill\" Lyons. Lyons had been hired to run the non-dBASE business and heretofore had been unsuccessful. Lyons would ship dBASE IV 1.1, a product Esber managed and was already in beta when let go. Question: Who is the CEO of Ashton-Tate? Answer:",
+    {
+        "id": "english-5658654484398687872-40",
+        "lang": "english",
+        "summary": "In 1990 Esber proposed a merger with Borland. During the first discussions, the board backed out and dismissed Esber thinking him crazy to entertain a merger of equals (combining the companies at existing market valuations) with the smaller competitor Borland, and on February 11, 1991 replaced him as CEO with William P. \"Bill\" Lyons. Lyons had been hired to run the non-dBASE business and heretofore had been unsuccessful. Lyons would ship dBASE IV 1.1, a product Esber managed and was already in beta when let go.",
+        "question": "Who is the CEO of Ashton-Tate?",
+        "label": "William P. \"Bill\" Lyons"
+    }
+]

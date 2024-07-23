@@ -1,0 +1,15 @@
+[
+    [
+        2887,
+        [],
+        "Panzerkampfwagen VIII Maus"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Panzerkampfwagen VIII Maus (\"Mouse\") was a German World War II super-heavy tank completed in late 1944. It is the heaviest fully enclosed armoured fighting vehicle ever built. Five were ordered, but only two hulls and one turret were completed before the testing grounds were captured by advancing Soviet military forces. Question: What was the largest tank in history? Answer:",
+    {
+        "id": "english--1410232106218415754-0",
+        "lang": "english",
+        "summary": "Panzerkampfwagen VIII Maus (\"Mouse\") was a German World War II super-heavy tank completed in late 1944. It is the heaviest fully enclosed armoured fighting vehicle ever built. Five were ordered, but only two hulls and one turret were completed before the testing grounds were captured by advancing Soviet military forces.",
+        "question": "What was the largest tank in history?",
+        "label": "Panzerkampfwagen VIII Maus"
+    }
+]

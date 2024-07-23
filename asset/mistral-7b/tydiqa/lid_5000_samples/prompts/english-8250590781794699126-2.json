@@ -1,0 +1,15 @@
+[
+    [
+        966,
+        [],
+        "January 23, 1789"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of Georgetown University traces back to two formative events, in 1634 and 1789. Until 1851, the school used 1788, the start of construction on the Old South building, as its founding date. In that year a copy-edit in the college catalog began mislabeling the construction as beginning in 1789. This was discovered in preparation for the centennial celebration in 1889, at which point rather than correct the annual, the date of Georgetown's foundation was fixed to the date January 23, 1789.[3] Question: When was Georgetown University founded? Answer:",
+    {
+        "id": "english-8250590781794699126-2",
+        "lang": "english",
+        "summary": "The history of Georgetown University traces back to two formative events, in 1634 and 1789. Until 1851, the school used 1788, the start of construction on the Old South building, as its founding date. In that year a copy-edit in the college catalog began mislabeling the construction as beginning in 1789. This was discovered in preparation for the centennial celebration in 1889, at which point rather than correct the annual, the date of Georgetown's foundation was fixed to the date January 23, 1789.[3]",
+        "question": "When was Georgetown University founded?",
+        "label": "January 23, 1789"
+    }
+]

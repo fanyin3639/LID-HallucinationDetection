@@ -1,0 +1,15 @@
+[
+    [
+        289,
+        [],
+        "1400"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Beacham outfitted his theater with innovative state-of-the art equipment from the Southern Theater Equipment Company of Atlanta.[19]  The Beacham's box office in the lobby featured both an automatic admission ticket vending machine dispenser and ticket chopping machine.  A decorative marquee that was unique in Florida extended toward the street and featured an electric changeable sign that flashed the daily program.[18]  Two Powers 6B type \"E\" projectors were supplied by the N Power company of New York.  The Midas Gold film screen was made especially for the Beacham. A medium-sized pipe organ from the Austin Organ Company of Hartford, Connecticut, was purchased and installed at a cost of $15,000.[18]  The organ, Opus 1034 with 3 manuals in a center console, 24 ranks of pipes and 24 stops[20]  was played by both Mr. Herman Stuart and Mrs. Roberta Branch Beacham, wife of Braxton Beacham Jr. to accompany silent films and vaudeville acts.[18]  Typhoon cooling and ventilating equipment was installed in the theater.  The Beacham Building's construction featured numerous fireproofing and fire safety measures.  When the theater opened, the auditorium had an operating capacity of 1400.[18] Question: How many people can Beacham Theatre hold? Answer:",
+    {
+        "id": "english-7723195289500717598-5",
+        "lang": "english",
+        "summary": "Beacham outfitted his theater with innovative state-of-the art equipment from the Southern Theater Equipment Company of Atlanta.[19]  The Beacham's box office in the lobby featured both an automatic admission ticket vending machine dispenser and ticket chopping machine.  A decorative marquee that was unique in Florida extended toward the street and featured an electric changeable sign that flashed the daily program.[18]  Two Powers 6B type \"E\" projectors were supplied by the N Power company of New York.  The Midas Gold film screen was made especially for the Beacham. A medium-sized pipe organ from the Austin Organ Company of Hartford, Connecticut, was purchased and installed at a cost of $15,000.[18]  The organ, Opus 1034 with 3 manuals in a center console, 24 ranks of pipes and 24 stops[20]  was played by both Mr. Herman Stuart and Mrs. Roberta Branch Beacham, wife of Braxton Beacham Jr. to accompany silent films and vaudeville acts.[18]  Typhoon cooling and ventilating equipment was installed in the theater.  The Beacham Building's construction featured numerous fireproofing and fire safety measures.  When the theater opened, the auditorium had an operating capacity of 1400.[18]",
+        "question": "How many people can Beacham Theatre hold?",
+        "label": "1400"
+    }
+]

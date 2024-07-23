@@ -1,0 +1,19 @@
+[
+    [
+        684,
+        [],
+        "the Coppa Del Duce"
+    ],
+    "Answer the following questions:\nContext: London, England (CNN) -- \"Some people believe football is a matter of life and death... I assure you it is much, much more important than that.\" \n\nAs Bill Shankly, the legendary former manager of English club Liverpool, pointed out shortly before he passed away in 1981, the significance of the beautiful game can never be underestimated -- and that doesn't just apply to fans of the sport, either. \n\nSoccer can affect lives on a national and international scale, inspiring revolutions and causing wars as well as having the capability to create peace and lift entire nations. \n\nThe \"Football War\" between Honduras and El Salvador in 1969 is perhaps the most famous example of the sport's wider implications. The two Central American nations famously came to blows following their qualification match for the 1970 World Cup. \n\nPedro Pinto's World Cup predictions \n\nBut this wasn't the first time, and definitely won't be the last, that the worlds of football and politics collide with remarkable results. \n\n1. Mussolini manipulates the \"man in black,\" 1934 \n\n\"Il Duce\" was determined to use this World Cup on home soil to showcase his fascist Italy. Mussolini had his own trophy created for the event -- the Coppa Del Duce -- which was six times the size of the Jules Rimet, and to this day allegations remain the tournament was fixed so that only Italy would collect it. \n\nAccording to the BBC's \"World Cup Stories\" book by Chris Hunt, there were suggestions that the Italian dictator himself picked the referees. In the semifinal against Austria, Mussolini's Azzurri team won 2-1, but after the game their opponents complained the game was fixed. \n'Question': What was it called?\n'Answer: '",
+    {
+        "id": "34v1s5k3gs1afrcu05ttr2g20qg690_16",
+        "summary": "London, England (CNN) -- \"Some people believe football is a matter of life and death... I assure you it is much, much more important than that.\" \n\nAs Bill Shankly, the legendary former manager of English club Liverpool, pointed out shortly before he passed away in 1981, the significance of the beautiful game can never be underestimated -- and that doesn't just apply to fans of the sport, either. \n\nSoccer can affect lives on a national and international scale, inspiring revolutions and causing wars as well as having the capability to create peace and lift entire nations. \n\nThe \"Football War\" between Honduras and El Salvador in 1969 is perhaps the most famous example of the sport's wider implications. The two Central American nations famously came to blows following their qualification match for the 1970 World Cup. \n\nPedro Pinto's World Cup predictions \n\nBut this wasn't the first time, and definitely won't be the last, that the worlds of football and politics collide with remarkable results. \n\n1. Mussolini manipulates the \"man in black,\" 1934 \n\n\"Il Duce\" was determined to use this World Cup on home soil to showcase his fascist Italy. Mussolini had his own trophy created for the event -- the Coppa Del Duce -- which was six times the size of the Jules Rimet, and to this day allegations remain the tournament was fixed so that only Italy would collect it. \n\nAccording to the BBC's \"World Cup Stories\" book by Chris Hunt, there were suggestions that the Italian dictator himself picked the referees. In the semifinal against Austria, Mussolini's Azzurri team won 2-1, but after the game their opponents complained the game was fixed. ",
+        "question": "What was it called?",
+        "label": "the Coppa Del Duce",
+        "additional_answers": [
+            "the Coppa Del Duce",
+            "the Coppa Del Duce",
+            "the Coppa Del Duce"
+        ]
+    }
+]

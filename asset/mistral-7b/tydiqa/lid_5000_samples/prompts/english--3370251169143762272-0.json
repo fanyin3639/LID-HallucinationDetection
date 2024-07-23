@@ -1,0 +1,15 @@
+[
+    [
+        1572,
+        [],
+        "is the recreational pastime of exploring wild (generally non-commercial) cave systems"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Caving \u2013  also traditionally known as spelunking in the United States and Canada and potholing in the United Kingdom and Ireland \u2013 is the recreational pastime of exploring wild (generally non-commercial) cave systems. In contrast, speleology is the scientific study of caves and the cave environment.[1] Question: What is splunking? Answer:",
+    {
+        "id": "english--3370251169143762272-0",
+        "lang": "english",
+        "summary": "Caving \u2013  also traditionally known as spelunking in the United States and Canada and potholing in the United Kingdom and Ireland \u2013 is the recreational pastime of exploring wild (generally non-commercial) cave systems. In contrast, speleology is the scientific study of caves and the cave environment.[1]",
+        "question": "What is splunking?",
+        "label": "is the recreational pastime of exploring wild (generally non-commercial) cave systems"
+    }
+]

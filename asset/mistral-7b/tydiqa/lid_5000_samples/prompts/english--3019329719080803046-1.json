@@ -1,0 +1,15 @@
+[
+    [
+        2304,
+        [],
+        "shorter than a novel"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A novella is a text of written, fictional, narrative prose normally longer than a short story but shorter than a novel, somewhere between 17,500 and 40,000 words. Question: Why are novella's not novels? Answer:",
+    {
+        "id": "english--3019329719080803046-1",
+        "lang": "english",
+        "summary": "A novella is a text of written, fictional, narrative prose normally longer than a short story but shorter than a novel, somewhere between 17,500 and 40,000 words.",
+        "question": "Why are novella's not novels?",
+        "label": "shorter than a novel"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1109,
+        [],
+        "white smoke"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The color of the smoke indicates the results to the people assembled in St Peter's Square. Dark smoke (fumata nera) indicates that the ballot did not result in an election, while white smoke (fumata bianca) announces that a new pope was chosen.[90] Originally, in the event a pope was not elected, damp straw was added to the fire to create dark smoke. In the event a new pope was elected, the ballots were burned alone, creating white smoke. Question: What color is the smoke when a new pope is elected? Answer:",
+    {
+        "id": "english--339198176327552882-55",
+        "lang": "english",
+        "summary": "The color of the smoke indicates the results to the people assembled in St Peter's Square. Dark smoke (fumata nera) indicates that the ballot did not result in an election, while white smoke (fumata bianca) announces that a new pope was chosen.[90] Originally, in the event a pope was not elected, damp straw was added to the fire to create dark smoke. In the event a new pope was elected, the ballots were burned alone, creating white smoke.",
+        "question": "What color is the smoke when a new pope is elected?",
+        "label": "white smoke"
+    }
+]

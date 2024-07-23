@@ -1,0 +1,15 @@
+[
+    [
+        1141,
+        [],
+        "1701\u20131714"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The War of the Spanish Succession (1701\u20131714) was a European conflict of the early 18th century, triggered by the death of the childless Charles II of Spain in November 1700. His closest heirs were members of the Austrian Habsburg and French Bourbon families; acquisition of an undivided Spanish Empire by either threatened the European balance of power. Question: How long did the War of Succession last in Spain? Answer:",
+    {
+        "id": "english--3223801206571203277-0",
+        "lang": "english",
+        "summary": "The War of the Spanish Succession (1701\u20131714) was a European conflict of the early 18th century, triggered by the death of the childless Charles II of Spain in November 1700. His closest heirs were members of the Austrian Habsburg and French Bourbon families; acquisition of an undivided Spanish Empire by either threatened the European balance of power.",
+        "question": "How long did the War of Succession last in Spain?",
+        "label": "1701\u20131714"
+    }
+]

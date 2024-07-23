@@ -1,0 +1,15 @@
+[
+    [
+        2659,
+        [],
+        "limited liability company"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A limited liability company (LLC) is the US-specific form of a private limited company. It is a business structure that can combine the pass-through taxation of a partnership or sole proprietorship with the limited liability of a corporation.[1][2] An LLC is not a corporation in and of itself; it is a legal form of a company that provides limited liability to its owners in many jurisdictions. LLCs are well known for the flexibility that they provide to business owners; depending on the situation, an LLC may elect to use corporate tax rules instead of being treated as a partnership,[3] and, under certain circumstances, LLCs may be organized as not-for-profit.[4] In certain U.S. states (for example, Texas), businesses that provide professional services requiring a state professional license, such as legal or medical services, may not be allowed to form an LLC but may be required to form a similar entity called a professional limited liability company (PLLC).[5] Question: What does LLC stand for? Answer:",
+    {
+        "id": "english--413196606895671763-1",
+        "lang": "english",
+        "summary": "A limited liability company (LLC) is the US-specific form of a private limited company. It is a business structure that can combine the pass-through taxation of a partnership or sole proprietorship with the limited liability of a corporation.[1][2] An LLC is not a corporation in and of itself; it is a legal form of a company that provides limited liability to its owners in many jurisdictions. LLCs are well known for the flexibility that they provide to business owners; depending on the situation, an LLC may elect to use corporate tax rules instead of being treated as a partnership,[3] and, under certain circumstances, LLCs may be organized as not-for-profit.[4] In certain U.S. states (for example, Texas), businesses that provide professional services requiring a state professional license, such as legal or medical services, may not be allowed to form an LLC but may be required to form a similar entity called a professional limited liability company (PLLC).[5]",
+        "question": "What does LLC stand for?",
+        "label": "limited liability company"
+    }
+]

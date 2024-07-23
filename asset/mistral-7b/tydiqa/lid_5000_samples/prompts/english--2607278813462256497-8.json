@@ -1,0 +1,15 @@
+[
+    [
+        817,
+        [],
+        "Archimedes"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In Measurement of a Circle written circa 250 BCE, Archimedes showed that this ratio (C/d, since he did not use the name \u03c0) was greater than 310/71 but less than 31/7 by calculating the perimeters of an inscribed and a circumscribed regular polygon of 96 sides.[5] This method for approximating \u03c0 was used for centuries, obtaining more accuracy by using polygons of larger and larger number of sides. The last such calculation was performed in 1630 by Christoph Grienberger who used polygons with 1040 sides. Question: Who developed the formula for a circle's circumference? Answer:",
+    {
+        "id": "english--2607278813462256497-8",
+        "lang": "english",
+        "summary": "In Measurement of a Circle written circa 250 BCE, Archimedes showed that this ratio (C/d, since he did not use the name \u03c0) was greater than 310/71 but less than 31/7 by calculating the perimeters of an inscribed and a circumscribed regular polygon of 96 sides.[5] This method for approximating \u03c0 was used for centuries, obtaining more accuracy by using polygons of larger and larger number of sides. The last such calculation was performed in 1630 by Christoph Grienberger who used polygons with 1040 sides.",
+        "question": "Who developed the formula for a circle's circumference?",
+        "label": "Archimedes"
+    }
+]

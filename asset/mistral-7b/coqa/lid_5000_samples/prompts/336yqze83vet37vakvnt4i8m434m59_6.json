@@ -1,0 +1,19 @@
+[
+    [
+        1452,
+        [],
+        "Yes"
+    ],
+    "Answer the following questions:\nContext: A little boy named Joey did not like to brush his teeth. One day, as his mother asked him to brush his teeth, Joey said, \"I don't want to! It's gross and a waste of time!\" In response, Joey's mom told him that in order for him to grow up and be big and strong like she is, he must brush his teeth. In disgust, with his mom watching to make sure he brushed his teeth right, he brushed his teeth and whined until he was finished. The next day, Joey did not brush his teeth and told his mom that he did. After going to school, one of Joey's friends said that his breath stunk and began to make fun of him. This made Joey very angry, so he pushed the boy over and started to cry. A teacher came over and called the principal as both kids were being loud and starting a fight. Joey's mom came to school and took him home. After asking what was wrong, Joey told his mom that he didn't brush his teeth. After hearing this, his mom marched him up to the bathroom and forced him to brush his teeth. \"You won't get teased if you brush your teeth, Joey!\" she yelled, and then left the room. From that day forward, Joey brushed his teeth every day so the other kids wouldn't make fun of him.\n'Question': Did he tell his mom he did?\n'Answer: '",
+    {
+        "id": "336yqze83vet37vakvnt4i8m434m59_6",
+        "summary": "A little boy named Joey did not like to brush his teeth. One day, as his mother asked him to brush his teeth, Joey said, \"I don't want to! It's gross and a waste of time!\" In response, Joey's mom told him that in order for him to grow up and be big and strong like she is, he must brush his teeth. In disgust, with his mom watching to make sure he brushed his teeth right, he brushed his teeth and whined until he was finished. The next day, Joey did not brush his teeth and told his mom that he did. After going to school, one of Joey's friends said that his breath stunk and began to make fun of him. This made Joey very angry, so he pushed the boy over and started to cry. A teacher came over and called the principal as both kids were being loud and starting a fight. Joey's mom came to school and took him home. After asking what was wrong, Joey told his mom that he didn't brush his teeth. After hearing this, his mom marched him up to the bathroom and forced him to brush his teeth. \"You won't get teased if you brush your teeth, Joey!\" she yelled, and then left the room. From that day forward, Joey brushed his teeth every day so the other kids wouldn't make fun of him.",
+        "question": "Did he tell his mom he did?",
+        "label": "Yes",
+        "additional_answers": [
+            "That he did",
+            "yes",
+            "yes"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1749,
+        [],
+        "74,000km\u00b2 in all, 70,000 in Italy"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Po (/po\u028a/, Italian:[\u02c8p\u0254]; Latin: Padus or \u0112ridanus; Ancient Greek: \u03a0\u03ac\u03b4\u03bf\u03c2, romanized:P\u00e1dos or \u1f28\u03c1\u03b9\u03b4\u03b1\u03bd\u03cc\u03c2, \u0112ridan\u00f3s; Ancient Ligurian: Bodincus or Bodencus) is a river that flows eastward across northern Italy. The Po flows either 652km (405mi) or 682km (424mi) \u2013 considering the length of the Maira, a right bank tributary. The headwaters of the Po are a spring seeping from a stony hillside at Pian del Re, a flat place at the head of the Val Po under the northwest face of Monviso (in the Cottian Alps). The Po ends at a delta projecting into the Adriatic Sea near Venice. It has a drainage area of 74,000km\u00b2 in all, 70,000 in Italy, of which 41,000 is in montane environments and 29,000 on the plain.[2] The Po is the longest river in Italy; at its widest point its width is 503m (1,650ft).[1] The Po extends along the 45th parallel north. Question: How long is the Po river in Italy? Answer:",
+    {
+        "id": "english--7810113479247480311-0",
+        "lang": "english",
+        "summary": "The Po (/po\u028a/, Italian:[\u02c8p\u0254]; Latin: Padus or \u0112ridanus; Ancient Greek: \u03a0\u03ac\u03b4\u03bf\u03c2, romanized:P\u00e1dos or \u1f28\u03c1\u03b9\u03b4\u03b1\u03bd\u03cc\u03c2, \u0112ridan\u00f3s; Ancient Ligurian: Bodincus or Bodencus) is a river that flows eastward across northern Italy. The Po flows either 652km (405mi) or 682km (424mi) \u2013 considering the length of the Maira, a right bank tributary. The headwaters of the Po are a spring seeping from a stony hillside at Pian del Re, a flat place at the head of the Val Po under the northwest face of Monviso (in the Cottian Alps). The Po ends at a delta projecting into the Adriatic Sea near Venice. It has a drainage area of 74,000km\u00b2 in all, 70,000 in Italy, of which 41,000 is in montane environments and 29,000 on the plain.[2] The Po is the longest river in Italy; at its widest point its width is 503m (1,650ft).[1] The Po extends along the 45th parallel north.",
+        "question": "How long is the Po river in Italy?",
+        "label": "74,000km\u00b2 in all, 70,000 in Italy"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        480,
+        [],
+        "Glasgow's Subway system has reopened - more than a week later than planned following a month-long closure for modernisation works."
+    ],
+    "Write a short summary for the following passage:\nThe first inner circle trains departed St Enoch and Ibrox at 06:32.\nServices were suspended on 2 July and had been due to reopen on 1 August.\nSubway operator Strathclyde Partnership for Transport (SPT) apologised for the delay which was caused by flooding and the work taking longer than expected.\nSPT Chief Executive Gordon Maclennan said: \"The Subway is a vital part of the Glasgow transport network and many passengers rely on it daily to get around.\n\"We are very grateful for their patience and support while the works have been on-going.\n\"There has been a mammoth effort by our team for the return to service including an exhaustive testing and clean-up operation of our entire system to ensure we provide passengers with a safe and reliable service.\"\nThe closure enabled essential renewal work in the ramps and turnouts section of the tunnels where the trains enter and exit the Subway system.\nOther work included completion of the Subway station improvements at Buchanan Street and Govan.\nSummary:\n",
+    {
+        "id": 480,
+        "document": "The first inner circle trains departed St Enoch and Ibrox at 06:32.\nServices were suspended on 2 July and had been due to reopen on 1 August.\nSubway operator Strathclyde Partnership for Transport (SPT) apologised for the delay which was caused by flooding and the work taking longer than expected.\nSPT Chief Executive Gordon Maclennan said: \"The Subway is a vital part of the Glasgow transport network and many passengers rely on it daily to get around.\n\"We are very grateful for their patience and support while the works have been on-going.\n\"There has been a mammoth effort by our team for the return to service including an exhaustive testing and clean-up operation of our entire system to ensure we provide passengers with a safe and reliable service.\"\nThe closure enabled essential renewal work in the ramps and turnouts section of the tunnels where the trains enter and exit the Subway system.\nOther work included completion of the Subway station improvements at Buchanan Street and Govan.",
+        "summary": "Glasgow's Subway system has reopened - more than a week later than planned following a month-long closure for modernisation works.",
+        "label": "Glasgow's Subway system has reopened - more than a week later than planned following a month-long closure for modernisation works."
+    }
+]

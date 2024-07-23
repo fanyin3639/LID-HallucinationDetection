@@ -1,0 +1,15 @@
+[
+    [
+        1491,
+        [],
+        "born February 22, 1987"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Han Hyo-joo (born February 22, 1987) is a South Korean film and television actress. She is best known for her leading roles in television drama series: Spring Waltz (2006); Brilliant Legacy (2009);  Dong Yi (2010) and W (2016); as well as the film Cold Eyes (2013), for which she won Best Actress at the 34th Blue Dragon Film Awards, and romance film The Beauty Inside (2015). Question: How old is Han Hyo-joo? Answer:",
+    {
+        "id": "english--8749894271617651625-0",
+        "lang": "english",
+        "summary": "Han Hyo-joo (born February 22, 1987) is a South Korean film and television actress. She is best known for her leading roles in television drama series: Spring Waltz (2006); Brilliant Legacy (2009);  Dong Yi (2010) and W (2016); as well as the film Cold Eyes (2013), for which she won Best Actress at the 34th Blue Dragon Film Awards, and romance film The Beauty Inside (2015).",
+        "question": "How old is Han Hyo-joo?",
+        "label": "born February 22, 1987"
+    }
+]

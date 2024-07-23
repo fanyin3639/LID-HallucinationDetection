@@ -1,0 +1,15 @@
+[
+    [
+        1646,
+        [],
+        "Pale lagers"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pale lagers are the most commonly consumed type of beer in the world. Lagers are of Central European origin, taking their name from the German lagern (\"to store\"), and normally use a bottom-fermenting yeast which begin fermenting at 7\u201312\u00b0C (45\u201354\u00b0F) (the \"fermentation phase\"), and then stored at 0\u20134\u00b0C (32\u201339\u00b0F) (the \"lagering phase\"). During the secondary stage, the lager clears and mellows. The cooler conditions also inhibit the natural production of esters and other byproducts, resulting in a \"crisper\" tasting beer. Question: What is the most common type of beer? Answer:",
+    {
+        "id": "english-8083738785283000341-36",
+        "lang": "english",
+        "summary": "Pale lagers are the most commonly consumed type of beer in the world. Lagers are of Central European origin, taking their name from the German lagern (\"to store\"), and normally use a bottom-fermenting yeast which begin fermenting at 7\u201312\u00b0C (45\u201354\u00b0F) (the \"fermentation phase\"), and then stored at 0\u20134\u00b0C (32\u201339\u00b0F) (the \"lagering phase\"). During the secondary stage, the lager clears and mellows. The cooler conditions also inhibit the natural production of esters and other byproducts, resulting in a \"crisper\" tasting beer.",
+        "question": "What is the most common type of beer?",
+        "label": "Pale lagers"
+    }
+]

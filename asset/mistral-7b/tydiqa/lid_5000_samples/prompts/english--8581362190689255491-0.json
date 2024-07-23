@@ -1,0 +1,15 @@
+[
+    [
+        46,
+        [],
+        "from 58 BC to 50 BC"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Gallic Wars were a series of military campaigns waged by the Roman proconsul Julius Caesar against several Gallic tribes. Rome's war against the Gallic tribes lasted from 58 BC to 50 BC and culminated in the decisive Battle of Alesia in 52 BC, in which a complete Roman victory resulted in the expansion of the Roman Republic over the whole of Gaul (mainly present-day France and Belgium). While militarily just as strong as the Romans, the internal division between the Gallic tribes helped ease victory for Caesar, and Vercingetorix's attempt to unite the Gauls against Roman invasion came too late.[6][7] The wars paved the way for Julius Caesar to become the sole ruler of the Roman Republic. Question: When were the Gallic Wars? Answer:",
+    {
+        "id": "english--8581362190689255491-0",
+        "lang": "english",
+        "summary": "The Gallic Wars were a series of military campaigns waged by the Roman proconsul Julius Caesar against several Gallic tribes. Rome's war against the Gallic tribes lasted from 58 BC to 50 BC and culminated in the decisive Battle of Alesia in 52 BC, in which a complete Roman victory resulted in the expansion of the Roman Republic over the whole of Gaul (mainly present-day France and Belgium). While militarily just as strong as the Romans, the internal division between the Gallic tribes helped ease victory for Caesar, and Vercingetorix's attempt to unite the Gauls against Roman invasion came too late.[6][7] The wars paved the way for Julius Caesar to become the sole ruler of the Roman Republic.",
+        "question": "When were the Gallic Wars?",
+        "label": "from 58 BC to 50 BC"
+    }
+]

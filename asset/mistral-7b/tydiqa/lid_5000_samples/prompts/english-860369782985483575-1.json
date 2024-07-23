@@ -1,0 +1,15 @@
+[
+    [
+        660,
+        [],
+        "1880s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Tango is a popular partner dance and social dance that originated in the 1880s along the River Plate (R\u00edo de Plata), the natural border between Argentina and Uruguay.  It was born in the impoverished port areas of these countries, where natives mixed with slave and European immigrant populations.[2] The tango is the result of a combination of the German Waltz, Czech Polka, Polish Mazurka, and Bohemian Schottische with the Spanish-Cuban Habanera, African Candombe, and Argentinian Milonga.[3] The tango was frequently practiced in the brothels and bars of ports, where business owners employed bands to entertain their patrons with music.[4] The tango then spread to the rest of the world.[5] Many variations of this dance currently exist around the world. Question: When did the Tango dance develop? Answer:",
+    {
+        "id": "english-860369782985483575-1",
+        "lang": "english",
+        "summary": "Tango is a popular partner dance and social dance that originated in the 1880s along the River Plate (R\u00edo de Plata), the natural border between Argentina and Uruguay.  It was born in the impoverished port areas of these countries, where natives mixed with slave and European immigrant populations.[2] The tango is the result of a combination of the German Waltz, Czech Polka, Polish Mazurka, and Bohemian Schottische with the Spanish-Cuban Habanera, African Candombe, and Argentinian Milonga.[3] The tango was frequently practiced in the brothels and bars of ports, where business owners employed bands to entertain their patrons with music.[4] The tango then spread to the rest of the world.[5] Many variations of this dance currently exist around the world.",
+        "question": "When did the Tango dance develop?",
+        "label": "1880s"
+    }
+]

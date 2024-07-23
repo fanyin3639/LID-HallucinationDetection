@@ -1,0 +1,14 @@
+[
+    [
+        1306,
+        [],
+        "A 38-year-old remand prisoner at Maghaberry jail died on Wednesday morning."
+    ],
+    "Write a short summary for the following passage:\nThe man's next of kin have been informed by the prison service but no other details have been released.\nThe PSNI, coroner and Prisoner Ombudsman have begun investigations into the death.\nHead of the Prison Service Ronnie Armour said: \"I would like to extend my sympathy and that of the Prison Service to the family of the man who has died.\n\"My thoughts are with them at this difficult time.\"\nSummary:\n",
+    {
+        "id": 1306,
+        "document": "The man's next of kin have been informed by the prison service but no other details have been released.\nThe PSNI, coroner and Prisoner Ombudsman have begun investigations into the death.\nHead of the Prison Service Ronnie Armour said: \"I would like to extend my sympathy and that of the Prison Service to the family of the man who has died.\n\"My thoughts are with them at this difficult time.\"",
+        "summary": "A 38-year-old remand prisoner at Maghaberry jail died on Wednesday morning.",
+        "label": "A 38-year-old remand prisoner at Maghaberry jail died on Wednesday morning."
+    }
+]

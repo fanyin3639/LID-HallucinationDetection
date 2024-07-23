@@ -1,0 +1,15 @@
+[
+    [
+        2925,
+        [],
+        "blend of teas originating from Assam, Ceylon, and Kenya"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: English breakfast tea is a traditional blend of teas originating from Assam, Ceylon, and Kenya.[1]  It is one of the most popular blended teas, common in British tea culture. Question: What is in the classic English breakfast blend? Answer:",
+    {
+        "id": "english-7347996649749756245-0",
+        "lang": "english",
+        "summary": "English breakfast tea is a traditional blend of teas originating from Assam, Ceylon, and Kenya.[1]  It is one of the most popular blended teas, common in British tea culture.",
+        "question": "What is in the classic English breakfast blend?",
+        "label": "blend of teas originating from Assam, Ceylon, and Kenya"
+    }
+]

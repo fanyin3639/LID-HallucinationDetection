@@ -1,0 +1,15 @@
+[
+    [
+        3055,
+        [],
+        "a variation of reddish brown"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Henna only stains the skin one color, a variation of reddish brown, at full maturity 3 days after application. Question: Are there different colors to henna? Answer:",
+    {
+        "id": "english--7229646041940498853-9",
+        "lang": "english",
+        "summary": "Henna only stains the skin one color, a variation of reddish brown, at full maturity 3 days after application.",
+        "question": "Are there different colors to henna?",
+        "label": "a variation of reddish brown"
+    }
+]

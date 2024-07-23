@@ -1,0 +1,15 @@
+[
+    [
+        1129,
+        [],
+        "seven breed groups"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Kennel Club registration system divides dogs into seven breed groups. The Kennel Club Groups are: Hound, Working, Terrier, Gundog, Pastoral, Utility and Toy. As of 2011, the Kennel Club recognised 210 breeds of dog.[1] This was increased to 211 breeds with the addition of the Turkish Kangal dog in 2013.[2] Question: How many dog breeds are there currently recognized by the Kennel Club? Answer:",
+    {
+        "id": "english-198281141179125119-1",
+        "lang": "english",
+        "summary": "The Kennel Club registration system divides dogs into seven breed groups. The Kennel Club Groups are: Hound, Working, Terrier, Gundog, Pastoral, Utility and Toy. As of 2011, the Kennel Club recognised 210 breeds of dog.[1] This was increased to 211 breeds with the addition of the Turkish Kangal dog in 2013.[2]",
+        "question": "How many dog breeds are there currently recognized by the Kennel Club?",
+        "label": "seven breed groups"
+    }
+]

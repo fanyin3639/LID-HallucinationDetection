@@ -1,0 +1,15 @@
+[
+    [
+        491,
+        [],
+        "Broca's area"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Broca's area or the Broca area /bro\u028a\u02c8k\u0251\u02d0/ or /\u02c8bro\u028ak\u0259/ is a region in the frontal lobe of the dominant hemisphere, usually the left, of the brain[1] with functions linked to speech production. Question: What area of the cortex controls speech? Answer:",
+    {
+        "id": "english--6872864068498683099-0",
+        "lang": "english",
+        "summary": "Broca's area or the Broca area /bro\u028a\u02c8k\u0251\u02d0/ or /\u02c8bro\u028ak\u0259/ is a region in the frontal lobe of the dominant hemisphere, usually the left, of the brain[1] with functions linked to speech production.",
+        "question": "What area of the cortex controls speech?",
+        "label": "Broca's area"
+    }
+]

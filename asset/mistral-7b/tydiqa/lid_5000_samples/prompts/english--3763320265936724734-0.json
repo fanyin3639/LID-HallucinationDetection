@@ -1,0 +1,15 @@
+[
+    [
+        2924,
+        [],
+        "Annapolis"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Maryland State House is located in Annapolis, Maryland and is the oldest U.S. state capitol in continuous legislative use, dating to 1772. It houses the Maryland General Assembly, plus the offices of the Governor and Lieutenant Governor. The capitol has the distinction of being topped by the largest wooden dome in the United States constructed without nails. The current building, which was designated a National Historic Landmark in 1960,[2] is the third statehouse on its site.[3] The building is administered by the State House Trust, established in 1969. Question: What is the capitol of Maryland? Answer:",
+    {
+        "id": "english--3763320265936724734-0",
+        "lang": "english",
+        "summary": "The Maryland State House is located in Annapolis, Maryland and is the oldest U.S. state capitol in continuous legislative use, dating to 1772. It houses the Maryland General Assembly, plus the offices of the Governor and Lieutenant Governor. The capitol has the distinction of being topped by the largest wooden dome in the United States constructed without nails. The current building, which was designated a National Historic Landmark in 1960,[2] is the third statehouse on its site.[3] The building is administered by the State House Trust, established in 1969.",
+        "question": "What is the capitol of Maryland?",
+        "label": "Annapolis"
+    }
+]

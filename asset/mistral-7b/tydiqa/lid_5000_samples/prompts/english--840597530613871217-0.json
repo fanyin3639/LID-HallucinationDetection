@@ -1,0 +1,15 @@
+[
+    [
+        2840,
+        [],
+        "Ted Mosby"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The American sitcom How I Met Your Mother premiered on CBS on September 19, 2005. Created by Craig Thomas and Carter Bays, the show is presented from the perspective of Ted Mosby in 2030 (\"Future Ted\") as he tells his children how he met the titular mother. The show lasted for nine seasons and 208 episodes; the finale first aired on March 31, 2014. Question: Who was the main character in How I Met Your Mother? Answer:",
+    {
+        "id": "english--840597530613871217-0",
+        "lang": "english",
+        "summary": "The American sitcom How I Met Your Mother premiered on CBS on September 19, 2005. Created by Craig Thomas and Carter Bays, the show is presented from the perspective of Ted Mosby in 2030 (\"Future Ted\") as he tells his children how he met the titular mother. The show lasted for nine seasons and 208 episodes; the finale first aired on March 31, 2014.",
+        "question": "Who was the main character in How I Met Your Mother?",
+        "label": "Ted Mosby"
+    }
+]

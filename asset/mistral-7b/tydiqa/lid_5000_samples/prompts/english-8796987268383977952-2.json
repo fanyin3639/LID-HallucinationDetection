@@ -1,0 +1,15 @@
+[
+    [
+        740,
+        [],
+        "oxygen"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Elements known to be present on the lunar surface include, among others, oxygen (O), silicon (Si), iron (Fe), magnesium (Mg), calcium (Ca), aluminium (Al), manganese (Mn) and titanium (Ti). Among the more abundant are oxygen, iron and silicon. The oxygen content is estimated at 45% (by weight). Carbon (C) and nitrogen (N) appear to be present only in trace quantities from deposition by solar wind. Question: What is the most abundant mineral on the Moon? Answer:",
+    {
+        "id": "english-8796987268383977952-2",
+        "lang": "english",
+        "summary": "Elements known to be present on the lunar surface include, among others, oxygen (O), silicon (Si), iron (Fe), magnesium (Mg), calcium (Ca), aluminium (Al), manganese (Mn) and titanium (Ti). Among the more abundant are oxygen, iron and silicon. The oxygen content is estimated at 45% (by weight). Carbon (C) and nitrogen (N) appear to be present only in trace quantities from deposition by solar wind.",
+        "question": "What is the most abundant mineral on the Moon?",
+        "label": "oxygen"
+    }
+]

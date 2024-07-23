@@ -1,0 +1,15 @@
+[
+    [
+        1751,
+        [],
+        "end product of metabolism"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A metabolite is the intermediate end product of metabolism. The term metabolite is usually restricted to small molecules. Metabolites have various functions, including fuel, structure, signaling, stimulatory and inhibitory effects on enzymes, catalytic activity of their own (usually as a cofactor to an enzyme), defense, and interactions with other organisms (e.g. pigments, odorants, and pheromones). A primary metabolite is directly involved in normal \"growth\", development, and reproduction. Ethylene is an example of a primary metabolite produced in large-scale by industrial microbiology. A secondary metabolite is not directly involved in those processes, but usually has an important ecological function. Examples include antibiotics and pigments such as resins and terpenes etc. Some antibiotics use primary metabolites as precursors, such as actinomycin which is created from the primary metabolite, tryptophan. Some sugars are metabolites, such as fructose or glucose, which are both present in the metabolic pathways. Question: What is a metabolite Answer:",
+    {
+        "id": "english--4195156446677064975-0",
+        "lang": "english",
+        "summary": "A metabolite is the intermediate end product of metabolism. The term metabolite is usually restricted to small molecules. Metabolites have various functions, including fuel, structure, signaling, stimulatory and inhibitory effects on enzymes, catalytic activity of their own (usually as a cofactor to an enzyme), defense, and interactions with other organisms (e.g. pigments, odorants, and pheromones). A primary metabolite is directly involved in normal \"growth\", development, and reproduction. Ethylene is an example of a primary metabolite produced in large-scale by industrial microbiology. A secondary metabolite is not directly involved in those processes, but usually has an important ecological function. Examples include antibiotics and pigments such as resins and terpenes etc. Some antibiotics use primary metabolites as precursors, such as actinomycin which is created from the primary metabolite, tryptophan. Some sugars are metabolites, such as fructose or glucose, which are both present in the metabolic pathways.",
+        "question": "What is a metabolite",
+        "label": "end product of metabolism"
+    }
+]

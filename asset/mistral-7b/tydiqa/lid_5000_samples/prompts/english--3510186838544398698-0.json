@@ -1,0 +1,15 @@
+[
+    [
+        407,
+        [],
+        "Superman, Batman, Captain Marvel (later known as SHAZAM!), Captain America, and Wonder Woman"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Golden Age of Comic Books describes an era of American comic books from the late 1930s to circa 1950. During this time, modern comic books were first published and rapidly increased in popularity. The superhero archetype was created and many well-known characters were introduced, including Superman, Batman, Captain Marvel (later known as SHAZAM!), Captain America, and Wonder Woman. Question: What comic book characters were created during the Golden Age? Answer:",
+    {
+        "id": "english--3510186838544398698-0",
+        "lang": "english",
+        "summary": "The Golden Age of Comic Books describes an era of American comic books from the late 1930s to circa 1950. During this time, modern comic books were first published and rapidly increased in popularity. The superhero archetype was created and many well-known characters were introduced, including Superman, Batman, Captain Marvel (later known as SHAZAM!), Captain America, and Wonder Woman.",
+        "question": "What comic book characters were created during the Golden Age?",
+        "label": "Superman, Batman, Captain Marvel (later known as SHAZAM!), Captain America, and Wonder Woman"
+    }
+]

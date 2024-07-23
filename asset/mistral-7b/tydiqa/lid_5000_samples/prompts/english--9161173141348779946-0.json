@@ -1,0 +1,15 @@
+[
+    [
+        715,
+        [],
+        "Lancashire coast in North West England"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Blackpool /\u02c8bl\u00e6kpu\u02d0l/(listen) is a seaside resort on the Lancashire coast in North West England. The town is on the Irish Sea, between the Ribble and Wyre estuaries, 15 miles (24km) northwest of Preston, 27 miles (43km) north of Liverpool, 28 miles (45km) northwest of Bolton and 40 miles (64km) northwest of Manchester. It had an estimated population of 139,720 at the 2011 Census, making it the most populous town in Lancashire.[2][3] Question: Where in England is Blackpool? Answer:",
+    {
+        "id": "english--9161173141348779946-0",
+        "lang": "english",
+        "summary": "Blackpool /\u02c8bl\u00e6kpu\u02d0l/(listen) is a seaside resort on the Lancashire coast in North West England. The town is on the Irish Sea, between the Ribble and Wyre estuaries, 15 miles (24km) northwest of Preston, 27 miles (43km) north of Liverpool, 28 miles (45km) northwest of Bolton and 40 miles (64km) northwest of Manchester. It had an estimated population of 139,720 at the 2011 Census, making it the most populous town in Lancashire.[2][3]",
+        "question": "Where in England is Blackpool?",
+        "label": "Lancashire coast in North West England"
+    }
+]

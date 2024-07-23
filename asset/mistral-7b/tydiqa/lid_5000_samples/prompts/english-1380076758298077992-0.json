@@ -1,0 +1,15 @@
+[
+    [
+        2471,
+        [],
+        "16 games"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The National Football League (NFL) regular season begins on the weekend following the first Monday of September (i.e, the weekend following the Labor Day holiday) and ends in December or early January. It consists of 256 games, where each team (32 total) plays 16 games during a 17-week period. Since 2012, the NFL schedule generally has games in one of five time slots during the week. The first game of the week is played on Thursday night, kicking off at 8:20 PM (ET). The majority of games are played on Sunday, most kicking off at 1:00 PM (ET), some late afternoon games starting at 4:05 or 4:25 PM (ET). Additionally, one Sunday night game is played every week at 8:20 PM (ET). One Monday night game then starts at 8:15 PM (ET) every week with the exception of the first week of the regular season, in which two Monday night games are played back-to-back (the second game always occurring on the West coast), as well as the last week of the season, in which no Monday night game is held. In addition to these regularly scheduled games, there are occasionally games at other times, such as a Saturday afternoon or evening, or the annual Thanksgiving Day games in which three games are played. During the final week of the regular season, all games are held on Sunday. Question: How many games does an NFL team play in a season? Answer:",
+    {
+        "id": "english-1380076758298077992-0",
+        "lang": "english",
+        "summary": "The National Football League (NFL) regular season begins on the weekend following the first Monday of September (i.e, the weekend following the Labor Day holiday) and ends in December or early January. It consists of 256 games, where each team (32 total) plays 16 games during a 17-week period. Since 2012, the NFL schedule generally has games in one of five time slots during the week. The first game of the week is played on Thursday night, kicking off at 8:20 PM (ET). The majority of games are played on Sunday, most kicking off at 1:00 PM (ET), some late afternoon games starting at 4:05 or 4:25 PM (ET). Additionally, one Sunday night game is played every week at 8:20 PM (ET). One Monday night game then starts at 8:15 PM (ET) every week with the exception of the first week of the regular season, in which two Monday night games are played back-to-back (the second game always occurring on the West coast), as well as the last week of the season, in which no Monday night game is held. In addition to these regularly scheduled games, there are occasionally games at other times, such as a Saturday afternoon or evening, or the annual Thanksgiving Day games in which three games are played. During the final week of the regular season, all games are held on Sunday.",
+        "question": "How many games does an NFL team play in a season?",
+        "label": "16 games"
+    }
+]

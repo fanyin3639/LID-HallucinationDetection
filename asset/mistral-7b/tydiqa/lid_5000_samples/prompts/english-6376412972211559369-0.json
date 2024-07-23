@@ -1,0 +1,15 @@
+[
+    [
+        2015,
+        [],
+        "Persian"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The current Language Policy of Iran is addressed on chapter two of the Constitution of the Islamic Republic of Iran (Articles 15 & 16). It asserts that the Persian language is the Lingua Franca of the Iranian nation and as such, bound to be used through all official government communications and schooling system. In addition, the constitution also recognizes the Arabic language as the language of Islam, giving it a formal status as the language of religion, and regulates its spreading within the Iranian national curriculum. Question: What are the official languages of Iran? Answer:",
+    {
+        "id": "english-6376412972211559369-0",
+        "lang": "english",
+        "summary": "The current Language Policy of Iran is addressed on chapter two of the Constitution of the Islamic Republic of Iran (Articles 15 & 16). It asserts that the Persian language is the Lingua Franca of the Iranian nation and as such, bound to be used through all official government communications and schooling system. In addition, the constitution also recognizes the Arabic language as the language of Islam, giving it a formal status as the language of religion, and regulates its spreading within the Iranian national curriculum.",
+        "question": "What are the official languages of Iran?",
+        "label": "Persian"
+    }
+]

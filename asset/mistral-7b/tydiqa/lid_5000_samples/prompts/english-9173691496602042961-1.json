@@ -1,0 +1,15 @@
+[
+    [
+        2127,
+        [],
+        "gravitationally bound system of the Sun and the objects that orbit it, either directly or indirectly"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Solar System[lower-alpha 1] is the gravitationally bound system of the Sun and the objects that orbit it, either directly or indirectly.[lower-alpha 2] Of the objects that orbit the Sun directly, the largest are the eight planets,[lower-alpha 3] with the remainder being smaller objects, such as the five dwarf planets and small Solar System bodies. Of the objects that orbit the Sun indirectly\u2014the moons\u2014two are larger than the smallest planet, Mercury.[lower-alpha 4] Question: What is a solar system? Answer:",
+    {
+        "id": "english-9173691496602042961-1",
+        "lang": "english",
+        "summary": "The Solar System[lower-alpha 1] is the gravitationally bound system of the Sun and the objects that orbit it, either directly or indirectly.[lower-alpha 2] Of the objects that orbit the Sun directly, the largest are the eight planets,[lower-alpha 3] with the remainder being smaller objects, such as the five dwarf planets and small Solar System bodies. Of the objects that orbit the Sun indirectly\u2014the moons\u2014two are larger than the smallest planet, Mercury.[lower-alpha 4]",
+        "question": "What is a solar system?",
+        "label": "gravitationally bound system of the Sun and the objects that orbit it, either directly or indirectly"
+    }
+]

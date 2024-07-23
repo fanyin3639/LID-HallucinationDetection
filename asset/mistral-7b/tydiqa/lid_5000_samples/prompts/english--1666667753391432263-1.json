@@ -1,0 +1,15 @@
+[
+    [
+        243,
+        [],
+        "1874"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Stirling Smith Art Gallery and Museum \u2013 formerly The Smith Institute \u2013 has played a very special part in the history of Stirling since its foundation in 1874.  Established by the bequest of artist Thomas Stuart Smith (1815\u20131869) on land supplied by the Burgh of Stirling, it is an historic public-private partnership which has continued to the present day.  It was founded as a gallery of mainly contemporary art, with museum and library reading room \u2018for the benefit of the inhabitants of Stirling, Dunblane and Kinbuck\u2019. Question: When was the Stirling Smith Art Gallery and Museum first opened? Answer:",
+    {
+        "id": "english--1666667753391432263-1",
+        "lang": "english",
+        "summary": "The Stirling Smith Art Gallery and Museum \u2013 formerly The Smith Institute \u2013 has played a very special part in the history of Stirling since its foundation in 1874.  Established by the bequest of artist Thomas Stuart Smith (1815\u20131869) on land supplied by the Burgh of Stirling, it is an historic public-private partnership which has continued to the present day.  It was founded as a gallery of mainly contemporary art, with museum and library reading room \u2018for the benefit of the inhabitants of Stirling, Dunblane and Kinbuck\u2019.",
+        "question": "When was the Stirling Smith Art Gallery and Museum first opened?",
+        "label": "1874"
+    }
+]

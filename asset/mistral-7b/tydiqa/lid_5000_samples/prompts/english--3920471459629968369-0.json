@@ -1,0 +1,15 @@
+[
+    [
+        1113,
+        [],
+        "Microsoft"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Xbox is a video gaming brand created and owned by Microsoft of the United States. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively. The brand also represents applications (games), streaming services, and an online service by the name of Xbox Live. The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console. Question: Who owns Xbox? Answer:",
+    {
+        "id": "english--3920471459629968369-0",
+        "lang": "english",
+        "summary": "Xbox is a video gaming brand created and owned by Microsoft of the United States. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively. The brand also represents applications (games), streaming services, and an online service by the name of Xbox Live. The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.",
+        "question": "Who owns Xbox?",
+        "label": "Microsoft"
+    }
+]

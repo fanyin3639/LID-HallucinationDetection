@@ -1,0 +1,15 @@
+[
+    [
+        2603,
+        [],
+        "1986"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The musical opened in London's West End in 1986, and on Broadway in 1988. It won the 1986 Olivier Award and the 1988 Tony Award for Best Musical, and Michael Crawford (in the title role) won the Olivier and Tony Awards for Best Actor in a Musical.[3] It is the longest running show in Broadway history by a wide margin, and celebrated its 10,000th Broadway performance on 11 February 2012, the first production ever to do so.[4] It is the second longest-running West End musical, after Les Mis\u00e9rables, and the third longest-running West End show overall, after The Mousetrap.[5][6][7] Question: When did the Phantom of the Opera debut? Answer:",
+    {
+        "id": "english--4691704861931831886-1",
+        "lang": "english",
+        "summary": "The musical opened in London's West End in 1986, and on Broadway in 1988. It won the 1986 Olivier Award and the 1988 Tony Award for Best Musical, and Michael Crawford (in the title role) won the Olivier and Tony Awards for Best Actor in a Musical.[3] It is the longest running show in Broadway history by a wide margin, and celebrated its 10,000th Broadway performance on 11 February 2012, the first production ever to do so.[4] It is the second longest-running West End musical, after Les Mis\u00e9rables, and the third longest-running West End show overall, after The Mousetrap.[5][6][7]",
+        "question": "When did the Phantom of the Opera debut?",
+        "label": "1986"
+    }
+]

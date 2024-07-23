@@ -1,0 +1,15 @@
+[
+    [
+        2821,
+        [],
+        "West Memphis, Arkansas"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The West Memphis Three are three men who\u2013 while teenagers\u2013 were tried and convicted, in 1994, of the 1993 murders of three boys in West Memphis, Arkansas. Damien Echols was sentenced to death, Jessie Misskelley, Jr. was sentenced to life imprisonment plus two 20-year sentences, and Jason Baldwin was sentenced to life imprisonment. During the trial, the prosecution asserted that the children were killed as part of a Satanic ritual.[1][2][3] Question: Where were the West Memphis Three tried and convicted? Answer:",
+    {
+        "id": "english-1742987259591788181-0",
+        "lang": "english",
+        "summary": "The West Memphis Three are three men who\u2013 while teenagers\u2013 were tried and convicted, in 1994, of the 1993 murders of three boys in West Memphis, Arkansas. Damien Echols was sentenced to death, Jessie Misskelley, Jr. was sentenced to life imprisonment plus two 20-year sentences, and Jason Baldwin was sentenced to life imprisonment. During the trial, the prosecution asserted that the children were killed as part of a Satanic ritual.[1][2][3]",
+        "question": "Where were the West Memphis Three tried and convicted?",
+        "label": "West Memphis, Arkansas"
+    }
+]

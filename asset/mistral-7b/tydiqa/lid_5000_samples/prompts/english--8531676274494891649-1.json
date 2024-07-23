@@ -1,0 +1,15 @@
+[
+    [
+        1617,
+        [],
+        "126,500"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: This unified institution consists of sea, land, and air elements referred to as the Royal Canadian Navy (RCN), Canadian Army, and Royal Canadian Air Force (RCAF). Personnel may belong to either the Regular Force or the Reserve Force, which has four sub-components: the Primary Reserve, Supplementary Reserve, Cadet Organizations Administration and Training Service, and the Canadian Rangers. Under the National Defence Act, the Canadian Armed Forces are an entity separate and distinct from the Department of National Defence (the federal government department responsible for administration and formation of defence policy), which also exists as the civilian support system for the Forces.[15][16][17] Current end strength is authorized at 126,500, including 71,500 Regular Force members, 30,000 Reserve Force members and 25,000 civilian employees.[18] The number of filled positions is lower than the authorized strength. Question: How many members are there in the Canadian Forces? Answer:",
+    {
+        "id": "english--8531676274494891649-1",
+        "lang": "english",
+        "summary": "This unified institution consists of sea, land, and air elements referred to as the Royal Canadian Navy (RCN), Canadian Army, and Royal Canadian Air Force (RCAF). Personnel may belong to either the Regular Force or the Reserve Force, which has four sub-components: the Primary Reserve, Supplementary Reserve, Cadet Organizations Administration and Training Service, and the Canadian Rangers. Under the National Defence Act, the Canadian Armed Forces are an entity separate and distinct from the Department of National Defence (the federal government department responsible for administration and formation of defence policy), which also exists as the civilian support system for the Forces.[15][16][17] Current end strength is authorized at 126,500, including 71,500 Regular Force members, 30,000 Reserve Force members and 25,000 civilian employees.[18] The number of filled positions is lower than the authorized strength.",
+        "question": "How many members are there in the Canadian Forces?",
+        "label": "126,500"
+    }
+]

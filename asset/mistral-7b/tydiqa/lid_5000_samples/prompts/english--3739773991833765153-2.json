@@ -1,0 +1,15 @@
+[
+    [
+        2765,
+        [],
+        "1001"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Story of King Shahryar and His Brother (1\u20131001) Tale of the Bull and the Ass (Told by the Vizier) (0) Tale of the Trader and the Jinni (2\u20133) The First Shaykh's Story (2) The Second Shaykh's Story ((2)) The Third Shaykh's Story ((2)) Tale of the Fisherman and the Jinni (4\u20139) Tale of the Vizier and the Sage Duban (5) Story of King Sindibad and His Falcon ((5)) Tale of the Husband and the Parrot ((5)) Tale of the Prince and the Ogress ((5)) Tale of the Ensorcelled Prince (8) The Porter and the Three Ladies of Baghdad (10\u201319) The First Kalandar's Tale (12) The Second Kalandar's Tale (13\u201314) Tale of the Envier and the Envied ((13)) The Third Kalandar's Tale (15\u201316) The Eldest Lady's Tale (18) Tale of the Portress ((18)) The Tale of the Three Apples (20\u201324) Tale of N\u00far al-D\u00edn Al\u00ed and his Son (21\u201324) The Hunchback's Tale (25\u201334) The Nazarene Broker's Story (26) The Reeve's Tale (28) Tale of the Jewish Doctor (29) Tale of the Tailor (30\u201331) The Barber's Tale of Himself (32\u201333) The Barber's Tale of his First Brother ((31)) The Barber's Tale of his Second Brother (32) The Barber's Tale of his Third Brother ((32)) The Barber's Tale of his Fourth Brother ((32)) The Barber's Tale of his Fifth Brother (33) The Barber's Tale of his Sixth Brother ((33)) Question: How many stories are in One Thousand and One Nights? Answer:",
+    {
+        "id": "english--3739773991833765153-2",
+        "lang": "english",
+        "summary": "Story of King Shahryar and His Brother (1\u20131001) Tale of the Bull and the Ass (Told by the Vizier) (0) Tale of the Trader and the Jinni (2\u20133) The First Shaykh's Story (2) The Second Shaykh's Story ((2)) The Third Shaykh's Story ((2)) Tale of the Fisherman and the Jinni (4\u20139) Tale of the Vizier and the Sage Duban (5) Story of King Sindibad and His Falcon ((5)) Tale of the Husband and the Parrot ((5)) Tale of the Prince and the Ogress ((5)) Tale of the Ensorcelled Prince (8) The Porter and the Three Ladies of Baghdad (10\u201319) The First Kalandar's Tale (12) The Second Kalandar's Tale (13\u201314) Tale of the Envier and the Envied ((13)) The Third Kalandar's Tale (15\u201316) The Eldest Lady's Tale (18) Tale of the Portress ((18)) The Tale of the Three Apples (20\u201324) Tale of N\u00far al-D\u00edn Al\u00ed and his Son (21\u201324) The Hunchback's Tale (25\u201334) The Nazarene Broker's Story (26) The Reeve's Tale (28) Tale of the Jewish Doctor (29) Tale of the Tailor (30\u201331) The Barber's Tale of Himself (32\u201333) The Barber's Tale of his First Brother ((31)) The Barber's Tale of his Second Brother (32) The Barber's Tale of his Third Brother ((32)) The Barber's Tale of his Fourth Brother ((32)) The Barber's Tale of his Fifth Brother (33) The Barber's Tale of his Sixth Brother ((33))",
+        "question": "How many stories are in One Thousand and One Nights?",
+        "label": "1001"
+    }
+]

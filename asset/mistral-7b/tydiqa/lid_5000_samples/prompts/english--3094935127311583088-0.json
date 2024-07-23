@@ -1,0 +1,15 @@
+[
+    [
+        1521,
+        [],
+        "1806"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Holy Roman Empire (Latin: Sacrum Romanum Imperium; German: Heiliges R\u00f6misches Reich) was a multi-ethnic complex of territories in Western and Central Europe that developed during the Early Middle Ages and continued until its dissolution in 1806 during the Napoleonic Wars.[3] The largest territory of the empire after 962 was the Kingdom of Germany, though it also came to include the neighboring Kingdom of Bohemia, the Kingdom of Burgundy, the Kingdom of Italy, and numerous other territories.[4][5][6] Question: When did the Holy Roman Empire end? Answer:",
+    {
+        "id": "english--3094935127311583088-0",
+        "lang": "english",
+        "summary": "The Holy Roman Empire (Latin: Sacrum Romanum Imperium; German: Heiliges R\u00f6misches Reich) was a multi-ethnic complex of territories in Western and Central Europe that developed during the Early Middle Ages and continued until its dissolution in 1806 during the Napoleonic Wars.[3] The largest territory of the empire after 962 was the Kingdom of Germany, though it also came to include the neighboring Kingdom of Bohemia, the Kingdom of Burgundy, the Kingdom of Italy, and numerous other territories.[4][5][6]",
+        "question": "When did the Holy Roman Empire end?",
+        "label": "1806"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        940,
+        [],
+        "25,694,928"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the National Commission for the Development of Indigenous Peoples (Comisi\u00f3n Nacional para el Desarrollo de los Pueblos Ind\u00edgenas, or CDI in Spanish) and the INEGI (official census institute), in 2015, 25,694,928 people in Mexico self-identify as being indigenous[3][4] of many different ethnic groups,[5] which constitute 21.5% of Mexico's population.[1][2] Question: How many indigenous people's are in Mexico? Answer:",
+    {
+        "id": "english--5484562770490650862-1",
+        "lang": "english",
+        "summary": "According to the National Commission for the Development of Indigenous Peoples (Comisi\u00f3n Nacional para el Desarrollo de los Pueblos Ind\u00edgenas, or CDI in Spanish) and the INEGI (official census institute), in 2015, 25,694,928 people in Mexico self-identify as being indigenous[3][4] of many different ethnic groups,[5] which constitute 21.5% of Mexico's population.[1][2]",
+        "question": "How many indigenous people's are in Mexico?",
+        "label": "25,694,928"
+    }
+]

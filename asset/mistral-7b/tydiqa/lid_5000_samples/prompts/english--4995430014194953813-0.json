@@ -1,0 +1,15 @@
+[
+    [
+        2354,
+        [],
+        "Mallard"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: London and North Eastern Railway locomotive numbered 4468 Mallard is a  Class A4 4-6-2 Pacific steam locomotive built at Doncaster Works, England in 1938. It is historically significant as the holder of the world speed record for steam locomotives at 126mph (203km/h).[1] Question: What was the fastest steam locomotive? Answer:",
+    {
+        "id": "english--4995430014194953813-0",
+        "lang": "english",
+        "summary": "London and North Eastern Railway locomotive numbered 4468 Mallard is a  Class A4 4-6-2 Pacific steam locomotive built at Doncaster Works, England in 1938. It is historically significant as the holder of the world speed record for steam locomotives at 126mph (203km/h).[1]",
+        "question": "What was the fastest steam locomotive?",
+        "label": "Mallard"
+    }
+]

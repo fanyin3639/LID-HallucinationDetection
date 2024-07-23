@@ -1,0 +1,15 @@
+[
+    [
+        1292,
+        [],
+        "Kali Gandaki Gorge"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Kali Gandaki Gorge or Andha Galchi is the gorge of the Kali Gandaki (or Gandaki River) in the Himalayas in Nepal. The Kali Gandaki gorge is the deepest gorge in the world, being 24,071ft or 7,337m lower than Annapurna I which bounds it at one point. Question: What is the deepest valley in the world? Answer:",
+    {
+        "id": "english--6141624577885445904-0",
+        "lang": "english",
+        "summary": "The Kali Gandaki Gorge or Andha Galchi is the gorge of the Kali Gandaki (or Gandaki River) in the Himalayas in Nepal. The Kali Gandaki gorge is the deepest gorge in the world, being 24,071ft or 7,337m lower than Annapurna I which bounds it at one point.",
+        "question": "What is the deepest valley in the world?",
+        "label": "Kali Gandaki Gorge"
+    }
+]

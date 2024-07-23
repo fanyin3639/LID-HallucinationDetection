@@ -1,0 +1,15 @@
+[
+    [
+        1837,
+        [],
+        "glutamate"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The most prevalent transmitter is glutamate, which is excitatory at well over 90% of the synapses in the human brain.[6] The next most prevalent is Gamma-Aminobutyric Acid, or GABA, which is inhibitory at more than 90% of the synapses that do not use glutamate. Although other transmitters are used in fewer synapses, they may be very important functionally: the great majority of psychoactive drugs exert their effects by altering the actions of some neurotransmitter systems, often acting through transmitters other than glutamate or GABA. Addictive drugs such as cocaine and amphetamines exert their effects primarily on the dopamine system. The addictive opiate drugs exert their effects primarily as functional analogs of opioid peptides, which, in turn, regulate dopamine levels. Question: What is the most abundant neurotransmitter in the human brain? Answer:",
+    {
+        "id": "english--576128378782802057-14",
+        "lang": "english",
+        "summary": "The most prevalent transmitter is glutamate, which is excitatory at well over 90% of the synapses in the human brain.[6] The next most prevalent is Gamma-Aminobutyric Acid, or GABA, which is inhibitory at more than 90% of the synapses that do not use glutamate. Although other transmitters are used in fewer synapses, they may be very important functionally: the great majority of psychoactive drugs exert their effects by altering the actions of some neurotransmitter systems, often acting through transmitters other than glutamate or GABA. Addictive drugs such as cocaine and amphetamines exert their effects primarily on the dopamine system. The addictive opiate drugs exert their effects primarily as functional analogs of opioid peptides, which, in turn, regulate dopamine levels.",
+        "question": "What is the most abundant neurotransmitter in the human brain?",
+        "label": "glutamate"
+    }
+]

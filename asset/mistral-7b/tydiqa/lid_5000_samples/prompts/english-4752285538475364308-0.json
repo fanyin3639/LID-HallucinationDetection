@@ -1,0 +1,15 @@
+[
+    [
+        350,
+        [],
+        "seven"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On February 1, 2003, the Space Shuttle Columbia disintegrated upon reentering Earth's atmosphere, killing all seven crew members. The disaster was the second fatal accident in the Space Shuttle program after Space Shuttle Challenger, which broke apart and killed the seven-member crew 73 seconds after liftoff in 1986. Question: How many died in the Columbia crash? Answer:",
+    {
+        "id": "english-4752285538475364308-0",
+        "lang": "english",
+        "summary": "On February 1, 2003, the Space Shuttle Columbia disintegrated upon reentering Earth's atmosphere, killing all seven crew members. The disaster was the second fatal accident in the Space Shuttle program after Space Shuttle Challenger, which broke apart and killed the seven-member crew 73 seconds after liftoff in 1986.",
+        "question": "How many died in the Columbia crash?",
+        "label": "seven"
+    }
+]

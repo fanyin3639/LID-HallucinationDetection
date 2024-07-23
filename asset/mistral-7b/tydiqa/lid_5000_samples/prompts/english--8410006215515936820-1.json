@@ -1,0 +1,15 @@
+[
+    [
+        1503,
+        [],
+        "17,000,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Netherlands is the 66th most populated country in the world, and as of March 21, 2016, it has a population of 17,000,000. Question: How many people live in Netherlands? Answer:",
+    {
+        "id": "english--8410006215515936820-1",
+        "lang": "english",
+        "summary": "The Netherlands is the 66th most populated country in the world, and as of March 21, 2016, it has a population of 17,000,000.",
+        "question": "How many people live in Netherlands?",
+        "label": "17,000,000"
+    }
+]

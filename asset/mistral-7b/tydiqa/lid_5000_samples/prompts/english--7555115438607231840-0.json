@@ -1,0 +1,15 @@
+[
+    [
+        2386,
+        [],
+        "id Software"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Doom (typeset as DOOM in official documents and stylized as DooM in other media)[1] is a 1993 first-person shooter (FPS) video game by id Software. It is considered one of the most significant and influential titles in video game history, for having helped to pioneer the now-ubiquitous first-person shooter. The original game was divided into three nine-level episodes and was distributed via shareware and mail order. The Ultimate Doom, an updated release of the original game featuring a fourth episode, was released in 1995 and sold at retail. Question: Who created Doom video game? Answer:",
+    {
+        "id": "english--7555115438607231840-0",
+        "lang": "english",
+        "summary": "Doom (typeset as DOOM in official documents and stylized as DooM in other media)[1] is a 1993 first-person shooter (FPS) video game by id Software. It is considered one of the most significant and influential titles in video game history, for having helped to pioneer the now-ubiquitous first-person shooter. The original game was divided into three nine-level episodes and was distributed via shareware and mail order. The Ultimate Doom, an updated release of the original game featuring a fourth episode, was released in 1995 and sold at retail.",
+        "question": "Who created Doom video game?",
+        "label": "id Software"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        473,
+        [],
+        "The Union of Students in Ireland (USI) has warned students on J1 working visas or US travel visas not to travel on modified passports."
+    ],
+    "Write a short summary for the following passage:\nThe union said it was aware of students arrested for using passports which had been altered to change the date of birth.\nThe problems arose while trying to travel or gain entry into licensed premises in the US.\nThe legal drinking age in the US is 21.\nThe USI said it was aware of one case in San Diego where an Irish student was arrested with an altered document at a nightclub. The case was passed to the FBI.\nThe Irish department of foreign affairs intervened through its consulate in San Francisco to get the student out of custody.\nAdrianne Peltz, northern area officer for USI, said she did not believe the practice was widespread among students from Northern Ireland.\n\"Having said, that it's definitely something to make students aware of,\" she said.\n\"If anyone approaches them offering to alter a passport, they should take action immediately.\n\"Students have to remember falsifying or altering a passport is a federal offence.\"\nSummary:\n",
+    {
+        "id": 473,
+        "document": "The union said it was aware of students arrested for using passports which had been altered to change the date of birth.\nThe problems arose while trying to travel or gain entry into licensed premises in the US.\nThe legal drinking age in the US is 21.\nThe USI said it was aware of one case in San Diego where an Irish student was arrested with an altered document at a nightclub. The case was passed to the FBI.\nThe Irish department of foreign affairs intervened through its consulate in San Francisco to get the student out of custody.\nAdrianne Peltz, northern area officer for USI, said she did not believe the practice was widespread among students from Northern Ireland.\n\"Having said, that it's definitely something to make students aware of,\" she said.\n\"If anyone approaches them offering to alter a passport, they should take action immediately.\n\"Students have to remember falsifying or altering a passport is a federal offence.\"",
+        "summary": "The Union of Students in Ireland (USI) has warned students on J1 working visas or US travel visas not to travel on modified passports.",
+        "label": "The Union of Students in Ireland (USI) has warned students on J1 working visas or US travel visas not to travel on modified passports."
+    }
+]

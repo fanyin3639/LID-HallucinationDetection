@@ -1,0 +1,15 @@
+[
+    [
+        315,
+        [],
+        "extracting specific data from a particular group of people"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In research of human subjects, a survey is a list of questions aimed at extracting specific data from a particular group of people. Surveys may be conducted by phone, mail, via the internet, and sometimes face-to-face on busy street corners or in malls. Surveys are used to increase knowledge in fields such as social research and demography.  Question: What is the purpose of survey research? Answer:",
+    {
+        "id": "english-9152759761017679774-0",
+        "lang": "english",
+        "summary": "In research of human subjects, a survey is a list of questions aimed at extracting specific data from a particular group of people. Surveys may be conducted by phone, mail, via the internet, and sometimes face-to-face on busy street corners or in malls. Surveys are used to increase knowledge in fields such as social research and demography. ",
+        "question": "What is the purpose of survey research?",
+        "label": "extracting specific data from a particular group of people"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2406,
+        [],
+        "average salary around $112,160"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The American Pharmacy Journal of Education in 2014 reported the average salary around $112,160.[36] Question: How much do pharmacists make? Answer:",
+    {
+        "id": "english--1085021734004349700-52",
+        "lang": "english",
+        "summary": "The American Pharmacy Journal of Education in 2014 reported the average salary around $112,160.[36]",
+        "question": "How much do pharmacists make?",
+        "label": "average salary around $112,160"
+    }
+]

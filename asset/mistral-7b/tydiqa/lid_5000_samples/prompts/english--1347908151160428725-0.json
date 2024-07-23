@@ -1,0 +1,15 @@
+[
+    [
+        247,
+        [],
+        "Luis von Ahn, David Abraham, Manuel Blum, Michael Crawford, Ben Maurer, Colin McMillen, and Edison Tan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: reCAPTCHA is a CAPTCHA-like system designed to establish that a computer user is human (normally in order to protect websites from bots) and, at the same time, assist in the digitization of books. reCAPTCHA was originally developed by Luis von Ahn, David Abraham, Manuel Blum, Michael Crawford, Ben Maurer, Colin McMillen, and Edison Tan at Carnegie Mellon University's main Pittsburgh campus.[1] It was acquired by Google in September 2009.[2] Question: Who developed Recaptcha? Answer:",
+    {
+        "id": "english--1347908151160428725-0",
+        "lang": "english",
+        "summary": "reCAPTCHA is a CAPTCHA-like system designed to establish that a computer user is human (normally in order to protect websites from bots) and, at the same time, assist in the digitization of books. reCAPTCHA was originally developed by Luis von Ahn, David Abraham, Manuel Blum, Michael Crawford, Ben Maurer, Colin McMillen, and Edison Tan at Carnegie Mellon University's main Pittsburgh campus.[1] It was acquired by Google in September 2009.[2]",
+        "question": "Who developed Recaptcha?",
+        "label": "Luis von Ahn, David Abraham, Manuel Blum, Michael Crawford, Ben Maurer, Colin McMillen, and Edison Tan"
+    }
+]

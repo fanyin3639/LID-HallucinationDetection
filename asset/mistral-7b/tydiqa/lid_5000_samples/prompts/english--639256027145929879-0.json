@@ -1,0 +1,15 @@
+[
+    [
+        629,
+        [],
+        "1,633km"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lesbos (/\u02c8l\u025bzb\u0252s/, US: /\u02c8l\u025bzbo\u028as/; Greek: \u039b\u03ad\u03c3\u03b2\u03bf\u03c2 Lesbos, pronounced[\u02c8lezvos]) is an island located in the northeastern Aegean Sea. It has an area of 1,633km2 (631sqmi)[1] with 320 kilometres (199 miles) of coastline, making it the third largest island in Greece. It is separated from Turkey by the narrow Mytilini Strait and in late Palaeolithic/Mesolithic times[2] was joined to the Anatolian mainland before the end of the last glacial period. Question: How large is the island of Lesbos? Answer:",
+    {
+        "id": "english--639256027145929879-0",
+        "lang": "english",
+        "summary": "Lesbos (/\u02c8l\u025bzb\u0252s/, US: /\u02c8l\u025bzbo\u028as/; Greek: \u039b\u03ad\u03c3\u03b2\u03bf\u03c2 Lesbos, pronounced[\u02c8lezvos]) is an island located in the northeastern Aegean Sea. It has an area of 1,633km2 (631sqmi)[1] with 320 kilometres (199 miles) of coastline, making it the third largest island in Greece. It is separated from Turkey by the narrow Mytilini Strait and in late Palaeolithic/Mesolithic times[2] was joined to the Anatolian mainland before the end of the last glacial period.",
+        "question": "How large is the island of Lesbos?",
+        "label": "1,633km"
+    }
+]

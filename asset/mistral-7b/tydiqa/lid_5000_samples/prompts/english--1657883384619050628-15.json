@@ -1,0 +1,15 @@
+[
+    [
+        2844,
+        [],
+        "1981"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lloyd Webber embarked on his next project without a lyricist, turning instead to the poetry of T. S. Eliot. Cats (1981) was to become the longest running musical in London, where it ran for 21 years before closing. On Broadway, Cats ran for 18 years, a record which would ultimately be broken by another Lloyd Webber musical, The Phantom of the Opera.[19][20] Question: When did Andrew Lloyd Weber write Cats? Answer:",
+    {
+        "id": "english--1657883384619050628-15",
+        "lang": "english",
+        "summary": "Lloyd Webber embarked on his next project without a lyricist, turning instead to the poetry of T. S. Eliot. Cats (1981) was to become the longest running musical in London, where it ran for 21 years before closing. On Broadway, Cats ran for 18 years, a record which would ultimately be broken by another Lloyd Webber musical, The Phantom of the Opera.[19][20]",
+        "question": "When did Andrew Lloyd Weber write Cats?",
+        "label": "1981"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        219,
+        [],
+        "British Olympic champion Peter Kennaugh beat a powerful field to win Sunday's Cadel Evans Great Ocean Road Race in Geelong, Australia."
+    ],
+    "Write a short summary for the following passage:\nThe Team Sky rider attacked 15km from the end of the 174km event and opened up a 20-second gap on the chasing group before claiming victory by six seconds.\nAustralian Leigh Howard won a bunch sprint for second. Pre-race favourite Simon Gerrans of Australia was fifth.\nKennaugh's fellow Isle of Man rider Mark Cavendish retired before the end.\n\"It's good for my morale,\" said 26-year-old Kennaugh. \"It's good to prove to people I'm not messing around.\n\"I don't want to be just another rider. I want to be the rider the team can look to in order to lead races.\"\nSummary:\n",
+    {
+        "id": 219,
+        "document": "The Team Sky rider attacked 15km from the end of the 174km event and opened up a 20-second gap on the chasing group before claiming victory by six seconds.\nAustralian Leigh Howard won a bunch sprint for second. Pre-race favourite Simon Gerrans of Australia was fifth.\nKennaugh's fellow Isle of Man rider Mark Cavendish retired before the end.\n\"It's good for my morale,\" said 26-year-old Kennaugh. \"It's good to prove to people I'm not messing around.\n\"I don't want to be just another rider. I want to be the rider the team can look to in order to lead races.\"",
+        "summary": "British Olympic champion Peter Kennaugh beat a powerful field to win Sunday's Cadel Evans Great Ocean Road Race in Geelong, Australia.",
+        "label": "British Olympic champion Peter Kennaugh beat a powerful field to win Sunday's Cadel Evans Great Ocean Road Race in Geelong, Australia."
+    }
+]

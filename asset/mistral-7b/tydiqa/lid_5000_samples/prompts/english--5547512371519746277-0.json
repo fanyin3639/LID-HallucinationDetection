@@ -1,0 +1,15 @@
+[
+    [
+        1994,
+        [],
+        "2001"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Superheist is an Australian metal band, which formed in 1993. They released two EPs, thirteen singles, one compilation/live album and three studio albums, The Prize Recruit (2001) and Identical Remote Controlled Reactions (2002), both albums reached the top20 on the ARIA Albums Chart. Their comeback album \"Ghosts of the Social Dead\" (2016) reached #3 on the AIR Charts and remained top 10 for 4 weeks. Question: What was the first EP released by Superheist? Answer:",
+    {
+        "id": "english--5547512371519746277-0",
+        "lang": "english",
+        "summary": "Superheist is an Australian metal band, which formed in 1993. They released two EPs, thirteen singles, one compilation/live album and three studio albums, The Prize Recruit (2001) and Identical Remote Controlled Reactions (2002), both albums reached the top20 on the ARIA Albums Chart. Their comeback album \"Ghosts of the Social Dead\" (2016) reached #3 on the AIR Charts and remained top 10 for 4 weeks.",
+        "question": "What was the first EP released by Superheist?",
+        "label": "2001"
+    }
+]

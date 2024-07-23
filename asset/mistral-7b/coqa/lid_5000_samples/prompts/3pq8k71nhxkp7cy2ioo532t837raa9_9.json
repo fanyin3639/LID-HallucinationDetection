@@ -1,0 +1,19 @@
+[
+    [
+        424,
+        [],
+        "Maths, History, and Science"
+    ],
+    "Answer the following questions:\nContext: Posted: 06/19/2014 12:00 a.m. Lucy Li, an 11-year-old girl, is the youngest person to qualify for a US Women's Open golf tournament . She was qualified for the US Women's Open in May. When she set a new record by seven strokes .And today she is playing against some of the best female golfers in the world. Earlier this week Li said that she wasn't nervous about becoming the centre of attention at today's game. \"I just want to have fun and play the best I can and I really don't care about the result. I can learn a lot from these great players.\" Li doesn't spend all her time golfing. She is home-schooled in an online Stanford University programme. Her favourite subjects are Maths, History, and Science and she loves to read. She also loves medicine, diving, badminton, dancing, and table tennis. But golf is her favourite sport. \"I like golf because it's different from other sports. Anybody can play it.\" she said. Some female golfers are worried that Li isn't quite ready for the Open. \"When I found out she was qualified, I said, where does she go from here? You qualify for an Open at 11, what do you do next? If she was my kid, I wouldn't let her play in the US Open at all, but that's just me,\" said world champion Stacy Lewis. Dottie Pepper, an ESPN analyst , thinks that the most important thing is that Li doesn't think of winning. \"If the success for her is not based on score, then I don't think she's too young. The important thing for her is to treat the whole experience as a kid on the golf score. Forget expectations.\" Dottie said.\n'Question': What are her favorite school subjects?\n'Answer: '",
+    {
+        "id": "3pq8k71nhxkp7cy2ioo532t837raa9_9",
+        "summary": "Posted: 06/19/2014 12:00 a.m. Lucy Li, an 11-year-old girl, is the youngest person to qualify for a US Women's Open golf tournament . She was qualified for the US Women's Open in May. When she set a new record by seven strokes .And today she is playing against some of the best female golfers in the world. Earlier this week Li said that she wasn't nervous about becoming the centre of attention at today's game. \"I just want to have fun and play the best I can and I really don't care about the result. I can learn a lot from these great players.\" Li doesn't spend all her time golfing. She is home-schooled in an online Stanford University programme. Her favourite subjects are Maths, History, and Science and she loves to read. She also loves medicine, diving, badminton, dancing, and table tennis. But golf is her favourite sport. \"I like golf because it's different from other sports. Anybody can play it.\" she said. Some female golfers are worried that Li isn't quite ready for the Open. \"When I found out she was qualified, I said, where does she go from here? You qualify for an Open at 11, what do you do next? If she was my kid, I wouldn't let her play in the US Open at all, but that's just me,\" said world champion Stacy Lewis. Dottie Pepper, an ESPN analyst , thinks that the most important thing is that Li doesn't think of winning. \"If the success for her is not based on score, then I don't think she's too young. The important thing for her is to treat the whole experience as a kid on the golf score. Forget expectations.\" Dottie said.",
+        "question": "What are her favorite school subjects?",
+        "label": "Maths, History, and Science",
+        "additional_answers": [
+            "maths, History, and Science",
+            "Maths, History, and Science",
+            "Maths"
+        ]
+    }
+]

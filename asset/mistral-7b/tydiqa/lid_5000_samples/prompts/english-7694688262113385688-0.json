@@ -1,0 +1,15 @@
+[
+    [
+        475,
+        [],
+        "Restful Objects is a standard covering RESTful interfaces to domain object models.  The specification is published under a Creative Commons license"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Restful Objects is a standard covering RESTful interfaces to domain object models.  The specification is published under a Creative Commons license. Question: What is an object in Ruby? Answer:",
+    {
+        "id": "english-7694688262113385688-0",
+        "lang": "english",
+        "summary": "Restful Objects is a standard covering RESTful interfaces to domain object models.  The specification is published under a Creative Commons license.",
+        "question": "What is an object in Ruby?",
+        "label": "Restful Objects is a standard covering RESTful interfaces to domain object models.  The specification is published under a Creative Commons license"
+    }
+]

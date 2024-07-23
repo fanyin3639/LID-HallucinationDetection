@@ -1,0 +1,15 @@
+[
+    [
+        592,
+        [],
+        "Sydney, New South Wales, Australia"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 2000 Summer Olympic Games, officially known as the Games of the XXVII Olympiad and commonly known as Sydney 2000 or the Millennium Olympic Games/Games of the New Millennium, were an international multi-sport event which was held between 15 September and 1 October 2000 in Sydney, New South Wales, Australia. It was the second time that the Summer Olympics were held in Australia, and also the Southern Hemisphere, the first being in Melbourne, Victoria, in 1956. Question: Where were the 2000 olympics held? Answer:",
+    {
+        "id": "english--8028462621241287432-1",
+        "lang": "english",
+        "summary": "The 2000 Summer Olympic Games, officially known as the Games of the XXVII Olympiad and commonly known as Sydney 2000 or the Millennium Olympic Games/Games of the New Millennium, were an international multi-sport event which was held between 15 September and 1 October 2000 in Sydney, New South Wales, Australia. It was the second time that the Summer Olympics were held in Australia, and also the Southern Hemisphere, the first being in Melbourne, Victoria, in 1956.",
+        "question": "Where were the 2000 olympics held?",
+        "label": "Sydney, New South Wales, Australia"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2340,
+        [],
+        "Approximately 330 to 360 million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Approximately 330 to 360 million people speak English as their first language.[1] With 258 million native speakers, the United States comprises the majority of the global total. As pictured in the pie graph below, most native speakers of English are Americans. Question: How many native English speakers are there in the world? Answer:",
+    {
+        "id": "english-4238168050097682617-0",
+        "lang": "english",
+        "summary": "Approximately 330 to 360 million people speak English as their first language.[1] With 258 million native speakers, the United States comprises the majority of the global total. As pictured in the pie graph below, most native speakers of English are Americans.",
+        "question": "How many native English speakers are there in the world?",
+        "label": "Approximately 330 to 360 million"
+    }
+]

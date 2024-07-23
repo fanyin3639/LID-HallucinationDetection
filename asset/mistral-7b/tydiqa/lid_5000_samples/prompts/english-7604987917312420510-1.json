@@ -1,0 +1,15 @@
+[
+    [
+        889,
+        [],
+        "vector field that describes the magnetic influence of electrical currents and magnetized materials"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A magnetic field is a vector field that describes the magnetic influence of electrical currents and magnetized materials. In everyday life, the effects of magnetic fields are often seen in permanent magnets, which pull on magnetic materials (such as iron) and attract or repel other magnets. Magnetic fields surround and are created by magnetized material and by moving electric charges (electric currents) such as those used in electromagnets. Magnetic fields exert forces on nearby moving electrical charges and torques on nearby magnets. In addition, a magnetic field that varies with location exerts a force on magnetic materials. Both the strength and direction of a magnetic field varies with location. As such, it is an example of a vector field. Question: What is a magnetic field? Answer:",
+    {
+        "id": "english-7604987917312420510-1",
+        "lang": "english",
+        "summary": "A magnetic field is a vector field that describes the magnetic influence of electrical currents and magnetized materials. In everyday life, the effects of magnetic fields are often seen in permanent magnets, which pull on magnetic materials (such as iron) and attract or repel other magnets. Magnetic fields surround and are created by magnetized material and by moving electric charges (electric currents) such as those used in electromagnets. Magnetic fields exert forces on nearby moving electrical charges and torques on nearby magnets. In addition, a magnetic field that varies with location exerts a force on magnetic materials. Both the strength and direction of a magnetic field varies with location. As such, it is an example of a vector field.",
+        "question": "What is a magnetic field?",
+        "label": "vector field that describes the magnetic influence of electrical currents and magnetized materials"
+    }
+]

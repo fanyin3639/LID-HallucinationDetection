@@ -1,0 +1,15 @@
+[
+    [
+        2422,
+        [],
+        "1984"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Thomas & Friends (originally known as Thomas The Tank Engine & Friends or simply Thomas the Tank Engine; also known as Thomas & Friends: Big World! Big Adventures! in the twenty-second series) is a British children's television series. In the United Kingdom, it had its first broadcast on the ITV network in Great Britain in 1984. In the United States, it had its first broadcast on Shining Time Station in 1989.  It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry. Question: when did Thomas & Friends first air? Answer:",
+    {
+        "id": "english--3353687779672431173-0",
+        "lang": "english",
+        "summary": "Thomas & Friends (originally known as Thomas The Tank Engine & Friends or simply Thomas the Tank Engine; also known as Thomas & Friends: Big World! Big Adventures! in the twenty-second series) is a British children's television series. In the United Kingdom, it had its first broadcast on the ITV network in Great Britain in 1984. In the United States, it had its first broadcast on Shining Time Station in 1989.  It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry.",
+        "question": "when did Thomas & Friends first air?",
+        "label": "1984"
+    }
+]

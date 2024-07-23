@@ -1,0 +1,15 @@
+[
+    [
+        1021,
+        [],
+        "1838"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Florida's first constitution as a U.S. territory was written and implemented in 1838. On March 3, 1845, Florida was granted admission into the Union as the 27th state. The current Constitution of Florida was ratified on November 5, 1968, and has been modified by initiative and referendum several times since. Question: When was the Florida Constitution written? Answer:",
+    {
+        "id": "english--1241357298623044672-3",
+        "lang": "english",
+        "summary": "Florida's first constitution as a U.S. territory was written and implemented in 1838. On March 3, 1845, Florida was granted admission into the Union as the 27th state. The current Constitution of Florida was ratified on November 5, 1968, and has been modified by initiative and referendum several times since.",
+        "question": "When was the Florida Constitution written?",
+        "label": "1838"
+    }
+]

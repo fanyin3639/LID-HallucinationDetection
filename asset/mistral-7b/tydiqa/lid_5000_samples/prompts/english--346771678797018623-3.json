@@ -1,0 +1,15 @@
+[
+    [
+        471,
+        [],
+        "began in the 1930s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Vaccination against influenza began in the 1930s with large scale availability in the United States beginning in 1945.[12][13] It is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.[14] The wholesale price in the developing world is about $5.25 USD per dose as of 2014.[15] In the United States, it costs less than $25 USD as of 2015.[16] Question: When was the flu vaccine introduced? Answer:",
+    {
+        "id": "english--346771678797018623-3",
+        "lang": "english",
+        "summary": "Vaccination against influenza began in the 1930s with large scale availability in the United States beginning in 1945.[12][13] It is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.[14] The wholesale price in the developing world is about $5.25 USD per dose as of 2014.[15] In the United States, it costs less than $25 USD as of 2015.[16]",
+        "question": "When was the flu vaccine introduced?",
+        "label": "began in the 1930s"
+    }
+]

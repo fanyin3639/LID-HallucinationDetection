@@ -1,0 +1,14 @@
+[
+    [
+        1107,
+        [],
+        "Comedy creators and performers are taking part in a conference to help emerging writers this weekend."
+    ],
+    "Write a short summary for the following passage:\nThe fourth Craft of Comedy Writing Conference is taking place at Venue Cymru, Llandudno, for anyone who thinks they could work in comedy.\nSpeakers include actress Sian Gibson, Radio Four commissioning editor Sioned Wiliam and Ged Parsons who writes for BBC One's Have I Got News For You.\nThere will be question and answer sessions and tips on working in comedy.\nSummary:\n",
+    {
+        "id": 1107,
+        "document": "The fourth Craft of Comedy Writing Conference is taking place at Venue Cymru, Llandudno, for anyone who thinks they could work in comedy.\nSpeakers include actress Sian Gibson, Radio Four commissioning editor Sioned Wiliam and Ged Parsons who writes for BBC One's Have I Got News For You.\nThere will be question and answer sessions and tips on working in comedy.",
+        "summary": "Comedy creators and performers are taking part in a conference to help emerging writers this weekend.",
+        "label": "Comedy creators and performers are taking part in a conference to help emerging writers this weekend."
+    }
+]

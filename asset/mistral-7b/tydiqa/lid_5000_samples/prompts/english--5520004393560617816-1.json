@@ -1,0 +1,15 @@
+[
+    [
+        2827,
+        [],
+        "a small town in Egypt's Nile Delta"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Atta was born in 1968 in a small town in Egypt's Nile Delta. He was 10 years old when he moved with his family to the Abdeen section of Cairo. Atta studied architecture at Cairo University, graduating in 1990, and continued his studies in Germany at the Hamburg University of Technology. In Hamburg, Atta became involved with the al-Quds Mosque, where he met Marwan al-Shehhi, Ramzi bin al-Shibh, and Ziad Jarrah, together forming the Hamburg cell. Atta disappeared from Germany for periods of time, spending some time in Afghanistan, including several months in late 1999 and early 2000 when he met Osama bin Laden and other top al-Qaeda leaders. Atta and the other Hamburg cell members were recruited by bin Laden and Khalid Sheikh Mohammed for the \"planes operation\" in the United States. Atta returned to Hamburg in February 2000, and began inquiring about flight training in the United States. Question: Where was Mohamed Mohamed el-Amir Awad el-Sayed Atta born? Answer:",
+    {
+        "id": "english--5520004393560617816-1",
+        "lang": "english",
+        "summary": "Atta was born in 1968 in a small town in Egypt's Nile Delta. He was 10 years old when he moved with his family to the Abdeen section of Cairo. Atta studied architecture at Cairo University, graduating in 1990, and continued his studies in Germany at the Hamburg University of Technology. In Hamburg, Atta became involved with the al-Quds Mosque, where he met Marwan al-Shehhi, Ramzi bin al-Shibh, and Ziad Jarrah, together forming the Hamburg cell. Atta disappeared from Germany for periods of time, spending some time in Afghanistan, including several months in late 1999 and early 2000 when he met Osama bin Laden and other top al-Qaeda leaders. Atta and the other Hamburg cell members were recruited by bin Laden and Khalid Sheikh Mohammed for the \"planes operation\" in the United States. Atta returned to Hamburg in February 2000, and began inquiring about flight training in the United States.",
+        "question": "Where was Mohamed Mohamed el-Amir Awad el-Sayed Atta born?",
+        "label": "a small town in Egypt's Nile Delta"
+    }
+]

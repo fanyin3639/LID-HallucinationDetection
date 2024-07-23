@@ -1,0 +1,19 @@
+[
+    [
+        585,
+        [],
+        "Yes"
+    ],
+    "Answer the following questions:\nContext: A gene is a locus (or region) of DNA that encodes a functional RNA or protein product, and is the molecular unit of heredity.:Glossary The transmission of genes to an organism's offspring is the basis of the inheritance of phenotypic traits. Most biological traits are under the influence of polygenes (many different genes) as well as the gene\u2013environment interactions. Some genetic traits are instantly visible, such as eye colour or number of limbs, and some are not, such as blood type, risk for specific diseases, or the thousands of basic biochemical processes that comprise life. \n\nGenes can acquire mutations in their sequence, leading to different variants, known as alleles, in the population. These alleles encode slightly different versions of a protein, which cause different phenotype traits. Colloquial usage of the term \"having a gene\" (e.g., \"good genes,\" \"hair colour gene\") typically refers to having a different allele of the gene. Genes evolve due to natural selection or survival of the fittest of the alleles.\n'Question': are genes related to DNA?\n'Answer: '",
+    {
+        "id": "3quo65dnquoyop61ycae4yp7zexuoo_9",
+        "summary": "A gene is a locus (or region) of DNA that encodes a functional RNA or protein product, and is the molecular unit of heredity.:Glossary The transmission of genes to an organism's offspring is the basis of the inheritance of phenotypic traits. Most biological traits are under the influence of polygenes (many different genes) as well as the gene\u2013environment interactions. Some genetic traits are instantly visible, such as eye colour or number of limbs, and some are not, such as blood type, risk for specific diseases, or the thousands of basic biochemical processes that comprise life. \n\nGenes can acquire mutations in their sequence, leading to different variants, known as alleles, in the population. These alleles encode slightly different versions of a protein, which cause different phenotype traits. Colloquial usage of the term \"having a gene\" (e.g., \"good genes,\" \"hair colour gene\") typically refers to having a different allele of the gene. Genes evolve due to natural selection or survival of the fittest of the alleles.",
+        "question": "are genes related to DNA?",
+        "label": "Yes",
+        "additional_answers": [
+            "Yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

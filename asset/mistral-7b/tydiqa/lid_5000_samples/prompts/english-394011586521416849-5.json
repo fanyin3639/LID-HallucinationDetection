@@ -1,0 +1,15 @@
+[
+    [
+        1510,
+        [],
+        "total surface area of about 500square cm"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The unusual surface appearance of the cerebellum conceals the fact that most of its volume is made up of a very tightly folded layer of gray matter: the cerebellar cortex. Each ridge or gyrus in this layer is called a folium. It is estimated that, if the human cerebellar cortex were completely unfolded, it would give rise to a layer of neural tissue about 1meter long and averaging 5centimeters wide\u2014a total surface area of about 500square cm, packed within a volume of dimensions 6cm \u00d7 5cm \u00d7 10cm.[8] Underneath the gray matter of the cortex lies white matter, made up largely of myelinated nerve fibers running to and from the cortex. Embedded within the white matter\u2014which is sometimes called the arbor vitae (tree of life) because of its branched, tree-like appearance in cross-section\u2014are four deep cerebellar nuclei, composed of gray matter.[10] Question: How large is the human cerebellum? Answer:",
+    {
+        "id": "english-394011586521416849-5",
+        "lang": "english",
+        "summary": "The unusual surface appearance of the cerebellum conceals the fact that most of its volume is made up of a very tightly folded layer of gray matter: the cerebellar cortex. Each ridge or gyrus in this layer is called a folium. It is estimated that, if the human cerebellar cortex were completely unfolded, it would give rise to a layer of neural tissue about 1meter long and averaging 5centimeters wide\u2014a total surface area of about 500square cm, packed within a volume of dimensions 6cm \u00d7 5cm \u00d7 10cm.[8] Underneath the gray matter of the cortex lies white matter, made up largely of myelinated nerve fibers running to and from the cortex. Embedded within the white matter\u2014which is sometimes called the arbor vitae (tree of life) because of its branched, tree-like appearance in cross-section\u2014are four deep cerebellar nuclei, composed of gray matter.[10]",
+        "question": "How large is the human cerebellum?",
+        "label": "total surface area of about 500square cm"
+    }
+]

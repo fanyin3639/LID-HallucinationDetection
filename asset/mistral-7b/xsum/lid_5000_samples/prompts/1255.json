@@ -1,0 +1,14 @@
+[
+    [
+        1255,
+        [],
+        "A group of Royal Navy mine clearance divers based in Portsmouth have walked a marathon underwater for charity."
+    ],
+    "Write a short summary for the following passage:\nThe 14 divers from Fleet Diving Squadron, at Horsea Island, completed the 26 mile (42km) walk in the lake at their base in 25 hours.\nThe divers took turns to walk the 1km (3,280ft) length of the lake in pairs, wearing air cylinders and lead-lined boots.\nThey completed the challenge five hours under their target time of 30 hours.\nThey expect to raise \u00c2\u00a35,000 for the Royal Navy and Royal Marines Charity (RNRMC) which helps sailors, marines and their families from the event.\nSummary:\n",
+    {
+        "id": 1255,
+        "document": "The 14 divers from Fleet Diving Squadron, at Horsea Island, completed the 26 mile (42km) walk in the lake at their base in 25 hours.\nThe divers took turns to walk the 1km (3,280ft) length of the lake in pairs, wearing air cylinders and lead-lined boots.\nThey completed the challenge five hours under their target time of 30 hours.\nThey expect to raise \u00c2\u00a35,000 for the Royal Navy and Royal Marines Charity (RNRMC) which helps sailors, marines and their families from the event.",
+        "summary": "A group of Royal Navy mine clearance divers based in Portsmouth have walked a marathon underwater for charity.",
+        "label": "A group of Royal Navy mine clearance divers based in Portsmouth have walked a marathon underwater for charity."
+    }
+]

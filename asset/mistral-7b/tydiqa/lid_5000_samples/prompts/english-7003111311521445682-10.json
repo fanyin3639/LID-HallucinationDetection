@@ -1,0 +1,15 @@
+[
+    [
+        3151,
+        [],
+        "Sir Isaac Newton"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Sir Isaac Newton described the motion of all objects using the concepts of inertia and force, and in doing so he found they obey certain conservation laws. In 1687, Newton published his thesis Philosophi\u00e6 Naturalis Principia Mathematica.[3][10] In this work Newton set out three laws of motion that to this day are the way forces are described in physics.[10] Question: Who identified force in physics? Answer:",
+    {
+        "id": "english-7003111311521445682-10",
+        "lang": "english",
+        "summary": "Sir Isaac Newton described the motion of all objects using the concepts of inertia and force, and in doing so he found they obey certain conservation laws. In 1687, Newton published his thesis Philosophi\u00e6 Naturalis Principia Mathematica.[3][10] In this work Newton set out three laws of motion that to this day are the way forces are described in physics.[10]",
+        "question": "Who identified force in physics?",
+        "label": "Sir Isaac Newton"
+    }
+]

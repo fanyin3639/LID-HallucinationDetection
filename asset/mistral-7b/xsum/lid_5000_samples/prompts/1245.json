@@ -1,0 +1,14 @@
+[
+    [
+        1245,
+        [],
+        "Green Party leader Natalie Bennett has said she is open to discussing the possibility of legalising marriages between more than two people."
+    ],
+    "Write a short summary for the following passage:\nMs Bennett said she was \"open to further discussion and consultation\" during a question and answer session with Pink News readers.\nHer party has launched its LGBTIQ (lesbian, gay, bisexual, trans, intersex and queer) manifesto.\nShe pledged the Greens would work towards ending discrimination.\nDuring the Pink News Q&A, she was quizzed by a reader who said he was living with two boyfriends in a stable long-term relationship and asked: \"Is there room for Green support on group civil partnerships or marriages?\"\nThe reader said people in a three-way relationship faced legal discrimination because they are \"denied marriage equality\".\nMs Bennett replied: \"At present, we do not have a policy on civil partnerships involving more than two people.\n\"We are, uniquely in this country, a party whose policies are developed and voted for by our members.\n\"We have led the way on many issues related to the liberalisation of legal status in adult consenting relationships, and we are open to further conversation and consultation on this issue.\"\nSummary:\n",
+    {
+        "id": 1245,
+        "document": "Ms Bennett said she was \"open to further discussion and consultation\" during a question and answer session with Pink News readers.\nHer party has launched its LGBTIQ (lesbian, gay, bisexual, trans, intersex and queer) manifesto.\nShe pledged the Greens would work towards ending discrimination.\nDuring the Pink News Q&A, she was quizzed by a reader who said he was living with two boyfriends in a stable long-term relationship and asked: \"Is there room for Green support on group civil partnerships or marriages?\"\nThe reader said people in a three-way relationship faced legal discrimination because they are \"denied marriage equality\".\nMs Bennett replied: \"At present, we do not have a policy on civil partnerships involving more than two people.\n\"We are, uniquely in this country, a party whose policies are developed and voted for by our members.\n\"We have led the way on many issues related to the liberalisation of legal status in adult consenting relationships, and we are open to further conversation and consultation on this issue.\"",
+        "summary": "Green Party leader Natalie Bennett has said she is open to discussing the possibility of legalising marriages between more than two people.",
+        "label": "Green Party leader Natalie Bennett has said she is open to discussing the possibility of legalising marriages between more than two people."
+    }
+]

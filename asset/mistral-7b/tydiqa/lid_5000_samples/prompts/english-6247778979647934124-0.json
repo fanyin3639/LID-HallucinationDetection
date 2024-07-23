@@ -1,0 +1,15 @@
+[
+    [
+        2769,
+        [],
+        "central Italy"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage:  Tuscany (/\u02c8t\u028csk\u0259ni/ TUSK-\u0259-nee; Italian: Toscana, pronounced[to\u02c8ska\u02d0na]) is a region in central Italy with an area of about 23,000 square kilometres (8,900 square miles) and a population of about 3.8 million inhabitants (2013). The regional capital is Florence (Firenze). Question: Where in Italy is Tuscany? Answer:",
+    {
+        "id": "english-6247778979647934124-0",
+        "lang": "english",
+        "summary": " Tuscany (/\u02c8t\u028csk\u0259ni/ TUSK-\u0259-nee; Italian: Toscana, pronounced[to\u02c8ska\u02d0na]) is a region in central Italy with an area of about 23,000 square kilometres (8,900 square miles) and a population of about 3.8 million inhabitants (2013). The regional capital is Florence (Firenze).",
+        "question": "Where in Italy is Tuscany?",
+        "label": "central Italy"
+    }
+]

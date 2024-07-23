@@ -1,0 +1,14 @@
+[
+    [
+        1758,
+        [],
+        "Two 15-year-old boys have been arrested in connection with the murder of a man whose body was found on moorland in August."
+    ],
+    "Write a short summary for the following passage:\nCraig Nelson, 34, also known as Craig Preston, was found dead at the Woodhead Tunnels in Derbyshire on 22 August.\nSouth Yorkshire Police said a post-mortem examination revealed he died as a result of head injuries.\nIt brings the total number of arrests in connection with Mr Nelson's death to seven.\nA man and a woman, Mohammed Bashir, 41, and Leonie Mason, 23, both of Holme Park Court in Huddersfield, are due to to appear at Sheffield Crown Court on Tuesday.\nTwo 15-year-old boys and a 15-year-old girl were arrested in connection with the murder on 30 August and released on bail a day later.\nSummary:\n",
+    {
+        "id": 1758,
+        "document": "Craig Nelson, 34, also known as Craig Preston, was found dead at the Woodhead Tunnels in Derbyshire on 22 August.\nSouth Yorkshire Police said a post-mortem examination revealed he died as a result of head injuries.\nIt brings the total number of arrests in connection with Mr Nelson's death to seven.\nA man and a woman, Mohammed Bashir, 41, and Leonie Mason, 23, both of Holme Park Court in Huddersfield, are due to to appear at Sheffield Crown Court on Tuesday.\nTwo 15-year-old boys and a 15-year-old girl were arrested in connection with the murder on 30 August and released on bail a day later.",
+        "summary": "Two 15-year-old boys have been arrested in connection with the murder of a man whose body was found on moorland in August.",
+        "label": "Two 15-year-old boys have been arrested in connection with the murder of a man whose body was found on moorland in August."
+    }
+]

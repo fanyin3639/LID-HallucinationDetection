@@ -1,0 +1,15 @@
+[
+    [
+        2841,
+        [],
+        "1954"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Marlboro Man is a figure used in tobacco advertising campaigns for Marlboro cigarettes. In the United States, where the campaign originated, it was used from 1954 to 1999. The Marlboro Man was first conceived by Leo Burnett in 1954. The images initially featured rugged men portrayed in a variety of roles[1] but later primarily featured a rugged cowboy or cowboys, in picturesque wild terrain.[2] The advertisements were originally conceived as a way to popularize filtered cigarettes, which at the time were considered feminine. Question: When did the Marlboro Man first appear in Marlboro ad campaigns? Answer:",
+    {
+        "id": "english--1246636347557284137-0",
+        "lang": "english",
+        "summary": "The Marlboro Man is a figure used in tobacco advertising campaigns for Marlboro cigarettes. In the United States, where the campaign originated, it was used from 1954 to 1999. The Marlboro Man was first conceived by Leo Burnett in 1954. The images initially featured rugged men portrayed in a variety of roles[1] but later primarily featured a rugged cowboy or cowboys, in picturesque wild terrain.[2] The advertisements were originally conceived as a way to popularize filtered cigarettes, which at the time were considered feminine.",
+        "question": "When did the Marlboro Man first appear in Marlboro ad campaigns?",
+        "label": "1954"
+    }
+]

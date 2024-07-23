@@ -1,0 +1,15 @@
+[
+    [
+        2482,
+        [],
+        "New Taiwan dollar"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: New Taiwan dollar (Chinese:\u65b0\u81fa\u5e63; pinyin:X\u012bnt\u00e1ib\u00ec; Pe\u030dh-\u014de-j\u012b:Sin-t\u00e2i-phi\u00f2;  code: TWD; symbol: NT$, also abbreviated as NT) is the official currency of the Republic of China (ROC) used in Taiwan Area. Formally, one dollar (\u5713) is divided into ten dimes (\u89d2), and to 100 cents (\u5206), although cents are never used in practice. The New Taiwan dollars has been the currency of Taiwan since 1949, when it replaced the Old Taiwan dollar, at a rate of 40,000 old dollars per one new dollar.[1] There are a variety of alternative names to the units in Taiwan. The unit of dollar is usually written in simpler form as \u5143. Colloquially, the currency unit usually called \u584a (ku\u00e0i, literally piece) in Mandarin, \u7b8d (kho\u0358, literally hoop) in Taiwanese Hokkien, and \u9280 (ngi\u00f9n, literally silver) in Hakka. Question: What currency is used in Taiwan? Answer:",
+    {
+        "id": "english--919031947961296748-0",
+        "lang": "english",
+        "summary": "New Taiwan dollar (Chinese:\u65b0\u81fa\u5e63; pinyin:X\u012bnt\u00e1ib\u00ec; Pe\u030dh-\u014de-j\u012b:Sin-t\u00e2i-phi\u00f2;  code: TWD; symbol: NT$, also abbreviated as NT) is the official currency of the Republic of China (ROC) used in Taiwan Area. Formally, one dollar (\u5713) is divided into ten dimes (\u89d2), and to 100 cents (\u5206), although cents are never used in practice. The New Taiwan dollars has been the currency of Taiwan since 1949, when it replaced the Old Taiwan dollar, at a rate of 40,000 old dollars per one new dollar.[1] There are a variety of alternative names to the units in Taiwan. The unit of dollar is usually written in simpler form as \u5143. Colloquially, the currency unit usually called \u584a (ku\u00e0i, literally piece) in Mandarin, \u7b8d (kho\u0358, literally hoop) in Taiwanese Hokkien, and \u9280 (ngi\u00f9n, literally silver) in Hakka.",
+        "question": "What currency is used in Taiwan?",
+        "label": "New Taiwan dollar"
+    }
+]

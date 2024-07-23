@@ -1,0 +1,15 @@
+[
+    [
+        1182,
+        [],
+        "Kathmandu"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kathmandu (/\u02cck\u00e6tm\u00e6n\u02c8du\u02d0/;[2] Nepali: \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902, Nepal Bhasa: \u092f\u093c\u0947: Yei, Nepali pronunciation: [ka\u0288\u02b0ma\u0273\u0256u]) is the capital city and largest city of Nepal with a population of 1.5 million in the city proper, and 3 million in its wider urban agglomeration across the Kathmandu Valley, which includes the towns of Lalitpur, Kirtipur, Madhyapur Thimi, Bhaktapur making the total population roughly 2.5 million people and the municipalities across Kathmandu valley. Kathmandu is also the largest metropolis in the Himalayan hill region. Nepali is the most spoken language in the city, while English is widely understood. Question: What is the capital of Nepal? Answer:",
+    {
+        "id": "english--6013281381652626754-0",
+        "lang": "english",
+        "summary": "Kathmandu (/\u02cck\u00e6tm\u00e6n\u02c8du\u02d0/;[2] Nepali: \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902, Nepal Bhasa: \u092f\u093c\u0947: Yei, Nepali pronunciation: [ka\u0288\u02b0ma\u0273\u0256u]) is the capital city and largest city of Nepal with a population of 1.5 million in the city proper, and 3 million in its wider urban agglomeration across the Kathmandu Valley, which includes the towns of Lalitpur, Kirtipur, Madhyapur Thimi, Bhaktapur making the total population roughly 2.5 million people and the municipalities across Kathmandu valley. Kathmandu is also the largest metropolis in the Himalayan hill region. Nepali is the most spoken language in the city, while English is widely understood.",
+        "question": "What is the capital of Nepal?",
+        "label": "Kathmandu"
+    }
+]

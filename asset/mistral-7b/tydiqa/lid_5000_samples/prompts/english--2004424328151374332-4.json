@@ -1,0 +1,15 @@
+[
+    [
+        1306,
+        [],
+        "c. 570"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Although it is often argued that knowledge of the theorem predates him,[2][3] the theorem is named after the ancient Greek mathematician Pythagoras (c. 570\u2013495 BC) as it is he who, by tradition, is credited with its first proof, although no evidence of it exists.[4][5][6] There is some evidence that Babylonian mathematicians understood the formula, although little of it indicates an application within a mathematical framework.[7][8] Mesopotamian, Indian and Chinese mathematicians all discovered the theorem independently and, in some cases, provided proofs for special cases. Question: When was the Pythagorean theorem introduced? Answer:",
+    {
+        "id": "english--2004424328151374332-4",
+        "lang": "english",
+        "summary": "Although it is often argued that knowledge of the theorem predates him,[2][3] the theorem is named after the ancient Greek mathematician Pythagoras (c. 570\u2013495 BC) as it is he who, by tradition, is credited with its first proof, although no evidence of it exists.[4][5][6] There is some evidence that Babylonian mathematicians understood the formula, although little of it indicates an application within a mathematical framework.[7][8] Mesopotamian, Indian and Chinese mathematicians all discovered the theorem independently and, in some cases, provided proofs for special cases.",
+        "question": "When was the Pythagorean theorem introduced?",
+        "label": "c. 570"
+    }
+]

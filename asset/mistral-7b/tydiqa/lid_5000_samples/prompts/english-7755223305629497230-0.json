@@ -1,0 +1,15 @@
+[
+    [
+        461,
+        [],
+        "identifying someone involved in a criminal investigation who has not been arrested or formally accused of a crime"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: \"Person of interest\" is a term used by U.S. law enforcement when identifying someone involved in a criminal investigation who has not been arrested or formally accused of a crime. It has no legal meaning, but refers to someone in whom the police are \"interested,\" either because the person is  cooperating with the investigation, may have information that would assist the investigation, or possesses certain characteristics that merit further attention. Question: How do you become a person of interest? Answer:",
+    {
+        "id": "english-7755223305629497230-0",
+        "lang": "english",
+        "summary": "\"Person of interest\" is a term used by U.S. law enforcement when identifying someone involved in a criminal investigation who has not been arrested or formally accused of a crime. It has no legal meaning, but refers to someone in whom the police are \"interested,\" either because the person is  cooperating with the investigation, may have information that would assist the investigation, or possesses certain characteristics that merit further attention.",
+        "question": "How do you become a person of interest?",
+        "label": "identifying someone involved in a criminal investigation who has not been arrested or formally accused of a crime"
+    }
+]

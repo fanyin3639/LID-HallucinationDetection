@@ -1,0 +1,15 @@
+[
+    [
+        2086,
+        [],
+        "western Kosovo"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Gjakova (Albanian: Gjakov\u00eb) or \u0110akovica (Serbian Cyrillic: \u0402\u0430\u043a\u043e\u0432\u0438\u0446\u0430; sometimes transliterated as Djakovica) is a city and municipality located in the Gjakova District of western Kosovo.[lower-alpha 1] According to the 2011 census, the city of Gjakova has 40,827 inhabitants, while the municipality has,94,556 inhabitants.[1] Question: Where is Gjakova? Answer:",
+    {
+        "id": "english-4156735880764271754-0",
+        "lang": "english",
+        "summary": "Gjakova (Albanian: Gjakov\u00eb) or \u0110akovica (Serbian Cyrillic: \u0402\u0430\u043a\u043e\u0432\u0438\u0446\u0430; sometimes transliterated as Djakovica) is a city and municipality located in the Gjakova District of western Kosovo.[lower-alpha 1] According to the 2011 census, the city of Gjakova has 40,827 inhabitants, while the municipality has,94,556 inhabitants.[1]",
+        "question": "Where is Gjakova?",
+        "label": "western Kosovo"
+    }
+]

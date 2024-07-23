@@ -1,0 +1,15 @@
+[
+    [
+        434,
+        [],
+        "Before the Common Era"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Common Era or Current Era (CE)[1]  is one of the notation systems for the world's most widely used calendar era. BCE (Before the Common Era/Before the Current Era) is the era before CE. BCE and CE are alternatives to the Dionysian AD and BC system. The Dionysian era distinguishes eras using AD (anno Domini, \"[the] year of [the] Lord\")[2] and BC (\"before Christ\"). Since the two notation systems are numerically equivalent, \"2019 CE\" corresponds to \"AD 2019\" and \"400 BCE\" corresponds to \"400 BC\".[2][3][4][lower-alpha 1] Both notations refer to the Gregorian calendar (and its predecessor, the Julian calendar). The year-numbering system utilized by the Gregorian calendar is used throughout the world today, and is an international standard for civil calendars.[5] Question: What's the meaning of BCE Answer:",
+    {
+        "id": "english-635948468880402909-0",
+        "lang": "english",
+        "summary": "Common Era or Current Era (CE)[1]  is one of the notation systems for the world's most widely used calendar era. BCE (Before the Common Era/Before the Current Era) is the era before CE. BCE and CE are alternatives to the Dionysian AD and BC system. The Dionysian era distinguishes eras using AD (anno Domini, \"[the] year of [the] Lord\")[2] and BC (\"before Christ\"). Since the two notation systems are numerically equivalent, \"2019 CE\" corresponds to \"AD 2019\" and \"400 BCE\" corresponds to \"400 BC\".[2][3][4][lower-alpha 1] Both notations refer to the Gregorian calendar (and its predecessor, the Julian calendar). The year-numbering system utilized by the Gregorian calendar is used throughout the world today, and is an international standard for civil calendars.[5]",
+        "question": "What's the meaning of BCE",
+        "label": "Before the Common Era"
+    }
+]

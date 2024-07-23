@@ -1,0 +1,15 @@
+[
+    [
+        325,
+        [],
+        "750 miles (1,200 km) from north to south, with an average width of 200 miles (320 km)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The wide and endorheic Caspian Sea has a north\u2013south orientation and its main freshwater inflow, the Volga River, enters at the shallow north end. Two deep basins occupy its central and southern areas. These facts lead to horizontal differences in temperature, salinity, and ecology. The Caspian Sea spreads out over nearly 750 miles (1,200 km) from north to south, with an average width of 200 miles (320 km). It covers a region of around 149,200 square miles (386,400 square km)\u2014bigger than the region of Japan\u2014and its surface is about 90 feet (27 meters) below sea level. The sea bed in the southern part reaches as low as 1,023 m (3,356 ft) below sea level, which is the second lowest natural depression on earth after Lake Baikal (\u22121,180 m, \u22123,871 ft). The ancient inhabitants of its coast perceived the Caspian Sea as an ocean, probably because of its saltiness and large size. Question: How large is the Caspian Sea? Answer:",
+    {
+        "id": "english-1554019318566974271-1",
+        "lang": "english",
+        "summary": "The wide and endorheic Caspian Sea has a north\u2013south orientation and its main freshwater inflow, the Volga River, enters at the shallow north end. Two deep basins occupy its central and southern areas. These facts lead to horizontal differences in temperature, salinity, and ecology. The Caspian Sea spreads out over nearly 750 miles (1,200 km) from north to south, with an average width of 200 miles (320 km). It covers a region of around 149,200 square miles (386,400 square km)\u2014bigger than the region of Japan\u2014and its surface is about 90 feet (27 meters) below sea level. The sea bed in the southern part reaches as low as 1,023 m (3,356 ft) below sea level, which is the second lowest natural depression on earth after Lake Baikal (\u22121,180 m, \u22123,871 ft). The ancient inhabitants of its coast perceived the Caspian Sea as an ocean, probably because of its saltiness and large size.",
+        "question": "How large is the Caspian Sea?",
+        "label": "750 miles (1,200 km) from north to south, with an average width of 200 miles (320 km)"
+    }
+]

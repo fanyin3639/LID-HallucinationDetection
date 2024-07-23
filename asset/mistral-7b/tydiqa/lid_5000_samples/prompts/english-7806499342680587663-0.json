@@ -1,0 +1,15 @@
+[
+    [
+        1154,
+        [],
+        "Albany, New York"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Arbor Hill is a neighborhood in Albany, New York, generally defined as the area from Clinton Avenue north to Tivoli Hollow and the Livingston Avenue Railroad Bridge and from Broadway west to Henry Johnson Boulevard.[1] Both Clinton Avenue and Henry Johnson Boulevard are signed as U.S. Route 9. It was outside Albany's first boundaries as set up in the Dongan Charter of 1686. The original name of the area was Colonie (which is applied now to the current town to the north), and the area was incorporated under that name as a village in 1804; it was annexed by Albany in 1815.[2] There are two sub-neighborhoods in Arbor Hill, Dudley Heights[3] and the Ten Broeck Triangle.[4] \"Arbor Hill\" was the name given to the Ten Broeck estate;[5] the Ten Broeck Mansion is still an important cultural and historical museum. The neighborhood has other historical and cultural sights such as the Palace Theatre and St. Joseph's Church. Demographically it is predominantly African-American. Question: Where is the Arbor Hill neighborhood? Answer:",
+    {
+        "id": "english-7806499342680587663-0",
+        "lang": "english",
+        "summary": "Arbor Hill is a neighborhood in Albany, New York, generally defined as the area from Clinton Avenue north to Tivoli Hollow and the Livingston Avenue Railroad Bridge and from Broadway west to Henry Johnson Boulevard.[1] Both Clinton Avenue and Henry Johnson Boulevard are signed as U.S. Route 9. It was outside Albany's first boundaries as set up in the Dongan Charter of 1686. The original name of the area was Colonie (which is applied now to the current town to the north), and the area was incorporated under that name as a village in 1804; it was annexed by Albany in 1815.[2] There are two sub-neighborhoods in Arbor Hill, Dudley Heights[3] and the Ten Broeck Triangle.[4] \"Arbor Hill\" was the name given to the Ten Broeck estate;[5] the Ten Broeck Mansion is still an important cultural and historical museum. The neighborhood has other historical and cultural sights such as the Palace Theatre and St. Joseph's Church. Demographically it is predominantly African-American.",
+        "question": "Where is the Arbor Hill neighborhood?",
+        "label": "Albany, New York"
+    }
+]

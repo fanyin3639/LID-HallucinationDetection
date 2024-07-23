@@ -1,0 +1,15 @@
+[
+    [
+        137,
+        [],
+        "Romanian leu"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Romanian leu (Romanian pronunciation:[lew], plural lei [lej]; sign: L; ISO 4217 code: RON; numeric code: 946) is the currency of Romania. It is subdivided into 100 bani (Romanian pronunciation:[ban\u02b2], singular: ban [ban]), a word that is also used for \"money\" in the Romanian language. Question: What currency is used in Romania? Answer:",
+    {
+        "id": "english-6080023211904185437-0",
+        "lang": "english",
+        "summary": "The Romanian leu (Romanian pronunciation:[lew], plural lei [lej]; sign: L; ISO 4217 code: RON; numeric code: 946) is the currency of Romania. It is subdivided into 100 bani (Romanian pronunciation:[ban\u02b2], singular: ban [ban]), a word that is also used for \"money\" in the Romanian language.",
+        "question": "What currency is used in Romania?",
+        "label": "Romanian leu"
+    }
+]

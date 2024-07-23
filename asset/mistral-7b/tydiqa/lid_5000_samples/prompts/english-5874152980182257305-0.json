@@ -1,0 +1,15 @@
+[
+    [
+        3090,
+        [],
+        "E major"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Anton Bruckner's Symphony No. 7 in E major (WAB 107) is one of his best-known symphonies. It was written between 1881 and 1883 and was revised in 1885. It is dedicated to Ludwig II of Bavaria.  The premiere, given under Arthur Nikisch and the Gewandhaus Orchestra in the opera house at Leipzig on 30 December 1884,[1] brought Bruckner the greatest success he had known in his life. The symphony is sometimes referred to as the \"Lyric\", though the appellation is not the composer's own, and is seldom used. Question: What is the key of Bruckner's seventh symphony? Answer:",
+    {
+        "id": "english-5874152980182257305-0",
+        "lang": "english",
+        "summary": "Anton Bruckner's Symphony No. 7 in E major (WAB 107) is one of his best-known symphonies. It was written between 1881 and 1883 and was revised in 1885. It is dedicated to Ludwig II of Bavaria.  The premiere, given under Arthur Nikisch and the Gewandhaus Orchestra in the opera house at Leipzig on 30 December 1884,[1] brought Bruckner the greatest success he had known in his life. The symphony is sometimes referred to as the \"Lyric\", though the appellation is not the composer's own, and is seldom used.",
+        "question": "What is the key of Bruckner's seventh symphony?",
+        "label": "E major"
+    }
+]

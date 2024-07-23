@@ -1,0 +1,15 @@
+[
+    [
+        147,
+        [],
+        "44,928,923"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the 2012 census, the total population was 44,928,923 compared to 12,313,469 in 1967,[5]:page 1 resulting in an annual growth rate of 2.9 percent. The under 15 age group represented 44.1 percent of the population, with 35.5 percent being in the 15\u201335 age group, 52.2 percent being in the 15\u201364 age group, and 3.8 percent being older than 64.[14] Question: What's the population of Tanzania? Answer:",
+    {
+        "id": "english--8323081305981702873-7",
+        "lang": "english",
+        "summary": "According to the 2012 census, the total population was 44,928,923 compared to 12,313,469 in 1967,[5]:page 1 resulting in an annual growth rate of 2.9 percent. The under 15 age group represented 44.1 percent of the population, with 35.5 percent being in the 15\u201335 age group, 52.2 percent being in the 15\u201364 age group, and 3.8 percent being older than 64.[14]",
+        "question": "What's the population of Tanzania?",
+        "label": "44,928,923"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1010,
+        [],
+        "600"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Critical Language Scholarship (CLS) Program is a United States Department of State cultural and educational exchange program which offers approximately 600 students from the United States the opportunity to participate in an intensive language study abroad. This nationally competitive program funds students who study one of the 15 critical need foreign languages, and is part of the National Security Language Initiative. The 15 critical languages include Arabic, Azerbaijani, Bengali, Chinese, Hindi, Indonesian, Japanese, Korean, Persian, Portuguese, Punjabi, Russian, Swahili, Turkish and Urdu. With an acceptance rate of less than 10%, the Critical Language Scholarship is one of the most competitive scholarships in the U.S. and the most prestigious language programs for U.S. citizens.[1][2][3] Question: How many students are typically enrolled in CLS? Answer:",
+    {
+        "id": "english--4627443012904320895-0",
+        "lang": "english",
+        "summary": "The Critical Language Scholarship (CLS) Program is a United States Department of State cultural and educational exchange program which offers approximately 600 students from the United States the opportunity to participate in an intensive language study abroad. This nationally competitive program funds students who study one of the 15 critical need foreign languages, and is part of the National Security Language Initiative. The 15 critical languages include Arabic, Azerbaijani, Bengali, Chinese, Hindi, Indonesian, Japanese, Korean, Persian, Portuguese, Punjabi, Russian, Swahili, Turkish and Urdu. With an acceptance rate of less than 10%, the Critical Language Scholarship is one of the most competitive scholarships in the U.S. and the most prestigious language programs for U.S. citizens.[1][2][3]",
+        "question": "How many students are typically enrolled in CLS?",
+        "label": "600"
+    }
+]

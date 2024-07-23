@@ -1,0 +1,14 @@
+[
+    [
+        1428,
+        [],
+        "A 20-year-old man who died in a two-car crash near Southampton had been man of the match for his rugby team earlier in the day, his family has said."
+    ],
+    "Write a short summary for the following passage:\nMacaulay Campbell, known as Mac, was driving a Volkswagen Lupo which collided with a BMW on the A3057 between Nursling and Romsey late on Saturday evening.\nHe was pronounced dead the scene.\nA family statement said he was \"a truly loving and active young man in the prime of his life.\"\nThe male driver and female passenger of the BMW 520 were taken to hospital with non-life-threatening injuries. Police have appealed for witnesses.\nMr Campbell's family said he had won a match playing for Romsey Rugby Club earlier on Saturday.\n\"He enjoyed his work as an apprentice fitter with Sparkes of Totton and he loved his sport, especially rugby,\" a statement said.\nRomsey Rugby Club issued a statement which described him as a \"bright and loved Romsey star\".\n\"He was an excellent player and a great guy around the club,\" it added.\nSummary:\n",
+    {
+        "id": 1428,
+        "document": "Macaulay Campbell, known as Mac, was driving a Volkswagen Lupo which collided with a BMW on the A3057 between Nursling and Romsey late on Saturday evening.\nHe was pronounced dead the scene.\nA family statement said he was \"a truly loving and active young man in the prime of his life.\"\nThe male driver and female passenger of the BMW 520 were taken to hospital with non-life-threatening injuries. Police have appealed for witnesses.\nMr Campbell's family said he had won a match playing for Romsey Rugby Club earlier on Saturday.\n\"He enjoyed his work as an apprentice fitter with Sparkes of Totton and he loved his sport, especially rugby,\" a statement said.\nRomsey Rugby Club issued a statement which described him as a \"bright and loved Romsey star\".\n\"He was an excellent player and a great guy around the club,\" it added.",
+        "summary": "A 20-year-old man who died in a two-car crash near Southampton had been man of the match for his rugby team earlier in the day, his family has said.",
+        "label": "A 20-year-old man who died in a two-car crash near Southampton had been man of the match for his rugby team earlier in the day, his family has said."
+    }
+]

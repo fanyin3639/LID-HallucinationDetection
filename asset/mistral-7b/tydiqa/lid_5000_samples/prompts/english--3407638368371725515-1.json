@@ -1,0 +1,15 @@
+[
+    [
+        2295,
+        [],
+        "1887"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: First appearing in print in 1887's A Study in Scarlet, the character's popularity became widespread with the first series of short stories in The Strand Magazine, beginning with \"A Scandal in Bohemia\" in 1891; additional tales appeared from then until 1927, eventually totalling four novels and 56 short stories. All but one are set in the Victorian or Edwardian eras, between about 1880 and 1914. Most are narrated by the character of Holmes's friend and biographer Dr. Watson, who usually accompanies Holmes during his investigations and often shares quarters with him at the address of 221B Baker Street, London, where many of the stories begin. Question: When was the character Sherlock Holmes first introduced? Answer:",
+    {
+        "id": "english--3407638368371725515-1",
+        "lang": "english",
+        "summary": "First appearing in print in 1887's A Study in Scarlet, the character's popularity became widespread with the first series of short stories in The Strand Magazine, beginning with \"A Scandal in Bohemia\" in 1891; additional tales appeared from then until 1927, eventually totalling four novels and 56 short stories. All but one are set in the Victorian or Edwardian eras, between about 1880 and 1914. Most are narrated by the character of Holmes's friend and biographer Dr. Watson, who usually accompanies Holmes during his investigations and often shares quarters with him at the address of 221B Baker Street, London, where many of the stories begin.",
+        "question": "When was the character Sherlock Holmes first introduced?",
+        "label": "1887"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        489,
+        [],
+        "mimic the effects of endogenous estrogen and thus have been implicated in precocious puberty"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Xenoestrogens are clinically significant because they can mimic the effects of endogenous estrogen and thus have been implicated in precocious puberty and other disorders of the reproductive system.[1][2] Question: What can we do with xenoestrogens? Answer:",
+    {
+        "id": "english-7513406296670625036-1",
+        "lang": "english",
+        "summary": "Xenoestrogens are clinically significant because they can mimic the effects of endogenous estrogen and thus have been implicated in precocious puberty and other disorders of the reproductive system.[1][2]",
+        "question": "What can we do with xenoestrogens?",
+        "label": "mimic the effects of endogenous estrogen and thus have been implicated in precocious puberty"
+    }
+]

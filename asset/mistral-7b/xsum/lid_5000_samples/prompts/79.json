@@ -1,0 +1,14 @@
+[
+    [
+        79,
+        [],
+        "At the end of the debate, some of the audience I spoke to were clearly pretty fed up that Theresa May hadn't turned up."
+    ],
+    "Write a short summary for the following passage:\nIn contrast, they were pleased that Jeremy Corbyn had shown his face. For him, that decision seems to have been a tactical win. If elections really are a game, he took the points today.\nBut whether his performance will have the same impact on a wider audience, particularly undecided voters, is a different matter.\nIn the spin room tonight where the press were watching and senior politicians were trying to claim victory for their competitor, it didn't feel like a wake or a celebration for any party in particular.\nNone of the participants achieved a big breakthrough moment.\nBut nor, crucially, did any of them have a cringing disaster.\nBy polling day, tonight's event may be remembered more for the day that Mrs May didn't show, than anything that was actually said on the platform.\nSummary:\n",
+    {
+        "id": 79,
+        "document": "In contrast, they were pleased that Jeremy Corbyn had shown his face. For him, that decision seems to have been a tactical win. If elections really are a game, he took the points today.\nBut whether his performance will have the same impact on a wider audience, particularly undecided voters, is a different matter.\nIn the spin room tonight where the press were watching and senior politicians were trying to claim victory for their competitor, it didn't feel like a wake or a celebration for any party in particular.\nNone of the participants achieved a big breakthrough moment.\nBut nor, crucially, did any of them have a cringing disaster.\nBy polling day, tonight's event may be remembered more for the day that Mrs May didn't show, than anything that was actually said on the platform.",
+        "summary": "At the end of the debate, some of the audience I spoke to were clearly pretty fed up that Theresa May hadn't turned up.",
+        "label": "At the end of the debate, some of the audience I spoke to were clearly pretty fed up that Theresa May hadn't turned up."
+    }
+]

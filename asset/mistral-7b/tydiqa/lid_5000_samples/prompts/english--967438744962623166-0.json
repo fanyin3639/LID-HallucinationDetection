@@ -1,0 +1,15 @@
+[
+    [
+        1821,
+        [],
+        "Kindred"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kindred is a novel by American writer Octavia E. Butler that incorporates time travel and is modeled on slave narratives. First published in 1979, it is still widely popular. It has been frequently chosen as a text for community-wide reading programs and book organizations, as well as being a common choice for high school and college courses. Question: What was the first publisher of Kindred by Octavia E. Butler? Answer:",
+    {
+        "id": "english--967438744962623166-0",
+        "lang": "english",
+        "summary": "Kindred is a novel by American writer Octavia E. Butler that incorporates time travel and is modeled on slave narratives. First published in 1979, it is still widely popular. It has been frequently chosen as a text for community-wide reading programs and book organizations, as well as being a common choice for high school and college courses.",
+        "question": "What was the first publisher of Kindred by Octavia E. Butler?",
+        "label": "Kindred"
+    }
+]

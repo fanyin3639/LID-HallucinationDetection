@@ -1,0 +1,15 @@
+[
+    [
+        249,
+        [],
+        "67,000 square kilometres"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Macedonia (/\u02ccm\u00e6s\u026a\u02c8do\u028ani\u0259/(listen)) is a geographical and historical region of the Balkan Peninsula in Southeast Europe. Its boundaries have changed considerably over time; however, it came to be defined as the modern geographical region by the mid 19th century. Nowadays the region is considered to include parts of six Balkan countries: Greece, the Republic of Macedonia, Bulgaria, Albania, Serbia, and Kosovo.[a] It covers approximately 67,000 square kilometres (25,869sqmi) and has a population of 4.76 million. Question: How large is the region of Macedonia? Answer:",
+    {
+        "id": "english--8932337073762421267-0",
+        "lang": "english",
+        "summary": "Macedonia (/\u02ccm\u00e6s\u026a\u02c8do\u028ani\u0259/(listen)) is a geographical and historical region of the Balkan Peninsula in Southeast Europe. Its boundaries have changed considerably over time; however, it came to be defined as the modern geographical region by the mid 19th century. Nowadays the region is considered to include parts of six Balkan countries: Greece, the Republic of Macedonia, Bulgaria, Albania, Serbia, and Kosovo.[a] It covers approximately 67,000 square kilometres (25,869sqmi) and has a population of 4.76 million.",
+        "question": "How large is the region of Macedonia?",
+        "label": "67,000 square kilometres"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        769,
+        [],
+        "African bush elephant"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The heaviest land mammal has a weight up to 10 short tons (9.1t), the African bush elephant.[1] This enormous mammal measures approximately 24 feet (7.3m), and eats 500 pounds (230kg) of vegetation like grasses and leaves a day. Their two elongated teeth-tusks can grow continuously during their lives and reach about 9 feet (2.7m) in length. The average walking speed of an elephant is 4.5 miles per hour (7.2km/h), but they can run at recorded speeds up to, and sometimes exceeding, 15 miles per hour (24km/h).[2] Question: What is the biggest land mammal? Answer:",
+    {
+        "id": "english-3065779129988569780-0",
+        "lang": "english",
+        "summary": "The heaviest land mammal has a weight up to 10 short tons (9.1t), the African bush elephant.[1] This enormous mammal measures approximately 24 feet (7.3m), and eats 500 pounds (230kg) of vegetation like grasses and leaves a day. Their two elongated teeth-tusks can grow continuously during their lives and reach about 9 feet (2.7m) in length. The average walking speed of an elephant is 4.5 miles per hour (7.2km/h), but they can run at recorded speeds up to, and sometimes exceeding, 15 miles per hour (24km/h).[2]",
+        "question": "What is the biggest land mammal?",
+        "label": "African bush elephant"
+    }
+]

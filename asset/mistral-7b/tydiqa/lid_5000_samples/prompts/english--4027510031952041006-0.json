@@ -1,0 +1,15 @@
+[
+    [
+        2544,
+        [],
+        "any piece of sub-continental land that is surrounded by water"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: An island or isle is any piece of sub-continental land that is surrounded by water.[2] Very small islands such as emergent land features on atolls can be called islets, skerries, cays or keys. An island in a river or a lake island may be called an eyot or ait, and a small island off the coast may be called a holm. A grouping of geographically or geologically related islands is called an archipelago, such as the Philippines. Question: What is considered an island? Answer:",
+    {
+        "id": "english--4027510031952041006-0",
+        "lang": "english",
+        "summary": "An island or isle is any piece of sub-continental land that is surrounded by water.[2] Very small islands such as emergent land features on atolls can be called islets, skerries, cays or keys. An island in a river or a lake island may be called an eyot or ait, and a small island off the coast may be called a holm. A grouping of geographically or geologically related islands is called an archipelago, such as the Philippines.",
+        "question": "What is considered an island?",
+        "label": "any piece of sub-continental land that is surrounded by water"
+    }
+]

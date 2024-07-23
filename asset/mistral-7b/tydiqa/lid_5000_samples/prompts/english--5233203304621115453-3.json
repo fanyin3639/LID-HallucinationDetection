@@ -1,0 +1,15 @@
+[
+    [
+        1301,
+        [],
+        "1895"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The \"Harris Automatic Press Company\" was founded by Alfred S. Harris in Niles, Ohio, in 1895. The company spent the next 60 years developing lithographic processes and printing presses before acquiring typesetting company Intertype Corporation. In 1957, Harris acquired Gates Radio, a producer of broadcast transmitters and associated electronics gear, but kept the Gates brand name alive by putting the Gates sticker on the back of numerous transmitters that were labeled Harris on the front panels. Question: When was Harris Corporation founded? Answer:",
+    {
+        "id": "english--5233203304621115453-3",
+        "lang": "english",
+        "summary": "The \"Harris Automatic Press Company\" was founded by Alfred S. Harris in Niles, Ohio, in 1895. The company spent the next 60 years developing lithographic processes and printing presses before acquiring typesetting company Intertype Corporation. In 1957, Harris acquired Gates Radio, a producer of broadcast transmitters and associated electronics gear, but kept the Gates brand name alive by putting the Gates sticker on the back of numerous transmitters that were labeled Harris on the front panels.",
+        "question": "When was Harris Corporation founded?",
+        "label": "1895"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1326,
+        [],
+        "$300 million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mary-Kate and her twin Ashley's success has been marked by their inclusion on every Forbes The Celebrity 100 list since 2002,. In 2007, Forbes ranked the twins jointly as the eleventh-richest women in entertainment, with an estimated combined net worth of $300 million.[22] Forbes had the twins on their 30 Under 30: All-Star Alumni list in 2017.[23] Question: How much are the Olsen twins worth? Answer:",
+    {
+        "id": "english-228253519844408884-18",
+        "lang": "english",
+        "summary": "Mary-Kate and her twin Ashley's success has been marked by their inclusion on every Forbes The Celebrity 100 list since 2002,. In 2007, Forbes ranked the twins jointly as the eleventh-richest women in entertainment, with an estimated combined net worth of $300 million.[22] Forbes had the twins on their 30 Under 30: All-Star Alumni list in 2017.[23]",
+        "question": "How much are the Olsen twins worth?",
+        "label": "$300 million"
+    }
+]

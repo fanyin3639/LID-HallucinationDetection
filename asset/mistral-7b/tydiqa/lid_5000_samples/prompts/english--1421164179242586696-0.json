@@ -1,0 +1,15 @@
+[
+    [
+        582,
+        [],
+        "Tootsie Roll Industries"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Andes Chocolate Mints are small rectangular candies consisting of one mint-green layer sandwiched in between two chocolate-brown layers. The candies are usually wrapped in green foil imprinted with the company's logo, the word Andes written amidst a drawing of snow-capped peaks. First launched in 1950, they are produced by Tootsie Roll Industries and made in Delavan, Wisconsin. Question: Who created Andes mints? Answer:",
+    {
+        "id": "english--1421164179242586696-0",
+        "lang": "english",
+        "summary": "Andes Chocolate Mints are small rectangular candies consisting of one mint-green layer sandwiched in between two chocolate-brown layers. The candies are usually wrapped in green foil imprinted with the company's logo, the word Andes written amidst a drawing of snow-capped peaks. First launched in 1950, they are produced by Tootsie Roll Industries and made in Delavan, Wisconsin.",
+        "question": "Who created Andes mints?",
+        "label": "Tootsie Roll Industries"
+    }
+]

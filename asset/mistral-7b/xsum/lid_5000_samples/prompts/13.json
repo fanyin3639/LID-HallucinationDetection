@@ -1,0 +1,14 @@
+[
+    [
+        13,
+        [],
+        "A commemorative \u00a320 coin featuring the Welsh dragon has been revealed by the Royal Mint in Rhondda Cynon Taff."
+    ],
+    "Write a short summary for the following passage:\nThe Royal Mint, based in Llantrisant, said the silver coin was designed to be a collectable.\nIt has been created to celebrate \"the Welsh spirit\", it added.\nThe coin has been designed by sculptor Norman Sillman, who received his first commission from the Royal Mint back in 1958.\nDirector of commemorative coin, Anne Jessopp, said: \"This Welsh Dragon \u00a320 coin portrays the Welsh spirit and the excellence and craftsmanship of our workforce - something of which we are all so proud.\"\nThe organisation opened its new \"Royal Mint Experience\" to visitors in May.\nSummary:\n",
+    {
+        "id": 13,
+        "document": "The Royal Mint, based in Llantrisant, said the silver coin was designed to be a collectable.\nIt has been created to celebrate \"the Welsh spirit\", it added.\nThe coin has been designed by sculptor Norman Sillman, who received his first commission from the Royal Mint back in 1958.\nDirector of commemorative coin, Anne Jessopp, said: \"This Welsh Dragon \u00a320 coin portrays the Welsh spirit and the excellence and craftsmanship of our workforce - something of which we are all so proud.\"\nThe organisation opened its new \"Royal Mint Experience\" to visitors in May.",
+        "summary": "A commemorative \u00a320 coin featuring the Welsh dragon has been revealed by the Royal Mint in Rhondda Cynon Taff.",
+        "label": "A commemorative \u00a320 coin featuring the Welsh dragon has been revealed by the Royal Mint in Rhondda Cynon Taff."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1413,
+        [],
+        "\u02d0])"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A-ha (usually stylized as a-h<i data-parsoid='{\"dsr\":[1236,1241,2,2]}'>a; Norwegian pronunciation:[\u0251\u02c8h\u0251\u02d0]) is a Norwegian band formed in Oslo in 1982. Founded by Morten Harket (vocals, guitars), Magne Furuholmen (keyboards, guitars) and Paul Waaktaar-Savoy (guitars), the band rose to fame during the mid-1980s after being discovered by musician and producer John Ratcliff, and continued its global success in the 1990s and 2000s. Question: When was the AHA formed? Answer:",
+    {
+        "id": "english-7415293599149592139-0",
+        "lang": "english",
+        "summary": "A-ha (usually stylized as a-h<i data-parsoid='{\"dsr\":[1236,1241,2,2]}'>a; Norwegian pronunciation:[\u0251\u02c8h\u0251\u02d0]) is a Norwegian band formed in Oslo in 1982. Founded by Morten Harket (vocals, guitars), Magne Furuholmen (keyboards, guitars) and Paul Waaktaar-Savoy (guitars), the band rose to fame during the mid-1980s after being discovered by musician and producer John Ratcliff, and continued its global success in the 1990s and 2000s.",
+        "question": "When was the AHA formed?",
+        "label": "\u02d0])"
+    }
+]

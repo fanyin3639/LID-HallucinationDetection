@@ -1,0 +1,15 @@
+[
+    [
+        1892,
+        [],
+        "1901"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Commonwealth of Australia was formed in 1901 as a result of an agreement among six self-governing British colonies, which became the six states. The terms of this contract are embodied in the Australian Constitution, which was drawn up at a Constitutional Convention and ratified by the people of the colonies at referendums. The Australian head of state is the Queen of Australia who is represented by the Governor-General of Australia,[1][2][3][4][5] with executive powers delegated by constitutional convention to the Australian head of government, the Prime Minister of Australia. Question: When was the Australian government formed? Answer:",
+    {
+        "id": "english--2930294568511355928-2",
+        "lang": "english",
+        "summary": "The Commonwealth of Australia was formed in 1901 as a result of an agreement among six self-governing British colonies, which became the six states. The terms of this contract are embodied in the Australian Constitution, which was drawn up at a Constitutional Convention and ratified by the people of the colonies at referendums. The Australian head of state is the Queen of Australia who is represented by the Governor-General of Australia,[1][2][3][4][5] with executive powers delegated by constitutional convention to the Australian head of government, the Prime Minister of Australia.",
+        "question": "When was the Australian government formed?",
+        "label": "1901"
+    }
+]

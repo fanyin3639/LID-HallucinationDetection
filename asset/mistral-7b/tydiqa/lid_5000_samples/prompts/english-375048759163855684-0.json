@@ -1,0 +1,15 @@
+[
+    [
+        871,
+        [],
+        "Japan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Super Sentai Series(\u30b9\u30fc\u30d1\u30fc\u6226\u968a\u30b7\u30ea\u30fc\u30ba,S\u016bp\u0101 Sentai Shir\u012bzu) is a Japanese superhero team metaseries of TV series produced by Toei Company, Toei Agency and Bandai, and aired by TV Asahi (\"Sentai\" is the Japanese word for \"task force\" or \"fighting squadron\"). The shows are of the tokusatsu genre, featuring live action characters and colorful special effects, and are aimed at children. Super Sentai airs alongside the Kamen Rider series in the Super Hero Time programming block on Sunday mornings. In North America, the Super Sentai Series is best known as the source material for the Power Rangers franchise. Question: Where is the Super Sentai Series from? Answer:",
+    {
+        "id": "english-375048759163855684-0",
+        "lang": "english",
+        "summary": "The Super Sentai Series(\u30b9\u30fc\u30d1\u30fc\u6226\u968a\u30b7\u30ea\u30fc\u30ba,S\u016bp\u0101 Sentai Shir\u012bzu) is a Japanese superhero team metaseries of TV series produced by Toei Company, Toei Agency and Bandai, and aired by TV Asahi (\"Sentai\" is the Japanese word for \"task force\" or \"fighting squadron\"). The shows are of the tokusatsu genre, featuring live action characters and colorful special effects, and are aimed at children. Super Sentai airs alongside the Kamen Rider series in the Super Hero Time programming block on Sunday mornings. In North America, the Super Sentai Series is best known as the source material for the Power Rangers franchise.",
+        "question": "Where is the Super Sentai Series from?",
+        "label": "Japan"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        571,
+        [],
+        "Acharya Jagadish Chandra Bose Road"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Acharya Jagadish Chandra Bose Road, earlier known as Lower Circular Road, and its continuation northwards called Acharya Prafulla Chandra Road or Upper Circular Road, is the longest and the most important north-south thoroughfare in Kolkata, India. Question: What is the largest road in Kolkata? Answer:",
+    {
+        "id": "english-6224744590854645471-0",
+        "lang": "english",
+        "summary": "Acharya Jagadish Chandra Bose Road, earlier known as Lower Circular Road, and its continuation northwards called Acharya Prafulla Chandra Road or Upper Circular Road, is the longest and the most important north-south thoroughfare in Kolkata, India.",
+        "question": "What is the largest road in Kolkata?",
+        "label": "Acharya Jagadish Chandra Bose Road"
+    }
+]

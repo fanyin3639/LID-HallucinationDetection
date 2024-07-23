@@ -1,0 +1,15 @@
+[
+    [
+        2627,
+        [],
+        "30 Rockefeller Plaza"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: NBC Studios are located in the historic 30 Rockefeller Plaza (on Sixth Avenue between 49th and 50th streets) in the borough of Manhattan, New York City. The building houses the NBC television network headquarters, its parent NBCUniversal, and NBC's flagship station WNBC (Channel 4), as well as cable news channel MSNBC. Question: Where is NBC headquartered? Answer:",
+    {
+        "id": "english--2726977352949076885-0",
+        "lang": "english",
+        "summary": "NBC Studios are located in the historic 30 Rockefeller Plaza (on Sixth Avenue between 49th and 50th streets) in the borough of Manhattan, New York City. The building houses the NBC television network headquarters, its parent NBCUniversal, and NBC's flagship station WNBC (Channel 4), as well as cable news channel MSNBC.",
+        "question": "Where is NBC headquartered?",
+        "label": "30 Rockefeller Plaza"
+    }
+]

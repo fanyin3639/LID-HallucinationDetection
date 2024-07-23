@@ -1,0 +1,15 @@
+[
+    [
+        2616,
+        [],
+        "5:21pm"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Twin Towers of New York City's World Trade Center collapsed after being deliberately struck by two commercial passenger jets during the September 11 attacks. A total of four commercial aircraft were hijacked by al-Qaeda terrorists on 9/11 and two of those were crashed into the Twin Towers.[1] American Airlines Flight 11 was crashed into the north side of the North Tower (One World Trade Center) and United Airlines Flight 175 was crashed into the south side of the South Tower (Two World Trade Center).[2] The collapse of the Twin Towers destroyed the rest of the complex, and debris from the collapsing towers severely damaged or destroyed more than a dozen other adjacent and nearby structures. The South Tower collapsed at 9:59am, less than an hour after being hit, followed by the North Tower at 10:28am. Later that day, the nearby Seven World Trade Center collapsed at 5:21pm from fires that had started when the North Tower collapsed.[3] As a result of the attacks to the towers, a total of 2,763 people died including 2,192 civilians, 343 firefighters, and 71 law enforcement officers as well as all the passengers and crew on the airplanes, including 147 civilians and the 10 hijackers.[4] Question: At what time did the first tower of the World Trade Center fall on September 11? Answer:",
+    {
+        "id": "english--1423940558074996784-0",
+        "lang": "english",
+        "summary": "The Twin Towers of New York City's World Trade Center collapsed after being deliberately struck by two commercial passenger jets during the September 11 attacks. A total of four commercial aircraft were hijacked by al-Qaeda terrorists on 9/11 and two of those were crashed into the Twin Towers.[1] American Airlines Flight 11 was crashed into the north side of the North Tower (One World Trade Center) and United Airlines Flight 175 was crashed into the south side of the South Tower (Two World Trade Center).[2] The collapse of the Twin Towers destroyed the rest of the complex, and debris from the collapsing towers severely damaged or destroyed more than a dozen other adjacent and nearby structures. The South Tower collapsed at 9:59am, less than an hour after being hit, followed by the North Tower at 10:28am. Later that day, the nearby Seven World Trade Center collapsed at 5:21pm from fires that had started when the North Tower collapsed.[3] As a result of the attacks to the towers, a total of 2,763 people died including 2,192 civilians, 343 firefighters, and 71 law enforcement officers as well as all the passengers and crew on the airplanes, including 147 civilians and the 10 hijackers.[4]",
+        "question": "At what time did the first tower of the World Trade Center fall on September 11?",
+        "label": "5:21pm"
+    }
+]

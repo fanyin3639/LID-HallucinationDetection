@@ -1,0 +1,15 @@
+[
+    [
+        2400,
+        [],
+        "anuary 24 through January 26, 2017"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The New Edition Story is an American biographical three-part miniseries about the R&B group New Edition, from their rise to fame as a boy band from the Orchard Park Projects of Roxbury, Massachusetts, to becoming a successful adult act. It was originally broadcast on BET from January 24 through January 26, 2017, becoming the network's first scripted miniseries. All six members of New Edition served as co-producers.[1] Question: When did The New Edition Story first air? Answer:",
+    {
+        "id": "english-3701046436936823655-0",
+        "lang": "english",
+        "summary": "The New Edition Story is an American biographical three-part miniseries about the R&B group New Edition, from their rise to fame as a boy band from the Orchard Park Projects of Roxbury, Massachusetts, to becoming a successful adult act. It was originally broadcast on BET from January 24 through January 26, 2017, becoming the network's first scripted miniseries. All six members of New Edition served as co-producers.[1]",
+        "question": "When did The New Edition Story first air?",
+        "label": "anuary 24 through January 26, 2017"
+    }
+]

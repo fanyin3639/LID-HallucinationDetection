@@ -1,0 +1,15 @@
+[
+    [
+        2334,
+        [],
+        "between 1 and 40 kcal/mol"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Hydrogen bonds can be intermolecular (occurring between separate molecules) or intramolecular (occurring among parts of the same molecule).[4] Depending on the nature of the donor and acceptor atoms which constitute the bond, their geometry, and environment, the energy of a hydrogen bond can vary between 1 and 40 kcal/mol.[5] This makes them somewhat stronger than a van der Waals interaction, and weaker than fully covalent or ionic bonds. This type of bond can occur in inorganic molecules such as water and in organic molecules like DNA and proteins. Question: What is the strength of a hydrogen bond? Answer:",
+    {
+        "id": "english--3900056964998494908-1",
+        "lang": "english",
+        "summary": "Hydrogen bonds can be intermolecular (occurring between separate molecules) or intramolecular (occurring among parts of the same molecule).[4] Depending on the nature of the donor and acceptor atoms which constitute the bond, their geometry, and environment, the energy of a hydrogen bond can vary between 1 and 40 kcal/mol.[5] This makes them somewhat stronger than a van der Waals interaction, and weaker than fully covalent or ionic bonds. This type of bond can occur in inorganic molecules such as water and in organic molecules like DNA and proteins.",
+        "question": "What is the strength of a hydrogen bond?",
+        "label": "between 1 and 40 kcal/mol"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1999,
+        [],
+        "over 570,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: It is the world's largest security company measured by revenues and has operations in more than 90 countries.[5] With over 570,000 employees,[6] it is the world's third-largest private employer, the largest European and African private employer, and among the largest on the London Stock Exchange.[7][8] G4S was founded in 2004 by the merger of the UK-based Securicor plc with the Denmark-based Group 4 Falck. Question: How many people are employed by the company G4S? Answer:",
+    {
+        "id": "english-8549179604992415335-2",
+        "lang": "english",
+        "summary": "It is the world's largest security company measured by revenues and has operations in more than 90 countries.[5] With over 570,000 employees,[6] it is the world's third-largest private employer, the largest European and African private employer, and among the largest on the London Stock Exchange.[7][8] G4S was founded in 2004 by the merger of the UK-based Securicor plc with the Denmark-based Group 4 Falck.",
+        "question": "How many people are employed by the company G4S?",
+        "label": "over 570,000"
+    }
+]

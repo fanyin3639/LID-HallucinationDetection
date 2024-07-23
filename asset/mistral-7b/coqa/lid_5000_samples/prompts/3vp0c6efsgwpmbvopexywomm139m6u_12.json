@@ -1,0 +1,19 @@
+[
+    [
+        487,
+        [],
+        "yes"
+    ],
+    "Answer the following questions:\nContext: CHAPTER XXX. \n\nTHE MEETING FOR RAIN. \n\nMeanwhile the Auld Lichts were in church, waiting for their minister, and it was a full meeting, because nearly every well in Thrums had been scooped dry by anxious palms. Yet not all were there to ask God's rain for themselves. Old Charles Yuill was in his pew, after dreaming thrice that he would break up with the drought; and Bell Christison had come, though her man lay dead at home, and she thought it could matter no more to her how things went in the world. \n\nYou, who do not love that little congregation, would have said that they were waiting placidly. But probably so simple a woman as Meggy Rattray could have deceived you into believing that because her eyes were downcast she did not notice who put the three-penny- bit in the plate. A few men were unaware that the bell was working overtime, most of them farmers with their eyes on the windows, but all the women at least were wondering. They knew better, however, than to bring their thoughts to their faces, and none sought to catch another's eye. The men-folk looked heavily at their hats in the seats in front. Even when Hendry Munn, instead of marching to the pulpit with the big Bible in his hands, came as far as the plate and signed to Peter Tosh, elder, that he was wanted in the vestry, you could not have guessed how every woman there, except Bell Christison, wished she was Peter Tosh. Peter was so taken aback that he merely gaped at Hendry, until suddenly he knew that his five daughters were furious with him, when he dived for his hat and staggered to the vestry with his mouth open. His boots cheeped all the way, but no one looked up. \n'Question': Was the church full when they were waiting?\n'Answer: '",
+    {
+        "id": "3vp0c6efsgwpmbvopexywomm139m6u_12",
+        "summary": "CHAPTER XXX. \n\nTHE MEETING FOR RAIN. \n\nMeanwhile the Auld Lichts were in church, waiting for their minister, and it was a full meeting, because nearly every well in Thrums had been scooped dry by anxious palms. Yet not all were there to ask God's rain for themselves. Old Charles Yuill was in his pew, after dreaming thrice that he would break up with the drought; and Bell Christison had come, though her man lay dead at home, and she thought it could matter no more to her how things went in the world. \n\nYou, who do not love that little congregation, would have said that they were waiting placidly. But probably so simple a woman as Meggy Rattray could have deceived you into believing that because her eyes were downcast she did not notice who put the three-penny- bit in the plate. A few men were unaware that the bell was working overtime, most of them farmers with their eyes on the windows, but all the women at least were wondering. They knew better, however, than to bring their thoughts to their faces, and none sought to catch another's eye. The men-folk looked heavily at their hats in the seats in front. Even when Hendry Munn, instead of marching to the pulpit with the big Bible in his hands, came as far as the plate and signed to Peter Tosh, elder, that he was wanted in the vestry, you could not have guessed how every woman there, except Bell Christison, wished she was Peter Tosh. Peter was so taken aback that he merely gaped at Hendry, until suddenly he knew that his five daughters were furious with him, when he dived for his hat and staggered to the vestry with his mouth open. His boots cheeped all the way, but no one looked up. ",
+        "question": "Was the church full when they were waiting?",
+        "label": "yes",
+        "additional_answers": [
+            "yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

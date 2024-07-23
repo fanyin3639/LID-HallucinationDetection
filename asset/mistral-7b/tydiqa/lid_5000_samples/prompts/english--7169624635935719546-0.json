@@ -1,0 +1,15 @@
+[
+    [
+        1391,
+        [],
+        "in Italy"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Genoa (/\u02c8d\u0292\u025bno\u028a.\u0259/ JEN-oh-\u0259; Italian: Genova [\u02c8d\u0292\u025b\u02d0nova](listen); Ligurian: Z\u00eana [\u02c8ze\u02d0na]; English, historically, and Latin: Genua) is the capital of the Italian region of Liguria and the sixth-largest city in Italy. In 2015, 594,733 people lived within the city's administrative limits.[1] As of the 2011 Italian census, the Province of Genoa, which in 2015 became the Metropolitan City of Genoa,[2] counted 855,834 resident persons.[3] Over 1.5 million people live in the wider metropolitan area stretching along the Italian Riviera.[4] Question: Where is Genoa? Answer:",
+    {
+        "id": "english--7169624635935719546-0",
+        "lang": "english",
+        "summary": "Genoa (/\u02c8d\u0292\u025bno\u028a.\u0259/ JEN-oh-\u0259; Italian: Genova [\u02c8d\u0292\u025b\u02d0nova](listen); Ligurian: Z\u00eana [\u02c8ze\u02d0na]; English, historically, and Latin: Genua) is the capital of the Italian region of Liguria and the sixth-largest city in Italy. In 2015, 594,733 people lived within the city's administrative limits.[1] As of the 2011 Italian census, the Province of Genoa, which in 2015 became the Metropolitan City of Genoa,[2] counted 855,834 resident persons.[3] Over 1.5 million people live in the wider metropolitan area stretching along the Italian Riviera.[4]",
+        "question": "Where is Genoa?",
+        "label": "in Italy"
+    }
+]

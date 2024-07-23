@@ -1,0 +1,15 @@
+[
+    [
+        600,
+        [],
+        "September 16, 2009"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The America's Healthy Future Act () was a law proposed by Democratic Senator Max Baucus of Montana, who chairs the Senate Finance Committee, on September 16, 2009.[1][2][3] It is also colloquially known as the Baucus Health Bill,[4] the Baucus Health Plan,[5] or BaucusCare.[6] Baucus initially publicly released a 223-page summary of the proposal.[2] It started going through the Senate mark-up process on September 22.[7] That amendment process finished Oct. 2, and was passed by the Finance Committee on October 13 by a 14 to 9 vote,.[8][9] An October CBO report stated that enacting the proposal would, on net, end up reducing the federal deficit by $81 billion over the 2010\u20132019 period.[10] Question: When was the America's Healthy Future Act first proposed? Answer:",
+    {
+        "id": "english--4256588380286919626-1",
+        "lang": "english",
+        "summary": "The America's Healthy Future Act () was a law proposed by Democratic Senator Max Baucus of Montana, who chairs the Senate Finance Committee, on September 16, 2009.[1][2][3] It is also colloquially known as the Baucus Health Bill,[4] the Baucus Health Plan,[5] or BaucusCare.[6] Baucus initially publicly released a 223-page summary of the proposal.[2] It started going through the Senate mark-up process on September 22.[7] That amendment process finished Oct. 2, and was passed by the Finance Committee on October 13 by a 14 to 9 vote,.[8][9] An October CBO report stated that enacting the proposal would, on net, end up reducing the federal deficit by $81 billion over the 2010\u20132019 period.[10]",
+        "question": "When was the America's Healthy Future Act first proposed?",
+        "label": "September 16, 2009"
+    }
+]

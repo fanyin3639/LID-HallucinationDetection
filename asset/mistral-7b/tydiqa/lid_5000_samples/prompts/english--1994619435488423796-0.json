@@ -1,0 +1,15 @@
+[
+    [
+        1941,
+        [],
+        "29 March 1930"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Sir Anerood Jugnauth GCSK, KCMG, QC, MP, PC (born 29 March 1930) is a Mauritian politician who has served as both President and Prime Minister of Mauritius. He is Member of Parliament for Piton & Riviere Du Rempart. Question: When was Sir Anerood Jugnauth born? Answer:",
+    {
+        "id": "english--1994619435488423796-0",
+        "lang": "english",
+        "summary": "Sir Anerood Jugnauth GCSK, KCMG, QC, MP, PC (born 29 March 1930) is a Mauritian politician who has served as both President and Prime Minister of Mauritius. He is Member of Parliament for Piton & Riviere Du Rempart.",
+        "question": "When was Sir Anerood Jugnauth born?",
+        "label": "29 March 1930"
+    }
+]

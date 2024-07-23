@@ -1,0 +1,15 @@
+[
+    [
+        657,
+        [],
+        "more than 3,000 years"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of Judaism spans more than 3,000 years.[15] Judaism has its roots as an organized religion in the Middle East during the Bronze Age.[16] Judaism is considered one of the oldest monotheistic religions.[17][18] The Hebrews and Israelites were already referred to as \"Jews\" in later books of the Tanakh such as the Book of Esther, with the term Jews replacing the title \"Children of Israel\".[19] Judaism's texts, traditions and values strongly influenced later Abrahamic religions, including Christianity, Islam and the Baha'i Faith.[20][21] Many aspects of Judaism have also directly or indirectly influenced secular Western ethics and civil law.[22] Hebraism was just as important a factor in the ancient era development of Western civilization as Hellenism, and Judaism, as the background of Christianity, has considerably shaped Western ideals and morality since Early Christianity.[23] Question: How old is Judaism? Answer:",
+    {
+        "id": "english--3882972394617770717-3",
+        "lang": "english",
+        "summary": "The history of Judaism spans more than 3,000 years.[15] Judaism has its roots as an organized religion in the Middle East during the Bronze Age.[16] Judaism is considered one of the oldest monotheistic religions.[17][18] The Hebrews and Israelites were already referred to as \"Jews\" in later books of the Tanakh such as the Book of Esther, with the term Jews replacing the title \"Children of Israel\".[19] Judaism's texts, traditions and values strongly influenced later Abrahamic religions, including Christianity, Islam and the Baha'i Faith.[20][21] Many aspects of Judaism have also directly or indirectly influenced secular Western ethics and civil law.[22] Hebraism was just as important a factor in the ancient era development of Western civilization as Hellenism, and Judaism, as the background of Christianity, has considerably shaped Western ideals and morality since Early Christianity.[23]",
+        "question": "How old is Judaism?",
+        "label": "more than 3,000 years"
+    }
+]

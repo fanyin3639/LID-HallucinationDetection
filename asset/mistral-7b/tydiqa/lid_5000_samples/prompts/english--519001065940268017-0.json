@@ -1,0 +1,15 @@
+[
+    [
+        1214,
+        [],
+        "prolonged exposure of the feet to damp, unsanitary, and cold conditions"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Trench foot  is a medical condition caused by prolonged exposure of the feet to damp, unsanitary, and cold conditions. It is one of many immersion foot syndromes. The use of the word trench in the name of this condition is a reference to trench warfare, mainly associated with World War I. Question: How is trench foot contracted? Answer:",
+    {
+        "id": "english--519001065940268017-0",
+        "lang": "english",
+        "summary": "Trench foot  is a medical condition caused by prolonged exposure of the feet to damp, unsanitary, and cold conditions. It is one of many immersion foot syndromes. The use of the word trench in the name of this condition is a reference to trench warfare, mainly associated with World War I.",
+        "question": "How is trench foot contracted?",
+        "label": "prolonged exposure of the feet to damp, unsanitary, and cold conditions"
+    }
+]

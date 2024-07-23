@@ -1,0 +1,15 @@
+[
+    [
+        1121,
+        [],
+        "KJRH-TV"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: KJRH-TV, virtual channel 2 (VHF digital channel 8), is an NBC-affiliated television station licensed to Tulsa, Oklahoma, United States. The station is owned by the E. W. Scripps Company. KJRH-TV's studios are located on South Peoria Avenue and East 37th Street in the Brookside district of midtown Tulsa, and its transmitter is located near South 273rd Avenue East and the Muskogee Turnpike (near Broken Arrow) in southeastern Tulsa County. On cable, the station is available on Cox Communications channel 2.[1] Question: What is the NBC-affiliated station in Tulsa? Answer:",
+    {
+        "id": "english--8665114779806464988-0",
+        "lang": "english",
+        "summary": "KJRH-TV, virtual channel 2 (VHF digital channel 8), is an NBC-affiliated television station licensed to Tulsa, Oklahoma, United States. The station is owned by the E. W. Scripps Company. KJRH-TV's studios are located on South Peoria Avenue and East 37th Street in the Brookside district of midtown Tulsa, and its transmitter is located near South 273rd Avenue East and the Muskogee Turnpike (near Broken Arrow) in southeastern Tulsa County. On cable, the station is available on Cox Communications channel 2.[1]",
+        "question": "What is the NBC-affiliated station in Tulsa?",
+        "label": "KJRH-TV"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2404,
+        [],
+        "Bronx, New York City"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Davis was born in the Bronx, New York City, the son of Doris (Meyer) Morell and Joseph G. Davis.[6] Davis moved to California with his family as a child in 1954. He was the first of the family's five children: three boys and two girls. He was raised a Roman Catholic. Davis and his family were one of the millions of Americans to migrate to the southwest and California as part of the post-World War II sun belt migration. Question: Where was Joseph Graham \"Gray\" Davis Jr. born? Answer:",
+    {
+        "id": "english-7475095972560851756-3",
+        "lang": "english",
+        "summary": "Davis was born in the Bronx, New York City, the son of Doris (Meyer) Morell and Joseph G. Davis.[6] Davis moved to California with his family as a child in 1954. He was the first of the family's five children: three boys and two girls. He was raised a Roman Catholic. Davis and his family were one of the millions of Americans to migrate to the southwest and California as part of the post-World War II sun belt migration.",
+        "question": "Where was Joseph Graham \"Gray\" Davis Jr. born?",
+        "label": "Bronx, New York City"
+    }
+]

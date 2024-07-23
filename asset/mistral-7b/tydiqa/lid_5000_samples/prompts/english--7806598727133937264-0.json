@@ -1,0 +1,15 @@
+[
+    [
+        1890,
+        [],
+        "Evil Decepticons"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Autobots are a team of sentient mechanical self-configuring modular robotic lifeforms from the planet Cybertron led by Optimus Prime, and the main protagonists in the universe of the Transformers, a collection of various toys, cartoons, movies, graphic novels, and paperback books first introduced in 1984. The \"Heroic Autobots\" are opposed by the Evil Decepticons.[1][2][3] Both Autobots and Decepticons are humanoid robots that can transform into machines, vehicles and other familiar mechanical objects, as well as mimic organic lifeforms (Dinobots). Autobots typically transform into regular cars, trucks, or other road vehicles (auto</i>mobiles) but some few are aircraft, military vehicles, communication devices, weapons, and even robotic animals. These Autobots are often grouped into special \"teams\" that have the suffix \"-bot\" at the end, such as in Dino<i data-parsoid='{\"dsr\":[2847,2854,2,2]}'>bot (Decepticon groups' names end in \"-con\"). Question: Who are the opposites of the Autobots? Answer:",
+    {
+        "id": "english--7806598727133937264-0",
+        "lang": "english",
+        "summary": "Autobots are a team of sentient mechanical self-configuring modular robotic lifeforms from the planet Cybertron led by Optimus Prime, and the main protagonists in the universe of the Transformers, a collection of various toys, cartoons, movies, graphic novels, and paperback books first introduced in 1984. The \"Heroic Autobots\" are opposed by the Evil Decepticons.[1][2][3] Both Autobots and Decepticons are humanoid robots that can transform into machines, vehicles and other familiar mechanical objects, as well as mimic organic lifeforms (Dinobots). Autobots typically transform into regular cars, trucks, or other road vehicles (auto</i>mobiles) but some few are aircraft, military vehicles, communication devices, weapons, and even robotic animals. These Autobots are often grouped into special \"teams\" that have the suffix \"-bot\" at the end, such as in Dino<i data-parsoid='{\"dsr\":[2847,2854,2,2]}'>bot (Decepticon groups' names end in \"-con\").",
+        "question": "Who are the opposites of the Autobots?",
+        "label": "Evil Decepticons"
+    }
+]

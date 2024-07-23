@@ -1,0 +1,15 @@
+[
+    [
+        2033,
+        [],
+        "a landform surrounded by water on the majority of its border while being connected to a mainland from which it extends"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A peninsula (Latin: paeninsula from paene \"almost\u201d and insula \"island\") is a landform surrounded by water on the majority of its border while being connected to a mainland from which it extends.[1][2][3][4] The surrounding water is usually understood to be continuous, though not necessarily named as a single body of water. Peninsulas are not always named as such; one can also be a headland, cape, island promontory, bill, point, or spit.[5] A point is generally considered a tapering piece of land projecting into a body of water that is less prominent than a cape.[6] A river which courses through a very tight meander is also sometimes said to form a \"peninsula\" within the (almost closed) loop of water. In English, the plural versions of peninsula are peninsulas and, less commonly, peninsulae. Question: What is a Peninsula? Answer:",
+    {
+        "id": "english--5233591197990226086-0",
+        "lang": "english",
+        "summary": "A peninsula (Latin: paeninsula from paene \"almost\u201d and insula \"island\") is a landform surrounded by water on the majority of its border while being connected to a mainland from which it extends.[1][2][3][4] The surrounding water is usually understood to be continuous, though not necessarily named as a single body of water. Peninsulas are not always named as such; one can also be a headland, cape, island promontory, bill, point, or spit.[5] A point is generally considered a tapering piece of land projecting into a body of water that is less prominent than a cape.[6] A river which courses through a very tight meander is also sometimes said to form a \"peninsula\" within the (almost closed) loop of water. In English, the plural versions of peninsula are peninsulas and, less commonly, peninsulae.",
+        "question": "What is a Peninsula?",
+        "label": "a landform surrounded by water on the majority of its border while being connected to a mainland from which it extends"
+    }
+]

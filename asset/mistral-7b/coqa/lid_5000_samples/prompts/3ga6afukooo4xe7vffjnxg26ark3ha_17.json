@@ -1,0 +1,19 @@
+[
+    [
+        388,
+        [],
+        "William Fortner"
+    ],
+    "Answer the following questions:\nContext: [Update 2:15 p.m. ET] \"We are taking precautions to protect elected officials in the county,\" Kaufman County, Texas, Sheriff David Byrnes said at a news conference Sunday after District Attorney Mike McLelland and his wife, Cynthia, were found dead Saturday in their home. \n\n[Posted at 9:29 a.m. ET] \n\nTwo months ago, a Texas district attorney vowed to put away the \"scum\" who had killed one of his top deputies. \n\nNow, the district attorney and his wife are dead. And authorities aren't sure whether their killings are part of a broader scheme targeting criminal justice officials. \n\nThe bodies of Mike McLelland and his wife, Cynthia, were found Saturday in their home in Kaufman County, east of Dallas. \n\n\"I don't know of anyone who would want to cause him harm,\" Kaufman city Mayor William Fortner said. \"As far as I could tell, he was doing a really good job as a district attorney.\" \n\nFortner said police are taking \"extra precautions\" to try to ensure no one else is targeted. \n\n\"We lost some important people, and we hope the killers are caught before any more people are lost,\" he said. \n\nA law enforcement official told The Dallas Morning News that a door was apparently kicked in, and \"there are shell casings everywhere.\" \n\nAuthorities have not identified a suspect. Nor are they sure whether the deaths are related to the killing of Kaufman County Assistant District Attorney Mark Hasse, who was killed on his way to work in January. \n\nThe county sheriff's office brought in the FBI and the Texas Rangers to help with the investigation. \n'Question': who is the mayor?\n'Answer: '",
+    {
+        "id": "3ga6afukooo4xe7vffjnxg26ark3ha_17",
+        "summary": "[Update 2:15 p.m. ET] \"We are taking precautions to protect elected officials in the county,\" Kaufman County, Texas, Sheriff David Byrnes said at a news conference Sunday after District Attorney Mike McLelland and his wife, Cynthia, were found dead Saturday in their home. \n\n[Posted at 9:29 a.m. ET] \n\nTwo months ago, a Texas district attorney vowed to put away the \"scum\" who had killed one of his top deputies. \n\nNow, the district attorney and his wife are dead. And authorities aren't sure whether their killings are part of a broader scheme targeting criminal justice officials. \n\nThe bodies of Mike McLelland and his wife, Cynthia, were found Saturday in their home in Kaufman County, east of Dallas. \n\n\"I don't know of anyone who would want to cause him harm,\" Kaufman city Mayor William Fortner said. \"As far as I could tell, he was doing a really good job as a district attorney.\" \n\nFortner said police are taking \"extra precautions\" to try to ensure no one else is targeted. \n\n\"We lost some important people, and we hope the killers are caught before any more people are lost,\" he said. \n\nA law enforcement official told The Dallas Morning News that a door was apparently kicked in, and \"there are shell casings everywhere.\" \n\nAuthorities have not identified a suspect. Nor are they sure whether the deaths are related to the killing of Kaufman County Assistant District Attorney Mark Hasse, who was killed on his way to work in January. \n\nThe county sheriff's office brought in the FBI and the Texas Rangers to help with the investigation. ",
+        "question": "who is the mayor?",
+        "label": "William Fortner",
+        "additional_answers": [
+            "William Fortner",
+            "William Fortner",
+            "William Fortner"
+        ]
+    }
+]

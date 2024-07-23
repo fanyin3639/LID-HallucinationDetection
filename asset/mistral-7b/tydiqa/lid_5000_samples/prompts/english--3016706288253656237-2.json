@@ -1,0 +1,15 @@
+[
+    [
+        1673,
+        [],
+        "318,415 active duty airmen, 140,169 civilian personnel, 69,200 reserve airmen, and 105,700 Air National Guard airmen"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Along with conducting independent air and space operations, the U.S. Air Force provides air support for land and naval forces and aids in the recovery of troops in the field. As of 2017, the service operates more than 5,369 military aircraft, 406 ICBMs and 170 military satellites. It has a $161billion budget and is the second largest service branch, with 318,415 active duty airmen, 140,169 civilian personnel, 69,200 reserve airmen, and 105,700 Air National Guard airmen. Question: How many soldiers are in the US Air Force? Answer:",
+    {
+        "id": "english--3016706288253656237-2",
+        "lang": "english",
+        "summary": "Along with conducting independent air and space operations, the U.S. Air Force provides air support for land and naval forces and aids in the recovery of troops in the field. As of 2017, the service operates more than 5,369 military aircraft, 406 ICBMs and 170 military satellites. It has a $161billion budget and is the second largest service branch, with 318,415 active duty airmen, 140,169 civilian personnel, 69,200 reserve airmen, and 105,700 Air National Guard airmen.",
+        "question": "How many soldiers are in the US Air Force?",
+        "label": "318,415 active duty airmen, 140,169 civilian personnel, 69,200 reserve airmen, and 105,700 Air National Guard airmen"
+    }
+]

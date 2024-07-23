@@ -1,0 +1,15 @@
+[
+    [
+        2854,
+        [],
+        "Boston College"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In the wake of the Hokies's defeat, Virginia Tech chose to start a new quarterback and a new offensive plan. Behind freshman Tyrod Taylor, the Hokies rolled to five straight victories, including a win over No.22 Clemson by 18points.[8] During the winning streak, Sean Glennon, who had started at quarterback for the Hokies during the first two games of the season, returned to alternate possessions with Taylor in an unusual two-quarterback system. On October 25, the Hokies had a chance to make up for their early-season loss to LSU when they faced No.2 Boston College on a Thursday night in Blacksburg, Virginia. Though the Hokies dominated for most of the game, Boston College quarterback Matt Ryan managed a late-game comeback to win the game 14\u201310 with 11seconds remaining.[9] Question: Who won the 2008 FedEx Orange Bowl? Answer:",
+    {
+        "id": "english--8823145103359912739-6",
+        "lang": "english",
+        "summary": "In the wake of the Hokies's defeat, Virginia Tech chose to start a new quarterback and a new offensive plan. Behind freshman Tyrod Taylor, the Hokies rolled to five straight victories, including a win over No.22 Clemson by 18points.[8] During the winning streak, Sean Glennon, who had started at quarterback for the Hokies during the first two games of the season, returned to alternate possessions with Taylor in an unusual two-quarterback system. On October 25, the Hokies had a chance to make up for their early-season loss to LSU when they faced No.2 Boston College on a Thursday night in Blacksburg, Virginia. Though the Hokies dominated for most of the game, Boston College quarterback Matt Ryan managed a late-game comeback to win the game 14\u201310 with 11seconds remaining.[9]",
+        "question": "Who won the 2008 FedEx Orange Bowl?",
+        "label": "Boston College"
+    }
+]

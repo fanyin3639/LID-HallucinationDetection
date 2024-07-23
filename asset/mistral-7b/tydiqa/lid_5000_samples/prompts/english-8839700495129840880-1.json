@@ -1,0 +1,15 @@
+[
+    [
+        2985,
+        [],
+        " 10"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: As of November14,2018, 103 episodes of American Horror Storyhave aired, concluding theeighth season. American Horror Story has been renewed for a ninth and tenth season, which are set to premiere in 2019 and 2020 respectively.[2][3] Question: How many episodes are there in American Horror Story: Roanoke? Answer:",
+    {
+        "id": "english-8839700495129840880-1",
+        "lang": "english",
+        "summary": "As of November14,2018, 103 episodes of American Horror Storyhave aired, concluding theeighth season. American Horror Story has been renewed for a ninth and tenth season, which are set to premiere in 2019 and 2020 respectively.[2][3]",
+        "question": "How many episodes are there in American Horror Story: Roanoke?",
+        "label": " 10"
+    }
+]

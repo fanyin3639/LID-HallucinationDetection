@@ -1,0 +1,14 @@
+[
+    [
+        632,
+        [],
+        "A holidaymaker has died after being rescued from the sea off the coast of Cornwall, police have said."
+    ],
+    "Write a short summary for the following passage:\nThe 36-year-old, who had been visiting Polzeath with friends and family, was reported missing on Sunday morning.\nAn \"extensive\" air and sea search was launched at 10:00 GMT, and a lifeboat crew pulled her from the water later, police said.\nShe was airlifted to the Royal Cornwall Hospital in Truro, but confirmed dead on arrival.\nMore on the holidaymaker death, plus other news\nDevon and Cornwall Police said the woman was from Burton-on-Trent, Staffordshire.\nPolice described the death as a \"tragic accident\" and said enquiries were continuing into the circumstances.\nSummary:\n",
+    {
+        "id": 632,
+        "document": "The 36-year-old, who had been visiting Polzeath with friends and family, was reported missing on Sunday morning.\nAn \"extensive\" air and sea search was launched at 10:00 GMT, and a lifeboat crew pulled her from the water later, police said.\nShe was airlifted to the Royal Cornwall Hospital in Truro, but confirmed dead on arrival.\nMore on the holidaymaker death, plus other news\nDevon and Cornwall Police said the woman was from Burton-on-Trent, Staffordshire.\nPolice described the death as a \"tragic accident\" and said enquiries were continuing into the circumstances.",
+        "summary": "A holidaymaker has died after being rescued from the sea off the coast of Cornwall, police have said.",
+        "label": "A holidaymaker has died after being rescued from the sea off the coast of Cornwall, police have said."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2570,
+        [],
+        "322,612"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: At the 2000 census,[6] there were 322,612 people, 98,936 households and 78,555 families residing in the town. The population density was 3,064.5 per square mile (1,183.1/km\u00b2). There were 104,278 housing units at an average density of 990.5 per square mile (382.4/km\u00b2).  The racial makeup of the town was 77.25% White, 9.02% Black or African American, 0.26% Native American, 2.17% Asian, 0.05% Pacific Islander, 8.32% from other races, and 2.93% from two or more races. Hispanic or Latino of any race were 20.16% of the population. Question: What is the population of Islip in New York? Answer:",
+    {
+        "id": "english--2146848558414964981-2",
+        "lang": "english",
+        "summary": "At the 2000 census,[6] there were 322,612 people, 98,936 households and 78,555 families residing in the town. The population density was 3,064.5 per square mile (1,183.1/km\u00b2). There were 104,278 housing units at an average density of 990.5 per square mile (382.4/km\u00b2).  The racial makeup of the town was 77.25% White, 9.02% Black or African American, 0.26% Native American, 2.17% Asian, 0.05% Pacific Islander, 8.32% from other races, and 2.93% from two or more races. Hispanic or Latino of any race were 20.16% of the population.",
+        "question": "What is the population of Islip in New York?",
+        "label": "322,612"
+    }
+]

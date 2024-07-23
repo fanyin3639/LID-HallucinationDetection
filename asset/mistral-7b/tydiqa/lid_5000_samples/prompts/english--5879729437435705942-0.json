@@ -1,0 +1,15 @@
+[
+    [
+        119,
+        [],
+        "five"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The National Labor Relations Board (NLRB) is an independent agency of the Federal government of the United States with responsibilities for enforcing U.S. labor law in relation to collective bargaining and unfair labor practices. Under the National Labor Relations Act of 1935 it supervises elections for labor union representation and can investigate and remedy unfair labor practices. Unfair labor practices may involve union-related situations or instances of protected concerted activity. The NLRB is governed by a five-person board and a General Counsel, all of whom are appointed by the President with the consent of the Senate. Board members are appointed to five-year terms and the General Counsel is appointed to a four-year term. The General Counsel acts as a prosecutor and the Board acts as an appellate quasi-judicial body from decisions of administrative law judges. Question: How many members does the National Labor Relations Board have? Answer:",
+    {
+        "id": "english--5879729437435705942-0",
+        "lang": "english",
+        "summary": "The National Labor Relations Board (NLRB) is an independent agency of the Federal government of the United States with responsibilities for enforcing U.S. labor law in relation to collective bargaining and unfair labor practices. Under the National Labor Relations Act of 1935 it supervises elections for labor union representation and can investigate and remedy unfair labor practices. Unfair labor practices may involve union-related situations or instances of protected concerted activity. The NLRB is governed by a five-person board and a General Counsel, all of whom are appointed by the President with the consent of the Senate. Board members are appointed to five-year terms and the General Counsel is appointed to a four-year term. The General Counsel acts as a prosecutor and the Board acts as an appellate quasi-judicial body from decisions of administrative law judges.",
+        "question": "How many members does the National Labor Relations Board have?",
+        "label": "five"
+    }
+]

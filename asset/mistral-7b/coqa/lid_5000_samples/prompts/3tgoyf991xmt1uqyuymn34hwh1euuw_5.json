@@ -1,0 +1,19 @@
+[
+    [
+        1200,
+        [],
+        "Pain"
+    ],
+    "Answer the following questions:\nContext: Pain is a distressing feeling often caused by intense or damaging stimuli, such as stubbing a toe, burning a finger, putting alcohol on a cut, and bumping the \"funny bone\". Because it is a complex, subjective phenomenon, defining pain has been a challenge. The International Association for the Study of Pain's widely used definition states: \"Pain is an unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage.\" In medical diagnosis, pain is a symptom. \n\nPain is the most common reason for physician consultation in most developed countries. It is a major symptom in many medical conditions, and can interfere with a person's quality of life and general functioning. Psychological factors such as social support, hypnotic suggestion, excitement, or distraction can significantly affect pain's intensity or unpleasantness. In some arguments put forth in physician-assisted suicide or euthanasia debates, pain has been used as an argument to permit terminally ill patients to end their lives.\n'Question': What is the reason for most doctor visits?\n'Answer: '",
+    {
+        "id": "3tgoyf991xmt1uqyuymn34hwh1euuw_5",
+        "summary": "Pain is a distressing feeling often caused by intense or damaging stimuli, such as stubbing a toe, burning a finger, putting alcohol on a cut, and bumping the \"funny bone\". Because it is a complex, subjective phenomenon, defining pain has been a challenge. The International Association for the Study of Pain's widely used definition states: \"Pain is an unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage.\" In medical diagnosis, pain is a symptom. \n\nPain is the most common reason for physician consultation in most developed countries. It is a major symptom in many medical conditions, and can interfere with a person's quality of life and general functioning. Psychological factors such as social support, hypnotic suggestion, excitement, or distraction can significantly affect pain's intensity or unpleasantness. In some arguments put forth in physician-assisted suicide or euthanasia debates, pain has been used as an argument to permit terminally ill patients to end their lives.",
+        "question": "What is the reason for most doctor visits?",
+        "label": "Pain",
+        "additional_answers": [
+            "Pain",
+            "Pain",
+            "Pain"
+        ]
+    }
+]

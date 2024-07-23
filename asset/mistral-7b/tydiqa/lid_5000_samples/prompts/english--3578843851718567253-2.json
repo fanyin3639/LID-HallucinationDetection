@@ -1,0 +1,15 @@
+[
+    [
+        1173,
+        [],
+        "Marcelo Rebelo de Sousa"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The current President of Portugal is Marcelo Rebelo de Sousa, who took office on 9 March 2016. Question: Who is Portugal's current president? Answer:",
+    {
+        "id": "english--3578843851718567253-2",
+        "lang": "english",
+        "summary": "The current President of Portugal is Marcelo Rebelo de Sousa, who took office on 9 March 2016.",
+        "question": "Who is Portugal's current president?",
+        "label": "Marcelo Rebelo de Sousa"
+    }
+]

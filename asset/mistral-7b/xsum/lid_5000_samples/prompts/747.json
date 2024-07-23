@@ -1,0 +1,14 @@
+[
+    [
+        747,
+        [],
+        "Luton have signed Huddersfield Town left-back Jack Senior on a two-year deal and Newcastle midfielder Alex Gilliead on loan until 7 January."
+    ],
+    "Write a short summary for the following passage:\nSenior, 19, has signed for undisclosed terms after failing to make a first-team appearance for the Terriers.\nGilliead spent last season on loan with League Two side Carlisle, scoring five goals in 41 appearances.\nOne of the 20-year-old's goals came in the Cumbrians' 4-3 win over the Hatters at Kenilworth Road in November 2015.\n\"Coming from Newcastle and the north-east and moving south, it's a big move for me, a new challenge,\" he told the club website.\nLuton are currently second in League Two, having won four of their first five league matches.\nFind all the latest football transfers on our dedicated page.\nSummary:\n",
+    {
+        "id": 747,
+        "document": "Senior, 19, has signed for undisclosed terms after failing to make a first-team appearance for the Terriers.\nGilliead spent last season on loan with League Two side Carlisle, scoring five goals in 41 appearances.\nOne of the 20-year-old's goals came in the Cumbrians' 4-3 win over the Hatters at Kenilworth Road in November 2015.\n\"Coming from Newcastle and the north-east and moving south, it's a big move for me, a new challenge,\" he told the club website.\nLuton are currently second in League Two, having won four of their first five league matches.\nFind all the latest football transfers on our dedicated page.",
+        "summary": "Luton have signed Huddersfield Town left-back Jack Senior on a two-year deal and Newcastle midfielder Alex Gilliead on loan until 7 January.",
+        "label": "Luton have signed Huddersfield Town left-back Jack Senior on a two-year deal and Newcastle midfielder Alex Gilliead on loan until 7 January."
+    }
+]

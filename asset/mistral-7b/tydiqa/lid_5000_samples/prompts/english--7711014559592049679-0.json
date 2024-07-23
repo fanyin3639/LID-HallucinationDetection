@@ -1,0 +1,15 @@
+[
+    [
+        2614,
+        [],
+        "1880"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Red Delicious is a clone of apple cultigen, now comprising more than 50 cultivars, first recognized in Madison County, Iowa, in 1880. According to the US Apple Association website, it is one of the fifteen most popular apple cultivars in the United States.[1] Question: When was the red delicious apple introduced? Answer:",
+    {
+        "id": "english--7711014559592049679-0",
+        "lang": "english",
+        "summary": "The Red Delicious is a clone of apple cultigen, now comprising more than 50 cultivars, first recognized in Madison County, Iowa, in 1880. According to the US Apple Association website, it is one of the fifteen most popular apple cultivars in the United States.[1]",
+        "question": "When was the red delicious apple introduced?",
+        "label": "1880"
+    }
+]

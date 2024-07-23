@@ -1,0 +1,19 @@
+[
+    [
+        677,
+        [],
+        "A long way away from the shore"
+    ],
+    "Answer the following questions:\nContext: A man sailed out to sea in a small boat. The sun was only rising, but this man liked spending all day fishing. A long way away from the shore, he stopped his boat. He pulled out his fishing pole and put some worms on the hook. He held it in the deep water and waited for a long time. After three hours there was still not a bite. The sun moved slowly across the sky. Morning turned into afternoon, and afternoon to evening. It was a slow day of fishing and he had to pack up. A fisherman does not give up so easy, even after many hours. It takes time to catch fish and fishing is not for people who give up quickly. The fisherman went home empty handed. He went home to his log cabin and sat by the fire. His stomach growled because there wasn't any dinner to eat tonight, but tomorrow would be a better day.\n'Question': Where did he stop the boat?\n'Answer: '",
+    {
+        "id": "3vhhr074h3hoktr88c1b2p7tv3cl7m_4",
+        "summary": "A man sailed out to sea in a small boat. The sun was only rising, but this man liked spending all day fishing. A long way away from the shore, he stopped his boat. He pulled out his fishing pole and put some worms on the hook. He held it in the deep water and waited for a long time. After three hours there was still not a bite. The sun moved slowly across the sky. Morning turned into afternoon, and afternoon to evening. It was a slow day of fishing and he had to pack up. A fisherman does not give up so easy, even after many hours. It takes time to catch fish and fishing is not for people who give up quickly. The fisherman went home empty handed. He went home to his log cabin and sat by the fire. His stomach growled because there wasn't any dinner to eat tonight, but tomorrow would be a better day.",
+        "question": "Where did he stop the boat?",
+        "label": "A long way away from the shore",
+        "additional_answers": [
+            ". A long way away from the shore",
+            "A long way away from the shore",
+            "A long way away from the shore,"
+        ]
+    }
+]

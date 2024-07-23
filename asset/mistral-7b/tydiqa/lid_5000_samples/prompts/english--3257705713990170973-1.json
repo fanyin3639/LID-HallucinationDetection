@@ -1,0 +1,15 @@
+[
+    [
+        234,
+        [],
+        "Led Zeppelin"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1968, three of the genre's most famous pioneers, Led Zeppelin, Black Sabbath and Deep Purple were founded.[6] Though they came to attract wide audiences, they were often derided by critics. During the mid-1970s, Judas Priest helped spur the genre's evolution by discarding much of its blues influence;[7][8] Mot\u00f6rhead introduced a punk rock sensibility and an increasing emphasis on speed. Beginning in the late 1970s, bands in the new wave of British heavy metal such as Iron Maiden and Saxon followed in a similar vein. Before the end of the decade, heavy metal fans became known as \"metalheads\" or \"headbangers\". Question: Who was the first heavy metal band? Answer:",
+    {
+        "id": "english--3257705713990170973-1",
+        "lang": "english",
+        "summary": "In 1968, three of the genre's most famous pioneers, Led Zeppelin, Black Sabbath and Deep Purple were founded.[6] Though they came to attract wide audiences, they were often derided by critics. During the mid-1970s, Judas Priest helped spur the genre's evolution by discarding much of its blues influence;[7][8] Mot\u00f6rhead introduced a punk rock sensibility and an increasing emphasis on speed. Beginning in the late 1970s, bands in the new wave of British heavy metal such as Iron Maiden and Saxon followed in a similar vein. Before the end of the decade, heavy metal fans became known as \"metalheads\" or \"headbangers\".",
+        "question": "Who was the first heavy metal band?",
+        "label": "Led Zeppelin"
+    }
+]

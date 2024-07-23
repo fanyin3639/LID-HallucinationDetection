@@ -1,0 +1,15 @@
+[
+    [
+        2205,
+        [],
+        "15\u201325 centimetres (5.9\u20139.8in) in diameter,[6] usually weighing 1\u20132 kilograms"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Typically, the fruit is pale green to yellow when ripe, with sweet white (or, more rarely, pink or red) flesh, and a very thick albedo (rind pith). It is a large citrus fruit, 15\u201325 centimetres (5.9\u20139.8in) in diameter,[6] usually weighing 1\u20132 kilograms (2.2\u20134.4lb). Leaf petioles are distinctly winged. Question: How large are pomelos? Answer:",
+    {
+        "id": "english-6251974969186678431-6",
+        "lang": "english",
+        "summary": "Typically, the fruit is pale green to yellow when ripe, with sweet white (or, more rarely, pink or red) flesh, and a very thick albedo (rind pith). It is a large citrus fruit, 15\u201325 centimetres (5.9\u20139.8in) in diameter,[6] usually weighing 1\u20132 kilograms (2.2\u20134.4lb). Leaf petioles are distinctly winged.",
+        "question": "How large are pomelos?",
+        "label": "15\u201325 centimetres (5.9\u20139.8in) in diameter,[6] usually weighing 1\u20132 kilograms"
+    }
+]

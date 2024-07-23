@@ -1,0 +1,15 @@
+[
+    [
+        2967,
+        [],
+        "Malaysian ringgit"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Malaysian ringgit (/\u02c8r\u026a\u014b\u0261\u026at/; plural: ringgit; symbol: RM; currency code: MYR; formerly the Malaysian dollar) is the currency of Malaysia. It is divided into 100 sen (cents). The ringgit is issued by the Bank Negara Malaysia. Question: What currency is accepted in Malaysia? Answer:",
+    {
+        "id": "english--4828991299392464867-0",
+        "lang": "english",
+        "summary": "The Malaysian ringgit (/\u02c8r\u026a\u014b\u0261\u026at/; plural: ringgit; symbol: RM; currency code: MYR; formerly the Malaysian dollar) is the currency of Malaysia. It is divided into 100 sen (cents). The ringgit is issued by the Bank Negara Malaysia.",
+        "question": "What currency is accepted in Malaysia?",
+        "label": "Malaysian ringgit"
+    }
+]

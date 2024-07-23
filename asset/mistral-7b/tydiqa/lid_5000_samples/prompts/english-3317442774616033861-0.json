@@ -1,0 +1,15 @@
+[
+    [
+        2125,
+        [],
+        "Helena Bonham Carter"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Corpse Bride (also known as Tim Burton's Corpse Bride) is a 2005 British-American stop-motion animated musical dark comedy film directed by Mike Johnson and Tim Burton with a screenplay by John August, Caroline Thompson and Pamela Pettler based on characters created by Burton and Carlos Grangel. The plot is set in a fictional Victorian era village in Europe. Johnny Depp leads the cast as the voice of Victor, while Helena Bonham Carter voices Emily, the titular bride. Corpse Bride is the third stop-motion feature film produced by Burton and the first directed by him (the previous two films, The Nightmare Before Christmas and James and the Giant Peach, were directed by Henry Selick). This is also the first stop-motion feature from Burton that was distributed by Warner Bros. Pictures. It was dedicated to executive producer Joe Ranft, who died in a car accident during production. Question: Who played the Corpse in Corpse Bride? Answer:",
+    {
+        "id": "english-3317442774616033861-0",
+        "lang": "english",
+        "summary": "Corpse Bride (also known as Tim Burton's Corpse Bride) is a 2005 British-American stop-motion animated musical dark comedy film directed by Mike Johnson and Tim Burton with a screenplay by John August, Caroline Thompson and Pamela Pettler based on characters created by Burton and Carlos Grangel. The plot is set in a fictional Victorian era village in Europe. Johnny Depp leads the cast as the voice of Victor, while Helena Bonham Carter voices Emily, the titular bride. Corpse Bride is the third stop-motion feature film produced by Burton and the first directed by him (the previous two films, The Nightmare Before Christmas and James and the Giant Peach, were directed by Henry Selick). This is also the first stop-motion feature from Burton that was distributed by Warner Bros. Pictures. It was dedicated to executive producer Joe Ranft, who died in a car accident during production.",
+        "question": "Who played the Corpse in Corpse Bride?",
+        "label": "Helena Bonham Carter"
+    }
+]

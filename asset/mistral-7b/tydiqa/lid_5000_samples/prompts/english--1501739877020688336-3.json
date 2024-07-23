@@ -1,0 +1,15 @@
+[
+    [
+        2539,
+        [],
+        "1895"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Since the late nineteenth century, breast implants have been used to surgically augment the size (volume), modify the shape (contour), and enhance the feel (tact) of a woman's breasts. In 1895, surgeon Vincenz Czerny effected the earliest breast implant emplacement when he used the patient's autologous adipose tissue, harvested from a benign lumbar lipoma, to repair the asymmetry of the breast from which he had removed a tumor.[1] In 1889, surgeon Robert Gersuny experimented with paraffin injections, with disastrous results. Question: When did breast augmentation first start? Answer:",
+    {
+        "id": "english--1501739877020688336-3",
+        "lang": "english",
+        "summary": "Since the late nineteenth century, breast implants have been used to surgically augment the size (volume), modify the shape (contour), and enhance the feel (tact) of a woman's breasts. In 1895, surgeon Vincenz Czerny effected the earliest breast implant emplacement when he used the patient's autologous adipose tissue, harvested from a benign lumbar lipoma, to repair the asymmetry of the breast from which he had removed a tumor.[1] In 1889, surgeon Robert Gersuny experimented with paraffin injections, with disastrous results.",
+        "question": "When did breast augmentation first start?",
+        "label": "1895"
+    }
+]

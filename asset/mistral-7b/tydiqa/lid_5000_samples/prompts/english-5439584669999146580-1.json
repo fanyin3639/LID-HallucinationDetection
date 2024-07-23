@@ -1,0 +1,15 @@
+[
+    [
+        1390,
+        [],
+        "1910"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Initially written to a tune other than \"Londonderry Air\", English lawyer and lyricist Frederic Weatherly wrote the words to \"Danny Boy\" in Bath, Somerset in 1910. After his Irish-born sister-in-law Margaret (known as Jess) in the United States sent him a copy of \"Londonderry Air\" in 1913 (an alternative version of the story has her singing the air to him in 1912 with different lyrics), Weatherly modified the lyrics of \"Danny Boy\" to fit the rhyme and meter of \"Londonderry Air\".[2][3] Question: When was the sonG \"Oh Danny Boy\" written? Answer:",
+    {
+        "id": "english-5439584669999146580-1",
+        "lang": "english",
+        "summary": "Initially written to a tune other than \"Londonderry Air\", English lawyer and lyricist Frederic Weatherly wrote the words to \"Danny Boy\" in Bath, Somerset in 1910. After his Irish-born sister-in-law Margaret (known as Jess) in the United States sent him a copy of \"Londonderry Air\" in 1913 (an alternative version of the story has her singing the air to him in 1912 with different lyrics), Weatherly modified the lyrics of \"Danny Boy\" to fit the rhyme and meter of \"Londonderry Air\".[2][3]",
+        "question": "When was the sonG \"Oh Danny Boy\" written?",
+        "label": "1910"
+    }
+]

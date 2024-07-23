@@ -1,0 +1,15 @@
+[
+    [
+        1258,
+        [],
+        "eliminate pathogens and extend shelf life"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pasteurization or pasteurisation is a process in which certain packaged and non-packaged foods (such as milk and fruit juice) are treated with mild heat, usually less than 100\u00b0C (212\u00b0F), to eliminate pathogens and extend shelf life. The process is intended to sterilize foods by destroying or inactivating organisms that contribute to spoilage, including vegetative bacteria but not bacterial spores.[1][2] Question: Why does milk need to be pasteurized? Answer:",
+    {
+        "id": "english-462947587529303152-0",
+        "lang": "english",
+        "summary": "Pasteurization or pasteurisation is a process in which certain packaged and non-packaged foods (such as milk and fruit juice) are treated with mild heat, usually less than 100\u00b0C (212\u00b0F), to eliminate pathogens and extend shelf life. The process is intended to sterilize foods by destroying or inactivating organisms that contribute to spoilage, including vegetative bacteria but not bacterial spores.[1][2]",
+        "question": "Why does milk need to be pasteurized?",
+        "label": "eliminate pathogens and extend shelf life"
+    }
+]

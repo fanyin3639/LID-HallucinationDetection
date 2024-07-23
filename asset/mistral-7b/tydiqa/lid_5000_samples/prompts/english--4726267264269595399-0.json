@@ -1,0 +1,15 @@
+[
+    [
+        1783,
+        [],
+        "1932"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lay's is the name of a brand for a number of potato chip varieties, as well as the name of the company that founded the chip brand in the U.S. in 1932. It has also been called Frito-Lay with Fritos.  Lay's has been owned by PepsiCo through Frito-Lay since 1965. Question: When were Lays potato chips first introduced? Answer:",
+    {
+        "id": "english--4726267264269595399-0",
+        "lang": "english",
+        "summary": "Lay's is the name of a brand for a number of potato chip varieties, as well as the name of the company that founded the chip brand in the U.S. in 1932. It has also been called Frito-Lay with Fritos.  Lay's has been owned by PepsiCo through Frito-Lay since 1965.",
+        "question": "When were Lays potato chips first introduced?",
+        "label": "1932"
+    }
+]

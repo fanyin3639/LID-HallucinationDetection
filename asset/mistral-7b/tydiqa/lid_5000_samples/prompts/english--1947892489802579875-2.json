@@ -1,0 +1,15 @@
+[
+    [
+        701,
+        [],
+        "221 to 206 BC"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Qin dynasty (Chinese:\u79e6\u671d; pinyin:Q\u00ednch\u00e1o; Wade\u2013Giles:Ch\u02bbin\u00b2-ch\u02bbao\u00b2) was the first dynasty of Imperial China,[2] lasting from 221 to 206 BC. Named for its heartland in Qin state (modern Gansu and Shaanxi), the dynasty was founded by Qin Shi Huang, the First Emperor of Qin. The strength of the Qin state was greatly increased by the Legalist reforms of Shang Yang in the fourth century BC, during the Warring States period. In the mid and late third century BC, the Qin state carried out a series of swift conquests, first ending the powerless Zhou dynasty, and eventually conquering the other six of the Seven Warring States. Its 15 years was the shortest major dynasty in Chinese history, consisting of only two emperors, but inaugurated an imperial system that lasted, with interruption and adaptation, until 1912 CE. Question: How long did the Qin dynasty last? Answer:",
+    {
+        "id": "english--1947892489802579875-2",
+        "lang": "english",
+        "summary": "The Qin dynasty (Chinese:\u79e6\u671d; pinyin:Q\u00ednch\u00e1o; Wade\u2013Giles:Ch\u02bbin\u00b2-ch\u02bbao\u00b2) was the first dynasty of Imperial China,[2] lasting from 221 to 206 BC. Named for its heartland in Qin state (modern Gansu and Shaanxi), the dynasty was founded by Qin Shi Huang, the First Emperor of Qin. The strength of the Qin state was greatly increased by the Legalist reforms of Shang Yang in the fourth century BC, during the Warring States period. In the mid and late third century BC, the Qin state carried out a series of swift conquests, first ending the powerless Zhou dynasty, and eventually conquering the other six of the Seven Warring States. Its 15 years was the shortest major dynasty in Chinese history, consisting of only two emperors, but inaugurated an imperial system that lasted, with interruption and adaptation, until 1912 CE.",
+        "question": "How long did the Qin dynasty last?",
+        "label": "221 to 206 BC"
+    }
+]

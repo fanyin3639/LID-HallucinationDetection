@@ -1,0 +1,14 @@
+[
+    [
+        1949,
+        [],
+        "A vintage steam-powered bus, which has been recently restored, is the latest tourist attraction on the seafront at Weston-super-Mare."
+    ],
+    "Write a short summary for the following passage:\nMedia playback is unsupported on your device\n28 August 2015 Last updated at 20:10 BST\nBBC reporter Michelle Ruminski spoke to the previous owner Viv Smith about the vehicle's history and to its new owner Jonathan Jones-Pratt.\nSummary:\n",
+    {
+        "id": 1949,
+        "document": "Media playback is unsupported on your device\n28 August 2015 Last updated at 20:10 BST\nBBC reporter Michelle Ruminski spoke to the previous owner Viv Smith about the vehicle's history and to its new owner Jonathan Jones-Pratt.",
+        "summary": "A vintage steam-powered bus, which has been recently restored, is the latest tourist attraction on the seafront at Weston-super-Mare.",
+        "label": "A vintage steam-powered bus, which has been recently restored, is the latest tourist attraction on the seafront at Weston-super-Mare."
+    }
+]

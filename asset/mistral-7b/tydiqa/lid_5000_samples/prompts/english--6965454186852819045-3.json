@@ -1,0 +1,15 @@
+[
+    [
+        588,
+        [],
+        "1909"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Serge's first published article was written in September 1908. Under the pen name \"Le R\u00e9tif\" (\"The Maverick\" or \"The Stubborn One\"), Serge wrote many articles for Le R\u00e9volt\u00e9 and, starting in 1909, L'Anarchie, a journal founded by Albert Libertad, whom Serge and his friends considered to be a hero. Serge at this stage was an outspoken supporter of individualist anarchism and illegalism, often clashing with the editor of L'Anarchie, Andr\u00e9 Roulot (aka \"Lorulot\"), who favoured less inflammatory rhetoric. In 1910, after a schism in L'Anarchie, Lorulot departed and Serge was named as the new editor of the paper. During this time, Serge was in a relationship with Rirette Maitrejean, another anarchist activist. Question: When did Victor Lvovich Kibalchich take the name Victor Serge? Answer:",
+    {
+        "id": "english--6965454186852819045-3",
+        "lang": "english",
+        "summary": "Serge's first published article was written in September 1908. Under the pen name \"Le R\u00e9tif\" (\"The Maverick\" or \"The Stubborn One\"), Serge wrote many articles for Le R\u00e9volt\u00e9 and, starting in 1909, L'Anarchie, a journal founded by Albert Libertad, whom Serge and his friends considered to be a hero. Serge at this stage was an outspoken supporter of individualist anarchism and illegalism, often clashing with the editor of L'Anarchie, Andr\u00e9 Roulot (aka \"Lorulot\"), who favoured less inflammatory rhetoric. In 1910, after a schism in L'Anarchie, Lorulot departed and Serge was named as the new editor of the paper. During this time, Serge was in a relationship with Rirette Maitrejean, another anarchist activist.",
+        "question": "When did Victor Lvovich Kibalchich take the name Victor Serge?",
+        "label": "1909"
+    }
+]

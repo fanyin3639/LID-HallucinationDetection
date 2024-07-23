@@ -1,0 +1,15 @@
+[
+    [
+        2363,
+        [],
+        "August 10, 1846"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Smithsonian Institution (/sm\u026a\u03b8\u02c8so\u028ani\u0259n/ smith-SOH-nee-\u0259n), established on August 10, 1846 \"for the increase and diffusion of knowledge,\" is a group of museums and research centers administered by the Government of the United States.[1] The institution is named after its founding donor, British scientist James Smithson.[2] Originally organized as the \"United States National Museum,\" that name ceased to exist as an administrative entity in 1967.[3] Question: When was the Smithsonian Institute founded? Answer:",
+    {
+        "id": "english--1195181435150002432-0",
+        "lang": "english",
+        "summary": "The Smithsonian Institution (/sm\u026a\u03b8\u02c8so\u028ani\u0259n/ smith-SOH-nee-\u0259n), established on August 10, 1846 \"for the increase and diffusion of knowledge,\" is a group of museums and research centers administered by the Government of the United States.[1] The institution is named after its founding donor, British scientist James Smithson.[2] Originally organized as the \"United States National Museum,\" that name ceased to exist as an administrative entity in 1967.[3]",
+        "question": "When was the Smithsonian Institute founded?",
+        "label": "August 10, 1846"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1701,
+        [],
+        "The L\u00f6wenmensch figurine"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The L\u00f6wenmensch figurine from the Swabian Alps in Germany is the oldest known statue in the world, and dates to 30,000-40,000 years ago.[6][7][8] The Venus of Hohle Fels, from the same area, is somewhat later.[9] Throughout history, statues have been associated with cult images in many religious traditions, from Ancient Egypt, Ancient India, Ancient Greece, and Ancient Rome to the present. Question: What is the oldest surviving example of sculpture? Answer:",
+    {
+        "id": "english-2628761330695250080-4",
+        "lang": "english",
+        "summary": "The L\u00f6wenmensch figurine from the Swabian Alps in Germany is the oldest known statue in the world, and dates to 30,000-40,000 years ago.[6][7][8] The Venus of Hohle Fels, from the same area, is somewhat later.[9] Throughout history, statues have been associated with cult images in many religious traditions, from Ancient Egypt, Ancient India, Ancient Greece, and Ancient Rome to the present.",
+        "question": "What is the oldest surviving example of sculpture?",
+        "label": "The L\u00f6wenmensch figurine"
+    }
+]

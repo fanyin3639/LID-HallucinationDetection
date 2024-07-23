@@ -1,0 +1,15 @@
+[
+    [
+        477,
+        [],
+        "Joseph von Mering and Oskar Minkowski"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The discovery of a role for the pancreas in diabetes is generally ascribed to Joseph von Mering and Oskar Minkowski, who in 1889 found that dogs whose pancreas was removed developed all the signs and symptoms of diabetes and died shortly afterwards.[8] In 1910, Sir Edward Albert Sharpey-Schafer suggested that people with diabetes were deficient in a single chemical that was normally produced by the pancreas\u2014he proposed calling this substance insulin, from the Latin insula, meaning island, in reference to the insulin-producing islets of Langerhans in the pancreas. The endocrine role of the pancreas in metabolism, and indeed the existence of insulin, was further clarified in 1921, when Sir Frederick Grant Banting and Charles Herbert Best repeated the work of Von Mering and Minkowski, and went further to demonstrate they could reverse induced diabetes in dogs by giving them an extract from the pancreatic islets of Langerhans of healthy dogs.[9] The islets of Langerhans was discovered in 1869 by an anatomist named Paul Langerhans. He identified the keys cells in the pancreas which produce the main substance that controls glucose levels in the body.[10] Question: Who first identified diabetes? Answer:",
+    {
+        "id": "english--3724024329467001283-7",
+        "lang": "english",
+        "summary": "The discovery of a role for the pancreas in diabetes is generally ascribed to Joseph von Mering and Oskar Minkowski, who in 1889 found that dogs whose pancreas was removed developed all the signs and symptoms of diabetes and died shortly afterwards.[8] In 1910, Sir Edward Albert Sharpey-Schafer suggested that people with diabetes were deficient in a single chemical that was normally produced by the pancreas\u2014he proposed calling this substance insulin, from the Latin insula, meaning island, in reference to the insulin-producing islets of Langerhans in the pancreas. The endocrine role of the pancreas in metabolism, and indeed the existence of insulin, was further clarified in 1921, when Sir Frederick Grant Banting and Charles Herbert Best repeated the work of Von Mering and Minkowski, and went further to demonstrate they could reverse induced diabetes in dogs by giving them an extract from the pancreatic islets of Langerhans of healthy dogs.[9] The islets of Langerhans was discovered in 1869 by an anatomist named Paul Langerhans. He identified the keys cells in the pancreas which produce the main substance that controls glucose levels in the body.[10]",
+        "question": "Who first identified diabetes?",
+        "label": "Joseph von Mering and Oskar Minkowski"
+    }
+]

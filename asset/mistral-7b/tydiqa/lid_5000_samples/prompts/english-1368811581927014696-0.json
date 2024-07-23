@@ -1,0 +1,15 @@
+[
+    [
+        661,
+        [],
+        "83.6 \u00b1 0.7Ma to 72.1 \u00b1 0.6 Ma"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Campanian is, in the ICS' geologic timescale, the fifth of six ages of the Late Cretaceous epoch (or, in chronostratigraphy: the fifth of six stages in the Upper Cretaceous series). The Campanian spans the time from 83.6 \u00b1 0.7Ma to 72.1 \u00b1 0.6 Ma(million years ago). It is preceded by the Santonian and it is followed by the Maastrichtian.[2] Question: When was the Campanian age? Answer:",
+    {
+        "id": "english-1368811581927014696-0",
+        "lang": "english",
+        "summary": "The Campanian is, in the ICS' geologic timescale, the fifth of six ages of the Late Cretaceous epoch (or, in chronostratigraphy: the fifth of six stages in the Upper Cretaceous series). The Campanian spans the time from 83.6 \u00b1 0.7Ma to 72.1 \u00b1 0.6 Ma(million years ago). It is preceded by the Santonian and it is followed by the Maastrichtian.[2]",
+        "question": "When was the Campanian age?",
+        "label": "83.6 \u00b1 0.7Ma to 72.1 \u00b1 0.6 Ma"
+    }
+]

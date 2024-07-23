@@ -1,0 +1,15 @@
+[
+    [
+        558,
+        [],
+        "Charles, Prince of Wales"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Queen Elizabeth II is the sovereign, and her heir apparent is her eldest son, Charles, Prince of Wales. Next in line after him is Prince William, Duke of Cambridge, the Prince of Wales's elder son. Third in line is Prince George, the eldest child of the Duke of Cambridge, followed by his sister, Princess Charlotte and younger brother, Prince Louis. Sixth in line is Prince Harry, Duke of Sussex, the younger son of the Prince of Wales. Under the Perth Agreement, which came into effect in 2015, only the first six in line of succession require the sovereign's consent before they marry; without such consent, they and their children would be disqualified from succession. Question: Who will be the next queen or king of England? Answer:",
+    {
+        "id": "english--2595315532401435657-1",
+        "lang": "english",
+        "summary": "Queen Elizabeth II is the sovereign, and her heir apparent is her eldest son, Charles, Prince of Wales. Next in line after him is Prince William, Duke of Cambridge, the Prince of Wales's elder son. Third in line is Prince George, the eldest child of the Duke of Cambridge, followed by his sister, Princess Charlotte and younger brother, Prince Louis. Sixth in line is Prince Harry, Duke of Sussex, the younger son of the Prince of Wales. Under the Perth Agreement, which came into effect in 2015, only the first six in line of succession require the sovereign's consent before they marry; without such consent, they and their children would be disqualified from succession.",
+        "question": "Who will be the next queen or king of England?",
+        "label": "Charles, Prince of Wales"
+    }
+]

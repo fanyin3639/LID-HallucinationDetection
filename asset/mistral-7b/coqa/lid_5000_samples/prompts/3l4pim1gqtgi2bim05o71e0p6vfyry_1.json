@@ -1,0 +1,19 @@
+[
+    [
+        1031,
+        [],
+        "Yes."
+    ],
+    "Answer the following questions:\nContext: (CNN) -- It was in the majestic surroundings of Muirfield that the original gold-plated superstar of golf secured his first major title. \n\nThe small town of Gullane to the east of Edinburgh that is all set to welcome the modern titans of the game for the 142nd staging of the British Open played host to a true pioneer back in 1896. \n\nHarry Vardon won a total of six British Open titles, a record that still stands, but his achievements in the game stretch far beyond his haul of majors, which was lifted to seven by his 1900 U.S. Open triumph. \n\nNot only was he credited with sparking an explosion of interest in the game during his tours of America at the turn of the 20th Century but he also devised the grip- -- \"the overlapping grip\" or the \"Vardon overlap\" -- that 90 percent of golfers still deploy. \n\nIt is little wonder he is spoken of in such glowing terms by Australian Peter Thompson, who alongside American legend Tom Watson, is just one British Open triumph behind Vardon's half-dozen successes. \n\n\"He was the God of golf,\" Thompson told CNN's Living Golf show. \"To aspire to such a position was sacrilege -- it was way out of my league. \n\n\"It wasn't until I passed five that I thought, 'Well, it's possible to equal the great man' but I didn't do it, regrettably. \n\n\"It must have been inspirational to watch him swing. He had the power of a winning champion. Had someone won seven or even six Opens we wouldn't have had Vardon as a God. \n'Question': Did he win the British open?\n'Answer: '",
+    {
+        "id": "3l4pim1gqtgi2bim05o71e0p6vfyry_1",
+        "summary": "(CNN) -- It was in the majestic surroundings of Muirfield that the original gold-plated superstar of golf secured his first major title. \n\nThe small town of Gullane to the east of Edinburgh that is all set to welcome the modern titans of the game for the 142nd staging of the British Open played host to a true pioneer back in 1896. \n\nHarry Vardon won a total of six British Open titles, a record that still stands, but his achievements in the game stretch far beyond his haul of majors, which was lifted to seven by his 1900 U.S. Open triumph. \n\nNot only was he credited with sparking an explosion of interest in the game during his tours of America at the turn of the 20th Century but he also devised the grip- -- \"the overlapping grip\" or the \"Vardon overlap\" -- that 90 percent of golfers still deploy. \n\nIt is little wonder he is spoken of in such glowing terms by Australian Peter Thompson, who alongside American legend Tom Watson, is just one British Open triumph behind Vardon's half-dozen successes. \n\n\"He was the God of golf,\" Thompson told CNN's Living Golf show. \"To aspire to such a position was sacrilege -- it was way out of my league. \n\n\"It wasn't until I passed five that I thought, 'Well, it's possible to equal the great man' but I didn't do it, regrettably. \n\n\"It must have been inspirational to watch him swing. He had the power of a winning champion. Had someone won seven or even six Opens we wouldn't have had Vardon as a God. ",
+        "question": "Did he win the British open?",
+        "label": "Yes.",
+        "additional_answers": [
+            "Yes",
+            "yes",
+            "Yes"
+        ]
+    }
+]

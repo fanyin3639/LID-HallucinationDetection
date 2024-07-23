@@ -1,0 +1,15 @@
+[
+    [
+        2864,
+        [],
+        "138,625"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the 2011 census,[108] the island's population of 138,625 lives in 61,085 households, giving an average household size of 2.27 people. Question: What is the population of the Isle of Wight? Answer:",
+    {
+        "id": "english--2370243957174459936-70",
+        "lang": "english",
+        "summary": "According to the 2011 census,[108] the island's population of 138,625 lives in 61,085 households, giving an average household size of 2.27 people.",
+        "question": "What is the population of the Isle of Wight?",
+        "label": "138,625"
+    }
+]

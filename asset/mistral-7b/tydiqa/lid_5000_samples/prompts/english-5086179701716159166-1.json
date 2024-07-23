@@ -1,0 +1,15 @@
+[
+    [
+        1080,
+        [],
+        "5.5 million people"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Finland numbers some 5.5 million people and has an average population density of 17 inhabitants per square kilometre. There has not been any remarkable growth in the number of population since the inception of modern Finland. This makes it the third most sparsely populated country in Europe, after Iceland and Norway. Population distribution is very uneven: the population is concentrated on the small southwestern coastal plain. About 85% live in towns and cities, with one million living in the Helsinki Metropolitan Area alone.[1] In Arctic Lapland, on the other hand, there are only 2 people to every square kilometre. Question: How many people live in Finland? Answer:",
+    {
+        "id": "english-5086179701716159166-1",
+        "lang": "english",
+        "summary": "Finland numbers some 5.5 million people and has an average population density of 17 inhabitants per square kilometre. There has not been any remarkable growth in the number of population since the inception of modern Finland. This makes it the third most sparsely populated country in Europe, after Iceland and Norway. Population distribution is very uneven: the population is concentrated on the small southwestern coastal plain. About 85% live in towns and cities, with one million living in the Helsinki Metropolitan Area alone.[1] In Arctic Lapland, on the other hand, there are only 2 people to every square kilometre.",
+        "question": "How many people live in Finland?",
+        "label": "5.5 million people"
+    }
+]

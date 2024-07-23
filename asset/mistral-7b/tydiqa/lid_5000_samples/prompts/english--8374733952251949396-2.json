@@ -1,0 +1,15 @@
+[
+    [
+        91,
+        [],
+        "760 kilometers"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Its course is generally to the south, however with a major bend to the west at about 7\u00b0 N 37\u00b0 30' E to about 36\u00b0 E where it turns south until 5\u00b0 30' N where it makes a large S- bend then resumes its southerly course to Lake Turkana. According to materials published by the Ethiopian Central Statistical Agency, the Omo-Bottego River is 760 kilometers long.[1] Question: How long is the Omo River? Answer:",
+    {
+        "id": "english--8374733952251949396-2",
+        "lang": "english",
+        "summary": "Its course is generally to the south, however with a major bend to the west at about 7\u00b0 N 37\u00b0 30' E to about 36\u00b0 E where it turns south until 5\u00b0 30' N where it makes a large S- bend then resumes its southerly course to Lake Turkana. According to materials published by the Ethiopian Central Statistical Agency, the Omo-Bottego River is 760 kilometers long.[1]",
+        "question": "How long is the Omo River?",
+        "label": "760 kilometers"
+    }
+]

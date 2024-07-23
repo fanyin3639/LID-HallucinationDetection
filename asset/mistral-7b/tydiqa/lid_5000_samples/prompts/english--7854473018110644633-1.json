@@ -1,0 +1,15 @@
+[
+    [
+        511,
+        [],
+        "fictional undead being created through the reanimation of a human corpse"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A zombie (Haitian French: zombi, Haitian Creole: zonbi) is a fictional undead being created through the reanimation of a human corpse. Zombies are most commonly found in horror and fantasy genre works. The term comes from Haitian folklore, in which a zombie is a dead body reanimated through various methods, most commonly magic. Modern depictions of the reanimation of the dead do not necessarily involve magic but often invoke science fictional methods such as carriers, radiation, mental diseases, vectors, pathogens, scientific accidents, etc.[1][2] Question: What is a zombie Answer:",
+    {
+        "id": "english--7854473018110644633-1",
+        "lang": "english",
+        "summary": "A zombie (Haitian French: zombi, Haitian Creole: zonbi) is a fictional undead being created through the reanimation of a human corpse. Zombies are most commonly found in horror and fantasy genre works. The term comes from Haitian folklore, in which a zombie is a dead body reanimated through various methods, most commonly magic. Modern depictions of the reanimation of the dead do not necessarily involve magic but often invoke science fictional methods such as carriers, radiation, mental diseases, vectors, pathogens, scientific accidents, etc.[1][2]",
+        "question": "What is a zombie",
+        "label": "fictional undead being created through the reanimation of a human corpse"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        96,
+        [],
+        "1990"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The idea of a Global Marshall Plan was first published in 1990 by U.S. politician, entrepreneur and environmentalist Al Gore in his book \u201cEarth in the Balance: Ecology and the Human Spirit\u201d. The choice of name deliberately recalls the historical Marshall Plan after the Second World War (officially: European Recovery Program), a symbol for hope, solidarity and peace. Question: When was The Global Marshall Plan Initiative formed? Answer:",
+    {
+        "id": "english--7313836612230225971-2",
+        "lang": "english",
+        "summary": "The idea of a Global Marshall Plan was first published in 1990 by U.S. politician, entrepreneur and environmentalist Al Gore in his book \u201cEarth in the Balance: Ecology and the Human Spirit\u201d. The choice of name deliberately recalls the historical Marshall Plan after the Second World War (officially: European Recovery Program), a symbol for hope, solidarity and peace.",
+        "question": "When was The Global Marshall Plan Initiative formed?",
+        "label": "1990"
+    }
+]

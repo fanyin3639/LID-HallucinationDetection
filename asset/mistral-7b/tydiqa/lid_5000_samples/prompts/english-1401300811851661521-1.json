@@ -1,0 +1,15 @@
+[
+    [
+        241,
+        [],
+        "Pong"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of video games spans a period of time between the invention of the first electronic games and today, covering a long period of invention and changes. Video gaming reached mainstream popularity in the 1970s and 1980s, when arcade video games, gaming consoles and home computer games were introduced to the general public. Since then, video gaming has become a popular form of entertainment and a part of modern culture in most parts of the world. The early history of video games, therefore, covers the period of time between the first interactive electronic game with an electronic display in 1947, the first true video games in the early 1950s, and the rise of early arcade video games in the 1970s  (Pong and the beginning of the first generation of video game consoles with the Magnavox Odyssey, both in 1972). During this time there were a wide range of devices and inventions corresponding with large advances in computing technology, and the actual first video game is dependent on the definition of \"video game\" used. Question: What was the first video game? Answer:",
+    {
+        "id": "english-1401300811851661521-1",
+        "lang": "english",
+        "summary": "The history of video games spans a period of time between the invention of the first electronic games and today, covering a long period of invention and changes. Video gaming reached mainstream popularity in the 1970s and 1980s, when arcade video games, gaming consoles and home computer games were introduced to the general public. Since then, video gaming has become a popular form of entertainment and a part of modern culture in most parts of the world. The early history of video games, therefore, covers the period of time between the first interactive electronic game with an electronic display in 1947, the first true video games in the early 1950s, and the rise of early arcade video games in the 1970s  (Pong and the beginning of the first generation of video game consoles with the Magnavox Odyssey, both in 1972). During this time there were a wide range of devices and inventions corresponding with large advances in computing technology, and the actual first video game is dependent on the definition of \"video game\" used.",
+        "question": "What was the first video game?",
+        "label": "Pong"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        723,
+        [],
+        "25 December 1758"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Halley's prediction of the comet's return proved to be correct, although it was not seen until 25 December 1758, by Johann Georg Palitzsch, a German farmer and amateur astronomer. It did not pass through its perihelion until 13 March 1759, the attraction of Jupiter and Saturn having caused a retardation of 618 days.[27] This effect was computed prior to its return (with a one-month error to 13 April)[28] by a team of three French mathematicians, Alexis Clairaut, Joseph Lalande, and Nicole-Reine Lepaute.[29] The confirmation of the comet's return was the first time anything other than planets had been shown to orbit the Sun. It was also one of the earliest successful tests of Newtonian physics, and a clear demonstration of its explanatory power.[30] The comet was first named in Halley's honour by French astronomer Nicolas-Louis de Lacaille in 1759.[30] Question: When was Halley's Comet first discovered? Answer:",
+    {
+        "id": "english--2448003439765515643-7",
+        "lang": "english",
+        "summary": "Halley's prediction of the comet's return proved to be correct, although it was not seen until 25 December 1758, by Johann Georg Palitzsch, a German farmer and amateur astronomer. It did not pass through its perihelion until 13 March 1759, the attraction of Jupiter and Saturn having caused a retardation of 618 days.[27] This effect was computed prior to its return (with a one-month error to 13 April)[28] by a team of three French mathematicians, Alexis Clairaut, Joseph Lalande, and Nicole-Reine Lepaute.[29] The confirmation of the comet's return was the first time anything other than planets had been shown to orbit the Sun. It was also one of the earliest successful tests of Newtonian physics, and a clear demonstration of its explanatory power.[30] The comet was first named in Halley's honour by French astronomer Nicolas-Louis de Lacaille in 1759.[30]",
+        "question": "When was Halley's Comet first discovered?",
+        "label": "25 December 1758"
+    }
+]

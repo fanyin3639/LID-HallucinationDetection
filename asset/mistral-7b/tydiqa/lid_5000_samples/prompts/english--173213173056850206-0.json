@@ -1,0 +1,15 @@
+[
+    [
+        2566,
+        [],
+        "1965"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Chicago Central Area Transit Plan, or generally referred to as the Chicago Central Area Transit Project (CCATP) in the 1970s, was an extensive study of the rapid transit system in downtown Chicago; the study had begun in 1965. Question: When was the Chicago Central Area Transit Plan first introduced? Answer:",
+    {
+        "id": "english--173213173056850206-0",
+        "lang": "english",
+        "summary": "The Chicago Central Area Transit Plan, or generally referred to as the Chicago Central Area Transit Project (CCATP) in the 1970s, was an extensive study of the rapid transit system in downtown Chicago; the study had begun in 1965.",
+        "question": "When was the Chicago Central Area Transit Plan first introduced?",
+        "label": "1965"
+    }
+]

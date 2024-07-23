@@ -1,0 +1,14 @@
+[
+    [
+        361,
+        [],
+        "Danny McGuire has been appointed Leeds Rhinos' new captain in succession to Kevin Sinfield."
+    ],
+    "Write a short summary for the following passage:\nThe half-back, 33, has spent his whole career with the Rhinos, winning seven Grand Finals and two Challenge Cups.\nMcGuire made his debut for the Headingley side in 2002 and is just the sixth player to be appointed the club's captain in the Super League era.\n\"This was obviously a very important decision and one that took serious time,\" said coach Brian McDermott.\n\"In his early career, Danny was known for his phenomenal scoring record.\n\"However, in recent years he has shaped his style to suit the team and been one of our true leaders.\n\"He is highly respected by his team-mates and the coaching staff and I know he will take a great deal of pride from captaining his hometown club.\"\nSummary:\n",
+    {
+        "id": 361,
+        "document": "The half-back, 33, has spent his whole career with the Rhinos, winning seven Grand Finals and two Challenge Cups.\nMcGuire made his debut for the Headingley side in 2002 and is just the sixth player to be appointed the club's captain in the Super League era.\n\"This was obviously a very important decision and one that took serious time,\" said coach Brian McDermott.\n\"In his early career, Danny was known for his phenomenal scoring record.\n\"However, in recent years he has shaped his style to suit the team and been one of our true leaders.\n\"He is highly respected by his team-mates and the coaching staff and I know he will take a great deal of pride from captaining his hometown club.\"",
+        "summary": "Danny McGuire has been appointed Leeds Rhinos' new captain in succession to Kevin Sinfield.",
+        "label": "Danny McGuire has been appointed Leeds Rhinos' new captain in succession to Kevin Sinfield."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2454,
+        [],
+        "6,269"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Burntisland (/b\u025c\u02d0rnt\u02c8a\u026al\u0259nd/ listen, Scots: Bruntisland)[2] is a royal burgh and parish in Fife, Scotland, on the northern shore of the Firth of Forth. According to the 2011 census, the town has a population of 6,269.[1] Question: What is the population of Burntisland, Scotland? Answer:",
+    {
+        "id": "english--3702229337532092850-0",
+        "lang": "english",
+        "summary": "Burntisland (/b\u025c\u02d0rnt\u02c8a\u026al\u0259nd/ listen, Scots: Bruntisland)[2] is a royal burgh and parish in Fife, Scotland, on the northern shore of the Firth of Forth. According to the 2011 census, the town has a population of 6,269.[1]",
+        "question": "What is the population of Burntisland, Scotland?",
+        "label": "6,269"
+    }
+]

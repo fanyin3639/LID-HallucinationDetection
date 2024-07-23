@@ -1,0 +1,15 @@
+[
+    [
+        2674,
+        [],
+        "originates from a Saint-Lawrence Iroquoian word kanata (or canada) for \"settlement\", \"village\", or \"land\""
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The name of Canada has been in use since the founding of the French colony of Canada in the 16th century. The name originates from a Saint-Lawrence Iroquoian word kanata (or canada) for \"settlement\", \"village\", or \"land\". It is pronounced /\u02c8k\u00e6n\u0259d\u0259/ in English and [kanad\u0251] in standard Quebec French.[1] In Inuktitut, one of the official languages of the territory of Nunavut, the First Nations word (pronounced [kanata]) is used, with the Inuktitut syllabics \u1472\u14c7\u1455. Question: What does the name Canada come from? Answer:",
+    {
+        "id": "english--4951271967437931352-0",
+        "lang": "english",
+        "summary": "The name of Canada has been in use since the founding of the French colony of Canada in the 16th century. The name originates from a Saint-Lawrence Iroquoian word kanata (or canada) for \"settlement\", \"village\", or \"land\". It is pronounced /\u02c8k\u00e6n\u0259d\u0259/ in English and [kanad\u0251] in standard Quebec French.[1] In Inuktitut, one of the official languages of the territory of Nunavut, the First Nations word (pronounced [kanata]) is used, with the Inuktitut syllabics \u1472\u14c7\u1455.",
+        "question": "What does the name Canada come from?",
+        "label": "originates from a Saint-Lawrence Iroquoian word kanata (or canada) for \"settlement\", \"village\", or \"land\""
+    }
+]

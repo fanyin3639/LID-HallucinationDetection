@@ -1,0 +1,14 @@
+[
+    [
+        314,
+        [],
+        "A bus has crashed into parked cars in Paisley after the 55-year-old driver became ill at the wheel."
+    ],
+    "Write a short summary for the following passage:\nThe McGill's Bus service crashed in the Renfrewshire town's Thrushcraig Crescent at about 15:55 on Wednesday.\nEmergency services attended and the driver was taken to the nearby Royal Alexandra Hospital for observation.\nPolice said no-one was injured during the incident and inquiries were ongoing to establish the circumstances surrounding the crash.\nSummary:\n",
+    {
+        "id": 314,
+        "document": "The McGill's Bus service crashed in the Renfrewshire town's Thrushcraig Crescent at about 15:55 on Wednesday.\nEmergency services attended and the driver was taken to the nearby Royal Alexandra Hospital for observation.\nPolice said no-one was injured during the incident and inquiries were ongoing to establish the circumstances surrounding the crash.",
+        "summary": "A bus has crashed into parked cars in Paisley after the 55-year-old driver became ill at the wheel.",
+        "label": "A bus has crashed into parked cars in Paisley after the 55-year-old driver became ill at the wheel."
+    }
+]

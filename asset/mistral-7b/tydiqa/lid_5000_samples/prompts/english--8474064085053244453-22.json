@@ -1,0 +1,15 @@
+[
+    [
+        2216,
+        [],
+        "June 27, 2014"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lions Gate Entertainment released America in three theaters on June 27, 2014 and expanded its distribution on the weekend of the U.S. holiday Independence Day on July 4, 2014. CinemaScore reported that the opening-weekend audiences gave the film an \"A+\" grade.[72][73] The film grossed $14.4 million, which made it the highest-grossing documentary in the United States in 2014.[74] Question: Where was the premier of America: Imagine the World Without Her held? Answer:",
+    {
+        "id": "english--8474064085053244453-22",
+        "lang": "english",
+        "summary": "Lions Gate Entertainment released America in three theaters on June 27, 2014 and expanded its distribution on the weekend of the U.S. holiday Independence Day on July 4, 2014. CinemaScore reported that the opening-weekend audiences gave the film an \"A+\" grade.[72][73] The film grossed $14.4 million, which made it the highest-grossing documentary in the United States in 2014.[74]",
+        "question": "Where was the premier of America: Imagine the World Without Her held?",
+        "label": "June 27, 2014"
+    }
+]

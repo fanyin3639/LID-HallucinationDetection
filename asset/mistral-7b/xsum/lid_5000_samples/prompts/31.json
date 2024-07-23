@@ -1,0 +1,14 @@
+[
+    [
+        31,
+        [],
+        "South Africa pulled off a dramatic three-wicket victory in their opening Women's World Cup match against Pakistan at Grace Road."
+    ],
+    "Write a short summary for the following passage:\nMedia playback is not supported on this device\nPakistan posted their highest World Cup score with opener Nahida Khan (79) helping them to 206-8.\nThe Proteas reached 113-0 before losing five wickets for 34 runs in a frenzied spell which included three run-outs.\nIt was left to number nine Shabnim Ismail to strike consecutive boundaries in the 49th over to secure a win.\nPakistan, who have not won a World Cup match since 2009, face England on Tuesday, again at Leicester, while South Africa play New Zealand at Derby on Wednesday.\nSummary:\n",
+    {
+        "id": 31,
+        "document": "Media playback is not supported on this device\nPakistan posted their highest World Cup score with opener Nahida Khan (79) helping them to 206-8.\nThe Proteas reached 113-0 before losing five wickets for 34 runs in a frenzied spell which included three run-outs.\nIt was left to number nine Shabnim Ismail to strike consecutive boundaries in the 49th over to secure a win.\nPakistan, who have not won a World Cup match since 2009, face England on Tuesday, again at Leicester, while South Africa play New Zealand at Derby on Wednesday.",
+        "summary": "South Africa pulled off a dramatic three-wicket victory in their opening Women's World Cup match against Pakistan at Grace Road.",
+        "label": "South Africa pulled off a dramatic three-wicket victory in their opening Women's World Cup match against Pakistan at Grace Road."
+    }
+]

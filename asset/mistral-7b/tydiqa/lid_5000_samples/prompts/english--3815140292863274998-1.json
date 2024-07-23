@@ -1,0 +1,15 @@
+[
+    [
+        2848,
+        [],
+        "Jacksonville, Florida"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Labine was born in Jacksonville, Florida on June 28, 1934.[2] She attended the University of Kentucky where her major was journalism, but later she switched to playwriting major at Columbia University's School of Dramatic Arts (now Columbia University School of the Arts). Question: Where was Claire Labine born? Answer:",
+    {
+        "id": "english--3815140292863274998-1",
+        "lang": "english",
+        "summary": "Labine was born in Jacksonville, Florida on June 28, 1934.[2] She attended the University of Kentucky where her major was journalism, but later she switched to playwriting major at Columbia University's School of Dramatic Arts (now Columbia University School of the Arts).",
+        "question": "Where was Claire Labine born?",
+        "label": "Jacksonville, Florida"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1864,
+        [],
+        "The Shakespeare Center"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Nahum Tate's The History of King Lear was successfully remounted in New York, at The Shakespeare Center on Mahattan's Upper West Side, staged by the Riverside Shakespeare Company in 1985.[30] For this production, conventions of the mid-17th century English theatre, when Tate's Lear was popular, were used in the staging, such as raked stage covered with green felt (as was the custom for tragedies),[31] footlights used for illumination on an apron stage (or curved proscenium stage), and period costumes drawn from the era of David Garrick.  Musical interludes were sung by cast members during the act breaks, accompanied by a harpsichord in the orchestra pit before the stage.  The production was directed by the company's Artistic Director, W. Stuart McDowell, and featured Eric Hoffmann in the role of Lear, and supported by an Equity company of fifteen, including Frank Muller in the role of the Bastard Edmund.[32] The play, with its \"happy ending\", became known as a \"King Lear for optimists\" by the press, and proved one of the most popular productions by the Riverside Shakespeare Company.[31] Question: Where was Nahum Tate's adaptation of King Lear first performed? Answer:",
+    {
+        "id": "english-4535187693684855227-42",
+        "lang": "english",
+        "summary": "Nahum Tate's The History of King Lear was successfully remounted in New York, at The Shakespeare Center on Mahattan's Upper West Side, staged by the Riverside Shakespeare Company in 1985.[30] For this production, conventions of the mid-17th century English theatre, when Tate's Lear was popular, were used in the staging, such as raked stage covered with green felt (as was the custom for tragedies),[31] footlights used for illumination on an apron stage (or curved proscenium stage), and period costumes drawn from the era of David Garrick.  Musical interludes were sung by cast members during the act breaks, accompanied by a harpsichord in the orchestra pit before the stage.  The production was directed by the company's Artistic Director, W. Stuart McDowell, and featured Eric Hoffmann in the role of Lear, and supported by an Equity company of fifteen, including Frank Muller in the role of the Bastard Edmund.[32] The play, with its \"happy ending\", became known as a \"King Lear for optimists\" by the press, and proved one of the most popular productions by the Riverside Shakespeare Company.[31]",
+        "question": "Where was Nahum Tate's adaptation of King Lear first performed?",
+        "label": "The Shakespeare Center"
+    }
+]

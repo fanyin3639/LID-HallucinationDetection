@@ -1,0 +1,19 @@
+[
+    [
+        997,
+        [],
+        "No"
+    ],
+    "Answer the following questions:\nContext: CHAPTER XIV \n\nTHE CURE \n\nIt was noon when Harding returned to camp, ragged and exhausted, with Clarke limping after him in an even more pitiable state. The latter had suffered badly from the hurried march, but his conductor would brook no delay and the grim hints he had been given encouraged him to the utmost exertion he was capable of. Blake was alive, but when Harding bent over him he feared that help had come too late. His skin looked harsh and dry, his face had grown hollow, and his thick strong hair had turned lank and was falling out. His eyes were vacant and unrecognizing when he turned them upon Harding. \n\n\"Here's your patient,\" the American said to Clarke. \"We expect you to cure him, and you had better get to work at once.\" Then his face grew troubled as he asked Benson: \"How long has he been like that?\" \n\n\"The last two days,\" said Benson. \"I'm afraid he's very bad.\" \n\nHarding sat down with a smothered groan. Every muscle seemed to ache, he could scarcely hold himself upright, and his heart was heavy. He would miss Blake terribly; it was hard to think of going on without him, but he feared that this was inevitable. He was filled with a deep pity for the helpless man, but after a few moments his weary face grew stern. He had done all that he was able, and now Clarke, whom he believed to be a man of high medical skill, must do his part. If he were unsuccessful, it would be the worse for him. \n'Question': Was Blake's hair growing fitfully and fully?\n'Answer: '",
+    {
+        "id": "3bqu611vfpkxxaesycw5bc74qt7991_15",
+        "summary": "CHAPTER XIV \n\nTHE CURE \n\nIt was noon when Harding returned to camp, ragged and exhausted, with Clarke limping after him in an even more pitiable state. The latter had suffered badly from the hurried march, but his conductor would brook no delay and the grim hints he had been given encouraged him to the utmost exertion he was capable of. Blake was alive, but when Harding bent over him he feared that help had come too late. His skin looked harsh and dry, his face had grown hollow, and his thick strong hair had turned lank and was falling out. His eyes were vacant and unrecognizing when he turned them upon Harding. \n\n\"Here's your patient,\" the American said to Clarke. \"We expect you to cure him, and you had better get to work at once.\" Then his face grew troubled as he asked Benson: \"How long has he been like that?\" \n\n\"The last two days,\" said Benson. \"I'm afraid he's very bad.\" \n\nHarding sat down with a smothered groan. Every muscle seemed to ache, he could scarcely hold himself upright, and his heart was heavy. He would miss Blake terribly; it was hard to think of going on without him, but he feared that this was inevitable. He was filled with a deep pity for the helpless man, but after a few moments his weary face grew stern. He had done all that he was able, and now Clarke, whom he believed to be a man of high medical skill, must do his part. If he were unsuccessful, it would be the worse for him. ",
+        "question": "Was Blake's hair growing fitfully and fully?",
+        "label": "No",
+        "additional_answers": [
+            "No",
+            "no",
+            "no"
+        ]
+    }
+]

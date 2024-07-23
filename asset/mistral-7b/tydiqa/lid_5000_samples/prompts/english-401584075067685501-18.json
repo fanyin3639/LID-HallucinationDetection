@@ -1,0 +1,15 @@
+[
+    [
+        696,
+        [],
+        "6,418km"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Perth is set on the Swan River, named for the native black swans by Willem de Vlamingh, captain of a Dutch expedition and namer of WA's Rottnest Island who discovered the birds while exploring the area in 1697.[45] Traditionally, this water body had been known by Aboriginal inhabitants as Derbarl Yerrigan.[46] The city centre and most of the suburbs are located on the sandy and relatively flat Swan Coastal Plain, which lies between the Darling Scarp and the Indian Ocean. The soils of this area are quite infertile. The metropolitan area extends along the coast to Two Rocks in the north and Singleton to the south,[47] a total distance of approximately 125 kilometres (78mi).[48] From the coast in the west to Mundaring in the east is a total distance of approximately 50km (31mi). The Perth metropolitan area covers 6,418km2 (2,478sqmi).[2] Question: How large is Perth? Answer:",
+    {
+        "id": "english-401584075067685501-18",
+        "lang": "english",
+        "summary": "Perth is set on the Swan River, named for the native black swans by Willem de Vlamingh, captain of a Dutch expedition and namer of WA's Rottnest Island who discovered the birds while exploring the area in 1697.[45] Traditionally, this water body had been known by Aboriginal inhabitants as Derbarl Yerrigan.[46] The city centre and most of the suburbs are located on the sandy and relatively flat Swan Coastal Plain, which lies between the Darling Scarp and the Indian Ocean. The soils of this area are quite infertile. The metropolitan area extends along the coast to Two Rocks in the north and Singleton to the south,[47] a total distance of approximately 125 kilometres (78mi).[48] From the coast in the west to Mundaring in the east is a total distance of approximately 50km (31mi). The Perth metropolitan area covers 6,418km2 (2,478sqmi).[2]",
+        "question": "How large is Perth?",
+        "label": "6,418km"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1177,
+        [],
+        "Monica Potter"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Last House on the Left is a 2009 American horror-thriller film directed by Dennis Iliadis and written by Carl Ellsworth and Adam Alleca. It is a remake of the 1972 film of the same name, and stars Tony Goldwyn, Monica Potter, Garret Dillahunt, Spencer Treat Clark, Martha MacIsaac, and Sara Paxton. The film follows the parents (Goldwyn and Potter) of Mari Collingwood (Paxton), who attempt to get revenge on a group of strangers, led by a man named Krug (Dillahunt), that have taken shelter at their home during a thunderstorm. Question: Who is the female lead in The Last House on the Left? Answer:",
+    {
+        "id": "english-1121182207186465089-0",
+        "lang": "english",
+        "summary": "The Last House on the Left is a 2009 American horror-thriller film directed by Dennis Iliadis and written by Carl Ellsworth and Adam Alleca. It is a remake of the 1972 film of the same name, and stars Tony Goldwyn, Monica Potter, Garret Dillahunt, Spencer Treat Clark, Martha MacIsaac, and Sara Paxton. The film follows the parents (Goldwyn and Potter) of Mari Collingwood (Paxton), who attempt to get revenge on a group of strangers, led by a man named Krug (Dillahunt), that have taken shelter at their home during a thunderstorm.",
+        "question": "Who is the female lead in The Last House on the Left?",
+        "label": "Monica Potter"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        3033,
+        [],
+        "krone"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The krone [\u02c8kru\u02d0n\u0259] (sign: kr; code: NOK), plural kroner, is the currency of Norway and its dependent territories. It is subdivided into 100 \u00f8re, which have existed only electronically since 2012. The name translates into English as crown. Question: What currency can you use in Norway? Answer:",
+    {
+        "id": "english-1261071385613263713-0",
+        "lang": "english",
+        "summary": "The krone [\u02c8kru\u02d0n\u0259] (sign: kr; code: NOK), plural kroner, is the currency of Norway and its dependent territories. It is subdivided into 100 \u00f8re, which have existed only electronically since 2012. The name translates into English as crown.",
+        "question": "What currency can you use in Norway?",
+        "label": "krone"
+    }
+]

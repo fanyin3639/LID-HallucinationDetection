@@ -1,0 +1,15 @@
+[
+    [
+        2124,
+        [],
+        "4th century BCE"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Maharashtra is a state in the western region of India and is India's second-most populous state and third-largest state by area.Although the present day state in India was only formed in 1960,the region that comprises the state has a long history dating back to  the 4th century BCE. Question: When was Maharashtra founded? Answer:",
+    {
+        "id": "english-3423704050859555207-1",
+        "lang": "english",
+        "summary": "Maharashtra is a state in the western region of India and is India's second-most populous state and third-largest state by area.Although the present day state in India was only formed in 1960,the region that comprises the state has a long history dating back to  the 4th century BCE.",
+        "question": "When was Maharashtra founded?",
+        "label": "4th century BCE"
+    }
+]

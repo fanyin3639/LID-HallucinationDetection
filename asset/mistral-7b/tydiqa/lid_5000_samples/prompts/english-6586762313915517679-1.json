@@ -1,0 +1,15 @@
+[
+    [
+        1318,
+        [],
+        "Thornbury"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lawry was born in the Melbourne suburb of Thornbury. He was given the names William Morris after the early Prime Minister of Australia, William Morris Hughes. His father Alfred played amateur cricket until the age of 51. Bill never saw his father play, who was aged 47 when Bill was born.[3] Aged nine, he played competitive cricket for the first time with the Thornbury Presbyterian Church team.[1] He spent three years there, as well as playing for Preston Technical School. When he was twelve, he entered Melbourne's district competition playing for Northcote's fourth team, working his way up to the First XI by the age of sixteen.[4] At the time, he was apprenticed as a plumber and attending Preston Technical College. Lawry was selected for Victoria's Second XI at the age of seventeen.[5] He made a duck against the South Australians and did not see any further action for the Seconds for the rest of the summer of 1954\u201355.[6] The following season, Lawry was recalled to the Seconds and scored 183 against South Australia.[6] Question: Where was William Morris \"Bill\" Lawry born? Answer:",
+    {
+        "id": "english-6586762313915517679-1",
+        "lang": "english",
+        "summary": "Lawry was born in the Melbourne suburb of Thornbury. He was given the names William Morris after the early Prime Minister of Australia, William Morris Hughes. His father Alfred played amateur cricket until the age of 51. Bill never saw his father play, who was aged 47 when Bill was born.[3] Aged nine, he played competitive cricket for the first time with the Thornbury Presbyterian Church team.[1] He spent three years there, as well as playing for Preston Technical School. When he was twelve, he entered Melbourne's district competition playing for Northcote's fourth team, working his way up to the First XI by the age of sixteen.[4] At the time, he was apprenticed as a plumber and attending Preston Technical College. Lawry was selected for Victoria's Second XI at the age of seventeen.[5] He made a duck against the South Australians and did not see any further action for the Seconds for the rest of the summer of 1954\u201355.[6] The following season, Lawry was recalled to the Seconds and scored 183 against South Australia.[6]",
+        "question": "Where was William Morris \"Bill\" Lawry born?",
+        "label": "Thornbury"
+    }
+]

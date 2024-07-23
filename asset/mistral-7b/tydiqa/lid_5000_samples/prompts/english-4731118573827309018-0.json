@@ -1,0 +1,15 @@
+[
+    [
+        3071,
+        [],
+        "from 1977 to 1983"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Professionals is a British crime-action television drama series produced by Avengers Mark1 Productions for London Weekend Television (LWT) that aired on the ITV network from 1977 to 1983. In all, 57 episodes were produced, filmed between 1977 and 1981. It starred Martin Shaw, Lewis Collins and Gordon Jackson as agents of the fictional \"CI5\" (Criminal Intelligence 5, alluding to the real-life MI5). Question: How long did the The Professionals air? Answer:",
+    {
+        "id": "english-4731118573827309018-0",
+        "lang": "english",
+        "summary": "The Professionals is a British crime-action television drama series produced by Avengers Mark1 Productions for London Weekend Television (LWT) that aired on the ITV network from 1977 to 1983. In all, 57 episodes were produced, filmed between 1977 and 1981. It starred Martin Shaw, Lewis Collins and Gordon Jackson as agents of the fictional \"CI5\" (Criminal Intelligence 5, alluding to the real-life MI5).",
+        "question": "How long did the The Professionals air?",
+        "label": "from 1977 to 1983"
+    }
+]

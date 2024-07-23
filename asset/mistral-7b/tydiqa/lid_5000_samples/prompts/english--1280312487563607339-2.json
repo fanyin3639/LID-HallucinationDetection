@@ -1,0 +1,15 @@
+[
+    [
+        159,
+        [],
+        "Ureli Corelli Hill"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The New York Philharmonic was founded in 1842 by the American conductor Ureli Corelli Hill, with the aid of the Irish composer William Vincent Wallace. The orchestra was then called the Philharmonic Society of New York.[9][10] It was the third Philharmonic on American soil since 1799,[11] and had as its intended purpose, \"the advancement of instrumental music.\" The first concert of the Philharmonic Society took place on December 7, 1842 in the Apollo Rooms on lower Broadway before an audience of 600. The concert opened with Beethoven's Symphony No. 5, led by Hill himself. Two other conductors, German-born Henry Christian Timm and French-born Denis Etienne, led parts of the eclectic, three-hour program, which included chamber music and several operatic selections with a leading singer of the day, as was the custom. The musicians operated as a cooperative society, deciding by a majority vote such issues as who would become a member, which music would be performed and who among them would conduct. At the end of the season, the players would divide any proceeds among themselves. Question: Who was the first conductor of the New York Philharmonic? Answer:",
+    {
+        "id": "english--1280312487563607339-2",
+        "lang": "english",
+        "summary": "The New York Philharmonic was founded in 1842 by the American conductor Ureli Corelli Hill, with the aid of the Irish composer William Vincent Wallace. The orchestra was then called the Philharmonic Society of New York.[9][10] It was the third Philharmonic on American soil since 1799,[11] and had as its intended purpose, \"the advancement of instrumental music.\" The first concert of the Philharmonic Society took place on December 7, 1842 in the Apollo Rooms on lower Broadway before an audience of 600. The concert opened with Beethoven's Symphony No. 5, led by Hill himself. Two other conductors, German-born Henry Christian Timm and French-born Denis Etienne, led parts of the eclectic, three-hour program, which included chamber music and several operatic selections with a leading singer of the day, as was the custom. The musicians operated as a cooperative society, deciding by a majority vote such issues as who would become a member, which music would be performed and who among them would conduct. At the end of the season, the players would divide any proceeds among themselves.",
+        "question": "Who was the first conductor of the New York Philharmonic?",
+        "label": "Ureli Corelli Hill"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2582,
+        [],
+        "three"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The country of Belgium is divided into three regions. Two of these regions, the Flemish Region or Flanders, and Walloon Region, or Wallonia, are each subdivided into five provinces. The third region, the Brussels-Capital Region, is not divided into provinces, as it was originally only a small part of a province itself. Question: How many regions are in Belgium? Answer:",
+    {
+        "id": "english--1862498822138655749-0",
+        "lang": "english",
+        "summary": "The country of Belgium is divided into three regions. Two of these regions, the Flemish Region or Flanders, and Walloon Region, or Wallonia, are each subdivided into five provinces. The third region, the Brussels-Capital Region, is not divided into provinces, as it was originally only a small part of a province itself.",
+        "question": "How many regions are in Belgium?",
+        "label": "three"
+    }
+]

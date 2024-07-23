@@ -1,0 +1,14 @@
+[
+    [
+        22,
+        [],
+        "Health bosses on Teesside have urged people not to attend the accident and emergency department unless it is really necessary."
+    ],
+    "Write a short summary for the following passage:\nIt follows an increase in pressure at Middlesbrough's James Cook University Hospital - with up to 350 visitors a day, as opposed to an average of 300.\nSome had only minor complaints such as coughs or colds - one had a paper cut.\nPeople are being asked to look at other options, such as a walk-in centre, or a local pharmacy.\nSummary:\n",
+    {
+        "id": 22,
+        "document": "It follows an increase in pressure at Middlesbrough's James Cook University Hospital - with up to 350 visitors a day, as opposed to an average of 300.\nSome had only minor complaints such as coughs or colds - one had a paper cut.\nPeople are being asked to look at other options, such as a walk-in centre, or a local pharmacy.",
+        "summary": "Health bosses on Teesside have urged people not to attend the accident and emergency department unless it is really necessary.",
+        "label": "Health bosses on Teesside have urged people not to attend the accident and emergency department unless it is really necessary."
+    }
+]

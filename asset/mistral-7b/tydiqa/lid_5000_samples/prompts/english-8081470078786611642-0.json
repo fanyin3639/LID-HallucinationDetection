@@ -1,0 +1,15 @@
+[
+    [
+        2597,
+        [],
+        "Islamabad"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Islamabad officially became the capital of Pakistan on 14 August 1967, exactly 20 years after the country's independence.[1] Previously, Rawalpindi was the capital, designated in 1958.[1] The first capital of Pakistan was the coastal city of Karachi, which was selected by Muhammad Ali Jinnah. [1] Karachi was and still is the largest city and economic capital of Pakistan. It remained the seat of government until 1959, when the military president, Ayub Khan, decided to build a new capital in the north of Pakistan, near the general headquarters of the Pakistani Armed Forces at Rawalpindi.  Question: What is the capital of Pakistan? Answer:",
+    {
+        "id": "english-8081470078786611642-0",
+        "lang": "english",
+        "summary": "Islamabad officially became the capital of Pakistan on 14 August 1967, exactly 20 years after the country's independence.[1] Previously, Rawalpindi was the capital, designated in 1958.[1] The first capital of Pakistan was the coastal city of Karachi, which was selected by Muhammad Ali Jinnah. [1] Karachi was and still is the largest city and economic capital of Pakistan. It remained the seat of government until 1959, when the military president, Ayub Khan, decided to build a new capital in the north of Pakistan, near the general headquarters of the Pakistani Armed Forces at Rawalpindi. ",
+        "question": "What is the capital of Pakistan?",
+        "label": "Islamabad"
+    }
+]

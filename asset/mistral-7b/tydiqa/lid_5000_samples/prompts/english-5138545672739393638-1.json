@@ -1,0 +1,15 @@
+[
+    [
+        1509,
+        [],
+        "$39,815 (as of 2003)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Massachusetts is the third richest state in the United States of America, with a per capita income of $25,952 (2000) and a personal per capita income of $39,815 (as of 2003). Many of the state's wealthiest towns are located in the suburban area around Boston with a high concentration of wealthy cities and towns just to the west of Boston, in the MetroWest area, and along the northern and southern coastal regions that have easy access to the city, in particular the North Shore of Boston which is known as the region's \"Gold Coast\" (see North Shore (Massachusetts)). Many wealthy summer communities are located along the shores of Cape Cod and there are several other wealthy communities located farther west than the Boston Metro area clustered in suburban areas around Worcester and in rural areas in far western parts of the state. All data is from the 2009-2013 American Community Survey 5-Year Estimates.[1][2][3] Question: What is Massachusetts average income? Answer:",
+    {
+        "id": "english-5138545672739393638-1",
+        "lang": "english",
+        "summary": "Massachusetts is the third richest state in the United States of America, with a per capita income of $25,952 (2000) and a personal per capita income of $39,815 (as of 2003). Many of the state's wealthiest towns are located in the suburban area around Boston with a high concentration of wealthy cities and towns just to the west of Boston, in the MetroWest area, and along the northern and southern coastal regions that have easy access to the city, in particular the North Shore of Boston which is known as the region's \"Gold Coast\" (see North Shore (Massachusetts)). Many wealthy summer communities are located along the shores of Cape Cod and there are several other wealthy communities located farther west than the Boston Metro area clustered in suburban areas around Worcester and in rural areas in far western parts of the state. All data is from the 2009-2013 American Community Survey 5-Year Estimates.[1][2][3]",
+        "question": "What is Massachusetts average income?",
+        "label": "$39,815 (as of 2003)"
+    }
+]

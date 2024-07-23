@@ -1,0 +1,15 @@
+[
+    [
+        506,
+        [],
+        "Pope of the Catholic Church from 13 May 1572 to his death in 1585.  He is best known for commissioning and being the namesake for the Gregorian calendar, which remains the internationally accepted civil calendar to this day"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pope Gregory XIII (Latin: Gregorius XIII; 7 January 1502 \u2013 10 April 1585), born Ugo Boncompagni, was Pope of the Catholic Church from 13 May 1572 to his death in 1585.  He is best known for commissioning and being the namesake for the Gregorian calendar, which remains the internationally accepted civil calendar to this day. Question: Who was pope before Gregory XIII? Answer:",
+    {
+        "id": "english-8585869712675753497-0",
+        "lang": "english",
+        "summary": "Pope Gregory XIII (Latin: Gregorius XIII; 7 January 1502 \u2013 10 April 1585), born Ugo Boncompagni, was Pope of the Catholic Church from 13 May 1572 to his death in 1585.  He is best known for commissioning and being the namesake for the Gregorian calendar, which remains the internationally accepted civil calendar to this day.",
+        "question": "Who was pope before Gregory XIII?",
+        "label": "Pope of the Catholic Church from 13 May 1572 to his death in 1585.  He is best known for commissioning and being the namesake for the Gregorian calendar, which remains the internationally accepted civil calendar to this day"
+    }
+]

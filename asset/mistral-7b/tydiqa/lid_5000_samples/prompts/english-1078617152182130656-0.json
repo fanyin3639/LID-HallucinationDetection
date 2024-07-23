@@ -1,0 +1,15 @@
+[
+    [
+        2113,
+        [],
+        "Sunday, May 22, 2011"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 2011 Joplin tornado was a catastrophic EF5-rated multiple-vortex tornado that struck Joplin, Missouri, late in the afternoon of Sunday, May 22, 2011. It was part of a larger late-May tornado outbreak and reached a maximum width of nearly 1 mile (1.6km) during its path through the southern part of the city. This particular tornado was unusual in that it intensified in strength and grew larger in size at a very fast rate. The tornado tracked eastward across the city, and then continued eastward across Interstate 44 into rural portions of Jasper County and Newton County. It was the third tornado to strike Joplin since May 1971. Question: What year did the Joplin tornado happen? Answer:",
+    {
+        "id": "english-1078617152182130656-0",
+        "lang": "english",
+        "summary": "The 2011 Joplin tornado was a catastrophic EF5-rated multiple-vortex tornado that struck Joplin, Missouri, late in the afternoon of Sunday, May 22, 2011. It was part of a larger late-May tornado outbreak and reached a maximum width of nearly 1 mile (1.6km) during its path through the southern part of the city. This particular tornado was unusual in that it intensified in strength and grew larger in size at a very fast rate. The tornado tracked eastward across the city, and then continued eastward across Interstate 44 into rural portions of Jasper County and Newton County. It was the third tornado to strike Joplin since May 1971.",
+        "question": "What year did the Joplin tornado happen?",
+        "label": "Sunday, May 22, 2011"
+    }
+]

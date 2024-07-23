@@ -1,0 +1,15 @@
+[
+    [
+        1838,
+        [],
+        "born 10 March 1977"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Rita Joanne Simons (born 10 March 1977) is an English actress, singer, and model from London, who is known for playing Roxy Mitchell in the BBC soap opera EastEnders from 2007 to 2017, when her character was killed off. For her performance on the show Simons received many accolades, including the 2008 National Television Award for Most Popular Newcomer. Question: When was Rita Simons born? Answer:",
+    {
+        "id": "english-8157733047892622052-0",
+        "lang": "english",
+        "summary": "Rita Joanne Simons (born 10 March 1977) is an English actress, singer, and model from London, who is known for playing Roxy Mitchell in the BBC soap opera EastEnders from 2007 to 2017, when her character was killed off. For her performance on the show Simons received many accolades, including the 2008 National Television Award for Most Popular Newcomer.",
+        "question": "When was Rita Simons born?",
+        "label": "born 10 March 1977"
+    }
+]

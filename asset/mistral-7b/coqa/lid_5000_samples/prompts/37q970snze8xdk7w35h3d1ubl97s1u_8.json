@@ -1,0 +1,19 @@
+[
+    [
+        442,
+        [],
+        "he became the first African-American player chosen to enter the Baseball Hall of Fame"
+    ],
+    "Answer the following questions:\nContext: When Jackie Robinson walked onto Ebbets Field in Brooklyn, New York, on April 15, 1947, he changed baseball forever. As the first African American to play in the Major League in modern times, many believe he changed the country forever. Robinson was born in 1919. He lived in a time when rules controlled what African Americans could do. He was a top athlete, playing football, basketball and baseball. But playing for a major League team was off limits to Robinson because of his race. Branch Rickey, president and manager of the Brooklyn Dodgers, signed (......) Robinson in 1947. He believed that Robinson not only had the skills, but the courage to face the challenge of becoming modern baseball's first black player. It wasn't easy. Robinson sometimes faced boos from fans. But he became a star, anyway. In 1962, he became the first African-American player chosen to enter the Baseball Hall of Fame. In 2005, he was awarded a Congressional Gold Medal, the highest award Congress can give to an American. By breaking baseball's color barrier , Robinson opened the door for many to follow his footsteps, not only in baseball, but in other areas of life as well. After he stopped playing the game, Robinson worked as a manager for a coffee company. He wrote a newspaper column . He also started a bank.\n'Question': What did he do in 1962?\n'Answer: '",
+    {
+        "id": "37q970snze8xdk7w35h3d1ubl97s1u_8",
+        "summary": "When Jackie Robinson walked onto Ebbets Field in Brooklyn, New York, on April 15, 1947, he changed baseball forever. As the first African American to play in the Major League in modern times, many believe he changed the country forever. Robinson was born in 1919. He lived in a time when rules controlled what African Americans could do. He was a top athlete, playing football, basketball and baseball. But playing for a major League team was off limits to Robinson because of his race. Branch Rickey, president and manager of the Brooklyn Dodgers, signed (......) Robinson in 1947. He believed that Robinson not only had the skills, but the courage to face the challenge of becoming modern baseball's first black player. It wasn't easy. Robinson sometimes faced boos from fans. But he became a star, anyway. In 1962, he became the first African-American player chosen to enter the Baseball Hall of Fame. In 2005, he was awarded a Congressional Gold Medal, the highest award Congress can give to an American. By breaking baseball's color barrier , Robinson opened the door for many to follow his footsteps, not only in baseball, but in other areas of life as well. After he stopped playing the game, Robinson worked as a manager for a coffee company. He wrote a newspaper column . He also started a bank.",
+        "question": "What did he do in 1962?",
+        "label": "he became the first African-American player chosen to enter the Baseball Hall of Fame",
+        "additional_answers": [
+            "became the first African-American player chosen to enter the Baseball Hall of Fame",
+            "he became the first African-American player chosen to enter the Baseball Hall of Fame.",
+            "he became the first African-American player chosen to enter the Baseball Hall of Fame"
+        ]
+    }
+]

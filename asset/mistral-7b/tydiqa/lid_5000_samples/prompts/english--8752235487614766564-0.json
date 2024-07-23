@@ -1,0 +1,15 @@
+[
+    [
+        1584,
+        [],
+        "1908"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Alfred Binet (French:[bin\u025b]; July 8, 1857\u2013 October 18, 1911) was a French psychologist who invented the first practical IQ test, the Binet\u2013Simon test.[2] In 1904, the French Ministry of Education asked psychologist Alfred Binet to devise a method that would determine which students did not learn effectively from regular classroom instruction so they could be given remedial work. Along with his collaborator Th\u00e9odore Simon, Binet published revisions of his test in 1908 and 1911, the last of which appeared just before his death. Question: When was the first IQ test introduced? Answer:",
+    {
+        "id": "english--8752235487614766564-0",
+        "lang": "english",
+        "summary": "Alfred Binet (French:[bin\u025b]; July 8, 1857\u2013 October 18, 1911) was a French psychologist who invented the first practical IQ test, the Binet\u2013Simon test.[2] In 1904, the French Ministry of Education asked psychologist Alfred Binet to devise a method that would determine which students did not learn effectively from regular classroom instruction so they could be given remedial work. Along with his collaborator Th\u00e9odore Simon, Binet published revisions of his test in 1908 and 1911, the last of which appeared just before his death.",
+        "question": "When was the first IQ test introduced?",
+        "label": "1908"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2766,
+        [],
+        "eight seasons"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Cosby Show is an American television sitcom co-created and starring Bill Cosby, which aired for eight seasons on NBC from September 20, 1984, until April 30, 1992. The show focuses on the Huxtable family, an upper middle-class African-American family living in Brooklyn, New York. Question: How long did The Cosby Show air? Answer:",
+    {
+        "id": "english--1824512166012521969-0",
+        "lang": "english",
+        "summary": "The Cosby Show is an American television sitcom co-created and starring Bill Cosby, which aired for eight seasons on NBC from September 20, 1984, until April 30, 1992. The show focuses on the Huxtable family, an upper middle-class African-American family living in Brooklyn, New York.",
+        "question": "How long did The Cosby Show air?",
+        "label": "eight seasons"
+    }
+]

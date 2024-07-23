@@ -1,0 +1,15 @@
+[
+    [
+        3030,
+        [],
+        "25 June 1903"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Eric Arthur Blair (25 June 1903 \u2013 21 January 1950),[1] better known by his pen name George Orwell, was an English novelist, essayist, journalist and critic, whose work is marked by lucid prose, awareness of social injustice, opposition to totalitarianism, and outspoken support of democratic socialism.[2][3] Question: When was George Orwell born? Answer:",
+    {
+        "id": "english--7803109354313156445-0",
+        "lang": "english",
+        "summary": "Eric Arthur Blair (25 June 1903 \u2013 21 January 1950),[1] better known by his pen name George Orwell, was an English novelist, essayist, journalist and critic, whose work is marked by lucid prose, awareness of social injustice, opposition to totalitarianism, and outspoken support of democratic socialism.[2][3]",
+        "question": "When was George Orwell born?",
+        "label": "25 June 1903"
+    }
+]

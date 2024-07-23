@@ -1,0 +1,15 @@
+[
+    [
+        1302,
+        [],
+        "9th and 10th centuries"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Gregorian chant is the central tradition of Western plainchant, a form of monophonic, unaccompanied sacred song of the Roman Catholic Church. Gregorian chant developed mainly in western and central Europe during the 9th and 10th centuries, with later additions and redactions. Although popular legend credits Pope Gregory I with inventing Gregorian chant, scholars believe that it arose from a later Carolingian synthesis of Roman chant and Gallican chant. Question: When did Gregorian chant first develop? Answer:",
+    {
+        "id": "english--6672780029333089075-0",
+        "lang": "english",
+        "summary": "Gregorian chant is the central tradition of Western plainchant, a form of monophonic, unaccompanied sacred song of the Roman Catholic Church. Gregorian chant developed mainly in western and central Europe during the 9th and 10th centuries, with later additions and redactions. Although popular legend credits Pope Gregory I with inventing Gregorian chant, scholars believe that it arose from a later Carolingian synthesis of Roman chant and Gallican chant.",
+        "question": "When did Gregorian chant first develop?",
+        "label": "9th and 10th centuries"
+    }
+]

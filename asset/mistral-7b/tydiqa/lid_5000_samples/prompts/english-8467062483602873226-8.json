@@ -1,0 +1,15 @@
+[
+    [
+        2636,
+        [],
+        "December 21, 2012"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Under the deal, Disney acquired ownership of Star Wars, Indiana Jones, and Lucasfilm's operating businesses in live-action film production, consumer products, video games, animation, visual effects, and audio post-production.[21] Disney also acquired Lucasfilm's portfolio of entertainment technologies. The intent was for Lucasfilm employees to remain in their current locations.[22] Star Wars merchandising would begin under Disney in the fiscal year 2014.[23] Starting with Star Wars Rebels, certain products will be co-branded with the Disney name,[24][25] akin to what Disney has done with Pixar.[26] On December 4, 2012, the Disney-Lucasfilm merger was approved by the Federal Trade Commission, allowing the acquisition to be finalized without dealing with antitrust problems.[27] On December 18, 2012, Lucasfilm Ltd. converted from a corporation to a limited liability company, changing its name to Lucasfilm Ltd. LLC in the process,[28]. On December 21, 2012, Disney completed the acquisition and Lucasfilm became a wholly owned subsidiary of Disney.[6] Question: When did Disney buy Star Wars? Answer:",
+    {
+        "id": "english-8467062483602873226-8",
+        "lang": "english",
+        "summary": "Under the deal, Disney acquired ownership of Star Wars, Indiana Jones, and Lucasfilm's operating businesses in live-action film production, consumer products, video games, animation, visual effects, and audio post-production.[21] Disney also acquired Lucasfilm's portfolio of entertainment technologies. The intent was for Lucasfilm employees to remain in their current locations.[22] Star Wars merchandising would begin under Disney in the fiscal year 2014.[23] Starting with Star Wars Rebels, certain products will be co-branded with the Disney name,[24][25] akin to what Disney has done with Pixar.[26] On December 4, 2012, the Disney-Lucasfilm merger was approved by the Federal Trade Commission, allowing the acquisition to be finalized without dealing with antitrust problems.[27] On December 18, 2012, Lucasfilm Ltd. converted from a corporation to a limited liability company, changing its name to Lucasfilm Ltd. LLC in the process,[28]. On December 21, 2012, Disney completed the acquisition and Lucasfilm became a wholly owned subsidiary of Disney.[6]",
+        "question": "When did Disney buy Star Wars?",
+        "label": "December 21, 2012"
+    }
+]

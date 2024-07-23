@@ -1,0 +1,15 @@
+[
+    [
+        352,
+        [],
+        "1887"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: French\u2013Vietnamese relations started as early as the 17th century with the mission of the Jesuit father Alexandre de Rhodes. Various traders would visit Vietnam during the 18th century, until the major involvement of French forces under Pigneau de B\u00e9haine from 1787 to 1789 helped establish the Nguy\u1ec5n Dynasty. France was heavily involved in Vietnam in the 19th century under the pretext of protecting the work of Catholic missionaries in the country. France progressively carved for itself a huge colony, which would form French Indochina in 1887. France continued to rule Vietnam as a colony until France's defeat in the First Indochina War and the proclamation of Vietnam's independence in 1954. Question: What year was Vietnam colonized by the French? Answer:",
+    {
+        "id": "english--3229330993031338984-0",
+        "lang": "english",
+        "summary": "French\u2013Vietnamese relations started as early as the 17th century with the mission of the Jesuit father Alexandre de Rhodes. Various traders would visit Vietnam during the 18th century, until the major involvement of French forces under Pigneau de B\u00e9haine from 1787 to 1789 helped establish the Nguy\u1ec5n Dynasty. France was heavily involved in Vietnam in the 19th century under the pretext of protecting the work of Catholic missionaries in the country. France progressively carved for itself a huge colony, which would form French Indochina in 1887. France continued to rule Vietnam as a colony until France's defeat in the First Indochina War and the proclamation of Vietnam's independence in 1954.",
+        "question": "What year was Vietnam colonized by the French?",
+        "label": "1887"
+    }
+]

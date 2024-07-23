@@ -1,0 +1,15 @@
+[
+    [
+        1176,
+        [],
+        "nine months old"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1987, at the age of six months, the twins were cast in the role of Michelle Tanner on the ABC sitcom Full House. They began filming at nine months old. In order to comply with child labor laws that set strict limits on how long a child actor may work, the sisters took turns playing the role. The Olsens continued to portray Michelle throughout the show's run, which concluded in 1995. Question: How young were the Olsen twins when first starting Full House? Answer:",
+    {
+        "id": "english--6776171858566659807-2",
+        "lang": "english",
+        "summary": "In 1987, at the age of six months, the twins were cast in the role of Michelle Tanner on the ABC sitcom Full House. They began filming at nine months old. In order to comply with child labor laws that set strict limits on how long a child actor may work, the sisters took turns playing the role. The Olsens continued to portray Michelle throughout the show's run, which concluded in 1995.",
+        "question": "How young were the Olsen twins when first starting Full House?",
+        "label": "nine months old"
+    }
+]

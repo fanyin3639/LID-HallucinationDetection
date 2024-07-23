@@ -1,0 +1,14 @@
+[
+    [
+        1150,
+        [],
+        "Severe gales have been forecast for large parts of Scotland on Friday."
+    ],
+    "Write a short summary for the following passage:\nThe Met Office has issued a yellow \"be aware\" warning for the south and central Scotland, Western Isles, Northern Isles and the Highlands .\nIt said south westerly winds with gusts of around 75mph were expected near exposed coasts and over hills.\nLewis-based meteorologist Dr Eddy Graham said the potential storm was of an intensity that used to be rare but has been occurring more frequently.\nThe yellow warning covers from midday to 23:45 on Friday.\nIn the warning, the Met Office said: \"Please be aware of difficult driving conditions with the risk of travel disruption on roads and to ferries.\n\"Winds may be strong enough to bring down branches or even uproot some trees due to saturated ground.\n\"A period of heavy rain will also affect much of Scotland, especially western areas.\"\nDr Graham, who lectures at Lews Castle College UHI in Stornoway, said: \"It looks like a very deep storm.\n\"Storms of this intensity used to be rare, but they seem to be occurring with much higher frequency over recent winters.\"\nHe added: \"But it currently looks like its centre, and therefore region of most violent winds, will pass well to the north of Scotland, in direction of the Faroes and Iceland.\"\nSummary:\n",
+    {
+        "id": 1150,
+        "document": "The Met Office has issued a yellow \"be aware\" warning for the south and central Scotland, Western Isles, Northern Isles and the Highlands .\nIt said south westerly winds with gusts of around 75mph were expected near exposed coasts and over hills.\nLewis-based meteorologist Dr Eddy Graham said the potential storm was of an intensity that used to be rare but has been occurring more frequently.\nThe yellow warning covers from midday to 23:45 on Friday.\nIn the warning, the Met Office said: \"Please be aware of difficult driving conditions with the risk of travel disruption on roads and to ferries.\n\"Winds may be strong enough to bring down branches or even uproot some trees due to saturated ground.\n\"A period of heavy rain will also affect much of Scotland, especially western areas.\"\nDr Graham, who lectures at Lews Castle College UHI in Stornoway, said: \"It looks like a very deep storm.\n\"Storms of this intensity used to be rare, but they seem to be occurring with much higher frequency over recent winters.\"\nHe added: \"But it currently looks like its centre, and therefore region of most violent winds, will pass well to the north of Scotland, in direction of the Faroes and Iceland.\"",
+        "summary": "Severe gales have been forecast for large parts of Scotland on Friday.",
+        "label": "Severe gales have been forecast for large parts of Scotland on Friday."
+    }
+]

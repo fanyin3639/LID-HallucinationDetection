@@ -1,0 +1,14 @@
+[
+    [
+        1722,
+        [],
+        "The Greek parliament has approved a series of unpopular tax rises aimed at boosting revenue in line with Athens' commitments to international creditors."
+    ],
+    "Write a short summary for the following passage:\nThe measures, approved overnight, introduce a new top tax rate of 42% for Greeks earning more than 42,000 euros (\u00c2\u00a334,700; $56,000) a year.\nCorporate rates also go up and the tax base now includes low-earning farmers.\nGreece has been kept solvent by huge rescue loans from its EU partners and the IMF since May 2010.\nThe Conservative-led government insists the new measures, designed to raise up to 2.3bn euros this year, are fair.\n\"We are not in favour of taxes,\" Deputy Finance Minister Giorgos Mavraganis said. \"But in the current situation we must lead the country out of its impasse.\"\nThe changes are part of an overall package approved in November to allow Greece to qualify for further bailout funds.\nBut the opposition say the tax rises will increase hardship for ordinary Greeks. The main opposition Radical Left Coalition says austerity has \"demolished the country's middle classes\".\nDeep spending cuts and job losses have triggered street unrest across Greece in recent years.\nSummary:\n",
+    {
+        "id": 1722,
+        "document": "The measures, approved overnight, introduce a new top tax rate of 42% for Greeks earning more than 42,000 euros (\u00c2\u00a334,700; $56,000) a year.\nCorporate rates also go up and the tax base now includes low-earning farmers.\nGreece has been kept solvent by huge rescue loans from its EU partners and the IMF since May 2010.\nThe Conservative-led government insists the new measures, designed to raise up to 2.3bn euros this year, are fair.\n\"We are not in favour of taxes,\" Deputy Finance Minister Giorgos Mavraganis said. \"But in the current situation we must lead the country out of its impasse.\"\nThe changes are part of an overall package approved in November to allow Greece to qualify for further bailout funds.\nBut the opposition say the tax rises will increase hardship for ordinary Greeks. The main opposition Radical Left Coalition says austerity has \"demolished the country's middle classes\".\nDeep spending cuts and job losses have triggered street unrest across Greece in recent years.",
+        "summary": "The Greek parliament has approved a series of unpopular tax rises aimed at boosting revenue in line with Athens' commitments to international creditors.",
+        "label": "The Greek parliament has approved a series of unpopular tax rises aimed at boosting revenue in line with Athens' commitments to international creditors."
+    }
+]

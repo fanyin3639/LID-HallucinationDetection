@@ -1,0 +1,15 @@
+[
+    [
+        1732,
+        [],
+        "the euro"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The term originates from the value of a pound weight (Latin: libra) of high purity silver and as such is a direct cognate of the British pound sterling; in some countries, such as Cyprus and Malta, the words lira and pound were used as equivalents, before the euro was adopted in 2008 in the two countries. \"L\", sometimes in a double-crossed script form (\"\u20a4\"), was the symbol most often used. Until the Second World War, it was subdivided into 100 centesimi (singular: centesimo), which translates to \"hundredths\" or \"cents\". Question: What is the currency of Italy? Answer:",
+    {
+        "id": "english--4532933216167826934-1",
+        "lang": "english",
+        "summary": "The term originates from the value of a pound weight (Latin: libra) of high purity silver and as such is a direct cognate of the British pound sterling; in some countries, such as Cyprus and Malta, the words lira and pound were used as equivalents, before the euro was adopted in 2008 in the two countries. \"L\", sometimes in a double-crossed script form (\"\u20a4\"), was the symbol most often used. Until the Second World War, it was subdivided into 100 centesimi (singular: centesimo), which translates to \"hundredths\" or \"cents\".",
+        "question": "What is the currency of Italy?",
+        "label": "the euro"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2983,
+        [],
+        "illness"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Meanwhile, with Nanzhao repeatedly attacking Jiannan Circuit (\u528d\u5357, headquartered in modern Chengdu, Sichuan), Li Linfu tried to defuse Yang's threat to him by requesting that Yang, who was also military governor of Jiannan, be sent to Jiannan to defend against Nanzhao attacks.  Despite Yang's repeated pleas, Emperor Xuanzong sent him on his way, but promised to recall him soon to be chancellor.  Meanwhile, Li Linfu was seriously ill by this point, and when a sorcerer indicated that if the emperor looked at him, he would be cured, Emperor Xuanzong considered visiting him.  Ultimately, though, at the opposition of the imperial attendants, Emperor Xuanzong did not do so, but had Li Linfu brought out to the courtyard of his mansion and then ascended a tower to look toward Li Linfu.  This had no beneficial effect on Li Linfu's illness, however.  Meanwhile, once Yang reached Jiannan, Emperor Xuanzong recalled him.  When Yang, after arriving back in the capital, went to visit Li Linfu, Li Linfu tried to ingratiate him and entrust his family to Yang.  Li Linfu died around the new year 753. Question: How did Li Linfu die? Answer:",
+    {
+        "id": "english-53525608550925058-28",
+        "lang": "english",
+        "summary": "Meanwhile, with Nanzhao repeatedly attacking Jiannan Circuit (\u528d\u5357, headquartered in modern Chengdu, Sichuan), Li Linfu tried to defuse Yang's threat to him by requesting that Yang, who was also military governor of Jiannan, be sent to Jiannan to defend against Nanzhao attacks.  Despite Yang's repeated pleas, Emperor Xuanzong sent him on his way, but promised to recall him soon to be chancellor.  Meanwhile, Li Linfu was seriously ill by this point, and when a sorcerer indicated that if the emperor looked at him, he would be cured, Emperor Xuanzong considered visiting him.  Ultimately, though, at the opposition of the imperial attendants, Emperor Xuanzong did not do so, but had Li Linfu brought out to the courtyard of his mansion and then ascended a tower to look toward Li Linfu.  This had no beneficial effect on Li Linfu's illness, however.  Meanwhile, once Yang reached Jiannan, Emperor Xuanzong recalled him.  When Yang, after arriving back in the capital, went to visit Li Linfu, Li Linfu tried to ingratiate him and entrust his family to Yang.  Li Linfu died around the new year 753.",
+        "question": "How did Li Linfu die?",
+        "label": "illness"
+    }
+]

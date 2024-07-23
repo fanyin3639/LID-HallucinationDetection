@@ -1,0 +1,15 @@
+[
+    [
+        18,
+        [],
+        "Bill the Goat"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Bill the Goat is the mascot of the United States Naval Academy.  The mascot is a live goat and is also represented by a costumed midshipman. There is also a bronze statue of the goat in the north end zone of Navy\u2013Marine Corps Memorial Stadium.[1]  This statue also plays a role in \"Army Week\" traditions. Question: What is the Navy's military mascot? Answer:",
+    {
+        "id": "english--8219387603538564234-0",
+        "lang": "english",
+        "summary": "Bill the Goat is the mascot of the United States Naval Academy.  The mascot is a live goat and is also represented by a costumed midshipman. There is also a bronze statue of the goat in the north end zone of Navy\u2013Marine Corps Memorial Stadium.[1]  This statue also plays a role in \"Army Week\" traditions.",
+        "question": "What is the Navy's military mascot?",
+        "label": "Bill the Goat"
+    }
+]

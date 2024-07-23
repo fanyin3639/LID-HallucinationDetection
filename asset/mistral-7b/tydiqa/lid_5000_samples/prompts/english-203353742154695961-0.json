@@ -1,0 +1,15 @@
+[
+    [
+        2093,
+        [],
+        "12 June 1960"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Michael Christopher Woodford, MBE (born (1960-06-12)12 June 1960) is a British businessman who was formerly president and COO (April 2011) and CEO (October 2011) of Olympus Corporation, a Japan-based manufacturer of optics and reprography products.[1] Question: When was Michael Woodford born? Answer:",
+    {
+        "id": "english-203353742154695961-0",
+        "lang": "english",
+        "summary": "Michael Christopher Woodford, MBE (born (1960-06-12)12 June 1960) is a British businessman who was formerly president and COO (April 2011) and CEO (October 2011) of Olympus Corporation, a Japan-based manufacturer of optics and reprography products.[1]",
+        "question": "When was Michael Woodford born?",
+        "label": "12 June 1960"
+    }
+]

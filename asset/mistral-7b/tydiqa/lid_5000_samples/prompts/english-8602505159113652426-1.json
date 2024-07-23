@@ -1,0 +1,15 @@
+[
+    [
+        1847,
+        [],
+        "Nuxhall"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In addition to his 40 years of broadcasting Reds games, Nuxhall is most remembered for having been the youngest player ever to appear in a major league game, pitching \u200b2\u20443 of an inning for the Reds on June 10, 1944 at the age of 15years, 316days. Called upon for that one game due to player shortages during World War II, Nuxhall eventually found his way back to the Reds in 1952, and the National League All-Star team in 1955 and 1956.  Long known as \"The Ol' Left-hander\", he compiled a career earned run average of 3.90 and a record of 135\u2013117 during his 16-season career, with all but five of his victories being earned with the Reds. Nuxhall died in 2007 after a long battle with cancer. Question: Who is the youngest player in MLB? Answer:",
+    {
+        "id": "english-8602505159113652426-1",
+        "lang": "english",
+        "summary": "In addition to his 40 years of broadcasting Reds games, Nuxhall is most remembered for having been the youngest player ever to appear in a major league game, pitching \u200b2\u20443 of an inning for the Reds on June 10, 1944 at the age of 15years, 316days. Called upon for that one game due to player shortages during World War II, Nuxhall eventually found his way back to the Reds in 1952, and the National League All-Star team in 1955 and 1956.  Long known as \"The Ol' Left-hander\", he compiled a career earned run average of 3.90 and a record of 135\u2013117 during his 16-season career, with all but five of his victories being earned with the Reds. Nuxhall died in 2007 after a long battle with cancer.",
+        "question": "Who is the youngest player in MLB?",
+        "label": "Nuxhall"
+    }
+]

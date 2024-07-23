@@ -1,0 +1,14 @@
+[
+    [
+        664,
+        [],
+        "A bridge severely damaged by flooding has reopened to pedestrians, more than a year after it was closed."
+    ],
+    "Write a short summary for the following passage:\nElland Bridge, in West Yorkshire, had to be rebuilt at a cost of \u00a35m after it partially collapsed during the 2015 Boxing Day floods.\nIt was reopened to walkers and cyclists on Tuesday. Vehicles are expected to have access later this month.\nA temporary footbridge across the Calder and Hebble Navigation was installed while the work was completed.\nJoanne Wood, who runs a nursery in Elland, was among the first people to cross the restored bridge.\n\"It's a fantastic day. We've been waiting for this for just over a year now,\" she said.\n\"This is a bridge that is used by so many people and we you do not realise how much you use it until it's not there.\"\nSummary:\n",
+    {
+        "id": 664,
+        "document": "Elland Bridge, in West Yorkshire, had to be rebuilt at a cost of \u00a35m after it partially collapsed during the 2015 Boxing Day floods.\nIt was reopened to walkers and cyclists on Tuesday. Vehicles are expected to have access later this month.\nA temporary footbridge across the Calder and Hebble Navigation was installed while the work was completed.\nJoanne Wood, who runs a nursery in Elland, was among the first people to cross the restored bridge.\n\"It's a fantastic day. We've been waiting for this for just over a year now,\" she said.\n\"This is a bridge that is used by so many people and we you do not realise how much you use it until it's not there.\"",
+        "summary": "A bridge severely damaged by flooding has reopened to pedestrians, more than a year after it was closed.",
+        "label": "A bridge severely damaged by flooding has reopened to pedestrians, more than a year after it was closed."
+    }
+]

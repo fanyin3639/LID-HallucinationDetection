@@ -1,0 +1,15 @@
+[
+    [
+        3052,
+        [],
+        "14 June 1775"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The United States Army (USA) is the land warfare service branch of the United States Armed Forces. It is one of the seven uniformed services of the United States, and is designated as the Army of the United States in the United States Constitution, Article 2, Section 2, Clause 1] and United States Code, Title 10, Subtitle B, Chapter 301, Section 3001].[9] As the oldest and most senior branch of the U.S. military in order of precedence,[10] the modern U.S. Army has its roots in the Continental Army, which was formed (14 June 1775) to fight the American Revolutionary War (1775\u20131783)\u2014before the United States of America was established as a country.[11] After the Revolutionary War, the Congress of the Confederation created the United States Army on 3 June 1784 to replace the disbanded Continental Army.[12][13] The United States Army considers itself descended from the Continental Army, and dates its institutional inception from the origin of that armed force in 1775.[11] Question: When was the United States Army established? Answer:",
+    {
+        "id": "english--4220443368858126859-0",
+        "lang": "english",
+        "summary": "The United States Army (USA) is the land warfare service branch of the United States Armed Forces. It is one of the seven uniformed services of the United States, and is designated as the Army of the United States in the United States Constitution, Article 2, Section 2, Clause 1] and United States Code, Title 10, Subtitle B, Chapter 301, Section 3001].[9] As the oldest and most senior branch of the U.S. military in order of precedence,[10] the modern U.S. Army has its roots in the Continental Army, which was formed (14 June 1775) to fight the American Revolutionary War (1775\u20131783)\u2014before the United States of America was established as a country.[11] After the Revolutionary War, the Congress of the Confederation created the United States Army on 3 June 1784 to replace the disbanded Continental Army.[12][13] The United States Army considers itself descended from the Continental Army, and dates its institutional inception from the origin of that armed force in 1775.[11]",
+        "question": "When was the United States Army established?",
+        "label": "14 June 1775"
+    }
+]

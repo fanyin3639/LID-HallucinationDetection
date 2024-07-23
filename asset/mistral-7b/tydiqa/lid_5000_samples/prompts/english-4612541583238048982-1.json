@@ -1,0 +1,15 @@
+[
+    [
+        1427,
+        [],
+        "Pacific Northwest"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Totem poles serve as important illustrations of family lineage and the cultural heritage of the Native peoples in the islands and coastal areas of North America's Pacific Northwest, especially British Columbia, Canada, and coastal areas of Washington and southeastern Alaska in the United States. Families of traditional carvers come from the Haida, Tlingit, Tsimshian, Kwakwaka\u2019wakw (Kwakiutl), Nuxalk (Bella Coola), and Nuu-chah-nulth (Nootka), among others.[3][4] The poles are typically carved from the highly rot-resistant trunks of Thuja plicata trees (popularly known as giant cedar or western red cedar), which eventually decay in the moist, rainy climate of the coastal Pacific Northwest. Because of the region's climate and the nature of the materials used to make the poles, few examples carved before 1900 remain. Noteworthy examples, some dating as far back as 1880, include those at the Royal British Columbia Museum in Victoria and the Museum of Anthropology at UBC in Vancouver. Question: Where are totems from in the United States? Answer:",
+    {
+        "id": "english-4612541583238048982-1",
+        "lang": "english",
+        "summary": "Totem poles serve as important illustrations of family lineage and the cultural heritage of the Native peoples in the islands and coastal areas of North America's Pacific Northwest, especially British Columbia, Canada, and coastal areas of Washington and southeastern Alaska in the United States. Families of traditional carvers come from the Haida, Tlingit, Tsimshian, Kwakwaka\u2019wakw (Kwakiutl), Nuxalk (Bella Coola), and Nuu-chah-nulth (Nootka), among others.[3][4] The poles are typically carved from the highly rot-resistant trunks of Thuja plicata trees (popularly known as giant cedar or western red cedar), which eventually decay in the moist, rainy climate of the coastal Pacific Northwest. Because of the region's climate and the nature of the materials used to make the poles, few examples carved before 1900 remain. Noteworthy examples, some dating as far back as 1880, include those at the Royal British Columbia Museum in Victoria and the Museum of Anthropology at UBC in Vancouver.",
+        "question": "Where are totems from in the United States?",
+        "label": "Pacific Northwest"
+    }
+]

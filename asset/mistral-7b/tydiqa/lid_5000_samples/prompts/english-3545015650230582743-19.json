@@ -1,0 +1,15 @@
+[
+    [
+        1908,
+        [],
+        "April 6, 1909"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage:  On April 6, 1909, Robert Peary claimed to be the first person in recorded history to reach the North Pole[10] (although whether he actually reached the Pole is disputed).[1][16] He traveled with the aid of dogsleds and three separate support crews who turned back at successive intervals before reaching the Pole. Many modern explorers, including Olympic skiers using modern equipment, contend that Peary could not have reached the pole on foot in the time he claimed. Question: When was the first arctic expedition? Answer:",
+    {
+        "id": "english-3545015650230582743-19",
+        "lang": "english",
+        "summary": " On April 6, 1909, Robert Peary claimed to be the first person in recorded history to reach the North Pole[10] (although whether he actually reached the Pole is disputed).[1][16] He traveled with the aid of dogsleds and three separate support crews who turned back at successive intervals before reaching the Pole. Many modern explorers, including Olympic skiers using modern equipment, contend that Peary could not have reached the pole on foot in the time he claimed.",
+        "question": "When was the first arctic expedition?",
+        "label": "April 6, 1909"
+    }
+]

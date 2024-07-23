@@ -1,0 +1,15 @@
+[
+    [
+        2320,
+        [],
+        "Mawsynram"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cherrapunji has often been credited as being the wettest place on Earth, but for now nearby Mawsynram currently holds that distinction. Cherrapunji still holds the all-time record for the most rainfall in a calendar month and in a year, however: it received 9,300 millimetres (370in; 30.5ft) in July 1861 and 26,461 millimetres (1,041.8in; 86.814ft) between 1 August 1860 and 31 July 1861.[1] Question: What place has the most rainfall? Answer:",
+    {
+        "id": "english-7515008454000009718-1",
+        "lang": "english",
+        "summary": "Cherrapunji has often been credited as being the wettest place on Earth, but for now nearby Mawsynram currently holds that distinction. Cherrapunji still holds the all-time record for the most rainfall in a calendar month and in a year, however: it received 9,300 millimetres (370in; 30.5ft) in July 1861 and 26,461 millimetres (1,041.8in; 86.814ft) between 1 August 1860 and 31 July 1861.[1]",
+        "question": "What place has the most rainfall?",
+        "label": "Mawsynram"
+    }
+]

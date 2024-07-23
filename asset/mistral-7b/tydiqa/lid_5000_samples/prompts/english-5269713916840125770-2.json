@@ -1,0 +1,15 @@
+[
+    [
+        1753,
+        [],
+        "1912"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: From 1874-1876, the station was named \"Garden City\" in order to mislead travelers into thinking that the station served Alexander Turney Stewart's Garden City, which was already served by  Garden City station along the Central Railroad of Long Island in 1872.[2]The court moved away in 1877 and the station fell by the wayside,[3] although some trains continued to stop there as late as June 1897.[4] Though re-established as a station in 1911, the station house itself was not built until 1912. It was rebuilt in 1958 with a smaller structure and an narrow 11'6\" bridge under the tracks for Nassau Boulevard. Question: When was the Merillon Avenue station built in Garden City? Answer:",
+    {
+        "id": "english-5269713916840125770-2",
+        "lang": "english",
+        "summary": "From 1874-1876, the station was named \"Garden City\" in order to mislead travelers into thinking that the station served Alexander Turney Stewart's Garden City, which was already served by  Garden City station along the Central Railroad of Long Island in 1872.[2]The court moved away in 1877 and the station fell by the wayside,[3] although some trains continued to stop there as late as June 1897.[4] Though re-established as a station in 1911, the station house itself was not built until 1912. It was rebuilt in 1958 with a smaller structure and an narrow 11'6\" bridge under the tracks for Nassau Boulevard.",
+        "question": "When was the Merillon Avenue station built in Garden City?",
+        "label": "1912"
+    }
+]

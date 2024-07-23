@@ -1,0 +1,15 @@
+[
+    [
+        1422,
+        [],
+        "Taylor Swift's Reputation"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Taylor Swift's Reputation was the best selling album of 2017. Singer Ed Sheeran's \u00f7 is the second best-selling album with 451,000 album-equivalent units, of which 322,000 were pure album sales.[3] Rapper Kendrick Lamar's fourth studio album, Damn, went on to become the third best-seller with 603,000 album-equivalent units in its first week of release (353,000 in pure album sales).[4][5] In the meantime, another Canadian artist Drake's \"playlist\", More Life, which broke many streaming records, sustained 505,000 album-equivalent units, of which 226,000 were pure sales.[6][7] As of September 2017, the album has moved over 1,864,000 album-equivalent units in the United States, of which 352,000 were pure sales.[8] Question: What was the best selling album of 2017? Answer:",
+    {
+        "id": "english--1675951561332181753-1",
+        "lang": "english",
+        "summary": "Taylor Swift's Reputation was the best selling album of 2017. Singer Ed Sheeran's \u00f7 is the second best-selling album with 451,000 album-equivalent units, of which 322,000 were pure album sales.[3] Rapper Kendrick Lamar's fourth studio album, Damn, went on to become the third best-seller with 603,000 album-equivalent units in its first week of release (353,000 in pure album sales).[4][5] In the meantime, another Canadian artist Drake's \"playlist\", More Life, which broke many streaming records, sustained 505,000 album-equivalent units, of which 226,000 were pure sales.[6][7] As of September 2017, the album has moved over 1,864,000 album-equivalent units in the United States, of which 352,000 were pure sales.[8]",
+        "question": "What was the best selling album of 2017?",
+        "label": "Taylor Swift's Reputation"
+    }
+]

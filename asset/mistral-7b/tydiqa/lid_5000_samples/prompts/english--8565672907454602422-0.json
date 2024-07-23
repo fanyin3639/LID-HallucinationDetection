@@ -1,0 +1,15 @@
+[
+    [
+        2948,
+        [],
+        "September 30, 1957"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Francine Joy Drescher (born September 30, 1957) is an American actress, comedian, writer and activist. She is best known for her role as Fran Fine in the hit TV series The Nanny (1993\u201399), and for her nasal voice and thick New York accent. Question: When was Fran Drescher born? Answer:",
+    {
+        "id": "english--8565672907454602422-0",
+        "lang": "english",
+        "summary": "Francine Joy Drescher (born September 30, 1957) is an American actress, comedian, writer and activist. She is best known for her role as Fran Fine in the hit TV series The Nanny (1993\u201399), and for her nasal voice and thick New York accent.",
+        "question": "When was Fran Drescher born?",
+        "label": "September 30, 1957"
+    }
+]

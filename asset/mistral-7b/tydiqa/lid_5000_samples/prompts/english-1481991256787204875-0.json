@@ -1,0 +1,15 @@
+[
+    [
+        1321,
+        [],
+        "14"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Neptune has 14 known moons, which are named for minor water deities in Greek mythology.[note 1] By far the largest of them is Triton, discovered by William Lassell on October 10, 1846, 17 days after the discovery of Neptune itself; over a century passed before the discovery of the second natural satellite, Nereid. Neptune's outermost moon Neso, which has an orbital period of about 26 Julian years, orbits further from its planet than any other moon in the Solar System.[1] Question: How many moons does Neptune have? Answer:",
+    {
+        "id": "english-1481991256787204875-0",
+        "lang": "english",
+        "summary": "Neptune has 14 known moons, which are named for minor water deities in Greek mythology.[note 1] By far the largest of them is Triton, discovered by William Lassell on October 10, 1846, 17 days after the discovery of Neptune itself; over a century passed before the discovery of the second natural satellite, Nereid. Neptune's outermost moon Neso, which has an orbital period of about 26 Julian years, orbits further from its planet than any other moon in the Solar System.[1]",
+        "question": "How many moons does Neptune have?",
+        "label": "14"
+    }
+]

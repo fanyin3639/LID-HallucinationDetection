@@ -1,0 +1,19 @@
+[
+    [
+        577,
+        [],
+        "injured in a traing crash"
+    ],
+    "Answer the following questions:\nContext: (CNN)Formula One star Fernando Alonso returned to work at McLaren on Wednesday following his freak accident in winter testing. \n\nThe Spanish double world champion was ruled out of the opening race in Australia by doctors treating him for the effects of a high speed crash. \n\nAlonso has been training hard for his planned comeback at the Malaysian Grand Prix in nine days' time and used the McLaren simulator to hone his mental preparations. \n\nThe CNN-sponsored team announced the news on Twitter, showing McLaren sporting director Eric Boullier and Alonso at the team's headquarters in Woking, England. \n\nAlonso was concussed and airlifted to hospital after losing control of his McLaren at the penultimate winter test at Barcelona's Circuit de Catalunya on February 22. \n\nThe 33-year-old watched the Melbourne race from his home in Dubai after doctors indicated returning to racing three weeks after a high impact was too risky. \n\nMcLaren had explained that Alonso's \"accident was caused by the unpredictably gusty winds at that part of the circuit at that time.\" \n\nAfter getting back to race preparation in the simulator, McLaren tweeted that it had been a good day for Alonso, \"focusing on operational work and practicing qualifying and race procedures.\" \n\nThe media enjoyed a guessing game in Australia about just how Alonso might have reacted to events in Melbourne, where Lewis Hamilton and his mighty Mercedes dominated while Alonso's McLaren teammate Jenson Button finished in last place. \n\nDane Kevin Magnussen, who was deputizing for the recuperating Spaniard, was unable to start the race because of engine problems on his way to the starting grid. \n'Question': Why?\n'Answer: '",
+    {
+        "id": "3ydtzai2wxgebz5ld4llfye56nm141_1",
+        "summary": "(CNN)Formula One star Fernando Alonso returned to work at McLaren on Wednesday following his freak accident in winter testing. \n\nThe Spanish double world champion was ruled out of the opening race in Australia by doctors treating him for the effects of a high speed crash. \n\nAlonso has been training hard for his planned comeback at the Malaysian Grand Prix in nine days' time and used the McLaren simulator to hone his mental preparations. \n\nThe CNN-sponsored team announced the news on Twitter, showing McLaren sporting director Eric Boullier and Alonso at the team's headquarters in Woking, England. \n\nAlonso was concussed and airlifted to hospital after losing control of his McLaren at the penultimate winter test at Barcelona's Circuit de Catalunya on February 22. \n\nThe 33-year-old watched the Melbourne race from his home in Dubai after doctors indicated returning to racing three weeks after a high impact was too risky. \n\nMcLaren had explained that Alonso's \"accident was caused by the unpredictably gusty winds at that part of the circuit at that time.\" \n\nAfter getting back to race preparation in the simulator, McLaren tweeted that it had been a good day for Alonso, \"focusing on operational work and practicing qualifying and race procedures.\" \n\nThe media enjoyed a guessing game in Australia about just how Alonso might have reacted to events in Melbourne, where Lewis Hamilton and his mighty Mercedes dominated while Alonso's McLaren teammate Jenson Button finished in last place. \n\nDane Kevin Magnussen, who was deputizing for the recuperating Spaniard, was unable to start the race because of engine problems on his way to the starting grid. ",
+        "question": "Why?",
+        "label": "injured in a traing crash",
+        "additional_answers": [
+            "Returning to racing three weeks after a high impact was too risky.",
+            "a freak accident",
+            "he was concussed"
+        ]
+    }
+]

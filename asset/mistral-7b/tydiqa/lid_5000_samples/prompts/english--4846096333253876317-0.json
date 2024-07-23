@@ -1,0 +1,15 @@
+[
+    [
+        3059,
+        [],
+        "Canis lupus rufus[6][7] or Canis rufus"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The red wolf (Canis lupus rufus[6][7] or Canis rufus[4]) is a canine native to the southeastern United States. The subspecies is the product of ancient genetic admixture between the gray wolf and the coyote,[8][9] however it is regarded as unique and therefore worthy of conservation.[10] Morphologically it is intermediate between the coyote and gray wolf, and is of a reddish, tawny color.[11][12] The US Endangered Species Act of 1973 currently does not provide protection for endangered admixed individuals and researchers argue that these should warrant full protection under the Act.[8][10] However, the red wolf when considered as a species is listed as an endangered species under this Act and is protected by law.[13] Although Canis rufus is not listed in the CITES Appendices of endangered species,[2] since 1996 the IUCN has listed it as a critically endangered species.[2] Question: What is the scientific name of the red wolf? Answer:",
+    {
+        "id": "english--4846096333253876317-0",
+        "lang": "english",
+        "summary": "The red wolf (Canis lupus rufus[6][7] or Canis rufus[4]) is a canine native to the southeastern United States. The subspecies is the product of ancient genetic admixture between the gray wolf and the coyote,[8][9] however it is regarded as unique and therefore worthy of conservation.[10] Morphologically it is intermediate between the coyote and gray wolf, and is of a reddish, tawny color.[11][12] The US Endangered Species Act of 1973 currently does not provide protection for endangered admixed individuals and researchers argue that these should warrant full protection under the Act.[8][10] However, the red wolf when considered as a species is listed as an endangered species under this Act and is protected by law.[13] Although Canis rufus is not listed in the CITES Appendices of endangered species,[2] since 1996 the IUCN has listed it as a critically endangered species.[2]",
+        "question": "What is the scientific name of the red wolf?",
+        "label": "Canis lupus rufus[6][7] or Canis rufus"
+    }
+]

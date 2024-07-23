@@ -1,0 +1,15 @@
+[
+    [
+        777,
+        [],
+        "10"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1937 Pope Pius XI decided that causes for minors should not be accepted as they could not fully understand heroic virtue or practice it repeatedly, both of which are essential for canonization. For the next four decades, no sainthood processes for children were pursued. In 1979 the bishop of Leiria-F\u00e1tima asked all the world's bishops to write to the Pope, petitioning him to make an exception for Francisco, who had died at age 10, and Jacinta, who had died at age 9. More than 300 bishops sent letters to the Pope, writing that \u201cthe children were known, admired and attracted people to the way of sanctity. Favors were received through their intercession.\u201d The bishops also said that the children's canonization was a pastoral necessity for the children and teenagers of the day.[14] Question: How old was Francisco when he died? Answer:",
+    {
+        "id": "english-6016827770893119857-12",
+        "lang": "english",
+        "summary": "In 1937 Pope Pius XI decided that causes for minors should not be accepted as they could not fully understand heroic virtue or practice it repeatedly, both of which are essential for canonization. For the next four decades, no sainthood processes for children were pursued. In 1979 the bishop of Leiria-F\u00e1tima asked all the world's bishops to write to the Pope, petitioning him to make an exception for Francisco, who had died at age 10, and Jacinta, who had died at age 9. More than 300 bishops sent letters to the Pope, writing that \u201cthe children were known, admired and attracted people to the way of sanctity. Favors were received through their intercession.\u201d The bishops also said that the children's canonization was a pastoral necessity for the children and teenagers of the day.[14]",
+        "question": "How old was Francisco when he died?",
+        "label": "10"
+    }
+]

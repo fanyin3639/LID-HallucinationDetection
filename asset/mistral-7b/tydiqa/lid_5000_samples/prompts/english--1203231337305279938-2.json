@@ -1,0 +1,15 @@
+[
+    [
+        2257,
+        [],
+        "Joseph Priestley"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Oxygen was isolated by Michael Sendivogius before 1604, but it is commonly believed that the element was discovered independently by Carl Wilhelm Scheele, in Uppsala, in 1773 or earlier, and Joseph Priestley in Wiltshire, in 1774. Priority is often given for Priestley because his work was published first. Priestley, however, called oxygen \"dephlogisticated air\", and did not recognize it as a chemical element.  The name oxygen was coined in 1777 by Antoine Lavoisier, who first recognized oxygen as a chemical element and correctly characterized the role it plays in combustion. Question: Who first identified oxygen? Answer:",
+    {
+        "id": "english--1203231337305279938-2",
+        "lang": "english",
+        "summary": "Oxygen was isolated by Michael Sendivogius before 1604, but it is commonly believed that the element was discovered independently by Carl Wilhelm Scheele, in Uppsala, in 1773 or earlier, and Joseph Priestley in Wiltshire, in 1774. Priority is often given for Priestley because his work was published first. Priestley, however, called oxygen \"dephlogisticated air\", and did not recognize it as a chemical element.  The name oxygen was coined in 1777 by Antoine Lavoisier, who first recognized oxygen as a chemical element and correctly characterized the role it plays in combustion.",
+        "question": "Who first identified oxygen?",
+        "label": "Joseph Priestley"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        567,
+        [],
+        "0.5inches  per month"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The three stages of hair growth are the anagen, catagen, and telogen phases. Each strand of hair on the human body is at its own stage of development. Once the cycle is complete, it restarts and a new strand of hair begins to form. The rate or speed of hair growth is about 1.25centimetres or 0.5inches  per month, or about 15 centimetres  or 6inches per year. Question: What is the growth rate for human hair? Answer:",
+    {
+        "id": "english-7116955391043897900-4",
+        "lang": "english",
+        "summary": "The three stages of hair growth are the anagen, catagen, and telogen phases. Each strand of hair on the human body is at its own stage of development. Once the cycle is complete, it restarts and a new strand of hair begins to form. The rate or speed of hair growth is about 1.25centimetres or 0.5inches  per month, or about 15 centimetres  or 6inches per year.",
+        "question": "What is the growth rate for human hair?",
+        "label": "0.5inches  per month"
+    }
+]

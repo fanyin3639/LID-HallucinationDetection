@@ -1,0 +1,15 @@
+[
+    [
+        1560,
+        [],
+        "Turkish"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The languages of Turkey, apart from the only official language Turkish, include the widespread Kurmanji, the moderately prevalent minority languages Arabic and Zazaki and a number of less common minority languages, some of which are guaranteed by the 1923 Treaty of Lausanne. Question: What language is mainly spoken in Turkey? Answer:",
+    {
+        "id": "english-5524030715844690960-1",
+        "lang": "english",
+        "summary": "The languages of Turkey, apart from the only official language Turkish, include the widespread Kurmanji, the moderately prevalent minority languages Arabic and Zazaki and a number of less common minority languages, some of which are guaranteed by the 1923 Treaty of Lausanne.",
+        "question": "What language is mainly spoken in Turkey?",
+        "label": "Turkish"
+    }
+]

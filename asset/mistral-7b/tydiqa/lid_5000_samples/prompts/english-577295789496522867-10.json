@@ -1,0 +1,15 @@
+[
+    [
+        790,
+        [],
+        "152.6mph"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Porsche revealed an evolution of the 919 Hybrid on 11 April 2018, as it broke the lap record in Circuit de Spa-Francorchamps with a lap time of 1:41.77, with Neel Jani behind the wheel. The lap time was 0.783 seconds faster than Lewis Hamilton's flying qualification lap in 2017, previously posting a 1:42.553 in his Mercedes AMG F1 W08, a Formula One car. Jani was also over 12 seconds faster than the standard 919 Hybrid's 2017 pole position lap time of 1:54.097. During the lap, Jani's speed trap was 359km/h (223.1mph) at the Kemmel Straight, with an average speed of 245.61km/h (152.6mph).[13][14][15] Question: How fast is the Porsche 919 Hybrid? Answer:",
+    {
+        "id": "english-577295789496522867-10",
+        "lang": "english",
+        "summary": "Porsche revealed an evolution of the 919 Hybrid on 11 April 2018, as it broke the lap record in Circuit de Spa-Francorchamps with a lap time of 1:41.77, with Neel Jani behind the wheel. The lap time was 0.783 seconds faster than Lewis Hamilton's flying qualification lap in 2017, previously posting a 1:42.553 in his Mercedes AMG F1 W08, a Formula One car. Jani was also over 12 seconds faster than the standard 919 Hybrid's 2017 pole position lap time of 1:54.097. During the lap, Jani's speed trap was 359km/h (223.1mph) at the Kemmel Straight, with an average speed of 245.61km/h (152.6mph).[13][14][15]",
+        "question": "How fast is the Porsche 919 Hybrid?",
+        "label": "152.6mph"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1926,
+        [],
+        "Lorenzo Da Ponte"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Marriage of Figaro (Italian: Le nozze di Figaro, pronounced[le \u02c8n\u0254ttse di \u02c8fi\u02d0\u0261aro]), K.492, is an opera buffa (comic opera) in four acts composed in 1786 by Wolfgang Amadeus Mozart, with an Italian libretto written by Lorenzo Da Ponte. It premiered at the Burgtheater in Vienna on 1 May 1786. The opera's libretto is based on a stage comedy by Pierre Beaumarchais, La folle journ\u00e9e, ou le Mariage de Figaro (\"The Mad Day, or The Marriage of Figaro\"), which was first performed in 1784. It tells how the servants Figaro and Susanna succeed in getting married, foiling the efforts of their philandering employer Count Almaviva to seduce Susanna and teaching him a lesson in fidelity. Question: Who wrote the Libretto for The Marriage of Figaro? Answer:",
+    {
+        "id": "english-5244432319422881444-0",
+        "lang": "english",
+        "summary": "The Marriage of Figaro (Italian: Le nozze di Figaro, pronounced[le \u02c8n\u0254ttse di \u02c8fi\u02d0\u0261aro]), K.492, is an opera buffa (comic opera) in four acts composed in 1786 by Wolfgang Amadeus Mozart, with an Italian libretto written by Lorenzo Da Ponte. It premiered at the Burgtheater in Vienna on 1 May 1786. The opera's libretto is based on a stage comedy by Pierre Beaumarchais, La folle journ\u00e9e, ou le Mariage de Figaro (\"The Mad Day, or The Marriage of Figaro\"), which was first performed in 1784. It tells how the servants Figaro and Susanna succeed in getting married, foiling the efforts of their philandering employer Count Almaviva to seduce Susanna and teaching him a lesson in fidelity.",
+        "question": "Who wrote the Libretto for The Marriage of Figaro?",
+        "label": "Lorenzo Da Ponte"
+    }
+]

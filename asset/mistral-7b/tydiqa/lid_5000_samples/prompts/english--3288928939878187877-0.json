@@ -1,0 +1,15 @@
+[
+    [
+        496,
+        [],
+        "1200"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Chandralekha (Tamil: \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bb2\u0bc7\u0b95\u0bbe) is a 2014 Indian-Tamil language soap opera that airs on Sun TV from Monday to Saturday at 14:00 IST. The show premiered on 6 October 2014 and completed its 1200th episode on 28 September 2018. The show stars Shwetha Bandekar, Nagashree GS, Arun Kumar Rajan and Jai Dhanush.[1][2] Question: How many episodes has Chandralekha aired? Answer:",
+    {
+        "id": "english--3288928939878187877-0",
+        "lang": "english",
+        "summary": "Chandralekha (Tamil: \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bb2\u0bc7\u0b95\u0bbe) is a 2014 Indian-Tamil language soap opera that airs on Sun TV from Monday to Saturday at 14:00 IST. The show premiered on 6 October 2014 and completed its 1200th episode on 28 September 2018. The show stars Shwetha Bandekar, Nagashree GS, Arun Kumar Rajan and Jai Dhanush.[1][2]",
+        "question": "How many episodes has Chandralekha aired?",
+        "label": "1200"
+    }
+]

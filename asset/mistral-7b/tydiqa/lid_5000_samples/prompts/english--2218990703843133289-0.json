@@ -1,0 +1,15 @@
+[
+    [
+        3079,
+        [],
+        "Berlin"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The capital of Germany is the  city state of Berlin. It is the seat of the President of Germany, whose official residence is Schloss Bellevue. The Bundesrat (\"federal council\") is the representation of the Federal States (Bundesl\u00e4nder) of Germany and has its seat at the former Prussian Herrenhaus (House of Lords). Though most of the ministries are seated in Berlin, some of them, as well as some minor departments, are seated in Bonn, the former capital of West Germany. Question: What's the capital of Germany? Answer:",
+    {
+        "id": "english--2218990703843133289-0",
+        "lang": "english",
+        "summary": "The capital of Germany is the  city state of Berlin. It is the seat of the President of Germany, whose official residence is Schloss Bellevue. The Bundesrat (\"federal council\") is the representation of the Federal States (Bundesl\u00e4nder) of Germany and has its seat at the former Prussian Herrenhaus (House of Lords). Though most of the ministries are seated in Berlin, some of them, as well as some minor departments, are seated in Bonn, the former capital of West Germany.",
+        "question": "What's the capital of Germany?",
+        "label": "Berlin"
+    }
+]

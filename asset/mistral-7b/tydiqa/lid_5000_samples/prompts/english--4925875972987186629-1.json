@@ -1,0 +1,15 @@
+[
+    [
+        336,
+        [],
+        "New Zealand has no minimum consumption age for alcohol"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Alcohol has been consumed in New Zealand since the arrival of European settlers. The most popular alcoholic beverages are beer and wine. New Zealand has no minimum consumption age for alcohol, however the minimum purchase age is 18.[1] Question: How old do you need to be to drink in New Zealand? Answer:",
+    {
+        "id": "english--4925875972987186629-1",
+        "lang": "english",
+        "summary": "Alcohol has been consumed in New Zealand since the arrival of European settlers. The most popular alcoholic beverages are beer and wine. New Zealand has no minimum consumption age for alcohol, however the minimum purchase age is 18.[1]",
+        "question": "How old do you need to be to drink in New Zealand?",
+        "label": "New Zealand has no minimum consumption age for alcohol"
+    }
+]

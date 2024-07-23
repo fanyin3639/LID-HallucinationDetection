@@ -1,0 +1,14 @@
+[
+    [
+        802,
+        [],
+        "Midfielder Liam Kelly has signed a new contract with Reading, keeping him at the Championship club until the summer of 2019."
+    ],
+    "Write a short summary for the following passage:\nThe 21-year-old came through Reading's academy and made his debut against MK Dons in the EFL Cup in August.\nKelly played his 12th game this term in Friday's abandonded match with Fulham.\n\"Liam has great ability in his passing, his movement, his technique and he has done very well ever since we arrived at the club,\" said boss Jaap Stam.\n\"Hopefully he can keep his performances up, continue to improve and we can get ourselves an even better player than he already is in the future.\"\nSummary:\n",
+    {
+        "id": 802,
+        "document": "The 21-year-old came through Reading's academy and made his debut against MK Dons in the EFL Cup in August.\nKelly played his 12th game this term in Friday's abandonded match with Fulham.\n\"Liam has great ability in his passing, his movement, his technique and he has done very well ever since we arrived at the club,\" said boss Jaap Stam.\n\"Hopefully he can keep his performances up, continue to improve and we can get ourselves an even better player than he already is in the future.\"",
+        "summary": "Midfielder Liam Kelly has signed a new contract with Reading, keeping him at the Championship club until the summer of 2019.",
+        "label": "Midfielder Liam Kelly has signed a new contract with Reading, keeping him at the Championship club until the summer of 2019."
+    }
+]

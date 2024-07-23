@@ -1,0 +1,15 @@
+[
+    [
+        2246,
+        [],
+        "110\u2013180kg"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The black wildebeest or white-tailed gnu (Connochaetes gnou) is one of the two closely related wildebeest species. It is a member of the genus Connochaetes  and family Bovidae. It was first described in 1780 by Eberhard August Wilhelm von Zimmermann. The black wildebeest is typically 170\u2013220cm (67\u201387in) in head-and-body length, and the typical weight is 110\u2013180kg (240\u2013400lb). Males stand about 111\u2013121cm (44\u201348in) at the shoulder, while the height of the females is 106\u2013116cm (42\u201346in). The black wildebeest is characterised by its white, long, horse-like tail. It also has a dark brown to black coat and long, dark-coloured hair between its forelegs and under its belly. Question: How much can a black wildebeest weigh? Answer:",
+    {
+        "id": "english--8306548826444459285-0",
+        "lang": "english",
+        "summary": "The black wildebeest or white-tailed gnu (Connochaetes gnou) is one of the two closely related wildebeest species. It is a member of the genus Connochaetes  and family Bovidae. It was first described in 1780 by Eberhard August Wilhelm von Zimmermann. The black wildebeest is typically 170\u2013220cm (67\u201387in) in head-and-body length, and the typical weight is 110\u2013180kg (240\u2013400lb). Males stand about 111\u2013121cm (44\u201348in) at the shoulder, while the height of the females is 106\u2013116cm (42\u201346in). The black wildebeest is characterised by its white, long, horse-like tail. It also has a dark brown to black coat and long, dark-coloured hair between its forelegs and under its belly.",
+        "question": "How much can a black wildebeest weigh?",
+        "label": "110\u2013180kg"
+    }
+]

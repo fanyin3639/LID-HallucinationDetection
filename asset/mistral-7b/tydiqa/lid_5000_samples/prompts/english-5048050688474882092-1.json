@@ -1,0 +1,15 @@
+[
+    [
+        513,
+        [],
+        "c.1550 to c.1700"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Transformation of the Ottoman Empire, also known as the Era of Transformation, constitutes a period in the history of the Ottoman Empire from c.1550 to c.1700, spanning roughly from the end of the reign of Suleiman the Magnificent to the Treaty of Karlowitz at the conclusion of the War of the Holy League. This period was characterized by numerous dramatic political, social, and economic changes, which resulted in the empire shifting from an expansionist, patrimonial state into a bureaucratic empire based on an ideology of upholding justice and acting as the protector of Sunni Islam.[1] These changes were in large part prompted by a series of political and economic crises in the late sixteenth and early seventeenth centuries,[2][3] resulting from inflation, warfare, and political factionalism.[4] Yet despite these crises the empire remained strong both politically and economically,[5] and continued to adapt to the challenges of a changing world. The seventeenth century was once characterized as a period of decline for the Ottomans, but since the 1980s historians of the Ottoman Empire have increasingly rejected that characterization, identifying it instead as a period of crisis, adaptation, and transformation.[6] Question: When was the Transformation of the Ottoman Empire? Answer:",
+    {
+        "id": "english-5048050688474882092-1",
+        "lang": "english",
+        "summary": "The Transformation of the Ottoman Empire, also known as the Era of Transformation, constitutes a period in the history of the Ottoman Empire from c.1550 to c.1700, spanning roughly from the end of the reign of Suleiman the Magnificent to the Treaty of Karlowitz at the conclusion of the War of the Holy League. This period was characterized by numerous dramatic political, social, and economic changes, which resulted in the empire shifting from an expansionist, patrimonial state into a bureaucratic empire based on an ideology of upholding justice and acting as the protector of Sunni Islam.[1] These changes were in large part prompted by a series of political and economic crises in the late sixteenth and early seventeenth centuries,[2][3] resulting from inflation, warfare, and political factionalism.[4] Yet despite these crises the empire remained strong both politically and economically,[5] and continued to adapt to the challenges of a changing world. The seventeenth century was once characterized as a period of decline for the Ottomans, but since the 1980s historians of the Ottoman Empire have increasingly rejected that characterization, identifying it instead as a period of crisis, adaptation, and transformation.[6]",
+        "question": "When was the Transformation of the Ottoman Empire?",
+        "label": "c.1550 to c.1700"
+    }
+]

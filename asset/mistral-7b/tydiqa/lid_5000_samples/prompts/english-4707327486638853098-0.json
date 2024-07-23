@@ -1,0 +1,15 @@
+[
+    [
+        596,
+        [],
+        "July2, 1964"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Civil Rights Act of 1964 (Pub.L., 78Stat., enacted July2, 1964) is a landmark civil rights and U.S. labor law in the United States[5] that outlaws discrimination based on race, color, religion, sex, or national origin.[6] It prohibits unequal application of voter registration requirements, racial segregation in schools, employment, and public accommodations. Question: When was the Civil Rights Act passed? Answer:",
+    {
+        "id": "english-4707327486638853098-0",
+        "lang": "english",
+        "summary": "The Civil Rights Act of 1964 (Pub.L., 78Stat., enacted July2, 1964) is a landmark civil rights and U.S. labor law in the United States[5] that outlaws discrimination based on race, color, religion, sex, or national origin.[6] It prohibits unequal application of voter registration requirements, racial segregation in schools, employment, and public accommodations.",
+        "question": "When was the Civil Rights Act passed?",
+        "label": "July2, 1964"
+    }
+]

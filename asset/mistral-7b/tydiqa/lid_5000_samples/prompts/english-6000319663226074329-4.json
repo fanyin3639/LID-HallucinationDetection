@@ -1,0 +1,15 @@
+[
+    [
+        128,
+        [],
+        "Brock Lesnar"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: At the top of WWE's championship hierarchy are the WWE Universal Championship on Raw and the WWE Championship on SmackDown. The Universal Championship is held by record two-time champion Brock Lesnar, who won the vacant title by defeating Braun Strowman at Crown Jewel on November 2, 2018; previous champion Roman Reigns had to relinquish the title due to illness (leukemia). The WWE Champion is Daniel Bryan, who is in his fourth reign. He won the title on the November 13, 2018, episode of SmackDown Live by defeating AJ Styles. Question: Who is the WWE Champion? Answer:",
+    {
+        "id": "english-6000319663226074329-4",
+        "lang": "english",
+        "summary": "At the top of WWE's championship hierarchy are the WWE Universal Championship on Raw and the WWE Championship on SmackDown. The Universal Championship is held by record two-time champion Brock Lesnar, who won the vacant title by defeating Braun Strowman at Crown Jewel on November 2, 2018; previous champion Roman Reigns had to relinquish the title due to illness (leukemia). The WWE Champion is Daniel Bryan, who is in his fourth reign. He won the title on the November 13, 2018, episode of SmackDown Live by defeating AJ Styles.",
+        "question": "Who is the WWE Champion?",
+        "label": "Brock Lesnar"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2779,
+        [],
+        "90\u201395 million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mostly depending on the inclusion or exclusion of certain varieties with a disputed status as separate languages (e.g., Low German/Plautdietsch[1]), it is estimated that approximately 90\u201395 million people speak German as a first language,[2][3][4] 10-25 million as a second language,[2][3] and 75\u2013100 million as a foreign language.[2][5] This would imply approximately 175-220 million German speakers worldwide.[6] Question: How many people are native German speakers? Answer:",
+    {
+        "id": "english-4397529730997315407-1",
+        "lang": "english",
+        "summary": "Mostly depending on the inclusion or exclusion of certain varieties with a disputed status as separate languages (e.g., Low German/Plautdietsch[1]), it is estimated that approximately 90\u201395 million people speak German as a first language,[2][3][4] 10-25 million as a second language,[2][3] and 75\u2013100 million as a foreign language.[2][5] This would imply approximately 175-220 million German speakers worldwide.[6]",
+        "question": "How many people are native German speakers?",
+        "label": "90\u201395 million"
+    }
+]

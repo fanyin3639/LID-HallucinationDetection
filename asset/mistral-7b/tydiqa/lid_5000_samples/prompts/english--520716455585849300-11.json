@@ -1,0 +1,15 @@
+[
+    [
+        2380,
+        [],
+        "July 4, 1967"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Freedom of Information Act was initially introduced as the bill S. 1160 in the 89th Congress. When the two-page bill was signed into law it became Pub.L., 80Stat., enacted July4, 1966, but had an effective date of one year after the date of enactment, or July 4, 1967. The law set up the structure of FOIA as we know it today. Question: When was the Freedom of Information Act first put into effect? Answer:",
+    {
+        "id": "english--520716455585849300-11",
+        "lang": "english",
+        "summary": "The Freedom of Information Act was initially introduced as the bill S. 1160 in the 89th Congress. When the two-page bill was signed into law it became Pub.L., 80Stat., enacted July4, 1966, but had an effective date of one year after the date of enactment, or July 4, 1967. The law set up the structure of FOIA as we know it today.",
+        "question": "When was the Freedom of Information Act first put into effect?",
+        "label": "July 4, 1967"
+    }
+]

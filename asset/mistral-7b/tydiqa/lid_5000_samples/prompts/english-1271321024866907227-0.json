@@ -1,0 +1,15 @@
+[
+    [
+        3092,
+        [],
+        "Baltimore, Maryland"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The General (1964\u20131998) was a bi-monthly periodical devoted to supporting Avalon Hill's line of wargames, with articles on game tactics, history, and industry news.  It was the first professionally produced wargaming magazine for the nascent cardboard and hex-map wargaming hobby. Over the years the magazine was variously called The Avalon Hill General, Avalon Hill's General, The General Magazine, or simply General. It was headquartered in Baltimore, Maryland.[1] With the sale of Avalon Hill to Hasbro in 1998 the magazine ceased. Its unofficial heir was Operations Magazine published by Multi-Man Publishing to support the line of Avalon Hill games that remained in print, but that too went out of print in 2010, replaced by Special Ops magazine in 2011. Question: Where is GMT Games headquartered? Answer:",
+    {
+        "id": "english-1271321024866907227-0",
+        "lang": "english",
+        "summary": "The General (1964\u20131998) was a bi-monthly periodical devoted to supporting Avalon Hill's line of wargames, with articles on game tactics, history, and industry news.  It was the first professionally produced wargaming magazine for the nascent cardboard and hex-map wargaming hobby. Over the years the magazine was variously called The Avalon Hill General, Avalon Hill's General, The General Magazine, or simply General. It was headquartered in Baltimore, Maryland.[1] With the sale of Avalon Hill to Hasbro in 1998 the magazine ceased. Its unofficial heir was Operations Magazine published by Multi-Man Publishing to support the line of Avalon Hill games that remained in print, but that too went out of print in 2010, replaced by Special Ops magazine in 2011.",
+        "question": "Where is GMT Games headquartered?",
+        "label": "Baltimore, Maryland"
+    }
+]

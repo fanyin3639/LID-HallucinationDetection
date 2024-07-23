@@ -1,0 +1,15 @@
+[
+    [
+        453,
+        [],
+        "Cast iron is a group of iron-carbon alloys with a carbon content greater than 2%"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cast iron is a group of iron-carbon alloys with a carbon content greater than 2%.[1] Its usefulness derives from its relatively low melting temperature. The alloy constituents affect its colour when fractured: white cast iron has carbide impurities which allow cracks to pass straight through, grey cast iron has graphite flakes which deflect a passing crack and initiate countless new cracks as the material breaks, and ductile cast iron has spherical graphite \"nodules\" which stop the crack from further progressing. Question: What is cast iron made of? Answer:",
+    {
+        "id": "english--7143613423291663770-1",
+        "lang": "english",
+        "summary": "Cast iron is a group of iron-carbon alloys with a carbon content greater than 2%.[1] Its usefulness derives from its relatively low melting temperature. The alloy constituents affect its colour when fractured: white cast iron has carbide impurities which allow cracks to pass straight through, grey cast iron has graphite flakes which deflect a passing crack and initiate countless new cracks as the material breaks, and ductile cast iron has spherical graphite \"nodules\" which stop the crack from further progressing.",
+        "question": "What is cast iron made of?",
+        "label": "Cast iron is a group of iron-carbon alloys with a carbon content greater than 2%"
+    }
+]

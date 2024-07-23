@@ -1,0 +1,15 @@
+[
+    [
+        859,
+        [],
+        "seven seasons"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: From the first to the fourth season, all episode titles have the same number of words as the number of the season in which they appear; that is, all season one episodes have one-word titles, all season two episodes have two-word titles, etc. Starting with the fifth season, the number of words starts to decrease; the idea of the creators was that \u2013 ratings permitting \u2013 the show would run for seven seasons, which would allow for a symmetry in the title lengths: 1\u20132\u20133\u20134\u20133\u20132\u20131 to count words in each season's titles, respectively.[1] Question: How many episodes of The Good Wife are there? Answer:",
+    {
+        "id": "english-9083918924212092507-1",
+        "lang": "english",
+        "summary": "From the first to the fourth season, all episode titles have the same number of words as the number of the season in which they appear; that is, all season one episodes have one-word titles, all season two episodes have two-word titles, etc. Starting with the fifth season, the number of words starts to decrease; the idea of the creators was that \u2013 ratings permitting \u2013 the show would run for seven seasons, which would allow for a symmetry in the title lengths: 1\u20132\u20133\u20134\u20133\u20132\u20131 to count words in each season's titles, respectively.[1]",
+        "question": "How many episodes of The Good Wife are there?",
+        "label": "seven seasons"
+    }
+]

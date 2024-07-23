@@ -1,0 +1,15 @@
+[
+    [
+        630,
+        [],
+        "Z\u00fcrich"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Frisch was born in 1911 in Z\u00fcrich, the second son of Franz Bruno Frisch, an architect, and Karolina Bettina Frisch (n\u00e9e Wildermuth).[2] He had a half-sister, Emma (1899\u20131972), his father's daughter by a previous marriage, and a brother, Franz, eight years his senior (1903\u20131978). The family lived modestly, their financial situation deteriorating after the father lost his job during the First World War. Frisch had an emotionally distant relationship with his father, but was close to his mother. While at secondary school Frisch started to write drama, but failed to get his work performed and he subsequently destroyed his first literary works. While he was at school he met Werner Coninx (1911\u20131980), who later became a successful artist and collector. The two men formed a lifelong friendship. Question: Where was Max Rudolf Frisch born? Answer:",
+    {
+        "id": "english-498291314558985532-1",
+        "lang": "english",
+        "summary": "Frisch was born in 1911 in Z\u00fcrich, the second son of Franz Bruno Frisch, an architect, and Karolina Bettina Frisch (n\u00e9e Wildermuth).[2] He had a half-sister, Emma (1899\u20131972), his father's daughter by a previous marriage, and a brother, Franz, eight years his senior (1903\u20131978). The family lived modestly, their financial situation deteriorating after the father lost his job during the First World War. Frisch had an emotionally distant relationship with his father, but was close to his mother. While at secondary school Frisch started to write drama, but failed to get his work performed and he subsequently destroyed his first literary works. While he was at school he met Werner Coninx (1911\u20131980), who later became a successful artist and collector. The two men formed a lifelong friendship.",
+        "question": "Where was Max Rudolf Frisch born?",
+        "label": "Z\u00fcrich"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1180,
+        [],
+        "is a term coined in World War I to describe the type of posttraumatic stress disorder many soldiers were afflicted with during the war"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Shell shock is a term coined in World War I to describe the type of posttraumatic stress disorder many soldiers were afflicted with during the war (before PTSD itself was a term).[2]   It is a reaction to the intensity of the bombardment and fighting that produced a helplessness appearing variously as panic and being scared, flight, or an inability to reason, sleep, walk or talk.[3] Question: What is shell shock? Answer:",
+    {
+        "id": "english-19438820948175525-0",
+        "lang": "english",
+        "summary": "Shell shock is a term coined in World War I to describe the type of posttraumatic stress disorder many soldiers were afflicted with during the war (before PTSD itself was a term).[2]   It is a reaction to the intensity of the bombardment and fighting that produced a helplessness appearing variously as panic and being scared, flight, or an inability to reason, sleep, walk or talk.[3]",
+        "question": "What is shell shock?",
+        "label": "is a term coined in World War I to describe the type of posttraumatic stress disorder many soldiers were afflicted with during the war"
+    }
+]

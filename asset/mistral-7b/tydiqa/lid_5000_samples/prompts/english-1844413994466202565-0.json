@@ -1,0 +1,15 @@
+[
+    [
+        823,
+        [],
+        "1837"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: St James' Anglican Church is a heritage-listed Anglican church precinct at 19 Tank Street, Morpeth, City of Maitland, New South Wales, Australia. The original design has been attributed to Edward Charles Close, with later additions by Edmund Blacket and John Horbury Hunt and built from 1837 to 1875 by E.C. Close and James Sherwood. The precinct also includes the St. James' rectory and parish hall (formerly schoolhouse). The property is vested in the Trustees of Church Property for the Diocese of Newcastle.[1]It was added to the New South Wales State Heritage Register on 27 January 2017.[1] Question: When was St. James' Anglican Church in Morpeth constructed? Answer:",
+    {
+        "id": "english-1844413994466202565-0",
+        "lang": "english",
+        "summary": "St James' Anglican Church is a heritage-listed Anglican church precinct at 19 Tank Street, Morpeth, City of Maitland, New South Wales, Australia. The original design has been attributed to Edward Charles Close, with later additions by Edmund Blacket and John Horbury Hunt and built from 1837 to 1875 by E.C. Close and James Sherwood. The precinct also includes the St. James' rectory and parish hall (formerly schoolhouse). The property is vested in the Trustees of Church Property for the Diocese of Newcastle.[1]It was added to the New South Wales State Heritage Register on 27 January 2017.[1]",
+        "question": "When was St. James' Anglican Church in Morpeth constructed?",
+        "label": "1837"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2224,
+        [],
+        "1907"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Georgetown University men's basketball team is perhaps the most well-known Hoya program. Georgetown's first intercollegiate men's basketball team was formed in 1907.[24] Former Georgetown great Patrick Ewing is the head coach. The Hoyas historically have been well regarded not only for their team success, but also for their ability to generate players that after graduation succeed both on the court, such as Patrick Ewing, and off, such as Paul Tagliabue and Henry Hyde.[25] The team has reached the NCAA Tournament Final Four five times including the 1984 national championship, and has won the Big East Tournament seven times, and has also won or shared the Big East regular season title ten times.[26][27] Question: When was basketball introduced at Georgetown University? Answer:",
+    {
+        "id": "english-3415167914758288846-14",
+        "lang": "english",
+        "summary": "The Georgetown University men's basketball team is perhaps the most well-known Hoya program. Georgetown's first intercollegiate men's basketball team was formed in 1907.[24] Former Georgetown great Patrick Ewing is the head coach. The Hoyas historically have been well regarded not only for their team success, but also for their ability to generate players that after graduation succeed both on the court, such as Patrick Ewing, and off, such as Paul Tagliabue and Henry Hyde.[25] The team has reached the NCAA Tournament Final Four five times including the 1984 national championship, and has won the Big East Tournament seven times, and has also won or shared the Big East regular season title ten times.[26][27]",
+        "question": "When was basketball introduced at Georgetown University?",
+        "label": "1907"
+    }
+]

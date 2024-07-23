@@ -1,0 +1,15 @@
+[
+    [
+        1621,
+        [],
+        "formal complaint that is raised by an employee towards an employer"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A grievance is a formal complaint that is raised by an employee towards an employer within the workplace. There are many reasons as to why a grievance can be raised, and also many ways to go about dealing with such a scenario. Reasons for filing a grievance in the workplace can be as a result of, but not limited to, a breach of the terms and conditions of an employment contract, raises and promotions, or lack thereof, as well as harassment and employment discrimination.[1] Question: What is a grievance at work? Answer:",
+    {
+        "id": "english-211218470462117140-0",
+        "lang": "english",
+        "summary": "A grievance is a formal complaint that is raised by an employee towards an employer within the workplace. There are many reasons as to why a grievance can be raised, and also many ways to go about dealing with such a scenario. Reasons for filing a grievance in the workplace can be as a result of, but not limited to, a breach of the terms and conditions of an employment contract, raises and promotions, or lack thereof, as well as harassment and employment discrimination.[1]",
+        "question": "What is a grievance at work?",
+        "label": "formal complaint that is raised by an employee towards an employer"
+    }
+]

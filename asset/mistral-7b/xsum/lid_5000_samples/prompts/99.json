@@ -1,0 +1,14 @@
+[
+    [
+        99,
+        [],
+        "Opener Ben Slater has become the second Derbyshire player in two days to commit to a new two-year contract."
+    ],
+    "Write a short summary for the following passage:\nAll-rounder Alex Hughes agreed terms on Tuesday and batsman Slater, 25, has followed suit in signing until 2018.\nSlater is the club's 2016 Royal London One-Day Cup Player of the Year after scoring 328 runs at an average of 82, including a top score of 148 not out.\n\"Ben is a talented lad who is cementing his place at the top of the order,\" said director of cricket Kim Barnett.\n\"He continues to work hard on his game and has reaped the rewards, particularly in the one-day competition, and we hope he can continue to produce consistent performances across both red and white-ball cricket.\"\nSummary:\n",
+    {
+        "id": 99,
+        "document": "All-rounder Alex Hughes agreed terms on Tuesday and batsman Slater, 25, has followed suit in signing until 2018.\nSlater is the club's 2016 Royal London One-Day Cup Player of the Year after scoring 328 runs at an average of 82, including a top score of 148 not out.\n\"Ben is a talented lad who is cementing his place at the top of the order,\" said director of cricket Kim Barnett.\n\"He continues to work hard on his game and has reaped the rewards, particularly in the one-day competition, and we hope he can continue to produce consistent performances across both red and white-ball cricket.\"",
+        "summary": "Opener Ben Slater has become the second Derbyshire player in two days to commit to a new two-year contract.",
+        "label": "Opener Ben Slater has become the second Derbyshire player in two days to commit to a new two-year contract."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2798,
+        [],
+        "Viscount Hinchingbrooke"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The heir apparent is the present holder's son Luke Timothy Charles Montagu, Viscount Hinchingbrooke (b. 1969), the son of the 11th Earl of Sandwich and Lady Sandwich ((Susan) Caroline Hayman, b. July 1st 1968)..  The heir apparent's heir apparent is his son, the Hon. William James Hayman Montagu (b. 2004).[3] Question: Who was the last earl of Sandwich? Answer:",
+    {
+        "id": "english--7633059373292592015-11",
+        "lang": "english",
+        "summary": "The heir apparent is the present holder's son Luke Timothy Charles Montagu, Viscount Hinchingbrooke (b. 1969), the son of the 11th Earl of Sandwich and Lady Sandwich ((Susan) Caroline Hayman, b. July 1st 1968)..  The heir apparent's heir apparent is his son, the Hon. William James Hayman Montagu (b. 2004).[3]",
+        "question": "Who was the last earl of Sandwich?",
+        "label": "Viscount Hinchingbrooke"
+    }
+]

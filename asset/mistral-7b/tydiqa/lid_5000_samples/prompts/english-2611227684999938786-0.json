@@ -1,0 +1,15 @@
+[
+    [
+        795,
+        [],
+        "Phillip Bradley Bird"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Phillip Bradley Bird (born September 24, 1957) is an American director, screenwriter, animator, producer and voice actor. He is best known for his animated feature films, The Iron Giant (1999), The Incredibles (2004), Ratatouille (2007), and Incredibles 2 (2018). His live-action movies are Mission: Impossible \u2013 Ghost Protocol (2011), and Tomorrowland (2015). Question: Who wrote the screenplay for The Incredibles? Answer:",
+    {
+        "id": "english-2611227684999938786-0",
+        "lang": "english",
+        "summary": "Phillip Bradley Bird (born September 24, 1957) is an American director, screenwriter, animator, producer and voice actor. He is best known for his animated feature films, The Iron Giant (1999), The Incredibles (2004), Ratatouille (2007), and Incredibles 2 (2018). His live-action movies are Mission: Impossible \u2013 Ghost Protocol (2011), and Tomorrowland (2015).",
+        "question": "Who wrote the screenplay for The Incredibles?",
+        "label": "Phillip Bradley Bird"
+    }
+]

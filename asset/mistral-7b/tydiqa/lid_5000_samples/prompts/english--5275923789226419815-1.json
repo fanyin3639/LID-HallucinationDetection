@@ -1,0 +1,15 @@
+[
+    [
+        1101,
+        [],
+        "Speaker of the House of Representatives"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The line of succession follows the order of Vice President, Speaker of the House of Representatives, President pro tempore of the Senate, and then the eligible heads of federal executive departments who form the president's Cabinet. The Presidential Succession Act refers specifically to officers beyond the vice president acting as president rather than becoming president when filling a vacancy. The Cabinet currently has 15 members, of which the Secretary of State is first in line; the other Cabinet secretaries follow in the order in which their department (or the department of which their department is the successor) was created. Those heads of department who are constitutionally ineligible to be elected to the presidency are also disqualified from assuming the powers and duties of the presidency through succession. Since 1789, the vice president has succeeded to the presidency intra-term on nine occasions, eight times due to the incumbent's death, and once due to resignation. No one lower in the line of succession has yet been called upon to act as president. Question: Who is third in line to president of the USA? Answer:",
+    {
+        "id": "english--5275923789226419815-1",
+        "lang": "english",
+        "summary": "The line of succession follows the order of Vice President, Speaker of the House of Representatives, President pro tempore of the Senate, and then the eligible heads of federal executive departments who form the president's Cabinet. The Presidential Succession Act refers specifically to officers beyond the vice president acting as president rather than becoming president when filling a vacancy. The Cabinet currently has 15 members, of which the Secretary of State is first in line; the other Cabinet secretaries follow in the order in which their department (or the department of which their department is the successor) was created. Those heads of department who are constitutionally ineligible to be elected to the presidency are also disqualified from assuming the powers and duties of the presidency through succession. Since 1789, the vice president has succeeded to the presidency intra-term on nine occasions, eight times due to the incumbent's death, and once due to resignation. No one lower in the line of succession has yet been called upon to act as president.",
+        "question": "Who is third in line to president of the USA?",
+        "label": "Speaker of the House of Representatives"
+    }
+]

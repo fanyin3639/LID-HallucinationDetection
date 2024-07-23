@@ -1,0 +1,14 @@
+[
+    [
+        1589,
+        [],
+        "Sale Sharks' second-row Bryn Evans has signed a new three-year deal."
+    ],
+    "Write a short summary for the following passage:\nThe New Zealander, 31, moved to Sale last season from French side Biarritz after three seasons in the Premiership with London Irish.\nHe has played Super Rugby for Blues and Hurricanes and won two caps for the All Blacks in 2009, both against France.\n\"Bryn was outstanding during his first season and was a model of consistency for us, just missing one game,\" said Sale's director of rugby Steve Diamond.\n\"He is highly respected within the squad and is just the type of player we need to help us achieve our ambitions.\"\nHe joins new captain Josh Beaumont and full-back Mike Haley in signing new deals with the Sharks in July.\nSummary:\n",
+    {
+        "id": 1589,
+        "document": "The New Zealander, 31, moved to Sale last season from French side Biarritz after three seasons in the Premiership with London Irish.\nHe has played Super Rugby for Blues and Hurricanes and won two caps for the All Blacks in 2009, both against France.\n\"Bryn was outstanding during his first season and was a model of consistency for us, just missing one game,\" said Sale's director of rugby Steve Diamond.\n\"He is highly respected within the squad and is just the type of player we need to help us achieve our ambitions.\"\nHe joins new captain Josh Beaumont and full-back Mike Haley in signing new deals with the Sharks in July.",
+        "summary": "Sale Sharks' second-row Bryn Evans has signed a new three-year deal.",
+        "label": "Sale Sharks' second-row Bryn Evans has signed a new three-year deal."
+    }
+]

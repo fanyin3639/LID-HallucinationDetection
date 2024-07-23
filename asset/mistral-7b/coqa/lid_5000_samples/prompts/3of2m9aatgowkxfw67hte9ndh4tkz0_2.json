@@ -1,0 +1,19 @@
+[
+    [
+        125,
+        [],
+        "sports"
+    ],
+    "Answer the following questions:\nContext: Wang Bing is a 12-year-old boy. He likes sports very much and does well in sports. One afternoon, he comes out of the classroom and sees his father waiting for him at the school gate. He is very glad and he runs to his father. \"Dad, please don't wait for me after school next time. I can go home by myself . I have grown up.\" says Wang Bing. \"Let's go,\" says the father, \"I'll cook supper and you can do your homework at home: Mum is still at work.\"On their way home, Wang Bing sees some boys skating in a park. \"Can I go and learn skating. Dad?\" asks Wang Bing. \"I'm sorry, my boy. You must go home and do your homework,\" answers his father, \"but I can buy you an ice-cream.\" Then his father buys an ice-cream for him. When Wang Bing wants to eat it, a fly flies to the ice-cream. \"Drive off the fly,' says his father, \"it's very dirty .\"But Wang Bing says with a smile. \"You don't let me skate, but can you let him skate for a while ?\"\n'Question': What is he good at?\n'Answer: '",
+    {
+        "id": "3of2m9aatgowkxfw67hte9ndh4tkz0_2",
+        "summary": "Wang Bing is a 12-year-old boy. He likes sports very much and does well in sports. One afternoon, he comes out of the classroom and sees his father waiting for him at the school gate. He is very glad and he runs to his father. \"Dad, please don't wait for me after school next time. I can go home by myself . I have grown up.\" says Wang Bing. \"Let's go,\" says the father, \"I'll cook supper and you can do your homework at home: Mum is still at work.\"On their way home, Wang Bing sees some boys skating in a park. \"Can I go and learn skating. Dad?\" asks Wang Bing. \"I'm sorry, my boy. You must go home and do your homework,\" answers his father, \"but I can buy you an ice-cream.\" Then his father buys an ice-cream for him. When Wang Bing wants to eat it, a fly flies to the ice-cream. \"Drive off the fly,' says his father, \"it's very dirty .\"But Wang Bing says with a smile. \"You don't let me skate, but can you let him skate for a while ?\"",
+        "question": "What is he good at?",
+        "label": "sports",
+        "additional_answers": [
+            "sports",
+            "sports.",
+            "sports"
+        ]
+    }
+]

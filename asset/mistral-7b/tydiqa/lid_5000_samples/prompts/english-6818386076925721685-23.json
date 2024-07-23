@@ -1,0 +1,15 @@
+[
+    [
+        914,
+        [],
+        "Leonardo"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In the 1990 film adaptation, Raphael is voiced by Josh Pais. He speaks with a distinctive tough-sounding New York accent (that was imitated in the later versions of TMNT), and is the turtle whose character is explored most completely. He has a quick temper, uses profanity and verbally challenges his older brother Leonardo. This film focuses more so on his feeling of isolation from his brothers and sense of regret and anger when Splinter is eventually captured from the Shredder. Here, it is established that he shares a closer relationship with news reporter April O'Neil having saved her from the Foot Clan on several occasions. Question: Who was the oldest turtle in TMNT? Answer:",
+    {
+        "id": "english-6818386076925721685-23",
+        "lang": "english",
+        "summary": "In the 1990 film adaptation, Raphael is voiced by Josh Pais. He speaks with a distinctive tough-sounding New York accent (that was imitated in the later versions of TMNT), and is the turtle whose character is explored most completely. He has a quick temper, uses profanity and verbally challenges his older brother Leonardo. This film focuses more so on his feeling of isolation from his brothers and sense of regret and anger when Splinter is eventually captured from the Shredder. Here, it is established that he shares a closer relationship with news reporter April O'Neil having saved her from the Foot Clan on several occasions.",
+        "question": "Who was the oldest turtle in TMNT?",
+        "label": "Leonardo"
+    }
+]

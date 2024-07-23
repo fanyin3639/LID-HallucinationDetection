@@ -1,0 +1,14 @@
+[
+    [
+        1161,
+        [],
+        "A man has been charged with attempted murder after a jogger was assaulted."
+    ],
+    "Write a short summary for the following passage:\nThe woman was attacked while running in Tanners Lane, near Emmer Green, Reading, at about 08:00 BST on Sunday.\nShe passed a man on a skateboard and a few moments later he assaulted her, Thames Valley Police said. The victim managed to get away and hide in some brambles.\nCallum Mcphee, 28, of Chalkhouse Green Road, Kidmore End, Reading, has been charged with attempted murder.\nThe woman received treatment from a paramedic and also was treated by her GP.\nMore on this and other stories from across the South of England\nDetective Chief Inspector Lis Knight said: \"Shortly before the attack the victim was passed by a man who was riding a bicycle.\n\"We believe that this cyclist may have seen both the victim and the attacker prior to this incident.\"\nMr Mcphee appeared at Oxford Magistrates' Court and has been remanded in custody to appear at Oxford Crown Court on 25 August.\nSummary:\n",
+    {
+        "id": 1161,
+        "document": "The woman was attacked while running in Tanners Lane, near Emmer Green, Reading, at about 08:00 BST on Sunday.\nShe passed a man on a skateboard and a few moments later he assaulted her, Thames Valley Police said. The victim managed to get away and hide in some brambles.\nCallum Mcphee, 28, of Chalkhouse Green Road, Kidmore End, Reading, has been charged with attempted murder.\nThe woman received treatment from a paramedic and also was treated by her GP.\nMore on this and other stories from across the South of England\nDetective Chief Inspector Lis Knight said: \"Shortly before the attack the victim was passed by a man who was riding a bicycle.\n\"We believe that this cyclist may have seen both the victim and the attacker prior to this incident.\"\nMr Mcphee appeared at Oxford Magistrates' Court and has been remanded in custody to appear at Oxford Crown Court on 25 August.",
+        "summary": "A man has been charged with attempted murder after a jogger was assaulted.",
+        "label": "A man has been charged with attempted murder after a jogger was assaulted."
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        296,
+        [],
+        "Six"
+    ],
+    "Answer the following questions:\nContext: (CNN) -- Hashim Amla became the first South African to score a triple century in Test cricket as his side dominated No.1 ranked England at The Oval Sunday. \n\nAmla was 311 not out as South Africa declared on a massive 637 for two wickets before taking four cheap England wickets by the close of the fourth day. \n\nIt left England needing 150 runs to avoid a humiliating innings defeat with only six wickets left. \n\nAmla shared a record 377 unbroken stand for the third wicket with Jacques Kallis, who was 182 not out when captain Graeme Smith called his men in. \n\nThe previous Test best for South Africa had come from current teammate AB de Villiers, who hit 278 not out against Pakistan in Abu Dhabi in 2010-11. \n\n\"I am happy, surprised and really excited that I managed to do something that has never been done before by a South African, but the biggest pleasure is that the team is in a dominant position to win this Test match,\" Amla told gathered reports. \n\n\"I didn't dream about getting 300,\" he added. \"I've always been a person who never sets goals. In many ways that helps you because you can keep going without being limited.\" \n\nAmla batted for just over 13 hours and hit 35 fours, including a boundary off Tim Bresnan when on 299, lofting it over the infield before taking a prolonged standing ovation from the crowd. \n\nThey had seen England's much-vaunted bowling attack blunted on a docile pitch with Kallis reaching his 43rd Test ton in tandem. \n'Question': How many wickets were left?\n'Answer: '",
+    {
+        "id": "320duz38g7m1iwe9yutssn7urlfgjg_7",
+        "summary": "(CNN) -- Hashim Amla became the first South African to score a triple century in Test cricket as his side dominated No.1 ranked England at The Oval Sunday. \n\nAmla was 311 not out as South Africa declared on a massive 637 for two wickets before taking four cheap England wickets by the close of the fourth day. \n\nIt left England needing 150 runs to avoid a humiliating innings defeat with only six wickets left. \n\nAmla shared a record 377 unbroken stand for the third wicket with Jacques Kallis, who was 182 not out when captain Graeme Smith called his men in. \n\nThe previous Test best for South Africa had come from current teammate AB de Villiers, who hit 278 not out against Pakistan in Abu Dhabi in 2010-11. \n\n\"I am happy, surprised and really excited that I managed to do something that has never been done before by a South African, but the biggest pleasure is that the team is in a dominant position to win this Test match,\" Amla told gathered reports. \n\n\"I didn't dream about getting 300,\" he added. \"I've always been a person who never sets goals. In many ways that helps you because you can keep going without being limited.\" \n\nAmla batted for just over 13 hours and hit 35 fours, including a boundary off Tim Bresnan when on 299, lofting it over the infield before taking a prolonged standing ovation from the crowd. \n\nThey had seen England's much-vaunted bowling attack blunted on a docile pitch with Kallis reaching his 43rd Test ton in tandem. ",
+        "question": "How many wickets were left?",
+        "label": "Six",
+        "additional_answers": [
+            "Six",
+            "six",
+            "six"
+        ]
+    }
+]

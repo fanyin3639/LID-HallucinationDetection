@@ -1,0 +1,15 @@
+[
+    [
+        1335,
+        [],
+        "four"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Musca was one of the 12 constellations established by the Dutch astronomer Petrus Plancius from the observations of the southern sky by the Dutch explorers Pieter Dirkszoon Keyser and Frederick de Houtman, who had sailed on the first Dutch trading expedition, known as the Eerste Schipvaart, to the East Indies. De Houtman included it in his southern star catalogue in 1598 under the Dutch name De Vlieghe, \"The Fly\".[2] They assigned four stars to the constellation, with a star that would be later designated as Beta Muscae marking the head, Gamma the body, and Alpha and Delta the left and right wings, respectively.[3] It first appeared on a 35-cm-diameter  (14-in) celestial globe published in 1598 in Amsterdam by Plancius with Jodocus Hondius, though was unnamed.[4] The first depiction of this constellation in a celestial atlas was in the German cartographer Johann Bayer's Uranometria of 1603,[5] though Bayer termed it Apis\u2014 \"the Bee\", a name by which it was known for the next two centuries. A 1603 celestial globe by Willem Blaeu depicts it as providing nourishment for the nearby constellation Chamaeleon\u2014its tongue trying to catch the insect.[4] Question: How many stars are in the constellation Musca? Answer:",
+    {
+        "id": "english-8757722499972468311-2",
+        "lang": "english",
+        "summary": "Musca was one of the 12 constellations established by the Dutch astronomer Petrus Plancius from the observations of the southern sky by the Dutch explorers Pieter Dirkszoon Keyser and Frederick de Houtman, who had sailed on the first Dutch trading expedition, known as the Eerste Schipvaart, to the East Indies. De Houtman included it in his southern star catalogue in 1598 under the Dutch name De Vlieghe, \"The Fly\".[2] They assigned four stars to the constellation, with a star that would be later designated as Beta Muscae marking the head, Gamma the body, and Alpha and Delta the left and right wings, respectively.[3] It first appeared on a 35-cm-diameter  (14-in) celestial globe published in 1598 in Amsterdam by Plancius with Jodocus Hondius, though was unnamed.[4] The first depiction of this constellation in a celestial atlas was in the German cartographer Johann Bayer's Uranometria of 1603,[5] though Bayer termed it Apis\u2014 \"the Bee\", a name by which it was known for the next two centuries. A 1603 celestial globe by Willem Blaeu depicts it as providing nourishment for the nearby constellation Chamaeleon\u2014its tongue trying to catch the insect.[4]",
+        "question": "How many stars are in the constellation Musca?",
+        "label": "four"
+    }
+]

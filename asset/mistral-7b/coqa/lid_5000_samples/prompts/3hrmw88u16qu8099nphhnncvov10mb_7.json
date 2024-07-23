@@ -1,0 +1,19 @@
+[
+    [
+        367,
+        [],
+        "Saturday"
+    ],
+    "Answer the following questions:\nContext: (CNN) -- SeaWorld will resume killer whale shows while the company and two federal agencies investigate the death of a whale trainer at SeaWorld Orlando, company and federal officials announced Friday. \n\nThe shows, which were suspended at all SeaWorld locations after the death Wednesday at SeaWorld Orlando, will resume Saturday with new precautionary measures in place, said Jim Atchison, president of SeaWorld Parks & Entertainment. \n\nEarlier Friday, the Labor Department's Occupational Safety and Health Administration and the Agriculture Department's Animal and Plant Health Inspection Service announced they were looking into the death of Dawn Brancheau, 40. \n\nBrancheau was pulled underwater when a killer whale named Tilikum grabbed her ponytail. A source at SeaWorld said that after seizing her, the whale dove deep underwater. Trainers eventually had to wrangle the animal into a smaller pool before they could retrieve her body about 40 minutes later. \n\nWESH: Watch tourist's video just before attack \n\nA former head of animal training said Friday that Brancheau left herself vulnerable to attack and that she may have broken the park's training protocol. \n\n\"Dawn, if she was standing here right now, would tell you that that was her mistake in allowing that to happen,\" said former SeaWorld trainer Thad Lacinak, who had worked with Brancheau in the past, on ABC's \"Good Morning America.\" \n\nLacinak called Brancheau \"one the best killer whale trainers I ever worked with.\" \n\nStill, he said, Brancheau should not have been lying in a slideout -- a platform covered by roughly 4 inches of water -- so close to a killer whale. \n'Question': What day of the week as of this article is Seaworld reopening?\n'Answer: '",
+    {
+        "id": "3hrmw88u16qu8099nphhnncvov10mb_7",
+        "summary": "(CNN) -- SeaWorld will resume killer whale shows while the company and two federal agencies investigate the death of a whale trainer at SeaWorld Orlando, company and federal officials announced Friday. \n\nThe shows, which were suspended at all SeaWorld locations after the death Wednesday at SeaWorld Orlando, will resume Saturday with new precautionary measures in place, said Jim Atchison, president of SeaWorld Parks & Entertainment. \n\nEarlier Friday, the Labor Department's Occupational Safety and Health Administration and the Agriculture Department's Animal and Plant Health Inspection Service announced they were looking into the death of Dawn Brancheau, 40. \n\nBrancheau was pulled underwater when a killer whale named Tilikum grabbed her ponytail. A source at SeaWorld said that after seizing her, the whale dove deep underwater. Trainers eventually had to wrangle the animal into a smaller pool before they could retrieve her body about 40 minutes later. \n\nWESH: Watch tourist's video just before attack \n\nA former head of animal training said Friday that Brancheau left herself vulnerable to attack and that she may have broken the park's training protocol. \n\n\"Dawn, if she was standing here right now, would tell you that that was her mistake in allowing that to happen,\" said former SeaWorld trainer Thad Lacinak, who had worked with Brancheau in the past, on ABC's \"Good Morning America.\" \n\nLacinak called Brancheau \"one the best killer whale trainers I ever worked with.\" \n\nStill, he said, Brancheau should not have been lying in a slideout -- a platform covered by roughly 4 inches of water -- so close to a killer whale. ",
+        "question": "What day of the week as of this article is Seaworld reopening?",
+        "label": "Saturday",
+        "additional_answers": [
+            "Saturday",
+            "Saturday",
+            "Saturday"
+        ]
+    }
+]

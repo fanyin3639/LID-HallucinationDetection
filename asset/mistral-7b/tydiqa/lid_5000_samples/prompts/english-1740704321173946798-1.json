@@ -1,0 +1,15 @@
+[
+    [
+        1494,
+        [],
+        "1973"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: From 1973 through 2014, the NFL maintained a blackout policy that states that a home game cannot be televised in the team's local market if 85%  of the tickets are not sold out 72hours prior to its start time. This makes the NFL the only major professional sports league in the US that requires teams to sell out tickets in order to broadcast a game on television locally. Although nationally televised games in the other leagues are often blacked out on the national networks on which the game is airing in the local markets of the participating teams, they can still be seen on the local broadcast TV station or regional sports network that normally holds their local/regional broadcast rights. The league blackout policy has been suspended on a year-to-year basis since 2015. Question: When did the NFL first introduce its television blackout policies? Answer:",
+    {
+        "id": "english-1740704321173946798-1",
+        "lang": "english",
+        "summary": "From 1973 through 2014, the NFL maintained a blackout policy that states that a home game cannot be televised in the team's local market if 85%  of the tickets are not sold out 72hours prior to its start time. This makes the NFL the only major professional sports league in the US that requires teams to sell out tickets in order to broadcast a game on television locally. Although nationally televised games in the other leagues are often blacked out on the national networks on which the game is airing in the local markets of the participating teams, they can still be seen on the local broadcast TV station or regional sports network that normally holds their local/regional broadcast rights. The league blackout policy has been suspended on a year-to-year basis since 2015.",
+        "question": "When did the NFL first introduce its television blackout policies?",
+        "label": "1973"
+    }
+]

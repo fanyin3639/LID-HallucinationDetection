@@ -1,0 +1,15 @@
+[
+    [
+        3003,
+        [],
+        "several hundred people"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Iranians had little time to organise a defence, as the Allies achieved a tactical surprise.[2] The war began in the early morning hours of 25 August, when RAF aircraft entered Iranian airspace. They bombed targets in the cities of Tehran and Qazvin and various other towns and dropped leaflets urging the Iranians to surrender. The Soviets bombed targets in cities such as Tabriz, Ardabil and Rasht. Civilian and residential areas were hit, and several hundred people were killed and wounded.[2][17] Reza Shah refused requests by his generals to destroy the road and transportation networks, largely because he did not want to damage the infrastructure that he had painstakingly built during his reign. That contributed to the speedy victory of the Allies.[2] Question: How many people died during the Invasion of Iran? Answer:",
+    {
+        "id": "english--5390679746654650710-13",
+        "lang": "english",
+        "summary": "The Iranians had little time to organise a defence, as the Allies achieved a tactical surprise.[2] The war began in the early morning hours of 25 August, when RAF aircraft entered Iranian airspace. They bombed targets in the cities of Tehran and Qazvin and various other towns and dropped leaflets urging the Iranians to surrender. The Soviets bombed targets in cities such as Tabriz, Ardabil and Rasht. Civilian and residential areas were hit, and several hundred people were killed and wounded.[2][17] Reza Shah refused requests by his generals to destroy the road and transportation networks, largely because he did not want to damage the infrastructure that he had painstakingly built during his reign. That contributed to the speedy victory of the Allies.[2]",
+        "question": "How many people died during the Invasion of Iran?",
+        "label": "several hundred people"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        1383,
+        [],
+        "Yes"
+    ],
+    "Answer the following questions:\nContext: Once there was a beautiful fish named Asta. Asta lived in the ocean. There were lots of other fish in the ocean where Asta lived. They played all day long. \n\nOne day, a bottle floated by over the heads of Asta and his friends. They looked up and saw the bottle. \"What is it?\" said Asta's friend Sharkie. \"It looks like a bird's belly,\" said Asta. But when they swam closer, it was not a bird's belly. It was hard and clear, and there was something inside it. \n\nThe bottle floated above them. They wanted to open it. They wanted to see what was inside. So they caught the bottle and carried it down to the bottom of the ocean. They cracked it open on a rock. When they got it open, they found what was inside. It was a note. The note was written in orange crayon on white paper. Asta could not read the note. Sharkie could not read the note. They took the note to Asta's papa. \"What does it say?\" they asked. \n\nAsta's papa read the note. He told Asta and Sharkie, \"This note is from a little girl. She wants to be your friend. If you want to be her friend, we can write a note to her. But you have to find another bottle so we can send it to her.\" And that is what they did.\n'Question': did they get the bottle?\n'Answer: '",
+    {
+        "id": "3azhrg4cu4ktme1zh7c2ro3pn2430d_4",
+        "summary": "Once there was a beautiful fish named Asta. Asta lived in the ocean. There were lots of other fish in the ocean where Asta lived. They played all day long. \n\nOne day, a bottle floated by over the heads of Asta and his friends. They looked up and saw the bottle. \"What is it?\" said Asta's friend Sharkie. \"It looks like a bird's belly,\" said Asta. But when they swam closer, it was not a bird's belly. It was hard and clear, and there was something inside it. \n\nThe bottle floated above them. They wanted to open it. They wanted to see what was inside. So they caught the bottle and carried it down to the bottom of the ocean. They cracked it open on a rock. When they got it open, they found what was inside. It was a note. The note was written in orange crayon on white paper. Asta could not read the note. Sharkie could not read the note. They took the note to Asta's papa. \"What does it say?\" they asked. \n\nAsta's papa read the note. He told Asta and Sharkie, \"This note is from a little girl. She wants to be your friend. If you want to be her friend, we can write a note to her. But you have to find another bottle so we can send it to her.\" And that is what they did.",
+        "question": "did they get the bottle?",
+        "label": "Yes",
+        "additional_answers": [
+            "yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

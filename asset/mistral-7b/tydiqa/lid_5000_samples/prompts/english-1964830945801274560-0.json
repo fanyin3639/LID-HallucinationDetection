@@ -1,0 +1,15 @@
+[
+    [
+        1396,
+        [],
+        "June 1, 2019, and end on November 30, 2019"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 2019 Atlantic hurricane season is an upcoming event in the annual formation of tropical cyclones in the Northern Hemisphere. The season will officially begin on June 1, 2019, and end on November 30, 2019. These dates historically describe the period each year when most tropical cyclones form in the Atlantic basin and are adopted by convention. However, tropical cyclogenesis is possible at any time of the year. Question: When is hurricane season? Answer:",
+    {
+        "id": "english-1964830945801274560-0",
+        "lang": "english",
+        "summary": "The 2019 Atlantic hurricane season is an upcoming event in the annual formation of tropical cyclones in the Northern Hemisphere. The season will officially begin on June 1, 2019, and end on November 30, 2019. These dates historically describe the period each year when most tropical cyclones form in the Atlantic basin and are adopted by convention. However, tropical cyclogenesis is possible at any time of the year.",
+        "question": "When is hurricane season?",
+        "label": "June 1, 2019, and end on November 30, 2019"
+    }
+]

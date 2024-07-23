@@ -1,0 +1,15 @@
+[
+    [
+        1626,
+        [],
+        "in June"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: SMS Gneisenau was an armored cruiser of the German navy, part of the two-ship Scharnhorst</i>class. She was named after August von Gneisenau, a Prussian general of the Napoleonic Wars. The ship was laid down in 1904 at the AG Weser dockyard in Bremen, launched in June 1906, and completed in March 1908, at a cost of over 19million goldmarks. She was armed with a main battery of eight 21-centimetre (8.3in) guns, had a top speed of 23.6 knots (43.7km/h; 27.2mph), and displaced 12,985 metric tons (12,780 long tons; 14,314 short tons) at full combat load. Question: When was the SMS Gneisenau built? Answer:",
+    {
+        "id": "english--4166892563681170881-0",
+        "lang": "english",
+        "summary": "SMS Gneisenau was an armored cruiser of the German navy, part of the two-ship Scharnhorst</i>class. She was named after August von Gneisenau, a Prussian general of the Napoleonic Wars. The ship was laid down in 1904 at the AG Weser dockyard in Bremen, launched in June 1906, and completed in March 1908, at a cost of over 19million goldmarks. She was armed with a main battery of eight 21-centimetre (8.3in) guns, had a top speed of 23.6 knots (43.7km/h; 27.2mph), and displaced 12,985 metric tons (12,780 long tons; 14,314 short tons) at full combat load.",
+        "question": "When was the SMS Gneisenau built?",
+        "label": "in June"
+    }
+]

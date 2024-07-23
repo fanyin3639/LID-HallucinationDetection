@@ -1,0 +1,15 @@
+[
+    [
+        1867,
+        [],
+        "radon"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The WF6 molecule is octahedral with the symmetry point group of Oh. The W\u2013F bond distances are 183.2 pm.[6] Between 2.3 and 17\u00b0C, tungsten hexafluoride condenses into a pale yellow liquid having the density of 3.44 g/cm3 at 15\u00b0C. At 2.3\u00b0C it freezes into a white solid having a cubic crystalline structure, the lattice constant of 628 pm and calculated density 3.99 g/cm3. At \u22129\u00b0C this structure transforms into an orthorhombic solid with the lattice constants of a= 960.3 pm, b= 871.3 pm, and c= 504.4 pm, and the density of 4.56 g/cm3. In this phase, the W\u2013F distance is 181 pm, and the mean closest intermolecular contacts are 312 pm. Whereas WF6 gas is one of the densest gases, with the density exceeding that of the heaviest elemental gas radon (9.73 g/L), the density of WF6 in the liquid and solid state is rather moderate.[7] The vapor pressure of WF6 between \u221270\u00b0C and 17\u00b0C can be described by the equation Question: What is the heaviest gas? Answer:",
+    {
+        "id": "english-2387103436148230940-1",
+        "lang": "english",
+        "summary": "The WF6 molecule is octahedral with the symmetry point group of Oh. The W\u2013F bond distances are 183.2 pm.[6] Between 2.3 and 17\u00b0C, tungsten hexafluoride condenses into a pale yellow liquid having the density of 3.44 g/cm3 at 15\u00b0C. At 2.3\u00b0C it freezes into a white solid having a cubic crystalline structure, the lattice constant of 628 pm and calculated density 3.99 g/cm3. At \u22129\u00b0C this structure transforms into an orthorhombic solid with the lattice constants of a= 960.3 pm, b= 871.3 pm, and c= 504.4 pm, and the density of 4.56 g/cm3. In this phase, the W\u2013F distance is 181 pm, and the mean closest intermolecular contacts are 312 pm. Whereas WF6 gas is one of the densest gases, with the density exceeding that of the heaviest elemental gas radon (9.73 g/L), the density of WF6 in the liquid and solid state is rather moderate.[7] The vapor pressure of WF6 between \u221270\u00b0C and 17\u00b0C can be described by the equation",
+        "question": "What is the heaviest gas?",
+        "label": "radon"
+    }
+]

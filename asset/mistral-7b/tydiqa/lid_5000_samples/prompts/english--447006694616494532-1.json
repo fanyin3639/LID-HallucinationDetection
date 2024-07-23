@@ -1,0 +1,15 @@
+[
+    [
+        2077,
+        [],
+        "10 December"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: As per Alfred Nobel's will, the recipient is selected by the Norwegian Nobel Committee, a five-member committee appointed by the Parliament of Norway. Since 1990, the prize is awarded on 10 December in Oslo City Hall each year. The prize was formerly awarded in the Atrium of the University of Oslo Faculty of Law (1947\u20131989), the Norwegian Nobel Institute (1905\u20131946), and the Parliament (1901\u20131904). Question: When are the Peace Prizes awarded? Answer:",
+    {
+        "id": "english--447006694616494532-1",
+        "lang": "english",
+        "summary": "As per Alfred Nobel's will, the recipient is selected by the Norwegian Nobel Committee, a five-member committee appointed by the Parliament of Norway. Since 1990, the prize is awarded on 10 December in Oslo City Hall each year. The prize was formerly awarded in the Atrium of the University of Oslo Faculty of Law (1947\u20131989), the Norwegian Nobel Institute (1905\u20131946), and the Parliament (1901\u20131904).",
+        "question": "When are the Peace Prizes awarded?",
+        "label": "10 December"
+    }
+]

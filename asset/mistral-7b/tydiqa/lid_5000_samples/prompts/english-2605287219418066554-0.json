@@ -1,0 +1,15 @@
+[
+    [
+        1465,
+        [],
+        "Ukrainian Easter egg"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A pysanka (Ukrainian: \u043f\u0438\u0441\u0430\u043d\u043a\u0430, plural: pysanky) is a Ukrainian Easter egg, decorated with traditional Ukrainian folk designs using a wax-resist method.  The word pysanka comes from the verb pysaty, \"to write\" or \"to in scribe\", as the designs are not painted on, but written (inscribed) with beeswax. Question: What does pysanka mean? Answer:",
+    {
+        "id": "english-2605287219418066554-0",
+        "lang": "english",
+        "summary": "A pysanka (Ukrainian: \u043f\u0438\u0441\u0430\u043d\u043a\u0430, plural: pysanky) is a Ukrainian Easter egg, decorated with traditional Ukrainian folk designs using a wax-resist method.  The word pysanka comes from the verb pysaty, \"to write\" or \"to in scribe\", as the designs are not painted on, but written (inscribed) with beeswax.",
+        "question": "What does pysanka mean?",
+        "label": "Ukrainian Easter egg"
+    }
+]

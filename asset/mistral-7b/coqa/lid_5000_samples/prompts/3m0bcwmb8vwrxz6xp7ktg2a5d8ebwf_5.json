@@ -1,0 +1,19 @@
+[
+    [
+        330,
+        [],
+        "in his car"
+    ],
+    "Answer the following questions:\nContext: John sent for a doctor because his wife was ill. He called the doctor and made sure they would meet at five. He arrived at the doctor's at twenty to five. He thought, \"It's a little bit earlier. I'll wait for a moment. It's good to keep the time.\" Then he stopped his car in front of the doctor's. He looked around and saw a noisy square not far from here. He went there and sat down on a chair to enjoy the last light of afternoon sun and make himself quiet. He saw some children playing and some women talking to each other happily. Suddenly he heard a girl crying. He came up to her and asked some questions. Then he knew she got lost. John tried to find out her address and took her home. The girl's parents were very thankful. Then John hurried to the doctor's. The doctor said angrily when he saw him, \"You're late. Why did you keep me waiting for twenty minutes? \" John said nothing but one word--\"Sorry! \"\n'Question': How did he get to the doctor's office?\n'Answer: '",
+    {
+        "id": "3m0bcwmb8vwrxz6xp7ktg2a5d8ebwf_5",
+        "summary": "John sent for a doctor because his wife was ill. He called the doctor and made sure they would meet at five. He arrived at the doctor's at twenty to five. He thought, \"It's a little bit earlier. I'll wait for a moment. It's good to keep the time.\" Then he stopped his car in front of the doctor's. He looked around and saw a noisy square not far from here. He went there and sat down on a chair to enjoy the last light of afternoon sun and make himself quiet. He saw some children playing and some women talking to each other happily. Suddenly he heard a girl crying. He came up to her and asked some questions. Then he knew she got lost. John tried to find out her address and took her home. The girl's parents were very thankful. Then John hurried to the doctor's. The doctor said angrily when he saw him, \"You're late. Why did you keep me waiting for twenty minutes? \" John said nothing but one word--\"Sorry! \"",
+        "question": "How did he get to the doctor's office?",
+        "label": "in his car",
+        "additional_answers": [
+            "car",
+            "in his car",
+            "his car"
+        ]
+    }
+]

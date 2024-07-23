@@ -1,0 +1,15 @@
+[
+    [
+        199,
+        [],
+        "509 BC"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Roman Republic (Latin: R\u0113s p\u016bblica R\u014dm\u0101na, Classical Latin:[\u02c8re\u02d0s \u02c8pu\u02d0b.l\u026a.ka ro\u02d0\u02c8ma\u02d0.na]; Italian: Repubblica romana) was the era of classical Roman civilization beginning with the overthrow of the Roman Kingdom, traditionally dated to 509 BC, and ending in 27 BC with the establishment of the Roman Empire. It was during this period that Rome's control expanded from the city's immediate surroundings to hegemony over the entire Mediterranean world. Question: When was the Roman Republic formed? Answer:",
+    {
+        "id": "english-7826714017136283750-1",
+        "lang": "english",
+        "summary": "The Roman Republic (Latin: R\u0113s p\u016bblica R\u014dm\u0101na, Classical Latin:[\u02c8re\u02d0s \u02c8pu\u02d0b.l\u026a.ka ro\u02d0\u02c8ma\u02d0.na]; Italian: Repubblica romana) was the era of classical Roman civilization beginning with the overthrow of the Roman Kingdom, traditionally dated to 509 BC, and ending in 27 BC with the establishment of the Roman Empire. It was during this period that Rome's control expanded from the city's immediate surroundings to hegemony over the entire Mediterranean world.",
+        "question": "When was the Roman Republic formed?",
+        "label": "509 BC"
+    }
+]

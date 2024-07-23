@@ -1,0 +1,15 @@
+[
+    [
+        2223,
+        [],
+        "George de Mestral"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Swiss electrical engineer George de Mestral invented his first touch fastener when, in 1941, he went for a walk in the woods and wondered why Burdock seeds clung to his coat and dog. He discovered it could be turned into something useful.[2] He patented it in 1955 and subsequently refined and developed its practical manufacture until its commercial introduction in the late 1950s. Question: Who invented velcro? Answer:",
+    {
+        "id": "english--3570199429347280598-1",
+        "lang": "english",
+        "summary": "Swiss electrical engineer George de Mestral invented his first touch fastener when, in 1941, he went for a walk in the woods and wondered why Burdock seeds clung to his coat and dog. He discovered it could be turned into something useful.[2] He patented it in 1955 and subsequently refined and developed its practical manufacture until its commercial introduction in the late 1950s.",
+        "question": "Who invented velcro?",
+        "label": "George de Mestral"
+    }
+]

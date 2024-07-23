@@ -1,0 +1,15 @@
+[
+    [
+        1582,
+        [],
+        "Oil shale is an organic-rich fine-grained sedimentary rock containing kerogen (a solid mixture of organic chemical compounds)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Oil shale is an organic-rich fine-grained sedimentary rock containing kerogen (a solid mixture of organic chemical compounds) from which liquid hydrocarbons can be produced, called shale oil (not to be confused with tight oil\u2014crude oil occurring naturally in shales).  Shale oil is a substitute for conventional crude oil; however, extracting shale oil from oil shale is more costly than the production of conventional crude oil both financially and in terms of its environmental impact.[1] Deposits of oil shale occur around the world, including major deposits in the United States. A 2016 estimate of global deposits set the total world resources of oil shale equivalent of 6.05 trillion barrels (962billion cubic metres) of oil in place.[2] Question: How is oil shale made? Answer:",
+    {
+        "id": "english-5458072677705583455-0",
+        "lang": "english",
+        "summary": "Oil shale is an organic-rich fine-grained sedimentary rock containing kerogen (a solid mixture of organic chemical compounds) from which liquid hydrocarbons can be produced, called shale oil (not to be confused with tight oil\u2014crude oil occurring naturally in shales).  Shale oil is a substitute for conventional crude oil; however, extracting shale oil from oil shale is more costly than the production of conventional crude oil both financially and in terms of its environmental impact.[1] Deposits of oil shale occur around the world, including major deposits in the United States. A 2016 estimate of global deposits set the total world resources of oil shale equivalent of 6.05 trillion barrels (962billion cubic metres) of oil in place.[2]",
+        "question": "How is oil shale made?",
+        "label": "Oil shale is an organic-rich fine-grained sedimentary rock containing kerogen (a solid mixture of organic chemical compounds)"
+    }
+]

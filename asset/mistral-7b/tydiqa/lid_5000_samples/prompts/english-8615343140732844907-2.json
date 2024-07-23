@@ -1,0 +1,15 @@
+[
+    [
+        2038,
+        [],
+        "Gulf of St. Lawrence and along the St. Lawrence River"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: French explorer Jacques Cartier in his three voyages into the Gulf of St. Lawrence in the 1530s and 1540s conducted some of the earliest fur trading between European and First Nations peoples associated with sixteenth century and later explorations in North America. Cartier attempted limited fur trading with the First Nations in the Gulf of St. Lawrence and along the St. Lawrence River. He concentrated on trading for furs used as trimming and adornment. He overlooked the fur that would become the driving force of the fur trade in the north, the beaver pelt, which would become fashionable in Europe.[1] Question: Where was the first fur trading in North America? Answer:",
+    {
+        "id": "english-8615343140732844907-2",
+        "lang": "english",
+        "summary": "French explorer Jacques Cartier in his three voyages into the Gulf of St. Lawrence in the 1530s and 1540s conducted some of the earliest fur trading between European and First Nations peoples associated with sixteenth century and later explorations in North America. Cartier attempted limited fur trading with the First Nations in the Gulf of St. Lawrence and along the St. Lawrence River. He concentrated on trading for furs used as trimming and adornment. He overlooked the fur that would become the driving force of the fur trade in the north, the beaver pelt, which would become fashionable in Europe.[1]",
+        "question": "Where was the first fur trading in North America?",
+        "label": "Gulf of St. Lawrence and along the St. Lawrence River"
+    }
+]

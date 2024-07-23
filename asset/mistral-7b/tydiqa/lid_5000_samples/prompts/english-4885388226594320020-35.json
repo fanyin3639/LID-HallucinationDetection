@@ -1,0 +1,15 @@
+[
+    [
+        583,
+        [],
+        "Sir Ronald Ross"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Britain's Sir Ronald Ross, an army surgeon working in Secunderabad India, proved in 1897 that malaria is transmitted by mosquitoes, an event now commemorated via World Mosquito Day.[72] He was able to find pigmented malaria parasites in a mosquito that he artificially fed on a malaria patient who had crescents in his blood. He continued his research into malaria by showing that certain mosquito species (Culex fatigans) transmit malaria to sparrows and he isolated malaria parasites from the salivary glands of mosquitoes that had fed on infected birds.[73] He reported this to the British Medical Association in Edinburgh in 1898. Question: Who discovered malaria? Answer:",
+    {
+        "id": "english-4885388226594320020-35",
+        "lang": "english",
+        "summary": "Britain's Sir Ronald Ross, an army surgeon working in Secunderabad India, proved in 1897 that malaria is transmitted by mosquitoes, an event now commemorated via World Mosquito Day.[72] He was able to find pigmented malaria parasites in a mosquito that he artificially fed on a malaria patient who had crescents in his blood. He continued his research into malaria by showing that certain mosquito species (Culex fatigans) transmit malaria to sparrows and he isolated malaria parasites from the salivary glands of mosquitoes that had fed on infected birds.[73] He reported this to the British Medical Association in Edinburgh in 1898.",
+        "question": "Who discovered malaria?",
+        "label": "Sir Ronald Ross"
+    }
+]

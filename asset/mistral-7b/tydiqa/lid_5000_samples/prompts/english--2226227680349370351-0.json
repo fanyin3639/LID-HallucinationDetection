@@ -1,0 +1,15 @@
+[
+    [
+        65,
+        [],
+        "2002"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Sony Pictures Television Inc. (or SPT) is an American television production and distribution studio founded in 2002 as the successor to Columbia TriStar Television. Based in Culver City, it is a division of Sony Entertainment's Sony Pictures Entertainment and a unit of the Japanese conglomerate Sony. Question: When was Sony Pictures Television established? Answer:",
+    {
+        "id": "english--2226227680349370351-0",
+        "lang": "english",
+        "summary": "Sony Pictures Television Inc. (or SPT) is an American television production and distribution studio founded in 2002 as the successor to Columbia TriStar Television. Based in Culver City, it is a division of Sony Entertainment's Sony Pictures Entertainment and a unit of the Japanese conglomerate Sony.",
+        "question": "When was Sony Pictures Television established?",
+        "label": "2002"
+    }
+]

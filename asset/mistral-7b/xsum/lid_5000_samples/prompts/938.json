@@ -1,0 +1,14 @@
+[
+    [
+        938,
+        [],
+        "South-east Asian leaders have been in the US this week for high-level talks on tensions in the South China Sea, terrorism and climate change."
+    ],
+    "Write a short summary for the following passage:\nThe two-day meeting, which ended on Thursday, was the first time the Asean group of nations have met in the US with President Barack Obama\nBut while they were boosting co-operation, there was time for a walk around the Sunnylands estate in California where the meeting took place, and the odd selfie.\nCambodia's PM Hun Sen, who has faced criticism for threatening to punish those who insult him on social media, showed us his official side...\nAnd his more off duty side...\nSummary:\n",
+    {
+        "id": 938,
+        "document": "The two-day meeting, which ended on Thursday, was the first time the Asean group of nations have met in the US with President Barack Obama\nBut while they were boosting co-operation, there was time for a walk around the Sunnylands estate in California where the meeting took place, and the odd selfie.\nCambodia's PM Hun Sen, who has faced criticism for threatening to punish those who insult him on social media, showed us his official side...\nAnd his more off duty side...",
+        "summary": "South-east Asian leaders have been in the US this week for high-level talks on tensions in the South China Sea, terrorism and climate change.",
+        "label": "South-east Asian leaders have been in the US this week for high-level talks on tensions in the South China Sea, terrorism and climate change."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1137,
+        [],
+        "2001"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Zylom was founded in Eindhoven, the Netherlands, in 2001. Due to the success of the company it expanded fast and just a couple of years later in 2006, it was acquired by the American RealNetworks Inc.. In 2011, RealNetworks came up with one name for all their game websites, GameHouse. Zylom became part of GameHouse too, but because of the popular and well-known name of the company, it stayed Zylom for their consumers. In 2012 Zylom\u2019s  in-house game studio was closed, but Zylom still continues to develop their own game titles like the Delicious series. Question: When was Zylom Studios founded? Answer:",
+    {
+        "id": "english--3488372344248065709-12",
+        "lang": "english",
+        "summary": "Zylom was founded in Eindhoven, the Netherlands, in 2001. Due to the success of the company it expanded fast and just a couple of years later in 2006, it was acquired by the American RealNetworks Inc.. In 2011, RealNetworks came up with one name for all their game websites, GameHouse. Zylom became part of GameHouse too, but because of the popular and well-known name of the company, it stayed Zylom for their consumers. In 2012 Zylom\u2019s  in-house game studio was closed, but Zylom still continues to develop their own game titles like the Delicious series.",
+        "question": "When was Zylom Studios founded?",
+        "label": "2001"
+    }
+]

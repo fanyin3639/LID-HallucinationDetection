@@ -1,0 +1,15 @@
+[
+    [
+        2472,
+        [],
+        "30\u201340miles"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: VHF Radio waves do not travel far beyond the visual horizon, so reception distances for FM stations are usually limited to 30\u201340miles (50\u201365km) They can also be blocked by hills or buildings. Question: How far can a radio station broadcast? Answer:",
+    {
+        "id": "english-4918614432955144597-34",
+        "lang": "english",
+        "summary": "VHF Radio waves do not travel far beyond the visual horizon, so reception distances for FM stations are usually limited to 30\u201340miles (50\u201365km) They can also be blocked by hills or buildings.",
+        "question": "How far can a radio station broadcast?",
+        "label": "30\u201340miles"
+    }
+]

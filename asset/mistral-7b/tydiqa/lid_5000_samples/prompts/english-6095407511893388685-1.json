@@ -1,0 +1,15 @@
+[
+    [
+        768,
+        [],
+        "1.15 square kilometres"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: It is built on the site of the old Edo Castle. The total area including the gardens is 1.15 square kilometres (0.44sqmi)[1]. During the height of the 1980s Japanese property bubble, the palace grounds were valued by some to be more than the value of all of the real estate in the state of California.[2][3] Question: How large is the Fukiage Garden of the Tokyo Imperial Palace grounds? Answer:",
+    {
+        "id": "english-6095407511893388685-1",
+        "lang": "english",
+        "summary": "It is built on the site of the old Edo Castle. The total area including the gardens is 1.15 square kilometres (0.44sqmi)[1]. During the height of the 1980s Japanese property bubble, the palace grounds were valued by some to be more than the value of all of the real estate in the state of California.[2][3]",
+        "question": "How large is the Fukiage Garden of the Tokyo Imperial Palace grounds?",
+        "label": "1.15 square kilometres"
+    }
+]

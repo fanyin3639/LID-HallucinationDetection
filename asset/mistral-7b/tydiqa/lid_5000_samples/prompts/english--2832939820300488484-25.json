@@ -1,0 +1,15 @@
+[
+    [
+        2352,
+        [],
+        "The South Pole"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The South Pole is at an altitude of 9,300 feet (2,800m) but feels like 11,000 feet (3,400m).[29]. Centrifugal force from the spin of the planet pulls the atmosphere toward the equator. The South Pole is colder than the North Pole because of the elevation difference.[30] The North Pole is a few feet from sea level. Question: Which is colder North Pole or South Pole? Answer:",
+    {
+        "id": "english--2832939820300488484-25",
+        "lang": "english",
+        "summary": "The South Pole is at an altitude of 9,300 feet (2,800m) but feels like 11,000 feet (3,400m).[29]. Centrifugal force from the spin of the planet pulls the atmosphere toward the equator. The South Pole is colder than the North Pole because of the elevation difference.[30] The North Pole is a few feet from sea level.",
+        "question": "Which is colder North Pole or South Pole?",
+        "label": "The South Pole"
+    }
+]

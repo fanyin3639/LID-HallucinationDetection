@@ -1,0 +1,15 @@
+[
+    [
+        2867,
+        [],
+        "occurs when transplanted tissue is rejected by the recipient's immune system, which destroys the transplanted tissue"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Transplant rejection occurs when transplanted tissue is rejected by the recipient's immune system, which destroys the transplanted tissue.  Transplant rejection can be lessened by determining the molecular similitude between donor and recipient and by use of immunosuppressant drugs after transplant.[1] Question: What does transplant rejection mean? Answer:",
+    {
+        "id": "english--7768114899138885179-0",
+        "lang": "english",
+        "summary": "Transplant rejection occurs when transplanted tissue is rejected by the recipient's immune system, which destroys the transplanted tissue.  Transplant rejection can be lessened by determining the molecular similitude between donor and recipient and by use of immunosuppressant drugs after transplant.[1]",
+        "question": "What does transplant rejection mean?",
+        "label": "occurs when transplanted tissue is rejected by the recipient's immune system, which destroys the transplanted tissue"
+    }
+]

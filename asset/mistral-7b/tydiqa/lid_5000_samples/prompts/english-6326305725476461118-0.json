@@ -1,0 +1,15 @@
+[
+    [
+        253,
+        [],
+        "Angrbo\u00f0a"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In Norse mythology, J\u00f6rmungandr (Old Norse: J\u01ebrmungandr, pronounced [\u02c8j\u0254rmun\u02cc\u0261andr\u0325], meaning \"huge monster\"[1]), also known as the Midgard (World) Serpent (Old Norse: Mi\u00f0gar\u00f0sormr), is a sea serpent, the middle child of the giantess Angrbo\u00f0a and Loki. According to the Prose Edda, Odin took Loki's three children by Angrbo\u00f0a\u2014the wolf Fenrir, Hel, and J\u00f6rmungandr\u2014and tossed J\u00f6rmungandr into the great ocean that encircles Midgard.[2] The serpent grew so large that he was able to surround the earth and grasp his own tail.[2] As a result, he received the name of the Midgard Serpent or World Serpent. When he releases his tail, Ragnar\u00f6k will begin. J\u00f6rmungandr's arch-enemy is the thunder-god, Thor. It is an example of an ouroboros. Question: Who is Jormungand's mother? Answer:",
+    {
+        "id": "english-6326305725476461118-0",
+        "lang": "english",
+        "summary": "In Norse mythology, J\u00f6rmungandr (Old Norse: J\u01ebrmungandr, pronounced [\u02c8j\u0254rmun\u02cc\u0261andr\u0325], meaning \"huge monster\"[1]), also known as the Midgard (World) Serpent (Old Norse: Mi\u00f0gar\u00f0sormr), is a sea serpent, the middle child of the giantess Angrbo\u00f0a and Loki. According to the Prose Edda, Odin took Loki's three children by Angrbo\u00f0a\u2014the wolf Fenrir, Hel, and J\u00f6rmungandr\u2014and tossed J\u00f6rmungandr into the great ocean that encircles Midgard.[2] The serpent grew so large that he was able to surround the earth and grasp his own tail.[2] As a result, he received the name of the Midgard Serpent or World Serpent. When he releases his tail, Ragnar\u00f6k will begin. J\u00f6rmungandr's arch-enemy is the thunder-god, Thor. It is an example of an ouroboros.",
+        "question": "Who is Jormungand's mother?",
+        "label": "Angrbo\u00f0a"
+    }
+]

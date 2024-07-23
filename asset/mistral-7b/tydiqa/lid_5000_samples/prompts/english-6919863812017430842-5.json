@@ -1,0 +1,15 @@
+[
+    [
+        2177,
+        [],
+        "aorta"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The longest bone in the human body is the femur.[20] The largest artery is the aorta[21] and the largest vein is the inferior vena cava.[22] The largest internal organ is the liver.[23] It is also the heaviest organ, with an average of 1.6 kilograms (3.5 pounds).[24] The largest external organ, which is also the largest organ in general, is the skin.[25] The longest muscle is the sartorius muscle in the thigh.[26] The longest single nerve is the sciatic nerve in the thigh, counting its branches and axons. Question: What is the largest artery in the human body? Answer:",
+    {
+        "id": "english-6919863812017430842-5",
+        "lang": "english",
+        "summary": "The longest bone in the human body is the femur.[20] The largest artery is the aorta[21] and the largest vein is the inferior vena cava.[22] The largest internal organ is the liver.[23] It is also the heaviest organ, with an average of 1.6 kilograms (3.5 pounds).[24] The largest external organ, which is also the largest organ in general, is the skin.[25] The longest muscle is the sartorius muscle in the thigh.[26] The longest single nerve is the sciatic nerve in the thigh, counting its branches and axons.",
+        "question": "What is the largest artery in the human body?",
+        "label": "aorta"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        139,
+        [],
+        "eight years"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In the United States, the president of the United States is elected indirectly through the United States Electoral College to a four-year term, with a term limit of two terms (totaling eight years) or a maximum of ten years if the president acted as president for two years or less in a term where another was elected as president, imposed by the Twenty-second Amendment to the United States Constitution, ratified in 1951. Question: How many years are in a presidential term in US? Answer:",
+    {
+        "id": "english-1603173216096216702-10",
+        "lang": "english",
+        "summary": "In the United States, the president of the United States is elected indirectly through the United States Electoral College to a four-year term, with a term limit of two terms (totaling eight years) or a maximum of ten years if the president acted as president for two years or less in a term where another was elected as president, imposed by the Twenty-second Amendment to the United States Constitution, ratified in 1951.",
+        "question": "How many years are in a presidential term in US?",
+        "label": "eight years"
+    }
+]

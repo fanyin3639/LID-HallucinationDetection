@@ -1,0 +1,15 @@
+[
+    [
+        1327,
+        [],
+        "King Charles XII"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Despite these setbacks, Charles XII twice tried to invade Norway to force Denmark-Norway out of the war again. On November 30, 1718, King Charles XII was mortally wounded during the siege of Fredriksten Fortress in Fredrikshald, today's Halden. With his death, Swedish war efforts mostly came to a halt, although Russia continued to harass the civilian population of the Swedish coastal areas until the concluding Treaty of Nystad was finally signed in 1721. Sweden would remain a regional power of varying success until the 19th century, but the Great Northern War put an end to Sweden's time as a great power. Question: Who was the last ruler of the Swedish Empire? Answer:",
+    {
+        "id": "english--7278428454979199586-32",
+        "lang": "english",
+        "summary": "Despite these setbacks, Charles XII twice tried to invade Norway to force Denmark-Norway out of the war again. On November 30, 1718, King Charles XII was mortally wounded during the siege of Fredriksten Fortress in Fredrikshald, today's Halden. With his death, Swedish war efforts mostly came to a halt, although Russia continued to harass the civilian population of the Swedish coastal areas until the concluding Treaty of Nystad was finally signed in 1721. Sweden would remain a regional power of varying success until the 19th century, but the Great Northern War put an end to Sweden's time as a great power.",
+        "question": "Who was the last ruler of the Swedish Empire?",
+        "label": "King Charles XII"
+    }
+]

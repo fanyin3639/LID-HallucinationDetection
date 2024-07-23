@@ -1,0 +1,15 @@
+[
+    [
+        2587,
+        [],
+        "A rough estimate of the number of hermaphroditic animal species is 65,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A rough estimate of the number of hermaphroditic animal species is 65,000.[6] Since the estimated total number of animal species is 8.6 million, the percentage of animal species that are hermaphroditic is about 0.7%. Arthropods are the phylum with the largest number of species.  Most hermaphroditic species exhibit some degree of self-fertilization. The distribution of self-fertilization rates among animals is similar to that of plants, suggesting that similar processes are operating to direct the evolution of selfing in animals and plants.[6] Question: How many animals are hermaphrodites? Answer:",
+    {
+        "id": "english-7487690016733036751-2",
+        "lang": "english",
+        "summary": "A rough estimate of the number of hermaphroditic animal species is 65,000.[6] Since the estimated total number of animal species is 8.6 million, the percentage of animal species that are hermaphroditic is about 0.7%. Arthropods are the phylum with the largest number of species.  Most hermaphroditic species exhibit some degree of self-fertilization. The distribution of self-fertilization rates among animals is similar to that of plants, suggesting that similar processes are operating to direct the evolution of selfing in animals and plants.[6]",
+        "question": "How many animals are hermaphrodites?",
+        "label": "A rough estimate of the number of hermaphroditic animal species is 65,000"
+    }
+]

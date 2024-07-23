@@ -1,0 +1,15 @@
+[
+    [
+        2389,
+        [],
+        "Mao Zedong"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mao Zedong was the first to hold the office of State Chairman. He was elected at the founding session of the National People's Congress in 1955. At the 2nd NPC in 1959, Mao was succeeded by Liu Shaoqi, first Vice Chairman of the Communist Party. Liu was reelected as State Chairman at the 3rd NPC in Jan 1965. However, in 1966, Mao launched the Cultural Revolution and by August 1966 Mao and his supporters succeeding in removing Liu from his position as party Vice Chairman. A few months later Liu was apparently placed under house arrest, and after a prolonged power struggle the 12th Plenum of the 8th Communist Party Congress stripped Liu Shaoqi of all his party and non-party positions on 31 October 1968, including the post of State Chairman.  This was in violation of the Constitution, which required a vote by the NPC to remove the State Chairman. Question: Who was the first president of the People's Republic of China? Answer:",
+    {
+        "id": "english-9056403167679676010-16",
+        "lang": "english",
+        "summary": "Mao Zedong was the first to hold the office of State Chairman. He was elected at the founding session of the National People's Congress in 1955. At the 2nd NPC in 1959, Mao was succeeded by Liu Shaoqi, first Vice Chairman of the Communist Party. Liu was reelected as State Chairman at the 3rd NPC in Jan 1965. However, in 1966, Mao launched the Cultural Revolution and by August 1966 Mao and his supporters succeeding in removing Liu from his position as party Vice Chairman. A few months later Liu was apparently placed under house arrest, and after a prolonged power struggle the 12th Plenum of the 8th Communist Party Congress stripped Liu Shaoqi of all his party and non-party positions on 31 October 1968, including the post of State Chairman.  This was in violation of the Constitution, which required a vote by the NPC to remove the State Chairman.",
+        "question": "Who was the first president of the People's Republic of China?",
+        "label": "Mao Zedong"
+    }
+]

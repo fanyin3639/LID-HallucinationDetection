@@ -1,0 +1,14 @@
+[
+    [
+        677,
+        [],
+        "A man has died after he was hit by a car in County Londonderry."
+    ],
+    "Write a short summary for the following passage:\nThe pedestrian, who police believe was 20 years old, was involved in a collision on the Tirkeeran Road in Garvagh at about 07:40 GMT on Thursday.\nPolice have asked for anyone who witnessed the incident to contact them. The road has re-opened.\nSummary:\n",
+    {
+        "id": 677,
+        "document": "The pedestrian, who police believe was 20 years old, was involved in a collision on the Tirkeeran Road in Garvagh at about 07:40 GMT on Thursday.\nPolice have asked for anyone who witnessed the incident to contact them. The road has re-opened.",
+        "summary": "A man has died after he was hit by a car in County Londonderry.",
+        "label": "A man has died after he was hit by a car in County Londonderry."
+    }
+]

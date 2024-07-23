@@ -1,0 +1,19 @@
+[
+    [
+        1032,
+        [],
+        "The agreement about a frontier dispute with Chile"
+    ],
+    "Answer the following questions:\nContext: Argentina is subdivided into twenty-three provinces (, singular \"provincia\") and one autonomous city (\"ciudad aut\u00f3noma\"), Buenos Aires, which is the federal capital of the nation () as decided by Congress. The provinces and the capital have their own constitutions, but exist under a federal system. \n\nDuring the War of Independence the main cities and their surrounding countrysides became provinces though the intervention of their \"cabildos\". The Anarchy of the Year XX completed this process, shaping the original thirteen provinces. Jujuy seceded from Salta in 1834, and the thirteen provinces became fourteen. After seceding for a decade, Buenos Aires Province accepted the 1853 Constitution of Argentina in 1861, and its capital city was made a federal territory in 1880. \n\nA law from 1862 designated as national territories those under federal control but outside the frontiers of the provinces. In 1884 they served as bases for the establishment of the governorates of Misiones, Formosa, Chaco, La Pampa, Neuqu\u00e9n, R\u00edo Negro, Chubut, Santa Cruz and Tierra del Fuego. The agreement about a frontier dispute with Chile in 1900 created the National Territory of Los Andes; its lands were incorporated into Jujuy, Salta and Catamarca in 1943. La Pampa and Chaco became provinces in 1951. Misiones did so in 1953, and Formosa, Neuqu\u00e9n, R\u00edo Negro, Chubut and Santa Cruz, in 1955. The last national territory, Tierra del Fuego, became the Tierra del Fuego, Ant\u00e1rtida e Islas del Atl\u00e1ntico Sur Province in 1990.\n'Question': what created the National Territory of Los Andes?\n'Answer: '",
+    {
+        "id": "37fmassaycr9w4ms0qgefb1xyvxibs_0",
+        "summary": "Argentina is subdivided into twenty-three provinces (, singular \"provincia\") and one autonomous city (\"ciudad aut\u00f3noma\"), Buenos Aires, which is the federal capital of the nation () as decided by Congress. The provinces and the capital have their own constitutions, but exist under a federal system. \n\nDuring the War of Independence the main cities and their surrounding countrysides became provinces though the intervention of their \"cabildos\". The Anarchy of the Year XX completed this process, shaping the original thirteen provinces. Jujuy seceded from Salta in 1834, and the thirteen provinces became fourteen. After seceding for a decade, Buenos Aires Province accepted the 1853 Constitution of Argentina in 1861, and its capital city was made a federal territory in 1880. \n\nA law from 1862 designated as national territories those under federal control but outside the frontiers of the provinces. In 1884 they served as bases for the establishment of the governorates of Misiones, Formosa, Chaco, La Pampa, Neuqu\u00e9n, R\u00edo Negro, Chubut, Santa Cruz and Tierra del Fuego. The agreement about a frontier dispute with Chile in 1900 created the National Territory of Los Andes; its lands were incorporated into Jujuy, Salta and Catamarca in 1943. La Pampa and Chaco became provinces in 1951. Misiones did so in 1953, and Formosa, Neuqu\u00e9n, R\u00edo Negro, Chubut and Santa Cruz, in 1955. The last national territory, Tierra del Fuego, became the Tierra del Fuego, Ant\u00e1rtida e Islas del Atl\u00e1ntico Sur Province in 1990.",
+        "question": "what created the National Territory of Los Andes?",
+        "label": "The agreement about a frontier dispute with Chile",
+        "additional_answers": [
+            "The agreement about a frontier dispute with Chile in 1900",
+            "An agreement about a frontier dispute",
+            "The agreement about a frontier dispute with Chile"
+        ]
+    }
+]

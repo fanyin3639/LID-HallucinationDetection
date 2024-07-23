@@ -1,0 +1,15 @@
+[
+    [
+        1665,
+        [],
+        "Division \u00c9lite"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Division \u00c9lite is the highest level of baseball in France. Its clubs compete for the Championnat de France de baseball. Question: What is the top baseball league in France? Answer:",
+    {
+        "id": "english-8247184180029509153-0",
+        "lang": "english",
+        "summary": "The Division \u00c9lite is the highest level of baseball in France. Its clubs compete for the Championnat de France de baseball.",
+        "question": "What is the top baseball league in France?",
+        "label": "Division \u00c9lite"
+    }
+]

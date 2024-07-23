@@ -1,0 +1,15 @@
+[
+    [
+        1200,
+        [],
+        "dog"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The dog was the first domesticated vertebrate,[9][10][11] and was established across Eurasia before the end of the Late Pleistocene era, well before cultivation and before the domestication of other animals.[10] The archaeological and genetic data suggest that long-term bidirectional gene flow between wild and domestic stocks \u2013 including donkeys,  horses, New and Old World camelids, goats, sheep, and pigs \u2013 was common.[7][12] Given its importance to humans and its value as a model of evolutionary and demographic change, domestication has attracted scientists from archaeology, palaeontology, anthropology, botany, zoology, genetics, and the environmental sciences.[13] Among birds, the major domestic species today is the chicken, important for meat and eggs, though economically valuable poultry include the turkey, guineafowl and numerous other species. Birds are also widely kept as cagebirds, from songbirds to parrots. The longest established invertebrate domesticates are the honey bee and the silkworm. Terrestrial snails are raised for food, while species from several phyla are kept for research, and others are bred for biological control. Question: What was the first animal to be domesticated by humans? Answer:",
+    {
+        "id": "english--780415046868691820-2",
+        "lang": "english",
+        "summary": "The dog was the first domesticated vertebrate,[9][10][11] and was established across Eurasia before the end of the Late Pleistocene era, well before cultivation and before the domestication of other animals.[10] The archaeological and genetic data suggest that long-term bidirectional gene flow between wild and domestic stocks \u2013 including donkeys,  horses, New and Old World camelids, goats, sheep, and pigs \u2013 was common.[7][12] Given its importance to humans and its value as a model of evolutionary and demographic change, domestication has attracted scientists from archaeology, palaeontology, anthropology, botany, zoology, genetics, and the environmental sciences.[13] Among birds, the major domestic species today is the chicken, important for meat and eggs, though economically valuable poultry include the turkey, guineafowl and numerous other species. Birds are also widely kept as cagebirds, from songbirds to parrots. The longest established invertebrate domesticates are the honey bee and the silkworm. Terrestrial snails are raised for food, while species from several phyla are kept for research, and others are bred for biological control.",
+        "question": "What was the first animal to be domesticated by humans?",
+        "label": "dog"
+    }
+]

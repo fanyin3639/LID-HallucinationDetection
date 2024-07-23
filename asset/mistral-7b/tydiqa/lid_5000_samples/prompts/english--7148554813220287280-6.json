@@ -1,0 +1,15 @@
+[
+    [
+        40,
+        [],
+        "Cyrus the Great"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Some historians suggest that the Achaemenid Persian Empire of ancient Iran established unprecedented principles of human rights in the 6th century BC under Cyrus the Great. After his conquest of the Neo-Babylonian Empire in 539 BC, the king issued the Cyrus cylinder, discovered in 1879 and seen by some today as the first human rights document.[11][12][13] The cylinder has been linked by some commentators to the decrees of Cyrus recorded in the Books of Chronicles, Nehemiah, and Ezra, which state that Cyrus allowed (at least some of) the Jews to return to their homeland from their Babylonian Captivity. Additionally it stated the freedom to practice one's faith without persecution and forced conversions.[14][15] Question: Who started human rights? Answer:",
+    {
+        "id": "english--7148554813220287280-6",
+        "lang": "english",
+        "summary": "Some historians suggest that the Achaemenid Persian Empire of ancient Iran established unprecedented principles of human rights in the 6th century BC under Cyrus the Great. After his conquest of the Neo-Babylonian Empire in 539 BC, the king issued the Cyrus cylinder, discovered in 1879 and seen by some today as the first human rights document.[11][12][13] The cylinder has been linked by some commentators to the decrees of Cyrus recorded in the Books of Chronicles, Nehemiah, and Ezra, which state that Cyrus allowed (at least some of) the Jews to return to their homeland from their Babylonian Captivity. Additionally it stated the freedom to practice one's faith without persecution and forced conversions.[14][15]",
+        "question": "Who started human rights?",
+        "label": "Cyrus the Great"
+    }
+]

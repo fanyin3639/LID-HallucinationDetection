@@ -1,0 +1,15 @@
+[
+    [
+        635,
+        [],
+        "7th century BC"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Latin script is the most widely used alphabetic writing system in the world.[1] It is the standard script of the English language and is often referred to simply as \"the alphabet\" in English. It is a true alphabet which originated in the 7th century BC in Italy and has changed continually over the last 2500 years. It has roots in the Semitic alphabet and its offshoot alphabets, the Phoenician, Greek, and Etruscan. The phonetic values of some letters changed, some letters were lost and gained, and several writing styles (\"hands\") developed. Two such styles, the minuscule and majuscule hands, were combined into one script with alternate forms for the lower and upper case letters. Due to classicism, modern uppercase letters differ only slightly from their classical counterparts. There are few regional variants. Question: When did the Latin alphabet develop? Answer:",
+    {
+        "id": "english--8116717799625353003-0",
+        "lang": "english",
+        "summary": "The Latin script is the most widely used alphabetic writing system in the world.[1] It is the standard script of the English language and is often referred to simply as \"the alphabet\" in English. It is a true alphabet which originated in the 7th century BC in Italy and has changed continually over the last 2500 years. It has roots in the Semitic alphabet and its offshoot alphabets, the Phoenician, Greek, and Etruscan. The phonetic values of some letters changed, some letters were lost and gained, and several writing styles (\"hands\") developed. Two such styles, the minuscule and majuscule hands, were combined into one script with alternate forms for the lower and upper case letters. Due to classicism, modern uppercase letters differ only slightly from their classical counterparts. There are few regional variants.",
+        "question": "When did the Latin alphabet develop?",
+        "label": "7th century BC"
+    }
+]

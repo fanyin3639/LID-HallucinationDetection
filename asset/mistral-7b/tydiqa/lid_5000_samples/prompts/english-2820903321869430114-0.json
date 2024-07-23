@@ -1,0 +1,15 @@
+[
+    [
+        1660,
+        [],
+        "15 February 1637"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ferdinand II (9 July 1578 \u2013 15 February 1637), a member of the House of Habsburg, was Holy Roman Emperor (1619\u20131637), King of Bohemia (1617\u20131619, 1620\u20131637), and King of Hungary (1618\u20131637). He was the son of Archduke Charles II of Inner Austria, and Maria of Bavaria. In 1590, his parents, who were devout Catholics, sent him to study at the Jesuits' college in Ingolstadt, because they wanted to isolate him from the Lutheran nobles. In the same year, he inherited Inner Austria\u2014Styria, Carinthia, Carniola and smaller provinces\u2014from his father. Rudolph II, Holy Roman Emperor, who was the head of the Habsburg family, appointed regents to administer Inner Austria on behalf of the minor Ferdinand. Question: When did Ferdinand II die? Answer:",
+    {
+        "id": "english-2820903321869430114-0",
+        "lang": "english",
+        "summary": "Ferdinand II (9 July 1578 \u2013 15 February 1637), a member of the House of Habsburg, was Holy Roman Emperor (1619\u20131637), King of Bohemia (1617\u20131619, 1620\u20131637), and King of Hungary (1618\u20131637). He was the son of Archduke Charles II of Inner Austria, and Maria of Bavaria. In 1590, his parents, who were devout Catholics, sent him to study at the Jesuits' college in Ingolstadt, because they wanted to isolate him from the Lutheran nobles. In the same year, he inherited Inner Austria\u2014Styria, Carinthia, Carniola and smaller provinces\u2014from his father. Rudolph II, Holy Roman Emperor, who was the head of the Habsburg family, appointed regents to administer Inner Austria on behalf of the minor Ferdinand.",
+        "question": "When did Ferdinand II die?",
+        "label": "15 February 1637"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1002,
+        [],
+        "Dubai"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The world's tallest artificial structure is the 829.8-metre-tall (2,722ft) Burj Khalifa in Dubai (of the United Arab Emirates). The building gained the official title of \"Tallest Building in the World\" and the tallest self-supported structure at its opening on January 9, 2010. The second-tallest self-supporting structure and the tallest tower is the Tokyo Skytree. The tallest guyed structure is the KVLY-TV mast. Question: Where is the worlds tallest building? Answer:",
+    {
+        "id": "english--5253305924911050072-0",
+        "lang": "english",
+        "summary": "The world's tallest artificial structure is the 829.8-metre-tall (2,722ft) Burj Khalifa in Dubai (of the United Arab Emirates). The building gained the official title of \"Tallest Building in the World\" and the tallest self-supported structure at its opening on January 9, 2010. The second-tallest self-supporting structure and the tallest tower is the Tokyo Skytree. The tallest guyed structure is the KVLY-TV mast.",
+        "question": "Where is the worlds tallest building?",
+        "label": "Dubai"
+    }
+]

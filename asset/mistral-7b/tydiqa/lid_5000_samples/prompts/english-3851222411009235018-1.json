@@ -1,0 +1,15 @@
+[
+    [
+        902,
+        [],
+        "1066"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The common law\u2014so named because it was \"common\" to all the king's courts across England\u2014originated in the practices of the courts of the English kings in the centuries following the Norman Conquest in 1066.[10] The British Empire spread the English legal system to its historical colonies, many of which retain the common law system today.  These \"common law systems\" are legal systems that give great precedential weight to common law, and to the style of reasoning inherited from the English legal system.[11][12][13][14] Question: When did common law originate? Answer:",
+    {
+        "id": "english-3851222411009235018-1",
+        "lang": "english",
+        "summary": "The common law\u2014so named because it was \"common\" to all the king's courts across England\u2014originated in the practices of the courts of the English kings in the centuries following the Norman Conquest in 1066.[10] The British Empire spread the English legal system to its historical colonies, many of which retain the common law system today.  These \"common law systems\" are legal systems that give great precedential weight to common law, and to the style of reasoning inherited from the English legal system.[11][12][13][14]",
+        "question": "When did common law originate?",
+        "label": "1066"
+    }
+]

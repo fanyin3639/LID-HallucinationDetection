@@ -1,0 +1,15 @@
+[
+    [
+        2604,
+        [],
+        "Sir Hugh Dowding"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The former Bentley Priory Officers' Mess, which became the Bentley Priory Museum in September 2013,[10] includes the original office of Air Chief Marshal Sir Hugh Dowding (later Lord Dowding), Air Officer Commanding-in-Chief Fighter Command during the Battle of Britain, preserved with its original furniture. Other Battle of Britain historic artefacts are kept in the Museum, including one of the few remaining Battle of Britain Lace Panels.[11] Question: Who is in charge of RAF Bentley Priory? Answer:",
+    {
+        "id": "english-1502258223950180334-49",
+        "lang": "english",
+        "summary": "The former Bentley Priory Officers' Mess, which became the Bentley Priory Museum in September 2013,[10] includes the original office of Air Chief Marshal Sir Hugh Dowding (later Lord Dowding), Air Officer Commanding-in-Chief Fighter Command during the Battle of Britain, preserved with its original furniture. Other Battle of Britain historic artefacts are kept in the Museum, including one of the few remaining Battle of Britain Lace Panels.[11]",
+        "question": "Who is in charge of RAF Bentley Priory?",
+        "label": "Sir Hugh Dowding"
+    }
+]

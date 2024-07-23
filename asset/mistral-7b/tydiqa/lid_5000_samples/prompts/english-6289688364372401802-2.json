@@ -1,0 +1,15 @@
+[
+    [
+        2438,
+        [],
+        "Kim Il-sung"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: At the end of World War II, Soviet Union occupied the northern half of Korea and in 1946 established the Provisional People's Committee for North Korea chaired by Kim Il-sung. On 9 September 1948, the DPRK was proclaimed, also led by Kim Il-sung. Question: Who was the first leader of North Korea? Answer:",
+    {
+        "id": "english-6289688364372401802-2",
+        "lang": "english",
+        "summary": "At the end of World War II, Soviet Union occupied the northern half of Korea and in 1946 established the Provisional People's Committee for North Korea chaired by Kim Il-sung. On 9 September 1948, the DPRK was proclaimed, also led by Kim Il-sung.",
+        "question": "Who was the first leader of North Korea?",
+        "label": "Kim Il-sung"
+    }
+]

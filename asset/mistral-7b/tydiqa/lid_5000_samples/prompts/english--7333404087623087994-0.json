@@ -1,0 +1,15 @@
+[
+    [
+        2268,
+        [],
+        "cacha\u00e7a (sugarcane hard liquor), sugar, and lime"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Caipirinha (Portuguese pronunciation:[kajpi\u02c8\u027e\u0129j\u0303\u0250]) is Brazil's national cocktail, made with cacha\u00e7a (sugarcane hard liquor), sugar, and lime.[2] Cacha\u00e7a,  also known as caninha, or any one of a multitude of traditional names, is Brazil's most common distilled alcoholic beverage. Although both rum and cacha\u00e7a are made from sugarcane-derived products, in cacha\u00e7a the alcohol results from the fermentation of fresh sugarcane juice that is then distilled, while rum is usually made from refinery by-products such as molasses.[3] Question: What is a caipirinha made out of? Answer:",
+    {
+        "id": "english--7333404087623087994-0",
+        "lang": "english",
+        "summary": "Caipirinha (Portuguese pronunciation:[kajpi\u02c8\u027e\u0129j\u0303\u0250]) is Brazil's national cocktail, made with cacha\u00e7a (sugarcane hard liquor), sugar, and lime.[2] Cacha\u00e7a,  also known as caninha, or any one of a multitude of traditional names, is Brazil's most common distilled alcoholic beverage. Although both rum and cacha\u00e7a are made from sugarcane-derived products, in cacha\u00e7a the alcohol results from the fermentation of fresh sugarcane juice that is then distilled, while rum is usually made from refinery by-products such as molasses.[3]",
+        "question": "What is a caipirinha made out of?",
+        "label": "cacha\u00e7a (sugarcane hard liquor), sugar, and lime"
+    }
+]

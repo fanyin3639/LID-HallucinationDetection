@@ -1,0 +1,15 @@
+[
+    [
+        1357,
+        [],
+        "1 January 1999"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The euro came into existence on 1 January 1999, although it had been a goal of the European Union (EU) and its predecessors since the 1960s. After tough negotiations, particularly due to opposition from the United Kingdom, the Maastricht Treaty entered into force in 1993 with the goal of creating an economic and monetary union by 1999 for all EU states except the UK and Denmark (even though Denmark has a fixed exchange rate policy with the euro). Question: When was the euro introduced? Answer:",
+    {
+        "id": "english--6197473673038868361-1",
+        "lang": "english",
+        "summary": "The euro came into existence on 1 January 1999, although it had been a goal of the European Union (EU) and its predecessors since the 1960s. After tough negotiations, particularly due to opposition from the United Kingdom, the Maastricht Treaty entered into force in 1993 with the goal of creating an economic and monetary union by 1999 for all EU states except the UK and Denmark (even though Denmark has a fixed exchange rate policy with the euro).",
+        "question": "When was the euro introduced?",
+        "label": "1 January 1999"
+    }
+]

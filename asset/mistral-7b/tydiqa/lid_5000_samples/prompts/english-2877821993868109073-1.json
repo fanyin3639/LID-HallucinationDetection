@@ -1,0 +1,15 @@
+[
+    [
+        606,
+        [],
+        "John Tory"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 65th and current mayor of Toronto is John Tory, in office since December 1, 2014. Question: Who is mayor of Toronto? Answer:",
+    {
+        "id": "english-2877821993868109073-1",
+        "lang": "english",
+        "summary": "The 65th and current mayor of Toronto is John Tory, in office since December 1, 2014.",
+        "question": "Who is mayor of Toronto?",
+        "label": "John Tory"
+    }
+]

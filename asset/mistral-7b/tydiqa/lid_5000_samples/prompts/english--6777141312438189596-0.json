@@ -1,0 +1,15 @@
+[
+    [
+        78,
+        [],
+        "Alexander Hamilton, James Madison, and John Jay"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Federalist (later known as The Federalist Papers) is a collection of 85 articles and essays written by Alexander Hamilton, James Madison, and John Jay under the pseudonym \"Publius\" to promote the ratification of the United States Constitution. The first 77 of these essays were published serially in the Independent Journal, the New York Packet, and The Daily Advertiser between October 1787 and April 1788.[1] A two-volume compilation of these 77 essays and eight others was published as The Federalist: A Collection of Essays, Written in Favour of the New Constitution, as Agreed upon by the Federal Convention, September 17, 1787 by publishing firm J. & A. McLean in March and May 1788.[2][3] The collection was commonly known as The Federalist until the name The Federalist Papers emerged in the 20th century. Question: Who wrote the Federalist papers? Answer:",
+    {
+        "id": "english--6777141312438189596-0",
+        "lang": "english",
+        "summary": "The Federalist (later known as The Federalist Papers) is a collection of 85 articles and essays written by Alexander Hamilton, James Madison, and John Jay under the pseudonym \"Publius\" to promote the ratification of the United States Constitution. The first 77 of these essays were published serially in the Independent Journal, the New York Packet, and The Daily Advertiser between October 1787 and April 1788.[1] A two-volume compilation of these 77 essays and eight others was published as The Federalist: A Collection of Essays, Written in Favour of the New Constitution, as Agreed upon by the Federal Convention, September 17, 1787 by publishing firm J. & A. McLean in March and May 1788.[2][3] The collection was commonly known as The Federalist until the name The Federalist Papers emerged in the 20th century.",
+        "question": "Who wrote the Federalist papers?",
+        "label": "Alexander Hamilton, James Madison, and John Jay"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        50,
+        [],
+        "coal and in tar deposits"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: PAHs are uncharged, non-polar molecules found in coal and in tar deposits.  They are also produced by the thermal decomposition of organic matter (for example, in engines and incinerators or when biomass burns in forest fires). Question: Where are polycyclic aromatic hydrocarbons found? Answer:",
+    {
+        "id": "english-8010206429852255316-1",
+        "lang": "english",
+        "summary": "PAHs are uncharged, non-polar molecules found in coal and in tar deposits.  They are also produced by the thermal decomposition of organic matter (for example, in engines and incinerators or when biomass burns in forest fires).",
+        "question": "Where are polycyclic aromatic hydrocarbons found?",
+        "label": "coal and in tar deposits"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        85,
+        [],
+        "Eight people have been injured - one of them seriously - after a two car crash near Airdrie in North Lanarkshire."
+    ],
+    "Write a short summary for the following passage:\nA Ford Fiesta and Mitsubishi Lancer collided on the B803 Coatbridge Road, near Glenmavis, at 19:50 on Thursday.\nFour people in the Mitsubishi were hurt - a man, aged 36, a woman, 33, and two boys, aged 13 and two. The man is in a serious but stable condition.\nTwo males, aged 17, and two girls, aged 14 and 15, suffered minor injuries in the Fiesta.\nPolice said that the man who was a passenger in the Mitsubishi had suffered a serious head in the crash which caused extensive damage to both vehicles.\nThe woman and children who were in the car with him were released from hospital following treatment.\nThe occupants of the Fiesta were treated for minor injuries at Monklands Hospital.\nThe road was closed for several hours as crash scene investigators examined the site.\nPolice have appealed for witnesses.\nSummary:\n",
+    {
+        "id": 85,
+        "document": "A Ford Fiesta and Mitsubishi Lancer collided on the B803 Coatbridge Road, near Glenmavis, at 19:50 on Thursday.\nFour people in the Mitsubishi were hurt - a man, aged 36, a woman, 33, and two boys, aged 13 and two. The man is in a serious but stable condition.\nTwo males, aged 17, and two girls, aged 14 and 15, suffered minor injuries in the Fiesta.\nPolice said that the man who was a passenger in the Mitsubishi had suffered a serious head in the crash which caused extensive damage to both vehicles.\nThe woman and children who were in the car with him were released from hospital following treatment.\nThe occupants of the Fiesta were treated for minor injuries at Monklands Hospital.\nThe road was closed for several hours as crash scene investigators examined the site.\nPolice have appealed for witnesses.",
+        "summary": "Eight people have been injured - one of them seriously - after a two car crash near Airdrie in North Lanarkshire.",
+        "label": "Eight people have been injured - one of them seriously - after a two car crash near Airdrie in North Lanarkshire."
+    }
+]

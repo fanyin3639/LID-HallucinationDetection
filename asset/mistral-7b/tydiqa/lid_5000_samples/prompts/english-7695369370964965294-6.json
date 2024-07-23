@@ -1,0 +1,15 @@
+[
+    [
+        2928,
+        [],
+        "Donald Trump"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Donald Trump of New York is the 45th and current president. He assumed office on January 20, 2017. Question: Who is the current president of the USA? Answer:",
+    {
+        "id": "english-7695369370964965294-6",
+        "lang": "english",
+        "summary": "Donald Trump of New York is the 45th and current president. He assumed office on January 20, 2017.",
+        "question": "Who is the current president of the USA?",
+        "label": "Donald Trump"
+    }
+]

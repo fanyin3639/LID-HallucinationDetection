@@ -1,0 +1,15 @@
+[
+    [
+        1244,
+        [],
+        "Bastet"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Bastet first appears in the third millennium BC, where she is depicted as either a fierce lioness or a woman with the head of a lioness.[12] Two thousand years later, during the Third Intermediate Period of Egypt (c. 1070\u2013712 BC), Bastet began to be depicted as a domestic cat or a cat-headed woman.[19] Question: Which Egyptian god has a cat head? Answer:",
+    {
+        "id": "english--7978299112706728956-15",
+        "lang": "english",
+        "summary": "Bastet first appears in the third millennium BC, where she is depicted as either a fierce lioness or a woman with the head of a lioness.[12] Two thousand years later, during the Third Intermediate Period of Egypt (c. 1070\u2013712 BC), Bastet began to be depicted as a domestic cat or a cat-headed woman.[19]",
+        "question": "Which Egyptian god has a cat head?",
+        "label": "Bastet"
+    }
+]

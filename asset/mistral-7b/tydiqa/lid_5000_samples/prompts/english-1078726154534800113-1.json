@@ -1,0 +1,15 @@
+[
+    [
+        2387,
+        [],
+        "1892"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The former Isisford District Hospital is a timber-framed and -clad complex with corrugated iron roofing, located in western central Queensland. Established in 1892, with additions between 1902 and 1961, it functioned as a hospital to 1970 and as a clinic until 2011. It is a fine example of a district hospital and demonstrates the evolution of Queensland district hospitals from the 1890s in accordance with changes to community needs, health practices and hospital legislation.[1] Question: When was Old Isisford District Hospital established? Answer:",
+    {
+        "id": "english-1078726154534800113-1",
+        "lang": "english",
+        "summary": "The former Isisford District Hospital is a timber-framed and -clad complex with corrugated iron roofing, located in western central Queensland. Established in 1892, with additions between 1902 and 1961, it functioned as a hospital to 1970 and as a clinic until 2011. It is a fine example of a district hospital and demonstrates the evolution of Queensland district hospitals from the 1890s in accordance with changes to community needs, health practices and hospital legislation.[1]",
+        "question": "When was Old Isisford District Hospital established?",
+        "label": "1892"
+    }
+]

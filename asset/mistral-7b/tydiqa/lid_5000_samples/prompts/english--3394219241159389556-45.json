@@ -1,0 +1,15 @@
+[
+    [
+        2058,
+        [],
+        "Gerolamo Cardano"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The solution in radicals (without trigonometric functions) of a general cubic equation contains the square roots of negative numbers when all three roots are real numbers, a situation that cannot be rectified by factoring aided by the rational root test if the cubic is irreducible (the so-called casus irreducibilis). This conundrum led Italian mathematician Gerolamo Cardano to conceive of complex numbers in around 1545,[16] though his understanding was rudimentary. Question: Who introduced the concept of complex numbers? Answer:",
+    {
+        "id": "english--3394219241159389556-45",
+        "lang": "english",
+        "summary": "The solution in radicals (without trigonometric functions) of a general cubic equation contains the square roots of negative numbers when all three roots are real numbers, a situation that cannot be rectified by factoring aided by the rational root test if the cubic is irreducible (the so-called casus irreducibilis). This conundrum led Italian mathematician Gerolamo Cardano to conceive of complex numbers in around 1545,[16] though his understanding was rudimentary.",
+        "question": "Who introduced the concept of complex numbers?",
+        "label": "Gerolamo Cardano"
+    }
+]

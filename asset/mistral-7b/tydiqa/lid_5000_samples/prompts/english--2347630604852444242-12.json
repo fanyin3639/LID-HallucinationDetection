@@ -1,0 +1,15 @@
+[
+    [
+        2069,
+        [],
+        "ninth"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On January 12, 2017, the series was renewed for a ninth season, with a two-season renewal alongside Apocalypse, and is set to air in 2019.[8] Subsequently, on August 3, 2018, the series was renewed for a tenth season, set to air in 2020.[9] Question: What season is American Horror Story on? Answer:",
+    {
+        "id": "english--2347630604852444242-12",
+        "lang": "english",
+        "summary": "On January 12, 2017, the series was renewed for a ninth season, with a two-season renewal alongside Apocalypse, and is set to air in 2019.[8] Subsequently, on August 3, 2018, the series was renewed for a tenth season, set to air in 2020.[9]",
+        "question": "What season is American Horror Story on?",
+        "label": "ninth"
+    }
+]

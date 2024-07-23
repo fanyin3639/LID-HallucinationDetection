@@ -1,0 +1,19 @@
+[
+    [
+        1440,
+        [],
+        "It was ten by twelve feet high,"
+    ],
+    "Answer the following questions:\nContext: There is a large tree in a park where all the kids in the neighborhood can hang out and play. The tree was planted in 1896 and has grown to over fifty feet tall with branches that were another thirty feet wide. Next to the tree is a jungle gym. The jungle gym has two slides, a fireman pole, a rock climbing wall, and much more. One day the kids in the neighborhood came up with the idea of building a tree house so they could spend all of their time at the park, even when it was raining outside. The children all went to their parents begging them to help and get wood. The families of the neighborhood began building the master tree house. Upon completion the tree house was ten by twelve feet high, with two windows, and plenty of space for the children to have fun. Every day during the summer that year the children played in the park and went in the tree house from sunrise to sunset every day. Fifteen years have gone by and the children are now too old to use the tree house. The tree house still sits on the tree but instead has a new group of kids that get to enjoy the house. Now the first kids have become parents and get to watch their idea live on and make the children of the neighborhood happy.\n'Question': Is the tree house spacious?\n'Answer: '",
+    {
+        "id": "3uwn2hhpuy50rrel8sf1a87enclns9_13",
+        "summary": "There is a large tree in a park where all the kids in the neighborhood can hang out and play. The tree was planted in 1896 and has grown to over fifty feet tall with branches that were another thirty feet wide. Next to the tree is a jungle gym. The jungle gym has two slides, a fireman pole, a rock climbing wall, and much more. One day the kids in the neighborhood came up with the idea of building a tree house so they could spend all of their time at the park, even when it was raining outside. The children all went to their parents begging them to help and get wood. The families of the neighborhood began building the master tree house. Upon completion the tree house was ten by twelve feet high, with two windows, and plenty of space for the children to have fun. Every day during the summer that year the children played in the park and went in the tree house from sunrise to sunset every day. Fifteen years have gone by and the children are now too old to use the tree house. The tree house still sits on the tree but instead has a new group of kids that get to enjoy the house. Now the first kids have become parents and get to watch their idea live on and make the children of the neighborhood happy.",
+        "question": "Is the tree house spacious?",
+        "label": "It was ten by twelve feet high,",
+        "additional_answers": [
+            "Yes",
+            "yes",
+            "Yes"
+        ]
+    }
+]

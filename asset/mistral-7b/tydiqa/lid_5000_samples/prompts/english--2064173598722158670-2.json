@@ -1,0 +1,15 @@
+[
+    [
+        148,
+        [],
+        "21 Provinces"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mongolia is divided into 21 Provinces (Mongolian: \u0430\u0439\u043c\u0430\u0433, often translated as aimags) and one provincial municipality. Each aimag is subdivided into several districts.[1][2] The modern provinces have been established since 1921.  The capital, Ulaanbaatar, is governed as an independent provincial municipality separate from T\u00f6v Province, inside which it is situated.  Question: How many provinces are in Mongolia? Answer:",
+    {
+        "id": "english--2064173598722158670-2",
+        "lang": "english",
+        "summary": "Mongolia is divided into 21 Provinces (Mongolian: \u0430\u0439\u043c\u0430\u0433, often translated as aimags) and one provincial municipality. Each aimag is subdivided into several districts.[1][2] The modern provinces have been established since 1921.  The capital, Ulaanbaatar, is governed as an independent provincial municipality separate from T\u00f6v Province, inside which it is situated. ",
+        "question": "How many provinces are in Mongolia?",
+        "label": "21 Provinces"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1388,
+        [],
+        "Dundee, Tayside, Scotland"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Born in Dundee, Tayside, Scotland on 17 May 1880, the son of Mr Thomas Watson of Balgowan and his wife Jane, Preston Albert Watson was a pupil of the High School of Dundee and showed considerable interest in things mechanical from an early age. Young Preston possessed an analytical mind, and quite often, he, according to the Sunday, 27 October 1984 edition of The Courier and Advertiser newspaper; Question: Where was Preston Albert Watson born? Answer:",
+    {
+        "id": "english--1327604132663416683-4",
+        "lang": "english",
+        "summary": "Born in Dundee, Tayside, Scotland on 17 May 1880, the son of Mr Thomas Watson of Balgowan and his wife Jane, Preston Albert Watson was a pupil of the High School of Dundee and showed considerable interest in things mechanical from an early age. Young Preston possessed an analytical mind, and quite often, he, according to the Sunday, 27 October 1984 edition of The Courier and Advertiser newspaper;",
+        "question": "Where was Preston Albert Watson born?",
+        "label": "Dundee, Tayside, Scotland"
+    }
+]

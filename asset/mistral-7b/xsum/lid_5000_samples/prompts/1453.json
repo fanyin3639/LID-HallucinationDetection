@@ -1,0 +1,14 @@
+[
+    [
+        1453,
+        [],
+        "London's stock market began the week higher as the pound fluctuated around the $1.30 mark."
+    ],
+    "Write a short summary for the following passage:\nThe FTSE 100 ended 25.52 points, or 0.34%, higher at 7,496.23.\nShares in Marks and Spencer led the index higher, rising 2.75% ahead of the High Street giant's results on Wednesday.\nProduct testing company Intertek also gained, jumping 2.1%, after analysts at Kepler Cheuvreux raised their rating on the company to \"buy\" from \"hold\".\nWorldpay Group was one of the biggest fallers on the index, down 2.4%, after Bryan Garnier cut its rating on the company to \"sell\" from \"neutral\".\nA change in broker ratings was also behind a 3.2% rise in Cairn Energy's shares. The FTSE 250 company was boosted after Macquarie lifted its rating to \"outperform\" from \"neutral\".\nOn the currency markets, the pound fell back below the $1.30 mark in early trade, but then recovered to stand at $1.3005, still down 0.2% for the day. Against the euro, sterling slid 0.5% to 1.1573 euros.\nSummary:\n",
+    {
+        "id": 1453,
+        "document": "The FTSE 100 ended 25.52 points, or 0.34%, higher at 7,496.23.\nShares in Marks and Spencer led the index higher, rising 2.75% ahead of the High Street giant's results on Wednesday.\nProduct testing company Intertek also gained, jumping 2.1%, after analysts at Kepler Cheuvreux raised their rating on the company to \"buy\" from \"hold\".\nWorldpay Group was one of the biggest fallers on the index, down 2.4%, after Bryan Garnier cut its rating on the company to \"sell\" from \"neutral\".\nA change in broker ratings was also behind a 3.2% rise in Cairn Energy's shares. The FTSE 250 company was boosted after Macquarie lifted its rating to \"outperform\" from \"neutral\".\nOn the currency markets, the pound fell back below the $1.30 mark in early trade, but then recovered to stand at $1.3005, still down 0.2% for the day. Against the euro, sterling slid 0.5% to 1.1573 euros.",
+        "summary": "London's stock market began the week higher as the pound fluctuated around the $1.30 mark.",
+        "label": "London's stock market began the week higher as the pound fluctuated around the $1.30 mark."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1436,
+        [],
+        "two years"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Production of Beauty and the Beast was to be completed on a compressed timeline of two years rather than the traditional four-year Disney Feature Animation production schedule; this was due to the loss of production time spent developing the earlier Purdum version of the film.[10] Most of the production was done at the main Feature Animation studio, housed in the Air Way facility in Glendale, California. A smaller team at the Disney-MGM Studios theme park in Lake Buena Vista, Florida assisted the California team on several scenes, particularly the \"Be Our Guest\" number.[12] Question: How long was production on Walt Disney Pictures' animated feature film Beauty and the Beast? Answer:",
+    {
+        "id": "english-9194218336478968499-17",
+        "lang": "english",
+        "summary": "Production of Beauty and the Beast was to be completed on a compressed timeline of two years rather than the traditional four-year Disney Feature Animation production schedule; this was due to the loss of production time spent developing the earlier Purdum version of the film.[10] Most of the production was done at the main Feature Animation studio, housed in the Air Way facility in Glendale, California. A smaller team at the Disney-MGM Studios theme park in Lake Buena Vista, Florida assisted the California team on several scenes, particularly the \"Be Our Guest\" number.[12]",
+        "question": "How long was production on Walt Disney Pictures' animated feature film Beauty and the Beast?",
+        "label": "two years"
+    }
+]

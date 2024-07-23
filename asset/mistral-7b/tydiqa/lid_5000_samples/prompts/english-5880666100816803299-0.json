@@ -1,0 +1,15 @@
+[
+    [
+        245,
+        [],
+        "is the mass of an atom"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The atomic mass (ma) is the mass of an atom. Its unit is the unified atomic mass units (abbr. u) where 1 unified atomic mass unit is defined as \u200b1\u204412 of the mass of a single carbon-12 atom, at rest.[1] For atoms, the protons and neutrons of the nucleus account for nearly all of the total mass, and the atomic mass measured in u has nearly the same value as the mass number. Question: What is atomic mass? Answer:",
+    {
+        "id": "english-5880666100816803299-0",
+        "lang": "english",
+        "summary": "The atomic mass (ma) is the mass of an atom. Its unit is the unified atomic mass units (abbr. u) where 1 unified atomic mass unit is defined as \u200b1\u204412 of the mass of a single carbon-12 atom, at rest.[1] For atoms, the protons and neutrons of the nucleus account for nearly all of the total mass, and the atomic mass measured in u has nearly the same value as the mass number.",
+        "question": "What is atomic mass?",
+        "label": "is the mass of an atom"
+    }
+]

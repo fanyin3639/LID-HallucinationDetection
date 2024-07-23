@@ -1,0 +1,15 @@
+[
+    [
+        1097,
+        [],
+        "virtual world in which the player can explore and approach objectives freely"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In video games, an open world is a virtual world in which the player can explore and approach objectives freely, as opposed to a world with more linear gameplay.[1][2] While games have used open-world designs since the 1980s, the implementation in Grand Theft Auto III (2001) set a standard that has been used since.[3] Question: What does open world mean? Answer:",
+    {
+        "id": "english--5005658620706232541-0",
+        "lang": "english",
+        "summary": "In video games, an open world is a virtual world in which the player can explore and approach objectives freely, as opposed to a world with more linear gameplay.[1][2] While games have used open-world designs since the 1980s, the implementation in Grand Theft Auto III (2001) set a standard that has been used since.[3]",
+        "question": "What does open world mean?",
+        "label": "virtual world in which the player can explore and approach objectives freely"
+    }
+]

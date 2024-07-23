@@ -1,0 +1,15 @@
+[
+    [
+        2105,
+        [],
+        "1492"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: After the arrival of Europeans in 1492, Spanish settlers consumed maize and explorers and traders carried it back to Europe and introduced it to other countries. Spanish settlers far preferred wheat bread to maize, cassava, or potatoes. Maize flour could not be substituted for wheat for communion bread, since in Christian belief only wheat could undergo transubstantiation and be transformed into the body of Christ.[17] Some Spaniards worried that by eating indigenous foods, which they did not consider nutritious, they would weaken and risk  turning into Indians. \"In the view of Europeans, it was the food they ate, even more than the environment in which they lived, that gave Amerindians and Spaniards both their distinctive physical characteristics and their characteristic personalities.\"[18] Despite these worries, Spaniards did consume maize. Archeological evidence from Florida sites indicate they cultivated it as well.[19] Question: When was corn introduced in Europe? Answer:",
+    {
+        "id": "english-2194255531023821979-11",
+        "lang": "english",
+        "summary": "After the arrival of Europeans in 1492, Spanish settlers consumed maize and explorers and traders carried it back to Europe and introduced it to other countries. Spanish settlers far preferred wheat bread to maize, cassava, or potatoes. Maize flour could not be substituted for wheat for communion bread, since in Christian belief only wheat could undergo transubstantiation and be transformed into the body of Christ.[17] Some Spaniards worried that by eating indigenous foods, which they did not consider nutritious, they would weaken and risk  turning into Indians. \"In the view of Europeans, it was the food they ate, even more than the environment in which they lived, that gave Amerindians and Spaniards both their distinctive physical characteristics and their characteristic personalities.\"[18] Despite these worries, Spaniards did consume maize. Archeological evidence from Florida sites indicate they cultivated it as well.[19]",
+        "question": "When was corn introduced in Europe?",
+        "label": "1492"
+    }
+]

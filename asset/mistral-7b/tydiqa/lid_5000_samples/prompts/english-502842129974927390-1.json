@@ -1,0 +1,15 @@
+[
+    [
+        642,
+        [],
+        "Prosthodontist"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Dental technician, a person who makes dentures Denturist or clinical dental technician, a person who makes dentures and fits them to patients Prosthodontist, a certified Dental Specialist (Dentist with additional training in removable prostheses (\"dentures\") and oral rehabilitations) Question: What is a denture specialist called? Answer:",
+    {
+        "id": "english-502842129974927390-1",
+        "lang": "english",
+        "summary": "Dental technician, a person who makes dentures Denturist or clinical dental technician, a person who makes dentures and fits them to patients Prosthodontist, a certified Dental Specialist (Dentist with additional training in removable prostheses (\"dentures\") and oral rehabilitations)",
+        "question": "What is a denture specialist called?",
+        "label": "Prosthodontist"
+    }
+]

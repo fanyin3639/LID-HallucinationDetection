@@ -1,0 +1,15 @@
+[
+    [
+        3184,
+        [],
+        "the House has elected speakers by roll call vote"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The House elects its speaker at the beginning of a new Congress (i.e. biennially, after a general election) or when a speaker dies, resigns or is removed from the position intra-term. Since 1839, the House has elected speakers by roll call vote.[6] Traditionally, each party's caucus or conference selects a candidate for the speakership from among its senior leaders prior to the roll call. Representatives are not restricted to voting for the candidate nominated by their party, but generally do, as the outcome of the election effectively determines which party has the majority and consequently will organize the House.[7] Moreover, as the Constitution does not explicitly state that the speaker must be an incumbent member of the House, it is permissible for representatives to vote for someone who is not a member of the House at the time, and non-members have received a few votes in various speaker elections over the past several years.[8] Nevertheless, every person elected speaker has been a member.[7] Question: What happens if the Speaker of the House dies? Answer:",
+    {
+        "id": "english--4872880763311192784-4",
+        "lang": "english",
+        "summary": "The House elects its speaker at the beginning of a new Congress (i.e. biennially, after a general election) or when a speaker dies, resigns or is removed from the position intra-term. Since 1839, the House has elected speakers by roll call vote.[6] Traditionally, each party's caucus or conference selects a candidate for the speakership from among its senior leaders prior to the roll call. Representatives are not restricted to voting for the candidate nominated by their party, but generally do, as the outcome of the election effectively determines which party has the majority and consequently will organize the House.[7] Moreover, as the Constitution does not explicitly state that the speaker must be an incumbent member of the House, it is permissible for representatives to vote for someone who is not a member of the House at the time, and non-members have received a few votes in various speaker elections over the past several years.[8] Nevertheless, every person elected speaker has been a member.[7]",
+        "question": "What happens if the Speaker of the House dies?",
+        "label": "the House has elected speakers by roll call vote"
+    }
+]

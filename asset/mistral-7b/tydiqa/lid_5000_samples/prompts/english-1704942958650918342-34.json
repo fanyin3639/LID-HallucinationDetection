@@ -1,0 +1,15 @@
+[
+    [
+        1589,
+        [],
+        "health care workers was discontinued in the U.S. in 1976, and among military recruits in 1990"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Given these risks, as smallpox became effectively eradicated and the number of naturally occurring cases fell below the number of vaccine-induced illnesses and deaths, routine childhood vaccination was discontinued in the United States in 1972, and was abandoned in most European countries in the early 1970s.[10][48] Routine vaccination of health care workers was discontinued in the U.S. in 1976, and among military recruits in 1990 (although military personnel deploying to the Middle East and Korea still receive the vaccination[49]). By 1986, routine vaccination had ceased in all countries.[10] It is now primarily recommended for laboratory workers at risk for occupational exposure.[22] Question: When was the smallpox vaccine discontinued in the U.S.? Answer:",
+    {
+        "id": "english-1704942958650918342-34",
+        "lang": "english",
+        "summary": "Given these risks, as smallpox became effectively eradicated and the number of naturally occurring cases fell below the number of vaccine-induced illnesses and deaths, routine childhood vaccination was discontinued in the United States in 1972, and was abandoned in most European countries in the early 1970s.[10][48] Routine vaccination of health care workers was discontinued in the U.S. in 1976, and among military recruits in 1990 (although military personnel deploying to the Middle East and Korea still receive the vaccination[49]). By 1986, routine vaccination had ceased in all countries.[10] It is now primarily recommended for laboratory workers at risk for occupational exposure.[22]",
+        "question": "When was the smallpox vaccine discontinued in the U.S.?",
+        "label": "health care workers was discontinued in the U.S. in 1976, and among military recruits in 1990"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        460,
+        [],
+        "20 November 1945 and 1 October 1946"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first and best known of these trials was that of the major war criminals before the International Military Tribunal (IMT). It was described as \"the greatest trial in history\" by Sir Norman Birkett, one of the British judges who presided over them.[1] Held between 20 November 1945 and 1 October 1946,[2] the Tribunal was given the task of trying 24 of the most important political and military leaders of the Third Reich \u2013 though the proceeding against Martin Bormann was tried in absentia, while another defendant, Robert Ley, committed suicide within a week of the trial's commencement. Question: When did the Nuremberg trials take place? Answer:",
+    {
+        "id": "english-8668310443900840116-3",
+        "lang": "english",
+        "summary": "The first and best known of these trials was that of the major war criminals before the International Military Tribunal (IMT). It was described as \"the greatest trial in history\" by Sir Norman Birkett, one of the British judges who presided over them.[1] Held between 20 November 1945 and 1 October 1946,[2] the Tribunal was given the task of trying 24 of the most important political and military leaders of the Third Reich \u2013 though the proceeding against Martin Bormann was tried in absentia, while another defendant, Robert Ley, committed suicide within a week of the trial's commencement.",
+        "question": "When did the Nuremberg trials take place?",
+        "label": "20 November 1945 and 1 October 1946"
+    }
+]

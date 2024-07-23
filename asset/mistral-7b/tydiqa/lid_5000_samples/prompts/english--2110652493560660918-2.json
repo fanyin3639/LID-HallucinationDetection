@@ -1,0 +1,15 @@
+[
+    [
+        1759,
+        [],
+        "17m (56ft) in length"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The smallest-known mosasaur was Dallasaurus turneri, which was less than 1m (3.3ft) long. Larger mosasaurs were more typical, with many species growing longer than 4m (13ft). Mosasaurus hoffmannii, the largest known species, may have reached up to 17m (56ft) in length.[3] Currently, the largest publicly exhibited mosasaur skeleton in the world is on display at the Canadian Fossil Discovery Centre in Morden, Manitoba. The specimen, nicknamed \"Bruce\", is just over 13m (43ft) long.[4] Question: How large were mososaurs? Answer:",
+    {
+        "id": "english--2110652493560660918-2",
+        "lang": "english",
+        "summary": "The smallest-known mosasaur was Dallasaurus turneri, which was less than 1m (3.3ft) long. Larger mosasaurs were more typical, with many species growing longer than 4m (13ft). Mosasaurus hoffmannii, the largest known species, may have reached up to 17m (56ft) in length.[3] Currently, the largest publicly exhibited mosasaur skeleton in the world is on display at the Canadian Fossil Discovery Centre in Morden, Manitoba. The specimen, nicknamed \"Bruce\", is just over 13m (43ft) long.[4]",
+        "question": "How large were mososaurs?",
+        "label": "17m (56ft) in length"
+    }
+]

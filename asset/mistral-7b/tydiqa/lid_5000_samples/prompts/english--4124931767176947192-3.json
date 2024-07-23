@@ -1,0 +1,15 @@
+[
+    [
+        500,
+        [],
+        "7th-century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The earliest documentary evidence of a settlement in Molesey appears in a 7th-century charter, shortly after Erkenwald founded Chertsey Abbey in AD 666. He secured from Frithwald, sub-king of Surrey, a charter endowing the abbey with much of the surrounding land, including Muleseg. Etymologists suggest that the town's name is derived from the personal name Mul (pronounced Mule) compounded with the Old English word eg, meaning an island or river meadow \u2013 thus Mul's Island. Therefore, Molesey is not, as commonly believed, named after the River Mole that runs through it. The prefixes East and West did not appear until about the year 1200, before which there was only one parish centred around what is now known as East Molesey.[2] Molesey lay within the Saxon administrative district of Elmbridge hundred. Question: When was Molesey founded? Answer:",
+    {
+        "id": "english--4124931767176947192-3",
+        "lang": "english",
+        "summary": "The earliest documentary evidence of a settlement in Molesey appears in a 7th-century charter, shortly after Erkenwald founded Chertsey Abbey in AD 666. He secured from Frithwald, sub-king of Surrey, a charter endowing the abbey with much of the surrounding land, including Muleseg. Etymologists suggest that the town's name is derived from the personal name Mul (pronounced Mule) compounded with the Old English word eg, meaning an island or river meadow \u2013 thus Mul's Island. Therefore, Molesey is not, as commonly believed, named after the River Mole that runs through it. The prefixes East and West did not appear until about the year 1200, before which there was only one parish centred around what is now known as East Molesey.[2] Molesey lay within the Saxon administrative district of Elmbridge hundred.",
+        "question": "When was Molesey founded?",
+        "label": "7th-century"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        451,
+        [],
+        "Atari"
+    ],
+    "Answer the following questions:\nContext: The designer of the Apple Computer, Steve Jobs, was not quite successful in his early years. He was not among the best students at school, and from time to time he got into trouble with either his schoolmates or his teachers. But he was full of new ideas, which few people saw the _ of. Things remained the same when he went up to college and he dropped out halfway. Steve Jobs worked first as a video game designer at Atari. He worked there for only a few months and then he set out to tour India. He hoped that the trip would give him more ideas and give him a change in life for the better. After he returned from India, he begin to live on a farm in California. And then, in 1975, Steve Jobs set about making a new type of computer. Along with his friend Stephen Wozniak, he designed the Apple Computer in his bedroom and built it in his garage . He gave the name \"Apple\" because it reminded him of a happy summer he once on an orchard in Oregon. His Apple Computer was so successful that Steve Jobs soon became worldwide famous. But unluckily, he died of illness in 2011.\n'Question': Where did he first work as?\n'Answer: '",
+    {
+        "id": "3v5q80fxixr0io4dwuggacw4l99230_5",
+        "summary": "The designer of the Apple Computer, Steve Jobs, was not quite successful in his early years. He was not among the best students at school, and from time to time he got into trouble with either his schoolmates or his teachers. But he was full of new ideas, which few people saw the _ of. Things remained the same when he went up to college and he dropped out halfway. Steve Jobs worked first as a video game designer at Atari. He worked there for only a few months and then he set out to tour India. He hoped that the trip would give him more ideas and give him a change in life for the better. After he returned from India, he begin to live on a farm in California. And then, in 1975, Steve Jobs set about making a new type of computer. Along with his friend Stephen Wozniak, he designed the Apple Computer in his bedroom and built it in his garage . He gave the name \"Apple\" because it reminded him of a happy summer he once on an orchard in Oregon. His Apple Computer was so successful that Steve Jobs soon became worldwide famous. But unluckily, he died of illness in 2011.",
+        "question": "Where did he first work as?",
+        "label": "Atari",
+        "additional_answers": [
+            "Atari",
+            "a video game designer at Atari",
+            "Atari."
+        ]
+    }
+]

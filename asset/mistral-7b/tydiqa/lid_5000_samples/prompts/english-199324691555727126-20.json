@@ -1,0 +1,15 @@
+[
+    [
+        693,
+        [],
+        "650"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: While only about 650 original Stradivari instruments (harps, guitars, violas, cellos, violins) survive, thousands of violins have been made in tribute to Stradivari, copying his model and bearing labels that read \"Stradivarius\" on them. The presence of a Stradivarius label does not confirm that the instrument is a genuine work of Stradivari.[58] Question: How many surviving Stradivarius violins are there? Answer:",
+    {
+        "id": "english-199324691555727126-20",
+        "lang": "english",
+        "summary": "While only about 650 original Stradivari instruments (harps, guitars, violas, cellos, violins) survive, thousands of violins have been made in tribute to Stradivari, copying his model and bearing labels that read \"Stradivarius\" on them. The presence of a Stradivarius label does not confirm that the instrument is a genuine work of Stradivari.[58]",
+        "question": "How many surviving Stradivarius violins are there?",
+        "label": "650"
+    }
+]

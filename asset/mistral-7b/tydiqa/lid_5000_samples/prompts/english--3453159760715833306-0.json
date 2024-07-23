@@ -1,0 +1,15 @@
+[
+    [
+        1158,
+        [],
+        "bee hummingbird"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The bee hummingbird, zunzuncito or Helena hummingbird (Mellisuga helenae) is a species of hummingbird which is the world's smallest bird.[2][3] It is endemic to Cuba and the Isle of Pines. Question: What is the smallest species of bird? Answer:",
+    {
+        "id": "english--3453159760715833306-0",
+        "lang": "english",
+        "summary": "The bee hummingbird, zunzuncito or Helena hummingbird (Mellisuga helenae) is a species of hummingbird which is the world's smallest bird.[2][3] It is endemic to Cuba and the Isle of Pines.",
+        "question": "What is the smallest species of bird?",
+        "label": "bee hummingbird"
+    }
+]

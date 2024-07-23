@@ -1,0 +1,15 @@
+[
+    [
+        124,
+        [],
+        "Michael Faraday"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1820, English scientist and inventor Michael Faraday discovered that compressing and liquefying ammonia could chill air when the liquefied ammonia was allowed to evaporate. In 1842, Florida physician John Gorrie used compressor technology to create ice, which he used to cool air for his patients in his hospital in Apalachicola, Florida. He hoped to eventually use his ice-making machine to regulate the temperature of buildings. He even envisioned centralized air conditioning that could cool entire cities. Though his prototype leaked and performed irregularly, Gorrie was granted a patent in 1851 for his ice-making machine. Though his process improved the artificial production of ice, his hopes for its success vanished soon afterwards when his chief financial backer died and Gorrie did not get the money he needed to develop the machine. According to his biographer, Vivian M. Sherlock, he blamed the \"Ice King\", Frederic Tudor, for his failure, suspecting that Tudor had launched a smear campaign against his invention. Dr. Gorrie died impoverished in 1855, and the dream of commonplace air conditioning went away for 50 years. Question: Who discovered AC? Answer:",
+    {
+        "id": "english--6587255996646010490-9",
+        "lang": "english",
+        "summary": "In 1820, English scientist and inventor Michael Faraday discovered that compressing and liquefying ammonia could chill air when the liquefied ammonia was allowed to evaporate. In 1842, Florida physician John Gorrie used compressor technology to create ice, which he used to cool air for his patients in his hospital in Apalachicola, Florida. He hoped to eventually use his ice-making machine to regulate the temperature of buildings. He even envisioned centralized air conditioning that could cool entire cities. Though his prototype leaked and performed irregularly, Gorrie was granted a patent in 1851 for his ice-making machine. Though his process improved the artificial production of ice, his hopes for its success vanished soon afterwards when his chief financial backer died and Gorrie did not get the money he needed to develop the machine. According to his biographer, Vivian M. Sherlock, he blamed the \"Ice King\", Frederic Tudor, for his failure, suspecting that Tudor had launched a smear campaign against his invention. Dr. Gorrie died impoverished in 1855, and the dream of commonplace air conditioning went away for 50 years.",
+        "question": "Who discovered AC?",
+        "label": "Michael Faraday"
+    }
+]

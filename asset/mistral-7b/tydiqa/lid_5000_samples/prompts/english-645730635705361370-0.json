@@ -1,0 +1,15 @@
+[
+    [
+        2250,
+        [],
+        "1984"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The family of Macintosh operating systems developed by Apple Inc. includes the graphical user interface-based operating systems it has designed for use with its Macintosh series of personal computers since 1984, as well as the related system software it once created for compatible third-party systems. Question: When was Mac OS first developed? Answer:",
+    {
+        "id": "english-645730635705361370-0",
+        "lang": "english",
+        "summary": "The family of Macintosh operating systems developed by Apple Inc. includes the graphical user interface-based operating systems it has designed for use with its Macintosh series of personal computers since 1984, as well as the related system software it once created for compatible third-party systems.",
+        "question": "When was Mac OS first developed?",
+        "label": "1984"
+    }
+]

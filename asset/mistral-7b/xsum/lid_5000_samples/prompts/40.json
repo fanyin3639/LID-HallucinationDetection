@@ -1,0 +1,14 @@
+[
+    [
+        40,
+        [],
+        "Middlesbrough have loaned midfielder Robbie Tinkler to National League side Gateshead until January 2018."
+    ],
+    "Write a short summary for the following passage:\nTinkler, 20, joins the Tynesiders for the first part of the season having had experience of the division with North Ferriby United last term.\nThe Teessider played 15 games and scored four goals at Grange Lane.\nHe has also played Premier League Two, Premier League Cup and PL International Cup matches for Boro's development squad at under-23 level.\nFind all the latest football transfers on our dedicated page.\nSummary:\n",
+    {
+        "id": 40,
+        "document": "Tinkler, 20, joins the Tynesiders for the first part of the season having had experience of the division with North Ferriby United last term.\nThe Teessider played 15 games and scored four goals at Grange Lane.\nHe has also played Premier League Two, Premier League Cup and PL International Cup matches for Boro's development squad at under-23 level.\nFind all the latest football transfers on our dedicated page.",
+        "summary": "Middlesbrough have loaned midfielder Robbie Tinkler to National League side Gateshead until January 2018.",
+        "label": "Middlesbrough have loaned midfielder Robbie Tinkler to National League side Gateshead until January 2018."
+    }
+]

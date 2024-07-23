@@ -1,0 +1,15 @@
+[
+    [
+        1942,
+        [],
+        "1912"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The African National Congress (ANC) is the current governing party of the Republic of South Africa. The ANC was founded in 1912 in Bloemfontein and is second the oldest liberation movement in Africa (the Natal Indian Congress was established in 1894) and one of the oldest liberation movements in the world.[1] Question: When was the ANC formed? Answer:",
+    {
+        "id": "english--7084773953116139056-0",
+        "lang": "english",
+        "summary": "The African National Congress (ANC) is the current governing party of the Republic of South Africa. The ANC was founded in 1912 in Bloemfontein and is second the oldest liberation movement in Africa (the Natal Indian Congress was established in 1894) and one of the oldest liberation movements in the world.[1]",
+        "question": "When was the ANC formed?",
+        "label": "1912"
+    }
+]

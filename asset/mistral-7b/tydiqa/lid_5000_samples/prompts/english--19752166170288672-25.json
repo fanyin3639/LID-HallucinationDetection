@@ -1,0 +1,15 @@
+[
+    [
+        464,
+        [],
+        "carry a commercial cargo"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The most testing route for steam was from Britain or the East Coast of the USA to the Far East. The distance from either is roughly the same, between 14,000 to 15,000 nautical miles (26,000 to 28,000km; 16,000 to 17,000mi), traveling down the Atlantic, round the southern tip of Africa and across the Indian Ocean.[21] Before 1866, no steamship could carry enough coal to make this voyage and have enough space left to carry a commercial cargo. Question: What was the steamship used for? Answer:",
+    {
+        "id": "english--19752166170288672-25",
+        "lang": "english",
+        "summary": "The most testing route for steam was from Britain or the East Coast of the USA to the Far East. The distance from either is roughly the same, between 14,000 to 15,000 nautical miles (26,000 to 28,000km; 16,000 to 17,000mi), traveling down the Atlantic, round the southern tip of Africa and across the Indian Ocean.[21] Before 1866, no steamship could carry enough coal to make this voyage and have enough space left to carry a commercial cargo.",
+        "question": "What was the steamship used for?",
+        "label": "carry a commercial cargo"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2271,
+        [],
+        "Braavos"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Arya arrives in Braavos and is accepted into the House of Black and White by a man who wears Jaqen H'ghar's face. After impressing Jaqen with her ability to lie undetected by convincing a terminally ill girl to drink poison, she is given the assignment of assassinating a corrupt insurance salesman. However, she is distracted from her mission by the arrival in Braavos of Ser Meryn Trant. Assuming the identity of the girl she had poisoned, Arya disguises herself as a prostitute and infiltrates a brothel, where she kills Meryn. However, when she returns to the House of Black and White she is caught by Jaqen, who chides that Arya has not dissociated from her identity and that as a result wearing another person's face will poison her. Arya is subsequently struck blind. Question: Where did Arya learn to be an assassin? Answer:",
+    {
+        "id": "english--32406382293694673-24",
+        "lang": "english",
+        "summary": "Arya arrives in Braavos and is accepted into the House of Black and White by a man who wears Jaqen H'ghar's face. After impressing Jaqen with her ability to lie undetected by convincing a terminally ill girl to drink poison, she is given the assignment of assassinating a corrupt insurance salesman. However, she is distracted from her mission by the arrival in Braavos of Ser Meryn Trant. Assuming the identity of the girl she had poisoned, Arya disguises herself as a prostitute and infiltrates a brothel, where she kills Meryn. However, when she returns to the House of Black and White she is caught by Jaqen, who chides that Arya has not dissociated from her identity and that as a result wearing another person's face will poison her. Arya is subsequently struck blind.",
+        "question": "Where did Arya learn to be an assassin?",
+        "label": "Braavos"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        386,
+        [],
+        "Max Verstappen"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Max Verstappen won the race upon his d\u00e9but for his new team Red Bull, having swapped his Toro Rosso seat with Daniil Kvyat ahead of the event. At the age of 18 years and 228 days, Verstappen became the youngest ever winner, the youngest driver to score a podium finish and the youngest ever to lead a lap of a Formula One race, breaking the previous records held by Sebastian Vettel. In the process he also became the first Dutchman to win a Grand Prix and the first Grand Prix winner born in the 1990s. Both Mercedes drivers retired from the race following a collision with each other on the first lap, thus marking the first Mercedes double retirement since the 2011 Australian Grand Prix and the first time the team had not scored a point since the 2012 United States Grand Prix. Question: Who won the 2016 Spanish Grand Prix? Answer:",
+    {
+        "id": "english-2954085269000363731-2",
+        "lang": "english",
+        "summary": "Max Verstappen won the race upon his d\u00e9but for his new team Red Bull, having swapped his Toro Rosso seat with Daniil Kvyat ahead of the event. At the age of 18 years and 228 days, Verstappen became the youngest ever winner, the youngest driver to score a podium finish and the youngest ever to lead a lap of a Formula One race, breaking the previous records held by Sebastian Vettel. In the process he also became the first Dutchman to win a Grand Prix and the first Grand Prix winner born in the 1990s. Both Mercedes drivers retired from the race following a collision with each other on the first lap, thus marking the first Mercedes double retirement since the 2011 Australian Grand Prix and the first time the team had not scored a point since the 2012 United States Grand Prix.",
+        "question": "Who won the 2016 Spanish Grand Prix?",
+        "label": "Max Verstappen"
+    }
+]

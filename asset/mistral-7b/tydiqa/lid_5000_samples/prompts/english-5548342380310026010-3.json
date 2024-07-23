@@ -1,0 +1,15 @@
+[
+    [
+        1234,
+        [],
+        "1980"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The team began in 1980 as the Reynolds team which Jos\u00e9 Miguel Echavarri as the directeur sportif.[3] In 1982 signed a young Pedro Delgado who acted as a domestique for team leader \u00c1ngel Arroyo during the 1982 Vuelta a Espa\u00f1a.[4] Arroyo won the Vuelta after his team controlled the race after he took the lead. But 48 hours after his Vuelta win, the results of a positive test were made known for Methylphenidate (Ritalin). Arroyo and the Reynolds team denied that Arroyo doped and asked for a B-analysis which confirmed the positive A-sample.  Arroyo became the first winner of the Vuelta a Espa\u00f1a to be disqualified.[5] Delgado changed teams in 1985 but returned to Reynolds in 1988 where he won the 1988 Tour de France and then the 1989 Vuelta a Espa\u00f1a with the team. In 1984, Miguel Indurain made his professional debut with the team. Question: When was UCI WorldTeam Movistar Team formed? Answer:",
+    {
+        "id": "english-5548342380310026010-3",
+        "lang": "english",
+        "summary": "The team began in 1980 as the Reynolds team which Jos\u00e9 Miguel Echavarri as the directeur sportif.[3] In 1982 signed a young Pedro Delgado who acted as a domestique for team leader \u00c1ngel Arroyo during the 1982 Vuelta a Espa\u00f1a.[4] Arroyo won the Vuelta after his team controlled the race after he took the lead. But 48 hours after his Vuelta win, the results of a positive test were made known for Methylphenidate (Ritalin). Arroyo and the Reynolds team denied that Arroyo doped and asked for a B-analysis which confirmed the positive A-sample.  Arroyo became the first winner of the Vuelta a Espa\u00f1a to be disqualified.[5] Delgado changed teams in 1985 but returned to Reynolds in 1988 where he won the 1988 Tour de France and then the 1989 Vuelta a Espa\u00f1a with the team. In 1984, Miguel Indurain made his professional debut with the team.",
+        "question": "When was UCI WorldTeam Movistar Team formed?",
+        "label": "1980"
+    }
+]

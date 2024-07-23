@@ -1,0 +1,15 @@
+[
+    [
+        1628,
+        [],
+        "Ashraf Ghani"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The President of the Islamic Republic of Afghanistan is the head of state and head of government of Afghanistan. The incumbent office holder is Ashraf Ghani.  Question: Who is the president of Afghanistan? Answer:",
+    {
+        "id": "english--2611537514497463901-1",
+        "lang": "english",
+        "summary": "The President of the Islamic Republic of Afghanistan is the head of state and head of government of Afghanistan. The incumbent office holder is Ashraf Ghani. ",
+        "question": "Who is the president of Afghanistan?",
+        "label": "Ashraf Ghani"
+    }
+]

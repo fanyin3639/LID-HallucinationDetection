@@ -1,0 +1,15 @@
+[
+    [
+        1856,
+        [],
+        "Khartoum"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Sudan (US: /su\u02c8d\u00e6n/(listen), UK: /su\u02c8d\u0251\u02d0n, -\u02c8d\u00e6n/;[9][10] Arabic: \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u200e as-S\u016bd\u0101n), officially the Republic of the Sudan[11]  (Arabic: \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u200e Jumh\u016briyyat as-S\u016bd\u0101n), is a country in Northeast Africa. It is bordered by Egypt to the north, the Red Sea to the northeast, Eritrea to the east, Ethiopia to the southeast, South Sudan to the south, the Central African Republic to the southwest, Chad to the west, and Libya to the northwest. It houses 37 million people (2017)[12] and occupies a total area of 1,861,484 square kilometres (718,722 square miles), making it the third-largest country in Africa.[13] Sudan's predominant religion is Islam,[14] and its official languages are Arabic and English. The capital is Khartoum, located at the confluence of the Blue and White Nile.  Question: What is the capital of Sudan? Answer:",
+    {
+        "id": "english--5588707575288927304-0",
+        "lang": "english",
+        "summary": "Sudan (US: /su\u02c8d\u00e6n/(listen), UK: /su\u02c8d\u0251\u02d0n, -\u02c8d\u00e6n/;[9][10] Arabic: \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u200e as-S\u016bd\u0101n), officially the Republic of the Sudan[11]  (Arabic: \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u200e Jumh\u016briyyat as-S\u016bd\u0101n), is a country in Northeast Africa. It is bordered by Egypt to the north, the Red Sea to the northeast, Eritrea to the east, Ethiopia to the southeast, South Sudan to the south, the Central African Republic to the southwest, Chad to the west, and Libya to the northwest. It houses 37 million people (2017)[12] and occupies a total area of 1,861,484 square kilometres (718,722 square miles), making it the third-largest country in Africa.[13] Sudan's predominant religion is Islam,[14] and its official languages are Arabic and English. The capital is Khartoum, located at the confluence of the Blue and White Nile. ",
+        "question": "What is the capital of Sudan?",
+        "label": "Khartoum"
+    }
+]

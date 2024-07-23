@@ -1,0 +1,15 @@
+[
+    [
+        2024,
+        [],
+        "Austronesian"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Malay is a member of the Austronesian family of languages, which includes languages from Southeast Asia and the Pacific Ocean, with a smaller number in continental Asia. Malagasy, a geographic outlier spoken in Madagascar in the Indian Ocean, is also a member of this language family. Although each language of the family is mutually unintelligible, their similarities are rather striking. Many roots have come virtually unchanged from their common ancestor, Proto-Austronesian language. There are many cognates found in the languages' words for kinship, health, body parts and common animals. Numbers, especially, show remarkable similarities. Question: What language family is Malay? Answer:",
+    {
+        "id": "english-6459457063998990801-9",
+        "lang": "english",
+        "summary": "Malay is a member of the Austronesian family of languages, which includes languages from Southeast Asia and the Pacific Ocean, with a smaller number in continental Asia. Malagasy, a geographic outlier spoken in Madagascar in the Indian Ocean, is also a member of this language family. Although each language of the family is mutually unintelligible, their similarities are rather striking. Many roots have come virtually unchanged from their common ancestor, Proto-Austronesian language. There are many cognates found in the languages' words for kinship, health, body parts and common animals. Numbers, especially, show remarkable similarities.",
+        "question": "What language family is Malay?",
+        "label": "Austronesian"
+    }
+]

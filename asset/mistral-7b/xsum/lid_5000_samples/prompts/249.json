@@ -1,0 +1,14 @@
+[
+    [
+        249,
+        [],
+        "Jobs could go under plans to mothball a coal mine in Neath Port Talbot."
+    ],
+    "Write a short summary for the following passage:\nA 30-day consultation on proposals for Aberpergwm Colliery, near Glynneath, is due to start on Friday, according to the National Union of Mineworkers South Wales branch.\nThe mine employs about 60 staff after 300 workers lost their jobs in 2012.\nIn a letter to workers, American owners Walter Energy said the proposals meant \"significant\" redundancies. They have been asked to comment.\nNeath AM Gwenda Thomas said: \"I sincerely hope that all the jobs in Aberpergwm can be saved. It is vital for the future prosperity of Wales that deep mining continues to exist.\"\nSummary:\n",
+    {
+        "id": 249,
+        "document": "A 30-day consultation on proposals for Aberpergwm Colliery, near Glynneath, is due to start on Friday, according to the National Union of Mineworkers South Wales branch.\nThe mine employs about 60 staff after 300 workers lost their jobs in 2012.\nIn a letter to workers, American owners Walter Energy said the proposals meant \"significant\" redundancies. They have been asked to comment.\nNeath AM Gwenda Thomas said: \"I sincerely hope that all the jobs in Aberpergwm can be saved. It is vital for the future prosperity of Wales that deep mining continues to exist.\"",
+        "summary": "Jobs could go under plans to mothball a coal mine in Neath Port Talbot.",
+        "label": "Jobs could go under plans to mothball a coal mine in Neath Port Talbot."
+    }
+]

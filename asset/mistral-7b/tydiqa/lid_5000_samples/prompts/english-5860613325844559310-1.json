@@ -1,0 +1,15 @@
+[
+    [
+        584,
+        [],
+        "Mehmed the Conqueror"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Construction began in 1459, ordered by Mehmed the Conqueror, six years after the conquest of Constantinople. Topkap\u0131 was originally called the \"New Palace\" (Yeni Saray or Saray-\u0131 Ced\u00eed-i \u00c2mire) to distinguish it from the Old Palace in Beyaz\u0131t Square. It was given the name Topkap\u0131, meaning Cannon Gate, in the 19th century.[5] The complex was expanded over the centuries, with major renovations after the 1509 earthquake and the 1665 fire. The palace complex consists of four main courtyards and many smaller buildings. Female members of the Sultan's family lived in the harem, and leading state officials, including the Grand vizier, held meetings in the Imperial Council building. Question: Who built the Topkapi palace? Answer:",
+    {
+        "id": "english-5860613325844559310-1",
+        "lang": "english",
+        "summary": "Construction began in 1459, ordered by Mehmed the Conqueror, six years after the conquest of Constantinople. Topkap\u0131 was originally called the \"New Palace\" (Yeni Saray or Saray-\u0131 Ced\u00eed-i \u00c2mire) to distinguish it from the Old Palace in Beyaz\u0131t Square. It was given the name Topkap\u0131, meaning Cannon Gate, in the 19th century.[5] The complex was expanded over the centuries, with major renovations after the 1509 earthquake and the 1665 fire. The palace complex consists of four main courtyards and many smaller buildings. Female members of the Sultan's family lived in the harem, and leading state officials, including the Grand vizier, held meetings in the Imperial Council building.",
+        "question": "Who built the Topkapi palace?",
+        "label": "Mehmed the Conqueror"
+    }
+]

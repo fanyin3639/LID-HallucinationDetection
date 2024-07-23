@@ -1,0 +1,15 @@
+[
+    [
+        2694,
+        [],
+        "Guildford"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Surrey has a population of approximately 1.1million people.[6] Its largest town is Guildford, with a population of 77,057 (2011 census); Woking is second with 62,796. They are followed by Ewell with 39,994 people and Camberley with 30,155. Towns of between 25,000 and 30,000 inhabitants are Ashford, Epsom, Farnham, Staines and Redhill.[7] Guildford is the historic county town,[8] although the county administration was moved to Newington in 1791 and to Kingston upon Thames in 1893. The county council's headquarters have been outside the county's boundaries since 1 April 1965, when Kingston and other areas were included within Greater London by the London Government Act 1963.[9] Question: What is the largest city in Surrey, England? Answer:",
+    {
+        "id": "english-5160156999912151719-11",
+        "lang": "english",
+        "summary": "Surrey has a population of approximately 1.1million people.[6] Its largest town is Guildford, with a population of 77,057 (2011 census); Woking is second with 62,796. They are followed by Ewell with 39,994 people and Camberley with 30,155. Towns of between 25,000 and 30,000 inhabitants are Ashford, Epsom, Farnham, Staines and Redhill.[7] Guildford is the historic county town,[8] although the county administration was moved to Newington in 1791 and to Kingston upon Thames in 1893. The county council's headquarters have been outside the county's boundaries since 1 April 1965, when Kingston and other areas were included within Greater London by the London Government Act 1963.[9]",
+        "question": "What is the largest city in Surrey, England?",
+        "label": "Guildford"
+    }
+]

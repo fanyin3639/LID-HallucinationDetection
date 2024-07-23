@@ -1,0 +1,15 @@
+[
+    [
+        29,
+        [],
+        "Emperor Gaozu of Tang"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Emperor Gaozu of Tang (7 April 566 \u2013 25 June 635), born Li Yuan, courtesy name Shude, was the founder of the Tang Dynasty of China, and the first emperor of this dynasty from 618 to 626. Under the Sui dynasty, Li Yuan was the governor in the area of modern-day Shanxi, and was based in Taiyuan. Question: Who was the first ruler of the Tang dynasty? Answer:",
+    {
+        "id": "english-3163451412262661814-0",
+        "lang": "english",
+        "summary": "Emperor Gaozu of Tang (7 April 566 \u2013 25 June 635), born Li Yuan, courtesy name Shude, was the founder of the Tang Dynasty of China, and the first emperor of this dynasty from 618 to 626. Under the Sui dynasty, Li Yuan was the governor in the area of modern-day Shanxi, and was based in Taiyuan.",
+        "question": "Who was the first ruler of the Tang dynasty?",
+        "label": "Emperor Gaozu of Tang"
+    }
+]

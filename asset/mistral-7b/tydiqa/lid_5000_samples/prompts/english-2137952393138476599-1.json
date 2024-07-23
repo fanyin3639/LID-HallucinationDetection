@@ -1,0 +1,15 @@
+[
+    [
+        2045,
+        [],
+        "tax on imports or exports between sovereign states"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A tariff is a tax on imports or exports between sovereign states. It is a form of regulation of foreign trade. It is a policy that taxes foreign products to encourage or protect domestic industry. It helps limit trade deficits. The tariff is historically used to protect infant industries and to allow import substitution industrialization. Question: What's a tariff? Answer:",
+    {
+        "id": "english-2137952393138476599-1",
+        "lang": "english",
+        "summary": "A tariff is a tax on imports or exports between sovereign states. It is a form of regulation of foreign trade. It is a policy that taxes foreign products to encourage or protect domestic industry. It helps limit trade deficits. The tariff is historically used to protect infant industries and to allow import substitution industrialization.",
+        "question": "What's a tariff?",
+        "label": "tax on imports or exports between sovereign states"
+    }
+]

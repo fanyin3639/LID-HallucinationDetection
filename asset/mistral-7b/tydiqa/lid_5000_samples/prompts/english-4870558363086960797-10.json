@@ -1,0 +1,15 @@
+[
+    [
+        2446,
+        [],
+        "Delaware River"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Similar boats were made in 1785 by John Fitch in Philadelphia and William Symington in Dumfries, Scotland. Fitch successfully trialled his boat in 1787, and in 1788, he began operating a regular commercial service along the Delaware River between Philadelphia and Burlington, New Jersey, carrying as many as 30 passengers. This boat could typically make 7 to 8 miles per hour (11 to 13km/h) and travelled more than 2,000 miles (3,200km) during its short length of service. The Fitch steamboat was not a commercial success, as this travel route was adequately covered by relatively good wagon roads. The following year, a second boat made 30-mile (48km) excursions, and in 1790, a third boat ran a series of trials on the Delaware River before patent disputes dissuaded Fitch from continuing.[6] Question: What river was the first to have a steam powered boat on it? Answer:",
+    {
+        "id": "english-4870558363086960797-10",
+        "lang": "english",
+        "summary": "Similar boats were made in 1785 by John Fitch in Philadelphia and William Symington in Dumfries, Scotland. Fitch successfully trialled his boat in 1787, and in 1788, he began operating a regular commercial service along the Delaware River between Philadelphia and Burlington, New Jersey, carrying as many as 30 passengers. This boat could typically make 7 to 8 miles per hour (11 to 13km/h) and travelled more than 2,000 miles (3,200km) during its short length of service. The Fitch steamboat was not a commercial success, as this travel route was adequately covered by relatively good wagon roads. The following year, a second boat made 30-mile (48km) excursions, and in 1790, a third boat ran a series of trials on the Delaware River before patent disputes dissuaded Fitch from continuing.[6]",
+        "question": "What river was the first to have a steam powered boat on it?",
+        "label": "Delaware River"
+    }
+]

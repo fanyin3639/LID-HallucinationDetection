@@ -1,0 +1,19 @@
+[
+    [
+        164,
+        [],
+        "a teacher"
+    ],
+    "Answer the following questions:\nContext: When William Stidger taught at Boston University, he once thought about the people he hadn't thanked in his life. They taught him, encouraged him or cared a lot about him. One was a teacher. She once taught William geography, and William loved geography all his life. So he wrote a letter of thanks to her. He got the teacher's letter later. It began, \"My dear Willie.\" He was very happy. Now over 50, he didn't think someone would call him \"Willie\". Here is that letter. My dear Willie, I can't tell you how much your letter meant to me. I am in my eighties, living alone in a small room and cooking my own meals. You will be interested to know that I taught school for 50 years and yours is the first letter of appreciation I ever got. It came on a cold morning and it made me feel very warm. ... William cried when he read the letter. She was one of the people that William hadn't thanked in his past. She helped him to believe in himself. He would never forget her. There are some people we should always remember, because they helped to shape our life. William Stidger found a way to show his appreciation--he wrote them letters. Who are some of the people that you need to say thank you to in your past? It may not be too late to say \"Thanks\".\n'Question': who was someone in his life that William wanted otothank.\n'Answer: '",
+    {
+        "id": "3xlbsaq9z4c8pi8cndska4irbksz78_0",
+        "summary": "When William Stidger taught at Boston University, he once thought about the people he hadn't thanked in his life. They taught him, encouraged him or cared a lot about him. One was a teacher. She once taught William geography, and William loved geography all his life. So he wrote a letter of thanks to her. He got the teacher's letter later. It began, \"My dear Willie.\" He was very happy. Now over 50, he didn't think someone would call him \"Willie\". Here is that letter. My dear Willie, I can't tell you how much your letter meant to me. I am in my eighties, living alone in a small room and cooking my own meals. You will be interested to know that I taught school for 50 years and yours is the first letter of appreciation I ever got. It came on a cold morning and it made me feel very warm. ... William cried when he read the letter. She was one of the people that William hadn't thanked in his past. She helped him to believe in himself. He would never forget her. There are some people we should always remember, because they helped to shape our life. William Stidger found a way to show his appreciation--he wrote them letters. Who are some of the people that you need to say thank you to in your past? It may not be too late to say \"Thanks\".",
+        "question": "who was someone in his life that William wanted otothank.",
+        "label": "a teacher",
+        "additional_answers": [
+            "a teacher.",
+            "a teacher",
+            "a teacher."
+        ]
+    }
+]

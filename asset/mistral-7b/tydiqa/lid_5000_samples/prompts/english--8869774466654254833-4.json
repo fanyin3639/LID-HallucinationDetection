@@ -1,0 +1,15 @@
+[
+    [
+        316,
+        [],
+        "First Nations people"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: As of the 2016 census, Aboriginal peoples in Canada totalled 1,673,785 people, or 4.9% of the national population, with 977,230 First Nations people, 587,545 M\u00e9tis and 65,025 Inuit. 7.7% of the population under the age of 14 are of Aboriginal descent.[1] There are over 600 recognized First Nations governments or bands with distinctive cultures, languages, art, and music.[16][17] National Indigenous Peoples Day recognizes the cultures and contributions of Aboriginal peoples to the history of Canada.[18] First Nations, Inuit and M\u00e9tis peoples of all backgrounds have become prominent figures and have served as role models in the Aboriginal community and help to shape the Canadian cultural identity.[19] Question: What is the largest indigenous tribe in Canada? Answer:",
+    {
+        "id": "english--8869774466654254833-4",
+        "lang": "english",
+        "summary": "As of the 2016 census, Aboriginal peoples in Canada totalled 1,673,785 people, or 4.9% of the national population, with 977,230 First Nations people, 587,545 M\u00e9tis and 65,025 Inuit. 7.7% of the population under the age of 14 are of Aboriginal descent.[1] There are over 600 recognized First Nations governments or bands with distinctive cultures, languages, art, and music.[16][17] National Indigenous Peoples Day recognizes the cultures and contributions of Aboriginal peoples to the history of Canada.[18] First Nations, Inuit and M\u00e9tis peoples of all backgrounds have become prominent figures and have served as role models in the Aboriginal community and help to shape the Canadian cultural identity.[19]",
+        "question": "What is the largest indigenous tribe in Canada?",
+        "label": "First Nations people"
+    }
+]

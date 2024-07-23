@@ -1,0 +1,19 @@
+[
+    [
+        10,
+        [],
+        ", professor of botany"
+    ],
+    "Answer the following questions:\nContext: In modern molecular biology and genetics, the genome is the genetic material of an organism. It consists of DNA (or RNA in RNA viruses). The genome includes both the genes and the non-coding sequences of the DNA/RNA. \n\nThe term was created in 1920 by Hans Winkler, professor of botany at the University of Hamburg, Germany. The Oxford Dictionary suggests the name to be a blend of the words gene and chromosome. However, see omics for a more thorough discussion. A few related -ome words already existed\u2014such as biome, rhizome, forming a vocabulary into which genome fits systematically. \n\nSome organisms have multiple copies of chromosomes: diploid, triploid, tetraploid and so on. In classical genetics, in a sexually reproducing organism (typically eukarya) the gamete has half the number of chromosomes of the somatic cell and the genome is a full set of chromosomes in a diploid cell. The halving of the genetic material in gametes is accomplished by the segregation of homologous chromosomes during meiosis. In haploid organisms, including cells of bacteria, archaea, and in organelles including mitochondria and chloroplasts, or viruses, that similarly contain genes, the single or set of circular or linear chains of DNA (or RNA for some viruses), likewise constitute the genome. The term genome can be applied specifically to mean what is stored on a complete set of nuclear DNA (i.e., the \"nuclear genome\") but can also be applied to what is stored within organelles that contain their own DNA, as with the \"mitochondrial genome\" or the \"chloroplast genome\". Additionally, the genome can comprise non-chromosomal genetic elements such as viruses, plasmids, and transposable elements.\n'Question': What was his profession?\n'Answer: '",
+    {
+        "id": "3z9wi9eozzoatcf20lbme2j8l1kkhs_3",
+        "summary": "In modern molecular biology and genetics, the genome is the genetic material of an organism. It consists of DNA (or RNA in RNA viruses). The genome includes both the genes and the non-coding sequences of the DNA/RNA. \n\nThe term was created in 1920 by Hans Winkler, professor of botany at the University of Hamburg, Germany. The Oxford Dictionary suggests the name to be a blend of the words gene and chromosome. However, see omics for a more thorough discussion. A few related -ome words already existed\u2014such as biome, rhizome, forming a vocabulary into which genome fits systematically. \n\nSome organisms have multiple copies of chromosomes: diploid, triploid, tetraploid and so on. In classical genetics, in a sexually reproducing organism (typically eukarya) the gamete has half the number of chromosomes of the somatic cell and the genome is a full set of chromosomes in a diploid cell. The halving of the genetic material in gametes is accomplished by the segregation of homologous chromosomes during meiosis. In haploid organisms, including cells of bacteria, archaea, and in organelles including mitochondria and chloroplasts, or viruses, that similarly contain genes, the single or set of circular or linear chains of DNA (or RNA for some viruses), likewise constitute the genome. The term genome can be applied specifically to mean what is stored on a complete set of nuclear DNA (i.e., the \"nuclear genome\") but can also be applied to what is stored within organelles that contain their own DNA, as with the \"mitochondrial genome\" or the \"chloroplast genome\". Additionally, the genome can comprise non-chromosomal genetic elements such as viruses, plasmids, and transposable elements.",
+        "question": "What was his profession?",
+        "label": ", professor of botany",
+        "additional_answers": [
+            "professor",
+            "professor of botany at the University of Hamburg",
+            "professor"
+        ]
+    }
+]

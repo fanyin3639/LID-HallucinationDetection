@@ -1,0 +1,15 @@
+[
+    [
+        1028,
+        [],
+        "formaldehyde, glutaraldehyde, methanol, and other solvent"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Typically, embalming fluid contains a mixture of formaldehyde, glutaraldehyde, methanol, and other solvents. The formaldehyde content generally ranges from 5 to 37 percent and the methanol content may range from 9 to 56 percent. Question: What chemicals are in embalming fluid? Answer:",
+    {
+        "id": "english--6089015430331988729-1",
+        "lang": "english",
+        "summary": "Typically, embalming fluid contains a mixture of formaldehyde, glutaraldehyde, methanol, and other solvents. The formaldehyde content generally ranges from 5 to 37 percent and the methanol content may range from 9 to 56 percent.",
+        "question": "What chemicals are in embalming fluid?",
+        "label": "formaldehyde, glutaraldehyde, methanol, and other solvent"
+    }
+]

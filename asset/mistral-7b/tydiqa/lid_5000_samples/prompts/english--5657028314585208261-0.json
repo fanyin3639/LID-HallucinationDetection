@@ -1,0 +1,15 @@
+[
+    [
+        2833,
+        [],
+        "Signals intelligence"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Signals intelligence (SIGINT) is intelligence-gathering by interception of signals, whether communications between people (communications intelligence\u2014abbreviated to COMINT) or from electronic signals not directly used in communication (electronic intelligence\u2014abbreviated to ELINT). Signals intelligence is a subset of intelligence collection management. Question: What does SIGINT stand for? Answer:",
+    {
+        "id": "english--5657028314585208261-0",
+        "lang": "english",
+        "summary": "Signals intelligence (SIGINT) is intelligence-gathering by interception of signals, whether communications between people (communications intelligence\u2014abbreviated to COMINT) or from electronic signals not directly used in communication (electronic intelligence\u2014abbreviated to ELINT). Signals intelligence is a subset of intelligence collection management.",
+        "question": "What does SIGINT stand for?",
+        "label": "Signals intelligence"
+    }
+]

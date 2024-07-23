@@ -1,0 +1,15 @@
+[
+    [
+        3185,
+        [],
+        "69,061"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: At the 2016 Census population of the Bundaberg Significant Urban Area was 69,061.[1] Question: What is the population of Bundaberg in Queensland? Answer:",
+    {
+        "id": "english-5718965669625264333-2",
+        "lang": "english",
+        "summary": "At the 2016 Census population of the Bundaberg Significant Urban Area was 69,061.[1]",
+        "question": "What is the population of Bundaberg in Queensland?",
+        "label": "69,061"
+    }
+]

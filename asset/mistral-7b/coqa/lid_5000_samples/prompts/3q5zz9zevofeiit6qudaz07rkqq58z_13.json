@@ -1,0 +1,19 @@
+[
+    [
+        193,
+        [],
+        "Tom"
+    ],
+    "Answer the following questions:\nContext: CHAPTER XXV \n\nWINNING THE CONTESTS \n\nPowell was again the first to throw the hammer and this time it went two feet beyond his first mark. \n\n\"Good for you, Songbird!\" said Tom. \"I wish you had made it a yard.\" \n\nJackson came up with a scowling face. He did his best, but this time fell behind Powell by four inches. \n\n\"You ought to have stuck to the other hammer, Jackson,\" laughed the youth who composed songs. \n\n\"Don't you throw that up to me!\" whispered Jackson fiercely. \"If you do I'll hammer you for it.\" \n\n\"Is that meant for a pun, Jackson?\" \n\n\"No, it ain't. I won't stand being slurred. I'll pound you good.\" \n\n\"With the hammer?\" \n\n\"No, with my fists.\" \n\n\"Really? Well, you'll have to spell able first.\" Tom came next, as before, and now the hammer flew out four feet and nine inches beyond his first mark. \n\n\"That shows what the other hammer can do,\" said Major Larry. \n\nLarson was as much out of sorts as Jackson, but nevertheless he resolved to do his best to win the contest. Up went the hammer with a mighty swing and circled through the air. But the throw was behind that of Tom by fourteen inches. \n\n\"Hurrah! Tom Rover wins!\" was the cry, and many rushed forward to congratulate him, while Larson and Jackson retired as quickly as they could and in great disgust. \n\nThe next contest was a dash of two hundred yards and was won by a boy named Bird. \n\n\"He's a bird!\" sang out Tom loudly, and at this the crowd laughed heartily. \n'Question': And who won the hammer throw?\n'Answer: '",
+    {
+        "id": "3q5zz9zevofeiit6qudaz07rkqq58z_13",
+        "summary": "CHAPTER XXV \n\nWINNING THE CONTESTS \n\nPowell was again the first to throw the hammer and this time it went two feet beyond his first mark. \n\n\"Good for you, Songbird!\" said Tom. \"I wish you had made it a yard.\" \n\nJackson came up with a scowling face. He did his best, but this time fell behind Powell by four inches. \n\n\"You ought to have stuck to the other hammer, Jackson,\" laughed the youth who composed songs. \n\n\"Don't you throw that up to me!\" whispered Jackson fiercely. \"If you do I'll hammer you for it.\" \n\n\"Is that meant for a pun, Jackson?\" \n\n\"No, it ain't. I won't stand being slurred. I'll pound you good.\" \n\n\"With the hammer?\" \n\n\"No, with my fists.\" \n\n\"Really? Well, you'll have to spell able first.\" Tom came next, as before, and now the hammer flew out four feet and nine inches beyond his first mark. \n\n\"That shows what the other hammer can do,\" said Major Larry. \n\nLarson was as much out of sorts as Jackson, but nevertheless he resolved to do his best to win the contest. Up went the hammer with a mighty swing and circled through the air. But the throw was behind that of Tom by fourteen inches. \n\n\"Hurrah! Tom Rover wins!\" was the cry, and many rushed forward to congratulate him, while Larson and Jackson retired as quickly as they could and in great disgust. \n\nThe next contest was a dash of two hundred yards and was won by a boy named Bird. \n\n\"He's a bird!\" sang out Tom loudly, and at this the crowd laughed heartily. ",
+        "question": "And who won the hammer throw?",
+        "label": "Tom",
+        "additional_answers": [
+            "Tom Rover",
+            "Tom",
+            "Tom Rover"
+        ]
+    }
+]

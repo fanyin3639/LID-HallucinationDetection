@@ -1,0 +1,15 @@
+[
+    [
+        2920,
+        [],
+        "Harry Brearley"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1912, Harry Brearley of the Brown-Firth research laboratory in Sheffield, England, while seeking a corrosion-resistant alloy for gun barrels, discovered and subsequently industrialized a martensitic stainless steel alloy. The discovery was announced two years later in a January 1915 newspaper article in The New York Times.[27] The metal was later marketed under the \"Staybrite\" brand by Firth Vickers in England and was used for the new entrance canopy for the Savoy Hotel in London in 1929.[35] Brearley applied for a US patent during 1915 only to find that Haynes had already registered a patent. Brearley and Haynes pooled their funding and with a group of investors formed the American Stainless Steel Corporation, with headquarters in Pittsburgh, Pennsylvania.[36] Question: Who developed stainless steel? Answer:",
+    {
+        "id": "english-3825336211824352646-53",
+        "lang": "english",
+        "summary": "In 1912, Harry Brearley of the Brown-Firth research laboratory in Sheffield, England, while seeking a corrosion-resistant alloy for gun barrels, discovered and subsequently industrialized a martensitic stainless steel alloy. The discovery was announced two years later in a January 1915 newspaper article in The New York Times.[27] The metal was later marketed under the \"Staybrite\" brand by Firth Vickers in England and was used for the new entrance canopy for the Savoy Hotel in London in 1929.[35] Brearley applied for a US patent during 1915 only to find that Haynes had already registered a patent. Brearley and Haynes pooled their funding and with a group of investors formed the American Stainless Steel Corporation, with headquarters in Pittsburgh, Pennsylvania.[36]",
+        "question": "Who developed stainless steel?",
+        "label": "Harry Brearley"
+    }
+]

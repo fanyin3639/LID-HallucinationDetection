@@ -1,0 +1,15 @@
+[
+    [
+        2811,
+        [],
+        "5 October 1910"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: After the Portuguese Restoration War of 1640\u20131668, the kingdom passed to the House of Braganza and thereafter to the House of Braganza-Saxe-Coburg and Gotha. From this time, the influence of Portugal declined, but it remained a major power due to its most valuable colony, Brazil. After the independence of Brazil, Portugal sought to establish itself in Africa, but was ultimately forced to yield to the British interests, leading to the collapse of the monarchy in the 5 October 1910 revolution and the establishment of the First Portuguese Republic. Question: When did Portugal's monarchy end? Answer:",
+    {
+        "id": "english--2564222444959083918-4",
+        "lang": "english",
+        "summary": "After the Portuguese Restoration War of 1640\u20131668, the kingdom passed to the House of Braganza and thereafter to the House of Braganza-Saxe-Coburg and Gotha. From this time, the influence of Portugal declined, but it remained a major power due to its most valuable colony, Brazil. After the independence of Brazil, Portugal sought to establish itself in Africa, but was ultimately forced to yield to the British interests, leading to the collapse of the monarchy in the 5 October 1910 revolution and the establishment of the First Portuguese Republic.",
+        "question": "When did Portugal's monarchy end?",
+        "label": "5 October 1910"
+    }
+]

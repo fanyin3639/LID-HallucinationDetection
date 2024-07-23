@@ -1,0 +1,15 @@
+[
+    [
+        311,
+        [],
+        "20,000Hz"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The generally accepted standard range of audible frequencies for humans is 20 to 20,000Hz,[2][3][4] although the range of frequencies individuals hear is greatly influenced by environmental factors. Frequencies below 20Hz are generally felt rather than heard, assuming the amplitude of the vibration is great enough. High frequencies are the first to be affected by hearing loss due to age or prolonged exposure to very loud noises.[5] Question: What is the highest pitch audible to humans? Answer:",
+    {
+        "id": "english-4678750023787420868-1",
+        "lang": "english",
+        "summary": "The generally accepted standard range of audible frequencies for humans is 20 to 20,000Hz,[2][3][4] although the range of frequencies individuals hear is greatly influenced by environmental factors. Frequencies below 20Hz are generally felt rather than heard, assuming the amplitude of the vibration is great enough. High frequencies are the first to be affected by hearing loss due to age or prolonged exposure to very loud noises.[5]",
+        "question": "What is the highest pitch audible to humans?",
+        "label": "20,000Hz"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        921,
+        [],
+        "20"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Spanish is the majority language in 20 sovereign states and several dependent territories, totaling around 442 million people.[1] It is additionally the main official language in Equatorial Guinea. Question: How many countries speak Spanish? Answer:",
+    {
+        "id": "english-7114025325585344919-1",
+        "lang": "english",
+        "summary": "Spanish is the majority language in 20 sovereign states and several dependent territories, totaling around 442 million people.[1] It is additionally the main official language in Equatorial Guinea.",
+        "question": "How many countries speak Spanish?",
+        "label": "20"
+    }
+]

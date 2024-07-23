@@ -1,0 +1,15 @@
+[
+    [
+        1605,
+        [],
+        "August 16, 1784"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The British administrators of the time, for their part, felt that the colonial capital (Halifax) was too distant from the developing territories to the west of the Isthmus of Chignecto to allow for proper governance and that the colony of Nova Scotia therefore should be split. As a result, the colony of New Brunswick was officially created with Sir Thomas Carleton the first governor on August 16, 1784. Question: When was New Brunswick, Canada founded? Answer:",
+    {
+        "id": "english--8206799422787973715-33",
+        "lang": "english",
+        "summary": "The British administrators of the time, for their part, felt that the colonial capital (Halifax) was too distant from the developing territories to the west of the Isthmus of Chignecto to allow for proper governance and that the colony of Nova Scotia therefore should be split. As a result, the colony of New Brunswick was officially created with Sir Thomas Carleton the first governor on August 16, 1784.",
+        "question": "When was New Brunswick, Canada founded?",
+        "label": "August 16, 1784"
+    }
+]

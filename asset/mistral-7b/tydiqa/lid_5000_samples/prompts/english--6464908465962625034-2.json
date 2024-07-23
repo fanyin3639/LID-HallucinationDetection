@@ -1,0 +1,15 @@
+[
+    [
+        439,
+        [],
+        "six"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children. The moral compass of the story, he is content to remain far from courtly intrigues[5] and is unwavering in his view of loyalty and honor.[6] His family name, Stark, serves as an indication of his resistance to moral compromise, but his boundaries are increasingly tested over the course of the novel.[6] Finding himself a key player in the escalating political intrigue of King's Landing, Ned struggles as his own sense of honor draws him into corrupt goings-on at court.[5][6] As the story progresses, he begins to see the importance of moral and practical compromises to achieve a just end, and is ultimately forced to choose between the safety of his family and doing what is right.[7] Question: How many children did Ned have? Answer:",
+    {
+        "id": "english--6464908465962625034-2",
+        "lang": "english",
+        "summary": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children. The moral compass of the story, he is content to remain far from courtly intrigues[5] and is unwavering in his view of loyalty and honor.[6] His family name, Stark, serves as an indication of his resistance to moral compromise, but his boundaries are increasingly tested over the course of the novel.[6] Finding himself a key player in the escalating political intrigue of King's Landing, Ned struggles as his own sense of honor draws him into corrupt goings-on at court.[5][6] As the story progresses, he begins to see the importance of moral and practical compromises to achieve a just end, and is ultimately forced to choose between the safety of his family and doing what is right.[7]",
+        "question": "How many children did Ned have?",
+        "label": "six"
+    }
+]

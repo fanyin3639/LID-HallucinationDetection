@@ -1,0 +1,15 @@
+[
+    [
+        1777,
+        [],
+        "78"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On January 28, 2014, the show was renewed for a split 26-episode fifth season. The first half aired in 2014, while the second half aired in the last quarter of 2015.[4][5] In August 2015, Syfy cancelled the series after five seasons.[6] During the course of the series, 78 episodes of Haven airedover five seasons. Question: How many episodes did Haven have? Answer:",
+    {
+        "id": "english--5613525715306286208-1",
+        "lang": "english",
+        "summary": "On January 28, 2014, the show was renewed for a split 26-episode fifth season. The first half aired in 2014, while the second half aired in the last quarter of 2015.[4][5] In August 2015, Syfy cancelled the series after five seasons.[6] During the course of the series, 78 episodes of Haven airedover five seasons.",
+        "question": "How many episodes did Haven have?",
+        "label": "78"
+    }
+]

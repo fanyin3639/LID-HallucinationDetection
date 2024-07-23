@@ -1,0 +1,14 @@
+[
+    [
+        1914,
+        [],
+        "A film based on Pudsey, the dancing dog winner of Britain's Got Talent, has flopped at the UK box office."
+    ],
+    "Write a short summary for the following passage:\nThe canine comedy, featuring the voice David Walliams, earned \u00a3446,000, taking an average of just \u00a31,100 in each of the 403 cinemas where it screened.\nChart-topper Dawn of the Planet of the Apes, starring Andy Serkis as chimp leader Caesar, took \u00a38.7m.\nThe second highest new entry was the broadcast of the Monty Python live show at the O2 in London.\nThe comedy troupe's farewell show on Sunday night earned \u00a31.26m, according to box office tracker Rentrak.\nScreened at 410 locations, and earning \u00a3830,586 over the weekend, violinist and conductor Andre Rieu's 2014 10th Anniversary Maastricht Concert became the UK's highest-grossing music event of all time, according to website Deadline.\nElsewhere on the chart, How To Train Your Dragon 2 was the second placed movie, earning \u00a31.88m, bringing its UK haul so far to \u00a312.9m.\nTransformers: Age of Extinction has earned \u00a315.5m in the two weeks since its release, adding \u00a31.8m over the weekend and giving it the third spot in the chart.\nSummary:\n",
+    {
+        "id": 1914,
+        "document": "The canine comedy, featuring the voice David Walliams, earned \u00a3446,000, taking an average of just \u00a31,100 in each of the 403 cinemas where it screened.\nChart-topper Dawn of the Planet of the Apes, starring Andy Serkis as chimp leader Caesar, took \u00a38.7m.\nThe second highest new entry was the broadcast of the Monty Python live show at the O2 in London.\nThe comedy troupe's farewell show on Sunday night earned \u00a31.26m, according to box office tracker Rentrak.\nScreened at 410 locations, and earning \u00a3830,586 over the weekend, violinist and conductor Andre Rieu's 2014 10th Anniversary Maastricht Concert became the UK's highest-grossing music event of all time, according to website Deadline.\nElsewhere on the chart, How To Train Your Dragon 2 was the second placed movie, earning \u00a31.88m, bringing its UK haul so far to \u00a312.9m.\nTransformers: Age of Extinction has earned \u00a315.5m in the two weeks since its release, adding \u00a31.8m over the weekend and giving it the third spot in the chart.",
+        "summary": "A film based on Pudsey, the dancing dog winner of Britain's Got Talent, has flopped at the UK box office.",
+        "label": "A film based on Pudsey, the dancing dog winner of Britain's Got Talent, has flopped at the UK box office."
+    }
+]

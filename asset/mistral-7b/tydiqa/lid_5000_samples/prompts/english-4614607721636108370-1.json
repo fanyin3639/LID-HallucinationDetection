@@ -1,0 +1,15 @@
+[
+    [
+        2687,
+        [],
+        "Mainz"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Rhineland-Palatinate is located in western Germany covering an area of 19,846 square kilometres (7,663sqmi) and a population of 4.05 million inhabitants, the seventh-most populous German state. Mainz is the state capital and largest city, while other major cities include Ludwigshafen am Rhein, Koblenz, Trier, Kaiserslautern, and Worms.[1] Rhineland-Palatinate is surrounded by the states of North Rhine-Westphalia, Saarland, Baden-W\u00fcrttemberg, and Hesse. It also borders three foreign countries: France, Luxembourg and Belgium. Question: What is the largest city in Rhineland-Palatinate? Answer:",
+    {
+        "id": "english-4614607721636108370-1",
+        "lang": "english",
+        "summary": "Rhineland-Palatinate is located in western Germany covering an area of 19,846 square kilometres (7,663sqmi) and a population of 4.05 million inhabitants, the seventh-most populous German state. Mainz is the state capital and largest city, while other major cities include Ludwigshafen am Rhein, Koblenz, Trier, Kaiserslautern, and Worms.[1] Rhineland-Palatinate is surrounded by the states of North Rhine-Westphalia, Saarland, Baden-W\u00fcrttemberg, and Hesse. It also borders three foreign countries: France, Luxembourg and Belgium.",
+        "question": "What is the largest city in Rhineland-Palatinate?",
+        "label": "Mainz"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2133,
+        [],
+        "John Roberts"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Since the Supreme Court was established in 1789, 17 people have served as chief justice. The first was John Jay (1789\u20131795). The current chief justice is John Roberts (since 2005). John Rutledge, Edward Douglass White, Charles Evans Hughes, Harlan Fiske Stone, and William Rehnquist served as associate justice prior to becoming chief justice. Question: Who is the current Chief Justice? Answer:",
+    {
+        "id": "english-8176557995657935744-5",
+        "lang": "english",
+        "summary": "Since the Supreme Court was established in 1789, 17 people have served as chief justice. The first was John Jay (1789\u20131795). The current chief justice is John Roberts (since 2005). John Rutledge, Edward Douglass White, Charles Evans Hughes, Harlan Fiske Stone, and William Rehnquist served as associate justice prior to becoming chief justice.",
+        "question": "Who is the current Chief Justice?",
+        "label": "John Roberts"
+    }
+]

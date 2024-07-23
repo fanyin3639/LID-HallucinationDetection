@@ -1,0 +1,15 @@
+[
+    [
+        615,
+        [],
+        "1427"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The exact date of this re-discovery of the Atlantic islands is not clear, though historical accounts indicate that the islands of Santa Maria and S\u00e3o Miguel were the first to be discovered by navigator Diogo de Silves around 1427. Question: When were the Azores discovered? Answer:",
+    {
+        "id": "english-578493325662360385-19",
+        "lang": "english",
+        "summary": "The exact date of this re-discovery of the Atlantic islands is not clear, though historical accounts indicate that the islands of Santa Maria and S\u00e3o Miguel were the first to be discovered by navigator Diogo de Silves around 1427.",
+        "question": "When were the Azores discovered?",
+        "label": "1427"
+    }
+]

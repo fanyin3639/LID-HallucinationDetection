@@ -1,0 +1,15 @@
+[
+    [
+        1022,
+        [],
+        "more than 2.3 billion"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage:  As of the year 2015, Christianity has more than 2.3 billion adherents, out of about 7.5 billion people.[1][2][3][4][lower-alpha 1] The faith represents one-third of the world's population and is the largest religion in the world, with the three largest groups of Christians being the Catholic Church, Protestantism, and the Eastern Orthodox Church.[5] The largest Christian denomination is the Catholic Church, with 1.2 billion adherents.[6] The second largest Christian branch is either Protestantism (if it is considered a single group), or the Eastern Orthodox Church (if Protestants are considered to be divided into multiple denominations).  Question: How many Christians are in the world? Answer:",
+    {
+        "id": "english-444731209770353051-1",
+        "lang": "english",
+        "summary": " As of the year 2015, Christianity has more than 2.3 billion adherents, out of about 7.5 billion people.[1][2][3][4][lower-alpha 1] The faith represents one-third of the world's population and is the largest religion in the world, with the three largest groups of Christians being the Catholic Church, Protestantism, and the Eastern Orthodox Church.[5] The largest Christian denomination is the Catholic Church, with 1.2 billion adherents.[6] The second largest Christian branch is either Protestantism (if it is considered a single group), or the Eastern Orthodox Church (if Protestants are considered to be divided into multiple denominations). ",
+        "question": "How many Christians are in the world?",
+        "label": "more than 2.3 billion"
+    }
+]

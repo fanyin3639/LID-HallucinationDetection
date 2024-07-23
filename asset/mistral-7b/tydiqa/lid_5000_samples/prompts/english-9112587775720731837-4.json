@@ -1,0 +1,15 @@
+[
+    [
+        1505,
+        [],
+        "The oakum swells and seals the joint, the \"tar\" in the oakum prevents rot, and the lead keeps the joint physically tight"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Oakum can be used to seal cast iron pipe drains. After setting the pipes together, workers pack oakum into the joints, then pour molten lead into the joint to create a permanent seal. The oakum swells and seals the joint, the \"tar\" in the oakum prevents rot, and the lead keeps the joint physically tight. Today, modern methods, such as rubber seals (for example, gaskets or o-rings) are more common.[5] Question: Why is tar used to seal cracks? Answer:",
+    {
+        "id": "english-9112587775720731837-4",
+        "lang": "english",
+        "summary": "Oakum can be used to seal cast iron pipe drains. After setting the pipes together, workers pack oakum into the joints, then pour molten lead into the joint to create a permanent seal. The oakum swells and seals the joint, the \"tar\" in the oakum prevents rot, and the lead keeps the joint physically tight. Today, modern methods, such as rubber seals (for example, gaskets or o-rings) are more common.[5]",
+        "question": "Why is tar used to seal cracks?",
+        "label": "The oakum swells and seals the joint, the \"tar\" in the oakum prevents rot, and the lead keeps the joint physically tight"
+    }
+]

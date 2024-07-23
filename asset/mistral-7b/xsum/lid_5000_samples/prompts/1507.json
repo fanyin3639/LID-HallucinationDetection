@@ -1,0 +1,14 @@
+[
+    [
+        1507,
+        [],
+        "Castleford Tigers forward Mike McMeeken has signed a two-year contract extension."
+    ],
+    "Write a short summary for the following passage:\nThe 21-year-old joined the Tigers from London Broncos last September and made 20 appearances in the 2015 season.\nTigers coach Daryl Powell told the club website: \"Mike has proved last year he is a player with huge potential.\n\"His professionalism is outstanding as are the qualities in his game that we feel will take him to the top of his profession.\"\nSummary:\n",
+    {
+        "id": 1507,
+        "document": "The 21-year-old joined the Tigers from London Broncos last September and made 20 appearances in the 2015 season.\nTigers coach Daryl Powell told the club website: \"Mike has proved last year he is a player with huge potential.\n\"His professionalism is outstanding as are the qualities in his game that we feel will take him to the top of his profession.\"",
+        "summary": "Castleford Tigers forward Mike McMeeken has signed a two-year contract extension.",
+        "label": "Castleford Tigers forward Mike McMeeken has signed a two-year contract extension."
+    }
+]

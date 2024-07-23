@@ -1,0 +1,15 @@
+[
+    [
+        2885,
+        [],
+        "metal"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A screw is a type of fastener, in some ways similar to a bolt (see Differentiation between bolt and screw below), typically made of metal, and characterized by a helical ridge, known as a male thread (external thread). Screws are used to fasten materials by digging in and wedging into a material when turned, while the thread cuts grooves in the fastened material that may help pull fastened materials together and  prevent pull-out. There are many screws for a variety of materials; those commonly fastened by screws include wood, sheet metal, and plastic. Question: What are screws most commonly made of? Answer:",
+    {
+        "id": "english--7004911335775272291-0",
+        "lang": "english",
+        "summary": "A screw is a type of fastener, in some ways similar to a bolt (see Differentiation between bolt and screw below), typically made of metal, and characterized by a helical ridge, known as a male thread (external thread). Screws are used to fasten materials by digging in and wedging into a material when turned, while the thread cuts grooves in the fastened material that may help pull fastened materials together and  prevent pull-out. There are many screws for a variety of materials; those commonly fastened by screws include wood, sheet metal, and plastic.",
+        "question": "What are screws most commonly made of?",
+        "label": "metal"
+    }
+]

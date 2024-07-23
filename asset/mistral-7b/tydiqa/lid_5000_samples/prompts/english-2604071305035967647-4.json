@@ -1,0 +1,15 @@
+[
+    [
+        2632,
+        [],
+        "At sexual maturity (two to four years), male common ostriches can be from 2.1 to 2.8m (6ft 11in to 9ft 2in) in height, while female common ostriches range from 1.7 to 2.0m (5ft 7in to 6ft 7in) tall"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Common ostriches usually weigh from 63to 145 kilograms (139\u2013320lb), or as much as two adult humans.[7][9] The Masai ostriches of East Africa (S. c. massaicus) averaged 115kg (254lb) in males and 100kg (220lb) in females, while the nominate subspecies, the North African ostrich (S. c. camelus), was found to average 111kg (245lb) in unsexed adults. Exceptional male ostriches (in the nominate subspecies) can weigh up to 156.8kg (346lb). At sexual maturity (two to four years), male common ostriches can be from 2.1 to 2.8m (6ft 11in to 9ft 2in) in height, while female common ostriches range from 1.7 to 2.0m (5ft 7in to 6ft 7in) tall.[7] New chicks are fawn in colour, with dark brown spots.[10] During the first year of life, chicks grow at about 25cm (9.8in) per month. At one year of age, common ostriches weigh approximately 45 kilograms (99lb). Their lifespan is up to 40\u201345 years. Question: How tall are ostriches? Answer:",
+    {
+        "id": "english-2604071305035967647-4",
+        "lang": "english",
+        "summary": "Common ostriches usually weigh from 63to 145 kilograms (139\u2013320lb), or as much as two adult humans.[7][9] The Masai ostriches of East Africa (S. c. massaicus) averaged 115kg (254lb) in males and 100kg (220lb) in females, while the nominate subspecies, the North African ostrich (S. c. camelus), was found to average 111kg (245lb) in unsexed adults. Exceptional male ostriches (in the nominate subspecies) can weigh up to 156.8kg (346lb). At sexual maturity (two to four years), male common ostriches can be from 2.1 to 2.8m (6ft 11in to 9ft 2in) in height, while female common ostriches range from 1.7 to 2.0m (5ft 7in to 6ft 7in) tall.[7] New chicks are fawn in colour, with dark brown spots.[10] During the first year of life, chicks grow at about 25cm (9.8in) per month. At one year of age, common ostriches weigh approximately 45 kilograms (99lb). Their lifespan is up to 40\u201345 years.",
+        "question": "How tall are ostriches?",
+        "label": "At sexual maturity (two to four years), male common ostriches can be from 2.1 to 2.8m (6ft 11in to 9ft 2in) in height, while female common ostriches range from 1.7 to 2.0m (5ft 7in to 6ft 7in) tall"
+    }
+]

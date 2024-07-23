@@ -1,0 +1,15 @@
+[
+    [
+        1355,
+        [],
+        "Green Mars"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The three novels are Red Mars (1992), Green Mars (1993), and Blue Mars (1996). The Martians (1999) is a collection of short stories set in the same fictional universe. The main trilogy won a number of prestigious awards.  Icehenge (1984), Robinson's first novel about Mars, is not set in this universe but deals with similar themes and plot elements. The trilogy shares some similarities with Robinson's more recent novel 2312 (2012), for instance, the terraforming of Mars and the extreme longevity of the characters in both novels. Question: What is the second book in the Mars trilogy? Answer:",
+    {
+        "id": "english--1014263077853971273-1",
+        "lang": "english",
+        "summary": "The three novels are Red Mars (1992), Green Mars (1993), and Blue Mars (1996). The Martians (1999) is a collection of short stories set in the same fictional universe. The main trilogy won a number of prestigious awards.  Icehenge (1984), Robinson's first novel about Mars, is not set in this universe but deals with similar themes and plot elements. The trilogy shares some similarities with Robinson's more recent novel 2312 (2012), for instance, the terraforming of Mars and the extreme longevity of the characters in both novels.",
+        "question": "What is the second book in the Mars trilogy?",
+        "label": "Green Mars"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        248,
+        [],
+        "1911 \u2013 24 November 1996"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Sorley MacLean (Scottish Gaelic: Somhairle MacGill-Eain;[lower-roman 1][lower-roman 2] 26 October 1911 \u2013 24 November 1996) was a Scottish Gaelic poet, described by the Scottish Poetry Library as \"one of the major Scottish poets of the modern era\" because of his \"mastery of his chosen medium and his engagement with the European poetic tradition and European politics\".[2] Nobel Prize Laureate Seamus Heaney credited MacLean with saving Scottish Gaelic poetry.[3] Question: What years did Sorley MacLean live? Answer:",
+    {
+        "id": "english-1947772774545159596-0",
+        "lang": "english",
+        "summary": "Sorley MacLean (Scottish Gaelic: Somhairle MacGill-Eain;[lower-roman 1][lower-roman 2] 26 October 1911 \u2013 24 November 1996) was a Scottish Gaelic poet, described by the Scottish Poetry Library as \"one of the major Scottish poets of the modern era\" because of his \"mastery of his chosen medium and his engagement with the European poetic tradition and European politics\".[2] Nobel Prize Laureate Seamus Heaney credited MacLean with saving Scottish Gaelic poetry.[3]",
+        "question": "What years did Sorley MacLean live?",
+        "label": "1911 \u2013 24 November 1996"
+    }
+]

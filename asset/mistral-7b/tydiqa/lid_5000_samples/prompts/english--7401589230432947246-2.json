@@ -1,0 +1,15 @@
+[
+    [
+        3,
+        [],
+        "Sejong the Great"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Hangul was personally created and promulgated by the fourth king of the Joseon dynasty, Sejong the Great.[1][2] Sejong's scholarly institute, the Hall of Worthies, is often credited with the work, and at least one of its scholars was heavily involved in its creation, but it appears to have also been a personal project of Sejong. Question: Who invented Hangul? Answer:",
+    {
+        "id": "english--7401589230432947246-2",
+        "lang": "english",
+        "summary": "Hangul was personally created and promulgated by the fourth king of the Joseon dynasty, Sejong the Great.[1][2] Sejong's scholarly institute, the Hall of Worthies, is often credited with the work, and at least one of its scholars was heavily involved in its creation, but it appears to have also been a personal project of Sejong.",
+        "question": "Who invented Hangul?",
+        "label": "Sejong the Great"
+    }
+]

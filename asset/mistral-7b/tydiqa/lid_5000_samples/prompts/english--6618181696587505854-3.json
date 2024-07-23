@@ -1,0 +1,15 @@
+[
+    [
+        1415,
+        [],
+        "La Chaux-de-Fonds"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Charles-\u00c9douard Jeanneret was born on 6 October 1887 in La Chaux-de-Fonds, a small city in the French-speaking Neuch\u00e2tel canton in north-western Switzerland, in the Jura mountains, just 5 kilometres (3.1mi) across the border from France. It was an industrial town, devoted to the manufacture of watches. (He adopted the pseudonym of Le Corbusier in 1920.) His father was an artisan who enameled boxes and watches, while his mother gave piano lessons. His elder brother Albert was an amateur violinist.[3]  He attended a kindergarten that used Fr\u00f6belian methods.[4][5][6] Question: Where was Le Corbusier born? Answer:",
+    {
+        "id": "english--6618181696587505854-3",
+        "lang": "english",
+        "summary": "Charles-\u00c9douard Jeanneret was born on 6 October 1887 in La Chaux-de-Fonds, a small city in the French-speaking Neuch\u00e2tel canton in north-western Switzerland, in the Jura mountains, just 5 kilometres (3.1mi) across the border from France. It was an industrial town, devoted to the manufacture of watches. (He adopted the pseudonym of Le Corbusier in 1920.) His father was an artisan who enameled boxes and watches, while his mother gave piano lessons. His elder brother Albert was an amateur violinist.[3]  He attended a kindergarten that used Fr\u00f6belian methods.[4][5][6]",
+        "question": "Where was Le Corbusier born?",
+        "label": "La Chaux-de-Fonds"
+    }
+]

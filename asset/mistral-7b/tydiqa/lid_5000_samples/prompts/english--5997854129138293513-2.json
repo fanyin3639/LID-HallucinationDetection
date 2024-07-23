@@ -1,0 +1,15 @@
+[
+    [
+        1126,
+        [],
+        "Islamic"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Islamic, Muslim, or Hijri calendar (Arabic: \u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0647\u062c\u0631\u064a\u200e at-taqw\u012bm al-hijr\u012b) is a lunar calendar consisting of 12 lunar months in a year of 354 or 355 days. It is used to determine the proper days of Islamic holidays and rituals, such as the annual period of fasting and the proper time for the pilgrimage to Mecca. The civil calendar of almost all countries where the religion is predominantly Muslim is the Gregorian calendar. Notable exceptions to this rule are Iran and Afghanistan, which use the Solar Hijri calendar. Rents, wages etc. are generally paid by the civil calendar. Question: What calendar is used by Muslims? Answer:",
+    {
+        "id": "english--5997854129138293513-2",
+        "lang": "english",
+        "summary": "The Islamic, Muslim, or Hijri calendar (Arabic: \u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0647\u062c\u0631\u064a\u200e at-taqw\u012bm al-hijr\u012b) is a lunar calendar consisting of 12 lunar months in a year of 354 or 355 days. It is used to determine the proper days of Islamic holidays and rituals, such as the annual period of fasting and the proper time for the pilgrimage to Mecca. The civil calendar of almost all countries where the religion is predominantly Muslim is the Gregorian calendar. Notable exceptions to this rule are Iran and Afghanistan, which use the Solar Hijri calendar. Rents, wages etc. are generally paid by the civil calendar.",
+        "question": "What calendar is used by Muslims?",
+        "label": "Islamic"
+    }
+]

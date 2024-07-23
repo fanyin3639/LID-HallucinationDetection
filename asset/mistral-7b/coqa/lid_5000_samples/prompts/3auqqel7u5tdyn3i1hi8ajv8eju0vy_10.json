@@ -1,0 +1,19 @@
+[
+    [
+        1153,
+        [],
+        "yes"
+    ],
+    "Answer the following questions:\nContext: Jamie and his friends love playing baseball. They play in the park every morning. One summer morning they lost the baseball. Jamie and his friend Joe went to the store. They bought two baseballs. They also bought colas for the other kids. They spent ten dollars. Jamie and Joe went back to the park. His friend Mike drank his cola and went to bat. Mike hit a home run and rounded the bases. All of Jamie's friends cheered very loudly. The sun was very bright and Jamie had an idea. Jamie and his friends went to the pool in town and swam that afternoon. They met Sally and Jessica at the pool. They also met Jenny at the pool. The lifeguard made them put their sandals, watches and hats by the fence. Jamie went home after swimming. He was very tired. He went to sleep but had a lot of fun that day.\n'Question': Did his friends cheer?\n'Answer: '",
+    {
+        "id": "3auqqel7u5tdyn3i1hi8ajv8eju0vy_10",
+        "summary": "Jamie and his friends love playing baseball. They play in the park every morning. One summer morning they lost the baseball. Jamie and his friend Joe went to the store. They bought two baseballs. They also bought colas for the other kids. They spent ten dollars. Jamie and Joe went back to the park. His friend Mike drank his cola and went to bat. Mike hit a home run and rounded the bases. All of Jamie's friends cheered very loudly. The sun was very bright and Jamie had an idea. Jamie and his friends went to the pool in town and swam that afternoon. They met Sally and Jessica at the pool. They also met Jenny at the pool. The lifeguard made them put their sandals, watches and hats by the fence. Jamie went home after swimming. He was very tired. He went to sleep but had a lot of fun that day.",
+        "question": "Did his friends cheer?",
+        "label": "yes",
+        "additional_answers": [
+            "yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

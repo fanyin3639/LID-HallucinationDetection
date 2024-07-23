@@ -1,0 +1,15 @@
+[
+    [
+        2692,
+        [],
+        "The School of Athens"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Raphael was enormously productive, running an unusually large workshop and, despite his death at 37, leaving a large body of work. Many of his works are found in the Vatican Palace, where the frescoed Raphael Rooms were the central, and the largest, work of his career. The best known work is The School of Athens in the Vatican Stanza della Segnatura. After his early years in Rome much of his work was executed by his workshop from his drawings, with considerable loss of quality. He was extremely influential in his lifetime, though outside Rome his work was mostly known from his collaborative printmaking. Question: What is Raphael's most famous architectural work? Answer:",
+    {
+        "id": "english--8671396922899532113-1",
+        "lang": "english",
+        "summary": "Raphael was enormously productive, running an unusually large workshop and, despite his death at 37, leaving a large body of work. Many of his works are found in the Vatican Palace, where the frescoed Raphael Rooms were the central, and the largest, work of his career. The best known work is The School of Athens in the Vatican Stanza della Segnatura. After his early years in Rome much of his work was executed by his workshop from his drawings, with considerable loss of quality. He was extremely influential in his lifetime, though outside Rome his work was mostly known from his collaborative printmaking.",
+        "question": "What is Raphael's most famous architectural work?",
+        "label": "The School of Athens"
+    }
+]

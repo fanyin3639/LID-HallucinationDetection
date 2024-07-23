@@ -1,0 +1,15 @@
+[
+    [
+        1841,
+        [],
+        "20th century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The modern samba that emerged at the beginning of the 20th century is predominantly in a 2/4 time signature varied with the conscious use of a sung chorus to a batucada rhythm, with various stanzas of declaratory verses. Traditionally, the samba is played by strings (cavaquinho and various types of guitar) and various percussion instruments such as tamborim. Influenced by American orchestras in vogue since the Second World War and the cultural impact of US music post-war, samba began to use trombones, trumpets, choros, flutes, and clarinets.[7] Question: When did the Samba first develop? Answer:",
+    {
+        "id": "english-3181931993391680828-2",
+        "lang": "english",
+        "summary": "The modern samba that emerged at the beginning of the 20th century is predominantly in a 2/4 time signature varied with the conscious use of a sung chorus to a batucada rhythm, with various stanzas of declaratory verses. Traditionally, the samba is played by strings (cavaquinho and various types of guitar) and various percussion instruments such as tamborim. Influenced by American orchestras in vogue since the Second World War and the cultural impact of US music post-war, samba began to use trombones, trumpets, choros, flutes, and clarinets.[7]",
+        "question": "When did the Samba first develop?",
+        "label": "20th century"
+    }
+]

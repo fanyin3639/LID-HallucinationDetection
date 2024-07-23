@@ -1,0 +1,15 @@
+[
+    [
+        1452,
+        [],
+        "approximately 200\u2013260 million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Based on the numbers of adherents, the Eastern Orthodox Church (also known as Eastern Orthodoxy) is the second largest Christian communion in the world after the Roman Catholic Church.[1] The most common estimates of the number of Eastern Orthodox Christians worldwide is approximately 200\u2013260 million.[2][3][4][5] The numerous Protestant groups in the world, if taken all together, outnumber the Eastern Orthodox,[6] but they differ theologically and do not form a single communion.[7] Question: How many people take part in Eastern Orthodox? Answer:",
+    {
+        "id": "english--8374833937470290055-1",
+        "lang": "english",
+        "summary": "Based on the numbers of adherents, the Eastern Orthodox Church (also known as Eastern Orthodoxy) is the second largest Christian communion in the world after the Roman Catholic Church.[1] The most common estimates of the number of Eastern Orthodox Christians worldwide is approximately 200\u2013260 million.[2][3][4][5] The numerous Protestant groups in the world, if taken all together, outnumber the Eastern Orthodox,[6] but they differ theologically and do not form a single communion.[7]",
+        "question": "How many people take part in Eastern Orthodox?",
+        "label": "approximately 200\u2013260 million"
+    }
+]

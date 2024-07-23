@@ -1,0 +1,15 @@
+[
+    [
+        2278,
+        [],
+        "7 to 10 years"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The combination of form, needle retention, dark blue-green color, pleasant scent and excellent shipping characteristics has led to Fraser fir being a most popular Christmas tree species. Growing and harvesting this species for Christmas trees and boughs is a multimillion-dollar business in the southern Appalachians. North Carolina produces the majority of Fraser fir Christmas trees.[12] It requires from 7 to 10 years in the field to produce a 6\u20137 feet (1.8\u20132.1m) high tree. In 2005, the North Carolina General Assembly passed legislation making the Fraser fir the official Christmas tree of North Carolina. Question: How long does it take for a live Christmas tree to reach maturity? Answer:",
+    {
+        "id": "english-4162615638965251915-15",
+        "lang": "english",
+        "summary": "The combination of form, needle retention, dark blue-green color, pleasant scent and excellent shipping characteristics has led to Fraser fir being a most popular Christmas tree species. Growing and harvesting this species for Christmas trees and boughs is a multimillion-dollar business in the southern Appalachians. North Carolina produces the majority of Fraser fir Christmas trees.[12] It requires from 7 to 10 years in the field to produce a 6\u20137 feet (1.8\u20132.1m) high tree. In 2005, the North Carolina General Assembly passed legislation making the Fraser fir the official Christmas tree of North Carolina.",
+        "question": "How long does it take for a live Christmas tree to reach maturity?",
+        "label": "7 to 10 years"
+    }
+]

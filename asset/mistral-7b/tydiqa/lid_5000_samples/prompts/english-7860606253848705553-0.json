@@ -1,0 +1,15 @@
+[
+    [
+        127,
+        [],
+        "Cullinan Diamond"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Cullinan Diamond is the largest gem-quality rough diamond ever found,[2] weighing 3,106.75 carats (621.35g), discovered at the Premier No. 2 mine in Cullinan, South Africa, on 26 January 1905. It was named after Thomas Cullinan, the mine's chairman.  Question: What is the biggest diamond? Answer:",
+    {
+        "id": "english-7860606253848705553-0",
+        "lang": "english",
+        "summary": "The Cullinan Diamond is the largest gem-quality rough diamond ever found,[2] weighing 3,106.75 carats (621.35g), discovered at the Premier No. 2 mine in Cullinan, South Africa, on 26 January 1905. It was named after Thomas Cullinan, the mine's chairman. ",
+        "question": "What is the biggest diamond?",
+        "label": "Cullinan Diamond"
+    }
+]

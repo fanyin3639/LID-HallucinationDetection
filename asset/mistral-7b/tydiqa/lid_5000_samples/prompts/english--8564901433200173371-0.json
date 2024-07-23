@@ -1,0 +1,15 @@
+[
+    [
+        1471,
+        [],
+        "east-northeast direction towards the westernmost boundary near Mauna Iki and the Southwest Rift Zone"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Koa\u2019e Fault Zone (pronounced coe-wah-hee) is a series of fault scarps connecting the East and Southwest Rift Zones on Kilauea Volcano on the Big Island of Hawaii. The fault zone intersects the East Rift near the Pauahi Crater and extends nearly 12 kilometers in an east-northeast direction towards the westernmost boundary near Mauna Iki and the Southwest Rift Zone.  Boundaries of the Koa\u2019e Fault Zone also cover 2 kilometers in a north-south orientation along the 12 kilometer length. It is believed that the fault zone has been active for tens of thousands of years. The area is infrequently visited by park patrons due to the lack of eruptive activity and closure of certain areas to the general public. Question: Where is the fault line for Hawaii located? Answer:",
+    {
+        "id": "english--8564901433200173371-0",
+        "lang": "english",
+        "summary": "The Koa\u2019e Fault Zone (pronounced coe-wah-hee) is a series of fault scarps connecting the East and Southwest Rift Zones on Kilauea Volcano on the Big Island of Hawaii. The fault zone intersects the East Rift near the Pauahi Crater and extends nearly 12 kilometers in an east-northeast direction towards the westernmost boundary near Mauna Iki and the Southwest Rift Zone.  Boundaries of the Koa\u2019e Fault Zone also cover 2 kilometers in a north-south orientation along the 12 kilometer length. It is believed that the fault zone has been active for tens of thousands of years. The area is infrequently visited by park patrons due to the lack of eruptive activity and closure of certain areas to the general public.",
+        "question": "Where is the fault line for Hawaii located?",
+        "label": "east-northeast direction towards the westernmost boundary near Mauna Iki and the Southwest Rift Zone"
+    }
+]

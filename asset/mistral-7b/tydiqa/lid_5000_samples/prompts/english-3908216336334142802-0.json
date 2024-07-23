@@ -1,0 +1,15 @@
+[
+    [
+        1979,
+        [],
+        "Mexico"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Michoac\u00e1n, formally Michoac\u00e1n de Ocampo (Spanish pronunciation:[mit\u0283oa\u02c8kan de o\u02c8kampo]), officially the Free and Sovereign State of Michoac\u00e1n de Ocampo (Spanish: Estado Libre y Soberano de Michoac\u00e1n de Ocampo), is one of the 31 states which, with the Federal District, comprise the 32 Federal Entities of Mexico. The State is divided into 113 municipalities and its capital city is Morelia (formerly called Valladolid). The city was named after Jos\u00e9 Mar\u00eda Morelos, one of the main heroes of the Mexican War of Independence. Question: Where is Michoac\u00e1n de Ocampo?\\ Answer:",
+    {
+        "id": "english-3908216336334142802-0",
+        "lang": "english",
+        "summary": "Michoac\u00e1n, formally Michoac\u00e1n de Ocampo (Spanish pronunciation:[mit\u0283oa\u02c8kan de o\u02c8kampo]), officially the Free and Sovereign State of Michoac\u00e1n de Ocampo (Spanish: Estado Libre y Soberano de Michoac\u00e1n de Ocampo), is one of the 31 states which, with the Federal District, comprise the 32 Federal Entities of Mexico. The State is divided into 113 municipalities and its capital city is Morelia (formerly called Valladolid). The city was named after Jos\u00e9 Mar\u00eda Morelos, one of the main heroes of the Mexican War of Independence.",
+        "question": "Where is Michoac\u00e1n de Ocampo?\\",
+        "label": "Mexico"
+    }
+]

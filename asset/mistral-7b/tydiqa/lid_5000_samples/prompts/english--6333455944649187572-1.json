@@ -1,0 +1,15 @@
+[
+    [
+        778,
+        [],
+        "514"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Based upon the 1956 novel of the same name by Grace Metalious, the series was preceded by a 1957 film adaptation. A total of 514 episodes were broadcast, in black-and-white from 1964 to 1966 and in color from 1966 to 1969. The first color episode is episode #268. At the show's peak, ABC ran three new episodes a week. The program was produced by 20th Century Fox Television. A number of guest stars appeared in the series for extended periods, among them Dan Duryea, Susan Oliver, Leslie Nielsen, Gena Rowlands, and Lee Grant, who won an Emmy Award for Outstanding Performance by an Actress in a Supporting Role in a Drama for her role of tough-as-nails Stella Chernak. The series served as the springboard for such performers as Mia Farrow, Ryan O'Neal, Barbara Parkins, Christopher Connelly, David Canary, Mariette Hartley, and Lana Wood. Question: How many episodes did Payton Place have? Answer:",
+    {
+        "id": "english--6333455944649187572-1",
+        "lang": "english",
+        "summary": "Based upon the 1956 novel of the same name by Grace Metalious, the series was preceded by a 1957 film adaptation. A total of 514 episodes were broadcast, in black-and-white from 1964 to 1966 and in color from 1966 to 1969. The first color episode is episode #268. At the show's peak, ABC ran three new episodes a week. The program was produced by 20th Century Fox Television. A number of guest stars appeared in the series for extended periods, among them Dan Duryea, Susan Oliver, Leslie Nielsen, Gena Rowlands, and Lee Grant, who won an Emmy Award for Outstanding Performance by an Actress in a Supporting Role in a Drama for her role of tough-as-nails Stella Chernak. The series served as the springboard for such performers as Mia Farrow, Ryan O'Neal, Barbara Parkins, Christopher Connelly, David Canary, Mariette Hartley, and Lana Wood.",
+        "question": "How many episodes did Payton Place have?",
+        "label": "514"
+    }
+]

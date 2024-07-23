@@ -1,0 +1,19 @@
+[
+    [
+        1126,
+        [],
+        "fun, unusual and good"
+    ],
+    "Answer the following questions:\nContext: When the love child of the doughnut and the croissant was created by the Dominique Ansel Bakery in New York, fans queued for hours to sample the tasty hybrid snack. \n\nWith only 300 cronuts made each day sold at $5 a pop, they are so coveted that they can go for up to $40 on the pastry black market. Even supermodel Heidi Klum had to wait weeks to try one. \n\nThough the cronut has gained worldwide attention on social media since its debut in May, few in the UK have had the chance to taste the unique pastry -- until now. \n\n\"It just went viral because it's new,\" Dominique Ansel told CNN'. \"It's fun; it's unusual; it's good.\" \n\nOne British bakery described it as the most exciting pastry launch since the sausage roll. \n\nBut although they have proved extremely popular with British customers, the intense enthusiasm for cronuts in New York is unlikely to be replicated in London. \n\n\"Cronuts are called \"Yum Yums\" in this country and you can buy them in [the supermarket Waitrose. We've had them for decades,\" wrote Richard Turner, the owner of London's Hawksmoor steakhouse, in an email to his business partner. \n\nAdalat Hussain, co-owner of the Wild and Wood cafe in Central London says British cronut-eaters are attempting to master the treat with a knife and fork. \"I think using your hands is the best way,\" he says. \n\nBack across the pond, a young woman in the queue outside the Dominique Ansel Bakery declared the cronut a typically American invention. \n'Question': What other adjectives did she use to describe it?\n'Answer: '",
+    {
+        "id": "3ty7zaog5fkzic962d418akrzw40kg_12",
+        "summary": "When the love child of the doughnut and the croissant was created by the Dominique Ansel Bakery in New York, fans queued for hours to sample the tasty hybrid snack. \n\nWith only 300 cronuts made each day sold at $5 a pop, they are so coveted that they can go for up to $40 on the pastry black market. Even supermodel Heidi Klum had to wait weeks to try one. \n\nThough the cronut has gained worldwide attention on social media since its debut in May, few in the UK have had the chance to taste the unique pastry -- until now. \n\n\"It just went viral because it's new,\" Dominique Ansel told CNN'. \"It's fun; it's unusual; it's good.\" \n\nOne British bakery described it as the most exciting pastry launch since the sausage roll. \n\nBut although they have proved extremely popular with British customers, the intense enthusiasm for cronuts in New York is unlikely to be replicated in London. \n\n\"Cronuts are called \"Yum Yums\" in this country and you can buy them in [the supermarket Waitrose. We've had them for decades,\" wrote Richard Turner, the owner of London's Hawksmoor steakhouse, in an email to his business partner. \n\nAdalat Hussain, co-owner of the Wild and Wood cafe in Central London says British cronut-eaters are attempting to master the treat with a knife and fork. \"I think using your hands is the best way,\" he says. \n\nBack across the pond, a young woman in the queue outside the Dominique Ansel Bakery declared the cronut a typically American invention. ",
+        "question": "What other adjectives did she use to describe it?",
+        "label": "fun, unusual and good",
+        "additional_answers": [
+            "Fun, unusual, and good",
+            "fun",
+            "fun, unusual, good"
+        ]
+    }
+]

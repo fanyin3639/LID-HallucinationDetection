@@ -1,0 +1,15 @@
+[
+    [
+        2017,
+        [],
+        "1794"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: France abolished slavery within the French Kingdom (continental France) in 1315. In May 1787 the Society for Effecting the Abolition of the Slave Trade was formed in London to end the British slave trade. Revolutionary France abolished slavery in France's colonies in 1794, although it was restored by Napoleon with the Law of 20 May 1802 as part of a program to ensure French sovereignty over its colonies. Haiti formally declared independence from France in 1804 and brought an end to slavery in its territory. The northern states in the U.S. all abolished slavery by 1804. Great Britain and Ireland and the United States outlawed the international slave trade in 1807, after which Britain led efforts to block slave ships. Britain abolished slavery throughout the British Empire with the Slavery Abolition Act 1833, the French colonies re-abolished it in 1848 and the U.S. abolished slavery in 1865 with the 13th Amendment to the U.S. Constitution. Question: When was slavery abolished in France's colonies? Answer:",
+    {
+        "id": "english--6199671102294106974-3",
+        "lang": "english",
+        "summary": "France abolished slavery within the French Kingdom (continental France) in 1315. In May 1787 the Society for Effecting the Abolition of the Slave Trade was formed in London to end the British slave trade. Revolutionary France abolished slavery in France's colonies in 1794, although it was restored by Napoleon with the Law of 20 May 1802 as part of a program to ensure French sovereignty over its colonies. Haiti formally declared independence from France in 1804 and brought an end to slavery in its territory. The northern states in the U.S. all abolished slavery by 1804. Great Britain and Ireland and the United States outlawed the international slave trade in 1807, after which Britain led efforts to block slave ships. Britain abolished slavery throughout the British Empire with the Slavery Abolition Act 1833, the French colonies re-abolished it in 1848 and the U.S. abolished slavery in 1865 with the 13th Amendment to the U.S. Constitution.",
+        "question": "When was slavery abolished in France's colonies?",
+        "label": "1794"
+    }
+]

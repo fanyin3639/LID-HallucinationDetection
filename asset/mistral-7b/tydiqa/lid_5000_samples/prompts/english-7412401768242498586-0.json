@@ -1,0 +1,15 @@
+[
+    [
+        3070,
+        [],
+        "m (20ft "
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lolong (died 10 February 2013) was the largest crocodile in captivity. He was a saltwater crocodile (Crocodylus porosus) measured at 6.17m (20ft 3in), and weighed 1,075kg (2,370lb), making him one of the largest crocodiles ever measured from snout-to-tail.[1][2][3][4] Question: How long was the longest recorded crocodile? Answer:",
+    {
+        "id": "english-7412401768242498586-0",
+        "lang": "english",
+        "summary": "Lolong (died 10 February 2013) was the largest crocodile in captivity. He was a saltwater crocodile (Crocodylus porosus) measured at 6.17m (20ft 3in), and weighed 1,075kg (2,370lb), making him one of the largest crocodiles ever measured from snout-to-tail.[1][2][3][4]",
+        "question": "How long was the longest recorded crocodile?",
+        "label": "m (20ft "
+    }
+]

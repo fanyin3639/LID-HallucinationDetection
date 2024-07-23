@@ -1,0 +1,15 @@
+[
+    [
+        2807,
+        [],
+        "Jan Tinbergen and Ragnar Frisch"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Laureates in the Memorial Prize in Economics are selected by the Royal Swedish Academy of Sciences.[12][13] It was first awarded in 1969 to the Dutch and Norwegian economists Jan Tinbergen and Ragnar Frisch, \"for having developed and applied dynamic models for the analysis of economic processes\".[9][14][15] Question: Who was the first Nobel prize winner for economics? Answer:",
+    {
+        "id": "english-8683336034602645258-2",
+        "lang": "english",
+        "summary": "Laureates in the Memorial Prize in Economics are selected by the Royal Swedish Academy of Sciences.[12][13] It was first awarded in 1969 to the Dutch and Norwegian economists Jan Tinbergen and Ragnar Frisch, \"for having developed and applied dynamic models for the analysis of economic processes\".[9][14][15]",
+        "question": "Who was the first Nobel prize winner for economics?",
+        "label": "Jan Tinbergen and Ragnar Frisch"
+    }
+]

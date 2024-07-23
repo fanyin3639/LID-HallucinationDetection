@@ -1,0 +1,15 @@
+[
+    [
+        2138,
+        [],
+        "1983"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The event was initially created as a stop-gap. In 1983, the Formula One schedule originally featured a race near Flushing Meadows in New York City. When the race was cancelled three months before the event, track organizers at Brands Hatch were able to create a European Grand Prix at the track in its place. The success of the event, buoyed by a spirited battle for the World Championship, led to the event returning on the schedule the following year. Question: When was the first European Grand Prix race? Answer:",
+    {
+        "id": "english--2192474165541508998-5",
+        "lang": "english",
+        "summary": "The event was initially created as a stop-gap. In 1983, the Formula One schedule originally featured a race near Flushing Meadows in New York City. When the race was cancelled three months before the event, track organizers at Brands Hatch were able to create a European Grand Prix at the track in its place. The success of the event, buoyed by a spirited battle for the World Championship, led to the event returning on the schedule the following year.",
+        "question": "When was the first European Grand Prix race?",
+        "label": "1983"
+    }
+]

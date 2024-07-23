@@ -1,0 +1,15 @@
+[
+    [
+        1819,
+        [],
+        "Guevarism"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Guevarism is a theory of communist revolution and a military strategy of guerilla warfare associated with Marxist revolutionary Ernesto \"Che\" Guevara, a leading figure of the Cuban Revolution who believed in the idea of Marxism\u2013Leninism and embraced its principles.[1] Question: What did Che Guevara believe in? Answer:",
+    {
+        "id": "english--2641919363563907533-1",
+        "lang": "english",
+        "summary": "Guevarism is a theory of communist revolution and a military strategy of guerilla warfare associated with Marxist revolutionary Ernesto \"Che\" Guevara, a leading figure of the Cuban Revolution who believed in the idea of Marxism\u2013Leninism and embraced its principles.[1]",
+        "question": "What did Che Guevara believe in?",
+        "label": "Guevarism"
+    }
+]

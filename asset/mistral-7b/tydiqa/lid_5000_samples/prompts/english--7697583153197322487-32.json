@@ -1,0 +1,15 @@
+[
+    [
+        1676,
+        [],
+        "1960"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first use of an external defibrillator on a human was in 1947 by Claude Beck.[29] The portable version of the defibrillator was invented in the mid-1960s by Frank Pantridge in Belfast, Northern Ireland, a pioneer in emergency medical treatment.[30][31] Question: When was the AED invented? Answer:",
+    {
+        "id": "english--7697583153197322487-32",
+        "lang": "english",
+        "summary": "The first use of an external defibrillator on a human was in 1947 by Claude Beck.[29] The portable version of the defibrillator was invented in the mid-1960s by Frank Pantridge in Belfast, Northern Ireland, a pioneer in emergency medical treatment.[30][31]",
+        "question": "When was the AED invented?",
+        "label": "1960"
+    }
+]

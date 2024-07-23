@@ -1,0 +1,19 @@
+[
+    [
+        139,
+        [],
+        "United States"
+    ],
+    "Answer the following questions:\nContext: There once was a girl named Erin who had a really close friend named Kevin. They really liked being with each other, only it was difficult as Erin lived in England and Kevin lived in the United States. Because they both liked traveling and Erin wanted to see Kevin, she planned a trip to see him in the United States one summer. They had planned to travel around where Kevin lived and then go to see New York City at one point in order to see the sights and have a really nice steak dinner together. Once Erin arrived and met Kevin at the airport, she ran up to him and jumped into his arms, giving him a great big hug. They drove home where Kevin helped Erin organize her things before they changed and watched a movie together. The next day, they went out to have breakfast at the diner. They thought about getting eggs, French toast, or cereal... but couldn't make up their minds. Finally, Kevin asked the worker to bring out pancakes for the two of them to share. They had a really fun time together, visiting the beach, watching movies, and even visiting New York City like they had planned. In the morning, they went to see the Empire State building. In the afternoon, they saw the Statue of Liberty and Central Park. At night, they went to have their dinner and went back to their hotel. As Erin's trip was ending, Erin became really sad about leaving Kevin. They talked and came up with a plan for the months ahead which made Erin feel a lot better. Erin then went home and waited for Kyle to come to see her.\n'Question': What country did she travel to?\n'Answer: '",
+    {
+        "id": "3v26sbztbder9sei68k31obqk4qzz2_2",
+        "summary": "There once was a girl named Erin who had a really close friend named Kevin. They really liked being with each other, only it was difficult as Erin lived in England and Kevin lived in the United States. Because they both liked traveling and Erin wanted to see Kevin, she planned a trip to see him in the United States one summer. They had planned to travel around where Kevin lived and then go to see New York City at one point in order to see the sights and have a really nice steak dinner together. Once Erin arrived and met Kevin at the airport, she ran up to him and jumped into his arms, giving him a great big hug. They drove home where Kevin helped Erin organize her things before they changed and watched a movie together. The next day, they went out to have breakfast at the diner. They thought about getting eggs, French toast, or cereal... but couldn't make up their minds. Finally, Kevin asked the worker to bring out pancakes for the two of them to share. They had a really fun time together, visiting the beach, watching movies, and even visiting New York City like they had planned. In the morning, they went to see the Empire State building. In the afternoon, they saw the Statue of Liberty and Central Park. At night, they went to have their dinner and went back to their hotel. As Erin's trip was ending, Erin became really sad about leaving Kevin. They talked and came up with a plan for the months ahead which made Erin feel a lot better. Erin then went home and waited for Kyle to come to see her.",
+        "question": "What country did she travel to?",
+        "label": "United States",
+        "additional_answers": [
+            "the United States",
+            "the United States",
+            "in the United States"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1443,
+        [],
+        "1985"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The main author is Ken Birman, a Professor of Computer Science at Cornell University, and  it is the fourth in a series of Cornell-developed software libraries for reliable multicast.  The first was the Isis Toolkit, developed in 1985 and ultimately used in the New York Stock Exchange, the French Air Traffic Control System, the US Navy AEGIS and other settings.[1] Question: When was virtual synchrony invented? Answer:",
+    {
+        "id": "english-7815306931135397253-1",
+        "lang": "english",
+        "summary": "The main author is Ken Birman, a Professor of Computer Science at Cornell University, and  it is the fourth in a series of Cornell-developed software libraries for reliable multicast.  The first was the Isis Toolkit, developed in 1985 and ultimately used in the New York Stock Exchange, the French Air Traffic Control System, the US Navy AEGIS and other settings.[1]",
+        "question": "When was virtual synchrony invented?",
+        "label": "1985"
+    }
+]

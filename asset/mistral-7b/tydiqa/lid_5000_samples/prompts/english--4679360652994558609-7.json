@@ -1,0 +1,15 @@
+[
+    [
+        395,
+        [],
+        "1927"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1927, Baird transmitted a signal over 438 miles (705km) of telephone line between London and Glasgow. In 1928, Baird's company (Baird Television Development Company/Cinema Television) broadcast the first transatlantic television signal, between London and New York, and the first shore-to-ship transmission. In 1929, he became involved in the first experimental mechanical television service in Germany. In November of the same year, Baird and Bernard Natan of Path\u00e9 established France's first television company, T\u00e9l\u00e9vision-Baird-Natan. In 1931, he made the first outdoor remote broadcast, of The Derby.[12] In 1932, he demonstrated ultra-short wave television. Baird's mechanical system reached a peak of 240 lines of resolution on BBC television broadcasts in 1936, though the mechanical system did not scan the televised scene directly. Instead, a 17.5mm film was shot, rapidly developed and then scanned while the film was still wet. Question: When was television invented? Answer:",
+    {
+        "id": "english--4679360652994558609-7",
+        "lang": "english",
+        "summary": "In 1927, Baird transmitted a signal over 438 miles (705km) of telephone line between London and Glasgow. In 1928, Baird's company (Baird Television Development Company/Cinema Television) broadcast the first transatlantic television signal, between London and New York, and the first shore-to-ship transmission. In 1929, he became involved in the first experimental mechanical television service in Germany. In November of the same year, Baird and Bernard Natan of Path\u00e9 established France's first television company, T\u00e9l\u00e9vision-Baird-Natan. In 1931, he made the first outdoor remote broadcast, of The Derby.[12] In 1932, he demonstrated ultra-short wave television. Baird's mechanical system reached a peak of 240 lines of resolution on BBC television broadcasts in 1936, though the mechanical system did not scan the televised scene directly. Instead, a 17.5mm film was shot, rapidly developed and then scanned while the film was still wet.",
+        "question": "When was television invented?",
+        "label": "1927"
+    }
+]

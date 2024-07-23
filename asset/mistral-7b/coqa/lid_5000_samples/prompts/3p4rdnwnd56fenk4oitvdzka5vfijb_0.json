@@ -1,0 +1,19 @@
+[
+    [
+        874,
+        [],
+        "no"
+    ],
+    "Answer the following questions:\nContext: Julia gets an allowance from her parents every week for different chores she does every day. The big chore she must do is to feed the dog after school. Julia had a busy day at school and had many tests to complete. When she got home, she forgot to feed her dog, Buddy. Her parents had to feed the dog later. The next day, she forgot again. She saw her parents were feeding Buddy for her each night that she forgot to do it. Julia stopped doing her chore because she knew her parents would take care of it for her. Julia used her extra time to play every day after school. At the end of the week, Julia was excited. She had been wanting a new doll that had come out in the stores. Her friends all had them, and she wanted one, too. But at the end of the week, Julia didn't get an allowance. Her parents told her it was because she had not done her big chore all week, and had played instead. Julia did not get the toy she wanted that week.\n'Question': did ultimately Julia get her toy\n'Answer: '",
+    {
+        "id": "3p4rdnwnd56fenk4oitvdzka5vfijb_0",
+        "summary": "Julia gets an allowance from her parents every week for different chores she does every day. The big chore she must do is to feed the dog after school. Julia had a busy day at school and had many tests to complete. When she got home, she forgot to feed her dog, Buddy. Her parents had to feed the dog later. The next day, she forgot again. She saw her parents were feeding Buddy for her each night that she forgot to do it. Julia stopped doing her chore because she knew her parents would take care of it for her. Julia used her extra time to play every day after school. At the end of the week, Julia was excited. She had been wanting a new doll that had come out in the stores. Her friends all had them, and she wanted one, too. But at the end of the week, Julia didn't get an allowance. Her parents told her it was because she had not done her big chore all week, and had played instead. Julia did not get the toy she wanted that week.",
+        "question": "did ultimately Julia get her toy",
+        "label": "no",
+        "additional_answers": [
+            "no",
+            "No",
+            "no"
+        ]
+    }
+]

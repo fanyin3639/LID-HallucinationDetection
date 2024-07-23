@@ -1,0 +1,19 @@
+[
+    [
+        875,
+        [],
+        "Sparta-kooks"
+    ],
+    "Answer the following questions:\nContext: Running Man is a variety show which is aired in SBS, a famous South Korean TV channel. The show broadcasts on Sunday every week. The translation can be watched on the Internet every Monday. It's very interesting and funny. In the program, everyone should keep running. Here are some information of its hosts and hostess. Liu Zaishi, the main host of the show, is known as National Moderator(,). His friendly, witty and lovely hosting style makes him become one of the most popular hosts and comedians in South Korean. Jin Zhongguo, the strongest man on the show, is known as Sparta-kooks . During the race, he can capture others quickly. But sometimes, he can be very cute. Song Zhixiao, the beautiful actress who is also called Mong Zhi, where \"mong\" means \"confused\", because of her facial expressions which makes her seem confused. During the race mission, she is ace because of her superior ability to capture. Young people in Korea love the program very much. Why? Because some South Korean stars will be invited to take part in the race every week . They are divided into several teams with MCs. Many stars have participated in the program, for example, Li Minhao, Girls'Generation , Jin Xiuxian etc. What's more, the program is not only relaxing but also educational--- It teaches people the importance of team spirit.\n'Question': Does he have a nickname?\n'Answer: '",
+    {
+        "id": "320duz38g7m1iwe9yutssn7uq8ajgn_10",
+        "summary": "Running Man is a variety show which is aired in SBS, a famous South Korean TV channel. The show broadcasts on Sunday every week. The translation can be watched on the Internet every Monday. It's very interesting and funny. In the program, everyone should keep running. Here are some information of its hosts and hostess. Liu Zaishi, the main host of the show, is known as National Moderator(,). His friendly, witty and lovely hosting style makes him become one of the most popular hosts and comedians in South Korean. Jin Zhongguo, the strongest man on the show, is known as Sparta-kooks . During the race, he can capture others quickly. But sometimes, he can be very cute. Song Zhixiao, the beautiful actress who is also called Mong Zhi, where \"mong\" means \"confused\", because of her facial expressions which makes her seem confused. During the race mission, she is ace because of her superior ability to capture. Young people in Korea love the program very much. Why? Because some South Korean stars will be invited to take part in the race every week . They are divided into several teams with MCs. Many stars have participated in the program, for example, Li Minhao, Girls'Generation , Jin Xiuxian etc. What's more, the program is not only relaxing but also educational--- It teaches people the importance of team spirit.",
+        "question": "Does he have a nickname?",
+        "label": "Sparta-kooks",
+        "additional_answers": [
+            "Sparta-kooks",
+            "yes",
+            "Sparta-kooks"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1859,
+        [],
+        "Duke"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The ranks of the English peerage are, in descending order, Duke, Marquess, Earl, Viscount, and Baron.  While most newer English peerages descend only in the male line, many of the older ones (particularly older baronies) can descend through females. Under English inheritance law all daughters are co-heirs, so many older English peerage titles have fallen into abeyance between various female co-heirs. Question: What is the highest title in the English peerage? Answer:",
+    {
+        "id": "english-8461103820309020482-3",
+        "lang": "english",
+        "summary": "The ranks of the English peerage are, in descending order, Duke, Marquess, Earl, Viscount, and Baron.  While most newer English peerages descend only in the male line, many of the older ones (particularly older baronies) can descend through females. Under English inheritance law all daughters are co-heirs, so many older English peerage titles have fallen into abeyance between various female co-heirs.",
+        "question": "What is the highest title in the English peerage?",
+        "label": "Duke"
+    }
+]

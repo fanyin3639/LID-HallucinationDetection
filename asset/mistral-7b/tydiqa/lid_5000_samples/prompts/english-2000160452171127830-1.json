@@ -1,0 +1,15 @@
+[
+    [
+        2129,
+        [],
+        "1955"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The development of the cavity magnetron in the UK made possible the production of electromagnetic waves of a small enough wavelength (microwaves). American engineer Percy Spencer is generally credited with inventing the modern microwave oven after World War II from radar technology developed during the war. Named the \"Radarange\", it was first sold in 1946. Raytheon later licensed its patents for a home-use microwave oven that was first introduced by Tappan in 1955, but these units were still too large and expensive for general home use. Sharp Corporation introduced the first microwave oven with a turntable between 1964 and 1966. The countertop microwave oven was first introduced in 1967 by the Amana Corporation. After Sharp introduced low-cost microwave ovens affordable for residential use in the late 1970s, their use spread into commercial and residential kitchens around the world. In addition to their use in cooking food, types of microwave ovens are used for heating in many industrial processes. Question: When was the first microwave made? Answer:",
+    {
+        "id": "english-2000160452171127830-1",
+        "lang": "english",
+        "summary": "The development of the cavity magnetron in the UK made possible the production of electromagnetic waves of a small enough wavelength (microwaves). American engineer Percy Spencer is generally credited with inventing the modern microwave oven after World War II from radar technology developed during the war. Named the \"Radarange\", it was first sold in 1946. Raytheon later licensed its patents for a home-use microwave oven that was first introduced by Tappan in 1955, but these units were still too large and expensive for general home use. Sharp Corporation introduced the first microwave oven with a turntable between 1964 and 1966. The countertop microwave oven was first introduced in 1967 by the Amana Corporation. After Sharp introduced low-cost microwave ovens affordable for residential use in the late 1970s, their use spread into commercial and residential kitchens around the world. In addition to their use in cooking food, types of microwave ovens are used for heating in many industrial processes.",
+        "question": "When was the first microwave made?",
+        "label": "1955"
+    }
+]

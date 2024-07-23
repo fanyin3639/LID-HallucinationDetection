@@ -1,0 +1,15 @@
+[
+    [
+        3011,
+        [],
+        "1870s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: These shoes acquired the nickname 'plimsoll' in the 1870s, derived according to Nicholette Jones' book The Plimsoll Sensation, from the coloured horizontal band joining the upper to the sole, which resembled the Plimsoll line on a ship's hull. Alternatively, just like the Plimsoll line on a ship, if water got above the line of the rubber sole, the wearer would get wet.[7] Question: When were athletic sneakers first used? Answer:",
+    {
+        "id": "english-5888065653536064810-4",
+        "lang": "english",
+        "summary": "These shoes acquired the nickname 'plimsoll' in the 1870s, derived according to Nicholette Jones' book The Plimsoll Sensation, from the coloured horizontal band joining the upper to the sole, which resembled the Plimsoll line on a ship's hull. Alternatively, just like the Plimsoll line on a ship, if water got above the line of the rubber sole, the wearer would get wet.[7]",
+        "question": "When were athletic sneakers first used?",
+        "label": "1870s"
+    }
+]

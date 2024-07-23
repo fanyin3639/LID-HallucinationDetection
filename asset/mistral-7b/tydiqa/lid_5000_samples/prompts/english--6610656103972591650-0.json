@@ -1,0 +1,15 @@
+[
+    [
+        2921,
+        [],
+        "Rear Admiral Alan Bartlett Shepard Jr"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Rear Admiral Alan Bartlett Shepard Jr. (November 18, 1923 \u2013 July 21, 1998) was an American astronaut, naval aviator, test pilot, and businessman. In 1961 he became the first American to travel into space, and in 1971 he walked on the Moon. Question: Who was the first American in space? Answer:",
+    {
+        "id": "english--6610656103972591650-0",
+        "lang": "english",
+        "summary": "Rear Admiral Alan Bartlett Shepard Jr. (November 18, 1923 \u2013 July 21, 1998) was an American astronaut, naval aviator, test pilot, and businessman. In 1961 he became the first American to travel into space, and in 1971 he walked on the Moon.",
+        "question": "Who was the first American in space?",
+        "label": "Rear Admiral Alan Bartlett Shepard Jr"
+    }
+]

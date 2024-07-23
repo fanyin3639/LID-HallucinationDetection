@@ -1,0 +1,15 @@
+[
+    [
+        2044,
+        [],
+        "abdominal aortic aneurysm and subsequent rupture"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Attempts to revive her failed and her death was officially pronounced at 5:47a.m. PDT. Doctors determined that Ball had succumbed to an abdominal aortic aneurysm and subsequent rupture, and that it was not directly related to her upper aneurysm and surgery the previous week. Cigarette smokers are known to have increased risk of abdominal aneurysm. Ball had been a heavy smoker most of her life. She was 77 years old.[77][78] Question: How did Lucille Ball die? Answer:",
+    {
+        "id": "english-4415029479642690249-58",
+        "lang": "english",
+        "summary": "Attempts to revive her failed and her death was officially pronounced at 5:47a.m. PDT. Doctors determined that Ball had succumbed to an abdominal aortic aneurysm and subsequent rupture, and that it was not directly related to her upper aneurysm and surgery the previous week. Cigarette smokers are known to have increased risk of abdominal aneurysm. Ball had been a heavy smoker most of her life. She was 77 years old.[77][78]",
+        "question": "How did Lucille Ball die?",
+        "label": "abdominal aortic aneurysm and subsequent rupture"
+    }
+]

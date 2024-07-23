@@ -1,0 +1,19 @@
+[
+    [
+        832,
+        [],
+        "Paul"
+    ],
+    "Answer the following questions:\nContext: The snow went on falling, and they could see only a few meters in front of them. \"We should go back,\" said Judy.She was afraid. \"But where is the path ?\" Everything was covered with snow.The sky was grey.\"What's the time?\" asked Paul.Judy looked at her watch.\"Nearly 5 o'clock.It gets dark in an hour.\" \"We must start walking, and hope we find the path.I think the snow's stopping.\"said Paul.But it wasn't stopping.The wind was strong.It blew around them, cold and wet. \"Just keep going downhill.\"said Judy.\"We can't go wrong.\" Then Paul fell on some rocks.He shouted.\"Judy! I've hurt my leg!\" He couldn't stand up.His leg hurt too much. \"I'll have to phone for help.\"said Judy.\"I hope the mobile phone works up here!\" Luckily it did.They phoned the mountain service .\"Don't move! shouted the man on the phone.Stay where you are, we're sending a team there.\" They were not far from the path, so the team found them easily.They were lucky! People often get into trouble when they climb the mountains.You must always tell someone where you are going and take a mobile phone with you.Mountain is a dangerous place to be if things go wrong!\n'Question': Who?\n'Answer: '",
+    {
+        "id": "3snvl38ci4sjc44metxl3bms76nckc_7",
+        "summary": "The snow went on falling, and they could see only a few meters in front of them. \"We should go back,\" said Judy.She was afraid. \"But where is the path ?\" Everything was covered with snow.The sky was grey.\"What's the time?\" asked Paul.Judy looked at her watch.\"Nearly 5 o'clock.It gets dark in an hour.\" \"We must start walking, and hope we find the path.I think the snow's stopping.\"said Paul.But it wasn't stopping.The wind was strong.It blew around them, cold and wet. \"Just keep going downhill.\"said Judy.\"We can't go wrong.\" Then Paul fell on some rocks.He shouted.\"Judy! I've hurt my leg!\" He couldn't stand up.His leg hurt too much. \"I'll have to phone for help.\"said Judy.\"I hope the mobile phone works up here!\" Luckily it did.They phoned the mountain service .\"Don't move! shouted the man on the phone.Stay where you are, we're sending a team there.\" They were not far from the path, so the team found them easily.They were lucky! People often get into trouble when they climb the mountains.You must always tell someone where you are going and take a mobile phone with you.Mountain is a dangerous place to be if things go wrong!",
+        "question": "Who?",
+        "label": "Paul",
+        "additional_answers": [
+            "Paul",
+            "Paul",
+            "Paul"
+        ]
+    }
+]

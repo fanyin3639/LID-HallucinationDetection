@@ -1,0 +1,15 @@
+[
+    [
+        2651,
+        [],
+        "approximately 97,500"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The giraffe has intrigued various cultures, both ancient and modern, for its peculiar appearance, and has often been featured in paintings, books, and cartoons. It is classified by the International Union for Conservation of Nature as Vulnerable to extinction, and has been extirpated from many parts of its former range. Giraffes are still found in numerous national parks and game reserves but estimations as of 2016 indicate that there are approximately 97,500 members of Giraffa in the wild. More than 1,600 were kept in zoos in 2010. Question: What's the current population of giraffes in the wild? Answer:",
+    {
+        "id": "english-5315874300194568139-2",
+        "lang": "english",
+        "summary": "The giraffe has intrigued various cultures, both ancient and modern, for its peculiar appearance, and has often been featured in paintings, books, and cartoons. It is classified by the International Union for Conservation of Nature as Vulnerable to extinction, and has been extirpated from many parts of its former range. Giraffes are still found in numerous national parks and game reserves but estimations as of 2016 indicate that there are approximately 97,500 members of Giraffa in the wild. More than 1,600 were kept in zoos in 2010.",
+        "question": "What's the current population of giraffes in the wild?",
+        "label": "approximately 97,500"
+    }
+]

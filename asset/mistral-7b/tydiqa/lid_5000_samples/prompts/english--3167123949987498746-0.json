@@ -1,0 +1,15 @@
+[
+    [
+        3100,
+        [],
+        "Balochistan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Punjab (Urdu, Punjabi: \u067e\u0646\u062c\u0627\u0628, panj-\u0101b, \"five waters\": listen) is Pakistan's second largest province by area, after Balochistan, and it is the most populated province, with an estimated population of 110,012,442 as of 2017.[1] Forming the bulk of the transnational Punjab region, it is bordered by the Pakistan provinces of Sindh, Balochistan, and Khyber Pakhtunkhwa, the enclave of Islamabad, and Azad Kashmir. It also shares borders with the Indian states of Punjab, Rajasthan and Jammu and Kashmir. The provincial capital of Punjab is the city Lahore, a cultural, historical, economic and cosmopolitan centre of Pakistan where the country's cinema industry, and much of its fashion industry, are based.[4][5] Question: What is the largest province in Pakistan? Answer:",
+    {
+        "id": "english--3167123949987498746-0",
+        "lang": "english",
+        "summary": "Punjab (Urdu, Punjabi: \u067e\u0646\u062c\u0627\u0628, panj-\u0101b, \"five waters\": listen) is Pakistan's second largest province by area, after Balochistan, and it is the most populated province, with an estimated population of 110,012,442 as of 2017.[1] Forming the bulk of the transnational Punjab region, it is bordered by the Pakistan provinces of Sindh, Balochistan, and Khyber Pakhtunkhwa, the enclave of Islamabad, and Azad Kashmir. It also shares borders with the Indian states of Punjab, Rajasthan and Jammu and Kashmir. The provincial capital of Punjab is the city Lahore, a cultural, historical, economic and cosmopolitan centre of Pakistan where the country's cinema industry, and much of its fashion industry, are based.[4][5]",
+        "question": "What is the largest province in Pakistan?",
+        "label": "Balochistan"
+    }
+]

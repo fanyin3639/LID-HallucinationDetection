@@ -1,0 +1,15 @@
+[
+    [
+        2584,
+        [],
+        "October 23, 2006"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On October 23, 2006, KHON-TV was announced as the Honolulu affiliate of The CW, carrying the network on its second digital subchannel.[31] Beginning in March 2006 (two months after the network's launch was announced), The CW had struggled to find an affiliate in Honolulu after the market's then-WB affiliate KFVE, which was seen by many as the likeliest candidate to join The CW, signed with competing network MyNetworkTV, and former UPN affiliate KIKU (which aired the network's programming in the afternoons) declined to take the CW affiliation. Question: When did KHON-TV become a CW affiliate? Answer:",
+    {
+        "id": "english--4203118762903811769-24",
+        "lang": "english",
+        "summary": "On October 23, 2006, KHON-TV was announced as the Honolulu affiliate of The CW, carrying the network on its second digital subchannel.[31] Beginning in March 2006 (two months after the network's launch was announced), The CW had struggled to find an affiliate in Honolulu after the market's then-WB affiliate KFVE, which was seen by many as the likeliest candidate to join The CW, signed with competing network MyNetworkTV, and former UPN affiliate KIKU (which aired the network's programming in the afternoons) declined to take the CW affiliation.",
+        "question": "When did KHON-TV become a CW affiliate?",
+        "label": "October 23, 2006"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1285,
+        [],
+        "800km"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A 2005 photo of a locale in Elysium Planitia at 5\u00b0N, 150\u00b0E by the Mars Express spacecraft shows what may be ash-covered water ice. The volume of ice is estimated to be 800km (500mi) by 900km (560mi) in size and 45m (148ft) deep, similar in size and depth to the North Sea.[3] The ice is thought to be the remains of water floods from the Cerberus Fossae fissures about 2 to 10 million years ago. The surface of the area is broken into 'plates' like broken ice floating on a lake (see below). Impact crater counts show that the plates are up to 1 million years older than the gap material, showing that the area solidified much too slowly for the material to be basaltic lava.[4] Question: How large is the Elysium Planitia region of Mars? Answer:",
+    {
+        "id": "english-9152012893950642187-2",
+        "lang": "english",
+        "summary": "A 2005 photo of a locale in Elysium Planitia at 5\u00b0N, 150\u00b0E by the Mars Express spacecraft shows what may be ash-covered water ice. The volume of ice is estimated to be 800km (500mi) by 900km (560mi) in size and 45m (148ft) deep, similar in size and depth to the North Sea.[3] The ice is thought to be the remains of water floods from the Cerberus Fossae fissures about 2 to 10 million years ago. The surface of the area is broken into 'plates' like broken ice floating on a lake (see below). Impact crater counts show that the plates are up to 1 million years older than the gap material, showing that the area solidified much too slowly for the material to be basaltic lava.[4]",
+        "question": "How large is the Elysium Planitia region of Mars?",
+        "label": "800km"
+    }
+]

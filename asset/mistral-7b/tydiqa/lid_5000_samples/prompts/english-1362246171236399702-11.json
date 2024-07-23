@@ -1,0 +1,15 @@
+[
+    [
+        26,
+        [],
+        "Ivan's Childhood"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Tarkovsky's first feature film was Ivan's Childhood in 1962. He had inherited the film from director Eduard Abalov, who had to abort the project. The film earned Tarkovsky international acclaim and won the Golden Lion award at the Venice Film Festival in the year 1962. In the same year, on 30 September, his first son Arseny (called Senka in Tarkovsky's diaries) Tarkovsky was born. Question: What was the first film directed by Andrei Tarkovsky? Answer:",
+    {
+        "id": "english-1362246171236399702-11",
+        "lang": "english",
+        "summary": "Tarkovsky's first feature film was Ivan's Childhood in 1962. He had inherited the film from director Eduard Abalov, who had to abort the project. The film earned Tarkovsky international acclaim and won the Golden Lion award at the Venice Film Festival in the year 1962. In the same year, on 30 September, his first son Arseny (called Senka in Tarkovsky's diaries) Tarkovsky was born.",
+        "question": "What was the first film directed by Andrei Tarkovsky?",
+        "label": "Ivan's Childhood"
+    }
+]

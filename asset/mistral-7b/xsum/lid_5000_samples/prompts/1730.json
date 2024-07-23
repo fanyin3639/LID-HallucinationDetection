@@ -1,0 +1,14 @@
+[
+    [
+        1730,
+        [],
+        "Great Britain missed out on promotion to Division 1A of the Ice Hockey World Championship with an agonising 3-2 defeat by Lithuania in Eindhoven."
+    ],
+    "Write a short summary for the following passage:\nSouth Korea's 9-4 win over Croatia left GB needing a point from their final match, but Paulius Gintautas's goal won it in the final period for Lithuania.\nThe results means Britain take silver and will remain in the third tier of world ice hockey for a third season.\n\"I am so proud of them right now,\" said GB coach Pete Russell.\n\"This is hurting so much but we should hold our heads up high. They were shattered out there but they gave it their all and they played with pride and passion all week.\n\"We just came up a little short but they deserve so much credit for the week they had.\n\"I guess it just wasn't meant to be; it was one of those things.\"\nSummary:\n",
+    {
+        "id": 1730,
+        "document": "South Korea's 9-4 win over Croatia left GB needing a point from their final match, but Paulius Gintautas's goal won it in the final period for Lithuania.\nThe results means Britain take silver and will remain in the third tier of world ice hockey for a third season.\n\"I am so proud of them right now,\" said GB coach Pete Russell.\n\"This is hurting so much but we should hold our heads up high. They were shattered out there but they gave it their all and they played with pride and passion all week.\n\"We just came up a little short but they deserve so much credit for the week they had.\n\"I guess it just wasn't meant to be; it was one of those things.\"",
+        "summary": "Great Britain missed out on promotion to Division 1A of the Ice Hockey World Championship with an agonising 3-2 defeat by Lithuania in Eindhoven.",
+        "label": "Great Britain missed out on promotion to Division 1A of the Ice Hockey World Championship with an agonising 3-2 defeat by Lithuania in Eindhoven."
+    }
+]

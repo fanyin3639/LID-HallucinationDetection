@@ -1,0 +1,15 @@
+[
+    [
+        2059,
+        [],
+        "Italy"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 2014, the five largest producers of wine in the world were, in order, Italy,  Spain, and France. (see list of wine-producing countries for a complete rank). Question: Which country is the largest producer of wine? Answer:",
+    {
+        "id": "english--7637353571807942721-1",
+        "lang": "english",
+        "summary": "In 2014, the five largest producers of wine in the world were, in order, Italy,  Spain, and France. (see list of wine-producing countries for a complete rank).",
+        "question": "Which country is the largest producer of wine?",
+        "label": "Italy"
+    }
+]

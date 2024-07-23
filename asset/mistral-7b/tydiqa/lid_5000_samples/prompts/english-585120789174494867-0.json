@@ -1,0 +1,15 @@
+[
+    [
+        314,
+        [],
+        "Maghreb"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The term \"Moors\" refers primarily to the Muslim inhabitants of the Maghreb, the Iberian Peninsula, Sicily, Sardinia, Corsica, and Malta during the Middle Ages. The Moors initially were the indigenous  Maghrebine Berbers.[1] The name was later also applied to Arabs.[2][3] Question: Where were the Moors from? Answer:",
+    {
+        "id": "english-585120789174494867-0",
+        "lang": "english",
+        "summary": "The term \"Moors\" refers primarily to the Muslim inhabitants of the Maghreb, the Iberian Peninsula, Sicily, Sardinia, Corsica, and Malta during the Middle Ages. The Moors initially were the indigenous  Maghrebine Berbers.[1] The name was later also applied to Arabs.[2][3]",
+        "question": "Where were the Moors from?",
+        "label": "Maghreb"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2313,
+        [],
+        "June 28, 1934"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Claire Vaughn Labine (n\u00e9e Wood; June 28, 1934 \u2013 November 11, 2016) was an American soap opera writer and producer.[1][2] Question: When was Claire Labine born? Answer:",
+    {
+        "id": "english-1923360050785332398-0",
+        "lang": "english",
+        "summary": "Claire Vaughn Labine (n\u00e9e Wood; June 28, 1934 \u2013 November 11, 2016) was an American soap opera writer and producer.[1][2]",
+        "question": "When was Claire Labine born?",
+        "label": "June 28, 1934"
+    }
+]

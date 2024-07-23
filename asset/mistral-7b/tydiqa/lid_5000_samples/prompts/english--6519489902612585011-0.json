@@ -1,0 +1,15 @@
+[
+    [
+        1257,
+        [],
+        "4 September 2015"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Bathurst Showground is a heritage-listed showground at Kendall Avenue (Great Western Highway), Bathurst, Bathurst Region, New South Wales, Australia. It was designed by James Hines, J. J. Copemen and Edward Gell and built from 1879. The property is owned by Bathurst Showground Trust and the New South Wales Department of Trade & Investment, Regional Infrastructure & Services. It was added to the New South Wales State Heritage Register on 4 September 2015.[1] Question: When did the Bathurst Showground become a heritage-listed site? Answer:",
+    {
+        "id": "english--6519489902612585011-0",
+        "lang": "english",
+        "summary": "The Bathurst Showground is a heritage-listed showground at Kendall Avenue (Great Western Highway), Bathurst, Bathurst Region, New South Wales, Australia. It was designed by James Hines, J. J. Copemen and Edward Gell and built from 1879. The property is owned by Bathurst Showground Trust and the New South Wales Department of Trade & Investment, Regional Infrastructure & Services. It was added to the New South Wales State Heritage Register on 4 September 2015.[1]",
+        "question": "When did the Bathurst Showground become a heritage-listed site?",
+        "label": "4 September 2015"
+    }
+]

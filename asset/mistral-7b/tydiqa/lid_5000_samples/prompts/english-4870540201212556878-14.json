@@ -1,0 +1,15 @@
+[
+    [
+        987,
+        [],
+        "since the 1800s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Standardized testing has been a part of American education since the 1800s, but the widespread reliance on standardized is largely a 20th-century phenomenon. For instance the College Entrance Examination Board did not begin standardized testing in connection to higher education until 1900. The College Entrance Examination Board was established and in 1901, the first examinations were administered around the country in nine subjects. This test was implemented with the idea of creating standardized admissions for the United States in northeastern elite universities. Originally, the test was also meant for top boarding school in order to standardize curriculum.[10] With origins in World War I the Army Alpha and Beta tests developed by Robert Yerkes and colleagues.[11] Before then, immigration in the mid-19th century contributed to the growth of standardized tests in the United States.[12] Standardized tests were used in immigration when people first came over to test social roles and find social power and status.[13] Question: When were standardized tests introduced in American schools? Answer:",
+    {
+        "id": "english-4870540201212556878-14",
+        "lang": "english",
+        "summary": "Standardized testing has been a part of American education since the 1800s, but the widespread reliance on standardized is largely a 20th-century phenomenon. For instance the College Entrance Examination Board did not begin standardized testing in connection to higher education until 1900. The College Entrance Examination Board was established and in 1901, the first examinations were administered around the country in nine subjects. This test was implemented with the idea of creating standardized admissions for the United States in northeastern elite universities. Originally, the test was also meant for top boarding school in order to standardize curriculum.[10] With origins in World War I the Army Alpha and Beta tests developed by Robert Yerkes and colleagues.[11] Before then, immigration in the mid-19th century contributed to the growth of standardized tests in the United States.[12] Standardized tests were used in immigration when people first came over to test social roles and find social power and status.[13]",
+        "question": "When were standardized tests introduced in American schools?",
+        "label": "since the 1800s"
+    }
+]

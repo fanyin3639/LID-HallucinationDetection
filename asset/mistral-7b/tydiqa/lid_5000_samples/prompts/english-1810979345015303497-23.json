@@ -1,0 +1,15 @@
+[
+    [
+        1855,
+        [],
+        "3 August 1960"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On 11 July 1960 France agreed to Niger becoming fully independent.[15] The French Fifth Republic passed a revision of the French Community allowing membership of independent states. On 28 July the Nigerien Legislative Assembly became the Nigerien National Assembly. Independence was declared on 3 August 1960 under the leadership of Prime Minister Diori. Subsequently in November 1960 Diori was elected to the new position of President of Niger by the National Assembly.  During his presidency, Diori's government favored the maintenance of traditional social structures and the retention of close economic ties with France. He was re-elected unopposed in 1965 and 1970. Question: When was Niger founded? Answer:",
+    {
+        "id": "english-1810979345015303497-23",
+        "lang": "english",
+        "summary": "On 11 July 1960 France agreed to Niger becoming fully independent.[15] The French Fifth Republic passed a revision of the French Community allowing membership of independent states. On 28 July the Nigerien Legislative Assembly became the Nigerien National Assembly. Independence was declared on 3 August 1960 under the leadership of Prime Minister Diori. Subsequently in November 1960 Diori was elected to the new position of President of Niger by the National Assembly.  During his presidency, Diori's government favored the maintenance of traditional social structures and the retention of close economic ties with France. He was re-elected unopposed in 1965 and 1970.",
+        "question": "When was Niger founded?",
+        "label": "3 August 1960"
+    }
+]

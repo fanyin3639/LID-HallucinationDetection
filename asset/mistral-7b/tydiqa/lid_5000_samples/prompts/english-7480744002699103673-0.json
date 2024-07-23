@@ -1,0 +1,15 @@
+[
+    [
+        2240,
+        [],
+        "Seikilos epitaph"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Seikilos epitaph is the oldest surviving complete musical composition, including musical notation, from anywhere in the world. The epitaph has been variously dated, but seems to be either from the 1st or the 2nd century AD. The song, the melody of which is recorded, alongside its lyrics, in the ancient Greek musical notation, was found engraved on a tombstone (a stele) from the Hellenistic town Tralles near present-day Ayd\u0131n, Turkey, not far from Ephesus. It is a Hellenistic Ionic song in either the Phrygian octave species or Iastian tonos. While older music with notation exists (for example the Hurrian songs), all of it is in fragments; the Seikilos epitaph is unique in that it is a complete, though short, composition.[1] Question: What is the oldest surviving example of written music? Answer:",
+    {
+        "id": "english-7480744002699103673-0",
+        "lang": "english",
+        "summary": "The Seikilos epitaph is the oldest surviving complete musical composition, including musical notation, from anywhere in the world. The epitaph has been variously dated, but seems to be either from the 1st or the 2nd century AD. The song, the melody of which is recorded, alongside its lyrics, in the ancient Greek musical notation, was found engraved on a tombstone (a stele) from the Hellenistic town Tralles near present-day Ayd\u0131n, Turkey, not far from Ephesus. It is a Hellenistic Ionic song in either the Phrygian octave species or Iastian tonos. While older music with notation exists (for example the Hurrian songs), all of it is in fragments; the Seikilos epitaph is unique in that it is a complete, though short, composition.[1]",
+        "question": "What is the oldest surviving example of written music?",
+        "label": "Seikilos epitaph"
+    }
+]

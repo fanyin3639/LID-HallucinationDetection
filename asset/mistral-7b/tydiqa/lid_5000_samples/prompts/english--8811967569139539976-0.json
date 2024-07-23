@@ -1,0 +1,15 @@
+[
+    [
+        2610,
+        [],
+        "Patrick Troughton"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Second Doctor is an incarnation of the Doctor, the protagonist of the BBC science fiction television series Doctor Who. He was portrayed by character actor Patrick Troughton. Question: Who played the second Doctor Who on TV? Answer:",
+    {
+        "id": "english--8811967569139539976-0",
+        "lang": "english",
+        "summary": "The Second Doctor is an incarnation of the Doctor, the protagonist of the BBC science fiction television series Doctor Who. He was portrayed by character actor Patrick Troughton.",
+        "question": "Who played the second Doctor Who on TV?",
+        "label": "Patrick Troughton"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        1164,
+        [],
+        "yes"
+    ],
+    "Answer the following questions:\nContext: CHAPTER LXIV. \n\n\"Questa montagna e tale, Che sempre al cominciar di sotto a grave. E quanto uom piu va su e men fa male.\" --DANTE: _Il Purgatorio_. \n\nIt was not many days after her mother's arrival that Gwendolen would consent to remain at Genoa. Her desire to get away from that gem of the sea, helped to rally her strength and courage. For what place, though it were the flowery vale of Enna, may not the inward sense turn into a circle of punishment where the flowers are no better than a crop of flame-tongues burning the soles of our feet? \n\n\"I shall never like to see the Mediterranean again,\" said Gwendolen, to her mother, who thought that she quite understood her child's feeling--even in her tacit prohibition of any express reference to her late husband. \n\nMrs. Davilow, indeed, though compelled formally to regard this time as one of severe calamity, was virtually enjoying her life more than she had ever done since her daughter's marriage. It seemed that her darling was brought back to her not merely with all the old affection, but with a conscious cherishing of her mother's nearness, such as we give to a possession that we have been on the brink of losing. \n\n\"Are you there, mamma?\" cried Gwendolen, in the middle of the night (a bed had been made for her mother in the same room with hers), very much as she would have done in her early girlhood, if she had felt frightened in lying awake. \n'Question': Was there a bed for her?\n'Answer: '",
+    {
+        "id": "3kgtpgbs6xlkhihwbechxlm4ymh2uw_3",
+        "summary": "CHAPTER LXIV. \n\n\"Questa montagna e tale, Che sempre al cominciar di sotto a grave. E quanto uom piu va su e men fa male.\" --DANTE: _Il Purgatorio_. \n\nIt was not many days after her mother's arrival that Gwendolen would consent to remain at Genoa. Her desire to get away from that gem of the sea, helped to rally her strength and courage. For what place, though it were the flowery vale of Enna, may not the inward sense turn into a circle of punishment where the flowers are no better than a crop of flame-tongues burning the soles of our feet? \n\n\"I shall never like to see the Mediterranean again,\" said Gwendolen, to her mother, who thought that she quite understood her child's feeling--even in her tacit prohibition of any express reference to her late husband. \n\nMrs. Davilow, indeed, though compelled formally to regard this time as one of severe calamity, was virtually enjoying her life more than she had ever done since her daughter's marriage. It seemed that her darling was brought back to her not merely with all the old affection, but with a conscious cherishing of her mother's nearness, such as we give to a possession that we have been on the brink of losing. \n\n\"Are you there, mamma?\" cried Gwendolen, in the middle of the night (a bed had been made for her mother in the same room with hers), very much as she would have done in her early girlhood, if she had felt frightened in lying awake. ",
+        "question": "Was there a bed for her?",
+        "label": "yes",
+        "additional_answers": [
+            "Yes",
+            "Yes",
+            "yes"
+        ]
+    }
+]

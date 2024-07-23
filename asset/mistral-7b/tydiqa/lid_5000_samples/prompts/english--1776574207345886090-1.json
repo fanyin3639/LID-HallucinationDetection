@@ -1,0 +1,15 @@
+[
+    [
+        1365,
+        [],
+        "1974"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Amid high food prices in 1972, Sweden's National Board of Health and Welfare developed the idea of \"basic foods\" that were both cheap and nutritious, and \"supplemental foods\" that added nutrition missing from the basic foods. Anna-Britt Agns\u00e4ter, chief of the \"test kitchen\" for Kooperativa F\u00f6rbundet (a cooperative Swedish retail chain), held a lecture the next year on how to illustrate these food groups. Attendee Fjalar Clemes suggested a triangle displaying basic foods at the base. Agns\u00e4ter developed the idea into the first food pyramid, which was introduced to the public in 1974 in KF's Vi magazine.[2][3][4] The pyramid was divided into basic foods at the base, including milk, cheese, margarine, bread, cereals and potato; a large section of supplemental vegetables and fruit; and an apex of supplemental meat, fish and egg. The pyramid competed with the National Board's \"dietary circle,\" which KF saw as problematic for resembling a cake divided into seven slices, and for not indicating how much of each food should be eaten. While the Board distanced itself from the pyramid, KF continued to promote it. Question: When was the food pyramid first introduced? Answer:",
+    {
+        "id": "english--1776574207345886090-1",
+        "lang": "english",
+        "summary": "Amid high food prices in 1972, Sweden's National Board of Health and Welfare developed the idea of \"basic foods\" that were both cheap and nutritious, and \"supplemental foods\" that added nutrition missing from the basic foods. Anna-Britt Agns\u00e4ter, chief of the \"test kitchen\" for Kooperativa F\u00f6rbundet (a cooperative Swedish retail chain), held a lecture the next year on how to illustrate these food groups. Attendee Fjalar Clemes suggested a triangle displaying basic foods at the base. Agns\u00e4ter developed the idea into the first food pyramid, which was introduced to the public in 1974 in KF's Vi magazine.[2][3][4] The pyramid was divided into basic foods at the base, including milk, cheese, margarine, bread, cereals and potato; a large section of supplemental vegetables and fruit; and an apex of supplemental meat, fish and egg. The pyramid competed with the National Board's \"dietary circle,\" which KF saw as problematic for resembling a cake divided into seven slices, and for not indicating how much of each food should be eaten. While the Board distanced itself from the pyramid, KF continued to promote it.",
+        "question": "When was the food pyramid first introduced?",
+        "label": "1974"
+    }
+]

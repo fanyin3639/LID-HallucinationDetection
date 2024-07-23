@@ -1,0 +1,14 @@
+[
+    [
+        678,
+        [],
+        "Hundreds of residents south of Sydney have been force to flee their homes because of rising floodwaters."
+    ],
+    "Write a short summary for the following passage:\nNearly 70 people have been rescued from floodwaters since the severe weather first lashed Sydney's southern suburbs on Monday.\nMore than 1400 calls for help were made to the State Emergency Service (SES).\nAn SES spokeswoman told the BBC most cases involved rescuing people who had driven through floodwaters.\n\"It's dangerous not only to members of the public but also to our volunteers,\" she said.\nThe worst hit region has been around the Illawarra and Shoalhaven on the New South Wales south coast.\nA number of animals, including horses, cattle, and alpaca were also rescued.\n\"They were moved to higher ground by our large animal rescue technicians,\" the SES said.\nTwenty-five people were evacuated on Tuesday around the Kiama region, about 120 km south of Sydney,  amid fears the walls of a small dam would collapse.\nAuthorities have now assessed the Jerrara Dam as safe and have told residents they can return to their homes.\nSummary:\n",
+    {
+        "id": 678,
+        "document": "Nearly 70 people have been rescued from floodwaters since the severe weather first lashed Sydney's southern suburbs on Monday.\nMore than 1400 calls for help were made to the State Emergency Service (SES).\nAn SES spokeswoman told the BBC most cases involved rescuing people who had driven through floodwaters.\n\"It's dangerous not only to members of the public but also to our volunteers,\" she said.\nThe worst hit region has been around the Illawarra and Shoalhaven on the New South Wales south coast.\nA number of animals, including horses, cattle, and alpaca were also rescued.\n\"They were moved to higher ground by our large animal rescue technicians,\" the SES said.\nTwenty-five people were evacuated on Tuesday around the Kiama region, about 120 km south of Sydney,  amid fears the walls of a small dam would collapse.\nAuthorities have now assessed the Jerrara Dam as safe and have told residents they can return to their homes.",
+        "summary": "Hundreds of residents south of Sydney have been force to flee their homes because of rising floodwaters.",
+        "label": "Hundreds of residents south of Sydney have been force to flee their homes because of rising floodwaters."
+    }
+]

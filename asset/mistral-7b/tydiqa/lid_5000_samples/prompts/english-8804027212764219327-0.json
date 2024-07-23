@@ -1,0 +1,15 @@
+[
+    [
+        3074,
+        [],
+        "southern San Francisco Bay Area of Northern California"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Silicon Valley is a region in the southern San Francisco Bay Area of Northern California that serves as a global center for high technology, innovation and social media. It corresponds roughly to the geographical area of Santa Clara Valley.  San Jose is the Valley's largest city, the third largest in California, and the tenth largest in the United States. Other major Silicon Valley cities include Palo Alto, Menlo Park, Cupertino, Santa Clara, Mountain View, and Sunnyvale.[1] The San Jose Metropolitan Area has the third highest GDP per capita in the world (after Zurich, Switzerland and Oslo, Norway), according to the Brookings Institution.[2] Question: Where is Silicone Valley located? Answer:",
+    {
+        "id": "english-8804027212764219327-0",
+        "lang": "english",
+        "summary": "Silicon Valley is a region in the southern San Francisco Bay Area of Northern California that serves as a global center for high technology, innovation and social media. It corresponds roughly to the geographical area of Santa Clara Valley.  San Jose is the Valley's largest city, the third largest in California, and the tenth largest in the United States. Other major Silicon Valley cities include Palo Alto, Menlo Park, Cupertino, Santa Clara, Mountain View, and Sunnyvale.[1] The San Jose Metropolitan Area has the third highest GDP per capita in the world (after Zurich, Switzerland and Oslo, Norway), according to the Brookings Institution.[2]",
+        "question": "Where is Silicone Valley located?",
+        "label": "southern San Francisco Bay Area of Northern California"
+    }
+]

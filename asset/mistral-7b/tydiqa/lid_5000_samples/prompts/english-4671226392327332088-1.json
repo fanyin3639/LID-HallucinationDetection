@@ -1,0 +1,15 @@
+[
+    [
+        190,
+        [],
+        "sugars, starch, and cellulose"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The term is most common in biochemistry, where it is a synonym of 'saccharide', a group that includes sugars, starch, and cellulose. The saccharides are divided into four chemical groups: monosaccharides, disaccharides, oligosaccharides, and polysaccharides. Monosaccharides and disaccharides, the smallest (lower molecular weight) carbohydrates, are  commonly referred to as sugars.[3] The word saccharide comes from the Greek word \u03c3\u03ac\u03ba\u03c7\u03b1\u03c1\u03bf\u03bd (s\u00e1kkharon), meaning \"sugar\".[4] While the scientific nomenclature of carbohydrates is complex, the names of the monosaccharides and disaccharides very often end in the suffix -ose, as in the monosaccharides fructose (fruit sugar) and glucose (starch sugar) and the disaccharides sucrose (cane or beet sugar) and lactose (milk sugar). Question: What is the most common carbohydrate? Answer:",
+    {
+        "id": "english-4671226392327332088-1",
+        "lang": "english",
+        "summary": "The term is most common in biochemistry, where it is a synonym of 'saccharide', a group that includes sugars, starch, and cellulose. The saccharides are divided into four chemical groups: monosaccharides, disaccharides, oligosaccharides, and polysaccharides. Monosaccharides and disaccharides, the smallest (lower molecular weight) carbohydrates, are  commonly referred to as sugars.[3] The word saccharide comes from the Greek word \u03c3\u03ac\u03ba\u03c7\u03b1\u03c1\u03bf\u03bd (s\u00e1kkharon), meaning \"sugar\".[4] While the scientific nomenclature of carbohydrates is complex, the names of the monosaccharides and disaccharides very often end in the suffix -ose, as in the monosaccharides fructose (fruit sugar) and glucose (starch sugar) and the disaccharides sucrose (cane or beet sugar) and lactose (milk sugar).",
+        "question": "What is the most common carbohydrate?",
+        "label": "sugars, starch, and cellulose"
+    }
+]

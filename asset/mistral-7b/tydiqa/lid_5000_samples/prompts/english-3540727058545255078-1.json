@@ -1,0 +1,15 @@
+[
+    [
+        1424,
+        [],
+        "May 25, 1979"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Alien was released on May 25, 1979 in the United States and September 6 in the United Kingdom. It was met with critical acclaim and box office success, winning the Academy Award for Best Visual Effects,[8][9] three Saturn Awards (Best Science Fiction Film, Best Direction for Scott, and Best Supporting Actress for Cartwright),[10] and a Hugo Award for Best Dramatic Presentation, along with numerous other nominations.[11] It has been consistently praised in the years since its release, and is considered one of the greatest films of all time. In 2002, Alien was deemed \"culturally, historically or aesthetically significant\" by the Library of Congress and was selected for preservation in the United States National Film Registry.[11][12][13] In 2008, it was ranked by the American Film Institute as the seventh-best film in the science fiction genre, and as the thirty-third greatest film of all time by Empire magazine.[14][15] Question: When was Alien first released? Answer:",
+    {
+        "id": "english-3540727058545255078-1",
+        "lang": "english",
+        "summary": "Alien was released on May 25, 1979 in the United States and September 6 in the United Kingdom. It was met with critical acclaim and box office success, winning the Academy Award for Best Visual Effects,[8][9] three Saturn Awards (Best Science Fiction Film, Best Direction for Scott, and Best Supporting Actress for Cartwright),[10] and a Hugo Award for Best Dramatic Presentation, along with numerous other nominations.[11] It has been consistently praised in the years since its release, and is considered one of the greatest films of all time. In 2002, Alien was deemed \"culturally, historically or aesthetically significant\" by the Library of Congress and was selected for preservation in the United States National Film Registry.[11][12][13] In 2008, it was ranked by the American Film Institute as the seventh-best film in the science fiction genre, and as the thirty-third greatest film of all time by Empire magazine.[14][15]",
+        "question": "When was Alien first released?",
+        "label": "May 25, 1979"
+    }
+]

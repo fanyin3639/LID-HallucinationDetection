@@ -1,0 +1,15 @@
+[
+    [
+        750,
+        [],
+        "US 50"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first state road was authorized on March 26, 1895, when a law created the post of \"Lake Tahoe Wagon Road Commissioner\" to maintain the Lake Tahoe Wagon Road (the 1852 Johnson's Cut-off of the California Trail), now US 50 from Smith Flat - 3 miles (5km) east of Placerville - to the Nevada state line.[1] The 58 mile[2] (93km) road had been operated as a toll road until 1886, when El Dorado County bought it; the county deeded the road to the state on February 28, 1896.[3] Funding was only enough for minimal improvements, including a stone bridge over the South Fork American River in 1901.[4] Question: What was the first highway built in California? Answer:",
+    {
+        "id": "english-2827188905251194827-2",
+        "lang": "english",
+        "summary": "The first state road was authorized on March 26, 1895, when a law created the post of \"Lake Tahoe Wagon Road Commissioner\" to maintain the Lake Tahoe Wagon Road (the 1852 Johnson's Cut-off of the California Trail), now US 50 from Smith Flat - 3 miles (5km) east of Placerville - to the Nevada state line.[1] The 58 mile[2] (93km) road had been operated as a toll road until 1886, when El Dorado County bought it; the county deeded the road to the state on February 28, 1896.[3] Funding was only enough for minimal improvements, including a stone bridge over the South Fork American River in 1901.[4]",
+        "question": "What was the first highway built in California?",
+        "label": "US 50"
+    }
+]

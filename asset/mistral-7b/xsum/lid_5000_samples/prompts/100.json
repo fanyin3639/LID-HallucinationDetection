@@ -1,0 +1,14 @@
+[
+    [
+        100,
+        [],
+        "A colourful picture of a spiny seahorse has won this year's UK Underwater Photography Competition."
+    ],
+    "Write a short summary for the following passage:\nIt was taken by Davide Lopresti in Italy and beat entries from more than 54 countries.\nDan Bolt, from Devon, won British Underwater Photographer of the Year with Catshark Supernova. This award is open to all British residents and nationals.\nPier Mane, from South Africa, won Up and Coming Underwater Photographer of the Year with Three Pillars, taken in the Bahamas.\nMarty Engels Dunmore, from Suffolk, won Most Promising British Underwater Photographer with Fired Up, taken on the Kittiwake wreck in Grand Cayman.\nMike Korostelev won the International Wide Angle category with a shot from Kuril Lake, Kamchatka, Russia. \"I constructed a cage to keep me safe as I captured the fishing behaviour of the bear,\" he said.\nRichard Carey won the International Behaviour category with a shot of a turtle eating a jellyfish taken on an early morning dive in the Similan Islands.\nPaul Colley, who won the British Compacts category, said: \"Whilst trying to photograph trout, during a year-long river project, with a homemade pole-cam, a raft of Mallard ducks muscled in to steal food intended to entice trout to the camera.\"\nSummary:\n",
+    {
+        "id": 100,
+        "document": "It was taken by Davide Lopresti in Italy and beat entries from more than 54 countries.\nDan Bolt, from Devon, won British Underwater Photographer of the Year with Catshark Supernova. This award is open to all British residents and nationals.\nPier Mane, from South Africa, won Up and Coming Underwater Photographer of the Year with Three Pillars, taken in the Bahamas.\nMarty Engels Dunmore, from Suffolk, won Most Promising British Underwater Photographer with Fired Up, taken on the Kittiwake wreck in Grand Cayman.\nMike Korostelev won the International Wide Angle category with a shot from Kuril Lake, Kamchatka, Russia. \"I constructed a cage to keep me safe as I captured the fishing behaviour of the bear,\" he said.\nRichard Carey won the International Behaviour category with a shot of a turtle eating a jellyfish taken on an early morning dive in the Similan Islands.\nPaul Colley, who won the British Compacts category, said: \"Whilst trying to photograph trout, during a year-long river project, with a homemade pole-cam, a raft of Mallard ducks muscled in to steal food intended to entice trout to the camera.\"",
+        "summary": "A colourful picture of a spiny seahorse has won this year's UK Underwater Photography Competition.",
+        "label": "A colourful picture of a spiny seahorse has won this year's UK Underwater Photography Competition."
+    }
+]

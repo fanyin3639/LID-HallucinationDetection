@@ -1,0 +1,15 @@
+[
+    [
+        1925,
+        [],
+        "fighter-bomber"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A fighter-bomber is a fighter aircraft that has been modified, or used primarily, as a light bomber or attack aircraft. It differs from bomber and attack aircraft primarily in its origins, as a fighter that has been adapted into other roles,[1] whereas bombers and attack aircraft are developed  specifically for bombing and attack roles. Question: What aircraft is used as a fighter-bomber? Answer:",
+    {
+        "id": "english-1872775117841009629-0",
+        "lang": "english",
+        "summary": "A fighter-bomber is a fighter aircraft that has been modified, or used primarily, as a light bomber or attack aircraft. It differs from bomber and attack aircraft primarily in its origins, as a fighter that has been adapted into other roles,[1] whereas bombers and attack aircraft are developed  specifically for bombing and attack roles.",
+        "question": "What aircraft is used as a fighter-bomber?",
+        "label": "fighter-bomber"
+    }
+]

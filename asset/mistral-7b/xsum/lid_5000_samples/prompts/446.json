@@ -1,0 +1,14 @@
+[
+    [
+        446,
+        [],
+        "Paramedics on a 999 call had an ambulance window smashed as they pulled up to treat a patient in the early hours."
+    ],
+    "Write a short summary for the following passage:\nThe rear side window was smashed before the crew had got out of the vehicle in Castle Gates, Shrewsbury, at 03:30 BST, the ambulance service said.\nIt said two people approached the ambulance and one punched the window.\nThe crew, who were unhurt, quickly left the scene and police were called, the ambulance service said.\nArea manager Adrian Ball said: \"Attacking our staff and vehicles is an abhorrent crime which we take an incredibly dim view of.\n\"This is an incredibly disappointing case which means we have an ambulance off the road and unable to respond to 999 calls whilst it's being repaired.\n\"Thankfully my staff weren't hurt but they were understandably upset by the incident.\"\nSummary:\n",
+    {
+        "id": 446,
+        "document": "The rear side window was smashed before the crew had got out of the vehicle in Castle Gates, Shrewsbury, at 03:30 BST, the ambulance service said.\nIt said two people approached the ambulance and one punched the window.\nThe crew, who were unhurt, quickly left the scene and police were called, the ambulance service said.\nArea manager Adrian Ball said: \"Attacking our staff and vehicles is an abhorrent crime which we take an incredibly dim view of.\n\"This is an incredibly disappointing case which means we have an ambulance off the road and unable to respond to 999 calls whilst it's being repaired.\n\"Thankfully my staff weren't hurt but they were understandably upset by the incident.\"",
+        "summary": "Paramedics on a 999 call had an ambulance window smashed as they pulled up to treat a patient in the early hours.",
+        "label": "Paramedics on a 999 call had an ambulance window smashed as they pulled up to treat a patient in the early hours."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1395,
+        [],
+        "representative democracy"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The politics of the Netherlands take place within the framework of a parliamentary representative democracy, a constitutional monarchy and a decentralised unitary state.[1] The Netherlands is described as a consociational state.[2] Dutch politics and governance are characterised by a common striving for broad consensus on important issues, within both of the political community and society as a whole.[1] Question: What kind of democracy do the Dutch have? Answer:",
+    {
+        "id": "english--1254750652615534381-2",
+        "lang": "english",
+        "summary": "The politics of the Netherlands take place within the framework of a parliamentary representative democracy, a constitutional monarchy and a decentralised unitary state.[1] The Netherlands is described as a consociational state.[2] Dutch politics and governance are characterised by a common striving for broad consensus on important issues, within both of the political community and society as a whole.[1]",
+        "question": "What kind of democracy do the Dutch have?",
+        "label": "representative democracy"
+    }
+]

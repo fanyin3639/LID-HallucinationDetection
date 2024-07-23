@@ -1,0 +1,15 @@
+[
+    [
+        2447,
+        [],
+        "September 29, 1899"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Veterans of Foreign Wars of the United States (VFW, or simply Veterans of Foreign Wars) is an American war veterans organization headquartered in Kansas City, Missouri.[7] The Veterans of Foreign Wars was established by James C. Putnam on September 29, 1899, in Columbus, Ohio.[2][1] The organization's membership consists of veterans who, as soldiers, sailors, marines, airmen, and coast guardsmen served the United States in wars, campaigns, and expeditions on foreign soil or in hostile waters.[5] Question: When was the VFW first founded? Answer:",
+    {
+        "id": "english--4364296794970401860-0",
+        "lang": "english",
+        "summary": "The Veterans of Foreign Wars of the United States (VFW, or simply Veterans of Foreign Wars) is an American war veterans organization headquartered in Kansas City, Missouri.[7] The Veterans of Foreign Wars was established by James C. Putnam on September 29, 1899, in Columbus, Ohio.[2][1] The organization's membership consists of veterans who, as soldiers, sailors, marines, airmen, and coast guardsmen served the United States in wars, campaigns, and expeditions on foreign soil or in hostile waters.[5]",
+        "question": "When was the VFW first founded?",
+        "label": "September 29, 1899"
+    }
+]

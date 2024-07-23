@@ -1,0 +1,15 @@
+[
+    [
+        2445,
+        [],
+        "Suzanne Rogers"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage:   Days of Our Lives is a long-running American television soap opera drama, airing on NBC. Created by Ted and Betty Corday, the series premiered on November 8, 1965.[1] The longest-running cast member is Suzanne Rogers, who has portrayed Maggie Horton since August 20, 1973, making her one of the longest-tenured actors in American soap operas.[2] Original cast member, Frances Reid, was previously the soap's longest-running cast member, portraying Horton family matriarch, Alice Horton, from 1965 to 2007.[3] Actresses Susan Seaforth Hayes and Deidre Hall, who portray Julie Olson Williams and Dr. Marlena Evans, are currently the second and third longest tenured actors on Days of Our Lives, joining in 1968 and 1976, respectively.[4][5] The following list is of cast members who are currently on the show: the main and recurring cast members, or those who are debuting, departing or returning to the series. Question: Who is the current lead of Days of Our Lives? Answer:",
+    {
+        "id": "english--1323861683221892614-0",
+        "lang": "english",
+        "summary": "  Days of Our Lives is a long-running American television soap opera drama, airing on NBC. Created by Ted and Betty Corday, the series premiered on November 8, 1965.[1] The longest-running cast member is Suzanne Rogers, who has portrayed Maggie Horton since August 20, 1973, making her one of the longest-tenured actors in American soap operas.[2] Original cast member, Frances Reid, was previously the soap's longest-running cast member, portraying Horton family matriarch, Alice Horton, from 1965 to 2007.[3] Actresses Susan Seaforth Hayes and Deidre Hall, who portray Julie Olson Williams and Dr. Marlena Evans, are currently the second and third longest tenured actors on Days of Our Lives, joining in 1968 and 1976, respectively.[4][5] The following list is of cast members who are currently on the show: the main and recurring cast members, or those who are debuting, departing or returning to the series.",
+        "question": "Who is the current lead of Days of Our Lives?",
+        "label": "Suzanne Rogers"
+    }
+]

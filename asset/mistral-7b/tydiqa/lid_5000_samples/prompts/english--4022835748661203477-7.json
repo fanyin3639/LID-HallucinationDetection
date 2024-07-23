@@ -1,0 +1,15 @@
+[
+    [
+        191,
+        [],
+        "1853"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Epic of Gilgamesh was discovered by Austen Henry Layard, Hormuzd Rassam, and W. K. Loftus in 1853.[12] The central character of Gilgamesh was initially reintroduced to the world as \"Izdubar\", before the cuneiform logographs in his name could be pronounced accurately. The first modern translation was published in the early 1870s by George Smith.[13] Smith then made further discoveries of texts on his later expeditions, which culminated in his final translation which is given in his book The Chaldaean Account of Genesis (1880). Question: When was the Epic of Gilgamesh discovered? Answer:",
+    {
+        "id": "english--4022835748661203477-7",
+        "lang": "english",
+        "summary": "The Epic of Gilgamesh was discovered by Austen Henry Layard, Hormuzd Rassam, and W. K. Loftus in 1853.[12] The central character of Gilgamesh was initially reintroduced to the world as \"Izdubar\", before the cuneiform logographs in his name could be pronounced accurately. The first modern translation was published in the early 1870s by George Smith.[13] Smith then made further discoveries of texts on his later expeditions, which culminated in his final translation which is given in his book The Chaldaean Account of Genesis (1880).",
+        "question": "When was the Epic of Gilgamesh discovered?",
+        "label": "1853"
+    }
+]

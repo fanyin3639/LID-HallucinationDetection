@@ -1,0 +1,15 @@
+[
+    [
+        2055,
+        [],
+        "the Germans suffered 1,344 casualties against the 2,475 British losses"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Germans attacked on 21 May and were able to consolidate their objectives, before the British could conduct counter-attacks powerful enough to recapture the ground. In the attack and its aftermath the Germans suffered 1,344 casualties against the 2,475 British losses. A British plan to recapture the front positions and take the German side of the ridge was cancelled, because of the demand for men and equipment of the forthcoming Battle of the Somme, the attack on the Gommecourt Salient taking priority. British planning continued and became the basis for the much larger attack by the Canadian Corps at the Battle of Vimy Ridge (9\u201312 April 1917). Question: How many casualties were there during the German attack on Vimy Ridge, 21 May 1916 ? Answer:",
+    {
+        "id": "english-3687908322764452013-2",
+        "lang": "english",
+        "summary": "The Germans attacked on 21 May and were able to consolidate their objectives, before the British could conduct counter-attacks powerful enough to recapture the ground. In the attack and its aftermath the Germans suffered 1,344 casualties against the 2,475 British losses. A British plan to recapture the front positions and take the German side of the ridge was cancelled, because of the demand for men and equipment of the forthcoming Battle of the Somme, the attack on the Gommecourt Salient taking priority. British planning continued and became the basis for the much larger attack by the Canadian Corps at the Battle of Vimy Ridge (9\u201312 April 1917).",
+        "question": "How many casualties were there during the German attack on Vimy Ridge, 21 May 1916 ?",
+        "label": "the Germans suffered 1,344 casualties against the 2,475 British losses"
+    }
+]

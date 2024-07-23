@@ -1,0 +1,14 @@
+[
+    [
+        626,
+        [],
+        "Communications regulator Ofcom has upheld complaints made against Channel 4 over an episode of The Simpsons shown before the 21:00 watershed."
+    ],
+    "Write a short summary for the following passage:\nThe show was broadcast at 18:00 BST on 6 October and featured Homer Simpson hanging by a noose from a tree.\nA viewer felt this was \"inappropriate for an early evening broadcast when families would be watching\".\nChannel 4 has apologised for \"any offence caused\" and said \"it took its compliance responsibilities seriously\".\nThe broadcaster added that, after receiving two complaints about the episode, edits considered necessary to correct it \"were not put into effect\".\nThe show, it went on, would not be repeated before the watershed.\nOfcom noted that the plot of the episode \"prominently featured strangulation\", raising issues around its scheduling.\nRule 1.3 of the watchdog's code of conduct says: \"Children must... be protected by appropriate scheduling from material that is unsuitable for them.\"\nSummary:\n",
+    {
+        "id": 626,
+        "document": "The show was broadcast at 18:00 BST on 6 October and featured Homer Simpson hanging by a noose from a tree.\nA viewer felt this was \"inappropriate for an early evening broadcast when families would be watching\".\nChannel 4 has apologised for \"any offence caused\" and said \"it took its compliance responsibilities seriously\".\nThe broadcaster added that, after receiving two complaints about the episode, edits considered necessary to correct it \"were not put into effect\".\nThe show, it went on, would not be repeated before the watershed.\nOfcom noted that the plot of the episode \"prominently featured strangulation\", raising issues around its scheduling.\nRule 1.3 of the watchdog's code of conduct says: \"Children must... be protected by appropriate scheduling from material that is unsuitable for them.\"",
+        "summary": "Communications regulator Ofcom has upheld complaints made against Channel 4 over an episode of The Simpsons shown before the 21:00 watershed.",
+        "label": "Communications regulator Ofcom has upheld complaints made against Channel 4 over an episode of The Simpsons shown before the 21:00 watershed."
+    }
+]

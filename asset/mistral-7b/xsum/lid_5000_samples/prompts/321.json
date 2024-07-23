@@ -1,0 +1,14 @@
+[
+    [
+        321,
+        [],
+        "CCTV footage has shown the moment three suspects distracted a 93-year-old before stealing \u00a323,000 from his bank account."
+    ],
+    "Write a short summary for the following passage:\n18 December 2015 Last updated at 13:11 GMT\nLincolnshire Police released the video as they continue to hunt the suspects who obtained the victim's bank card and PIN number at a Natwest branch in Grantham.\nOfficers have described the theft as \"despicable and callous\".\nSummary:\n",
+    {
+        "id": 321,
+        "document": "18 December 2015 Last updated at 13:11 GMT\nLincolnshire Police released the video as they continue to hunt the suspects who obtained the victim's bank card and PIN number at a Natwest branch in Grantham.\nOfficers have described the theft as \"despicable and callous\".",
+        "summary": "CCTV footage has shown the moment three suspects distracted a 93-year-old before stealing \u00a323,000 from his bank account.",
+        "label": "CCTV footage has shown the moment three suspects distracted a 93-year-old before stealing \u00a323,000 from his bank account."
+    }
+]

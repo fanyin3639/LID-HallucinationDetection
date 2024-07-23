@@ -1,0 +1,14 @@
+[
+    [
+        599,
+        [],
+        "A 90-year-old who killed a motorcyclist in a crash days before Christmas has been given a suspended sentence."
+    ],
+    "Write a short summary for the following passage:\nRoyston Pratt, of Wickham, was driving a Land Rover Defender on 22 December when he hit Robert McQueen, 37, at Staples Cross near Fareham, Hampshire.\nPratt, who earlier admitted causing death by driving without due care and attention, was given a 16-weeks sentence, suspended for 12 months.\nHe was also handed a five-year driving ban at Portsmouth Magistrates' Court.\nPratt was told he must take an extended driving test at the end of the disqualification period before his licence can be returned.\nHe was also ordered to pay costs and charges totalling \u00c2\u00a3165.\nMr McQueen, 37, from Port Solent, was pronounced dead after his Triumph motorbike hit the Land Rover on the B2177.\nSpeaking after the case, Hampshire Police road safety Sgt Rob Heard recommended people \"regularly assess their abilities to drive safely on the road\".\nSummary:\n",
+    {
+        "id": 599,
+        "document": "Royston Pratt, of Wickham, was driving a Land Rover Defender on 22 December when he hit Robert McQueen, 37, at Staples Cross near Fareham, Hampshire.\nPratt, who earlier admitted causing death by driving without due care and attention, was given a 16-weeks sentence, suspended for 12 months.\nHe was also handed a five-year driving ban at Portsmouth Magistrates' Court.\nPratt was told he must take an extended driving test at the end of the disqualification period before his licence can be returned.\nHe was also ordered to pay costs and charges totalling \u00c2\u00a3165.\nMr McQueen, 37, from Port Solent, was pronounced dead after his Triumph motorbike hit the Land Rover on the B2177.\nSpeaking after the case, Hampshire Police road safety Sgt Rob Heard recommended people \"regularly assess their abilities to drive safely on the road\".",
+        "summary": "A 90-year-old who killed a motorcyclist in a crash days before Christmas has been given a suspended sentence.",
+        "label": "A 90-year-old who killed a motorcyclist in a crash days before Christmas has been given a suspended sentence."
+    }
+]

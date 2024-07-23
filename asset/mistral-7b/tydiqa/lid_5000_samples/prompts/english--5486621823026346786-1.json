@@ -1,0 +1,15 @@
+[
+    [
+        334,
+        [],
+        "Deng Xiaoping"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In September 1976, after Mao Zedong's death, the People's Republic of China was left with no central authority figure, either symbolically or administratively. The Gang of Four was dismantled, but Hua Guofeng continued to persist on Mao-era policies. After a bloodless power struggle, Deng Xiaoping came to the helm to reform the Chinese economy and government institutions in their entirety. Deng, however, was conservative with regard to wide-ranging political reform, and along with the combination of unforeseen problems that resulted from the economic reform policies, the country underwent another political crisis with the Tiananmen Square protests of 1989. Question: Who took power after Mao Zedong in China? Answer:",
+    {
+        "id": "english--5486621823026346786-1",
+        "lang": "english",
+        "summary": "In September 1976, after Mao Zedong's death, the People's Republic of China was left with no central authority figure, either symbolically or administratively. The Gang of Four was dismantled, but Hua Guofeng continued to persist on Mao-era policies. After a bloodless power struggle, Deng Xiaoping came to the helm to reform the Chinese economy and government institutions in their entirety. Deng, however, was conservative with regard to wide-ranging political reform, and along with the combination of unforeseen problems that resulted from the economic reform policies, the country underwent another political crisis with the Tiananmen Square protests of 1989.",
+        "question": "Who took power after Mao Zedong in China?",
+        "label": "Deng Xiaoping"
+    }
+]

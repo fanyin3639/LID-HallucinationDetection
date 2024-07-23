@@ -1,0 +1,15 @@
+[
+    [
+        694,
+        [],
+        "Tulips and Chimneys"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Following his autobiographical novel, The Enormous Room, Cummings' first published work was a collection of poems titled Tulips and Chimneys (1923). This work was the public's first encounter with his characteristic eccentric use of grammar and punctuation. Question: What was E. E. Cummings' first published poem? Answer:",
+    {
+        "id": "english-119197660700385340-37",
+        "lang": "english",
+        "summary": "Following his autobiographical novel, The Enormous Room, Cummings' first published work was a collection of poems titled Tulips and Chimneys (1923). This work was the public's first encounter with his characteristic eccentric use of grammar and punctuation.",
+        "question": "What was E. E. Cummings' first published poem?",
+        "label": "Tulips and Chimneys"
+    }
+]

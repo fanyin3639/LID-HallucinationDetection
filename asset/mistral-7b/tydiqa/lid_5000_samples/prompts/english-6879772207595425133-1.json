@@ -1,0 +1,15 @@
+[
+    [
+        632,
+        [],
+        "in Dinant, in what is now Belgium"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Antoine-Joseph Sax was born on 6 November 1814, in Dinant, in what is now Belgium, to Charles-Joseph Sax and his wife. While his given name was Antoine-Joseph, he was referred to as Adolphe from childhood.[2][3] His father and mother were instrument designers themselves, who made several changes to the design of the French horn. Adolphe began to make his own instruments at an early age, entering two of his flutes and a clarinet into a competition at the age of 15. He subsequently studied performance on those two instruments as well as voice at the Royal Conservatory of Brussels.[2][3] Question: Where was Adolphe Sax born? Answer:",
+    {
+        "id": "english-6879772207595425133-1",
+        "lang": "english",
+        "summary": "Antoine-Joseph Sax was born on 6 November 1814, in Dinant, in what is now Belgium, to Charles-Joseph Sax and his wife. While his given name was Antoine-Joseph, he was referred to as Adolphe from childhood.[2][3] His father and mother were instrument designers themselves, who made several changes to the design of the French horn. Adolphe began to make his own instruments at an early age, entering two of his flutes and a clarinet into a competition at the age of 15. He subsequently studied performance on those two instruments as well as voice at the Royal Conservatory of Brussels.[2][3]",
+        "question": "Where was Adolphe Sax born?",
+        "label": "in Dinant, in what is now Belgium"
+    }
+]

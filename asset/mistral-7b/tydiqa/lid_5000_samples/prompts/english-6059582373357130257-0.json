@@ -1,0 +1,15 @@
+[
+    [
+        2762,
+        [],
+        "head coach of the New England Patriots of the National Football League (NFL)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: William Stephen Belichick (/\u02c8b\u025bl\u026at\u0283\u026ak/; born April 16, 1952) is the head coach of the New England Patriots of the National Football League (NFL). Belichick has extensive authority over the Patriots' football operations, effectively making him the general manager of the team as well.[1] He holds numerous coaching records, including winning a record five Super Bowls as a head coach, and two more as an assistant coach.  Question: Who is Bill Belichick? Answer:",
+    {
+        "id": "english-6059582373357130257-0",
+        "lang": "english",
+        "summary": "William Stephen Belichick (/\u02c8b\u025bl\u026at\u0283\u026ak/; born April 16, 1952) is the head coach of the New England Patriots of the National Football League (NFL). Belichick has extensive authority over the Patriots' football operations, effectively making him the general manager of the team as well.[1] He holds numerous coaching records, including winning a record five Super Bowls as a head coach, and two more as an assistant coach. ",
+        "question": "Who is Bill Belichick?",
+        "label": "head coach of the New England Patriots of the National Football League (NFL)"
+    }
+]

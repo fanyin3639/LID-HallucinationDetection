@@ -1,0 +1,15 @@
+[
+    [
+        676,
+        [],
+        "Hindi"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Constitution of India designates the official language of the Government of India as Hindi written in the Devanagari script, as well as English.[2] There is no national language as declared by the Constitution of India.[3] Hindi is used for official purposes such as parliamentary proceedings, judiciary, communications between the Central Government and a State Government.[2] States within India have the liberty and powers to specify their own official language(s) through legislation and therefore there are 22 officially recognized languages in India of which Hindi is the most used. The number of native Hindi speakers is about 25% of the total Indian population; however, including dialects of Hindi termed as Hindi languages, the total is around 44% of Indians, mostly accounted from the states falling under the Hindi belt. Other Indian languages are each spoken by around 10% or less of the population.[4][5] Question: What are the official languages of India? Answer:",
+    {
+        "id": "english--3629832370973311604-0",
+        "lang": "english",
+        "summary": "The Constitution of India designates the official language of the Government of India as Hindi written in the Devanagari script, as well as English.[2] There is no national language as declared by the Constitution of India.[3] Hindi is used for official purposes such as parliamentary proceedings, judiciary, communications between the Central Government and a State Government.[2] States within India have the liberty and powers to specify their own official language(s) through legislation and therefore there are 22 officially recognized languages in India of which Hindi is the most used. The number of native Hindi speakers is about 25% of the total Indian population; however, including dialects of Hindi termed as Hindi languages, the total is around 44% of Indians, mostly accounted from the states falling under the Hindi belt. Other Indian languages are each spoken by around 10% or less of the population.[4][5]",
+        "question": "What are the official languages of India?",
+        "label": "Hindi"
+    }
+]

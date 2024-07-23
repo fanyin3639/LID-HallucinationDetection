@@ -1,0 +1,14 @@
+[
+    [
+        1926,
+        [],
+        "A bus driver has been charged with causing the deaths of two passengers who died when his vehicle crashed into a supermarket."
+    ],
+    "Write a short summary for the following passage:\nRowan Fitzgerald, aged seven, and pedestrian Dora Hancox, 76, died in the crash in Coventry in October 2015.\nKailash Chander, 79, a former mayor of Leamington Spa, is charged with causing death and serious injury by dangerous driving.\nHe is due at Coventry Magistrates' Court on 7 September.\nHis employer, Midland Red (South) Limited, has been charged with two offences under the Health and Safety at Work Act.\nThe firm is also due to appear in the court on the same day.\nMore updates on this story\nWhen the crash happened, Rowan, of Leamington Spa, was on the upper deck with his grandparents and his cousin, an eight-year-old girl who was seriously hurt.\nHe was described by relatives as \"an adorable caring person who gave so much love to anyone he met\".\nMs Hancox was a was a lollipop lady in Coventry and Nuneaton and had dedicated many years of her life as a foster carer for Coventry social services, her family said.\nFive other people required hospital treatment after the crash in Trinity Street on 3 October.\nThe bus hit a number of cars and a lamppost before crashing into the open supermarket.\nSummary:\n",
+    {
+        "id": 1926,
+        "document": "Rowan Fitzgerald, aged seven, and pedestrian Dora Hancox, 76, died in the crash in Coventry in October 2015.\nKailash Chander, 79, a former mayor of Leamington Spa, is charged with causing death and serious injury by dangerous driving.\nHe is due at Coventry Magistrates' Court on 7 September.\nHis employer, Midland Red (South) Limited, has been charged with two offences under the Health and Safety at Work Act.\nThe firm is also due to appear in the court on the same day.\nMore updates on this story\nWhen the crash happened, Rowan, of Leamington Spa, was on the upper deck with his grandparents and his cousin, an eight-year-old girl who was seriously hurt.\nHe was described by relatives as \"an adorable caring person who gave so much love to anyone he met\".\nMs Hancox was a was a lollipop lady in Coventry and Nuneaton and had dedicated many years of her life as a foster carer for Coventry social services, her family said.\nFive other people required hospital treatment after the crash in Trinity Street on 3 October.\nThe bus hit a number of cars and a lamppost before crashing into the open supermarket.",
+        "summary": "A bus driver has been charged with causing the deaths of two passengers who died when his vehicle crashed into a supermarket.",
+        "label": "A bus driver has been charged with causing the deaths of two passengers who died when his vehicle crashed into a supermarket."
+    }
+]

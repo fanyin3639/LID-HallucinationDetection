@@ -1,0 +1,15 @@
+[
+    [
+        1438,
+        [],
+        "British"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Gibraltar (/d\u0292\u026a\u02c8br\u0254\u02d0lt\u0259(r)/; Spanish pronunciation:[xi\u03b2\u027eal\u02c8ta\u027e]) is a British Overseas Territory located at the southern tip of the Iberian Peninsula.[8][9] It has an area of 6.7km2 (2.6sqmi) and is bordered to the north by Spain. The landscape is dominated by the Rock of Gibraltar at the foot of which is a densely populated town area, home to over 30,000 people, primarily Gibraltarians.[10] It shares a maritime border with Morocco. Question: Which country does Gibraltar fall under? Answer:",
+    {
+        "id": "english-5664853070156931582-0",
+        "lang": "english",
+        "summary": "Gibraltar (/d\u0292\u026a\u02c8br\u0254\u02d0lt\u0259(r)/; Spanish pronunciation:[xi\u03b2\u027eal\u02c8ta\u027e]) is a British Overseas Territory located at the southern tip of the Iberian Peninsula.[8][9] It has an area of 6.7km2 (2.6sqmi) and is bordered to the north by Spain. The landscape is dominated by the Rock of Gibraltar at the foot of which is a densely populated town area, home to over 30,000 people, primarily Gibraltarians.[10] It shares a maritime border with Morocco.",
+        "question": "Which country does Gibraltar fall under?",
+        "label": "British"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1845,
+        [],
+        "Turkey"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Anatolia (from  Greek \u1f08\u03bd\u03b1\u03c4\u03bf\u03bb\u03ae Anatol\u1e17; Turkish: Anadolu \"east\" or \"[sun]rise\"), also known as Asia Minor (Medieval and Modern Greek: \u039c\u03b9\u03ba\u03c1\u03ac \u1f08\u03c3\u03af\u03b1 Mikr\u00e1 As\u00eda, \"small Asia\"; Turkish: K\u00fc\u00e7\u00fck Asya), Asian Turkey, the Anatolian peninsula, or the Anatolian plateau, is the westernmost protrusion of Asia, which makes up the majority of modern-day Turkey. The region is bounded by the Black Sea to the north, the Mediterranean Sea to the south, the Armenian Highlands to the east, and the Aegean Sea to the west. The Sea of Marmara forms a connection between the Black and Aegean Seas through the Bosphorus and Dardanelles straits and separates Anatolia from Thrace on the European mainland.  Question: What country is Anatolia in? Answer:",
+    {
+        "id": "english-5446245790688200745-0",
+        "lang": "english",
+        "summary": "Anatolia (from  Greek \u1f08\u03bd\u03b1\u03c4\u03bf\u03bb\u03ae Anatol\u1e17; Turkish: Anadolu \"east\" or \"[sun]rise\"), also known as Asia Minor (Medieval and Modern Greek: \u039c\u03b9\u03ba\u03c1\u03ac \u1f08\u03c3\u03af\u03b1 Mikr\u00e1 As\u00eda, \"small Asia\"; Turkish: K\u00fc\u00e7\u00fck Asya), Asian Turkey, the Anatolian peninsula, or the Anatolian plateau, is the westernmost protrusion of Asia, which makes up the majority of modern-day Turkey. The region is bounded by the Black Sea to the north, the Mediterranean Sea to the south, the Armenian Highlands to the east, and the Aegean Sea to the west. The Sea of Marmara forms a connection between the Black and Aegean Seas through the Bosphorus and Dardanelles straits and separates Anatolia from Thrace on the European mainland. ",
+        "question": "What country is Anatolia in?",
+        "label": "Turkey"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1218,
+        [],
+        "at least 70 hours"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Upon release, Xenoblade Chronicles 2 received \"generally favorable reviews\" according to review aggregator Metacritic.[38] IGN praised the game, calling it a \"standout RPG that manages to keep its story, combat, and exploration interesting over the course of at least 70 hours of adventure through an impressively varied and rich world\", though conceded a few frustrations with the game, including a confusing minimap that sometimes led to the reviewer getting lost.[46] GamingBolt called it \"one of the best JRPGs of this generation\", awarding it a score of 9/10, and calling its world \"vast and beautiful\", its story \"complex and layered\", and its combat \"intricate and addictive\", while also noting that the game was occasionally held back by \"obtuse design choices\" and \"a simple lack of polish\".[52] Question: How long was Xenoblade Chronicles 2? Answer:",
+    {
+        "id": "english--3156442172508285759-20",
+        "lang": "english",
+        "summary": "Upon release, Xenoblade Chronicles 2 received \"generally favorable reviews\" according to review aggregator Metacritic.[38] IGN praised the game, calling it a \"standout RPG that manages to keep its story, combat, and exploration interesting over the course of at least 70 hours of adventure through an impressively varied and rich world\", though conceded a few frustrations with the game, including a confusing minimap that sometimes led to the reviewer getting lost.[46] GamingBolt called it \"one of the best JRPGs of this generation\", awarding it a score of 9/10, and calling its world \"vast and beautiful\", its story \"complex and layered\", and its combat \"intricate and addictive\", while also noting that the game was occasionally held back by \"obtuse design choices\" and \"a simple lack of polish\".[52]",
+        "question": "How long was Xenoblade Chronicles 2?",
+        "label": "at least 70 hours"
+    }
+]

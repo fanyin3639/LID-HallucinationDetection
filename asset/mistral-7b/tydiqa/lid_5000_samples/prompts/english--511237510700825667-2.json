@@ -1,0 +1,15 @@
+[
+    [
+        1539,
+        [],
+        "kilogram"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The basic SI unit of mass is the kilogram (kg). In physics, mass is not the same as weight, even though mass is often determined by measuring the object's weight using a spring scale, rather than balance scale comparing it directly with known masses. An object on the Moon would weigh less than it does on Earth because of the lower gravity, but it would still have the same mass. This is because weight is a force, while mass is the property that (along with gravity) determines the strength of this force. Question: What unit is used to measure mass? Answer:",
+    {
+        "id": "english--511237510700825667-2",
+        "lang": "english",
+        "summary": "The basic SI unit of mass is the kilogram (kg). In physics, mass is not the same as weight, even though mass is often determined by measuring the object's weight using a spring scale, rather than balance scale comparing it directly with known masses. An object on the Moon would weigh less than it does on Earth because of the lower gravity, but it would still have the same mass. This is because weight is a force, while mass is the property that (along with gravity) determines the strength of this force.",
+        "question": "What unit is used to measure mass?",
+        "label": "kilogram"
+    }
+]

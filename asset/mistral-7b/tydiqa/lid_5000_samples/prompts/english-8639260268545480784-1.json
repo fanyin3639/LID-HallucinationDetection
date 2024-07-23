@@ -1,0 +1,15 @@
+[
+    [
+        1955,
+        [],
+        "66 million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Animax is the first television channel in Asia fully dedicated to broadcasting anime 24 hours a day. It was initially launched in Hong Kong, Taiwan and Southeast Asia in January 2004,[1] and was launched in several other countries soon after. The company has reached over 66 million viewers spanning 15 markets throughout Asia.[2] Since 2013, the network is unavailable in Vietnam due to government content restrictions.[3] Question: How many viewers does ANIMAX have? Answer:",
+    {
+        "id": "english-8639260268545480784-1",
+        "lang": "english",
+        "summary": "Animax is the first television channel in Asia fully dedicated to broadcasting anime 24 hours a day. It was initially launched in Hong Kong, Taiwan and Southeast Asia in January 2004,[1] and was launched in several other countries soon after. The company has reached over 66 million viewers spanning 15 markets throughout Asia.[2] Since 2013, the network is unavailable in Vietnam due to government content restrictions.[3]",
+        "question": "How many viewers does ANIMAX have?",
+        "label": "66 million"
+    }
+]

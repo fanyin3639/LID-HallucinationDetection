@@ -1,0 +1,15 @@
+[
+    [
+        1968,
+        [],
+        "Pine City"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pine City is a city in Pine County, Minnesota, in East Central Minnesota. Pine City is the county seat of, and the largest city in, Pine County.[7] A portion of the city is located on the Mille Lacs Indian Reservation. Founded as a railway town, it quickly became a logging community and the surrounding lakes made it a resort town. Today, it is an arts town and commuter town to jobs in the Minneapolis\u2013Saint Paul metropolitan area.[8]  It is also a green city.[9] The population was 3,127 at the 2010 census. Question: What is the largest city in Pine County, Minnesota? Answer:",
+    {
+        "id": "english-416252878740839308-0",
+        "lang": "english",
+        "summary": "Pine City is a city in Pine County, Minnesota, in East Central Minnesota. Pine City is the county seat of, and the largest city in, Pine County.[7] A portion of the city is located on the Mille Lacs Indian Reservation. Founded as a railway town, it quickly became a logging community and the surrounding lakes made it a resort town. Today, it is an arts town and commuter town to jobs in the Minneapolis\u2013Saint Paul metropolitan area.[8]  It is also a green city.[9] The population was 3,127 at the 2010 census.",
+        "question": "What is the largest city in Pine County, Minnesota?",
+        "label": "Pine City"
+    }
+]

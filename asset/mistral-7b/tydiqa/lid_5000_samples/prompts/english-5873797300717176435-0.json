@@ -1,0 +1,15 @@
+[
+    [
+        872,
+        [],
+        "Netherlands"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Dutch people (Dutch: Nederlanders) or the Dutch are a Germanic ethnic group native to the Netherlands.[12][13][14] They share a common culture and speak the Dutch language. Dutch people and their descendants are found in migrant communities worldwide, notably in Aruba, Suriname, Guyana, Cura\u00e7ao, Argentina, Brazil, Canada,[15] Australia,[16] South Africa,[2] New Zealand, and the United States.[17] The Low Countries were situated around the border of France and the Holy Roman Empire, forming a part of their respective peripheries, and the various territories  of which they consisted had become virtually autonomous by the 13th century.[18] Under the Habsburgs, the Netherlands were organised into a single administrative unit, and in the 16th and 17th centuries the Northern Netherlands gained independence from Spain as the Dutch Republic.[19] The high degree of urbanization characteristic of Dutch society was attained at a relatively early date.[20] During the Republic the first series of large-scale Dutch migrations outside of Europe took place. Question: What country are the Dutch from? Answer:",
+    {
+        "id": "english-5873797300717176435-0",
+        "lang": "english",
+        "summary": "Dutch people (Dutch: Nederlanders) or the Dutch are a Germanic ethnic group native to the Netherlands.[12][13][14] They share a common culture and speak the Dutch language. Dutch people and their descendants are found in migrant communities worldwide, notably in Aruba, Suriname, Guyana, Cura\u00e7ao, Argentina, Brazil, Canada,[15] Australia,[16] South Africa,[2] New Zealand, and the United States.[17] The Low Countries were situated around the border of France and the Holy Roman Empire, forming a part of their respective peripheries, and the various territories  of which they consisted had become virtually autonomous by the 13th century.[18] Under the Habsburgs, the Netherlands were organised into a single administrative unit, and in the 16th and 17th centuries the Northern Netherlands gained independence from Spain as the Dutch Republic.[19] The high degree of urbanization characteristic of Dutch society was attained at a relatively early date.[20] During the Republic the first series of large-scale Dutch migrations outside of Europe took place.",
+        "question": "What country are the Dutch from?",
+        "label": "Netherlands"
+    }
+]

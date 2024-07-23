@@ -1,0 +1,15 @@
+[
+    [
+        1036,
+        [],
+        "Pretty Little Liars"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pretty Little Liars is a series of young adult novels by Sara Shepard. Beginning with 2006's initial novel of the same name, the series follows the lives of four girls\u2013 Spencer Hastings, Hanna Marin, Aria Montgomery and Emily Fields. Question: What was the first book in the Pretty Little Liars series? Answer:",
+    {
+        "id": "english--7372530028217303717-0",
+        "lang": "english",
+        "summary": "Pretty Little Liars is a series of young adult novels by Sara Shepard. Beginning with 2006's initial novel of the same name, the series follows the lives of four girls\u2013 Spencer Hastings, Hanna Marin, Aria Montgomery and Emily Fields.",
+        "question": "What was the first book in the Pretty Little Liars series?",
+        "label": "Pretty Little Liars"
+    }
+]

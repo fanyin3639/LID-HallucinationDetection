@@ -1,0 +1,15 @@
+[
+    [
+        878,
+        [],
+        "2,373 square miles (6,150km"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the U.S. Census Bureau, the county has an area of 2,373 square miles (6,150km2), of which 912 square miles (2,360km2) is land and 1,461 square miles (3,780km2) (62%) is water.[6] It is the second-largest county in New York by total area and occupies 66% of the land area of Long Island. Question: How large is Suffolk County in New York? Answer:",
+    {
+        "id": "english-8626799699036969643-6",
+        "lang": "english",
+        "summary": "According to the U.S. Census Bureau, the county has an area of 2,373 square miles (6,150km2), of which 912 square miles (2,360km2) is land and 1,461 square miles (3,780km2) (62%) is water.[6] It is the second-largest county in New York by total area and occupies 66% of the land area of Long Island.",
+        "question": "How large is Suffolk County in New York?",
+        "label": "2,373 square miles (6,150km"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        80,
+        [],
+        "Dutch police have arrested a man who had locked himself inside a toilet aboard a Thalys train at Rotterdam central station, Dutch reports say."
+    ],
+    "Write a short summary for the following passage:\nEarlier police ordered everyone off the Paris-bound train and evacuated seven station platforms.\nTrain operator Thalys said police had the situation \"under control\" and passengers were not at risk.\nLast month passengers overpowered a gunman aboard an Amsterdam-Paris Thalys train in northern France.\nIt is not yet clear who the arrested man is nor why he acted as he did.\nOne passenger tweeted that the man had jumped aboard the train just before it began leaving.\nSummary:\n",
+    {
+        "id": 80,
+        "document": "Earlier police ordered everyone off the Paris-bound train and evacuated seven station platforms.\nTrain operator Thalys said police had the situation \"under control\" and passengers were not at risk.\nLast month passengers overpowered a gunman aboard an Amsterdam-Paris Thalys train in northern France.\nIt is not yet clear who the arrested man is nor why he acted as he did.\nOne passenger tweeted that the man had jumped aboard the train just before it began leaving.",
+        "summary": "Dutch police have arrested a man who had locked himself inside a toilet aboard a Thalys train at Rotterdam central station, Dutch reports say.",
+        "label": "Dutch police have arrested a man who had locked himself inside a toilet aboard a Thalys train at Rotterdam central station, Dutch reports say."
+    }
+]

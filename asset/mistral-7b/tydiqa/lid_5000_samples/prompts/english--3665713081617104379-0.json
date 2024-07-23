@@ -1,0 +1,15 @@
+[
+    [
+        1081,
+        [],
+        "a region of land that is not governed by a local municipal corporation"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In law, an unincorporated area is a region of land that is not governed by a local municipal corporation; similarly an unincorporated community is a settlement that is not governed by its own local municipal corporation, but rather is administered as part of larger administrative divisions, such as a township, parish, borough, county, city, canton, state, province or country. Occasionally, municipalities dissolve or disincorporate, which may happen if they become fiscally insolvent, and services become the responsibility of a higher administration. Widespread unincorporated communities and areas are a distinguishing feature of the United States and Canada. In most other countries of the world, there are either no unincorporated areas at all, or these are very rare; typically remote, outlying, sparsely populated or uninhabited areas. Question: What does unincoperated community mean? Answer:",
+    {
+        "id": "english--3665713081617104379-0",
+        "lang": "english",
+        "summary": "In law, an unincorporated area is a region of land that is not governed by a local municipal corporation; similarly an unincorporated community is a settlement that is not governed by its own local municipal corporation, but rather is administered as part of larger administrative divisions, such as a township, parish, borough, county, city, canton, state, province or country. Occasionally, municipalities dissolve or disincorporate, which may happen if they become fiscally insolvent, and services become the responsibility of a higher administration. Widespread unincorporated communities and areas are a distinguishing feature of the United States and Canada. In most other countries of the world, there are either no unincorporated areas at all, or these are very rare; typically remote, outlying, sparsely populated or uninhabited areas.",
+        "question": "What does unincoperated community mean?",
+        "label": "a region of land that is not governed by a local municipal corporation"
+    }
+]

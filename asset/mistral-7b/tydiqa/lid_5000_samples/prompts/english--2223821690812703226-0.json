@@ -1,0 +1,15 @@
+[
+    [
+        1157,
+        [],
+        "Adele's 25"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The highest-selling albums and EPs in the United States are ranked in the Billboard 200, which is published by Billboard magazine. The data are compiled by Nielsen Soundscan based on each album's weekly physical and digital sales, as well as on-demand streaming and digital sales of its individual tracks. In 2016, a total of 33 albums claimed the top position of the chart. One of which, English singer Adele's 25 started its peak issue dated December 12, 2015.[1] Canadian hip hop soul artist Drake's fourth studio album, Views, became the second best-selling overall album with 1.04million equivalent album units, selling 852,000 copies in its first week of release, and achieving over 245million streams, more than previous record 115.2 million by Beyonc\u00e9's Lemonade.[2][3] Lemonade is the third overall best-seller, incurring 485,000 copies in its first week (653,000 with additional album-equivalent units).[4] Question: What was the best selling album of 2016? Answer:",
+    {
+        "id": "english--2223821690812703226-0",
+        "lang": "english",
+        "summary": "The highest-selling albums and EPs in the United States are ranked in the Billboard 200, which is published by Billboard magazine. The data are compiled by Nielsen Soundscan based on each album's weekly physical and digital sales, as well as on-demand streaming and digital sales of its individual tracks. In 2016, a total of 33 albums claimed the top position of the chart. One of which, English singer Adele's 25 started its peak issue dated December 12, 2015.[1] Canadian hip hop soul artist Drake's fourth studio album, Views, became the second best-selling overall album with 1.04million equivalent album units, selling 852,000 copies in its first week of release, and achieving over 245million streams, more than previous record 115.2 million by Beyonc\u00e9's Lemonade.[2][3] Lemonade is the third overall best-seller, incurring 485,000 copies in its first week (653,000 with additional album-equivalent units).[4]",
+        "question": "What was the best selling album of 2016?",
+        "label": "Adele's 25"
+    }
+]

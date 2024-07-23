@@ -1,0 +1,15 @@
+[
+    [
+        2167,
+        [],
+        "1940 to 1943"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Dubbo RAAF Stores Depot is an heritage-listed former Royal Australian Air Force (RAAF) stores depot located at Cobra Street, Dubbo in the Dubbo Regional Council local government area of New South Wales, Australia. The depot was designed by Sidney Williams & Co and built from 1940 to 1943. It is also known as Dubbo RAAF Stores Depot (former), No. 5 (1942) and No. 6 Stores Depot (1942\u201352); No. 2 Stores Depot Detachment D (1952\u201392); Defence National Storage and Distribution Centre Detachment (1992-1995). The property is owned by private companies, Andorra Developments and Belmorgan Property Development. The depot was added to the New South Wales State Heritage Register on 29 June 2004.[1] Question: When was the Dubbo RAAF Stores Depot constructed? Answer:",
+    {
+        "id": "english-7265656422285900944-0",
+        "lang": "english",
+        "summary": "The Dubbo RAAF Stores Depot is an heritage-listed former Royal Australian Air Force (RAAF) stores depot located at Cobra Street, Dubbo in the Dubbo Regional Council local government area of New South Wales, Australia. The depot was designed by Sidney Williams & Co and built from 1940 to 1943. It is also known as Dubbo RAAF Stores Depot (former), No. 5 (1942) and No. 6 Stores Depot (1942\u201352); No. 2 Stores Depot Detachment D (1952\u201392); Defence National Storage and Distribution Centre Detachment (1992-1995). The property is owned by private companies, Andorra Developments and Belmorgan Property Development. The depot was added to the New South Wales State Heritage Register on 29 June 2004.[1]",
+        "question": "When was the Dubbo RAAF Stores Depot constructed?",
+        "label": "1940 to 1943"
+    }
+]

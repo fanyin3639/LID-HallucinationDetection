@@ -1,0 +1,15 @@
+[
+    [
+        1499,
+        [],
+        "A broiler"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A broiler (Gallus gallus domesticus) is any chicken that is bred and raised specifically for meat production.[1] Many typical broilers have white feathers and yellowish skin.  Most commercial broilers reach slaughter-weight between four[2] and seven weeks of age, although slower growing breeds reach slaughter-weight at approximately 14 weeks of age. Due to extensive breeding selection for rapid early growth and the husbandry used to sustain this, broilers are susceptible to several welfare concerns, particularly skeletal malformation and dysfunction, skin and eye lesions and congestive heart conditions. Management of ventilation, housing, stocking density and in-house procedures must be evaluated regularly to support good welfare of the flock. The breeding stock (broiler-breeders) do grow to maturity but also have their own welfare concerns related to the frustration of a high feeding motivation and beak trimming. Broilers are usually grown as mixed-sex flocks in large sheds under intensive conditions. Question: What is the most common breed of chicken used for commercial meat production? Answer:",
+    {
+        "id": "english-4245143099004619797-0",
+        "lang": "english",
+        "summary": "A broiler (Gallus gallus domesticus) is any chicken that is bred and raised specifically for meat production.[1] Many typical broilers have white feathers and yellowish skin.  Most commercial broilers reach slaughter-weight between four[2] and seven weeks of age, although slower growing breeds reach slaughter-weight at approximately 14 weeks of age. Due to extensive breeding selection for rapid early growth and the husbandry used to sustain this, broilers are susceptible to several welfare concerns, particularly skeletal malformation and dysfunction, skin and eye lesions and congestive heart conditions. Management of ventilation, housing, stocking density and in-house procedures must be evaluated regularly to support good welfare of the flock. The breeding stock (broiler-breeders) do grow to maturity but also have their own welfare concerns related to the frustration of a high feeding motivation and beak trimming. Broilers are usually grown as mixed-sex flocks in large sheds under intensive conditions.",
+        "question": "What is the most common breed of chicken used for commercial meat production?",
+        "label": "A broiler"
+    }
+]

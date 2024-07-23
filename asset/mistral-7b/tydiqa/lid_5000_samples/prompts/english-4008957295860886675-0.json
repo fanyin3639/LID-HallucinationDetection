@@ -1,0 +1,15 @@
+[
+    [
+        712,
+        [],
+        "built from 1959 to 1960"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kinkabool is a heritage-listed apartment block at 32-34 Hanlan Street, Surfers Paradise, Queensland, Australia. It was designed by John M. Morton of Lund Hutton Newell Black & Paulsen and built from 1959 to 1960 by J D Booker Constructions (Gold Coast) Pty Ltd. It was added to the Queensland Heritage Register on 5 February 2009.[1] Question: How old is Kinkabool in Queensland? Answer:",
+    {
+        "id": "english-4008957295860886675-0",
+        "lang": "english",
+        "summary": "Kinkabool is a heritage-listed apartment block at 32-34 Hanlan Street, Surfers Paradise, Queensland, Australia. It was designed by John M. Morton of Lund Hutton Newell Black & Paulsen and built from 1959 to 1960 by J D Booker Constructions (Gold Coast) Pty Ltd. It was added to the Queensland Heritage Register on 5 February 2009.[1]",
+        "question": "How old is Kinkabool in Queensland?",
+        "label": "built from 1959 to 1960"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        932,
+        [],
+        "Gottfried Leibniz"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The term \"function\" was literally introduced by Gottfried Leibniz, in a 1673 letter, to describe a quantity related to points of a curve, such as a coordinate or curve's slope.[9] Johann Bernoulli started calling expressions made of a single variable \"functions.\" In 1698, he agreed with Leibniz that any quantity formed \"in an algebraic and transcendental manner\" may be called a function of x.[10] By 1718, he came to regard as a function \"any expression made up of a variable and some constants.\"[11] Alexis Claude Clairaut (in approximately 1734) and Leonhard Euler introduced the familiar notation      f ( x )    {\\displaystyle {f(x)}}   for the value of a function.[12] Question: Who first introduced the concept of mathematical functions? Answer:",
+    {
+        "id": "english--3049150462640929160-6",
+        "lang": "english",
+        "summary": "The term \"function\" was literally introduced by Gottfried Leibniz, in a 1673 letter, to describe a quantity related to points of a curve, such as a coordinate or curve's slope.[9] Johann Bernoulli started calling expressions made of a single variable \"functions.\" In 1698, he agreed with Leibniz that any quantity formed \"in an algebraic and transcendental manner\" may be called a function of x.[10] By 1718, he came to regard as a function \"any expression made up of a variable and some constants.\"[11] Alexis Claude Clairaut (in approximately 1734) and Leonhard Euler introduced the familiar notation      f ( x )    {\\displaystyle {f(x)}}   for the value of a function.[12]",
+        "question": "Who first introduced the concept of mathematical functions?",
+        "label": "Gottfried Leibniz"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2057,
+        [],
+        "13 March 1922"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Karl Dietrich Bracher (13 March 1922 \u2013 19 September 2016) was a German political scientist and historian of the Weimar Republic and Nazi Germany. Born in Stuttgart, Bracher was awarded a Ph.D. in the classics by the University of T\u00fcbingen in 1948 and subsequently studied at Harvard University from 1949 to 1950. During World War II, he served in the Wehrmacht and was captured by the Americans while serving in Tunisia in 1943. He was then held as a POW in Camp Concordia, Kansas. Bracher taught at the Free University of Berlin from 1950 to 1958 and at the University of Bonn since 1959. In 1951 Bracher married Dorothee Schleicher, the niece of Dietrich Bonhoeffer.  They had two children.[1] Question: When was Karl Dietrich Bracher born? Answer:",
+    {
+        "id": "english--945414856908687024-0",
+        "lang": "english",
+        "summary": "Karl Dietrich Bracher (13 March 1922 \u2013 19 September 2016) was a German political scientist and historian of the Weimar Republic and Nazi Germany. Born in Stuttgart, Bracher was awarded a Ph.D. in the classics by the University of T\u00fcbingen in 1948 and subsequently studied at Harvard University from 1949 to 1950. During World War II, he served in the Wehrmacht and was captured by the Americans while serving in Tunisia in 1943. He was then held as a POW in Camp Concordia, Kansas. Bracher taught at the Free University of Berlin from 1950 to 1958 and at the University of Bonn since 1959. In 1951 Bracher married Dorothee Schleicher, the niece of Dietrich Bonhoeffer.  They had two children.[1]",
+        "question": "When was Karl Dietrich Bracher born?",
+        "label": "13 March 1922"
+    }
+]

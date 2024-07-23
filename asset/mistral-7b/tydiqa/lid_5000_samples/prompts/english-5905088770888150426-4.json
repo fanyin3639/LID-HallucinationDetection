@@ -1,0 +1,15 @@
+[
+    [
+        1401,
+        [],
+        "four"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Calendars fall into four types, lunisolar, solar, lunar, seasonal, besides calendars with \"years\" of fixed length, with no intercalation. Most pre-modern calendars are lunisolar. The seasonal calendars rely on changes in the environment rather than lunar or solar observations. The Islamic and some Buddhist calendars are lunar, while most modern calendars are solar, based on either the Julian or the Gregorian calendars. Question: How many types of calendars are there? Answer:",
+    {
+        "id": "english-5905088770888150426-4",
+        "lang": "english",
+        "summary": "Calendars fall into four types, lunisolar, solar, lunar, seasonal, besides calendars with \"years\" of fixed length, with no intercalation. Most pre-modern calendars are lunisolar. The seasonal calendars rely on changes in the environment rather than lunar or solar observations. The Islamic and some Buddhist calendars are lunar, while most modern calendars are solar, based on either the Julian or the Gregorian calendars.",
+        "question": "How many types of calendars are there?",
+        "label": "four"
+    }
+]

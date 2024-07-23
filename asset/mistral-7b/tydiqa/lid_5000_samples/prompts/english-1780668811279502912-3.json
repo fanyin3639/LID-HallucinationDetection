@@ -1,0 +1,15 @@
+[
+    [
+        83,
+        [],
+        "approximately 21 million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The exact population of Metropolitan Lagos is disputed. In the 2006 federal census data, the conurbation had a population of about 8 million people.[32] However, the figure was disputed by the Lagos State Government, which later released its own population data, putting the population of Lagos Metropolitan Area at approximately 16 million.[note 3] As at 2015, unofficial figures put the population of \"Greater Metropolitan Lagos\", which includes Lagos and its surrounding metro area, extending as far as into Ogun State, at approximately 21 million.[3][25][33][34] Question: What is the population of Lagos? Answer:",
+    {
+        "id": "english-1780668811279502912-3",
+        "lang": "english",
+        "summary": "The exact population of Metropolitan Lagos is disputed. In the 2006 federal census data, the conurbation had a population of about 8 million people.[32] However, the figure was disputed by the Lagos State Government, which later released its own population data, putting the population of Lagos Metropolitan Area at approximately 16 million.[note 3] As at 2015, unofficial figures put the population of \"Greater Metropolitan Lagos\", which includes Lagos and its surrounding metro area, extending as far as into Ogun State, at approximately 21 million.[3][25][33][34]",
+        "question": "What is the population of Lagos?",
+        "label": "approximately 21 million"
+    }
+]

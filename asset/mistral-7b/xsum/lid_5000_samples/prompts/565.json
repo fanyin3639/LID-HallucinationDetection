@@ -1,0 +1,14 @@
+[
+    [
+        565,
+        [],
+        "One of the world's most famous trains - the Flying Scotsman - is returning to the railway after having been out of service for 40 years."
+    ],
+    "Write a short summary for the following passage:\nThe famous train will be taking a test run from Manchester to Carlisle this weekend.\nThe train broke records when it was first built and it has been restored by York's National Railway Museum.\nThousands of people are expected to turn out to watch the Flying Scotsman officially return to work later this month.\nSummary:\n",
+    {
+        "id": 565,
+        "document": "The famous train will be taking a test run from Manchester to Carlisle this weekend.\nThe train broke records when it was first built and it has been restored by York's National Railway Museum.\nThousands of people are expected to turn out to watch the Flying Scotsman officially return to work later this month.",
+        "summary": "One of the world's most famous trains - the Flying Scotsman - is returning to the railway after having been out of service for 40 years.",
+        "label": "One of the world's most famous trains - the Flying Scotsman - is returning to the railway after having been out of service for 40 years."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1745,
+        [],
+        "1931"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The King David Hotel (Hebrew: \u05de\u05dc\u05d5\u05df \u05d4\u05de\u05dc\u05da \u05d3\u05d5\u05d3\u200e Malon ha-Melekh David, Arabic: \u0641\u0646\u062f\u0642 \u0627\u0644\u0645\u0644\u0643 \u062f\u0627\u0648\u062f\u200e) is a 5-star hotel in Jerusalem and a member of The Leading Hotels of the World. Opened in 1931, the hotel was built with locally quarried pink limestone and was founded by Ezra Mosseri, a wealthy Egyptian Jewish banker. It is located on King David Street in the centre of Jerusalem, overlooking the Old City and Mount Zion. Question: King David Hotel was founded when? Answer:",
+    {
+        "id": "english-5148776784732319731-0",
+        "lang": "english",
+        "summary": "The King David Hotel (Hebrew: \u05de\u05dc\u05d5\u05df \u05d4\u05de\u05dc\u05da \u05d3\u05d5\u05d3\u200e Malon ha-Melekh David, Arabic: \u0641\u0646\u062f\u0642 \u0627\u0644\u0645\u0644\u0643 \u062f\u0627\u0648\u062f\u200e) is a 5-star hotel in Jerusalem and a member of The Leading Hotels of the World. Opened in 1931, the hotel was built with locally quarried pink limestone and was founded by Ezra Mosseri, a wealthy Egyptian Jewish banker. It is located on King David Street in the centre of Jerusalem, overlooking the Old City and Mount Zion.",
+        "question": "King David Hotel was founded when?",
+        "label": "1931"
+    }
+]

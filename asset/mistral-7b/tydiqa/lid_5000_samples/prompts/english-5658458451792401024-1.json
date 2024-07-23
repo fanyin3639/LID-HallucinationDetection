@@ -1,0 +1,15 @@
+[
+    [
+        1642,
+        [],
+        "2,241,346 people"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The city of Paris (also called the Commune or Department of Paris) had a population of 2,241,346 people within its administrative city limits as of January 1, 2014.[1]  It is surrounded by the Paris unit\u00e9 urbaine, or urban area, the most populous urban area in the European Union.  In 2011 the unit\u00e9 urbaine had a population of 10,516,110.[2] The Paris Region, or \u00cele-de-France covers 12,012 square kilometers (4,638 square miles), and has its own regional council and president. It has a population of 12,005,077 as of January 2014, or 18.2 percent of the population of France.[3] Question: How many people live in Paris? Answer:",
+    {
+        "id": "english-5658458451792401024-1",
+        "lang": "english",
+        "summary": "The city of Paris (also called the Commune or Department of Paris) had a population of 2,241,346 people within its administrative city limits as of January 1, 2014.[1]  It is surrounded by the Paris unit\u00e9 urbaine, or urban area, the most populous urban area in the European Union.  In 2011 the unit\u00e9 urbaine had a population of 10,516,110.[2] The Paris Region, or \u00cele-de-France covers 12,012 square kilometers (4,638 square miles), and has its own regional council and president. It has a population of 12,005,077 as of January 2014, or 18.2 percent of the population of France.[3]",
+        "question": "How many people live in Paris?",
+        "label": "2,241,346 people"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        636,
+        [],
+        "Politicians from Somerset are holding a summit meeting in Westminster to discuss upgrading the A303."
+    ],
+    "Write a short summary for the following passage:\nSomerset County Council leader Ken Maddock is holding talks with South West MPs about opening up more sections of dual carriageway on the road.\nMr Maddock said speeding up journey times and improving reliability would boost tourism and the local economy.\nHe said it was \"crucial for encouraging inward investment, moving goods and creating new jobs\".\nThe A303 is 92 miles (148km) long and runs through five counties.\nThe proposals, which also include upgrades to the A358 and A30, are being developed by a multi-agency task group consisting of Highways Agency representatives and county council officials from Wiltshire, Somerset, Cornwall, Devon and Dorset.\nMr Maddock said: \"Improving these roads is vital for Somerset and therefore it is important that we work closely with MPs in order to form one strong voice.\"\nSummary:\n",
+    {
+        "id": 636,
+        "document": "Somerset County Council leader Ken Maddock is holding talks with South West MPs about opening up more sections of dual carriageway on the road.\nMr Maddock said speeding up journey times and improving reliability would boost tourism and the local economy.\nHe said it was \"crucial for encouraging inward investment, moving goods and creating new jobs\".\nThe A303 is 92 miles (148km) long and runs through five counties.\nThe proposals, which also include upgrades to the A358 and A30, are being developed by a multi-agency task group consisting of Highways Agency representatives and county council officials from Wiltshire, Somerset, Cornwall, Devon and Dorset.\nMr Maddock said: \"Improving these roads is vital for Somerset and therefore it is important that we work closely with MPs in order to form one strong voice.\"",
+        "summary": "Politicians from Somerset are holding a summit meeting in Westminster to discuss upgrading the A303.",
+        "label": "Politicians from Somerset are holding a summit meeting in Westminster to discuss upgrading the A303."
+    }
+]

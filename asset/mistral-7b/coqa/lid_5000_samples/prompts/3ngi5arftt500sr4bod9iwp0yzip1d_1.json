@@ -1,0 +1,19 @@
+[
+    [
+        1942,
+        [],
+        "Brown"
+    ],
+    "Answer the following questions:\nContext: My name is James Brown. I have an 8-year-old daughter. Her name is Ann. Her favorite activity is watching movies. She watches movies once a week . Movie World is in my neighborhood . And it is the biggest movie theater in the city . It has the most comfortable seats and the best sound . She likes watching movies there. Last Sunday, I took her to Movie World to watch the movie Epic . Epic is a movie about a father Bomba and his 17-year-old daughter Mary. Bomba was interested in looking for Leaf Men. He said they lived in a forest, but no one believed him. One day , Mary was swept into the world of the Leaf Men, and she found her father was right. At this early-afternoon showing, the theater was almost full. 60% of the _ were kids aged three to ten and their fathers. I didn't think it was because of the movie itself. In fact, a study showed that dads were 50% more likely than moms to take young kids to the movies in the United States. ,.\n'Question': last name ?\n'Answer: '",
+    {
+        "id": "3ngi5arftt500sr4bod9iwp0yzip1d_1",
+        "summary": "My name is James Brown. I have an 8-year-old daughter. Her name is Ann. Her favorite activity is watching movies. She watches movies once a week . Movie World is in my neighborhood . And it is the biggest movie theater in the city . It has the most comfortable seats and the best sound . She likes watching movies there. Last Sunday, I took her to Movie World to watch the movie Epic . Epic is a movie about a father Bomba and his 17-year-old daughter Mary. Bomba was interested in looking for Leaf Men. He said they lived in a forest, but no one believed him. One day , Mary was swept into the world of the Leaf Men, and she found her father was right. At this early-afternoon showing, the theater was almost full. 60% of the _ were kids aged three to ten and their fathers. I didn't think it was because of the movie itself. In fact, a study showed that dads were 50% more likely than moms to take young kids to the movies in the United States. ,.",
+        "question": "last name ?",
+        "label": "Brown",
+        "additional_answers": [
+            "Brown",
+            "Brown",
+            "Brown"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        490,
+        [],
+        "Hypatia"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Hypatia[lower-alpha 1] (born c. 350\u2013370; died 415 AD)[1][5] was a Hellenistic Neoplatonist philosopher, astronomer, and mathematician, who lived in Alexandria, Egypt, then part of the Eastern Roman Empire. She was a prominent thinker of the Neoplatonic school in Alexandria, where she taught philosophy and astronomy.[6] She is the first female mathematician whose life is reasonably well recorded.[7] Hypatia was renowned in her own lifetime as a great teacher and a wise counselor. She is known to have written a commentary on Diophantus's thirteen-volume Arithmetica, which may survive in part, having been interpolated into Diophantus's original text, and another commentary on Apollonius of Perga's treatise on conic sections, which has not survived. Many modern scholars also believe that Hypatia may have edited the surviving text of Ptolemy's Almagest, based on the title of her father Theon's commentary on Book III of the Almagest. Question: Who is the earliest known female mathematician? Answer:",
+    {
+        "id": "english-5506833768287256291-0",
+        "lang": "english",
+        "summary": "Hypatia[lower-alpha 1] (born c. 350\u2013370; died 415 AD)[1][5] was a Hellenistic Neoplatonist philosopher, astronomer, and mathematician, who lived in Alexandria, Egypt, then part of the Eastern Roman Empire. She was a prominent thinker of the Neoplatonic school in Alexandria, where she taught philosophy and astronomy.[6] She is the first female mathematician whose life is reasonably well recorded.[7] Hypatia was renowned in her own lifetime as a great teacher and a wise counselor. She is known to have written a commentary on Diophantus's thirteen-volume Arithmetica, which may survive in part, having been interpolated into Diophantus's original text, and another commentary on Apollonius of Perga's treatise on conic sections, which has not survived. Many modern scholars also believe that Hypatia may have edited the surviving text of Ptolemy's Almagest, based on the title of her father Theon's commentary on Book III of the Almagest.",
+        "question": "Who is the earliest known female mathematician?",
+        "label": "Hypatia"
+    }
+]

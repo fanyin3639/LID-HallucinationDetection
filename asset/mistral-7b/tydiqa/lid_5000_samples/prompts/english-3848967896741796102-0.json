@@ -1,0 +1,15 @@
+[
+    [
+        1267,
+        [],
+        "10,500"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Theropoda (/\u03b8\u026a\u0259\u02c8r\u0252p\u0259d\u0259/ or /\u02cc\u03b8\u026a\u0259r\u0259\u02c8po\u028ad\u0259/,[2] from Greek \u03b8\u03b7\u03c1\u03af\u03bf\u03bd \"wild beast\" and \u03c0\u03bf\u03cd\u03c2, \u03c0\u03bf\u03b4\u03cc\u03c2 \"foot\") or theropods (/\u02c8\u03b8\u026a\u0259r\u0259\u02ccp\u0252dz/[3][4]) are a dinosaur suborder that is characterized by hollow bones and three-toed limbs. They are generally classed as a group of saurischian dinosaurs, although a 2017 paper has instead placed them in the proposed clade Ornithoscelida as the closest relatives of the Ornithischia.[5] Theropods were ancestrally carnivorous, although a number of theropod groups evolved to become herbivores, omnivores, piscivores, and insectivores. Theropods first appeared during the Carnian age of the late Triassic period 231.4 million years ago (Ma)[6] and included the sole large terrestrial carnivores from the Early Jurassic until at least the close of the Cretaceous, about 66Ma. In the Jurassic, birds evolved from small specialized coelurosaurian theropods, and are today represented by about 10,500 living species. Question: How many species of theropod dinosaurs are known? Answer:",
+    {
+        "id": "english-3848967896741796102-0",
+        "lang": "english",
+        "summary": "Theropoda (/\u03b8\u026a\u0259\u02c8r\u0252p\u0259d\u0259/ or /\u02cc\u03b8\u026a\u0259r\u0259\u02c8po\u028ad\u0259/,[2] from Greek \u03b8\u03b7\u03c1\u03af\u03bf\u03bd \"wild beast\" and \u03c0\u03bf\u03cd\u03c2, \u03c0\u03bf\u03b4\u03cc\u03c2 \"foot\") or theropods (/\u02c8\u03b8\u026a\u0259r\u0259\u02ccp\u0252dz/[3][4]) are a dinosaur suborder that is characterized by hollow bones and three-toed limbs. They are generally classed as a group of saurischian dinosaurs, although a 2017 paper has instead placed them in the proposed clade Ornithoscelida as the closest relatives of the Ornithischia.[5] Theropods were ancestrally carnivorous, although a number of theropod groups evolved to become herbivores, omnivores, piscivores, and insectivores. Theropods first appeared during the Carnian age of the late Triassic period 231.4 million years ago (Ma)[6] and included the sole large terrestrial carnivores from the Early Jurassic until at least the close of the Cretaceous, about 66Ma. In the Jurassic, birds evolved from small specialized coelurosaurian theropods, and are today represented by about 10,500 living species.",
+        "question": "How many species of theropod dinosaurs are known?",
+        "label": "10,500"
+    }
+]

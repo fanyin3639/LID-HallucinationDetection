@@ -1,0 +1,15 @@
+[
+    [
+        1352,
+        [],
+        "On January 8, 2014, WWE announced the network would launch on February 24"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: WWE Network is an over-the-top streaming service and television network owned by the WWE. In Malaysia and MENA it operates as a television network,[1] and in the rest of the world as a streaming service using the infrastructure of BAMTech.[2] It was originally announced in 2011. On January 8, 2014, WWE announced the network would launch on February 24 in the United States. The company stated on July 31 that the service was expected to go live in Australia, Canada, New Zealand, Hong Kong, Singapore, Malaysia, Mexico, Spain, Turkey, the Nordics, the Middle East and North Africa, Worldwide among other countries starting on August 17.[3] It was unexpectedly made available in the UK and Ireland a week earlier than planned, on January 13, 2015, after a delay from the previous November.[4][5] The WWE Network consists of both a 24-hour linear streaming channel and on-demand programming from WWE's library. Question: When was the WWE Network created? Answer:",
+    {
+        "id": "english-454586304174195002-0",
+        "lang": "english",
+        "summary": "WWE Network is an over-the-top streaming service and television network owned by the WWE. In Malaysia and MENA it operates as a television network,[1] and in the rest of the world as a streaming service using the infrastructure of BAMTech.[2] It was originally announced in 2011. On January 8, 2014, WWE announced the network would launch on February 24 in the United States. The company stated on July 31 that the service was expected to go live in Australia, Canada, New Zealand, Hong Kong, Singapore, Malaysia, Mexico, Spain, Turkey, the Nordics, the Middle East and North Africa, Worldwide among other countries starting on August 17.[3] It was unexpectedly made available in the UK and Ireland a week earlier than planned, on January 13, 2015, after a delay from the previous November.[4][5] The WWE Network consists of both a 24-hour linear streaming channel and on-demand programming from WWE's library.",
+        "question": "When was the WWE Network created?",
+        "label": "On January 8, 2014, WWE announced the network would launch on February 24"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        246,
+        [],
+        "A 72-year-old man has died after being hit by a bus in Sheffield."
+    ],
+    "Write a short summary for the following passage:\nThe man was hit by double-decker bus on Bridge Street, near the city's Magistrates' Court, just before 11:00 GMT on Thursday, police said.\nHe sustained life-threatening injuries and was taken to hospital, where he later died.\nSouth Yorkshire Police have appealed for any witnesses to come forward, in particular anyone who was travelling on the bus at the time.\nSummary:\n",
+    {
+        "id": 246,
+        "document": "The man was hit by double-decker bus on Bridge Street, near the city's Magistrates' Court, just before 11:00 GMT on Thursday, police said.\nHe sustained life-threatening injuries and was taken to hospital, where he later died.\nSouth Yorkshire Police have appealed for any witnesses to come forward, in particular anyone who was travelling on the bus at the time.",
+        "summary": "A 72-year-old man has died after being hit by a bus in Sheffield.",
+        "label": "A 72-year-old man has died after being hit by a bus in Sheffield."
+    }
+]

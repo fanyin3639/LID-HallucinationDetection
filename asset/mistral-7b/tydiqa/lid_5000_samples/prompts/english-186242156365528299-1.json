@@ -1,0 +1,15 @@
+[
+    [
+        784,
+        [],
+        "27 to 29 years old"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In Western, Northern, and Southern Europe, first-time mothers are on average 27 to 29 years old, up from 23 to 25 years at the start of the 1970s. In a number of European countries (Spain), the mean age of women at first childbirth has crossed the 30 year threshold.[2] Question: What is the average age that people have their first child in the UK? Answer:",
+    {
+        "id": "english-186242156365528299-1",
+        "lang": "english",
+        "summary": "In Western, Northern, and Southern Europe, first-time mothers are on average 27 to 29 years old, up from 23 to 25 years at the start of the 1970s. In a number of European countries (Spain), the mean age of women at first childbirth has crossed the 30 year threshold.[2]",
+        "question": "What is the average age that people have their first child in the UK?",
+        "label": "27 to 29 years old"
+    }
+]

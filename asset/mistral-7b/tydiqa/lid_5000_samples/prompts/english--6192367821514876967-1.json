@@ -1,0 +1,15 @@
+[
+    [
+        2292,
+        [],
+        "stapes"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The stapes or stirrup is a bone in the middle ear of humans and other mammals which is involved in the conduction of sound vibrations to the inner ear. The stirrup-shaped small bone is on and transmits these to the oval window, medially. The stapes is the smallest and lightest named bone in the human body, and is so-called because of its resemblance to a stirrup (Latin: Stapes). Question: What is the smallest bone in the human body? Answer:",
+    {
+        "id": "english--6192367821514876967-1",
+        "lang": "english",
+        "summary": "The stapes or stirrup is a bone in the middle ear of humans and other mammals which is involved in the conduction of sound vibrations to the inner ear. The stirrup-shaped small bone is on and transmits these to the oval window, medially. The stapes is the smallest and lightest named bone in the human body, and is so-called because of its resemblance to a stirrup (Latin: Stapes).",
+        "question": "What is the smallest bone in the human body?",
+        "label": "stapes"
+    }
+]

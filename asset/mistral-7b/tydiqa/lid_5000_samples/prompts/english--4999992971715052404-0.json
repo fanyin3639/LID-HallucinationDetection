@@ -1,0 +1,15 @@
+[
+    [
+        2861,
+        [],
+        "seven"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Buffy the Vampire Slayer is an American television series created by Joss Whedon, which premiered on March 10, 1997. It concluded on May 20, 2003, after seven seasons with 144 episodes in total, plus an unaired pilot episode. Question: How many seasons does Buffy the Vampire Slayer have? Answer:",
+    {
+        "id": "english--4999992971715052404-0",
+        "lang": "english",
+        "summary": "Buffy the Vampire Slayer is an American television series created by Joss Whedon, which premiered on March 10, 1997. It concluded on May 20, 2003, after seven seasons with 144 episodes in total, plus an unaired pilot episode.",
+        "question": "How many seasons does Buffy the Vampire Slayer have?",
+        "label": "seven"
+    }
+]

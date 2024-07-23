@@ -1,0 +1,15 @@
+[
+    [
+        436,
+        [],
+        "Gerry Anderson and Sylvia Anderson with Reg Hill"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: UFO is a 1970 British science fiction television series about an alien invasion of Earth. It was created by Gerry Anderson and Sylvia Anderson with Reg Hill, and produced by the Andersons and Lew Grade's Century 21 Productions for Grade's ITC Entertainment company. Question: Who created the British TV show UFO? Answer:",
+    {
+        "id": "english-4553983548107209658-0",
+        "lang": "english",
+        "summary": "UFO is a 1970 British science fiction television series about an alien invasion of Earth. It was created by Gerry Anderson and Sylvia Anderson with Reg Hill, and produced by the Andersons and Lew Grade's Century 21 Productions for Grade's ITC Entertainment company.",
+        "question": "Who created the British TV show UFO?",
+        "label": "Gerry Anderson and Sylvia Anderson with Reg Hill"
+    }
+]

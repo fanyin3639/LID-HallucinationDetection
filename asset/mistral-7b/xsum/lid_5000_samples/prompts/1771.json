@@ -1,0 +1,14 @@
+[
+    [
+        1771,
+        [],
+        "A police station which has served as a city centre base for the Northumbria force for 80 years is closing its doors."
+    ],
+    "Write a short summary for the following passage:\nThe building, on Newcastle's Pilgrim Street, will be put up for sale after officers have fully relocated to a new headquarters on Forth Banks on Monday.\nThe \u00c2\u00a338m complex on Forth Bank includes 50 custody cells.\nTo mark its completion a time capsule put together by schoolchildren was buried on the site.\nSummary:\n",
+    {
+        "id": 1771,
+        "document": "The building, on Newcastle's Pilgrim Street, will be put up for sale after officers have fully relocated to a new headquarters on Forth Banks on Monday.\nThe \u00c2\u00a338m complex on Forth Bank includes 50 custody cells.\nTo mark its completion a time capsule put together by schoolchildren was buried on the site.",
+        "summary": "A police station which has served as a city centre base for the Northumbria force for 80 years is closing its doors.",
+        "label": "A police station which has served as a city centre base for the Northumbria force for 80 years is closing its doors."
+    }
+]

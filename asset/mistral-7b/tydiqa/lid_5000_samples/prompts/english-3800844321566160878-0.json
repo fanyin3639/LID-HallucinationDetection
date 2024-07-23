@@ -1,0 +1,15 @@
+[
+    [
+        1720,
+        [],
+        "Friedrich Ebert"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Friedrich Ebert (German pronunciation:[\u02c8e\u02d0b\u0250t]; 4 February 1871\u2013 28 February 1925) was a German politician of the Social Democratic Party of Germany (SPD) and the first President of Germany from 1919 until his death in office in 1925. Question: Who was the first German president? Answer:",
+    {
+        "id": "english-3800844321566160878-0",
+        "lang": "english",
+        "summary": "Friedrich Ebert (German pronunciation:[\u02c8e\u02d0b\u0250t]; 4 February 1871\u2013 28 February 1925) was a German politician of the Social Democratic Party of Germany (SPD) and the first President of Germany from 1919 until his death in office in 1925.",
+        "question": "Who was the first German president?",
+        "label": "Friedrich Ebert"
+    }
+]

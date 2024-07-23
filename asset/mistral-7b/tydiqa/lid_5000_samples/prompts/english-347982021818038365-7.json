@@ -1,0 +1,15 @@
+[
+    [
+        2816,
+        [],
+        "November 1918"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The high command under Paul von Hindenburg and Erich Ludendorff increasingly controlled the country, but in October after the failed offensive in spring 1918, the German armies were in retreat, allies Austria-Hungary and the Ottoman Empire had collapsed, and Bulgaria had surrendered. The Empire collapsed in the November 1918 Revolution with the abdications of its monarchs. This left a postwar federal republic and a devastated and unsatisfied populace, which later led to the rise of Adolf Hitler and Nazism.  Question: When did the German Empire fall? Answer:",
+    {
+        "id": "english-347982021818038365-7",
+        "lang": "english",
+        "summary": "The high command under Paul von Hindenburg and Erich Ludendorff increasingly controlled the country, but in October after the failed offensive in spring 1918, the German armies were in retreat, allies Austria-Hungary and the Ottoman Empire had collapsed, and Bulgaria had surrendered. The Empire collapsed in the November 1918 Revolution with the abdications of its monarchs. This left a postwar federal republic and a devastated and unsatisfied populace, which later led to the rise of Adolf Hitler and Nazism. ",
+        "question": "When did the German Empire fall?",
+        "label": "November 1918"
+    }
+]

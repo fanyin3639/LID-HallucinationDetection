@@ -1,0 +1,15 @@
+[
+    [
+        201,
+        [],
+        "Brock Lesnar"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The WWE Championship was the first world championship introduced into the promotion in 1963. The inaugural champion was Buddy Rogers, and there have been 50 different official champions overall and 11 vacancies.[2] The longest reigning champion is Bruno Sammartino, who held the title from May 17, 1963 to January 18, 1971, for a total of 2,803 days (7 years, 8 months, and 1 day); Sammartino also holds the record for longest combined reign at 4,040 days.[102] Andr\u00e9 the Giant is the shortest reigning champion, officially holding the title for 1 minute, 48 seconds.[1] The youngest champion is Brock Lesnar, who won the title at the age of 25, while the oldest champion is Vince McMahon, who won it at the age of 54. John Cena holds the record for most reigns with 13. Question: Who was the youngest WWE Champion? Answer:",
+    {
+        "id": "english--1111591214946199016-29",
+        "lang": "english",
+        "summary": "The WWE Championship was the first world championship introduced into the promotion in 1963. The inaugural champion was Buddy Rogers, and there have been 50 different official champions overall and 11 vacancies.[2] The longest reigning champion is Bruno Sammartino, who held the title from May 17, 1963 to January 18, 1971, for a total of 2,803 days (7 years, 8 months, and 1 day); Sammartino also holds the record for longest combined reign at 4,040 days.[102] Andr\u00e9 the Giant is the shortest reigning champion, officially holding the title for 1 minute, 48 seconds.[1] The youngest champion is Brock Lesnar, who won the title at the age of 25, while the oldest champion is Vince McMahon, who won it at the age of 54. John Cena holds the record for most reigns with 13.",
+        "question": "Who was the youngest WWE Champion?",
+        "label": "Brock Lesnar"
+    }
+]

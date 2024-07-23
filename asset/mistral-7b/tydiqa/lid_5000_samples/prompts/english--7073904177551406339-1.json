@@ -1,0 +1,15 @@
+[
+    [
+        824,
+        [],
+        "Spain's Peninsular War"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The May Revolution was a direct reaction to Spain's Peninsular War. In 1808, King Ferdinand\u00a0VII of Spain abdicated in favor of Napoleon, who granted the throne to his brother, Joseph Bonaparte. A Supreme Central Junta led resistance to Joseph's government and the French occupation of Spain, but eventually suffered a series of reversals that resulted in the Spanish loss of the northern half of the country. On February1, 1810, French troops took Seville and gained control of most of Andalusia. The Supreme Junta retreated to Cadiz and dissolved itself, and the Council of Regency of Spain and the Indies replaced it. News of these events arrived in Buenos Aires on May18, brought by British ships. Question: What started the May Revolution? Answer:",
+    {
+        "id": "english--7073904177551406339-1",
+        "lang": "english",
+        "summary": "The May Revolution was a direct reaction to Spain's Peninsular War. In 1808, King Ferdinand\u00a0VII of Spain abdicated in favor of Napoleon, who granted the throne to his brother, Joseph Bonaparte. A Supreme Central Junta led resistance to Joseph's government and the French occupation of Spain, but eventually suffered a series of reversals that resulted in the Spanish loss of the northern half of the country. On February1, 1810, French troops took Seville and gained control of most of Andalusia. The Supreme Junta retreated to Cadiz and dissolved itself, and the Council of Regency of Spain and the Indies replaced it. News of these events arrived in Buenos Aires on May18, brought by British ships.",
+        "question": "What started the May Revolution?",
+        "label": "Spain's Peninsular War"
+    }
+]

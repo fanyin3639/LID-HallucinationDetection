@@ -1,0 +1,15 @@
+[
+    [
+        328,
+        [],
+        "June 1998"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Xeon (/\u02c8zi\u02d0\u0252n/ ZEE-on) is a brand of x86 microprocessors designed, manufactured, and marketed by Intel, targeted at the non-consumer workstation, server, and embedded system markets. It was introduced in June 1998.  Xeon processors are based on the same architecture as regular desktop-grade CPUs, but have some advanced features such as support for ECC memory, higher core counts, support for larger amounts of RAM, larger cache memory and extra provision for enterprise-grade reliability, availability and serviceability features responsible for handling hardware exceptions through the Machine Check Architecture. They are often capable of safely continuing execution where a normal processor cannot due to these extra RAS features, depending on the type and severity of the Machine Check Exception. Some also support multi-socket systems with two, four, or eight sockets through use of the Quick Path Interconnect bus. Question: How long has the Xeon processor been in use for? Answer:",
+    {
+        "id": "english-6478369162517071811-0",
+        "lang": "english",
+        "summary": "Xeon (/\u02c8zi\u02d0\u0252n/ ZEE-on) is a brand of x86 microprocessors designed, manufactured, and marketed by Intel, targeted at the non-consumer workstation, server, and embedded system markets. It was introduced in June 1998.  Xeon processors are based on the same architecture as regular desktop-grade CPUs, but have some advanced features such as support for ECC memory, higher core counts, support for larger amounts of RAM, larger cache memory and extra provision for enterprise-grade reliability, availability and serviceability features responsible for handling hardware exceptions through the Machine Check Architecture. They are often capable of safely continuing execution where a normal processor cannot due to these extra RAS features, depending on the type and severity of the Machine Check Exception. Some also support multi-socket systems with two, four, or eight sockets through use of the Quick Path Interconnect bus.",
+        "question": "How long has the Xeon processor been in use for?",
+        "label": "June 1998"
+    }
+]

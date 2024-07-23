@@ -1,0 +1,15 @@
+[
+    [
+        700,
+        [],
+        "1299"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The foundation and rise of the Ottoman Empire is a period of history that started with the emergence of the Ottoman principality in c.1299, and ended with the conquest of Constantinople on May 29, 1453. This period witnessed the foundation of a political entity ruled by the Ottoman Dynasty in the northwestern Anatolian region of Bithynia, and its transformation from a small principality on the Byzantine frontier into an empire spanning the Balkans and Anatolia. For this reason, this period in the empire's history has been described as the Proto-Imperial Era.[1] Throughout most of this period, the Ottomans were merely one of many competing states in the region, and relied upon the support of local warlords and vassals to maintain control over their realm. By the middle of the fifteenth century the Ottoman sultans were able to accumulate enough personal power and authority to establish a centralized imperial state, a process which was brought to fruition by Sultan Mehmed II (r. 1451-1481).[2] The conquest of Constantinople in 1453 is seen as the symbolic moment when the emerging Ottoman state shifted from a mere principality into an empire, marking a major turning point in its history.[3] Question: When did the Ottoman Empire begin? Answer:",
+    {
+        "id": "english-879711128413858570-1",
+        "lang": "english",
+        "summary": "The foundation and rise of the Ottoman Empire is a period of history that started with the emergence of the Ottoman principality in c.1299, and ended with the conquest of Constantinople on May 29, 1453. This period witnessed the foundation of a political entity ruled by the Ottoman Dynasty in the northwestern Anatolian region of Bithynia, and its transformation from a small principality on the Byzantine frontier into an empire spanning the Balkans and Anatolia. For this reason, this period in the empire's history has been described as the Proto-Imperial Era.[1] Throughout most of this period, the Ottomans were merely one of many competing states in the region, and relied upon the support of local warlords and vassals to maintain control over their realm. By the middle of the fifteenth century the Ottoman sultans were able to accumulate enough personal power and authority to establish a centralized imperial state, a process which was brought to fruition by Sultan Mehmed II (r. 1451-1481).[2] The conquest of Constantinople in 1453 is seen as the symbolic moment when the emerging Ottoman state shifted from a mere principality into an empire, marking a major turning point in its history.[3]",
+        "question": "When did the Ottoman Empire begin?",
+        "label": "1299"
+    }
+]

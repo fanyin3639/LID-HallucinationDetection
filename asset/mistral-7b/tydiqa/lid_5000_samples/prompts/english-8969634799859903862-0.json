@@ -1,0 +1,15 @@
+[
+    [
+        2255,
+        [],
+        "between 1795 and 1822"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ludwig van Beethoven wrote his 32 piano sonatas between 1795 and 1822. Although originally not intended to be a meaningful whole, as a set they compose one of the most important collections of works in the history of music.[1] Hans von B\u00fclow called them \"The New Testament\" of the piano literature (Johann Sebastian Bach's The Well-Tempered Clavier being \"The Old Testament\").[2] Question: When did Beethoven write his first piano sonata? Answer:",
+    {
+        "id": "english-8969634799859903862-0",
+        "lang": "english",
+        "summary": "Ludwig van Beethoven wrote his 32 piano sonatas between 1795 and 1822. Although originally not intended to be a meaningful whole, as a set they compose one of the most important collections of works in the history of music.[1] Hans von B\u00fclow called them \"The New Testament\" of the piano literature (Johann Sebastian Bach's The Well-Tempered Clavier being \"The Old Testament\").[2]",
+        "question": "When did Beethoven write his first piano sonata?",
+        "label": "between 1795 and 1822"
+    }
+]

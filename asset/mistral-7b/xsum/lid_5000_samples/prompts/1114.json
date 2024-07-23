@@ -1,0 +1,14 @@
+[
+    [
+        1114,
+        [],
+        "A third person arrested in connection with the death of a man in Ipswich has been released on bail."
+    ],
+    "Write a short summary for the following passage:\nDean Stansby, 41, died of stab wounds to the abdomen near Ancaster Road in the town on Wednesday.\nSuffolk Police had already arrested and bailed a 39-year-old man from Ipswich and a 16-year-old boy on suspicion of murder.\nA 31-year-old man, of no fixed abode, was arrested on Monday. He has been bailed until 21 May.\nFor more on this and other Suffolk stories\nMr Stansby was taken to Ipswich Hospital for treatment after he was found in Ancaster Road but died a short time later.\nSummary:\n",
+    {
+        "id": 1114,
+        "document": "Dean Stansby, 41, died of stab wounds to the abdomen near Ancaster Road in the town on Wednesday.\nSuffolk Police had already arrested and bailed a 39-year-old man from Ipswich and a 16-year-old boy on suspicion of murder.\nA 31-year-old man, of no fixed abode, was arrested on Monday. He has been bailed until 21 May.\nFor more on this and other Suffolk stories\nMr Stansby was taken to Ipswich Hospital for treatment after he was found in Ancaster Road but died a short time later.",
+        "summary": "A third person arrested in connection with the death of a man in Ipswich has been released on bail.",
+        "label": "A third person arrested in connection with the death of a man in Ipswich has been released on bail."
+    }
+]

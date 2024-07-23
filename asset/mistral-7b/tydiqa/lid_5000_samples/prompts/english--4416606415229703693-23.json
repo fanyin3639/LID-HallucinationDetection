@@ -1,0 +1,15 @@
+[
+    [
+        922,
+        [],
+        "Chesapeake Bay"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The largest oyster-producing body of water in the United States is Chesapeake Bay, although these beds have decreased in number due to overfishing and pollution. Willapa Bay in Washington produces more oysters than any other estuary in the US.[9] Other large oyster farming areas in the US include the bays and estuaries along the coast of the Gulf of Mexico from Apalachicola, Florida in the east to Galveston, Texas in the west. Large beds of edible oysters are also found in Japan and Australia. In 2005, China accounted for 80% of the global oyster harvest.[10] Within Europe, France remained the industry leader. Question: Where is the largest population of wild oysters? Answer:",
+    {
+        "id": "english--4416606415229703693-23",
+        "lang": "english",
+        "summary": "The largest oyster-producing body of water in the United States is Chesapeake Bay, although these beds have decreased in number due to overfishing and pollution. Willapa Bay in Washington produces more oysters than any other estuary in the US.[9] Other large oyster farming areas in the US include the bays and estuaries along the coast of the Gulf of Mexico from Apalachicola, Florida in the east to Galveston, Texas in the west. Large beds of edible oysters are also found in Japan and Australia. In 2005, China accounted for 80% of the global oyster harvest.[10] Within Europe, France remained the industry leader.",
+        "question": "Where is the largest population of wild oysters?",
+        "label": "Chesapeake Bay"
+    }
+]

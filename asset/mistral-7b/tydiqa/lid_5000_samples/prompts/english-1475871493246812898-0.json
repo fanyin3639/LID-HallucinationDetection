@@ -1,0 +1,15 @@
+[
+    [
+        417,
+        [],
+        "January 18, 1867"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: F\u00e9lix Rub\u00e9n Garc\u00eda Sarmiento (January 18, 1867 \u2013 February 6, 1916), known as Rub\u00e9n Dar\u00edo (Spanish pronunciation:[ru\u02c8\u03b2en da\u02c8\u027ei.o]), was a Nicaraguan poet who initiated the Spanish-American literary movement known as modernismo (modernism) that flourished at the end of the 19th century. Dar\u00edo has had a great and lasting influence on 20th-century Spanish literature and journalism. He has been praised as the \"Prince of Castilian Letters\" and undisputed father of the modernismo literary movement.[1] Question: When was Rub\u00e9n Dar\u00edo born? Answer:",
+    {
+        "id": "english-1475871493246812898-0",
+        "lang": "english",
+        "summary": "F\u00e9lix Rub\u00e9n Garc\u00eda Sarmiento (January 18, 1867 \u2013 February 6, 1916), known as Rub\u00e9n Dar\u00edo (Spanish pronunciation:[ru\u02c8\u03b2en da\u02c8\u027ei.o]), was a Nicaraguan poet who initiated the Spanish-American literary movement known as modernismo (modernism) that flourished at the end of the 19th century. Dar\u00edo has had a great and lasting influence on 20th-century Spanish literature and journalism. He has been praised as the \"Prince of Castilian Letters\" and undisputed father of the modernismo literary movement.[1]",
+        "question": "When was Rub\u00e9n Dar\u00edo born?",
+        "label": "January 18, 1867"
+    }
+]

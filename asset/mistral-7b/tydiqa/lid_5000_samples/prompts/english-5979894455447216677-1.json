@@ -1,0 +1,15 @@
+[
+    [
+        736,
+        [],
+        "29 August 1632"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: John Locke FRS (/l\u0252k/; 29 August 1632\u2013 28 October 1704) was an English philosopher and physician, widely regarded as one of the most influential of Enlightenment thinkers and commonly known as the \"Father of Liberalism\".[9][10][11] Considered one of the first of the British empiricists, following the tradition of Sir Francis Bacon, he is equally important to social contract theory. His work greatly affected the development of epistemology and political philosophy. His writings influenced Voltaire and Jean-Jacques Rousseau, many Scottish Enlightenment thinkers, as well as the American revolutionaries. His contributions to classical republicanism and liberal theory are reflected in the United States Declaration of Independence.[12] Question: When was Locke born? Answer:",
+    {
+        "id": "english-5979894455447216677-1",
+        "lang": "english",
+        "summary": "John Locke FRS (/l\u0252k/; 29 August 1632\u2013 28 October 1704) was an English philosopher and physician, widely regarded as one of the most influential of Enlightenment thinkers and commonly known as the \"Father of Liberalism\".[9][10][11] Considered one of the first of the British empiricists, following the tradition of Sir Francis Bacon, he is equally important to social contract theory. His work greatly affected the development of epistemology and political philosophy. His writings influenced Voltaire and Jean-Jacques Rousseau, many Scottish Enlightenment thinkers, as well as the American revolutionaries. His contributions to classical republicanism and liberal theory are reflected in the United States Declaration of Independence.[12]",
+        "question": "When was Locke born?",
+        "label": "29 August 1632"
+    }
+]

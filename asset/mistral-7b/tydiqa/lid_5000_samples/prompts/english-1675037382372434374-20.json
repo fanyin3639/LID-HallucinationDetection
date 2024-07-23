@@ -1,0 +1,15 @@
+[
+    [
+        1876,
+        [],
+        "September through the first part of November"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cranberries are harvested in the fall when the fruit takes on its distinctive deep red color. Berries that receive sun turn a deep red when fully ripe, while those that do not fully mature are a pale pink or white color. This is usually in September through the first part of November. To harvest cranberries, the beds are flooded with six to eight inches (15 to 20 centimeters) of water above the vines. A harvester is driven through the beds to remove the fruit from the vines. For the past 50 years, water reel type harvesters have been used. Harvested cranberries float in the water and can be corralled into a corner of the bed and conveyed or pumped from the bed. From the farm, cranberries are taken to receiving stations where they are cleaned, sorted, and stored prior to packaging or processing. Question: When is the growing season for cranberries? Answer:",
+    {
+        "id": "english-1675037382372434374-20",
+        "lang": "english",
+        "summary": "Cranberries are harvested in the fall when the fruit takes on its distinctive deep red color. Berries that receive sun turn a deep red when fully ripe, while those that do not fully mature are a pale pink or white color. This is usually in September through the first part of November. To harvest cranberries, the beds are flooded with six to eight inches (15 to 20 centimeters) of water above the vines. A harvester is driven through the beds to remove the fruit from the vines. For the past 50 years, water reel type harvesters have been used. Harvested cranberries float in the water and can be corralled into a corner of the bed and conveyed or pumped from the bed. From the farm, cranberries are taken to receiving stations where they are cleaned, sorted, and stored prior to packaging or processing.",
+        "question": "When is the growing season for cranberries?",
+        "label": "September through the first part of November"
+    }
+]

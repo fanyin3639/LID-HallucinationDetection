@@ -1,0 +1,15 @@
+[
+    [
+        2220,
+        [],
+        "$98.264 billion"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kenya's economy is market-based with a few state-owned infrastructure enterprises and maintains a liberalised external trade system. The country is generally perceived as Eastern Africa's hub for Financial, Communication and Transportation services. Major industries include: agriculture, forestry and fishing, mining and minerals, industrial  manufacturing, energy, tourism and financial services. As of 2019 estimates, Kenya had a GDP of $98.264 billion making it the 65th largest economy in the world. Per capita GDP was estimated at $1,991. Question: What is Kenya's GDP? Answer:",
+    {
+        "id": "english--5987904727014588785-0",
+        "lang": "english",
+        "summary": "Kenya's economy is market-based with a few state-owned infrastructure enterprises and maintains a liberalised external trade system. The country is generally perceived as Eastern Africa's hub for Financial, Communication and Transportation services. Major industries include: agriculture, forestry and fishing, mining and minerals, industrial  manufacturing, energy, tourism and financial services. As of 2019 estimates, Kenya had a GDP of $98.264 billion making it the 65th largest economy in the world. Per capita GDP was estimated at $1,991.",
+        "question": "What is Kenya's GDP?",
+        "label": "$98.264 billion"
+    }
+]

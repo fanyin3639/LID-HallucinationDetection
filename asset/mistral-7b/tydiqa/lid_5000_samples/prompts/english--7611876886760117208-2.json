@@ -1,0 +1,15 @@
+[
+    [
+        1105,
+        [],
+        "Classical Hebrew"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Hebrew Bible, also known as the Tanakh (Hebrew: \u05ea\u05e0\"\u05da), consists of 39 books. \"Hebrew\" in \"Hebrew Bible\" may refer to either the Hebrew language or to the Hebrew people who historically used Hebrew as a spoken language, and have continuously used the language in prayer and study, or both. The texts were mainly written in Biblical Hebrew, with some portions (notably in Daniel and Ezra) in Biblical Aramaic. Biblical Hebrew, sometimes called Classical Hebrew, is an archaic form of the Hebrew language. Question: What was the first language spoken in the Bible? Answer:",
+    {
+        "id": "english--7611876886760117208-2",
+        "lang": "english",
+        "summary": "The Hebrew Bible, also known as the Tanakh (Hebrew: \u05ea\u05e0\"\u05da), consists of 39 books. \"Hebrew\" in \"Hebrew Bible\" may refer to either the Hebrew language or to the Hebrew people who historically used Hebrew as a spoken language, and have continuously used the language in prayer and study, or both. The texts were mainly written in Biblical Hebrew, with some portions (notably in Daniel and Ezra) in Biblical Aramaic. Biblical Hebrew, sometimes called Classical Hebrew, is an archaic form of the Hebrew language.",
+        "question": "What was the first language spoken in the Bible?",
+        "label": "Classical Hebrew"
+    }
+]

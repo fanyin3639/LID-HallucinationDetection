@@ -1,0 +1,14 @@
+[
+    [
+        1183,
+        [],
+        "A statue has been unveiled of Mahatma Gandhi in London's Parliament Square."
+    ],
+    "Write a short summary for the following passage:\nThe unveiling of the 9ft (2.7m) bronze statue marks 100 years since Gandhi returned to India from South Africa to begin his struggle for independence.\nThe Gandhi Statue Memorial Trust raised more than \u00c2\u00a31m for the work which was described as a \"magnificent tribute\".\nThe statue was unveiled by Indian finance minister, Shri Arun Jaitley, in a ceremony which also involved Gandhi's grandson, Gopalkrishna Gandhi.\nBritish sculptor, Philip Jackson, was commissioned to create the work with his previous pieces including statues of the Queen Mother and Bomber Command.\nHe said he was inspired by photographs of the civil rights leader outside 10 Downing Street on a visit in 1931.\nPrime Minister David Cameron said: \"This statue is a magnificent tribute to one of the most towering figures in the history of world politics and by putting Mahatma Gandhi in this famous square we are giving him an eternal home in our country.\"\nGandhi was known for his use of non-violent protest and undertook various hunger strikes to protest against the oppression of India's poorest classes.\nSummary:\n",
+    {
+        "id": 1183,
+        "document": "The unveiling of the 9ft (2.7m) bronze statue marks 100 years since Gandhi returned to India from South Africa to begin his struggle for independence.\nThe Gandhi Statue Memorial Trust raised more than \u00c2\u00a31m for the work which was described as a \"magnificent tribute\".\nThe statue was unveiled by Indian finance minister, Shri Arun Jaitley, in a ceremony which also involved Gandhi's grandson, Gopalkrishna Gandhi.\nBritish sculptor, Philip Jackson, was commissioned to create the work with his previous pieces including statues of the Queen Mother and Bomber Command.\nHe said he was inspired by photographs of the civil rights leader outside 10 Downing Street on a visit in 1931.\nPrime Minister David Cameron said: \"This statue is a magnificent tribute to one of the most towering figures in the history of world politics and by putting Mahatma Gandhi in this famous square we are giving him an eternal home in our country.\"\nGandhi was known for his use of non-violent protest and undertook various hunger strikes to protest against the oppression of India's poorest classes.",
+        "summary": "A statue has been unveiled of Mahatma Gandhi in London's Parliament Square.",
+        "label": "A statue has been unveiled of Mahatma Gandhi in London's Parliament Square."
+    }
+]

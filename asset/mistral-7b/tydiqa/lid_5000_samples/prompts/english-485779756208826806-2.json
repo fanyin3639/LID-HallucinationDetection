@@ -1,0 +1,15 @@
+[
+    [
+        945,
+        [],
+        "fifth season"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On May 2, 2018, Fox renewed the series for a fifth season with Brett Mahoney taking over as showrunner from Ilene Chaiken.[6] The season premiered on September 26, 2018.[7] Question: How many seasons has Empire been on the air? Answer:",
+    {
+        "id": "english-485779756208826806-2",
+        "lang": "english",
+        "summary": "On May 2, 2018, Fox renewed the series for a fifth season with Brett Mahoney taking over as showrunner from Ilene Chaiken.[6] The season premiered on September 26, 2018.[7]",
+        "question": "How many seasons has Empire been on the air?",
+        "label": "fifth season"
+    }
+]

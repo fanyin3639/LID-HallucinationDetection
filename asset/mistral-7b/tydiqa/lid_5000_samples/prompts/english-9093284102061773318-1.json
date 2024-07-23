@@ -1,0 +1,15 @@
+[
+    [
+        2870,
+        [],
+        "Edmond Halley"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Halley's returns to the inner Solar System have been observed and recorded by astronomers since at least 240 BC. Clear records of the comet's appearances were made by Chinese, Babylonian, and medieval European chroniclers, but were not recognized as reappearances of the same object at the time. The comet's periodicity was first determined in 1705 by English astronomer Edmond Halley, after whom it is now named. Question: Who discovered Halley's Comet? Answer:",
+    {
+        "id": "english-9093284102061773318-1",
+        "lang": "english",
+        "summary": "Halley's returns to the inner Solar System have been observed and recorded by astronomers since at least 240 BC. Clear records of the comet's appearances were made by Chinese, Babylonian, and medieval European chroniclers, but were not recognized as reappearances of the same object at the time. The comet's periodicity was first determined in 1705 by English astronomer Edmond Halley, after whom it is now named.",
+        "question": "Who discovered Halley's Comet?",
+        "label": "Edmond Halley"
+    }
+]

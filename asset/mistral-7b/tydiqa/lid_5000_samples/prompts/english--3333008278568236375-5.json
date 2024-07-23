@@ -1,0 +1,15 @@
+[
+    [
+        2895,
+        [],
+        "25 to 30years"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Depending on breed, management and environment, the modern domestic horse has a life expectancy of 25 to 30years.[7] Uncommonly, a few animals live into their 40s and, occasionally, beyond.[8] The oldest verifiable record was \"Old Billy\", a 19th-century horse that lived to the age of 62.[7] In modern times, Sugar Puff, who had been listed in Guinness World Records as the world's oldest living pony, died in 2007 at age 56.[9] Question: What is the life expectancy of horses? Answer:",
+    {
+        "id": "english--3333008278568236375-5",
+        "lang": "english",
+        "summary": "Depending on breed, management and environment, the modern domestic horse has a life expectancy of 25 to 30years.[7] Uncommonly, a few animals live into their 40s and, occasionally, beyond.[8] The oldest verifiable record was \"Old Billy\", a 19th-century horse that lived to the age of 62.[7] In modern times, Sugar Puff, who had been listed in Guinness World Records as the world's oldest living pony, died in 2007 at age 56.[9]",
+        "question": "What is the life expectancy of horses?",
+        "label": "25 to 30years"
+    }
+]

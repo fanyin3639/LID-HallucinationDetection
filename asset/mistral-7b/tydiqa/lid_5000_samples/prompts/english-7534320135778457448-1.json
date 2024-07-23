@@ -1,0 +1,15 @@
+[
+    [
+        3103,
+        [],
+        "Gen. Braxton Bragg"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The battle was fought between the Army of the Cumberland under Maj. Gen. William Rosecrans and the Confederate Army of Tennessee under Gen. Braxton Bragg, and was named for Chickamauga Creek, which meanders near the battle area in northwest Georgia (and ultimately flows into the Tennessee River about 3.5 miles (5.6km) northeast of downtown Chattanooga). Question: Who led the Confederate Army in the Battle of Chickamauga? Answer:",
+    {
+        "id": "english-7534320135778457448-1",
+        "lang": "english",
+        "summary": "The battle was fought between the Army of the Cumberland under Maj. Gen. William Rosecrans and the Confederate Army of Tennessee under Gen. Braxton Bragg, and was named for Chickamauga Creek, which meanders near the battle area in northwest Georgia (and ultimately flows into the Tennessee River about 3.5 miles (5.6km) northeast of downtown Chattanooga).",
+        "question": "Who led the Confederate Army in the Battle of Chickamauga?",
+        "label": "Gen. Braxton Bragg"
+    }
+]

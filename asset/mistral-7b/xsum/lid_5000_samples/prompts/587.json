@@ -1,0 +1,14 @@
+[
+    [
+        587,
+        [],
+        "The Irish army has made safe a bomb found outside Longford town on Wednesday afternoon."
+    ],
+    "Write a short summary for the following passage:\nThe bomb was found by a member of public outside a house beside the N4.\nAn Irish Defence Forces explosive ordnance disposal team arrived at the scene at about 17:30 local time after being contacted by the police.\nThey took the bomb to a military location for further examination where it was confirmed as viable. The scene was declared safe at about 17:55.\nSummary:\n",
+    {
+        "id": 587,
+        "document": "The bomb was found by a member of public outside a house beside the N4.\nAn Irish Defence Forces explosive ordnance disposal team arrived at the scene at about 17:30 local time after being contacted by the police.\nThey took the bomb to a military location for further examination where it was confirmed as viable. The scene was declared safe at about 17:55.",
+        "summary": "The Irish army has made safe a bomb found outside Longford town on Wednesday afternoon.",
+        "label": "The Irish army has made safe a bomb found outside Longford town on Wednesday afternoon."
+    }
+]

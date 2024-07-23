@@ -1,0 +1,15 @@
+[
+    [
+        2232,
+        [],
+        "1968"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A contrast medium for medical ultrasonography is a formulation of encapsulated gaseous microbubbles[30] to increase echogenicity of blood, discovered by Dr Raymond Gramiak in 1968[31] and named contrast-enhanced ultrasound. This contrast medical imaging modality is clinically used throughout the world,[32] in particular for echocardiography in the United States and for ultrasound radiology in Europe and Asia. Question: When was ultrasound first used in medicine? Answer:",
+    {
+        "id": "english--3272935616767761545-59",
+        "lang": "english",
+        "summary": "A contrast medium for medical ultrasonography is a formulation of encapsulated gaseous microbubbles[30] to increase echogenicity of blood, discovered by Dr Raymond Gramiak in 1968[31] and named contrast-enhanced ultrasound. This contrast medical imaging modality is clinically used throughout the world,[32] in particular for echocardiography in the United States and for ultrasound radiology in Europe and Asia.",
+        "question": "When was ultrasound first used in medicine?",
+        "label": "1968"
+    }
+]

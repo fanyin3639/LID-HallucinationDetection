@@ -1,0 +1,15 @@
+[
+    [
+        1096,
+        [],
+        "to extract statistical regularities from the world around them to learn about the environment"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Statistical learning is the ability for humans and other animals to extract statistical regularities from the world around them to learn about the environment. Although statistical learning is now thought to be a generalized learning mechanism, the phenomenon was first identified in human infant language acquisition. Question: What can you learn with Statistical language acquisition? Answer:",
+    {
+        "id": "english--3346849673166294239-0",
+        "lang": "english",
+        "summary": "Statistical learning is the ability for humans and other animals to extract statistical regularities from the world around them to learn about the environment. Although statistical learning is now thought to be a generalized learning mechanism, the phenomenon was first identified in human infant language acquisition.",
+        "question": "What can you learn with Statistical language acquisition?",
+        "label": "to extract statistical regularities from the world around them to learn about the environment"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        1141,
+        [],
+        "to establish a theological community"
+    ],
+    "Answer the following questions:\nContext: New Haven (local /nu\u02d0 \u02c8he\u026av\u0259n/, noo-HAY-v\u0259n), in the U.S. state of Connecticut, is the principal municipality in Greater New Haven, which had a total population of 862,477 in 2010. It is located on New Haven Harbor on the northern shore of the Long Island Sound in New Haven County, Connecticut, which in turn comprises the outer limits of the New York metropolitan area. It is the second-largest city in Connecticut (after Bridgeport), with a population of 129,779 people as of the 2010 United States Census. According to a census of 1 July 2012, by the Census Bureau, the city had a population of 130,741. \n\nIn 1637 a small party of Puritans reconnoitered the New Haven harbor area and wintered over. In April 1638, the main party of five hundred Puritans who left the Massachusetts Bay Colony under the leadership of the Reverend John Davenport and the London merchant Theophilus Eaton sailed into the harbor. These settlers were hoping to establish a (in their mind) better theological community, with the government more closely linked to the church than the one they left in Massachusetts and sought to take advantage of the excellent port capabilities of the harbor. The Quinnipiacs, who were under attack by neighboring Pequots, sold their land to the settlers in return for protection.\n'Question': What was the settlers hope?\n'Answer: '",
+    {
+        "id": "32ktq2v7rdfc4uxmnl0agydort19mq_7",
+        "summary": "New Haven (local /nu\u02d0 \u02c8he\u026av\u0259n/, noo-HAY-v\u0259n), in the U.S. state of Connecticut, is the principal municipality in Greater New Haven, which had a total population of 862,477 in 2010. It is located on New Haven Harbor on the northern shore of the Long Island Sound in New Haven County, Connecticut, which in turn comprises the outer limits of the New York metropolitan area. It is the second-largest city in Connecticut (after Bridgeport), with a population of 129,779 people as of the 2010 United States Census. According to a census of 1 July 2012, by the Census Bureau, the city had a population of 130,741. \n\nIn 1637 a small party of Puritans reconnoitered the New Haven harbor area and wintered over. In April 1638, the main party of five hundred Puritans who left the Massachusetts Bay Colony under the leadership of the Reverend John Davenport and the London merchant Theophilus Eaton sailed into the harbor. These settlers were hoping to establish a (in their mind) better theological community, with the government more closely linked to the church than the one they left in Massachusetts and sought to take advantage of the excellent port capabilities of the harbor. The Quinnipiacs, who were under attack by neighboring Pequots, sold their land to the settlers in return for protection.",
+        "question": "What was the settlers hope?",
+        "label": "to establish a theological community",
+        "additional_answers": [
+            "To establish a better theological community,",
+            "to establish a better theological community",
+            "to establish a (in their mind) better theological community"
+        ]
+    }
+]

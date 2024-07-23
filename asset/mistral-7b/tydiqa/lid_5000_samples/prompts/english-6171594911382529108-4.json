@@ -1,0 +1,15 @@
+[
+    [
+        2647,
+        [],
+        "9,950 square miles"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the U.S. Census Bureau, the county has a total area of 9,960 square miles (25,800km2), of which 9,950 square miles (25,800km2) is land and 9.3 square miles (24km2) (0.09%) is water.[3] Question: How large is Navajo County, Arizona? Answer:",
+    {
+        "id": "english-6171594911382529108-4",
+        "lang": "english",
+        "summary": "According to the U.S. Census Bureau, the county has a total area of 9,960 square miles (25,800km2), of which 9,950 square miles (25,800km2) is land and 9.3 square miles (24km2) (0.09%) is water.[3]",
+        "question": "How large is Navajo County, Arizona?",
+        "label": "9,950 square miles"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        759,
+        [],
+        "Butcher Hollow, Kentucky"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lynn was born Loretta Webb on April 14, 1932 in Butcher Hollow, Kentucky. She is the eldest daughter and second child born to Clara Marie \"Clary\" (n\u00e9e Ramey; 1912\u20131981) and Melvin Theodore \"Ted\" Webb (1906\u20131959). Ted was a coal miner and subsistence farmer.[2] The other Webb children: Question: Where was Loretta Lynn born? Answer:",
+    {
+        "id": "english--8754194908169634166-2",
+        "lang": "english",
+        "summary": "Lynn was born Loretta Webb on April 14, 1932 in Butcher Hollow, Kentucky. She is the eldest daughter and second child born to Clara Marie \"Clary\" (n\u00e9e Ramey; 1912\u20131981) and Melvin Theodore \"Ted\" Webb (1906\u20131959). Ted was a coal miner and subsistence farmer.[2] The other Webb children:",
+        "question": "Where was Loretta Lynn born?",
+        "label": "Butcher Hollow, Kentucky"
+    }
+]

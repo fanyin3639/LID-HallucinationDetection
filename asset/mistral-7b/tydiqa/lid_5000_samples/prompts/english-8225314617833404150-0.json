@@ -1,0 +1,15 @@
+[
+    [
+        392,
+        [],
+        "anuary4, 2015"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Wrestle Kingdom 9 in Tokyo Dome was a professional wrestling pay-per-view (PPV) event produced by the New Japan Pro Wrestling (NJPW) promotion, which took place at the Tokyo Dome in Tokyo, Japan on January4, 2015. It was the 24th January 4 Tokyo Dome Show and the first event on the 2015 NJPW schedule. The event featured ten professional wrestling matches and one pre-show match, six of which were for championships. Question: When was Wrestle Kingdom 9? Answer:",
+    {
+        "id": "english-8225314617833404150-0",
+        "lang": "english",
+        "summary": "Wrestle Kingdom 9 in Tokyo Dome was a professional wrestling pay-per-view (PPV) event produced by the New Japan Pro Wrestling (NJPW) promotion, which took place at the Tokyo Dome in Tokyo, Japan on January4, 2015. It was the 24th January 4 Tokyo Dome Show and the first event on the 2015 NJPW schedule. The event featured ten professional wrestling matches and one pre-show match, six of which were for championships.",
+        "question": "When was Wrestle Kingdom 9?",
+        "label": "anuary4, 2015"
+    }
+]

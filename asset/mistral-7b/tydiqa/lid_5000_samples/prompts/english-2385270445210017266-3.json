@@ -1,0 +1,15 @@
+[
+    [
+        2261,
+        [],
+        "1965"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The act was originally authorized through 1965; however, the government has reauthorized the act several times since its enactment\u2014often well after the expiration of the previous reauthorization. The reauthorization of ESEA by President George W. Bush was known as the No Child Left Behind Act of 2001. ESEA was reauthorized on December 10, 2015 as the Every Student Succeeds Act (ESSA) by President Barack Obama.[3] Question: When was the Elementary and Secondary Education Act passed? Answer:",
+    {
+        "id": "english-2385270445210017266-3",
+        "lang": "english",
+        "summary": "The act was originally authorized through 1965; however, the government has reauthorized the act several times since its enactment\u2014often well after the expiration of the previous reauthorization. The reauthorization of ESEA by President George W. Bush was known as the No Child Left Behind Act of 2001. ESEA was reauthorized on December 10, 2015 as the Every Student Succeeds Act (ESSA) by President Barack Obama.[3]",
+        "question": "When was the Elementary and Secondary Education Act passed?",
+        "label": "1965"
+    }
+]

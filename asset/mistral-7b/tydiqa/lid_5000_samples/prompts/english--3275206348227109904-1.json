@@ -1,0 +1,15 @@
+[
+    [
+        86,
+        [],
+        "Cricket World Cup"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Most games are played as parts of \"tours\", when one nation travels to another for a number of weeks or months, and plays a number of matches of various sorts against the host nation. The ICC also organises competitions that are for several countries at once, including the Cricket World Cup & ICC T20 World Cup. Question: What is the biggest cricket competition? Answer:",
+    {
+        "id": "english--3275206348227109904-1",
+        "lang": "english",
+        "summary": "Most games are played as parts of \"tours\", when one nation travels to another for a number of weeks or months, and plays a number of matches of various sorts against the host nation. The ICC also organises competitions that are for several countries at once, including the Cricket World Cup & ICC T20 World Cup.",
+        "question": "What is the biggest cricket competition?",
+        "label": "Cricket World Cup"
+    }
+]

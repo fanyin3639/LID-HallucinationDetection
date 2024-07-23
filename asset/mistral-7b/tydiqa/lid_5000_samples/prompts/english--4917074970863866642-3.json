@@ -1,0 +1,15 @@
+[
+    [
+        1679,
+        [],
+        "Alphonse Milne-Edwards"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The blue-footed booby was described by the French naturalist Alphonse Milne-Edwards in 1882 under the current binomial name Sula nebouxii.[6] The specific epithet was chosen to honor the surgeon, naturalist, and explorer Adolphe-Simon Neboux (1806-1844).[7] There are two recognized subspecies:[8] Question: Who named the blue-footed booby? Answer:",
+    {
+        "id": "english--4917074970863866642-3",
+        "lang": "english",
+        "summary": "The blue-footed booby was described by the French naturalist Alphonse Milne-Edwards in 1882 under the current binomial name Sula nebouxii.[6] The specific epithet was chosen to honor the surgeon, naturalist, and explorer Adolphe-Simon Neboux (1806-1844).[7] There are two recognized subspecies:[8]",
+        "question": "Who named the blue-footed booby?",
+        "label": "Alphonse Milne-Edwards"
+    }
+]

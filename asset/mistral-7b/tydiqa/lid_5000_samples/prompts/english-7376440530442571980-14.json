@@ -1,0 +1,15 @@
+[
+    [
+        120,
+        [],
+        "30 feet high"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The church is a large and handsome structure of brick with stone trimmings, 170 feet in length, 78 feet wide and surmounted by two golden crosses.  The walls are 30 feet high, while from the loftiest point of the roof to the floor the distance is 73 feet.  There is a seating capacity of about a thousand. Built without galleries, it is well lighted by several large stained glass windows on the north and south sides, and its cheerfulness is one of the things for which the church is noted. The pictures on the windows are emblematic of episodes in the life of our Blessed Lord.  Among the donors of the original set of windows were Mr. and Mrs. James Hayden, Cornelius L. Kelly and Family, Mrs. David Sheedy and Family, Mr. and Mrs. John Collins, In Memory of Reverend Father Bric, In Memory of Reverend Father Brady and a number of the church societies. Question: How tall is St. Joseph's Church in Fall River? Answer:",
+    {
+        "id": "english-7376440530442571980-14",
+        "lang": "english",
+        "summary": "The church is a large and handsome structure of brick with stone trimmings, 170 feet in length, 78 feet wide and surmounted by two golden crosses.  The walls are 30 feet high, while from the loftiest point of the roof to the floor the distance is 73 feet.  There is a seating capacity of about a thousand. Built without galleries, it is well lighted by several large stained glass windows on the north and south sides, and its cheerfulness is one of the things for which the church is noted. The pictures on the windows are emblematic of episodes in the life of our Blessed Lord.  Among the donors of the original set of windows were Mr. and Mrs. James Hayden, Cornelius L. Kelly and Family, Mrs. David Sheedy and Family, Mr. and Mrs. John Collins, In Memory of Reverend Father Bric, In Memory of Reverend Father Brady and a number of the church societies.",
+        "question": "How tall is St. Joseph's Church in Fall River?",
+        "label": "30 feet high"
+    }
+]

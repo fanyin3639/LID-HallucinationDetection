@@ -1,0 +1,15 @@
+[
+    [
+        2139,
+        [],
+        "J\u00f3zef Pi\u0142sudski"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The battle of Warsaw was fought from August 12\u201325, 1920 as Red Army forces commanded by Mikhail Tukhachevsky approached the Polish capital of Warsaw and the nearby Modlin Fortress. On August 16, Polish forces commanded by J\u00f3zef Pi\u0142sudski counterattacked from the south, disrupting the enemy's offensive, forcing the Russian forces into a disorganized withdrawal eastward and behind the Neman River. Estimated Russian losses were 10,000 killed, 500 missing, 30,000 wounded, and 66,000 taken prisoner, compared with Polish losses of some 4,500 killed, 10,000 missing, and 22,000 wounded. Question: Who led the Polish military in the Battle of Warsaw? Answer:",
+    {
+        "id": "english-7323462634104873218-2",
+        "lang": "english",
+        "summary": "The battle of Warsaw was fought from August 12\u201325, 1920 as Red Army forces commanded by Mikhail Tukhachevsky approached the Polish capital of Warsaw and the nearby Modlin Fortress. On August 16, Polish forces commanded by J\u00f3zef Pi\u0142sudski counterattacked from the south, disrupting the enemy's offensive, forcing the Russian forces into a disorganized withdrawal eastward and behind the Neman River. Estimated Russian losses were 10,000 killed, 500 missing, 30,000 wounded, and 66,000 taken prisoner, compared with Polish losses of some 4,500 killed, 10,000 missing, and 22,000 wounded.",
+        "question": "Who led the Polish military in the Battle of Warsaw?",
+        "label": "J\u00f3zef Pi\u0142sudski"
+    }
+]

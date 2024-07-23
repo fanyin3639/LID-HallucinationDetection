@@ -1,0 +1,15 @@
+[
+    [
+        1407,
+        [],
+        "north-central coastal Peru"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Norte Chico civilization (also Caral or Caral-Supe civilization)[NB 1] was a complex pre-Columbian era society that included as many as thirty major population centers in what is now the Norte Chico region of north-central coastal Peru. The civilization flourished between the fourth and second millennia BC, with the formation of the first city generally dated to around 3500 BC, at Huaricanga, in the Fortaleza area.[1] It is from 3100 BC onward that large-scale human settlement and communal construction become clearly apparent,[2] which lasted until a period of decline around 1800 BC.[3] Since the early 21st century, it has been established as the oldest known civilization in the Americas. Question: Where is Notre Chico located? Answer:",
+    {
+        "id": "english-4782903997375296544-1",
+        "lang": "english",
+        "summary": "The Norte Chico civilization (also Caral or Caral-Supe civilization)[NB 1] was a complex pre-Columbian era society that included as many as thirty major population centers in what is now the Norte Chico region of north-central coastal Peru. The civilization flourished between the fourth and second millennia BC, with the formation of the first city generally dated to around 3500 BC, at Huaricanga, in the Fortaleza area.[1] It is from 3100 BC onward that large-scale human settlement and communal construction become clearly apparent,[2] which lasted until a period of decline around 1800 BC.[3] Since the early 21st century, it has been established as the oldest known civilization in the Americas.",
+        "question": "Where is Notre Chico located?",
+        "label": "north-central coastal Peru"
+    }
+]

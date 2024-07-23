@@ -1,0 +1,14 @@
+[
+    [
+        963,
+        [],
+        "House prices in Northern Ireland continue to increase, according to the latest official figures."
+    ],
+    "Write a short summary for the following passage:\nThe standardised average price of a home in the region is almost \u00a3117,000 - that is 7% higher than a year ago.\nFigures issued through the Department of Finance show all areas of Northern Ireland, except mid-Ulster, saw a rise in the latest quarter (July - Sept).\nBetween 2005 and 2007, Northern Ireland house prices doubled before collapsing, reaching a low point in early 2013.\nHowever, the market has been in recovery mode since then. Prices are still about 40% below what they were before the crash.\nSummary:\n",
+    {
+        "id": 963,
+        "document": "The standardised average price of a home in the region is almost \u00a3117,000 - that is 7% higher than a year ago.\nFigures issued through the Department of Finance show all areas of Northern Ireland, except mid-Ulster, saw a rise in the latest quarter (July - Sept).\nBetween 2005 and 2007, Northern Ireland house prices doubled before collapsing, reaching a low point in early 2013.\nHowever, the market has been in recovery mode since then. Prices are still about 40% below what they were before the crash.",
+        "summary": "House prices in Northern Ireland continue to increase, according to the latest official figures.",
+        "label": "House prices in Northern Ireland continue to increase, according to the latest official figures."
+    }
+]

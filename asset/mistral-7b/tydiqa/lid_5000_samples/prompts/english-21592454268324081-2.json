@@ -1,0 +1,15 @@
+[
+    [
+        217,
+        [],
+        "1686"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Henry Hudson first claimed this area for the Dutch in 1609. Fur traders established the first European settlement in 1614; Albany was officially chartered as a city in 1686. It became the capital of New York in 1797. It is one of the oldest surviving settlements from the original thirteen colonies, and the longest continuously chartered city in the United States. Modern Albany was founded as the Dutch trading posts of Fort Nassau in 1614 and Fort Orange in 1624; the fur trade brought in a population that settled around Fort Orange and founded a village called Beverwijck. The English took over and renamed the town Albany in 1664, in honor of the then Duke of Albany, the future James II of England and James VII of Scotland. The city was officially chartered in 1686 with the issuance of the Dongan Charter, the oldest effective city charter in the nation and possibly the longest-running instrument of municipal government in the Western Hemisphere.[1] Question: When was Albany, NY established? Answer:",
+    {
+        "id": "english-21592454268324081-2",
+        "lang": "english",
+        "summary": "Henry Hudson first claimed this area for the Dutch in 1609. Fur traders established the first European settlement in 1614; Albany was officially chartered as a city in 1686. It became the capital of New York in 1797. It is one of the oldest surviving settlements from the original thirteen colonies, and the longest continuously chartered city in the United States. Modern Albany was founded as the Dutch trading posts of Fort Nassau in 1614 and Fort Orange in 1624; the fur trade brought in a population that settled around Fort Orange and founded a village called Beverwijck. The English took over and renamed the town Albany in 1664, in honor of the then Duke of Albany, the future James II of England and James VII of Scotland. The city was officially chartered in 1686 with the issuance of the Dongan Charter, the oldest effective city charter in the nation and possibly the longest-running instrument of municipal government in the Western Hemisphere.[1]",
+        "question": "When was Albany, NY established?",
+        "label": "1686"
+    }
+]

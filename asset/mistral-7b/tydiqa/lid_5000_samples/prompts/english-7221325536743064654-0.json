@@ -1,0 +1,15 @@
+[
+    [
+        450,
+        [],
+        "1859"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Ateneo de Manila University (Filipino: Pamantasang Ateneo de Manila) is a private research university in Quezon City, Philippines. Founded in 1859 by the Society of Jesus, the Ateneo is the third-oldest university in the Philippines. Question: When was the Ateneo de Manila University founded? Answer:",
+    {
+        "id": "english-7221325536743064654-0",
+        "lang": "english",
+        "summary": "The Ateneo de Manila University (Filipino: Pamantasang Ateneo de Manila) is a private research university in Quezon City, Philippines. Founded in 1859 by the Society of Jesus, the Ateneo is the third-oldest university in the Philippines.",
+        "question": "When was the Ateneo de Manila University founded?",
+        "label": "1859"
+    }
+]

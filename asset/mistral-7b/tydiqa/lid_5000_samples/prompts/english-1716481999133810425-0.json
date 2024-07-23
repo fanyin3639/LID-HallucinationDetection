@@ -1,0 +1,15 @@
+[
+    [
+        2189,
+        [],
+        "1973"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The World Wrestling Council (WWC) is a professional wrestling promotion based in Puerto Rico. It was originally established as Capitol Sports Promotions in 1973 by Carlos Col\u00f3n Sr., Victor Jovica, and Gorilla Monsoon. It was a member of the National Wrestling Alliance until 1988. By the mid-1990s, the promotion had changed its name to the World Wrestling Council. Question: When was the World Wrestling Council established? Answer:",
+    {
+        "id": "english-1716481999133810425-0",
+        "lang": "english",
+        "summary": "The World Wrestling Council (WWC) is a professional wrestling promotion based in Puerto Rico. It was originally established as Capitol Sports Promotions in 1973 by Carlos Col\u00f3n Sr., Victor Jovica, and Gorilla Monsoon. It was a member of the National Wrestling Alliance until 1988. By the mid-1990s, the promotion had changed its name to the World Wrestling Council.",
+        "question": "When was the World Wrestling Council established?",
+        "label": "1973"
+    }
+]

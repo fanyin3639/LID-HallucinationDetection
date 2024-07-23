@@ -1,0 +1,15 @@
+[
+    [
+        2606,
+        [],
+        "1994"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kuehl was elected to the California State Assembly in 1994, becoming the first openly gay person elected to the California legislature. While running for office Kuehl found she was able to offset some negative stereotypes people had about lesbians thanks to their familiarity with her role as Zelda. She told an interviewer \"When people know gay people personally, they tend to feel differently about the whole community. And all of a sudden, here's a person that they knew very well that they found out was lesbian.\"[11] Question: When did Sheila James Kuehl get into politics? Answer:",
+    {
+        "id": "english--3246502774788961682-28",
+        "lang": "english",
+        "summary": "Kuehl was elected to the California State Assembly in 1994, becoming the first openly gay person elected to the California legislature. While running for office Kuehl found she was able to offset some negative stereotypes people had about lesbians thanks to their familiarity with her role as Zelda. She told an interviewer \"When people know gay people personally, they tend to feel differently about the whole community. And all of a sudden, here's a person that they knew very well that they found out was lesbian.\"[11]",
+        "question": "When did Sheila James Kuehl get into politics?",
+        "label": "1994"
+    }
+]

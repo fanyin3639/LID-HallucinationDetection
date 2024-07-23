@@ -1,0 +1,15 @@
+[
+    [
+        3063,
+        [],
+        "1714"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The mercury-in-glass or mercury thermometer was invented by physicist Daniel Gabriel Fahrenheit in Amsterdam (1714). It consists of a bulb containing mercury attached to a glass tube of narrow diameter; the volume of mercury in the tube is much less than the volume in the bulb. The volume of mercury changes slightly with temperature; the small change in volume drives the narrow mercury column a relatively long way up the tube. The space above the mercury may be filled with nitrogen gas or it may be at less than atmospheric pressure, a partial vacuum. Question: When was the mercury thermometer invented? Answer:",
+    {
+        "id": "english--1985402923177419308-0",
+        "lang": "english",
+        "summary": "The mercury-in-glass or mercury thermometer was invented by physicist Daniel Gabriel Fahrenheit in Amsterdam (1714). It consists of a bulb containing mercury attached to a glass tube of narrow diameter; the volume of mercury in the tube is much less than the volume in the bulb. The volume of mercury changes slightly with temperature; the small change in volume drives the narrow mercury column a relatively long way up the tube. The space above the mercury may be filled with nitrogen gas or it may be at less than atmospheric pressure, a partial vacuum.",
+        "question": "When was the mercury thermometer invented?",
+        "label": "1714"
+    }
+]

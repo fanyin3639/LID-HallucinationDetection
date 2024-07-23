@@ -1,0 +1,15 @@
+[
+    [
+        1787,
+        [],
+        "Five"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Five serogroups of lentiviruses are recognized, reflecting the vertebrate hosts with which they are associated (primates, sheep and goats, horses, domestic cats, and cattle).[3] The primate lentiviruses are distinguished by the use of CD4 protein as a receptor and the absence of dUTPase.[4] Some groups have cross-reactive gag antigens (e.g., the ovine, caprine, and feline lentiviruses). Antibodies to gag antigens in lions and other large felines indicate the existence of another yet to be identified virus related to feline lentivirus and the ovine/caprine lentiviruses. Question: How many species of Lentivirus are there? Answer:",
+    {
+        "id": "english-2572048998245198951-1",
+        "lang": "english",
+        "summary": "Five serogroups of lentiviruses are recognized, reflecting the vertebrate hosts with which they are associated (primates, sheep and goats, horses, domestic cats, and cattle).[3] The primate lentiviruses are distinguished by the use of CD4 protein as a receptor and the absence of dUTPase.[4] Some groups have cross-reactive gag antigens (e.g., the ovine, caprine, and feline lentiviruses). Antibodies to gag antigens in lions and other large felines indicate the existence of another yet to be identified virus related to feline lentivirus and the ovine/caprine lentiviruses.",
+        "question": "How many species of Lentivirus are there?",
+        "label": "Five"
+    }
+]

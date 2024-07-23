@@ -1,0 +1,15 @@
+[
+    [
+        1863,
+        [],
+        "1896"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Gymnastics events have been contested at every Summer Olympic Games since the birth of the modern Olympic movement at the 1896 Summer Olympics in Athens. For 32 years, only men were allowed to compete.  Beginning at the 1928 Summer Olympics in Amsterdam, women were allowed to compete in artistic gymnastics events as well.  Rhythmic gymnastics events were introduced at the 1984 Summer Olympics in Los Angeles, and trampoline events were added at the 2000 Summer Olympics in Sydney. Question: When did gymnastics become an Olympic sport? Answer:",
+    {
+        "id": "english--4446285799332191952-0",
+        "lang": "english",
+        "summary": "Gymnastics events have been contested at every Summer Olympic Games since the birth of the modern Olympic movement at the 1896 Summer Olympics in Athens. For 32 years, only men were allowed to compete.  Beginning at the 1928 Summer Olympics in Amsterdam, women were allowed to compete in artistic gymnastics events as well.  Rhythmic gymnastics events were introduced at the 1984 Summer Olympics in Los Angeles, and trampoline events were added at the 2000 Summer Olympics in Sydney.",
+        "question": "When did gymnastics become an Olympic sport?",
+        "label": "1896"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        357,
+        [],
+        "eleven"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Books nine, ten and eleven of the main series were ghostwritten.[8][9] Question: How many books did Gossip Girl have? Answer:",
+    {
+        "id": "english-1918227748393785599-4",
+        "lang": "english",
+        "summary": "Books nine, ten and eleven of the main series were ghostwritten.[8][9]",
+        "question": "How many books did Gossip Girl have?",
+        "label": "eleven"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1124,
+        [],
+        "22 June 1940"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Liberation of Paris (also known as the Battle for Paris and Belgium; French: Lib\u00e9ration de Paris) was a military battle that took place during World War II from 19 August 1944 until the German garrison surrendered the French capital on 25 August 1944. Paris had been ruled by Nazi Germany since the signing of the Second Compi\u00e8gne Armistice on 22 June 1940, after which the Wehrmacht occupied northern and western France. Question: When was France taken back from Germany? Answer:",
+    {
+        "id": "english--2017362256428357718-0",
+        "lang": "english",
+        "summary": "The Liberation of Paris (also known as the Battle for Paris and Belgium; French: Lib\u00e9ration de Paris) was a military battle that took place during World War II from 19 August 1944 until the German garrison surrendered the French capital on 25 August 1944. Paris had been ruled by Nazi Germany since the signing of the Second Compi\u00e8gne Armistice on 22 June 1940, after which the Wehrmacht occupied northern and western France.",
+        "question": "When was France taken back from Germany?",
+        "label": "22 June 1940"
+    }
+]

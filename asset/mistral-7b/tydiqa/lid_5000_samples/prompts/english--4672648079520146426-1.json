@@ -1,0 +1,15 @@
+[
+    [
+        731,
+        [],
+        "Chimborazo"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: With a peak elevation of 6,263m (20,548ft), Chimborazo is the highest mountain in Ecuador. It is the highest peak near the equator. Chimborazo is not the highest mountain by elevation above sea level, but its location along the equatorial bulge makes its summit the farthest point on the Earth's surface from the Earth's center. Question: What is the highest mountain in Ecuador? Answer:",
+    {
+        "id": "english--4672648079520146426-1",
+        "lang": "english",
+        "summary": "With a peak elevation of 6,263m (20,548ft), Chimborazo is the highest mountain in Ecuador. It is the highest peak near the equator. Chimborazo is not the highest mountain by elevation above sea level, but its location along the equatorial bulge makes its summit the farthest point on the Earth's surface from the Earth's center.",
+        "question": "What is the highest mountain in Ecuador?",
+        "label": "Chimborazo"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2812,
+        [],
+        "1975"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The series was created by Shotaro Ishinomori, then known for the 1971\u20131973 Kamen Rider TV series and the long-running manga Cyborg 009. He developed the first two Super Sentai Series Himitsu Sentai Gorenger, which ran from 1975 to 1977, and J.A.K.Q. Dengekitai, released in 1977. Toei Company put the franchise on hiatus in 1978, collaborating with Marvel Comics to produce a live action Spider-Man series, which added giant robots to the concept of tokusatsu shows. The giant robot concept was carried over to Toei and Marvel's next show, Battle Fever J, released in 1979, and was then used throughout the Super Sentai Series. Question: When was the first Super Sentai Series released? Answer:",
+    {
+        "id": "english-6830323723530395203-2",
+        "lang": "english",
+        "summary": "The series was created by Shotaro Ishinomori, then known for the 1971\u20131973 Kamen Rider TV series and the long-running manga Cyborg 009. He developed the first two Super Sentai Series Himitsu Sentai Gorenger, which ran from 1975 to 1977, and J.A.K.Q. Dengekitai, released in 1977. Toei Company put the franchise on hiatus in 1978, collaborating with Marvel Comics to produce a live action Spider-Man series, which added giant robots to the concept of tokusatsu shows. The giant robot concept was carried over to Toei and Marvel's next show, Battle Fever J, released in 1979, and was then used throughout the Super Sentai Series.",
+        "question": "When was the first Super Sentai Series released?",
+        "label": "1975"
+    }
+]

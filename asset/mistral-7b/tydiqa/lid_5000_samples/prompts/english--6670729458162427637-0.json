@@ -1,0 +1,15 @@
+[
+    [
+        2585,
+        [],
+        "limestone quarry at Maastricht on the Meuse"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mosasaurs (from Latin Mosa meaning the 'Meuse river', and Greek \u03c3\u03b1\u03cd\u03c1\u03bf\u03c2 sauros meaning 'lizard') are an extinct group of large marine reptiles containing 38 genera in total. Their first fossil remains were discovered in a limestone quarry at Maastricht on the Meuse in 1764. Mosasaurs probably evolved from an extinct group of aquatic lizards[1] known as aigialosaurs in the Early Cretaceous. During the last 20 million years of the Cretaceous period (Turonian-Maastrichtian ages), with the extinction of the ichthyosaurs and pliosaurs, mosasaurs became the dominant marine predators. They became extinct as a result of the K-Pg event at the end of the Cretaceous period, about 66 million years ago. Question: Where were the first mososaur fossils discovered? Answer:",
+    {
+        "id": "english--6670729458162427637-0",
+        "lang": "english",
+        "summary": "Mosasaurs (from Latin Mosa meaning the 'Meuse river', and Greek \u03c3\u03b1\u03cd\u03c1\u03bf\u03c2 sauros meaning 'lizard') are an extinct group of large marine reptiles containing 38 genera in total. Their first fossil remains were discovered in a limestone quarry at Maastricht on the Meuse in 1764. Mosasaurs probably evolved from an extinct group of aquatic lizards[1] known as aigialosaurs in the Early Cretaceous. During the last 20 million years of the Cretaceous period (Turonian-Maastrichtian ages), with the extinction of the ichthyosaurs and pliosaurs, mosasaurs became the dominant marine predators. They became extinct as a result of the K-Pg event at the end of the Cretaceous period, about 66 million years ago.",
+        "question": "Where were the first mososaur fossils discovered?",
+        "label": "limestone quarry at Maastricht on the Meuse"
+    }
+]

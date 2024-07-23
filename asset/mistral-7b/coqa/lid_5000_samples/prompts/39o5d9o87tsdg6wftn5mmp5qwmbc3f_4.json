@@ -1,0 +1,19 @@
+[
+    [
+        279,
+        [],
+        "on some bushes."
+    ],
+    "Answer the following questions:\nContext: CHAPTER VIII \n\nABOUT SOME NEW STUDENTS \n\n\"Hi! hi! what's the meaning of this outrage!\" roared the individual in the buggy, as he brought his horse to a standstill. \"Do you want to kill me?\" \n\n\"Who is it? Is he hurt?\" questioned Dave, quickly. \n\n\"I don't know,\" answered Ben. \"The rod took off his hat, but whether it struck his head or not remains to be seen.\" \n\n\"Wot's the trouble back there?\" demanded Jackson Lemond, as he succeeded in bringing his team to a halt. \n\n\"Trouble is, we hit that man with the rod,\" answered Buster. \n\n\"Humph! I told you to be careful,\" grumbled the carryall driver. \"It don't pay to act like a passel o' wildcats, nohow!\" \n\n\"It's too bad it happened,\" said Dave, and leaped to the ground and ran back to where the buggy stood, with the driver glaring at them savagely. The other students followed. \n\n\"Are you hurt?\" asked Dave, anxiously. The man in the buggy was a total stranger to him. \n\n\"Hurt? I don't know whether I am or not. What do you mean by knocking off my hat with that stick?\" \n\n\"It was an accident, sir. We had our school colors on the fishing rod and were waving them in the air. We didn't expect to hit anybody.\" \n\n\"Bah! you are a lot of rowdies!\" growled the man. \"Give me my hat!\" And he pointed to where the head covering rested on some bushes. \n\n\"There you are,\" said Ben, restoring the hat to its owner. \"But we are not rowdies--it was purely an accident,\" he added, with a little flash out of his clear eyes. \n'Question': Where did his hat end up?\n'Answer: '",
+    {
+        "id": "39o5d9o87tsdg6wftn5mmp5qwmbc3f_4",
+        "summary": "CHAPTER VIII \n\nABOUT SOME NEW STUDENTS \n\n\"Hi! hi! what's the meaning of this outrage!\" roared the individual in the buggy, as he brought his horse to a standstill. \"Do you want to kill me?\" \n\n\"Who is it? Is he hurt?\" questioned Dave, quickly. \n\n\"I don't know,\" answered Ben. \"The rod took off his hat, but whether it struck his head or not remains to be seen.\" \n\n\"Wot's the trouble back there?\" demanded Jackson Lemond, as he succeeded in bringing his team to a halt. \n\n\"Trouble is, we hit that man with the rod,\" answered Buster. \n\n\"Humph! I told you to be careful,\" grumbled the carryall driver. \"It don't pay to act like a passel o' wildcats, nohow!\" \n\n\"It's too bad it happened,\" said Dave, and leaped to the ground and ran back to where the buggy stood, with the driver glaring at them savagely. The other students followed. \n\n\"Are you hurt?\" asked Dave, anxiously. The man in the buggy was a total stranger to him. \n\n\"Hurt? I don't know whether I am or not. What do you mean by knocking off my hat with that stick?\" \n\n\"It was an accident, sir. We had our school colors on the fishing rod and were waving them in the air. We didn't expect to hit anybody.\" \n\n\"Bah! you are a lot of rowdies!\" growled the man. \"Give me my hat!\" And he pointed to where the head covering rested on some bushes. \n\n\"There you are,\" said Ben, restoring the hat to its owner. \"But we are not rowdies--it was purely an accident,\" he added, with a little flash out of his clear eyes. ",
+        "question": "Where did his hat end up?",
+        "label": "on some bushes.",
+        "additional_answers": [
+            "on some bushes.",
+            "on some bushes",
+            "on some bushes."
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1500,
+        [],
+        "March 17, 1988"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Tokyo Dome(\u6771\u4eac\u30c9\u30fc\u30e0,T\u014dky\u014d D\u014dmu, TYO: ) is a stadium in Bunkyo, Tokyo, Japan. Construction on the stadium began on May 16, 1985, and it opened on March 17, 1988. It was built on the site of the Velodrome, adjacent to the predecessor ballpark, K\u014drakuen Stadium. It has a maximum total capacity of 57,000 depending on configuration, with an all-seating configuration of 42,000.[3][4][5] Question: When was the Tokyo Dome built? Answer:",
+    {
+        "id": "english--6541539524431647277-0",
+        "lang": "english",
+        "summary": "Tokyo Dome(\u6771\u4eac\u30c9\u30fc\u30e0,T\u014dky\u014d D\u014dmu, TYO: ) is a stadium in Bunkyo, Tokyo, Japan. Construction on the stadium began on May 16, 1985, and it opened on March 17, 1988. It was built on the site of the Velodrome, adjacent to the predecessor ballpark, K\u014drakuen Stadium. It has a maximum total capacity of 57,000 depending on configuration, with an all-seating configuration of 42,000.[3][4][5]",
+        "question": "When was the Tokyo Dome built?",
+        "label": "March 17, 1988"
+    }
+]

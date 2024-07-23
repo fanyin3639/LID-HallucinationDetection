@@ -1,0 +1,15 @@
+[
+    [
+        1323,
+        [],
+        "Peruvian fishermen, who named the weather phenomenon in reference to the newborn Christ"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Developing countries that are dependent upon agriculture and fishing, particularly those bordering the Pacific Ocean, are usually most affected. In American Spanish, the capitalized term \"El Ni\u00f1o\" refers to \"the boy\", so named because the pool of warm water in the Pacific near South America is often at its warmest around Christmas.[3] The original name, \"El Ni\u00f1o de Navidad\", traces its origin centuries back to Peruvian fishermen, who named the weather phenomenon in reference to the newborn Christ.[4][5] \"La Ni\u00f1a\", chosen as the 'opposite' of El Ni\u00f1o, translates to \"the girl\". Question: What is the origin of the name of the weather phenomenon El Nino? Answer:",
+    {
+        "id": "english--8301965464481437444-1",
+        "lang": "english",
+        "summary": "Developing countries that are dependent upon agriculture and fishing, particularly those bordering the Pacific Ocean, are usually most affected. In American Spanish, the capitalized term \"El Ni\u00f1o\" refers to \"the boy\", so named because the pool of warm water in the Pacific near South America is often at its warmest around Christmas.[3] The original name, \"El Ni\u00f1o de Navidad\", traces its origin centuries back to Peruvian fishermen, who named the weather phenomenon in reference to the newborn Christ.[4][5] \"La Ni\u00f1a\", chosen as the 'opposite' of El Ni\u00f1o, translates to \"the girl\".",
+        "question": "What is the origin of the name of the weather phenomenon El Nino?",
+        "label": "Peruvian fishermen, who named the weather phenomenon in reference to the newborn Christ"
+    }
+]

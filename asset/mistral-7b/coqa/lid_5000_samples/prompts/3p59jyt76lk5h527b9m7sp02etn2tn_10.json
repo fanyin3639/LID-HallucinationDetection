@@ -1,0 +1,19 @@
+[
+    [
+        211,
+        [],
+        "Have a strong response"
+    ],
+    "Answer the following questions:\nContext: (CNN)The family of a Jordanian fighter pilot mercilessly killed by ISIS is calling for total revenge. \n\nLt. Moath al-Kasasbeh, 27, was burned alive while confined in a cage. \n\nIn response, Jordan executed two prisoners -- Sajida al-Rishawi, a would-be suicide bomber whose release ISIS had previously demanded as part of a prisoner exchange, and Ziad Karbouli, a former top aide to the deceased leader of al Qaeda in Iraq, Abu Musab al-Zarqawi. \n\nThe pilot's father is demanding his country do more. \n\n\"These were criminals and there is no comparison between them and Moath. His blood is more valued than Sajida al-Rishawi and Ziad Karbouli,\" said al-Kasasbeh's father, Safi. \"I demand that revenge should be bigger than executing prisoners.\" \n\nHis son's horrific death was recorded and the video was posted online Tuesday. \n\nCNN is not showing the images, which drew global condemnation and prompted protests and vows of retaliation in Jordan. \n\nKing Abdullah has promised a strong response, saying that ISIS isn't just fighting his nation, but warring against \"noble Islam\" itself. \n\nThe country now wants to step up airstrikes against the terrorist organization, according to a source with direct knowledge of the situation. \n\nBut the pilot's uncle, Yassin Al Rawashdeh, told CNN that he also wants to see ground troops involved in the U.S.-led coalition against ISIS in Iraq and Syria. \n\nSaid the pilot's father: \"I demand that this criminal organization (ISIS) ... should be annihilated.\" \n\nWhat comes next? \n\nDemonstrators took to the streets in Amman and the pilot's hometown immediately after the video was made public. \n'Question': The king has promised his country will do what?\n'Answer: '",
+    {
+        "id": "3p59jyt76lk5h527b9m7sp02etn2tn_10",
+        "summary": "(CNN)The family of a Jordanian fighter pilot mercilessly killed by ISIS is calling for total revenge. \n\nLt. Moath al-Kasasbeh, 27, was burned alive while confined in a cage. \n\nIn response, Jordan executed two prisoners -- Sajida al-Rishawi, a would-be suicide bomber whose release ISIS had previously demanded as part of a prisoner exchange, and Ziad Karbouli, a former top aide to the deceased leader of al Qaeda in Iraq, Abu Musab al-Zarqawi. \n\nThe pilot's father is demanding his country do more. \n\n\"These were criminals and there is no comparison between them and Moath. His blood is more valued than Sajida al-Rishawi and Ziad Karbouli,\" said al-Kasasbeh's father, Safi. \"I demand that revenge should be bigger than executing prisoners.\" \n\nHis son's horrific death was recorded and the video was posted online Tuesday. \n\nCNN is not showing the images, which drew global condemnation and prompted protests and vows of retaliation in Jordan. \n\nKing Abdullah has promised a strong response, saying that ISIS isn't just fighting his nation, but warring against \"noble Islam\" itself. \n\nThe country now wants to step up airstrikes against the terrorist organization, according to a source with direct knowledge of the situation. \n\nBut the pilot's uncle, Yassin Al Rawashdeh, told CNN that he also wants to see ground troops involved in the U.S.-led coalition against ISIS in Iraq and Syria. \n\nSaid the pilot's father: \"I demand that this criminal organization (ISIS) ... should be annihilated.\" \n\nWhat comes next? \n\nDemonstrators took to the streets in Amman and the pilot's hometown immediately after the video was made public. ",
+        "question": "The king has promised his country will do what?",
+        "label": "Have a strong response",
+        "additional_answers": [
+            "a strong repsonse",
+            "have a strong response",
+            "strong response"
+        ]
+    }
+]

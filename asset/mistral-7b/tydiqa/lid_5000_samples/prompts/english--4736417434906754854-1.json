@@ -1,0 +1,15 @@
+[
+    [
+        1988,
+        [],
+        "sedan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Town Cars were produced across three generations, each using the rear-wheel drive Ford Panther platform.  While designed with its own exterior and interior, chassis and mechanical components were shared with the Mercury Grand Marquis and Ford (LTD) Crown Victoria.  During its production, the Town Car was offered nearly exclusively as a four-door sedan (a two-door sedan was offered for 1981 only).  Outside of the retail segment, many examples of the Town Car were sold for fleet and livery use, serving as a popular limousine platform throughout its production.  From 1983 to its 2011 discontinuation, the Town Car was the longest car produced by Ford Motor Company, becoming the longest mass-production car produced in North America from 1997 to 2011. Question: Was the Mercury Grand Marquis a coop or a sedan? Answer:",
+    {
+        "id": "english--4736417434906754854-1",
+        "lang": "english",
+        "summary": "Town Cars were produced across three generations, each using the rear-wheel drive Ford Panther platform.  While designed with its own exterior and interior, chassis and mechanical components were shared with the Mercury Grand Marquis and Ford (LTD) Crown Victoria.  During its production, the Town Car was offered nearly exclusively as a four-door sedan (a two-door sedan was offered for 1981 only).  Outside of the retail segment, many examples of the Town Car were sold for fleet and livery use, serving as a popular limousine platform throughout its production.  From 1983 to its 2011 discontinuation, the Town Car was the longest car produced by Ford Motor Company, becoming the longest mass-production car produced in North America from 1997 to 2011.",
+        "question": "Was the Mercury Grand Marquis a coop or a sedan?",
+        "label": "sedan"
+    }
+]

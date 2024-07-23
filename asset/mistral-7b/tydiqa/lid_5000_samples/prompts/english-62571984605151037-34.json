@@ -1,0 +1,15 @@
+[
+    [
+        1251,
+        [],
+        "very common"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Basal-cell cancer is a very common skin cancer. It is much more common in fair-skinned individuals with a family history of basal-cell cancer and increases in incidence closer to the equator or at higher altitude. There are approximately 800,000[55] new cases yearly in the United States alone. Up to 30% of Caucasians develop basal-cell carcinomas in their lifetime.[56] In Canada, the most common skin cancer is basal-cell carcinoma (as much as one third of all cancer diagnoses), affecting 1 in 7 individuals over a lifetime.[57] Question: How common are basal cancerous cells? Answer:",
+    {
+        "id": "english-62571984605151037-34",
+        "lang": "english",
+        "summary": "Basal-cell cancer is a very common skin cancer. It is much more common in fair-skinned individuals with a family history of basal-cell cancer and increases in incidence closer to the equator or at higher altitude. There are approximately 800,000[55] new cases yearly in the United States alone. Up to 30% of Caucasians develop basal-cell carcinomas in their lifetime.[56] In Canada, the most common skin cancer is basal-cell carcinoma (as much as one third of all cancer diagnoses), affecting 1 in 7 individuals over a lifetime.[57]",
+        "question": "How common are basal cancerous cells?",
+        "label": "very common"
+    }
+]

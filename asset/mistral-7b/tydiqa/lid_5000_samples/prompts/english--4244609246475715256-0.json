@@ -1,0 +1,15 @@
+[
+    [
+        278,
+        [],
+        "between 1501 and 1504"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: David is a masterpiece of Renaissance sculpture created in marble between 1501 and 1504 by the Italian artist Michelangelo. David is a 5.17-metre (17.0ft)[lower-alpha 1] marble statue of a standing male nude. The statue represents the Biblical hero David, a favoured subject in the art of Florence.[1] Question: When did Michelangelo sculpt the David? Answer:",
+    {
+        "id": "english--4244609246475715256-0",
+        "lang": "english",
+        "summary": "David is a masterpiece of Renaissance sculpture created in marble between 1501 and 1504 by the Italian artist Michelangelo. David is a 5.17-metre (17.0ft)[lower-alpha 1] marble statue of a standing male nude. The statue represents the Biblical hero David, a favoured subject in the art of Florence.[1]",
+        "question": "When did Michelangelo sculpt the David?",
+        "label": "between 1501 and 1504"
+    }
+]

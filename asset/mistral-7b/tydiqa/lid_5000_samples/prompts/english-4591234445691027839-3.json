@@ -1,0 +1,15 @@
+[
+    [
+        2150,
+        [],
+        "Gouverneur Morris"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Preamble was placed in the Constitution during the last days of the Constitutional Convention by the Committee on Style, which wrote its final draft, with Gouverneur Morris leading the effort. It was not proposed or discussed on the floor of the convention beforehand. The initial wording of the preamble did not refer to the people of the United States, rather, it referred to people of the various states, which was the norm. In earlier documents, including the 1778 Treaty of Alliance with France, the Articles of Confederation, and the 1783 Treaty of Paris recognizing American independence, the word \"people\" was not used, and the phrase the United States was followed immediately by a listing of the states, from north to south.[1]  The change was made out of necessity, as the Constitution provided that whenever the popularly elected ratifying conventions of nine states gave their approval, it would go into effect for those nine, irrespective of whether any of the remaining states ratified.[2] Question: Who wrote the Preamble to the US Constitution? Answer:",
+    {
+        "id": "english-4591234445691027839-3",
+        "lang": "english",
+        "summary": "The Preamble was placed in the Constitution during the last days of the Constitutional Convention by the Committee on Style, which wrote its final draft, with Gouverneur Morris leading the effort. It was not proposed or discussed on the floor of the convention beforehand. The initial wording of the preamble did not refer to the people of the United States, rather, it referred to people of the various states, which was the norm. In earlier documents, including the 1778 Treaty of Alliance with France, the Articles of Confederation, and the 1783 Treaty of Paris recognizing American independence, the word \"people\" was not used, and the phrase the United States was followed immediately by a listing of the states, from north to south.[1]  The change was made out of necessity, as the Constitution provided that whenever the popularly elected ratifying conventions of nine states gave their approval, it would go into effect for those nine, irrespective of whether any of the remaining states ratified.[2]",
+        "question": "Who wrote the Preamble to the US Constitution?",
+        "label": "Gouverneur Morris"
+    }
+]

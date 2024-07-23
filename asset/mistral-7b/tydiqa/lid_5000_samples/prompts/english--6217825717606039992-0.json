@@ -1,0 +1,15 @@
+[
+    [
+        899,
+        [],
+        "2005"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Doctor Who is a British television science fiction series, produced and screened by the BBC on the BBC TV channel from 1963 to 1964, and on BBC1 (later BBC One) from 1964 to 1989 and since 2005. A one-off television movie, co-produced with Universal Pictures and 20th Century Fox Television, was screened on the Fox Network in the United States in 1996. Question: When did Doctor Who first air? Answer:",
+    {
+        "id": "english--6217825717606039992-0",
+        "lang": "english",
+        "summary": "Doctor Who is a British television science fiction series, produced and screened by the BBC on the BBC TV channel from 1963 to 1964, and on BBC1 (later BBC One) from 1964 to 1989 and since 2005. A one-off television movie, co-produced with Universal Pictures and 20th Century Fox Television, was screened on the Fox Network in the United States in 1996.",
+        "question": "When did Doctor Who first air?",
+        "label": "2005"
+    }
+]

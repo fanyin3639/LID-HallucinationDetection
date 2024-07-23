@@ -1,0 +1,15 @@
+[
+    [
+        2922,
+        [],
+        "Saint Petersburg"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Winter Palace (Russian:\u0417\u0438\u043c\u043d\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446, tr.Zimnij dvorets,IPA:[\u02c8z\u02b2imn\u02b2\u026aj dv\u0250\u02c8r\u02b2\u025bts]) was the official residence of the Russian Emperors from 1732 to 1917. Today, the palace and its precincts form the Hermitage Museum. Situated between Palace Embankment and Palace Square, in Saint Petersburg, adjacent to the site of Peter the Great's original Winter Palace, the present and fourth Winter Palace was built and altered almost continuously between the late 1730s and 1837, when it was severely damaged by fire and immediately rebuilt.[1] The storming of the palace in 1917, as depicted in Soviet paintings and Eisenstein's 1927 film October, became an iconic symbol of the Russian Revolution. Question: Where is the The Winter Palace? Answer:",
+    {
+        "id": "english--1619743151168390970-0",
+        "lang": "english",
+        "summary": "The Winter Palace (Russian:\u0417\u0438\u043c\u043d\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446, tr.Zimnij dvorets,IPA:[\u02c8z\u02b2imn\u02b2\u026aj dv\u0250\u02c8r\u02b2\u025bts]) was the official residence of the Russian Emperors from 1732 to 1917. Today, the palace and its precincts form the Hermitage Museum. Situated between Palace Embankment and Palace Square, in Saint Petersburg, adjacent to the site of Peter the Great's original Winter Palace, the present and fourth Winter Palace was built and altered almost continuously between the late 1730s and 1837, when it was severely damaged by fire and immediately rebuilt.[1] The storming of the palace in 1917, as depicted in Soviet paintings and Eisenstein's 1927 film October, became an iconic symbol of the Russian Revolution.",
+        "question": "Where is the The Winter Palace?",
+        "label": "Saint Petersburg"
+    }
+]

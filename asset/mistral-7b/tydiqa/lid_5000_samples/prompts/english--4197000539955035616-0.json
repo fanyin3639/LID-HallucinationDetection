@@ -1,0 +1,15 @@
+[
+    [
+        1716,
+        [],
+        "In scientific contexts, mass is the amount of \"matter\" in an object (though \"matter\" may be difficult to define), whereas weight is the force exerted on an object by gravity"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In common usage, the mass of an object is often referred to as its weight, though these are in fact different concepts and quantities. In scientific contexts, mass is the amount of \"matter\" in an object (though \"matter\" may be difficult to define), whereas weight is the force exerted on an object by gravity.[1] In other words, an object with a mass of 1.0 kilogram will weigh approximately 9.81 newtons on the surface of the Earth (its mass multiplied by the gravitational field strength), since the newton is a unit of force, while the kilogram is a unit of mass. The object's weight will be less on Mars (where gravity is weaker), more on Saturn, and negligible in space when far from any significant source of gravity, but it will always have the same mass. Question: What is the difference between mass and weight? Answer:",
+    {
+        "id": "english--4197000539955035616-0",
+        "lang": "english",
+        "summary": "In common usage, the mass of an object is often referred to as its weight, though these are in fact different concepts and quantities. In scientific contexts, mass is the amount of \"matter\" in an object (though \"matter\" may be difficult to define), whereas weight is the force exerted on an object by gravity.[1] In other words, an object with a mass of 1.0 kilogram will weigh approximately 9.81 newtons on the surface of the Earth (its mass multiplied by the gravitational field strength), since the newton is a unit of force, while the kilogram is a unit of mass. The object's weight will be less on Mars (where gravity is weaker), more on Saturn, and negligible in space when far from any significant source of gravity, but it will always have the same mass.",
+        "question": "What is the difference between mass and weight?",
+        "label": "In scientific contexts, mass is the amount of \"matter\" in an object (though \"matter\" may be difficult to define), whereas weight is the force exerted on an object by gravity"
+    }
+]

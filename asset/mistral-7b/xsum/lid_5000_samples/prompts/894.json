@@ -1,0 +1,14 @@
+[
+    [
+        894,
+        [],
+        "The Belfast Giants recovered from 2-0 down to beat Fife Flyers 5-3 in Friday night's Elite League game at the SSE Arena, with the teams to meet again in Scotland on Saturday."
+    ],
+    "Write a short summary for the following passage:\nMichael Dorr gave the visitors the lead in the first period and Nico Sacchetti extended the lead in the second.\nMichael Forney and David Rutherford scored and then Matt Nickerson and Jonathan Boxill found the net.\nSacchetti and James Desmarais traded goals as the Giants ran out winners.\nSaturday night's game will be the last of the regular season for the Giants, whose only hope of silverware rests with the end-of-season play-offs, which start over the Easter weekend.\nSummary:\n",
+    {
+        "id": 894,
+        "document": "Michael Dorr gave the visitors the lead in the first period and Nico Sacchetti extended the lead in the second.\nMichael Forney and David Rutherford scored and then Matt Nickerson and Jonathan Boxill found the net.\nSacchetti and James Desmarais traded goals as the Giants ran out winners.\nSaturday night's game will be the last of the regular season for the Giants, whose only hope of silverware rests with the end-of-season play-offs, which start over the Easter weekend.",
+        "summary": "The Belfast Giants recovered from 2-0 down to beat Fife Flyers 5-3 in Friday night's Elite League game at the SSE Arena, with the teams to meet again in Scotland on Saturday.",
+        "label": "The Belfast Giants recovered from 2-0 down to beat Fife Flyers 5-3 in Friday night's Elite League game at the SSE Arena, with the teams to meet again in Scotland on Saturday."
+    }
+]

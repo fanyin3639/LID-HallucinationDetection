@@ -1,0 +1,19 @@
+[
+    [
+        1268,
+        [],
+        "His friends told him not to."
+    ],
+    "Answer the following questions:\nContext: Online with Linda Sheila Posted 18-12-18.25 I'm very worried about my friend,Joleen.She's thin but she thinks she is fat.She is always on a diet.She thinks it's necessary for her to lose more weight.She wants to be model.She has photographs of thin models on her bedroom walls.I think she's getting too thin,but if I talk to her about this,she get worried .How can I help her? Simon Posted 18-12-19.00 Sometimes ,I'm concerned about the pressure I get from my frinds.For example,yesterday I was with a group of frinds.We saw a woman lying on the street.She looked very sick.My friends made some jokes about her and laughed,but I wanted to help her.However,my friends told me not to,and I listened to them.Now I feel ashamed.It was cruel of my friends to laugh at her but I wasn't strong enough to say anything. Dear Sheila, You are right to be worried about friend,Joleen.This is a serious problem.She should not continue to be on a diet if she is very thin,she may have an illness called \"anorexia\".Anorexia people are afraid of eating food.You must advise her to see a doctor soon. If she won't do that,you should talk to her parents or to a teacher. Dear Simon, You feel ashamed because you should have helped the woman.You are right.Your friends were cruel to that woman.We all want our friend to like us.But we don't have to follow our friends all the time.You're a good boy.You should be strong enough to make up your own mind next time.\n'Question': Why not?\n'Answer: '",
+    {
+        "id": "3iq1vmjrytkb2toxqia577iow9xa9l_13",
+        "summary": "Online with Linda Sheila Posted 18-12-18.25 I'm very worried about my friend,Joleen.She's thin but she thinks she is fat.She is always on a diet.She thinks it's necessary for her to lose more weight.She wants to be model.She has photographs of thin models on her bedroom walls.I think she's getting too thin,but if I talk to her about this,she get worried .How can I help her? Simon Posted 18-12-19.00 Sometimes ,I'm concerned about the pressure I get from my frinds.For example,yesterday I was with a group of frinds.We saw a woman lying on the street.She looked very sick.My friends made some jokes about her and laughed,but I wanted to help her.However,my friends told me not to,and I listened to them.Now I feel ashamed.It was cruel of my friends to laugh at her but I wasn't strong enough to say anything. Dear Sheila, You are right to be worried about friend,Joleen.This is a serious problem.She should not continue to be on a diet if she is very thin,she may have an illness called \"anorexia\".Anorexia people are afraid of eating food.You must advise her to see a doctor soon. If she won't do that,you should talk to her parents or to a teacher. Dear Simon, You feel ashamed because you should have helped the woman.You are right.Your friends were cruel to that woman.We all want our friend to like us.But we don't have to follow our friends all the time.You're a good boy.You should be strong enough to make up your own mind next time.",
+        "question": "Why not?",
+        "label": "His friends told him not to.",
+        "additional_answers": [
+            "His friends told him not to.",
+            "his friends told him not to",
+            "his friends told him not to"
+        ]
+    }
+]

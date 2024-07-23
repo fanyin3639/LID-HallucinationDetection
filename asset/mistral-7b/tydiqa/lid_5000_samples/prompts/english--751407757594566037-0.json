@@ -1,0 +1,15 @@
+[
+    [
+        2051,
+        [],
+        "1884 to 1886"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: St Peter's Anglican Church and Glebe Cemetery are a heritage-listed Anglican church and closed cemetery in East Maitland, New South Wales. The church is at 47 William Street while the cemetery is approximetely 1.2km (0.7mi) away, approximately 400m (1,312ft) beyond the end of George St, also in East Maitland. The church was designed by Cyril and Arthur Blacket (Blacket Brothers) and built from 1884 to 1886. The cemetery is also known as Glebe Gully Burial Ground and Glebe Paddock. It was added to the New South Wales State Heritage Register on 31 August 2012.[1] Question: When was St. Peter's Anglican Church built in East Maitland? Answer:",
+    {
+        "id": "english--751407757594566037-0",
+        "lang": "english",
+        "summary": "St Peter's Anglican Church and Glebe Cemetery are a heritage-listed Anglican church and closed cemetery in East Maitland, New South Wales. The church is at 47 William Street while the cemetery is approximetely 1.2km (0.7mi) away, approximately 400m (1,312ft) beyond the end of George St, also in East Maitland. The church was designed by Cyril and Arthur Blacket (Blacket Brothers) and built from 1884 to 1886. The cemetery is also known as Glebe Gully Burial Ground and Glebe Paddock. It was added to the New South Wales State Heritage Register on 31 August 2012.[1]",
+        "question": "When was St. Peter's Anglican Church built in East Maitland?",
+        "label": "1884 to 1886"
+    }
+]

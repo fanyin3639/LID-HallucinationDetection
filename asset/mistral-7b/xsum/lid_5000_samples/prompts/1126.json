@@ -1,0 +1,14 @@
+[
+    [
+        1126,
+        [],
+        "A dog called Josie has been given a set of wheels to help her walk."
+    ],
+    "Write a short summary for the following passage:\n3 January 2016 Last updated at 13:47 GMT\nBecause of a condition in her legs, Josie, who is a rough collie, was starting to lose the use of her back legs and couldn't go for walks.\nA fundraising page collected enough money to buy Josie a frame with wheels.\nShe's now getting used to moving around with the frame and is enjoying walks again with her owner Kate.\nSummary:\n",
+    {
+        "id": 1126,
+        "document": "3 January 2016 Last updated at 13:47 GMT\nBecause of a condition in her legs, Josie, who is a rough collie, was starting to lose the use of her back legs and couldn't go for walks.\nA fundraising page collected enough money to buy Josie a frame with wheels.\nShe's now getting used to moving around with the frame and is enjoying walks again with her owner Kate.",
+        "summary": "A dog called Josie has been given a set of wheels to help her walk.",
+        "label": "A dog called Josie has been given a set of wheels to help her walk."
+    }
+]

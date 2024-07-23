@@ -1,0 +1,15 @@
+[
+    [
+        3073,
+        [],
+        "4 junior colleges, 15 colleges that primarily grant baccalaureate and master's degrees, 8 research universities, and 22 special-focus institutions. Of these, 49 are non-profit organizations while 3 are for-profit businesses, and 47 are private ventures while 5 are public institutions (4 are run by the state of Massachusetts and 1 is operated by the city of Quincy"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: There are a total of 52 institutions of higher education in the defined region, including 4 junior colleges, 15 colleges that primarily grant baccalaureate and master's degrees, 8 research universities, and 22 special-focus institutions. Of these, 49 are non-profit organizations while 3 are for-profit businesses, and 47 are private ventures while 5 are public institutions (4 are run by the state of Massachusetts and 1 is operated by the city of Quincy). Question: What colleges are in Boston? Answer:",
+    {
+        "id": "english--6003600752124938530-1",
+        "lang": "english",
+        "summary": "There are a total of 52 institutions of higher education in the defined region, including 4 junior colleges, 15 colleges that primarily grant baccalaureate and master's degrees, 8 research universities, and 22 special-focus institutions. Of these, 49 are non-profit organizations while 3 are for-profit businesses, and 47 are private ventures while 5 are public institutions (4 are run by the state of Massachusetts and 1 is operated by the city of Quincy).",
+        "question": "What colleges are in Boston?",
+        "label": "4 junior colleges, 15 colleges that primarily grant baccalaureate and master's degrees, 8 research universities, and 22 special-focus institutions. Of these, 49 are non-profit organizations while 3 are for-profit businesses, and 47 are private ventures while 5 are public institutions (4 are run by the state of Massachusetts and 1 is operated by the city of Quincy"
+    }
+]

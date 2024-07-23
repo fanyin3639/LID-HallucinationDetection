@@ -1,0 +1,15 @@
+[
+    [
+        2506,
+        [],
+        "The word \"prose\" first appears in English in the 14th century. It is derived from the Old French prose, which in turn originates in the Latin expression prosa oratio (literally, straightforward or direct speech).["
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The word \"prose\" first appears in English in the 14th century. It is derived from the Old French prose, which in turn originates in the Latin expression prosa oratio (literally, straightforward or direct speech).[2] Question: What is the origin of the word \"prose\"? Answer:",
+    {
+        "id": "english--4692475195375322810-3",
+        "lang": "english",
+        "summary": "The word \"prose\" first appears in English in the 14th century. It is derived from the Old French prose, which in turn originates in the Latin expression prosa oratio (literally, straightforward or direct speech).[2]",
+        "question": "What is the origin of the word \"prose\"?",
+        "label": "The word \"prose\" first appears in English in the 14th century. It is derived from the Old French prose, which in turn originates in the Latin expression prosa oratio (literally, straightforward or direct speech).["
+    }
+]

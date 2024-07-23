@@ -1,0 +1,14 @@
+[
+    [
+        1866,
+        [],
+        "Police in Alabama say alcohol was a factor as a father and son died in a head-on road collision at the weekend."
+    ],
+    "Write a short summary for the following passage:\nJeffrey Brasher, 50, was reportedly on his way to work when his 2006 Ford pickup was hit by 22-year-old Austin Brasher's 2004 Chevrolet pickup.\nThe elder Brasher, a bread delivery driver, died at the scene near Winfield at 0410 on Saturday.\nHis son was pronounced dead at hospital in Birmingham at 0918. Neither man was wearing a seatbelt.\nMonica Marie Aker, a cousin of the younger Brasher, told People.com: \"Austin did drink and was coming home from partying when they crashed.\"\nThe father and son - who both lived in Bankston, about 67 miles (107km) west of Birmingham - were said by relatives to be very close.\nSummary:\n",
+    {
+        "id": 1866,
+        "document": "Jeffrey Brasher, 50, was reportedly on his way to work when his 2006 Ford pickup was hit by 22-year-old Austin Brasher's 2004 Chevrolet pickup.\nThe elder Brasher, a bread delivery driver, died at the scene near Winfield at 0410 on Saturday.\nHis son was pronounced dead at hospital in Birmingham at 0918. Neither man was wearing a seatbelt.\nMonica Marie Aker, a cousin of the younger Brasher, told People.com: \"Austin did drink and was coming home from partying when they crashed.\"\nThe father and son - who both lived in Bankston, about 67 miles (107km) west of Birmingham - were said by relatives to be very close.",
+        "summary": "Police in Alabama say alcohol was a factor as a father and son died in a head-on road collision at the weekend.",
+        "label": "Police in Alabama say alcohol was a factor as a father and son died in a head-on road collision at the weekend."
+    }
+]

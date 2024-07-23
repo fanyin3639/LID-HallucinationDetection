@@ -1,0 +1,14 @@
+[
+    [
+        851,
+        [],
+        "Drivers in a Flintshire town now have to pay to park in council-owned car parks."
+    ],
+    "Write a short summary for the following passage:\nHolywell has joined Mold and Buckley in having pay and display meters and Connah's Quay, Queensferry and Shotton are set to get them in October.\nThe council approved introducing the charges in April in a bid to raise funds and prevent congestion.\nFlintshire council has faced a budget cut of \u00c2\u00a318m.\nSummary:\n",
+    {
+        "id": 851,
+        "document": "Holywell has joined Mold and Buckley in having pay and display meters and Connah's Quay, Queensferry and Shotton are set to get them in October.\nThe council approved introducing the charges in April in a bid to raise funds and prevent congestion.\nFlintshire council has faced a budget cut of \u00c2\u00a318m.",
+        "summary": "Drivers in a Flintshire town now have to pay to park in council-owned car parks.",
+        "label": "Drivers in a Flintshire town now have to pay to park in council-owned car parks."
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        1441,
+        [],
+        "The United States"
+    ],
+    "Answer the following questions:\nContext: If you live in the United States, you can't have a full-time job until you are 16 years old. At 14 or 15, you work part-time after school or on weekends, and during summer vacation you can work 40 hours each week. Does all that mean that if you are younger than 14, you can't make your own money? Of course not! Kids from 10-13 years of age can make money by doing lots of things. \n\nValerie, 11, told us that she made money by cleaning up other people's yards. Lena, 13, makes money by knitting dog sweaters and selling them to her neighbors. Reisa said she had started taking art classes and showing her works to people. People ask her to draw pictures for them and they pay her for them. Jasmine, 13, writes articles for different magazines! \n\nKids can learn lots of things from making money. By working to make your own money, you are learning the skills you will need in life. These skills can include things like how to get along with others, how to use technology and how to use your time wisely. Some people think that asking for money is a lot easier than making it; however, if you can make your own money, you don't have to depend on anyone else. The five dollars that you make will probably make you feel a lot better than the twenty dollars you ask for.\n'Question': what country is this article about?\n'Answer: '",
+    {
+        "id": "3bdcf01ogxu7zdn9vlrbf2rq00jlyi_19",
+        "summary": "If you live in the United States, you can't have a full-time job until you are 16 years old. At 14 or 15, you work part-time after school or on weekends, and during summer vacation you can work 40 hours each week. Does all that mean that if you are younger than 14, you can't make your own money? Of course not! Kids from 10-13 years of age can make money by doing lots of things. \n\nValerie, 11, told us that she made money by cleaning up other people's yards. Lena, 13, makes money by knitting dog sweaters and selling them to her neighbors. Reisa said she had started taking art classes and showing her works to people. People ask her to draw pictures for them and they pay her for them. Jasmine, 13, writes articles for different magazines! \n\nKids can learn lots of things from making money. By working to make your own money, you are learning the skills you will need in life. These skills can include things like how to get along with others, how to use technology and how to use your time wisely. Some people think that asking for money is a lot easier than making it; however, if you can make your own money, you don't have to depend on anyone else. The five dollars that you make will probably make you feel a lot better than the twenty dollars you ask for.",
+        "question": "what country is this article about?",
+        "label": "The United States",
+        "additional_answers": [
+            "the United States",
+            "United States",
+            "United States"
+        ]
+    }
+]

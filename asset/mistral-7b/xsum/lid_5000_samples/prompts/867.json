@@ -1,0 +1,14 @@
+[
+    [
+        867,
+        [],
+        "Road accidents are hampering the resurgence of the red squirrel on Anglesey."
+    ],
+    "Write a short summary for the following passage:\nThe animal had almost disappeared from the UK after its grey cousin brought the killer squirrelpox virus from America in the 1800s.\nBut a programme to eradicate the grey squirrel has seen the numbers of reds rise from 40 to 700 on Anglesey.\nThe Red Squirrels Trust Wales found 48% of deaths since 2004 were on Anglesey's roads, with none from squirrelpox.\nA study, conducted alongside the Animal and Plant Health Agency also found a high number died after contracting infectious diseases near squirrel feeders that had not been regularly disinfected.\nSummary:\n",
+    {
+        "id": 867,
+        "document": "The animal had almost disappeared from the UK after its grey cousin brought the killer squirrelpox virus from America in the 1800s.\nBut a programme to eradicate the grey squirrel has seen the numbers of reds rise from 40 to 700 on Anglesey.\nThe Red Squirrels Trust Wales found 48% of deaths since 2004 were on Anglesey's roads, with none from squirrelpox.\nA study, conducted alongside the Animal and Plant Health Agency also found a high number died after contracting infectious diseases near squirrel feeders that had not been regularly disinfected.",
+        "summary": "Road accidents are hampering the resurgence of the red squirrel on Anglesey.",
+        "label": "Road accidents are hampering the resurgence of the red squirrel on Anglesey."
+    }
+]

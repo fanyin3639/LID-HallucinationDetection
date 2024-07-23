@@ -1,0 +1,15 @@
+[
+    [
+        1064,
+        [],
+        "Tower of Hercules"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Hook Lighthouse (Irish: Teach Solais Rinn Du\u00e1in;[1] also known as Hook Head Lighthouse) is a building situated on  Hook Head at the tip of the Hook Peninsula in County Wexford, in Ireland. It is one of the oldest lighthouses in the world[2] and the second oldest operating lighthouse in the world, after the Tower of Hercules in Spain. It is operated by the Commissioners of Irish Lights, the Irish Lighthouse Authority, it marks the eastern entrance to Waterford Harbour. The current structure has stood for 846 years as of 2018. Question: What is the oldest active lighthouse in the world? Answer:",
+    {
+        "id": "english--5988004157696457021-0",
+        "lang": "english",
+        "summary": "The Hook Lighthouse (Irish: Teach Solais Rinn Du\u00e1in;[1] also known as Hook Head Lighthouse) is a building situated on  Hook Head at the tip of the Hook Peninsula in County Wexford, in Ireland. It is one of the oldest lighthouses in the world[2] and the second oldest operating lighthouse in the world, after the Tower of Hercules in Spain. It is operated by the Commissioners of Irish Lights, the Irish Lighthouse Authority, it marks the eastern entrance to Waterford Harbour. The current structure has stood for 846 years as of 2018.",
+        "question": "What is the oldest active lighthouse in the world?",
+        "label": "Tower of Hercules"
+    }
+]

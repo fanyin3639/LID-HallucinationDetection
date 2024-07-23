@@ -1,0 +1,15 @@
+[
+    [
+        3004,
+        [],
+        "Andrew Holness"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Prime Minister of Jamaica is Jamaica's head of government, currently Andrew Holness. Holness, as leader of the governing Jamaica Labour Party (JLP), was sworn in as Prime Minister on 3 March 2016, succeeding People's National Party (PNP) leader Portia Simpson-Miller.[1] This was a result of the JLP's victory in Jamaica's 25 February 2016 general election. Question: Who is the political leader of Jamaica? Answer:",
+    {
+        "id": "english--7942095273889960805-1",
+        "lang": "english",
+        "summary": "The Prime Minister of Jamaica is Jamaica's head of government, currently Andrew Holness. Holness, as leader of the governing Jamaica Labour Party (JLP), was sworn in as Prime Minister on 3 March 2016, succeeding People's National Party (PNP) leader Portia Simpson-Miller.[1] This was a result of the JLP's victory in Jamaica's 25 February 2016 general election.",
+        "question": "Who is the political leader of Jamaica?",
+        "label": "Andrew Holness"
+    }
+]

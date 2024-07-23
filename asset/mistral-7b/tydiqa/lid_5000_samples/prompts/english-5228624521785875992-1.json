@@ -1,0 +1,15 @@
+[
+    [
+        2991,
+        [],
+        "Sun Yat-sen and Kang Youwei"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The war demonstrated the failure of the Qing Dynasty's attempts to modernize its military and fend off threats to its sovereignty, especially when compared with Japan's successful Meiji Restoration. For the first time, regional dominance in East Asia shifted from China to Japan;[2] the prestige of the Qing Dynasty, along with the classical tradition in China, suffered a major blow. The humiliating loss of Korea as a tributary state sparked an unprecedented public outcry. Within China, the defeat was a catalyst for a series of political upheavals led by Sun Yat-sen and Kang Youwei, culminating in the 1911 Xinhai Revolution. Question: Who led China in the First Sino-Japanese War? Answer:",
+    {
+        "id": "english-5228624521785875992-1",
+        "lang": "english",
+        "summary": "The war demonstrated the failure of the Qing Dynasty's attempts to modernize its military and fend off threats to its sovereignty, especially when compared with Japan's successful Meiji Restoration. For the first time, regional dominance in East Asia shifted from China to Japan;[2] the prestige of the Qing Dynasty, along with the classical tradition in China, suffered a major blow. The humiliating loss of Korea as a tributary state sparked an unprecedented public outcry. Within China, the defeat was a catalyst for a series of political upheavals led by Sun Yat-sen and Kang Youwei, culminating in the 1911 Xinhai Revolution.",
+        "question": "Who led China in the First Sino-Japanese War?",
+        "label": "Sun Yat-sen and Kang Youwei"
+    }
+]

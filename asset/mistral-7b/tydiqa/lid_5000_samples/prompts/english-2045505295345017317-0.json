@@ -1,0 +1,15 @@
+[
+    [
+        946,
+        [],
+        "refers to juice that uses a hydraulic press to extract juice from fruit and vegetables, as opposed to other methods such as centrifugal or single auger"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cold-pressed juice refers to juice that uses a hydraulic press to extract juice from fruit and vegetables, as opposed to other methods such as centrifugal or single auger.[1][2][3][4][5] Question: What is the cold-pressed juice process? Answer:",
+    {
+        "id": "english-2045505295345017317-0",
+        "lang": "english",
+        "summary": "Cold-pressed juice refers to juice that uses a hydraulic press to extract juice from fruit and vegetables, as opposed to other methods such as centrifugal or single auger.[1][2][3][4][5]",
+        "question": "What is the cold-pressed juice process?",
+        "label": "refers to juice that uses a hydraulic press to extract juice from fruit and vegetables, as opposed to other methods such as centrifugal or single auger"
+    }
+]

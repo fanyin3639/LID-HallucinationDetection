@@ -1,0 +1,15 @@
+[
+    [
+        279,
+        [],
+        "Ottoman Turkish"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The language of the court and government of the Ottoman Empire was Ottoman Turkish,[1] but many other languages were in contemporary use in parts of the empire. Although the minorities of the Ottoman Empire were free to use their language amongst themselves, if they needed to communicate with the government they had to use Ottoman Turkish.[2] Question: What was the lingua franca of the Ottoman Empire? Answer:",
+    {
+        "id": "english--1097534678424591874-0",
+        "lang": "english",
+        "summary": "The language of the court and government of the Ottoman Empire was Ottoman Turkish,[1] but many other languages were in contemporary use in parts of the empire. Although the minorities of the Ottoman Empire were free to use their language amongst themselves, if they needed to communicate with the government they had to use Ottoman Turkish.[2]",
+        "question": "What was the lingua franca of the Ottoman Empire?",
+        "label": "Ottoman Turkish"
+    }
+]

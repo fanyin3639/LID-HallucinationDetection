@@ -1,0 +1,15 @@
+[
+    [
+        1953,
+        [],
+        "790s until the Norman conquest of England in 1066"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The period from the earliest recorded raids in the 790s until the Norman conquest of England in 1066 is commonly known as the Viking Age of Scandinavian history.[37] Vikings used the Norwegian Sea and Baltic Sea for sea routes to the south. The Normans were descended from Vikings who were given feudal overlordship of areas in northern France\u2014the Duchy of Normandy\u2014in the 10th century. In that respect, descendants of the Vikings continued to have an influence in northern Europe. Likewise, King Harold Godwinson, the last Anglo-Saxon king of England, had Danish ancestors. Two Vikings even ascended to the throne of England, with Sweyn Forkbeard claiming the English throne in 1013\u20131014 and his son Cnut the Great becoming king of England 1016\u20131035.[38][39][40][41][42] Question: When were the Vikings active? Answer:",
+    {
+        "id": "english-8978456119113143274-12",
+        "lang": "english",
+        "summary": "The period from the earliest recorded raids in the 790s until the Norman conquest of England in 1066 is commonly known as the Viking Age of Scandinavian history.[37] Vikings used the Norwegian Sea and Baltic Sea for sea routes to the south. The Normans were descended from Vikings who were given feudal overlordship of areas in northern France\u2014the Duchy of Normandy\u2014in the 10th century. In that respect, descendants of the Vikings continued to have an influence in northern Europe. Likewise, King Harold Godwinson, the last Anglo-Saxon king of England, had Danish ancestors. Two Vikings even ascended to the throne of England, with Sweyn Forkbeard claiming the English throne in 1013\u20131014 and his son Cnut the Great becoming king of England 1016\u20131035.[38][39][40][41][42]",
+        "question": "When were the Vikings active?",
+        "label": "790s until the Norman conquest of England in 1066"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1264,
+        [],
+        "Rome, Italy"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Vatican City (/\u02c8v\u00e6t\u026ak\u0259n/(listen)), officially Vatican City State (Italian: Stato della Citt\u00e0 del Vaticano;[lower-alpha 4] Latin: Status Civitatis Vaticanae),[lower-alpha 5][lower-alpha 6] is an independent city-state[9] enclaved within Rome, Italy. Established with the Lateran Treaty (1929), it is distinct from yet under \"full ownership, exclusive dominion, and sovereign authority and jurisdiction\" of the Holy See (Latin: Sancta Sedes).[lower-alpha 7][10] With an area of 44 hectares (110 acres), and a population of about 1,000,[3] it is the smallest state in the world by both area and population. Question: Where is the Vatican? Answer:",
+    {
+        "id": "english-1381678886761280012-0",
+        "lang": "english",
+        "summary": "Vatican City (/\u02c8v\u00e6t\u026ak\u0259n/(listen)), officially Vatican City State (Italian: Stato della Citt\u00e0 del Vaticano;[lower-alpha 4] Latin: Status Civitatis Vaticanae),[lower-alpha 5][lower-alpha 6] is an independent city-state[9] enclaved within Rome, Italy. Established with the Lateran Treaty (1929), it is distinct from yet under \"full ownership, exclusive dominion, and sovereign authority and jurisdiction\" of the Holy See (Latin: Sancta Sedes).[lower-alpha 7][10] With an area of 44 hectares (110 acres), and a population of about 1,000,[3] it is the smallest state in the world by both area and population.",
+        "question": "Where is the Vatican?",
+        "label": "Rome, Italy"
+    }
+]

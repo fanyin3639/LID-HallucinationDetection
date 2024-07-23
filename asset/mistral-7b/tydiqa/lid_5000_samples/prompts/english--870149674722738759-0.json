@@ -1,0 +1,15 @@
+[
+    [
+        2777,
+        [],
+        "Uluru/Ayers Rock"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Uluru (/\u02ccu\u02d0l\u0259\u02c8ru\u02d0/, Pitjantjatjara: Ulu\u1e5fu), also known as Ayers Rock (/\u02cc\u025b\u0259rz \u02c8r\u0252k/) and officially gazetted as Uluru/Ayers Rock,[1] is a large sandstone rock formation in the southern part of the Northern Territory in central Australia. It lies 335km (208mi) south west of the nearest large town, Alice Springs. Question: What is the big plateau rock in Australia called? Answer:",
+    {
+        "id": "english--870149674722738759-0",
+        "lang": "english",
+        "summary": "Uluru (/\u02ccu\u02d0l\u0259\u02c8ru\u02d0/, Pitjantjatjara: Ulu\u1e5fu), also known as Ayers Rock (/\u02cc\u025b\u0259rz \u02c8r\u0252k/) and officially gazetted as Uluru/Ayers Rock,[1] is a large sandstone rock formation in the southern part of the Northern Territory in central Australia. It lies 335km (208mi) south west of the nearest large town, Alice Springs.",
+        "question": "What is the big plateau rock in Australia called?",
+        "label": "Uluru/Ayers Rock"
+    }
+]

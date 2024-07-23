@@ -1,0 +1,15 @@
+[
+    [
+        480,
+        [],
+        "The Speckled Band"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1931 Raymond Massey played Sherlock Holmes in his screen debut, The Speckled Band,[17] while Arthur Wontner played Holmes in five British films from 1931 to 1937. Question: What was the first film adaptation of Sherlock Holmes? Answer:",
+    {
+        "id": "english--7562653697153108524-19",
+        "lang": "english",
+        "summary": "In 1931 Raymond Massey played Sherlock Holmes in his screen debut, The Speckled Band,[17] while Arthur Wontner played Holmes in five British films from 1931 to 1937.",
+        "question": "What was the first film adaptation of Sherlock Holmes?",
+        "label": "The Speckled Band"
+    }
+]

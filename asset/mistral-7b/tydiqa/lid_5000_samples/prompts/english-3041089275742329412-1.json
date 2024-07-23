@@ -1,0 +1,15 @@
+[
+    [
+        255,
+        [],
+        "the AFL Grand Final"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The league currently consists of 18 teams spread over five of Australia's six states (Tasmania being the exception). Matches have been played in all states and mainland territories of Australia, as well as in New Zealand and China (although no professional teams or leagues exist outside Australia) to promote the sport abroad. The AFL season currently consists of a pre-season competition (currently branded as the \"JLT Community Series\"), followed by a 23-round regular (or \"home-and-away\") season, which runs during the Australian winter (March to September). The team with the best record after the home-and-away series is awarded the \"minor premiership.\" The top eight teams then play off in a four-round finals series, culminating in the AFL Grand Final, which is held at the Melbourne Cricket Ground each year. The grand final winner is termed the \"premiers\", and is awarded the premiership cup. The current premiers are the West Coast Eagles. Question: What is the biggest event in the Australian Football League? Answer:",
+    {
+        "id": "english-3041089275742329412-1",
+        "lang": "english",
+        "summary": "The league currently consists of 18 teams spread over five of Australia's six states (Tasmania being the exception). Matches have been played in all states and mainland territories of Australia, as well as in New Zealand and China (although no professional teams or leagues exist outside Australia) to promote the sport abroad. The AFL season currently consists of a pre-season competition (currently branded as the \"JLT Community Series\"), followed by a 23-round regular (or \"home-and-away\") season, which runs during the Australian winter (March to September). The team with the best record after the home-and-away series is awarded the \"minor premiership.\" The top eight teams then play off in a four-round finals series, culminating in the AFL Grand Final, which is held at the Melbourne Cricket Ground each year. The grand final winner is termed the \"premiers\", and is awarded the premiership cup. The current premiers are the West Coast Eagles.",
+        "question": "What is the biggest event in the Australian Football League?",
+        "label": "the AFL Grand Final"
+    }
+]

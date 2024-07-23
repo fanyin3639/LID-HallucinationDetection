@@ -1,0 +1,15 @@
+[
+    [
+        2299,
+        [],
+        "July 1940"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On January 4, 1936, Billboard magazine published its first music hit parade.[6] The first Music Popularity Chart was calculated in July 1940.  A variety of song charts followed, which were eventually consolidated into the Hot 100 by mid-1958.  The Hot 100 currently combines single sales, radio airplay, digital downloads, and streaming activity (including data from YouTube and other video sites). All of the Billboard charts use this basic formula. What separates the charts is which stations and stores are used; each musical genre has a core audience or retail group. Each genre's department at Billboard is headed up by a chart manager, who makes these determinations. Question: When were the Billboard Charts for music begin? Answer:",
+    {
+        "id": "english--8516628868517896942-2",
+        "lang": "english",
+        "summary": "On January 4, 1936, Billboard magazine published its first music hit parade.[6] The first Music Popularity Chart was calculated in July 1940.  A variety of song charts followed, which were eventually consolidated into the Hot 100 by mid-1958.  The Hot 100 currently combines single sales, radio airplay, digital downloads, and streaming activity (including data from YouTube and other video sites). All of the Billboard charts use this basic formula. What separates the charts is which stations and stores are used; each musical genre has a core audience or retail group. Each genre's department at Billboard is headed up by a chart manager, who makes these determinations.",
+        "question": "When were the Billboard Charts for music begin?",
+        "label": "July 1940"
+    }
+]

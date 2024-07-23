@@ -1,0 +1,15 @@
+[
+    [
+        1704,
+        [],
+        "September 25, 1789"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On June 8, 1789, Representative James Madison introduced nine amendments to the Constitution in the House of Representatives.[2] Madison proposed inserting specific rights limiting the power of Congress in Article One, Section 9. Seven of these limitations would become part of the ten ratified Bill of Rights amendments. Ultimately, on September 25, 1789, Congress approved twelve articles of amendment to the Constitution, each consisting of one one-sentence paragraph, and submitted them to the states for ratification. Contrary to Madison's original proposal that the articles be incorporated into the main body of the Constitution, they were proposed as supplemental additions (codicils) to it. Articles Three through Twelve were ratified as additions to the Constitution on December 15, 1791, and became Amendments One through Ten of the Constitution. Article Two became part of the Constitution on May 5, 1992, as the Twenty-seventh Amendment.[1][3] Article One is still pending before the states. Question: When was the Bill of Rights written? Answer:",
+    {
+        "id": "english-8749998518293322371-2",
+        "lang": "english",
+        "summary": "On June 8, 1789, Representative James Madison introduced nine amendments to the Constitution in the House of Representatives.[2] Madison proposed inserting specific rights limiting the power of Congress in Article One, Section 9. Seven of these limitations would become part of the ten ratified Bill of Rights amendments. Ultimately, on September 25, 1789, Congress approved twelve articles of amendment to the Constitution, each consisting of one one-sentence paragraph, and submitted them to the states for ratification. Contrary to Madison's original proposal that the articles be incorporated into the main body of the Constitution, they were proposed as supplemental additions (codicils) to it. Articles Three through Twelve were ratified as additions to the Constitution on December 15, 1791, and became Amendments One through Ten of the Constitution. Article Two became part of the Constitution on May 5, 1992, as the Twenty-seventh Amendment.[1][3] Article One is still pending before the states.",
+        "question": "When was the Bill of Rights written?",
+        "label": "September 25, 1789"
+    }
+]

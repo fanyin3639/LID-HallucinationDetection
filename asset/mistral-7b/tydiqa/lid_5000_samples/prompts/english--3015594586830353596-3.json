@@ -1,0 +1,15 @@
+[
+    [
+        2664,
+        [],
+        "Beowulf"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The poem Beowulf, which often begins the traditional canon of English literature, is the most famous work of Old English literature. The Anglo-Saxon Chronicle has also proven significant for historical study, preserving a chronology of early English history. Question: What is the oldest piece of English literature? Answer:",
+    {
+        "id": "english--3015594586830353596-3",
+        "lang": "english",
+        "summary": "The poem Beowulf, which often begins the traditional canon of English literature, is the most famous work of Old English literature. The Anglo-Saxon Chronicle has also proven significant for historical study, preserving a chronology of early English history.",
+        "question": "What is the oldest piece of English literature?",
+        "label": "Beowulf"
+    }
+]

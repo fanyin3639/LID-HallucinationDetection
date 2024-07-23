@@ -1,0 +1,15 @@
+[
+    [
+        1634,
+        [],
+        "four"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Throughout its lifetime, Sony's PlayStation Portable has been the main market competitor. There have been four different models of the Nintendo DS line on the market: the original Nintendo DS, the Nintendo DS Lite, as well as the Nintendo DSi and its XL variant. The Nintendo DS line has been highly successful, continuing the trend of its predecessor, the Game Boy line. With over 154 million units sold worldwide, the DS models are the best-selling handheld consoles, and second best-selling console overall behind the PlayStation 2.  Question: How many iterations of the DS have been released? Answer:",
+    {
+        "id": "english--5171582597414097403-3",
+        "lang": "english",
+        "summary": "Throughout its lifetime, Sony's PlayStation Portable has been the main market competitor. There have been four different models of the Nintendo DS line on the market: the original Nintendo DS, the Nintendo DS Lite, as well as the Nintendo DSi and its XL variant. The Nintendo DS line has been highly successful, continuing the trend of its predecessor, the Game Boy line. With over 154 million units sold worldwide, the DS models are the best-selling handheld consoles, and second best-selling console overall behind the PlayStation 2. ",
+        "question": "How many iterations of the DS have been released?",
+        "label": "four"
+    }
+]

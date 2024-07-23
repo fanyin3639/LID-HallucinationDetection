@@ -1,0 +1,15 @@
+[
+    [
+        950,
+        [],
+        "1936"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Alpine skiing has been contested at every Winter Olympics since 1936, when a combined event was held in Garmisch-Partenkirchen, Germany. Question: When did skiing become an Olympic sport? Answer:",
+    {
+        "id": "english-7211303396264719877-0",
+        "lang": "english",
+        "summary": "Alpine skiing has been contested at every Winter Olympics since 1936, when a combined event was held in Garmisch-Partenkirchen, Germany.",
+        "question": "When did skiing become an Olympic sport?",
+        "label": "1936"
+    }
+]

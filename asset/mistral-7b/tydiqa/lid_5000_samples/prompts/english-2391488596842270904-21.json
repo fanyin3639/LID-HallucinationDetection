@@ -1,0 +1,15 @@
+[
+    [
+        1142,
+        [],
+        "power ring and battery"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The character of Harold \"Hal\" Jordan was a second-generation test pilot, having followed in the footsteps of his father. He was given the power ring and battery (lantern) by a dying alien named Abin Sur, whose spaceship crashed on Earth. Abin Sur used his ring to seek out an individual who was \"utterly honest and born without fear\" to take his place as a member of the corps. At one point, when Hal Jordan was incapacitated, it was revealed that there were two individuals matching the specified criteria on Earth, the other being Guy Gardner, and the ring chose Jordan solely because of his proximity to Abin Sur. Gardner then became listed as Hal's \"backup\", even though he had a strong friendship with Barry Allen (The Flash). Gardner would fill in if Jordan was unavailable or otherwise incapacitated. Later, when Gardner was put into a coma, it turned out that by then there was a third human suitable for the task, John Stewart, who was designated as the Earth Sector's \"backup\" Lantern. Jordan, as Green Lantern, became a founding member of the Justice League of America and as of the mid-2000s is, along with John Stewart, one of the two active-duty Lanterns in Earth's sector of space. Question: What is the source of power for the Green Lantern? Answer:",
+    {
+        "id": "english-2391488596842270904-21",
+        "lang": "english",
+        "summary": "The character of Harold \"Hal\" Jordan was a second-generation test pilot, having followed in the footsteps of his father. He was given the power ring and battery (lantern) by a dying alien named Abin Sur, whose spaceship crashed on Earth. Abin Sur used his ring to seek out an individual who was \"utterly honest and born without fear\" to take his place as a member of the corps. At one point, when Hal Jordan was incapacitated, it was revealed that there were two individuals matching the specified criteria on Earth, the other being Guy Gardner, and the ring chose Jordan solely because of his proximity to Abin Sur. Gardner then became listed as Hal's \"backup\", even though he had a strong friendship with Barry Allen (The Flash). Gardner would fill in if Jordan was unavailable or otherwise incapacitated. Later, when Gardner was put into a coma, it turned out that by then there was a third human suitable for the task, John Stewart, who was designated as the Earth Sector's \"backup\" Lantern. Jordan, as Green Lantern, became a founding member of the Justice League of America and as of the mid-2000s is, along with John Stewart, one of the two active-duty Lanterns in Earth's sector of space.",
+        "question": "What is the source of power for the Green Lantern?",
+        "label": "power ring and battery"
+    }
+]

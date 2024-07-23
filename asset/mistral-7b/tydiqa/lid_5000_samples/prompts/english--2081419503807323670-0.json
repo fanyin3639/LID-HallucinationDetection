@@ -1,0 +1,15 @@
+[
+    [
+        801,
+        [],
+        "Weigel Broadcasting"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Heroes & Icons (H&I) is an American digital broadcast television network owned by Weigel Broadcasting. Primarily carried on the digital subchannels of its affiliated television station in most markets, it primarily airs classic television series from the 1950s through the 2000s, with a focus on westerns, crime dramas, sci-fi, and action-oriented programming geared toward male audiences. Question: Who owns the Heroes & Icons network? Answer:",
+    {
+        "id": "english--2081419503807323670-0",
+        "lang": "english",
+        "summary": "Heroes & Icons (H&I) is an American digital broadcast television network owned by Weigel Broadcasting. Primarily carried on the digital subchannels of its affiliated television station in most markets, it primarily airs classic television series from the 1950s through the 2000s, with a focus on westerns, crime dramas, sci-fi, and action-oriented programming geared toward male audiences.",
+        "question": "Who owns the Heroes & Icons network?",
+        "label": "Weigel Broadcasting"
+    }
+]

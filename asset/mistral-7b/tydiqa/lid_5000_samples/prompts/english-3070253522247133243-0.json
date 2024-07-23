@@ -1,0 +1,15 @@
+[
+    [
+        900,
+        [],
+        "about 450km (280mi)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The border between the states of France and Germany has a length of about 450km (280mi). Question: How long is the border between Germany and France? Answer:",
+    {
+        "id": "english-3070253522247133243-0",
+        "lang": "english",
+        "summary": "The border between the states of France and Germany has a length of about 450km (280mi).",
+        "question": "How long is the border between Germany and France?",
+        "label": "about 450km (280mi)"
+    }
+]

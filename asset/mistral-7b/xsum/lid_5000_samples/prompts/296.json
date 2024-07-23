@@ -1,0 +1,14 @@
+[
+    [
+        296,
+        [],
+        "BBC Sport tracks all the manager ins and outs as well as listing all the current bosses in the Premier League, Scottish Premiership, English Football League and National League."
+    ],
+    "Write a short summary for the following passage:\nAll of the managerial movements for March will appear below, followed by the full list of each club, league-by-league.\nTo read the list for February, visit the ins and outs page.\nSummary:\n",
+    {
+        "id": 296,
+        "document": "All of the managerial movements for March will appear below, followed by the full list of each club, league-by-league.\nTo read the list for February, visit the ins and outs page.",
+        "summary": "BBC Sport tracks all the manager ins and outs as well as listing all the current bosses in the Premier League, Scottish Premiership, English Football League and National League.",
+        "label": "BBC Sport tracks all the manager ins and outs as well as listing all the current bosses in the Premier League, Scottish Premiership, English Football League and National League."
+    }
+]

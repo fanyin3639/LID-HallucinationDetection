@@ -1,0 +1,14 @@
+[
+    [
+        289,
+        [],
+        "A new plan to protect homes and businesses in Cumbria decimated by last December's floods has been unveiled."
+    ],
+    "Write a short summary for the following passage:\nMore than \u00a372m of government money is to be spent strengthening defences for 4,300 homes as well as improving reservoirs to hold more water.\nThe Environment Agency said the plan also included restoring peat bogs to hold water upstream for longer.\nThe Cumbria Flood Action Plan was unveiled by Floods Minister Rory Stewart.\nThousands of properties were battered by Storm Desmond in December, depositing a record month's worth of rain in just one day.\nEnvironment chiefs consulted residents in Eden, Derwent and Kent about the best way to manage land above the villages to reduce the risk of flooding.\nThe Environment Agency's Flood Risk Manager, Andy Brown, said: \"This action plan represents a step change in the way we manage flood risk in Cumbria.\n\"It sees local communities at the heart of the process, working with organisations to reduce flood risk along the length of Cumbrian river catchments, from the Fells to the coast.\"\nSummary:\n",
+    {
+        "id": 289,
+        "document": "More than \u00a372m of government money is to be spent strengthening defences for 4,300 homes as well as improving reservoirs to hold more water.\nThe Environment Agency said the plan also included restoring peat bogs to hold water upstream for longer.\nThe Cumbria Flood Action Plan was unveiled by Floods Minister Rory Stewart.\nThousands of properties were battered by Storm Desmond in December, depositing a record month's worth of rain in just one day.\nEnvironment chiefs consulted residents in Eden, Derwent and Kent about the best way to manage land above the villages to reduce the risk of flooding.\nThe Environment Agency's Flood Risk Manager, Andy Brown, said: \"This action plan represents a step change in the way we manage flood risk in Cumbria.\n\"It sees local communities at the heart of the process, working with organisations to reduce flood risk along the length of Cumbrian river catchments, from the Fells to the coast.\"",
+        "summary": "A new plan to protect homes and businesses in Cumbria decimated by last December's floods has been unveiled.",
+        "label": "A new plan to protect homes and businesses in Cumbria decimated by last December's floods has been unveiled."
+    }
+]

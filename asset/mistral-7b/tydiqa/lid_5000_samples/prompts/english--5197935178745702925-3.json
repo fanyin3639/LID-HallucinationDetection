@@ -1,0 +1,15 @@
+[
+    [
+        1670,
+        [],
+        "30"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The United Democrats had a large labour component among its top leadership. 6 of its 30 Central Committee members, including Szeto Wah and Lau Chin-shek, were leaders of the major independent unions, namely the Hong Kong Professional Teachers' Union (PTU) and the Hong Kong Christian Industrial Committee (CIC) respectively. They are veterans of labour protests and community movements. Some other core members of the party were experienced in collective mobilisation and electoral campaigns, such as Tuen Mun's Ng Ming-yam and Sha Tin's Lau Kong-wah and Wong Hong-chung and Eastern District's Man Sai-cheong who brought their local networks into the party.[2] Question: How many members of the the United Democrats of Hong Kong are there? Answer:",
+    {
+        "id": "english--5197935178745702925-3",
+        "lang": "english",
+        "summary": "The United Democrats had a large labour component among its top leadership. 6 of its 30 Central Committee members, including Szeto Wah and Lau Chin-shek, were leaders of the major independent unions, namely the Hong Kong Professional Teachers' Union (PTU) and the Hong Kong Christian Industrial Committee (CIC) respectively. They are veterans of labour protests and community movements. Some other core members of the party were experienced in collective mobilisation and electoral campaigns, such as Tuen Mun's Ng Ming-yam and Sha Tin's Lau Kong-wah and Wong Hong-chung and Eastern District's Man Sai-cheong who brought their local networks into the party.[2]",
+        "question": "How many members of the the United Democrats of Hong Kong are there?",
+        "label": "30"
+    }
+]

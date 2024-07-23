@@ -1,0 +1,15 @@
+[
+    [
+        17,
+        [],
+        "83"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cho Namchul (November 30, 1923 - July 2, 2006, alternately Cho Namcheol) was a professional Go player (Baduk in Korean). He died of natural causes in Seoul at the age of 83. Question: How old was Cho Namchul when he died? Answer:",
+    {
+        "id": "english-7361757309000830847-0",
+        "lang": "english",
+        "summary": "Cho Namchul (November 30, 1923 - July 2, 2006, alternately Cho Namcheol) was a professional Go player (Baduk in Korean). He died of natural causes in Seoul at the age of 83.",
+        "question": "How old was Cho Namchul when he died?",
+        "label": "83"
+    }
+]

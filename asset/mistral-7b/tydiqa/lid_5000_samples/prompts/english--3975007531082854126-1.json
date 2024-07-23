@@ -1,0 +1,15 @@
+[
+    [
+        2244,
+        [],
+        "931BCE"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Solomon (/\u02c8s\u0252l\u0259m\u0259n/; Hebrew: \u05e9\u05b0\u05c1\u05dc\u05b9\u05de\u05b9\u05d4, Shlomoh),[lower-alpha 1] also called Jedidiah (Hebrew \u05d9\u05b0\u05d3\u05b4\u05d9\u05d3\u05b0\u05d9\u05b8\u05d4\u05bc Yedidyah), was, according to the Hebrew Bible, Old Testament,[3] Quran, and Hadiths, a fabulously wealthy and wise king of Israel who succeeded his father, King David.[4] The conventional dates of Solomon's reign are circa 970 to 931BCE, normally given in alignment with the dates of David's reign. He is described as the third king of the United Monarchy, which would break apart into the northern Kingdom of Israel and the southern Kingdom of Judah shortly after his death. Following the split, his patrilineal descendants ruled over Judah alone. Question: When did Solomon die? Answer:",
+    {
+        "id": "english--3975007531082854126-1",
+        "lang": "english",
+        "summary": "Solomon (/\u02c8s\u0252l\u0259m\u0259n/; Hebrew: \u05e9\u05b0\u05c1\u05dc\u05b9\u05de\u05b9\u05d4, Shlomoh),[lower-alpha 1] also called Jedidiah (Hebrew \u05d9\u05b0\u05d3\u05b4\u05d9\u05d3\u05b0\u05d9\u05b8\u05d4\u05bc Yedidyah), was, according to the Hebrew Bible, Old Testament,[3] Quran, and Hadiths, a fabulously wealthy and wise king of Israel who succeeded his father, King David.[4] The conventional dates of Solomon's reign are circa 970 to 931BCE, normally given in alignment with the dates of David's reign. He is described as the third king of the United Monarchy, which would break apart into the northern Kingdom of Israel and the southern Kingdom of Judah shortly after his death. Following the split, his patrilineal descendants ruled over Judah alone.",
+        "question": "When did Solomon die?",
+        "label": "931BCE"
+    }
+]

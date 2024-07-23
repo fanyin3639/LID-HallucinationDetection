@@ -1,0 +1,15 @@
+[
+    [
+        2212,
+        [],
+        "Corn"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Corn for grain, average of 160.4 bushels harvested per acre (10.07 t/ha) Soybean for beans, average of 42.5 bushels harvested per acre (2.86 t/ha) Wheat, average of 43.2 bushels harvested per acre (2.91 t/ha, was 44.2 bu/ac or 2.97 t/ha in 2003) Question: What is the largest crop produced by the US? Answer:",
+    {
+        "id": "english-776574008330874658-14",
+        "lang": "english",
+        "summary": "Corn for grain, average of 160.4 bushels harvested per acre (10.07 t/ha) Soybean for beans, average of 42.5 bushels harvested per acre (2.86 t/ha) Wheat, average of 43.2 bushels harvested per acre (2.91 t/ha, was 44.2 bu/ac or 2.97 t/ha in 2003)",
+        "question": "What is the largest crop produced by the US?",
+        "label": "Corn"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        599,
+        [],
+        "28 December 1941"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Established on 28 December 1941 as the Alaskan Air Force at Elmendorf Field, Alaska Territory. 11AF was a United States Army Air Forces combat air force in the American Theater of World War II, providing air defense of Alaska and engaging in combat operations primarily in the Aleutian Islands and Northern Pacific during the Aleutian Islands Campaign. Question: When was the Eleventh Air Force established? Answer:",
+    {
+        "id": "english--3901238857686424430-2",
+        "lang": "english",
+        "summary": "Established on 28 December 1941 as the Alaskan Air Force at Elmendorf Field, Alaska Territory. 11AF was a United States Army Air Forces combat air force in the American Theater of World War II, providing air defense of Alaska and engaging in combat operations primarily in the Aleutian Islands and Northern Pacific during the Aleutian Islands Campaign.",
+        "question": "When was the Eleventh Air Force established?",
+        "label": "28 December 1941"
+    }
+]

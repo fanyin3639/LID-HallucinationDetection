@@ -1,0 +1,15 @@
+[
+    [
+        1934,
+        [],
+        "Commonwealth of Australia"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Queensland (abbreviated as Qld) is the second-largest and third-most populous state in the Commonwealth of Australia. Situated in the north-east of the country, it is bordered by the Northern Territory, South Australia and New South Wales to the west, south-west and south respectively. To the east, Queensland is bordered by the Coral Sea and Pacific Ocean. To its north is the Torres Strait, with Papua New Guinea located less than 200km across it from the mainland. The state is the world's sixth-largest sub-national entity, with an area of 1,852,642 square kilometres (715,309sqmi). Question: Where is Queensland located? Answer:",
+    {
+        "id": "english--5759598091697914437-0",
+        "lang": "english",
+        "summary": "Queensland (abbreviated as Qld) is the second-largest and third-most populous state in the Commonwealth of Australia. Situated in the north-east of the country, it is bordered by the Northern Territory, South Australia and New South Wales to the west, south-west and south respectively. To the east, Queensland is bordered by the Coral Sea and Pacific Ocean. To its north is the Torres Strait, with Papua New Guinea located less than 200km across it from the mainland. The state is the world's sixth-largest sub-national entity, with an area of 1,852,642 square kilometres (715,309sqmi).",
+        "question": "Where is Queensland located?",
+        "label": "Commonwealth of Australia"
+    }
+]

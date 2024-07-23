@@ -1,0 +1,15 @@
+[
+    [
+        1595,
+        [],
+        "476"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Relevant dates include 117 CE, when the Empire was at its greatest territorial extent, and the accession of Diocletian in 284.  Irreversible major territorial loss, however, began in 376 with a large-scale irruption of Goths and others. In 395, after winning two destructive civil wars, Theodosius I died, leaving a collapsing field army and the Empire, still plagued by Goths, divided between the warring ministers of his two incapable sons. Further barbarian groups crossed the Rhine and other frontiers, and like the Goths were not exterminated, expelled or subjected. The armed forces of the Western Empire became few and ineffective, and despite brief recoveries under able leaders, central rule was never effectively consolidated. By 476 when Odoacer deposed Romulus Augustulus, the Western Roman Emperor wielded negligible military, political, or financial power and had no effective control over the scattered Western domains that could still be described as Roman. Barbarian kingdoms had established their own power in much of the area of the Western Empire. While its legitimacy lasted for centuries longer and its cultural influence remains today, the Western Empire never had the strength to rise again. The Eastern Empire survived, and though lessened in strength remained for centuries an effective power of the Eastern Mediterranean. Question: When did the Roman empire fall? Answer:",
+    {
+        "id": "english-5391815084599746291-1",
+        "lang": "english",
+        "summary": "Relevant dates include 117 CE, when the Empire was at its greatest territorial extent, and the accession of Diocletian in 284.  Irreversible major territorial loss, however, began in 376 with a large-scale irruption of Goths and others. In 395, after winning two destructive civil wars, Theodosius I died, leaving a collapsing field army and the Empire, still plagued by Goths, divided between the warring ministers of his two incapable sons. Further barbarian groups crossed the Rhine and other frontiers, and like the Goths were not exterminated, expelled or subjected. The armed forces of the Western Empire became few and ineffective, and despite brief recoveries under able leaders, central rule was never effectively consolidated. By 476 when Odoacer deposed Romulus Augustulus, the Western Roman Emperor wielded negligible military, political, or financial power and had no effective control over the scattered Western domains that could still be described as Roman. Barbarian kingdoms had established their own power in much of the area of the Western Empire. While its legitimacy lasted for centuries longer and its cultural influence remains today, the Western Empire never had the strength to rise again. The Eastern Empire survived, and though lessened in strength remained for centuries an effective power of the Eastern Mediterranean.",
+        "question": "When did the Roman empire fall?",
+        "label": "476"
+    }
+]

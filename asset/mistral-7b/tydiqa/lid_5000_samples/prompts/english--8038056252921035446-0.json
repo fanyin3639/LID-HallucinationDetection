@@ -1,0 +1,15 @@
+[
+    [
+        1169,
+        [],
+        "Mexico"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Chiapas (Spanish pronunciation:[\u02c8t\u0283japas](listen)), officially the Free and Sovereign State of Chiapas (Spanish: Estado Libre y Soberano de Chiapas), is one of the 31 states that along with the federal district of Mexico City make up the 32 federal entities of Mexico. It is divided into 124 municipalities as of September 2017[9][10] and its capital city is Tuxtla Guti\u00e9rrez. Other important population centers in Chiapas include Ocosingo, Tapachula, San Crist\u00f3bal de las Casas, Comit\u00e1n and Arriaga. It is the southernmost state in Mexico. It is located in Southeastern Mexico, and it borders the states of Oaxaca to the west, Veracruz to the northwest and Tabasco to the north,[11] and by the Pet\u00e9n, Quich\u00e9, Huehuetenango and San Marcos departments of Guatemala to the east and southeast. Chiapas has a coastline along the Pacific Ocean to the south. Question: Where is Chiapas? Answer:",
+    {
+        "id": "english--8038056252921035446-0",
+        "lang": "english",
+        "summary": "Chiapas (Spanish pronunciation:[\u02c8t\u0283japas](listen)), officially the Free and Sovereign State of Chiapas (Spanish: Estado Libre y Soberano de Chiapas), is one of the 31 states that along with the federal district of Mexico City make up the 32 federal entities of Mexico. It is divided into 124 municipalities as of September 2017[9][10] and its capital city is Tuxtla Guti\u00e9rrez. Other important population centers in Chiapas include Ocosingo, Tapachula, San Crist\u00f3bal de las Casas, Comit\u00e1n and Arriaga. It is the southernmost state in Mexico. It is located in Southeastern Mexico, and it borders the states of Oaxaca to the west, Veracruz to the northwest and Tabasco to the north,[11] and by the Pet\u00e9n, Quich\u00e9, Huehuetenango and San Marcos departments of Guatemala to the east and southeast. Chiapas has a coastline along the Pacific Ocean to the south.",
+        "question": "Where is Chiapas?",
+        "label": "Mexico"
+    }
+]

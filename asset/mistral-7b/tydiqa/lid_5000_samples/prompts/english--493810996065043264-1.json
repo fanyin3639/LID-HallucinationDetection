@@ -1,0 +1,15 @@
+[
+    [
+        3001,
+        [],
+        "rhinoceros hornbill"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The rhinoceros hornbill is the state bird of the Malaysian state of Sarawak and the country's National Bird.[2] Some Dayak people, especially the Ibanic groups, believe it to be the chief of worldly birds or the supreme worldly bird, and its statue is used to welcome the god of the augural birds, Sengalang Burong, to the feasts and celebrations of humankind. Contrary to some misunderstandings, the rhinoceros hornbill does not represent their war god, who is represented in this world by the brahminy kite.[3][4] Question: What's the national bird of Malaysia? Answer:",
+    {
+        "id": "english--493810996065043264-1",
+        "lang": "english",
+        "summary": "The rhinoceros hornbill is the state bird of the Malaysian state of Sarawak and the country's National Bird.[2] Some Dayak people, especially the Ibanic groups, believe it to be the chief of worldly birds or the supreme worldly bird, and its statue is used to welcome the god of the augural birds, Sengalang Burong, to the feasts and celebrations of humankind. Contrary to some misunderstandings, the rhinoceros hornbill does not represent their war god, who is represented in this world by the brahminy kite.[3][4]",
+        "question": "What's the national bird of Malaysia?",
+        "label": "rhinoceros hornbill"
+    }
+]

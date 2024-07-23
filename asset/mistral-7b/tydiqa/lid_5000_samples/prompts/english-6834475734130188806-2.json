@@ -1,0 +1,15 @@
+[
+    [
+        2874,
+        [],
+        "1928"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Penicillin was discovered in 1928 by Scottish scientist Alexander Fleming.[3] People began using it to treat infections in 1942.[4] There are several enhanced penicillin families  which are effective against additional bacteria; these include the antistaphylococcal penicillins, aminopenicillins and the antipseudomonal penicillins. They are derived from Penicillium fungi.[5] Question: When was penicillin discovered? Answer:",
+    {
+        "id": "english-6834475734130188806-2",
+        "lang": "english",
+        "summary": "Penicillin was discovered in 1928 by Scottish scientist Alexander Fleming.[3] People began using it to treat infections in 1942.[4] There are several enhanced penicillin families  which are effective against additional bacteria; these include the antistaphylococcal penicillins, aminopenicillins and the antipseudomonal penicillins. They are derived from Penicillium fungi.[5]",
+        "question": "When was penicillin discovered?",
+        "label": "1928"
+    }
+]

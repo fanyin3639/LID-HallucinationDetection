@@ -1,0 +1,15 @@
+[
+    [
+        3189,
+        [],
+        "March 13, 1939"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Neil Sedaka (born March 13, 1939) is an American pop singer, pianist, composer and record producer. Since his music career began in 1957 as a short-lived founding member of the Tokens, he has sold millions of records as an artist and has written or co-written over 500 songs for himself and others, collaborating mostly with lyricists Howard Greenfield and Phil Cody. Question: When was Neil Sedaka born? Answer:",
+    {
+        "id": "english-7593760113890666075-0",
+        "lang": "english",
+        "summary": "Neil Sedaka (born March 13, 1939) is an American pop singer, pianist, composer and record producer. Since his music career began in 1957 as a short-lived founding member of the Tokens, he has sold millions of records as an artist and has written or co-written over 500 songs for himself and others, collaborating mostly with lyricists Howard Greenfield and Phil Cody.",
+        "question": "When was Neil Sedaka born?",
+        "label": "March 13, 1939"
+    }
+]

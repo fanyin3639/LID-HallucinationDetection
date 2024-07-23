@@ -1,0 +1,15 @@
+[
+    [
+        2296,
+        [],
+        "1990"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The  Human Genome Project (HGP) was an international scientific research project with the goal of determining the sequence of nucleotide base pairs that make up human DNA, and of identifying and mapping all of the genes of the human genome from both a physical and  a functional standpoint.[1] It remains the world's largest collaborative biological project.[2] After the idea was picked up in 1984 by the US government when the planning started, the project formally launched in 1990 and was declared complete on April 14, 2003.[3] Funding came from the US government through the National Institutes of Health (NIH) as well as numerous other groups from around the world. A parallel project was conducted outside government by the Celera Corporation, or Celera Genomics, which was formally launched in 1998. Most of the government-sponsored sequencing was performed in twenty universities and research centers in the United States, the United Kingdom, Japan, France, Germany and China.[4] Question: When did the Human Genome Project begin? Answer:",
+    {
+        "id": "english--6264734577353624797-0",
+        "lang": "english",
+        "summary": "The  Human Genome Project (HGP) was an international scientific research project with the goal of determining the sequence of nucleotide base pairs that make up human DNA, and of identifying and mapping all of the genes of the human genome from both a physical and  a functional standpoint.[1] It remains the world's largest collaborative biological project.[2] After the idea was picked up in 1984 by the US government when the planning started, the project formally launched in 1990 and was declared complete on April 14, 2003.[3] Funding came from the US government through the National Institutes of Health (NIH) as well as numerous other groups from around the world. A parallel project was conducted outside government by the Celera Corporation, or Celera Genomics, which was formally launched in 1998. Most of the government-sponsored sequencing was performed in twenty universities and research centers in the United States, the United Kingdom, Japan, France, Germany and China.[4]",
+        "question": "When did the Human Genome Project begin?",
+        "label": "1990"
+    }
+]

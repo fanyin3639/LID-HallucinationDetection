@@ -1,0 +1,15 @@
+[
+    [
+        786,
+        [],
+        "hanafuda"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of Nintendo traces back to 1889, when it was founded to produce handmade hanafuda. Nintendo Co., Ltd.(\u4efb\u5929\u5802\u682a\u5f0f\u4f1a\u793e,Nintend\u014d kabushikigaisha) is a Japanese multinational consumer electronics company headquartered in Kyoto, Japan. It eventually became one of the most prominent figures in today's video game industry, being the world's largest video game company by revenue.[1] Question: What was the first Nintendo video game? Answer:",
+    {
+        "id": "english-2482569831736986922-0",
+        "lang": "english",
+        "summary": "The history of Nintendo traces back to 1889, when it was founded to produce handmade hanafuda. Nintendo Co., Ltd.(\u4efb\u5929\u5802\u682a\u5f0f\u4f1a\u793e,Nintend\u014d kabushikigaisha) is a Japanese multinational consumer electronics company headquartered in Kyoto, Japan. It eventually became one of the most prominent figures in today's video game industry, being the world's largest video game company by revenue.[1]",
+        "question": "What was the first Nintendo video game?",
+        "label": "hanafuda"
+    }
+]

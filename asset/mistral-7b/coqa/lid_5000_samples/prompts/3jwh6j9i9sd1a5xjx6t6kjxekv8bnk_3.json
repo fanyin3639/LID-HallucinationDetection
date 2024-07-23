@@ -1,0 +1,19 @@
+[
+    [
+        344,
+        [],
+        "bloody"
+    ],
+    "Answer the following questions:\nContext: Kabul, Afghanistan (CNN) -- The German news outlet Der Spiegel has published photographs of what appear to be two U.S. soldiers in Afghanistan posing over the bodies of dead Afghans -- images which threaten to further complicate the American military effort there. \n\nTwo images show the soldiers kneeling by a bloody body sprawled over a patch of sand and grass. A third shows what appears to be two bodies propped up, back to back, against a post in front of a military vehicle. \n\nDer Spiegel identifies the soldiers as Spc. Jeremy Morlock and Pfc. Andrew Holmes, who are both facing charges relating to the wrongful deaths of Afghan civilians. \n\nSpecifically, Holmes is charged with the premeditated deaths of three civilians, possessing a dismembered human finger, wrongfully possessing photographs of human casualties, and smoking hashish. \n\nHe is also accused of conspiring with Morlock to shoot at a civilian and then toss a grenade so it would look like the soldiers were under attack. \n\nMorlock is charged with three counts of murder. He is accused of killing one Afghan civilian in January 2010 with a grenade and rifle; killing another in May 2010 in a similar manner; and shooting a third to death in February 2010. \n\nU.S. military rules also prohibit \"taking or retaining individual souvenirs or trophies,\" which the photographs may be construed as. \n\nThe trial for the two soldiers is being conducted at Joint Base Lewis-McChord in Washington. Morlock's court martial is slated to begin Wednesday, while the start date for Holmes' court martial has not been publicly announced. \n'Question': What was the condition of the body?\n'Answer: '",
+    {
+        "id": "3jwh6j9i9sd1a5xjx6t6kjxekv8bnk_3",
+        "summary": "Kabul, Afghanistan (CNN) -- The German news outlet Der Spiegel has published photographs of what appear to be two U.S. soldiers in Afghanistan posing over the bodies of dead Afghans -- images which threaten to further complicate the American military effort there. \n\nTwo images show the soldiers kneeling by a bloody body sprawled over a patch of sand and grass. A third shows what appears to be two bodies propped up, back to back, against a post in front of a military vehicle. \n\nDer Spiegel identifies the soldiers as Spc. Jeremy Morlock and Pfc. Andrew Holmes, who are both facing charges relating to the wrongful deaths of Afghan civilians. \n\nSpecifically, Holmes is charged with the premeditated deaths of three civilians, possessing a dismembered human finger, wrongfully possessing photographs of human casualties, and smoking hashish. \n\nHe is also accused of conspiring with Morlock to shoot at a civilian and then toss a grenade so it would look like the soldiers were under attack. \n\nMorlock is charged with three counts of murder. He is accused of killing one Afghan civilian in January 2010 with a grenade and rifle; killing another in May 2010 in a similar manner; and shooting a third to death in February 2010. \n\nU.S. military rules also prohibit \"taking or retaining individual souvenirs or trophies,\" which the photographs may be construed as. \n\nThe trial for the two soldiers is being conducted at Joint Base Lewis-McChord in Washington. Morlock's court martial is slated to begin Wednesday, while the start date for Holmes' court martial has not been publicly announced. ",
+        "question": "What was the condition of the body?",
+        "label": "bloody",
+        "additional_answers": [
+            "bloody",
+            "bloody",
+            "bloody"
+        ]
+    }
+]

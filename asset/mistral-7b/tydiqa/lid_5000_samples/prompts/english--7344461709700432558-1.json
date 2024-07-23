@@ -1,0 +1,15 @@
+[
+    [
+        2551,
+        [],
+        "1,660km"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: At 1,660km2 (640sqmi), excluding the contested island of Mayotte, the Comoros is the fourth-smallest African nation by area. The population, excluding Mayotte, is estimated at 832,322.[4][5] As a nation formed at a crossroads of different civilisations, the archipelago is noted for its diverse culture and history.  The archipelago was first inhabited by Bantu speakers who came from East Africa, supplemented by Arab and Austronesian immigration. Question: How large is Comoros? Answer:",
+    {
+        "id": "english--7344461709700432558-1",
+        "lang": "english",
+        "summary": "At 1,660km2 (640sqmi), excluding the contested island of Mayotte, the Comoros is the fourth-smallest African nation by area. The population, excluding Mayotte, is estimated at 832,322.[4][5] As a nation formed at a crossroads of different civilisations, the archipelago is noted for its diverse culture and history.  The archipelago was first inhabited by Bantu speakers who came from East Africa, supplemented by Arab and Austronesian immigration.",
+        "question": "How large is Comoros?",
+        "label": "1,660km"
+    }
+]

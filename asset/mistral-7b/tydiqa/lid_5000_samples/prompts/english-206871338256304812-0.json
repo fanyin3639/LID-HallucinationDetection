@@ -1,0 +1,15 @@
+[
+    [
+        2200,
+        [],
+        "1994"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Nehemiah Corporation of America is a non-profit organization based in Sacramento, California specializing in homeownership, affordable housing and community development. It started in 1994 as a small organization, but grew to prominence later in the 1990s after it developed a program that allowed home buyers to make down payments on their purchases using funds that were derived from the home sellers.  This program, the Nehemiah Program, became popular and was widely emulated, giving birth to what came to be known as the seller-funded down-payment assistance industry.  The industry attracted criticism from U.S. federal agencies (particularly the Government Accountability Office and the Internal Revenue Service) and was ultimately shut down in 2008 by a change in federal law. Question: When was the Nehemiah Corporation of America founded? Answer:",
+    {
+        "id": "english-206871338256304812-0",
+        "lang": "english",
+        "summary": "Nehemiah Corporation of America is a non-profit organization based in Sacramento, California specializing in homeownership, affordable housing and community development. It started in 1994 as a small organization, but grew to prominence later in the 1990s after it developed a program that allowed home buyers to make down payments on their purchases using funds that were derived from the home sellers.  This program, the Nehemiah Program, became popular and was widely emulated, giving birth to what came to be known as the seller-funded down-payment assistance industry.  The industry attracted criticism from U.S. federal agencies (particularly the Government Accountability Office and the Internal Revenue Service) and was ultimately shut down in 2008 by a change in federal law.",
+        "question": "When was the Nehemiah Corporation of America founded?",
+        "label": "1994"
+    }
+]

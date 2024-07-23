@@ -1,0 +1,15 @@
+[
+    [
+        2384,
+        [],
+        "flour and fat"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Roux (/\u02c8ru\u02d0/) is flour and fat cooked together and used to thicken sauces.[1] Roux is typically made from equal parts of flour and fat by weight.[2] The flour is added to the melted fat or oil on the stove top, blended until smooth, and cooked to the desired level of brownness.  Butter, vegetable oils, bacon drippings or lard are commonly used fats. Roux is used as a thickening agent for gravy, sauces, soups and stews. It provides the base for a dish, and other ingredients are added after the roux is complete.   Question: What's in a roux? Answer:",
+    {
+        "id": "english--774448431115004527-0",
+        "lang": "english",
+        "summary": "Roux (/\u02c8ru\u02d0/) is flour and fat cooked together and used to thicken sauces.[1] Roux is typically made from equal parts of flour and fat by weight.[2] The flour is added to the melted fat or oil on the stove top, blended until smooth, and cooked to the desired level of brownness.  Butter, vegetable oils, bacon drippings or lard are commonly used fats. Roux is used as a thickening agent for gravy, sauces, soups and stews. It provides the base for a dish, and other ingredients are added after the roux is complete.  ",
+        "question": "What's in a roux?",
+        "label": "flour and fat"
+    }
+]

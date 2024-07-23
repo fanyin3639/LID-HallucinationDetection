@@ -1,0 +1,15 @@
+[
+    [
+        677,
+        [],
+        "Relation aller F\u00fcrnemmen und  gedenckw\u00fcrdigen Historien"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Johann Carolus (1575\u22121634) was a German publisher of the first newspaper, called Relation aller F\u00fcrnemmen und  gedenckw\u00fcrdigen Historien (Account of all distinguished and commemorable news). The Relation is recognised by the World Association of Newspapers,[1] as well as many authors,[2] as the world's first newspaper. Question: What was the first newspaper in the world? Answer:",
+    {
+        "id": "english--8839226385829932104-0",
+        "lang": "english",
+        "summary": "Johann Carolus (1575\u22121634) was a German publisher of the first newspaper, called Relation aller F\u00fcrnemmen und  gedenckw\u00fcrdigen Historien (Account of all distinguished and commemorable news). The Relation is recognised by the World Association of Newspapers,[1] as well as many authors,[2] as the world's first newspaper.",
+        "question": "What was the first newspaper in the world?",
+        "label": "Relation aller F\u00fcrnemmen und  gedenckw\u00fcrdigen Historien"
+    }
+]

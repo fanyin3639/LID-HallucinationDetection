@@ -1,0 +1,19 @@
+[
+    [
+        59,
+        [],
+        "Yes."
+    ],
+    "Answer the following questions:\nContext: CHAPTER XV \n\nFor some time after the conclusion of the race, Bashti stood talking with his head men, Agno among them. Lenerengo was similarly engaged with several old cronies. As Jerry lay off to one side where she had forgotten him, the wild-dog he had bullied on the _Arangi_ came up and sniffed at him. At first he sniffed at a distance, ready for instant flight. Then he drew cautiously closer. Jerry watched him with smouldering eyes. At the moment wild-dog's nose touched him, he uttered a warning growl. Wild-dog sprang back and whirled away in headlong flight for a score of yards before he learned that he was not pursued. \n\nAgain he came back cautiously, as it was the instinct in him to stalk wild game, crouching so close to the ground that almost his belly touched. He lifted and dropped his feet with the lithe softness of a cat, and from time to time glanced to right and to left as if in apprehension of some flank attack. A noisy outburst of boys' laughter in the distance caused him to crouch suddenly down, his claws thrust into the ground for purchase, his muscles tense springs for the leap he knew not in what direction, from the danger he knew not what that might threaten him. Then he identified the noise, know that no harm impended, and resumed his stealthy advance on the Irish terrier. \n\nWhat might have happened there is no telling, for at that moment Bashti's eyes chanced to rest on the golden puppy for the first time since the capture of the _Arangi_. In the rush of events Bashti had forgotten the puppy. \n'Question': Was he low to the ground?\n'Answer: '",
+    {
+        "id": "3lj7ur74rhdhp6cairjjc5r8a2j4nx_8",
+        "summary": "CHAPTER XV \n\nFor some time after the conclusion of the race, Bashti stood talking with his head men, Agno among them. Lenerengo was similarly engaged with several old cronies. As Jerry lay off to one side where she had forgotten him, the wild-dog he had bullied on the _Arangi_ came up and sniffed at him. At first he sniffed at a distance, ready for instant flight. Then he drew cautiously closer. Jerry watched him with smouldering eyes. At the moment wild-dog's nose touched him, he uttered a warning growl. Wild-dog sprang back and whirled away in headlong flight for a score of yards before he learned that he was not pursued. \n\nAgain he came back cautiously, as it was the instinct in him to stalk wild game, crouching so close to the ground that almost his belly touched. He lifted and dropped his feet with the lithe softness of a cat, and from time to time glanced to right and to left as if in apprehension of some flank attack. A noisy outburst of boys' laughter in the distance caused him to crouch suddenly down, his claws thrust into the ground for purchase, his muscles tense springs for the leap he knew not in what direction, from the danger he knew not what that might threaten him. Then he identified the noise, know that no harm impended, and resumed his stealthy advance on the Irish terrier. \n\nWhat might have happened there is no telling, for at that moment Bashti's eyes chanced to rest on the golden puppy for the first time since the capture of the _Arangi_. In the rush of events Bashti had forgotten the puppy. ",
+        "question": "Was he low to the ground?",
+        "label": "Yes.",
+        "additional_answers": [
+            "close",
+            "yes",
+            "yes"
+        ]
+    }
+]

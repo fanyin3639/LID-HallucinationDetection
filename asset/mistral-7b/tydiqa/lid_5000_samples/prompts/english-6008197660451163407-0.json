@@ -1,0 +1,15 @@
+[
+    [
+        576,
+        [],
+        "1868"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Imperial Japanese Navy (IJN; Ky\u016bjitai: \u5927\u65e5\u672c\u5e1d\u570b\u6d77\u8ecd Shinjitai: \u5927\u65e5\u672c\u5e1d\u56fd\u6d77\u8ecd Dai-Nippon Teikoku Kaigun \"Navy of the Greater Japanese Empire\", or \u65e5\u672c\u6d77\u8ecd Nippon Kaigun,  \"Japanese Navy\") was the navy of the Empire of Japan from 1868 until 1945, when it was dissolved following Japan's defeat and surrender in World War II. The Japan Maritime Self-Defense Force (JMSDF) was formed after the dissolution of the IJN.[1] Question: When was the Imperial Japanese Navy formed? Answer:",
+    {
+        "id": "english-6008197660451163407-0",
+        "lang": "english",
+        "summary": "The Imperial Japanese Navy (IJN; Ky\u016bjitai: \u5927\u65e5\u672c\u5e1d\u570b\u6d77\u8ecd Shinjitai: \u5927\u65e5\u672c\u5e1d\u56fd\u6d77\u8ecd Dai-Nippon Teikoku Kaigun \"Navy of the Greater Japanese Empire\", or \u65e5\u672c\u6d77\u8ecd Nippon Kaigun,  \"Japanese Navy\") was the navy of the Empire of Japan from 1868 until 1945, when it was dissolved following Japan's defeat and surrender in World War II. The Japan Maritime Self-Defense Force (JMSDF) was formed after the dissolution of the IJN.[1]",
+        "question": "When was the Imperial Japanese Navy formed?",
+        "label": "1868"
+    }
+]

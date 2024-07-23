@@ -1,0 +1,19 @@
+[
+    [
+        972,
+        [],
+        "more than two years"
+    ],
+    "Answer the following questions:\nContext: (CNN) -- American journalist Michael Scott Moore, held for more than two years by Somali pirates, has been freed, Moore's family and a Somali official told CNN on Tuesday. \n\n\"We are just elated,\" Marlis Saunders, Moore's mother, said in a brief conversation. \"It took a lot of work for us to get this point. And to hear he is free -- just joyful, I can't describe it.\" \n\n\"All this is just so new,\" said Saunders, who lives in Redondo Beach, California. \"I did not have much time to talk with him. We just have a lot of things to do and I cannot talk anymore. We need a little time to evaluate all this.\" \n\nThe governor of Somalia's Mudug region, Ahmed Muse, told CNN that local elders negotiated Moore's release, adding that the journalist is \"physically and mentally\" worn out. \n\nMoore boarded a plane at an airport in Galkayo, in the north-central part of Somalia, Muse said. \n\nMuse would not say where the journalist is headed. \n\n\"I'm absolutely thrilled,\" said Michel Todd, who was Moore's web editor at Pacific Standard magazine. \"It's like seeing somebody come back from the dead. It's a marvelous resurrection.\" \n\nTodd said Moore was a weekly freelance columnist who wrote often about Somalia. He had been researching Somali pirates. \n\n\"As a news organization, we wanted to write about his capture,\" Todd said. \"But we had been encouraged by the FBI and State Department to (not) write about it because this would hurt his cause. They said, if you really care about the guy, that is not a good idea, raising his profile would make his release more difficult.\" \n'Question': after how long?\n'Answer: '",
+    {
+        "id": "33isqzvxppm1t6symggnfs9k2xwcch_3",
+        "summary": "(CNN) -- American journalist Michael Scott Moore, held for more than two years by Somali pirates, has been freed, Moore's family and a Somali official told CNN on Tuesday. \n\n\"We are just elated,\" Marlis Saunders, Moore's mother, said in a brief conversation. \"It took a lot of work for us to get this point. And to hear he is free -- just joyful, I can't describe it.\" \n\n\"All this is just so new,\" said Saunders, who lives in Redondo Beach, California. \"I did not have much time to talk with him. We just have a lot of things to do and I cannot talk anymore. We need a little time to evaluate all this.\" \n\nThe governor of Somalia's Mudug region, Ahmed Muse, told CNN that local elders negotiated Moore's release, adding that the journalist is \"physically and mentally\" worn out. \n\nMoore boarded a plane at an airport in Galkayo, in the north-central part of Somalia, Muse said. \n\nMuse would not say where the journalist is headed. \n\n\"I'm absolutely thrilled,\" said Michel Todd, who was Moore's web editor at Pacific Standard magazine. \"It's like seeing somebody come back from the dead. It's a marvelous resurrection.\" \n\nTodd said Moore was a weekly freelance columnist who wrote often about Somalia. He had been researching Somali pirates. \n\n\"As a news organization, we wanted to write about his capture,\" Todd said. \"But we had been encouraged by the FBI and State Department to (not) write about it because this would hurt his cause. They said, if you really care about the guy, that is not a good idea, raising his profile would make his release more difficult.\" ",
+        "question": "after how long?",
+        "label": "more than two years",
+        "additional_answers": [
+            "more than two years",
+            "two years",
+            "two years"
+        ]
+    }
+]

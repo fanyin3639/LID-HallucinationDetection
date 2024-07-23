@@ -1,0 +1,15 @@
+[
+    [
+        427,
+        [],
+        "14,517,961"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: African-Brazilians are defined as people who are solely, or mostly, descended from former African slaves, or immigrants. According to the 2010 census, there are 14,517,961 Afro Brazilians, which make up 7.61% of Brazil's population, although a larger number of Brazilians have some degree of African ancestry.[15] Question: How much of Brazil's population is black? Answer:",
+    {
+        "id": "english-2121193177711698084-61",
+        "lang": "english",
+        "summary": "African-Brazilians are defined as people who are solely, or mostly, descended from former African slaves, or immigrants. According to the 2010 census, there are 14,517,961 Afro Brazilians, which make up 7.61% of Brazil's population, although a larger number of Brazilians have some degree of African ancestry.[15]",
+        "question": "How much of Brazil's population is black?",
+        "label": "14,517,961"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        3160,
+        [],
+        "12"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Even after the disaster at Philippine Sea, the IJN was still a formidable force. Of the 12 battleships that were available at the beginning of the war in 1941-42, nine still remained operational, together with 14 out of the original 18 heavy cruisers.[55] However, efforts to rebuild the carrier force were unsuccessful since the training given to new aviators was of a very low standard. Consequently, the new Unry\u016b carriers never went to sea with a full air group. This left the Japanese with a ragtag collection of carriers, led by the Zuikaku, which was the sole survivor of the Pearl Harbor attack force. The Japanese were left with two choices, either to commit their remaining strength in an all-out offensive, or to sit by while the Americans occupied the Philippines and cut the sea lanes between Japan and vital resources from the Dutch East Indies and Malaya. The plan devised by the Japanese was a final attempt to create a decisive battle by utilizing their last remaining strength, the firepower of its heavy cruisers and battleships, which were to be all committed against the American beachhead at Leyte. The Japanese planned to use their remaining carriers as bait, in order to lure the American carriers away from Leyte Gulf long enough for the heavy warships to enter and destroy any American ships present. Question: How many battle ships did Japan employ in WWII? Answer:",
+    {
+        "id": "english-6892342357410191460-31",
+        "lang": "english",
+        "summary": "Even after the disaster at Philippine Sea, the IJN was still a formidable force. Of the 12 battleships that were available at the beginning of the war in 1941-42, nine still remained operational, together with 14 out of the original 18 heavy cruisers.[55] However, efforts to rebuild the carrier force were unsuccessful since the training given to new aviators was of a very low standard. Consequently, the new Unry\u016b carriers never went to sea with a full air group. This left the Japanese with a ragtag collection of carriers, led by the Zuikaku, which was the sole survivor of the Pearl Harbor attack force. The Japanese were left with two choices, either to commit their remaining strength in an all-out offensive, or to sit by while the Americans occupied the Philippines and cut the sea lanes between Japan and vital resources from the Dutch East Indies and Malaya. The plan devised by the Japanese was a final attempt to create a decisive battle by utilizing their last remaining strength, the firepower of its heavy cruisers and battleships, which were to be all committed against the American beachhead at Leyte. The Japanese planned to use their remaining carriers as bait, in order to lure the American carriers away from Leyte Gulf long enough for the heavy warships to enter and destroy any American ships present.",
+        "question": "How many battle ships did Japan employ in WWII?",
+        "label": "12"
+    }
+]

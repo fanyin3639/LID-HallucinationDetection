@@ -1,0 +1,15 @@
+[
+    [
+        2697,
+        [],
+        "typical adult eye has an anterior to posterior diameter of 24 millimetres"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Dimensions typically differ among adults by only one or two millimetres, remarkably consistent across different ethnicities. The vertical measure, generally less than the horizontal, is about 24mm. The transverse size of a human adult eye is approximately 24.2mm and the sagittal size is \u200923.7mm with no significant difference between sexes and age groups. Strong correlation has been found between the transverse diameter and the width of the orbit (r = 0.88).[4] The typical adult eye has an anterior to posterior diameter of 24 millimetres, a volume of six cubic centimetres (0.4 cu. in.),[5] and a mass of 7.5 grams (weight of 0.25 oz.).. Question: What is the diameter of the human eye? Answer:",
+    {
+        "id": "english-2874806098726259917-4",
+        "lang": "english",
+        "summary": "Dimensions typically differ among adults by only one or two millimetres, remarkably consistent across different ethnicities. The vertical measure, generally less than the horizontal, is about 24mm. The transverse size of a human adult eye is approximately 24.2mm and the sagittal size is \u200923.7mm with no significant difference between sexes and age groups. Strong correlation has been found between the transverse diameter and the width of the orbit (r = 0.88).[4] The typical adult eye has an anterior to posterior diameter of 24 millimetres, a volume of six cubic centimetres (0.4 cu. in.),[5] and a mass of 7.5 grams (weight of 0.25 oz.)..",
+        "question": "What is the diameter of the human eye?",
+        "label": "typical adult eye has an anterior to posterior diameter of 24 millimetres"
+    }
+]

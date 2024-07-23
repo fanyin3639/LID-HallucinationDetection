@@ -1,0 +1,15 @@
+[
+    [
+        1691,
+        [],
+        "Charles I"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Charles I or Karl I (Karl Franz Joseph Ludwig Hubert Georg Otto Maria; 17 August 1887\u20131 April 1922) was the last Emperor of Austria, the last King of Hungary (as Charles IV, Hungarian: IV. K\u00e1roly),[1] the last King of Bohemia (as Charles III), and the last monarch belonging to the House of Habsburg-Lorraine. After his uncle Archduke Franz Ferdinand of Austria was assassinated in 1914, Charles became heir presumptive of Emperor Franz Josef. CharlesI reigned from 1916 until 1918, when he \"renounced participation\" in state affairs, but did not abdicate. He spent the remaining years of his life attempting to restore the monarchy until his death in 1922. Beatified by Pope John Paul II in 2004, he is known to the Catholic Church as Blessed Karl of Austria.[2] Question: Who was the last king of Austria? Answer:",
+    {
+        "id": "english--6191156799482619230-0",
+        "lang": "english",
+        "summary": "Charles I or Karl I (Karl Franz Joseph Ludwig Hubert Georg Otto Maria; 17 August 1887\u20131 April 1922) was the last Emperor of Austria, the last King of Hungary (as Charles IV, Hungarian: IV. K\u00e1roly),[1] the last King of Bohemia (as Charles III), and the last monarch belonging to the House of Habsburg-Lorraine. After his uncle Archduke Franz Ferdinand of Austria was assassinated in 1914, Charles became heir presumptive of Emperor Franz Josef. CharlesI reigned from 1916 until 1918, when he \"renounced participation\" in state affairs, but did not abdicate. He spent the remaining years of his life attempting to restore the monarchy until his death in 1922. Beatified by Pope John Paul II in 2004, he is known to the Catholic Church as Blessed Karl of Austria.[2]",
+        "question": "Who was the last king of Austria?",
+        "label": "Charles I"
+    }
+]

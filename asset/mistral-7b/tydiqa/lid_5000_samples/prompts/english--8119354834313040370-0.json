@@ -1,0 +1,15 @@
+[
+    [
+        263,
+        [],
+        "28,334,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The demographics of Malaysia are represented by the multiple ethnic groups that exist in the country. Malaysia's population, according to the 2010 census, is 28,334,000 including non-citizens, which makes it the 42nd most populated country in the world.[1] Of these, 5.72million live in East Malaysia and 22.5million live in Peninsular Malaysia.[2] The population distribution is uneven, with some 79% of its citizens concentrated in Peninsular Malaysia, which has an area of 131,598 square kilometres (50,810.27sqmi), constituting under 40% of the total area of Malaysia.[3] Question: How many people live in Malaysia? Answer:",
+    {
+        "id": "english--8119354834313040370-0",
+        "lang": "english",
+        "summary": "The demographics of Malaysia are represented by the multiple ethnic groups that exist in the country. Malaysia's population, according to the 2010 census, is 28,334,000 including non-citizens, which makes it the 42nd most populated country in the world.[1] Of these, 5.72million live in East Malaysia and 22.5million live in Peninsular Malaysia.[2] The population distribution is uneven, with some 79% of its citizens concentrated in Peninsular Malaysia, which has an area of 131,598 square kilometres (50,810.27sqmi), constituting under 40% of the total area of Malaysia.[3]",
+        "question": "How many people live in Malaysia?",
+        "label": "28,334,000"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        214,
+        [],
+        "6.1 metres"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Named for their exceptionally long, thresher-like heterocercal tail or caudal fins (which can be as long as the total body length), thresher sharks are active predators; the tail is used as a weapon to stun prey. The thresher shark has a short head and a cone-shaped nose. The mouth is generally small, and the teeth range in size from small to large.[6] By far the largest of the three species is the common thresher, Alopias vulpinus, which may reach a length of 6.1 metres (20ft) and a weight of over 500 kilograms (1,100lb). The bigeye thresher, Alopias superciliosus, is next in size, reaching a length of 4.9m (16ft); at just 3m (10ft), the pelagic thresher, Alopias pelagicus, is the smallest. Question: How big can a thresher get? Answer:",
+    {
+        "id": "english-722876531494780513-8",
+        "lang": "english",
+        "summary": "Named for their exceptionally long, thresher-like heterocercal tail or caudal fins (which can be as long as the total body length), thresher sharks are active predators; the tail is used as a weapon to stun prey. The thresher shark has a short head and a cone-shaped nose. The mouth is generally small, and the teeth range in size from small to large.[6] By far the largest of the three species is the common thresher, Alopias vulpinus, which may reach a length of 6.1 metres (20ft) and a weight of over 500 kilograms (1,100lb). The bigeye thresher, Alopias superciliosus, is next in size, reaching a length of 4.9m (16ft); at just 3m (10ft), the pelagic thresher, Alopias pelagicus, is the smallest.",
+        "question": "How big can a thresher get?",
+        "label": "6.1 metres"
+    }
+]

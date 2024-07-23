@@ -1,0 +1,15 @@
+[
+    [
+        2969,
+        [],
+        "Bluffview Montessori School"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Minnesota wrote the first charter school law in the United States in 1991. As of 2015, Minnesota had 165 registered charter schools, with over 41,000 students attending. The first of these to be approved, Bluffview Montessori School in Winona, Minnesota, opened in 1992. The first charter to operate was City Academy in St. Paul. Some specialized Minnesota charter-schools include the Metro Deaf School (1993), Community of Peace Academy (1995), and the Mainstreet School of Performing Arts (2004).[35] Question: What was the first charter school? Answer:",
+    {
+        "id": "english-3973752469272468364-17",
+        "lang": "english",
+        "summary": "Minnesota wrote the first charter school law in the United States in 1991. As of 2015, Minnesota had 165 registered charter schools, with over 41,000 students attending. The first of these to be approved, Bluffview Montessori School in Winona, Minnesota, opened in 1992. The first charter to operate was City Academy in St. Paul. Some specialized Minnesota charter-schools include the Metro Deaf School (1993), Community of Peace Academy (1995), and the Mainstreet School of Performing Arts (2004).[35]",
+        "question": "What was the first charter school?",
+        "label": "Bluffview Montessori School"
+    }
+]

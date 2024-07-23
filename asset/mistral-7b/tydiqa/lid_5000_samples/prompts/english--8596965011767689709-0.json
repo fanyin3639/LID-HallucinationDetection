@@ -1,0 +1,15 @@
+[
+    [
+        1206,
+        [],
+        "OH\u2212"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Hydroxide is a diatomic anion with chemical formula OH\u2212. It consists of an oxygen and hydrogen atom held together by a covalent bond, and carries a negative electric charge. It is an important but usually minor constituent of water. It functions as a base, a ligand, a nucleophile, and a catalyst. The hydroxide ion forms salts, some of which dissociate in aqueous solution, liberating solvated hydroxide ions. Sodium hydroxide is a multi-million-ton per annum commodity chemical. A hydroxide attached to a strongly electropositive center may itself ionize, liberating a hydrogen cation (H+), making the parent compound an acid. Question: What is the symbol for hydroxide? Answer:",
+    {
+        "id": "english--8596965011767689709-0",
+        "lang": "english",
+        "summary": "Hydroxide is a diatomic anion with chemical formula OH\u2212. It consists of an oxygen and hydrogen atom held together by a covalent bond, and carries a negative electric charge. It is an important but usually minor constituent of water. It functions as a base, a ligand, a nucleophile, and a catalyst. The hydroxide ion forms salts, some of which dissociate in aqueous solution, liberating solvated hydroxide ions. Sodium hydroxide is a multi-million-ton per annum commodity chemical. A hydroxide attached to a strongly electropositive center may itself ionize, liberating a hydrogen cation (H+), making the parent compound an acid.",
+        "question": "What is the symbol for hydroxide?",
+        "label": "OH\u2212"
+    }
+]

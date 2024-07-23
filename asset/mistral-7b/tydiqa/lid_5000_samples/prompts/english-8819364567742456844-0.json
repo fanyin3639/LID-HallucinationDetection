@@ -1,0 +1,15 @@
+[
+    [
+        647,
+        [],
+        "rupiah (Rp)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The rupiah (Rp) is the official currency of Indonesia. Issued and controlled by the Bank of Indonesia, the ISO 4217 currency code for the Indonesian rupiah is IDR. The name \"Rupiah\" is derived from the Indian word rupiya (\u0930\u0941\u092a\u0940\u092f\u093e), ultimately from Sanskrit rupyakam (\u0930\u0942\u092a\u094d\u092f\u0915\u092e\u094d; silver). Informally, Indonesians also use the word \"perak\" (\"silver\" in Indonesian) in referring to rupiah. The rupiah is subdivided into 100 sen, although inflation has rendered all coins and banknotes denominated in sen obsolete. Question: What currency do they spend in Indonesia? Answer:",
+    {
+        "id": "english-8819364567742456844-0",
+        "lang": "english",
+        "summary": "The rupiah (Rp) is the official currency of Indonesia. Issued and controlled by the Bank of Indonesia, the ISO 4217 currency code for the Indonesian rupiah is IDR. The name \"Rupiah\" is derived from the Indian word rupiya (\u0930\u0941\u092a\u0940\u092f\u093e), ultimately from Sanskrit rupyakam (\u0930\u0942\u092a\u094d\u092f\u0915\u092e\u094d; silver). Informally, Indonesians also use the word \"perak\" (\"silver\" in Indonesian) in referring to rupiah. The rupiah is subdivided into 100 sen, although inflation has rendered all coins and banknotes denominated in sen obsolete.",
+        "question": "What currency do they spend in Indonesia?",
+        "label": "rupiah (Rp)"
+    }
+]

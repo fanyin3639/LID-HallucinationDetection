@@ -1,0 +1,15 @@
+[
+    [
+        2631,
+        [],
+        "1881"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: France began work on the canal in 1881, but stopped due to engineering problems and a high worker mortality rate. The United States took over the project in 1904 and opened the canal on August 15, 1914. One of the largest and most difficult engineering projects ever undertaken, the Panama Canal shortcut greatly reduced the time for ships to travel between the Atlantic and Pacific Oceans, enabling them to avoid the lengthy, hazardous Cape Horn route around the southernmost tip of South America via the Drake Passage or Strait of Magellan. Question: When did construction on the Panama Canal begin? Answer:",
+    {
+        "id": "english--715531780698980287-1",
+        "lang": "english",
+        "summary": "France began work on the canal in 1881, but stopped due to engineering problems and a high worker mortality rate. The United States took over the project in 1904 and opened the canal on August 15, 1914. One of the largest and most difficult engineering projects ever undertaken, the Panama Canal shortcut greatly reduced the time for ships to travel between the Atlantic and Pacific Oceans, enabling them to avoid the lengthy, hazardous Cape Horn route around the southernmost tip of South America via the Drake Passage or Strait of Magellan.",
+        "question": "When did construction on the Panama Canal begin?",
+        "label": "1881"
+    }
+]

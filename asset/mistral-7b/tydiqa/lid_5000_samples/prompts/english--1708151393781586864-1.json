@@ -1,0 +1,15 @@
+[
+    [
+        2849,
+        [],
+        "Karl Marx and Friedrich Engels"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of socialism has its origins in the 1789 French Revolution and the changes which it wrought, although it has precedents in earlier movements and ideas. The Communist Manifesto was written by Karl Marx and Friedrich Engels in 1848 just before the Revolutions of 1848 swept Europe, expressing what they termed \"scientific socialism\". In the last third of the 19th century, social democratic parties arose in Europe, drawing mainly from Marxism. The Australian Labor Party was the world's first elected socialist party when it formed government in the Colony of Queensland for a week in 1899.[1] Question: Who started socialism? Answer:",
+    {
+        "id": "english--1708151393781586864-1",
+        "lang": "english",
+        "summary": "The history of socialism has its origins in the 1789 French Revolution and the changes which it wrought, although it has precedents in earlier movements and ideas. The Communist Manifesto was written by Karl Marx and Friedrich Engels in 1848 just before the Revolutions of 1848 swept Europe, expressing what they termed \"scientific socialism\". In the last third of the 19th century, social democratic parties arose in Europe, drawing mainly from Marxism. The Australian Labor Party was the world's first elected socialist party when it formed government in the Colony of Queensland for a week in 1899.[1]",
+        "question": "Who started socialism?",
+        "label": "Karl Marx and Friedrich Engels"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1118,
+        [],
+        "2000 lb"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: CG-36500 is a standard 36-foot lifeboat, a vessel specifically designed to remain operational under extremely difficult conditions.  It has a heavy  2000 lb bronze keel and skeg, watertight compartments, and self-bailing features.  Most of its wooden elements are white oak frames, with cypress planking and it has a total weight of nearly 20,000 pounds (9,100kg).[4] It is sheathed with Monel plating, which allows for winter time ice breaking. Question: How much does the USS Hobson weigh? Answer:",
+    {
+        "id": "english--4235437790098023009-1",
+        "lang": "english",
+        "summary": "CG-36500 is a standard 36-foot lifeboat, a vessel specifically designed to remain operational under extremely difficult conditions.  It has a heavy  2000 lb bronze keel and skeg, watertight compartments, and self-bailing features.  Most of its wooden elements are white oak frames, with cypress planking and it has a total weight of nearly 20,000 pounds (9,100kg).[4] It is sheathed with Monel plating, which allows for winter time ice breaking.",
+        "question": "How much does the USS Hobson weigh?",
+        "label": "2000 lb"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        895,
+        [],
+        "covers 541 million years to the present"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Phanerozoic Eon[3]  is the current geologic eon in the geologic time scale, and the one during which abundant animal and plant life has existed. It covers 541 million years to the present,[4] and began with the Cambrian Period when diverse hard-shelled animals first appeared. Its name was derived from the Ancient Greek words \u03c6\u03b1\u03bd\u03b5\u03c1\u03cc\u03c2 (phaner\u00f3s) and \u03b6\u03c9\u03ae (z\u014d\u1e17), meaning visible life, since it was once believed that life began in the Cambrian, the first period of this eon. The term \"Phanerozoic\" was coined in 1930 by the American geologist George Halcott Chadwick (1876\u20131953).[5][6] The time before the Phanerozoic, called the Precambrian, is now divided into the Hadean, Archaean and Proterozoic eons. Question: When did the Phanerozoic Eon begin? Answer:",
+    {
+        "id": "english--7980270250327648475-0",
+        "lang": "english",
+        "summary": "The Phanerozoic Eon[3]  is the current geologic eon in the geologic time scale, and the one during which abundant animal and plant life has existed. It covers 541 million years to the present,[4] and began with the Cambrian Period when diverse hard-shelled animals first appeared. Its name was derived from the Ancient Greek words \u03c6\u03b1\u03bd\u03b5\u03c1\u03cc\u03c2 (phaner\u00f3s) and \u03b6\u03c9\u03ae (z\u014d\u1e17), meaning visible life, since it was once believed that life began in the Cambrian, the first period of this eon. The term \"Phanerozoic\" was coined in 1930 by the American geologist George Halcott Chadwick (1876\u20131953).[5][6] The time before the Phanerozoic, called the Precambrian, is now divided into the Hadean, Archaean and Proterozoic eons.",
+        "question": "When did the Phanerozoic Eon begin?",
+        "label": "covers 541 million years to the present"
+    }
+]

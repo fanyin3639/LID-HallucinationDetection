@@ -1,0 +1,15 @@
+[
+    [
+        658,
+        [],
+        "11,689,442 on July 1, 2018"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: From just over 45,000 residents in 1800, Ohio's population grew at rates of over 10% per decade (except for the 1940 census) until the 1970 census, which recorded just over 10.65 million Ohioans.[68] Growth then slowed for the next four decades.[69]  The United States Census Bureau estimates that the population of Ohio was 11,689,442 on July 1, 2018, a 1.33% increase since the 2010 United States Census.[67]  Ohio's population growth lags that of the entire United States, and Caucasians are found in a greater density than the United States average. As of 2000, Ohio's center of population is located in Morrow County,[70] in the county seat of Mount Gilead.[71] This is approximately 6,346 feet (1,934m) south and west of Ohio's population center in 1990.[70] Question: How many people live in Ohio? Answer:",
+    {
+        "id": "english--6476110751498339768-47",
+        "lang": "english",
+        "summary": "From just over 45,000 residents in 1800, Ohio's population grew at rates of over 10% per decade (except for the 1940 census) until the 1970 census, which recorded just over 10.65 million Ohioans.[68] Growth then slowed for the next four decades.[69]  The United States Census Bureau estimates that the population of Ohio was 11,689,442 on July 1, 2018, a 1.33% increase since the 2010 United States Census.[67]  Ohio's population growth lags that of the entire United States, and Caucasians are found in a greater density than the United States average. As of 2000, Ohio's center of population is located in Morrow County,[70] in the county seat of Mount Gilead.[71] This is approximately 6,346 feet (1,934m) south and west of Ohio's population center in 1990.[70]",
+        "question": "How many people live in Ohio?",
+        "label": "11,689,442 on July 1, 2018"
+    }
+]

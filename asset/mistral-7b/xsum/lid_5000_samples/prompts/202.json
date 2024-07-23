@@ -1,0 +1,14 @@
+[
+    [
+        202,
+        [],
+        "A man has been wounded and hospitalised and two other men arrested on suspicion of assault."
+    ],
+    "Write a short summary for the following passage:\nThe 28-year-old man is in Hull Royal Infirmary after a violent incident at a house in Hainton Avenue, Grimsby on Friday, said Humberside Police.\nThe two local men, aged 32 and 24, are currently being questioned in police custody.\nA cordon was erected on Hainton Avenue while a forensic examination was carried out.\nSummary:\n",
+    {
+        "id": 202,
+        "document": "The 28-year-old man is in Hull Royal Infirmary after a violent incident at a house in Hainton Avenue, Grimsby on Friday, said Humberside Police.\nThe two local men, aged 32 and 24, are currently being questioned in police custody.\nA cordon was erected on Hainton Avenue while a forensic examination was carried out.",
+        "summary": "A man has been wounded and hospitalised and two other men arrested on suspicion of assault.",
+        "label": "A man has been wounded and hospitalised and two other men arrested on suspicion of assault."
+    }
+]

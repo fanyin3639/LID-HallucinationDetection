@@ -1,0 +1,15 @@
+[
+    [
+        1585,
+        [],
+        "mid fifteenth century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Korean alphabet is the native script of Korea, created in the mid fifteenth century by King Sejong,[1][2] as both a complement and an alternative to the logographic Sino-Korean hanja. Initially denounced by the educated class as eonmun (vernacular writing), it only became the primary Korean script following independence from Japan in the mid-20th century.[3] Question: When was Hangul invented? Answer:",
+    {
+        "id": "english-7062167395997684209-0",
+        "lang": "english",
+        "summary": "The Korean alphabet is the native script of Korea, created in the mid fifteenth century by King Sejong,[1][2] as both a complement and an alternative to the logographic Sino-Korean hanja. Initially denounced by the educated class as eonmun (vernacular writing), it only became the primary Korean script following independence from Japan in the mid-20th century.[3]",
+        "question": "When was Hangul invented?",
+        "label": "mid fifteenth century"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        776,
+        [],
+        "700,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Triumph of the Will (German: Triumph des Willens) is a 1935 Nazi propaganda film directed, produced, edited, and co-written by Leni Riefenstahl. It chronicles the 1934 Nazi Party Congress in Nuremberg, which was attended by more than 700,000 Nazi supporters.[1] The film contains excerpts from speeches given by Nazi leaders at the Congress, including Adolf Hitler, Rudolf Hess and Julius Streicher, interspersed with footage of massed Sturmabteilung (SA) and Schutzstaffel (SS) troops and public reaction. Hitler commissioned the film and served as an unofficial executive producer; his name appears in the opening titles. The film's overriding theme is the return of Germany as a great power, with Hitler as the leader who will bring glory to the nation. Because the film was made after the 1934 Night of the Long Knives (on 30 June), many prominent Sturmabteilung (SA) members are absent\u2014they were murdered in that Party purge, organised and orchestrated by Hitler to replace the SA with the Schutzstaffel (SS) as his main paramilitary force. Question: How many people saw the Nazi propaganda film Triumph of the Will when it was released in 1935? Answer:",
+    {
+        "id": "english--74987026134400330-0",
+        "lang": "english",
+        "summary": "Triumph of the Will (German: Triumph des Willens) is a 1935 Nazi propaganda film directed, produced, edited, and co-written by Leni Riefenstahl. It chronicles the 1934 Nazi Party Congress in Nuremberg, which was attended by more than 700,000 Nazi supporters.[1] The film contains excerpts from speeches given by Nazi leaders at the Congress, including Adolf Hitler, Rudolf Hess and Julius Streicher, interspersed with footage of massed Sturmabteilung (SA) and Schutzstaffel (SS) troops and public reaction. Hitler commissioned the film and served as an unofficial executive producer; his name appears in the opening titles. The film's overriding theme is the return of Germany as a great power, with Hitler as the leader who will bring glory to the nation. Because the film was made after the 1934 Night of the Long Knives (on 30 June), many prominent Sturmabteilung (SA) members are absent\u2014they were murdered in that Party purge, organised and orchestrated by Hitler to replace the SA with the Schutzstaffel (SS) as his main paramilitary force.",
+        "question": "How many people saw the Nazi propaganda film Triumph of the Will when it was released in 1935?",
+        "label": "700,000"
+    }
+]

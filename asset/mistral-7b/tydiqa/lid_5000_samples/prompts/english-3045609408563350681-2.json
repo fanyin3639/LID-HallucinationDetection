@@ -1,0 +1,15 @@
+[
+    [
+        2119,
+        [],
+        "lions, humans, African wild dogs, cheetahs, and leopards"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The addax mainly eats grasses and leaves of any available shrubs, leguminous herbs and bushes. These animals are well-adapted to exist in their desert habitat, as they can live without water for long periods of time. Addax form herds of five to 20 members, consisting of both males and females. They are led by the oldest female. Due to its slow movements, the antelope is an easy target for its predators: lions, humans, African wild dogs, cheetahs, and leopards. Breeding season is at its peak during winter and early spring. The natural habitat of the addax are arid regions, semideserts and sandy and stony deserts. Question: What eats an antelope? Answer:",
+    {
+        "id": "english-3045609408563350681-2",
+        "lang": "english",
+        "summary": "The addax mainly eats grasses and leaves of any available shrubs, leguminous herbs and bushes. These animals are well-adapted to exist in their desert habitat, as they can live without water for long periods of time. Addax form herds of five to 20 members, consisting of both males and females. They are led by the oldest female. Due to its slow movements, the antelope is an easy target for its predators: lions, humans, African wild dogs, cheetahs, and leopards. Breeding season is at its peak during winter and early spring. The natural habitat of the addax are arid regions, semideserts and sandy and stony deserts.",
+        "question": "What eats an antelope?",
+        "label": "lions, humans, African wild dogs, cheetahs, and leopards"
+    }
+]

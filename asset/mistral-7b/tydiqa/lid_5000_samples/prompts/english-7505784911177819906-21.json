@@ -1,0 +1,15 @@
+[
+    [
+        2650,
+        [],
+        "30 million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 2009, the REC became a founding member of the Anglican Church in North America (ACNA),[26] a denomination seeking to create a new Anglican Communion province distinct from the Episcopal Church. ACNA is in communion with the Anglican Churches of Uganda, Nigeria and Sudan, with approximately 30 million members worldwide, representing approximately one-third of the faithful of the Anglican Communion.[27][28][29] Question: How many members does the Reformed Episcopal Church have? Answer:",
+    {
+        "id": "english-7505784911177819906-21",
+        "lang": "english",
+        "summary": "In 2009, the REC became a founding member of the Anglican Church in North America (ACNA),[26] a denomination seeking to create a new Anglican Communion province distinct from the Episcopal Church. ACNA is in communion with the Anglican Churches of Uganda, Nigeria and Sudan, with approximately 30 million members worldwide, representing approximately one-third of the faithful of the Anglican Communion.[27][28][29]",
+        "question": "How many members does the Reformed Episcopal Church have?",
+        "label": "30 million"
+    }
+]

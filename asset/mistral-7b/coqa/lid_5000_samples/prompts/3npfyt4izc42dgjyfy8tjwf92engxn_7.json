@@ -1,0 +1,19 @@
+[
+    [
+        554,
+        [],
+        "Four"
+    ],
+    "Answer the following questions:\nContext: Alan worked in an office in the city. He worked very hard and really looked forward to his holiday. He usually went to the seaside, but one year he saw an ad. in a newspaper \"Enjoy country life. Spend a few weeks at William Farm. Good food, fresh air, horse riding, walking, fishing...\" \n\n\"This sounds like a good idea.\" he thought, I'll spend a month at William Farm. I'll go horse riding, walking and fishing. It'll be different from the seaside.\" Four days later, he returned home. \n\n\"What's wrong with William Farm?\" his friend Jack asked him, \"Didn't you enjoy country life?\" \n\n\"Country life was fine,\" Alan said, \"But there was another problem.\" \n\n\"Oh, what problem?\" \n\n\"Well, the first day I was there, a sheep died, and we had roast mutton for dinner.\" \n\n\"Fresh meat is the best.\" \n\n\"I know, but on the second day a cow died, and we had roast beef for dinner.\" \n\n\"Lucky you!\" \n\n\"You don't understand,\" Alan said, \"On the third day a pig died and we had roast pork for dinner.\" \n\n\"A different roast every day.\" Jack said. \n\n\"Let me finish.\" Alan said, \"On the fourth day a farmer died and I didn't want to stay there for dinner.\"\n'Question': How long did he actually end up staying there?\n'Answer: '",
+    {
+        "id": "3npfyt4izc42dgjyfy8tjwf92engxn_7",
+        "summary": "Alan worked in an office in the city. He worked very hard and really looked forward to his holiday. He usually went to the seaside, but one year he saw an ad. in a newspaper \"Enjoy country life. Spend a few weeks at William Farm. Good food, fresh air, horse riding, walking, fishing...\" \n\n\"This sounds like a good idea.\" he thought, I'll spend a month at William Farm. I'll go horse riding, walking and fishing. It'll be different from the seaside.\" Four days later, he returned home. \n\n\"What's wrong with William Farm?\" his friend Jack asked him, \"Didn't you enjoy country life?\" \n\n\"Country life was fine,\" Alan said, \"But there was another problem.\" \n\n\"Oh, what problem?\" \n\n\"Well, the first day I was there, a sheep died, and we had roast mutton for dinner.\" \n\n\"Fresh meat is the best.\" \n\n\"I know, but on the second day a cow died, and we had roast beef for dinner.\" \n\n\"Lucky you!\" \n\n\"You don't understand,\" Alan said, \"On the third day a pig died and we had roast pork for dinner.\" \n\n\"A different roast every day.\" Jack said. \n\n\"Let me finish.\" Alan said, \"On the fourth day a farmer died and I didn't want to stay there for dinner.\"",
+        "question": "How long did he actually end up staying there?",
+        "label": "Four",
+        "additional_answers": [
+            "Four days",
+            "Four days",
+            "Four days"
+        ]
+    }
+]

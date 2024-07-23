@@ -1,0 +1,19 @@
+[
+    [
+        1450,
+        [],
+        "shot"
+    ],
+    "Answer the following questions:\nContext: (CNN)The widow of the man whose life was portrayed in the acclaimed film \"American Sniper\" has penned a heartfelt letter to him on their 13th anniversary. \n\nTaya Kyle posted her letter March 16 on the Chris Kyle Facebook page, where she proclaimed, \"I miss you and I love you. I feel you in my heart and soul so strongly. I am more blessed to have been your wife than anything else in my life.\" \n\n\"Today, I have a choice. I can bury myself under the covers and acknowledge the pain of missing you and mourn the future anniversaries without you,\" she wrote. \"Or, I can celebrate never having a day without you in my heart because you loved me enough to leave me a lifetime of memories and beauty.\" \n\nKyle, a Navy SEAL, has been credited as the most successful sniper in United States military history. Bradley Cooper was nominated for an Academy Award for his portrayal of Kyle in this winter's film \"American Sniper,\" which was based on Kyle's bestselling autobiography. \n\nThe film, directed by Clint Eastwood, has become the highest-grossing war movie ever. \n\nWhy 'American Sniper' is a smash hit \n\nKyle and his friend Chad Littlefield were shot and killed at a gun range in 2013 by Eddie Ray Routh. A Texas jury found Routh guilty of capital murder in February, and he was sentenced to life in prison without the possibility of parole. \n\nJury finds Eddie Ray Routh guilty in 'American Sniper' case \n\n\n'Question': how?\n'Answer: '",
+    {
+        "id": "3j88r45b2gy8qtcxihygd5t137xpxr_4",
+        "summary": "(CNN)The widow of the man whose life was portrayed in the acclaimed film \"American Sniper\" has penned a heartfelt letter to him on their 13th anniversary. \n\nTaya Kyle posted her letter March 16 on the Chris Kyle Facebook page, where she proclaimed, \"I miss you and I love you. I feel you in my heart and soul so strongly. I am more blessed to have been your wife than anything else in my life.\" \n\n\"Today, I have a choice. I can bury myself under the covers and acknowledge the pain of missing you and mourn the future anniversaries without you,\" she wrote. \"Or, I can celebrate never having a day without you in my heart because you loved me enough to leave me a lifetime of memories and beauty.\" \n\nKyle, a Navy SEAL, has been credited as the most successful sniper in United States military history. Bradley Cooper was nominated for an Academy Award for his portrayal of Kyle in this winter's film \"American Sniper,\" which was based on Kyle's bestselling autobiography. \n\nThe film, directed by Clint Eastwood, has become the highest-grossing war movie ever. \n\nWhy 'American Sniper' is a smash hit \n\nKyle and his friend Chad Littlefield were shot and killed at a gun range in 2013 by Eddie Ray Routh. A Texas jury found Routh guilty of capital murder in February, and he was sentenced to life in prison without the possibility of parole. \n\nJury finds Eddie Ray Routh guilty in 'American Sniper' case \n\n",
+        "question": "how?",
+        "label": "shot",
+        "additional_answers": [
+            "shot",
+            "he was shot and killed at a gun range",
+            "at a gun range in 2013 by Eddie Ray Routh"
+        ]
+    }
+]

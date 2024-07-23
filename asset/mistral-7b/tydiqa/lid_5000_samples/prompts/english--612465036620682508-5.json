@@ -1,0 +1,15 @@
+[
+    [
+        1593,
+        [],
+        "1883"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Boxing record books show Fitzsimmons officially began boxing professionally in 1883, in Australia. He beat Jim Crawford there by getting a knockout in three rounds. Fitzsimmons had his first 28 definite professional fights in Australia, where he lost the Australian Middleweight title to Mick Dooley (rumours spoke of a fixed bout) and where he also won a fight by knockout while on the floor: when Edward Starlight Robins dropped Fitzsimmons to the canvas in round nine of their fight, he also broke his hand and could not continue, therefore the referee declared Fitzsimmons the winner by a knockout. Question: When did Bob Fitzsimmons start professional boxing? Answer:",
+    {
+        "id": "english--612465036620682508-5",
+        "lang": "english",
+        "summary": "Boxing record books show Fitzsimmons officially began boxing professionally in 1883, in Australia. He beat Jim Crawford there by getting a knockout in three rounds. Fitzsimmons had his first 28 definite professional fights in Australia, where he lost the Australian Middleweight title to Mick Dooley (rumours spoke of a fixed bout) and where he also won a fight by knockout while on the floor: when Edward Starlight Robins dropped Fitzsimmons to the canvas in round nine of their fight, he also broke his hand and could not continue, therefore the referee declared Fitzsimmons the winner by a knockout.",
+        "question": "When did Bob Fitzsimmons start professional boxing?",
+        "label": "1883"
+    }
+]

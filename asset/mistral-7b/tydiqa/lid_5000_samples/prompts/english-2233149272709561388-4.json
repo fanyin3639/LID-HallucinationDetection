@@ -1,0 +1,15 @@
+[
+    [
+        1957,
+        [],
+        "541 kilometres (336mi)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Estimates of the length of the course of the Castlereagh River from its commencement to its mouth vary from 541 kilometres (336mi),[2] 549km,[3] and 566km.[1]  Over its course it drops over 600m. Question: How long is the Castlereagh River in New South Wales? Answer:",
+    {
+        "id": "english-2233149272709561388-4",
+        "lang": "english",
+        "summary": "Estimates of the length of the course of the Castlereagh River from its commencement to its mouth vary from 541 kilometres (336mi),[2] 549km,[3] and 566km.[1]  Over its course it drops over 600m.",
+        "question": "How long is the Castlereagh River in New South Wales?",
+        "label": "541 kilometres (336mi)"
+    }
+]

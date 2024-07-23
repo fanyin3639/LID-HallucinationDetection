@@ -1,0 +1,15 @@
+[
+    [
+        39,
+        [],
+        "160 miles"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage:   The England\u2013Wales border, sometimes referred to as the Wales\u2013England border or the Anglo-Welsh border, is the border between England and Wales, two constituent countries of the United Kingdom.[1][2] It runs for 160 miles (260km)[3] from the Dee estuary, in the north, to the Severn estuary in the south.  It has followed broadly the same line since the 8th century, and in part that of Offa's Dyke; the modern boundary was fixed in 1536, when the former marcher lordships which occupied the border area were abolished and new county boundaries were created. Question: How long is the England\u2013Wales border? Answer:",
+    {
+        "id": "english-1976960059016911908-0",
+        "lang": "english",
+        "summary": "  The England\u2013Wales border, sometimes referred to as the Wales\u2013England border or the Anglo-Welsh border, is the border between England and Wales, two constituent countries of the United Kingdom.[1][2] It runs for 160 miles (260km)[3] from the Dee estuary, in the north, to the Severn estuary in the south.  It has followed broadly the same line since the 8th century, and in part that of Offa's Dyke; the modern boundary was fixed in 1536, when the former marcher lordships which occupied the border area were abolished and new county boundaries were created.",
+        "question": "How long is the England\u2013Wales border?",
+        "label": "160 miles"
+    }
+]

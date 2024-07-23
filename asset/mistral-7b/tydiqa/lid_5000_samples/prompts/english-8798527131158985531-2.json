@@ -1,0 +1,15 @@
+[
+    [
+        2311,
+        [],
+        "Sugako Hashida"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Oshin is based on the fictional biography of a Japanese woman, modeled after the mother of Kazuo Wada, a Japanese businessman who created Yaohan, a Japanese supermarket chain. The structure of the story was developed through a collection of anonymous letters assembled by Sugako Hashida(\u6a4b\u7530\u58fd\u8cc0\u5b50,Hashida Sugako). \"It is the untellable past of a woman of the Meiji period, composed right on her deathbed,\" Hashida said. \"I felt that the telling of her hardships while serving as an apprentice and being sold at a brothel was an obligation our generation needed to honor. However, the themes were so harsh and dark that the show was rejected by every [Japanese] television network. Even NHK opposed it.\u201d Hashida said she was told \"We can't confront Meiji issues.\" It was settled when then-station director Mikio Kawaguchi(\u5ddd\u53e3\u5e79\u592b,Kawaguchi Mikio) gave his approval.[1] Question: Who created the TV show Oshin? Answer:",
+    {
+        "id": "english-8798527131158985531-2",
+        "lang": "english",
+        "summary": "Oshin is based on the fictional biography of a Japanese woman, modeled after the mother of Kazuo Wada, a Japanese businessman who created Yaohan, a Japanese supermarket chain. The structure of the story was developed through a collection of anonymous letters assembled by Sugako Hashida(\u6a4b\u7530\u58fd\u8cc0\u5b50,Hashida Sugako). \"It is the untellable past of a woman of the Meiji period, composed right on her deathbed,\" Hashida said. \"I felt that the telling of her hardships while serving as an apprentice and being sold at a brothel was an obligation our generation needed to honor. However, the themes were so harsh and dark that the show was rejected by every [Japanese] television network. Even NHK opposed it.\u201d Hashida said she was told \"We can't confront Meiji issues.\" It was settled when then-station director Mikio Kawaguchi(\u5ddd\u53e3\u5e79\u592b,Kawaguchi Mikio) gave his approval.[1]",
+        "question": "Who created the TV show Oshin?",
+        "label": "Sugako Hashida"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2888,
+        [],
+        "Federico Faggin"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The chip design started in April 1970, when Federico Faggin joined Intel, and was completed under his leadership in January 1971.  The first commercial sale of the fully operational 4004 occurred in March 1971 to Busicom Corp. of Japan for which it was originally designed and built as a custom chip.[3] In mid-November of the same year, with the prophetic ad \"Announcing a new era in integrated electronics\", the 4004 was made commercially available to the general market. The 4004 was the first commercially available monolithic processor, fully integrated in one small chip. Such a feat of integration was made possible by the use of the then-new silicon gate technology for integrated circuits, originally developed by Faggin (with Tom Klein) at Fairchild Semiconductor in 1968, which allowed twice the number of random-logic transistors and an increase in speed by a factor of five compared to the incumbent MOS aluminum gate technology.[4] Faggin also invented the bootstrap load with silicon gate and the \u201cburied contact\u201d, improving speed and circuit density compared with aluminum gate.[5][6][7][8][9] Question: Who developed the first CPU? Answer:",
+    {
+        "id": "english-5923185285941335556-1",
+        "lang": "english",
+        "summary": "The chip design started in April 1970, when Federico Faggin joined Intel, and was completed under his leadership in January 1971.  The first commercial sale of the fully operational 4004 occurred in March 1971 to Busicom Corp. of Japan for which it was originally designed and built as a custom chip.[3] In mid-November of the same year, with the prophetic ad \"Announcing a new era in integrated electronics\", the 4004 was made commercially available to the general market. The 4004 was the first commercially available monolithic processor, fully integrated in one small chip. Such a feat of integration was made possible by the use of the then-new silicon gate technology for integrated circuits, originally developed by Faggin (with Tom Klein) at Fairchild Semiconductor in 1968, which allowed twice the number of random-logic transistors and an increase in speed by a factor of five compared to the incumbent MOS aluminum gate technology.[4] Faggin also invented the bootstrap load with silicon gate and the \u201cburied contact\u201d, improving speed and circuit density compared with aluminum gate.[5][6][7][8][9]",
+        "question": "Who developed the first CPU?",
+        "label": "Federico Faggin"
+    }
+]

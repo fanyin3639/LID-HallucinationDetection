@@ -1,0 +1,15 @@
+[
+    [
+        238,
+        [],
+        "WFRV-TV"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: WFRV-TV, virtual channel 5 (UHF digital channel 39), is a CBS-affiliated television station licensed to Green Bay, Wisconsin, United States. The station is owned by the Nexstar Media Group. WFRV's studios are located on East Mason Street in the City of Green Bay, and its transmitter is located north of Morrison. On cable, WFRV is available on Charter Spectrum channel 6 and in high definition on digital channel 1006. Question: What is the CBS-affiliated TV station for Green Bay, WI? Answer:",
+    {
+        "id": "english--7198568690822443860-0",
+        "lang": "english",
+        "summary": "WFRV-TV, virtual channel 5 (UHF digital channel 39), is a CBS-affiliated television station licensed to Green Bay, Wisconsin, United States. The station is owned by the Nexstar Media Group. WFRV's studios are located on East Mason Street in the City of Green Bay, and its transmitter is located north of Morrison. On cable, WFRV is available on Charter Spectrum channel 6 and in high definition on digital channel 1006.",
+        "question": "What is the CBS-affiliated TV station for Green Bay, WI?",
+        "label": "WFRV-TV"
+    }
+]

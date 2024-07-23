@@ -1,0 +1,15 @@
+[
+    [
+        299,
+        [],
+        "1929"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The club is one of three founding members of the Primera Divisi\u00f3n that have never been relegated from the top division since its inception in 1929, the others being Real Madrid and Barcelona. Athletic have won La Liga on eight occasions, fourth most in the history of the league. In the table of Copa del Rey titles, Athletic is second only to Barcelona, having won it 24 times (per the team's official records; the Royal Spanish Football Federation (RFEF) recognizes 23 victories). The club also has one of the most successful women's teams in Spain, which has won five championships in the Primera Divisi\u00f3n Femenina. Question: When was Athletic Bilbao established? Answer:",
+    {
+        "id": "english--2922602029552719336-2",
+        "lang": "english",
+        "summary": "The club is one of three founding members of the Primera Divisi\u00f3n that have never been relegated from the top division since its inception in 1929, the others being Real Madrid and Barcelona. Athletic have won La Liga on eight occasions, fourth most in the history of the league. In the table of Copa del Rey titles, Athletic is second only to Barcelona, having won it 24 times (per the team's official records; the Royal Spanish Football Federation (RFEF) recognizes 23 victories). The club also has one of the most successful women's teams in Spain, which has won five championships in the Primera Divisi\u00f3n Femenina.",
+        "question": "When was Athletic Bilbao established?",
+        "label": "1929"
+    }
+]

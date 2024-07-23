@@ -1,0 +1,15 @@
+[
+    [
+        1792,
+        [],
+        "Chamonix, France"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 1924 Winter Olympics, officially known as the I Olympic Winter Games (French: Les Iers Jeux olympiques d'hiver), were a winter multi-sport event which was held in 1924 in Chamonix, France. Originally held in association with the 1924 Summer Olympics, the sports competitions were held at the foot of Mont Blanc in Chamonix, and Haute-Savoie, France between January 25 and February 5, 1924.[1]  The Games were organized by the French Olympic Committee, and were in retrospect designated by the International Olympic Committee (IOC) as the I Olympic Winter Games. Question: When were the first Winter Olympics? Answer:",
+    {
+        "id": "english--809166079872391394-0",
+        "lang": "english",
+        "summary": "The 1924 Winter Olympics, officially known as the I Olympic Winter Games (French: Les Iers Jeux olympiques d'hiver), were a winter multi-sport event which was held in 1924 in Chamonix, France. Originally held in association with the 1924 Summer Olympics, the sports competitions were held at the foot of Mont Blanc in Chamonix, and Haute-Savoie, France between January 25 and February 5, 1924.[1]  The Games were organized by the French Olympic Committee, and were in retrospect designated by the International Olympic Committee (IOC) as the I Olympic Winter Games.",
+        "question": "When were the first Winter Olympics?",
+        "label": "Chamonix, France"
+    }
+]

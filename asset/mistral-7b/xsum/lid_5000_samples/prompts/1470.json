@@ -1,0 +1,14 @@
+[
+    [
+        1470,
+        [],
+        "A treasurer who embezzled more than \u00a312,000 from a Borders festival has been given a community payback order with 200 hours of unpaid work."
+    ],
+    "Write a short summary for the following passage:\nJedburgh Sheriff Court heard how gambling addict Alison McWilliam, 55, had run up a \u00a315,000 debt.\nAt first she told Duns Summer Festival committee the missing money was a mistake, but later confessed her crime.\nMcWilliam, of Gavinton, admitted embezzling \u00a312,375 between February and June last year.\nThe court heard she had now repaid the money she had taken.\nShe had been a member of the festival committee for 15 years and had been treasurer for eight years.\nSummary:\n",
+    {
+        "id": 1470,
+        "document": "Jedburgh Sheriff Court heard how gambling addict Alison McWilliam, 55, had run up a \u00a315,000 debt.\nAt first she told Duns Summer Festival committee the missing money was a mistake, but later confessed her crime.\nMcWilliam, of Gavinton, admitted embezzling \u00a312,375 between February and June last year.\nThe court heard she had now repaid the money she had taken.\nShe had been a member of the festival committee for 15 years and had been treasurer for eight years.",
+        "summary": "A treasurer who embezzled more than \u00a312,000 from a Borders festival has been given a community payback order with 200 hours of unpaid work.",
+        "label": "A treasurer who embezzled more than \u00a312,000 from a Borders festival has been given a community payback order with 200 hours of unpaid work."
+    }
+]

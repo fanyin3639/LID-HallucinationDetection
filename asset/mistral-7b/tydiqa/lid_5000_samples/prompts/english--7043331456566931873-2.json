@@ -1,0 +1,15 @@
+[
+    [
+        1351,
+        [],
+        "six parties"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Russian Federation has a multi-party system. As of 2018 six parties have members in the federal parliament, the State Duma, with one dominant party (United Russia). Question: How many political parties are in Russia? Answer:",
+    {
+        "id": "english--7043331456566931873-2",
+        "lang": "english",
+        "summary": "The Russian Federation has a multi-party system. As of 2018 six parties have members in the federal parliament, the State Duma, with one dominant party (United Russia).",
+        "question": "How many political parties are in Russia?",
+        "label": "six parties"
+    }
+]

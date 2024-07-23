@@ -1,0 +1,14 @@
+[
+    [
+        1505,
+        [],
+        "(Close): A rise in commodities stocks helped nudge the FTSE 100 into positive territory by the end of trading."
+    ],
+    "Write a short summary for the following passage:\nMining shares were again among the market's best gainers, with Anglo American and Antofagasta rising 5% and 1.5% respectively.\nThe FTSE 100 closed 0.08%, or 4.9 points higher, at 6410.26.\nUnemployment data showing a small rise in the jobless totals, sparked a small fall for the pound but overall had little effect.\nOil prices rose 2% leaving Brent crude at $44.93 a barrel and US crude oil at $43.31 a barrel.\nArm shares fell 1%, despite it reporting a 14% rise in profits. It provides chip designs for Apple, Samsung and Huawei.\nIn smaller stocks, shares in N Brown, the plus-size clothing chain, closed down 12.9% after its results.\nPunch Taverns shares closed 11.9% higher after it reported a 3% rise in profit margins.\nThe firm also said it had sold off a number of pubs to help cut its debt from \u00c2\u00a31.4bn.\nOn the currency markets, the pound was down 0.08% against the dollar to $1.4387, and was 0.14% higher against the euro at \u00e2\u201a\u00ac1.2696.\nSummary:\n",
+    {
+        "id": 1505,
+        "document": "Mining shares were again among the market's best gainers, with Anglo American and Antofagasta rising 5% and 1.5% respectively.\nThe FTSE 100 closed 0.08%, or 4.9 points higher, at 6410.26.\nUnemployment data showing a small rise in the jobless totals, sparked a small fall for the pound but overall had little effect.\nOil prices rose 2% leaving Brent crude at $44.93 a barrel and US crude oil at $43.31 a barrel.\nArm shares fell 1%, despite it reporting a 14% rise in profits. It provides chip designs for Apple, Samsung and Huawei.\nIn smaller stocks, shares in N Brown, the plus-size clothing chain, closed down 12.9% after its results.\nPunch Taverns shares closed 11.9% higher after it reported a 3% rise in profit margins.\nThe firm also said it had sold off a number of pubs to help cut its debt from \u00c2\u00a31.4bn.\nOn the currency markets, the pound was down 0.08% against the dollar to $1.4387, and was 0.14% higher against the euro at \u00e2\u201a\u00ac1.2696.",
+        "summary": "(Close): A rise in commodities stocks helped nudge the FTSE 100 into positive territory by the end of trading.",
+        "label": "(Close): A rise in commodities stocks helped nudge the FTSE 100 into positive territory by the end of trading."
+    }
+]

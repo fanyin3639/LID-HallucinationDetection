@@ -1,0 +1,15 @@
+[
+    [
+        2581,
+        [],
+        "July 2003"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Facebook is a social networking service launched in July 2003, as FaceMash, later changing to TheFacebook on February 4, 2004.[1] It was founded by Mark Zuckerberg with his college roommate and fellow Harvard University student Eduardo Saverin.[2] The website's membership was initially limited by the founders to Harvard students, but was expanded to other colleges in the Boston area, the Ivy League,[3] and gradually most universities in the United States and Canada,[4][5] corporations,[6] and by September 2006, to everyone with a valid email address along with an age requirement of being 13 and older.[7][8] Question: When was Facebook created? Answer:",
+    {
+        "id": "english--8534557385112672832-0",
+        "lang": "english",
+        "summary": "Facebook is a social networking service launched in July 2003, as FaceMash, later changing to TheFacebook on February 4, 2004.[1] It was founded by Mark Zuckerberg with his college roommate and fellow Harvard University student Eduardo Saverin.[2] The website's membership was initially limited by the founders to Harvard students, but was expanded to other colleges in the Boston area, the Ivy League,[3] and gradually most universities in the United States and Canada,[4][5] corporations,[6] and by September 2006, to everyone with a valid email address along with an age requirement of being 13 and older.[7][8]",
+        "question": "When was Facebook created?",
+        "label": "July 2003"
+    }
+]

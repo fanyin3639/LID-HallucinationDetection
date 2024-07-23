@@ -1,0 +1,15 @@
+[
+    [
+        2362,
+        [],
+        "Air Commodore Edward A D Masterman CB CMG CBE AFC RAF (Rtd)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1929 the control of the Observer Corps passed from the county police forces to the Air Ministry, although Chief Constables retained responsibility for personnel and recruitment matters. 1 March 1929 saw the establishment of the new Headquarters of the Observer Corps at Hillingdon House, RAF Uxbridge in the west of London, and Air Commodore Edward A D Masterman CB CMG CBE AFC RAF (Rtd) was appointed as the first commandant of the Observer Corps. Air Cdre Masterman held this appointment until his retirement on 1 March 1936, and was succeeded by Air Commodore Alfred Warrington-Morris CG CMG OBE AFC RAF (Rtd), who would lead the Observer Corps through the critical period during the Second World War which saw the RAF emerge bruised but victorious following the Battle of Britain of 1940. Question: Who was first commander of the Royal Observer Corps? Answer:",
+    {
+        "id": "english--6989887597575388689-11",
+        "lang": "english",
+        "summary": "In 1929 the control of the Observer Corps passed from the county police forces to the Air Ministry, although Chief Constables retained responsibility for personnel and recruitment matters. 1 March 1929 saw the establishment of the new Headquarters of the Observer Corps at Hillingdon House, RAF Uxbridge in the west of London, and Air Commodore Edward A D Masterman CB CMG CBE AFC RAF (Rtd) was appointed as the first commandant of the Observer Corps. Air Cdre Masterman held this appointment until his retirement on 1 March 1936, and was succeeded by Air Commodore Alfred Warrington-Morris CG CMG OBE AFC RAF (Rtd), who would lead the Observer Corps through the critical period during the Second World War which saw the RAF emerge bruised but victorious following the Battle of Britain of 1940.",
+        "question": "Who was first commander of the Royal Observer Corps?",
+        "label": "Air Commodore Edward A D Masterman CB CMG CBE AFC RAF (Rtd)"
+    }
+]

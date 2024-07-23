@@ -1,0 +1,15 @@
+[
+    [
+        2919,
+        [],
+        "11 family members"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: James Urban Ruppert (born March 29, 1934), is an American murderer, who was responsible for one of the deadliest shootings inside a private residence in US history.[1] On Easter Sunday, March 30, 1975, Ruppert murdered 11 family members in his mother's house at 635 Minor Avenue in Hamilton, Ohio in what has been referred to as the \"Easter Sunday Massacre.\"[2] He is serving two life sentences at the Allen Oakwood Correctional Institution in Lima, Ohio. Question: Who did Rupert murder? Answer:",
+    {
+        "id": "english--2916438153210018471-0",
+        "lang": "english",
+        "summary": "James Urban Ruppert (born March 29, 1934), is an American murderer, who was responsible for one of the deadliest shootings inside a private residence in US history.[1] On Easter Sunday, March 30, 1975, Ruppert murdered 11 family members in his mother's house at 635 Minor Avenue in Hamilton, Ohio in what has been referred to as the \"Easter Sunday Massacre.\"[2] He is serving two life sentences at the Allen Oakwood Correctional Institution in Lima, Ohio.",
+        "question": "Who did Rupert murder?",
+        "label": "11 family members"
+    }
+]

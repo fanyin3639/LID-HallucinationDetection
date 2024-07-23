@@ -1,0 +1,15 @@
+[
+    [
+        1408,
+        [],
+        "more than 7,800"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Cockrell School of Engineering at the University of Texas at Austin has more than 7,800 students enrolled in nine undergraduate degrees and thirteen graduate programs. The college is ranked fourth in the world according to the Academic Ranking of World Universities[2] and eighth nationally by U.S. News & World Report,[3] while all graduate programs are ranked in the top twenty nationally.[4]  Annual research expenditures are over $150 million and the school has the fourth-largest number of faculty in the National Academy of Engineering.[5][6] Question: How many students are enrolled at UT's Cockrell School of Engineering? Answer:",
+    {
+        "id": "english-2998993715309599812-0",
+        "lang": "english",
+        "summary": "The Cockrell School of Engineering at the University of Texas at Austin has more than 7,800 students enrolled in nine undergraduate degrees and thirteen graduate programs. The college is ranked fourth in the world according to the Academic Ranking of World Universities[2] and eighth nationally by U.S. News & World Report,[3] while all graduate programs are ranked in the top twenty nationally.[4]  Annual research expenditures are over $150 million and the school has the fourth-largest number of faculty in the National Academy of Engineering.[5][6]",
+        "question": "How many students are enrolled at UT's Cockrell School of Engineering?",
+        "label": "more than 7,800"
+    }
+]

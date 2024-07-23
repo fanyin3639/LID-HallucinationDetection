@@ -1,0 +1,15 @@
+[
+    [
+        860,
+        [],
+        "1769"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1769 the first steam-powered automobile capable of human transportation was built by Nicolas-Joseph Cugnot.[1] Question: When was the car first invented? Answer:",
+    {
+        "id": "english-7440339353353102372-1",
+        "lang": "english",
+        "summary": "In 1769 the first steam-powered automobile capable of human transportation was built by Nicolas-Joseph Cugnot.[1]",
+        "question": "When was the car first invented?",
+        "label": "1769"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        776,
+        [],
+        "Hull City midfielder Markus Henriksen's loan move from AZ Alkmaar has been made permanent."
+    ],
+    "Write a short summary for the following passage:\nThe Norwegian joined initially on 1 September and has now signed a two-and-a-half-year deal.\nThe 24-year-old has made 11 Premier League and three EFL Cup appearances for the Premier League's bottom club.\n\"It feels very good,\" said Henriksen. \"My form has been up and down so far, but hopefully I can show everybody my best.\"\nHe joins a day after the Premier League's bottom club appointed Marco Silva as their new manager.\n\"The training was very good, done at high intensity and he is very clear on how he wants us to play,\" added Henriksen.\n\"He wants us to work as a unit and he has made it clear that we are all in this together. We're all fighting towards achieving the same goal.\"\nSummary:\n",
+    {
+        "id": 776,
+        "document": "The Norwegian joined initially on 1 September and has now signed a two-and-a-half-year deal.\nThe 24-year-old has made 11 Premier League and three EFL Cup appearances for the Premier League's bottom club.\n\"It feels very good,\" said Henriksen. \"My form has been up and down so far, but hopefully I can show everybody my best.\"\nHe joins a day after the Premier League's bottom club appointed Marco Silva as their new manager.\n\"The training was very good, done at high intensity and he is very clear on how he wants us to play,\" added Henriksen.\n\"He wants us to work as a unit and he has made it clear that we are all in this together. We're all fighting towards achieving the same goal.\"",
+        "summary": "Hull City midfielder Markus Henriksen's loan move from AZ Alkmaar has been made permanent.",
+        "label": "Hull City midfielder Markus Henriksen's loan move from AZ Alkmaar has been made permanent."
+    }
+]

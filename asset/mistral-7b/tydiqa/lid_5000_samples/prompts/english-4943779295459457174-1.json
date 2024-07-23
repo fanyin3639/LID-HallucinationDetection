@@ -1,0 +1,15 @@
+[
+    [
+        809,
+        [],
+        "South Africa"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Platinum is a member of the platinum group of elements and group 10 of the periodic table of elements. It has six naturally occurring isotopes. It is one of the rarer elements in Earth's crust, with an average abundance of approximately 5\u03bcg/kg. It occurs in some nickel and copper ores along with some native deposits, mostly in South Africa, which accounts for 80% of the world production. Because of its scarcity in Earth's crust, only a few hundred tonnes are produced annually, and given its important uses, it is highly valuable and is a major precious metal commodity.[5] Question: Where is platinum most abundant? Answer:",
+    {
+        "id": "english-4943779295459457174-1",
+        "lang": "english",
+        "summary": "Platinum is a member of the platinum group of elements and group 10 of the periodic table of elements. It has six naturally occurring isotopes. It is one of the rarer elements in Earth's crust, with an average abundance of approximately 5\u03bcg/kg. It occurs in some nickel and copper ores along with some native deposits, mostly in South Africa, which accounts for 80% of the world production. Because of its scarcity in Earth's crust, only a few hundred tonnes are produced annually, and given its important uses, it is highly valuable and is a major precious metal commodity.[5]",
+        "question": "Where is platinum most abundant?",
+        "label": "South Africa"
+    }
+]

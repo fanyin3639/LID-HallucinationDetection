@@ -1,0 +1,15 @@
+[
+    [
+        2458,
+        [],
+        "Steelers"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Super Bowl XL was an American football game between the National Football Conference (NFC) champion Seattle Seahawks and the American Football Conference (AFC) champion Pittsburgh Steelers to decide the National Football League (NFL) champion for the 2005 season. The Steelers defeated the Seahawks by the score of 21\u201310. The game was played on February 5, 2006 at Ford Field in Detroit, Michigan. Question: Who won the Super Bowl in 2006? Answer:",
+    {
+        "id": "english-6413566052133482251-0",
+        "lang": "english",
+        "summary": "Super Bowl XL was an American football game between the National Football Conference (NFC) champion Seattle Seahawks and the American Football Conference (AFC) champion Pittsburgh Steelers to decide the National Football League (NFL) champion for the 2005 season. The Steelers defeated the Seahawks by the score of 21\u201310. The game was played on February 5, 2006 at Ford Field in Detroit, Michigan.",
+        "question": "Who won the Super Bowl in 2006?",
+        "label": "Steelers"
+    }
+]

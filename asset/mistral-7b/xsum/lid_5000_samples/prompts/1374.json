@@ -1,0 +1,14 @@
+[
+    [
+        1374,
+        [],
+        "Internal photographs have revealed the extent of the damage to a 16th Century hall in Manchester severely damaged in a suspected arson attack."
+    ],
+    "Write a short summary for the following passage:\nThe roof and upper floor of the Tudor-era Wythenshawe Hall was badly damaged in a blaze on 15 March that was tackled by 50 firefighters.\nJeremy Taylor, 26, of Wythenshawe, has been charged with arson.\nManchester City Council has released photographs showing shattered stained glass windows and blackened beams.\nThe authority said \"crucial archaeological work\" is taking place at the timber-framed mansion, which was built in 1540.\nIt was home to the Tatton family for about 400 years.\nSource: Friends of Wythenshawe Hall\nSummary:\n",
+    {
+        "id": 1374,
+        "document": "The roof and upper floor of the Tudor-era Wythenshawe Hall was badly damaged in a blaze on 15 March that was tackled by 50 firefighters.\nJeremy Taylor, 26, of Wythenshawe, has been charged with arson.\nManchester City Council has released photographs showing shattered stained glass windows and blackened beams.\nThe authority said \"crucial archaeological work\" is taking place at the timber-framed mansion, which was built in 1540.\nIt was home to the Tatton family for about 400 years.\nSource: Friends of Wythenshawe Hall",
+        "summary": "Internal photographs have revealed the extent of the damage to a 16th Century hall in Manchester severely damaged in a suspected arson attack.",
+        "label": "Internal photographs have revealed the extent of the damage to a 16th Century hall in Manchester severely damaged in a suspected arson attack."
+    }
+]

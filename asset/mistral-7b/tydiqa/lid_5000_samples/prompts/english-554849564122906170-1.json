@@ -1,0 +1,15 @@
+[
+    [
+        2696,
+        [],
+        "Devon Horse Show"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Since 1896, the Devon Horse Show is the oldest and largest outdoor multi-breed horse competition in the United States. The Annual Horse show and Country Fair promotes horsemanship and horse breeding for conformation, performance and speed. The original ideas and activities of the show have changed dramatically over the decades. The show attracts people from all over the world, as both competitors and spectators. Question: What is the world's largest horse show? Answer:",
+    {
+        "id": "english-554849564122906170-1",
+        "lang": "english",
+        "summary": "Since 1896, the Devon Horse Show is the oldest and largest outdoor multi-breed horse competition in the United States. The Annual Horse show and Country Fair promotes horsemanship and horse breeding for conformation, performance and speed. The original ideas and activities of the show have changed dramatically over the decades. The show attracts people from all over the world, as both competitors and spectators.",
+        "question": "What is the world's largest horse show?",
+        "label": "Devon Horse Show"
+    }
+]

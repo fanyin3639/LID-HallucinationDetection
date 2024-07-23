@@ -1,0 +1,14 @@
+[
+    [
+        1570,
+        [],
+        "A full peal of bells has been rung at a church in a Wiltshire village that was abandoned during World War II."
+    ],
+    "Write a short summary for the following passage:\nThe bells were rung at St Giles Church, in Imber, on Salisbury Plain, which was abandoned and taken over by troops for training in 1943.\nIt will be the fourth time a full peal has been rung since a new set of six bells was re-hung in August 2010.\nThe original bells were taken out in 1950. Bell ringers from Devon took part in Monday's peal.\nHonorary custodian of the church, Neil Skelton, said: \"Only one full peal of bells was ever rung on the church's original bells, in 1923, and that was rung by a band of ringers from Trowbridge.\n\"We have the church open for about 20 days a year now, depending on what access the Ministry of Defence grants us.\"\nThe entire civilian population of the village was ordered to leave in December 1943 to provide a training area for American troops preparing for the invasion of Europe during World War II.\nThey were never allowed to return.\nSince 2005, when the church was taken over by the Churches Conservation Trust, more than \u00c2\u00a3300,000 has been spent on renovations.\nSummary:\n",
+    {
+        "id": 1570,
+        "document": "The bells were rung at St Giles Church, in Imber, on Salisbury Plain, which was abandoned and taken over by troops for training in 1943.\nIt will be the fourth time a full peal has been rung since a new set of six bells was re-hung in August 2010.\nThe original bells were taken out in 1950. Bell ringers from Devon took part in Monday's peal.\nHonorary custodian of the church, Neil Skelton, said: \"Only one full peal of bells was ever rung on the church's original bells, in 1923, and that was rung by a band of ringers from Trowbridge.\n\"We have the church open for about 20 days a year now, depending on what access the Ministry of Defence grants us.\"\nThe entire civilian population of the village was ordered to leave in December 1943 to provide a training area for American troops preparing for the invasion of Europe during World War II.\nThey were never allowed to return.\nSince 2005, when the church was taken over by the Churches Conservation Trust, more than \u00c2\u00a3300,000 has been spent on renovations.",
+        "summary": "A full peal of bells has been rung at a church in a Wiltshire village that was abandoned during World War II.",
+        "label": "A full peal of bells has been rung at a church in a Wiltshire village that was abandoned during World War II."
+    }
+]

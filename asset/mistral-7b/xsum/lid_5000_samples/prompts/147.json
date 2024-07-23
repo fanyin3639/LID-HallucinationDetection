@@ -1,0 +1,14 @@
+[
+    [
+        147,
+        [],
+        "A woman has been sexually assaulted while walking through a park in Sheffield, police have said."
+    ],
+    "Write a short summary for the following passage:\nThe 21-year-old was attacked between 22:35 and 23:00 GMT on Monday in Weston Park.\nSouth Yorkshire Police has launched an investigation and a large cordon has been put in place at the site in Western Bank.\nExtra police patrols are taking place in the area and witnesses are urged to come forward with information.\nMore on this story from BBC Sheffield and South Yorkshire\nAudrey Leadley, head of student support at the University of Sheffield nearby, said: \"We are extremely concerned by the news of a sexual assault taking place in Weston Park last night and will support South Yorkshire Police in their investigations in any way we can.\n\"The safety and welfare of our students and staff is paramount.\n\"The University will offer support to any students or staff affected by this and will re-issue important safety advice to our students in light of this attack.\"\nSummary:\n",
+    {
+        "id": 147,
+        "document": "The 21-year-old was attacked between 22:35 and 23:00 GMT on Monday in Weston Park.\nSouth Yorkshire Police has launched an investigation and a large cordon has been put in place at the site in Western Bank.\nExtra police patrols are taking place in the area and witnesses are urged to come forward with information.\nMore on this story from BBC Sheffield and South Yorkshire\nAudrey Leadley, head of student support at the University of Sheffield nearby, said: \"We are extremely concerned by the news of a sexual assault taking place in Weston Park last night and will support South Yorkshire Police in their investigations in any way we can.\n\"The safety and welfare of our students and staff is paramount.\n\"The University will offer support to any students or staff affected by this and will re-issue important safety advice to our students in light of this attack.\"",
+        "summary": "A woman has been sexually assaulted while walking through a park in Sheffield, police have said.",
+        "label": "A woman has been sexually assaulted while walking through a park in Sheffield, police have said."
+    }
+]

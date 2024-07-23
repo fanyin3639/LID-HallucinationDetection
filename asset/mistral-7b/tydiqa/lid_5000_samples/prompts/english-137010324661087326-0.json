@@ -1,0 +1,15 @@
+[
+    [
+        2379,
+        [],
+        "130km/h"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: General speed limits in Germany are set by the federal government. All limits are multiples of 5km/h. There are two default speed limits: 50km/h (31mph) inside built-up areas and  100km/h (62mph) outside built-up areas. While parts of the autobahns and many other freeway-style highways have posted limits up to 130km/h (81mph) based on accident experience, congestion and other factors, many rural sections have no general speed limit. The German Highway Code (Stra\u00dfenverkehrsordnung) section on speed begins with the requirement [1] which may be rendered in English: Question: How fast can you drive on the Autobahn? Answer:",
+    {
+        "id": "english-137010324661087326-0",
+        "lang": "english",
+        "summary": "General speed limits in Germany are set by the federal government. All limits are multiples of 5km/h. There are two default speed limits: 50km/h (31mph) inside built-up areas and  100km/h (62mph) outside built-up areas. While parts of the autobahns and many other freeway-style highways have posted limits up to 130km/h (81mph) based on accident experience, congestion and other factors, many rural sections have no general speed limit. The German Highway Code (Stra\u00dfenverkehrsordnung) section on speed begins with the requirement [1] which may be rendered in English:",
+        "question": "How fast can you drive on the Autobahn?",
+        "label": "130km/h"
+    }
+]

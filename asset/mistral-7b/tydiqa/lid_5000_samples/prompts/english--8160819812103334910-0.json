@@ -1,0 +1,15 @@
+[
+    [
+        925,
+        [],
+        "March 4, 1965"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Khaled Hosseini (Persian: \u062e\u0627\u0644\u062f \u062d\u0633\u06cc\u0646\u06cc\u200e [\u02c8x\u0252led ho\u02c8sejni]; /\u02c8h\u0251\u02d0l\u025bdho\u028a\u02c8se\u026ani/; born March 4, 1965) is an Afghan-born American novelist and physician.[1][2] After graduating from college, he worked as a doctor in California, a predicament that he likened to \"an arranged marriage.\"[3] He has published three novels, most notably his 2003 debut The Kite Runner, all of which are at least partially set in Afghanistan and feature an Afghan as the protagonist. Following the success of The Kite Runner he retired from medicine to write full-time. Question: When was Khaled Hosseini born? Answer:",
+    {
+        "id": "english--8160819812103334910-0",
+        "lang": "english",
+        "summary": "Khaled Hosseini (Persian: \u062e\u0627\u0644\u062f \u062d\u0633\u06cc\u0646\u06cc\u200e [\u02c8x\u0252led ho\u02c8sejni]; /\u02c8h\u0251\u02d0l\u025bdho\u028a\u02c8se\u026ani/; born March 4, 1965) is an Afghan-born American novelist and physician.[1][2] After graduating from college, he worked as a doctor in California, a predicament that he likened to \"an arranged marriage.\"[3] He has published three novels, most notably his 2003 debut The Kite Runner, all of which are at least partially set in Afghanistan and feature an Afghan as the protagonist. Following the success of The Kite Runner he retired from medicine to write full-time.",
+        "question": "When was Khaled Hosseini born?",
+        "label": "March 4, 1965"
+    }
+]

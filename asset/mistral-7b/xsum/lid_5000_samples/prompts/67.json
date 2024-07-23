@@ -1,0 +1,14 @@
+[
+    [
+        67,
+        [],
+        "A steam train driver was forced to brake on a well-known Highland viaduct after spotting two older women standing dangerously close to the line."
+    ],
+    "Write a short summary for the following passage:\nBritish Transport Police (BTP) said the incident happened on the Glenfinnan Viaduct in Lochaber on 21 March.\nThe driver also reported narrowly missing a man who had been standing on the railway with a camera tripod in the same incident.\nThe Glenfinnan Viaduct has featured in scenes for Harry Potter films.\nThe steam train was crossing the viaduct as it travelled between Fort William and Mallaig.\nMatt O'Neill, of BTP in Inverness, said: \"There may be some iconic scenery and wonderful vistas in this part of the world.\n\"While we don't want to spoil anyone's pleasure, people must be aware that trespassing on the railway line remains a criminal offence and the potential consequences do not bear thinking about.\"\nBTP said it had also found out that local people were using the line between Edderton and Ardgay in Sutherland as a shortcut.\nSummary:\n",
+    {
+        "id": 67,
+        "document": "British Transport Police (BTP) said the incident happened on the Glenfinnan Viaduct in Lochaber on 21 March.\nThe driver also reported narrowly missing a man who had been standing on the railway with a camera tripod in the same incident.\nThe Glenfinnan Viaduct has featured in scenes for Harry Potter films.\nThe steam train was crossing the viaduct as it travelled between Fort William and Mallaig.\nMatt O'Neill, of BTP in Inverness, said: \"There may be some iconic scenery and wonderful vistas in this part of the world.\n\"While we don't want to spoil anyone's pleasure, people must be aware that trespassing on the railway line remains a criminal offence and the potential consequences do not bear thinking about.\"\nBTP said it had also found out that local people were using the line between Edderton and Ardgay in Sutherland as a shortcut.",
+        "summary": "A steam train driver was forced to brake on a well-known Highland viaduct after spotting two older women standing dangerously close to the line.",
+        "label": "A steam train driver was forced to brake on a well-known Highland viaduct after spotting two older women standing dangerously close to the line."
+    }
+]

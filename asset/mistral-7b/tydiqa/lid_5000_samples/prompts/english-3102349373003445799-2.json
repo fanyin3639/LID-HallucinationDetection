@@ -1,0 +1,15 @@
+[
+    [
+        976,
+        [],
+        "between 1887 and 1907"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Before the formal start of naming, tropical cyclones were named after places, objects, or saints' feast days on which they occurred. The credit for the first usage of personal names for weather systems is generally given to the Queensland Government Meteorologist Clement Wragge, who named systems between 1887 and 1907. This system of naming weather systems subsequently fell into disuse for several years after Wragge retired, until it was revived in the latter part of World War II for the Western Pacific. Formal naming schemes and naming lists have subsequently been introduced and developed for the Eastern, Central, Western and Southern Pacific basins, as well as the Australian region, Atlantic Ocean and Indian Ocean. Question: When did the convention of hurricane naming begin? Answer:",
+    {
+        "id": "english-3102349373003445799-2",
+        "lang": "english",
+        "summary": "Before the formal start of naming, tropical cyclones were named after places, objects, or saints' feast days on which they occurred. The credit for the first usage of personal names for weather systems is generally given to the Queensland Government Meteorologist Clement Wragge, who named systems between 1887 and 1907. This system of naming weather systems subsequently fell into disuse for several years after Wragge retired, until it was revived in the latter part of World War II for the Western Pacific. Formal naming schemes and naming lists have subsequently been introduced and developed for the Eastern, Central, Western and Southern Pacific basins, as well as the Australian region, Atlantic Ocean and Indian Ocean.",
+        "question": "When did the convention of hurricane naming begin?",
+        "label": "between 1887 and 1907"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        135,
+        [],
+        "Two men have been re-arrested over the murder of a Cambridge man who was assaulted twice in the same night."
+    ],
+    "Write a short summary for the following passage:\nJeff Henry, 39, died of head injuries after being chased and attacked on Campkin Road, in the King's Hedges area of the city, on 7 June.\nA 34-year-old man, from Huntingdon, and a 36-year-old man, from St Ives, were re-arrested on suspicion of murder having previously been on police bail.\nThe pair are being questioned at Thorpe Wood police station.\nBen Maguire, 28, of Minerva Way, Cambridge, was charged with murder last month and is due to appear in court on 4 September.\nMr Henry was spotted running away from men along Campkin Road just moments before being attacked, once at 00:20 and again at 00:45 BST.\nHe died a week later in hospital.\nSummary:\n",
+    {
+        "id": 135,
+        "document": "Jeff Henry, 39, died of head injuries after being chased and attacked on Campkin Road, in the King's Hedges area of the city, on 7 June.\nA 34-year-old man, from Huntingdon, and a 36-year-old man, from St Ives, were re-arrested on suspicion of murder having previously been on police bail.\nThe pair are being questioned at Thorpe Wood police station.\nBen Maguire, 28, of Minerva Way, Cambridge, was charged with murder last month and is due to appear in court on 4 September.\nMr Henry was spotted running away from men along Campkin Road just moments before being attacked, once at 00:20 and again at 00:45 BST.\nHe died a week later in hospital.",
+        "summary": "Two men have been re-arrested over the murder of a Cambridge man who was assaulted twice in the same night.",
+        "label": "Two men have been re-arrested over the murder of a Cambridge man who was assaulted twice in the same night."
+    }
+]

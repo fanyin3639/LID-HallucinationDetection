@@ -1,0 +1,15 @@
+[
+    [
+        915,
+        [],
+        "77"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: He died of cancer on 6 July 1989 at age 77, three months before the formal end of the regime he had largely created. Question: How old was J\u00e1nos K\u00e1d\u00e1r when he died? Answer:",
+    {
+        "id": "english-2636769879002579779-42",
+        "lang": "english",
+        "summary": "He died of cancer on 6 July 1989 at age 77, three months before the formal end of the regime he had largely created.",
+        "question": "How old was J\u00e1nos K\u00e1d\u00e1r when he died?",
+        "label": "77"
+    }
+]

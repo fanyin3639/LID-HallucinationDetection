@@ -1,0 +1,15 @@
+[
+    [
+        2689,
+        [],
+        "about $25.3billion (1992USD)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Strong winds from the hurricane significantly affected four counties in the state, which damaged or destroyed over 730,000 houses and buildings, while leaving more than 1million without power. The storm surge impacted portions of Miami-Dade County, peaking at around 16.9feet (5.2m) just north of Homestead near the Burger King International Headquarters; the surge caused significant damage to boats and to the Charles Deering Estate. The nationwide maximum rainfall total from the hurricane was 13.98inches (355mm) in the western portion of Miami-Dade County. No major flooding was reported in the state. The hurricane caused about $25.3billion (1992USD) in damage and 44deaths in the state\u201415directly from the storm's effects and 29indirectly related. Many other sources, however, estimated that Andrew caused more than $32 billion in damage in the state.[1] Andrew was, at the time, the costliest hurricane in the history of the United States; it was surpassed in subsequent years by Hurricane Katrina in 2005, Hurricane Ike in 2008, Hurricane Sandy in 2012, and hurricanes Harvey, Irma, and Maria in 2017. Question: How much did the damage from Hurricane Andrew in Florida cost? Answer:",
+    {
+        "id": "english-3784586521630723359-1",
+        "lang": "english",
+        "summary": "Strong winds from the hurricane significantly affected four counties in the state, which damaged or destroyed over 730,000 houses and buildings, while leaving more than 1million without power. The storm surge impacted portions of Miami-Dade County, peaking at around 16.9feet (5.2m) just north of Homestead near the Burger King International Headquarters; the surge caused significant damage to boats and to the Charles Deering Estate. The nationwide maximum rainfall total from the hurricane was 13.98inches (355mm) in the western portion of Miami-Dade County. No major flooding was reported in the state. The hurricane caused about $25.3billion (1992USD) in damage and 44deaths in the state\u201415directly from the storm's effects and 29indirectly related. Many other sources, however, estimated that Andrew caused more than $32 billion in damage in the state.[1] Andrew was, at the time, the costliest hurricane in the history of the United States; it was surpassed in subsequent years by Hurricane Katrina in 2005, Hurricane Ike in 2008, Hurricane Sandy in 2012, and hurricanes Harvey, Irma, and Maria in 2017.",
+        "question": "How much did the damage from Hurricane Andrew in Florida cost?",
+        "label": "about $25.3billion (1992USD)"
+    }
+]

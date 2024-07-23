@@ -1,0 +1,15 @@
+[
+    [
+        251,
+        [],
+        "founded in 1966"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Bengals were founded in 1966 as a member of the American Football League (AFL) by former Cleveland Browns head coach Paul Brown. Brown was the Bengals' head coach from their inception to 1975. After being dismissed as the Browns' head coach by Art Modell (who had purchased majority interest in the team in 1961) in January 1963, Brown had shown interest in establishing another NFL franchise in Ohio and looked at both Cincinnati and Columbus. He ultimately chose the former when a deal between the city, Hamilton County, and Major League Baseball's Cincinnati Reds (who were seeking a replacement for the obsolete Crosley Field) was struck that resulted in an agreement to build a multipurpose stadium which could host both baseball and football games. Question: How old is the Cincinnati Bengals? Answer:",
+    {
+        "id": "english--5863246936442961913-1",
+        "lang": "english",
+        "summary": "The Bengals were founded in 1966 as a member of the American Football League (AFL) by former Cleveland Browns head coach Paul Brown. Brown was the Bengals' head coach from their inception to 1975. After being dismissed as the Browns' head coach by Art Modell (who had purchased majority interest in the team in 1961) in January 1963, Brown had shown interest in establishing another NFL franchise in Ohio and looked at both Cincinnati and Columbus. He ultimately chose the former when a deal between the city, Hamilton County, and Major League Baseball's Cincinnati Reds (who were seeking a replacement for the obsolete Crosley Field) was struck that resulted in an agreement to build a multipurpose stadium which could host both baseball and football games.",
+        "question": "How old is the Cincinnati Bengals?",
+        "label": "founded in 1966"
+    }
+]

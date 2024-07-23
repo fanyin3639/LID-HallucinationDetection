@@ -1,0 +1,19 @@
+[
+    [
+        1466,
+        [],
+        "public libraries"
+    ],
+    "Answer the following questions:\nContext: This year the US will honour one of the country's most famous writers--Mark Twain (1835-1910). Most readers know that his real name was Samuel Longhome Clemens, but how many know where the pen name \"Mark Twain\" came from? The answer shows Clemens' colorful early life before he became a writer. \"Mark Twain\" was the cry shouted on a ship when the ship entered a part of a river that was two fathoms (6 feet) deep. \"Twain\" is an old-fashioned way of saying \"two\". Twain trained as a ship pilot on the Mississippi river for two years, a time that he wrote about in the humourousLife on the Mississippi (1883). The famous river would become an important theme in many of his works--who could forget the journey of the Huck and Jim along it in his most famous book. The Adventures of Huckleberry Finn (1884)? With little education, he had to teach himself how to write stories. Whenever possible, he would go to public libraries. There he spent much time reading and thinking, which greatly helped him with his writing. On the other hand, his life experiences gave him wonderful material to write about and attract readers. Twain wrote in a style that has been called \"local colour\" because it shows great knowledge of local people and their customs. This _ is very clear in the two books for which Twain is still celebrated today. The Adventures of Tom Sawyer (1876) and its follow-up The Adventures of Huckleberry Finn, which many people call \"The Great American Novel\". The most amazing invention in the book is the voice of Huck himself. Huck did not enjoy schooling. It shows in the way he uses language, in a spoken style. Only a master like Twain could copy the way a young southern boy talked so well.\n'Question': where did he go to learn?\n'Answer: '",
+    {
+        "id": "3dy4fpooa1o1yhnhvu1nufwvn4srvc_8",
+        "summary": "This year the US will honour one of the country's most famous writers--Mark Twain (1835-1910). Most readers know that his real name was Samuel Longhome Clemens, but how many know where the pen name \"Mark Twain\" came from? The answer shows Clemens' colorful early life before he became a writer. \"Mark Twain\" was the cry shouted on a ship when the ship entered a part of a river that was two fathoms (6 feet) deep. \"Twain\" is an old-fashioned way of saying \"two\". Twain trained as a ship pilot on the Mississippi river for two years, a time that he wrote about in the humourousLife on the Mississippi (1883). The famous river would become an important theme in many of his works--who could forget the journey of the Huck and Jim along it in his most famous book. The Adventures of Huckleberry Finn (1884)? With little education, he had to teach himself how to write stories. Whenever possible, he would go to public libraries. There he spent much time reading and thinking, which greatly helped him with his writing. On the other hand, his life experiences gave him wonderful material to write about and attract readers. Twain wrote in a style that has been called \"local colour\" because it shows great knowledge of local people and their customs. This _ is very clear in the two books for which Twain is still celebrated today. The Adventures of Tom Sawyer (1876) and its follow-up The Adventures of Huckleberry Finn, which many people call \"The Great American Novel\". The most amazing invention in the book is the voice of Huck himself. Huck did not enjoy schooling. It shows in the way he uses language, in a spoken style. Only a master like Twain could copy the way a young southern boy talked so well.",
+        "question": "where did he go to learn?",
+        "label": "public libraries",
+        "additional_answers": [
+            "Public libraries",
+            "public libraries.",
+            "public libraries."
+        ]
+    }
+]

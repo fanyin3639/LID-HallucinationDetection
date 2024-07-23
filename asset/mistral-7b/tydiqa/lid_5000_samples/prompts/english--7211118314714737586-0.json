@@ -1,0 +1,15 @@
+[
+    [
+        2716,
+        [],
+        "19 June 1861"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Field Marshal Douglas Haig, 1st Earl Haig, KT,GCB,OM,GCVO,KCIE (/he\u026a\u0261/; 19 June 1861 \u2013 29 January 1928) was a senior officer of the British Army. During the First World War he commanded the British Expeditionary Force (BEF) on the Western Front from late 1915 until the end of the war. He was commander during the Battle of the Somme, the Battle of Arras, the Third Battle of Ypres, the German Spring Offensive, and the Hundred Days Offensive.[4][5][6] Question: When was Major General Douglas born? Answer:",
+    {
+        "id": "english--7211118314714737586-0",
+        "lang": "english",
+        "summary": "Field Marshal Douglas Haig, 1st Earl Haig, KT,GCB,OM,GCVO,KCIE (/he\u026a\u0261/; 19 June 1861 \u2013 29 January 1928) was a senior officer of the British Army. During the First World War he commanded the British Expeditionary Force (BEF) on the Western Front from late 1915 until the end of the war. He was commander during the Battle of the Somme, the Battle of Arras, the Third Battle of Ypres, the German Spring Offensive, and the Hundred Days Offensive.[4][5][6]",
+        "question": "When was Major General Douglas born?",
+        "label": "19 June 1861"
+    }
+]

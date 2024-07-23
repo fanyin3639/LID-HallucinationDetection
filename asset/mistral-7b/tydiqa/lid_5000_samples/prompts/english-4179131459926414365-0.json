@@ -1,0 +1,15 @@
+[
+    [
+        1961,
+        [],
+        "1623"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mr. William Shakespeare's Comedies, Histories, & Tragedies is the 1623 published collection of William Shakespeare's plays. Modern scholars commonly refer to it as the First Folio.[lower-alpha 1] It is considered one of the most influential books ever published in the English language.[1] Question: When was the first folio of Shakespeare published? Answer:",
+    {
+        "id": "english-4179131459926414365-0",
+        "lang": "english",
+        "summary": "Mr. William Shakespeare's Comedies, Histories, & Tragedies is the 1623 published collection of William Shakespeare's plays. Modern scholars commonly refer to it as the First Folio.[lower-alpha 1] It is considered one of the most influential books ever published in the English language.[1]",
+        "question": "When was the first folio of Shakespeare published?",
+        "label": "1623"
+    }
+]

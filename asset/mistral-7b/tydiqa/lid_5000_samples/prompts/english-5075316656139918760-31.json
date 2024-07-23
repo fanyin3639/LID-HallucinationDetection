@@ -1,0 +1,15 @@
+[
+    [
+        521,
+        [],
+        "execution"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Socrates's death is described at the end of Plato's Phaedo, although Plato was not himself present at the execution. As to the veracity of Plato's account it seems possible he made choice of a number of certain factors perhaps omitting others in the description of the death, as the Phaedo description does not describe progress of the action of the poison (Gill 1973) in concurrence with modern descriptions.[92] Phaedo states, after drinking the poison, he was instructed to walk around until his legs felt numb. After he lay down, the man who administered the poison pinched his foot; Socrates could no longer feel his legs. The numbness slowly crept up his body until it reached his heart. Question: How did Socrates die? Answer:",
+    {
+        "id": "english-5075316656139918760-31",
+        "lang": "english",
+        "summary": "Socrates's death is described at the end of Plato's Phaedo, although Plato was not himself present at the execution. As to the veracity of Plato's account it seems possible he made choice of a number of certain factors perhaps omitting others in the description of the death, as the Phaedo description does not describe progress of the action of the poison (Gill 1973) in concurrence with modern descriptions.[92] Phaedo states, after drinking the poison, he was instructed to walk around until his legs felt numb. After he lay down, the man who administered the poison pinched his foot; Socrates could no longer feel his legs. The numbness slowly crept up his body until it reached his heart.",
+        "question": "How did Socrates die?",
+        "label": "execution"
+    }
+]

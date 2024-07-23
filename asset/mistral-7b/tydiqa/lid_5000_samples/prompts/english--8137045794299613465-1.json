@@ -1,0 +1,15 @@
+[
+    [
+        2451,
+        [],
+        "1902"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Anushilan Samiti (\u014cn\u016bsh\u012bl\u014dn s\u014dm\u012bt\u012b, lit: body-building society) was a Bengali Indian organisation that existed in the first quarter of the twentieth century, and propounded revolutionary violence as the means for ending British rule in India. The organisation arose from a conglomeration of local youth groups and gyms (Akhara) in Bengal in 1902. It had two prominent, if somewhat independent, arms in East and West Bengal identified as Dhaka Anushilan Samiti centred in Dhaka (modern day Bangladesh), and the Jugantar group (centred at Calcutta) respectively. Question: When was Anushilan Samiti founded? Answer:",
+    {
+        "id": "english--8137045794299613465-1",
+        "lang": "english",
+        "summary": "Anushilan Samiti (\u014cn\u016bsh\u012bl\u014dn s\u014dm\u012bt\u012b, lit: body-building society) was a Bengali Indian organisation that existed in the first quarter of the twentieth century, and propounded revolutionary violence as the means for ending British rule in India. The organisation arose from a conglomeration of local youth groups and gyms (Akhara) in Bengal in 1902. It had two prominent, if somewhat independent, arms in East and West Bengal identified as Dhaka Anushilan Samiti centred in Dhaka (modern day Bangladesh), and the Jugantar group (centred at Calcutta) respectively.",
+        "question": "When was Anushilan Samiti founded?",
+        "label": "1902"
+    }
+]

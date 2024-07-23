@@ -1,0 +1,15 @@
+[
+    [
+        2413,
+        [],
+        "32\u201337%"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Islam is the official state religion in the Republic of Iraq, but the constitution guarantees freedom of religion. Iraq is a multi ethnic and multi religious country with Islam, Christianity, Yazdanism, Zoroastrianism, Shabakism, Judaism, Mandaeism, Bah\u0101'i, Ahl-e Haqq-Yarsanis, Ishikism and numerous other religions all having a presence in the country. Shia Islam is the main religion in Iraq followed by 60\u201365% of the population, while Sunni Islam is followed by 32\u201337% of the people. Many cities throughout Iraq have been areas of historical prominence for both Shia and Sunni Muslims, including Najaf, Karbala, Baghdad and Samarra. Question: What percentage of Iraqis are Sunni Muslims? Answer:",
+    {
+        "id": "english--1796686546477707620-0",
+        "lang": "english",
+        "summary": "Islam is the official state religion in the Republic of Iraq, but the constitution guarantees freedom of religion. Iraq is a multi ethnic and multi religious country with Islam, Christianity, Yazdanism, Zoroastrianism, Shabakism, Judaism, Mandaeism, Bah\u0101'i, Ahl-e Haqq-Yarsanis, Ishikism and numerous other religions all having a presence in the country. Shia Islam is the main religion in Iraq followed by 60\u201365% of the population, while Sunni Islam is followed by 32\u201337% of the people. Many cities throughout Iraq have been areas of historical prominence for both Shia and Sunni Muslims, including Najaf, Karbala, Baghdad and Samarra.",
+        "question": "What percentage of Iraqis are Sunni Muslims?",
+        "label": "32\u201337%"
+    }
+]

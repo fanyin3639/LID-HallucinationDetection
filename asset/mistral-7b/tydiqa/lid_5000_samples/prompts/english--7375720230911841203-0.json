@@ -1,0 +1,15 @@
+[
+    [
+        1877,
+        [],
+        "104,553"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Wichita Falls (/\u02c8w\u026at\u0283\u026at\u0251\u02d0/ WITCH-i-taw) is a city in and the county seat of Wichita County, Texas, United States.[5] It is the principal city of the Wichita Falls Metropolitan Statistical Area, which encompasses all of Archer, Clay, and Wichita Counties. According to the 2010 census, it had a population of 104,553, making it the 35th-most populous city in Texas. In addition, its central business district is 5 miles (8km) from Sheppard Air Force Base, which is home to the Air Force's largest technical training wing and the Euro-NATO Joint Jet Pilot Training  program, the world's only multinationally staffed and managed flying training program chartered to produce combat pilots for both USAF and NATO. Question: How many people live in Wichita Falls? Answer:",
+    {
+        "id": "english--7375720230911841203-0",
+        "lang": "english",
+        "summary": "Wichita Falls (/\u02c8w\u026at\u0283\u026at\u0251\u02d0/ WITCH-i-taw) is a city in and the county seat of Wichita County, Texas, United States.[5] It is the principal city of the Wichita Falls Metropolitan Statistical Area, which encompasses all of Archer, Clay, and Wichita Counties. According to the 2010 census, it had a population of 104,553, making it the 35th-most populous city in Texas. In addition, its central business district is 5 miles (8km) from Sheppard Air Force Base, which is home to the Air Force's largest technical training wing and the Euro-NATO Joint Jet Pilot Training  program, the world's only multinationally staffed and managed flying training program chartered to produce combat pilots for both USAF and NATO.",
+        "question": "How many people live in Wichita Falls?",
+        "label": "104,553"
+    }
+]

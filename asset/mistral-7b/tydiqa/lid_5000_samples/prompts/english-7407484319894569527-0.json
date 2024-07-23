@@ -1,0 +1,15 @@
+[
+    [
+        703,
+        [],
+        "Normandy region of northern France"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Dieppe (French pronunciation:\u200b[dj\u025bp]) is a coastal community in the Arrondissement of Dieppe in the Seine-Maritime department in the Normandy region of northern France. The population stood at 34,670 in 2006. Question: In what region of France is Dieppe located? Answer:",
+    {
+        "id": "english-7407484319894569527-0",
+        "lang": "english",
+        "summary": "Dieppe (French pronunciation:\u200b[dj\u025bp]) is a coastal community in the Arrondissement of Dieppe in the Seine-Maritime department in the Normandy region of northern France. The population stood at 34,670 in 2006.",
+        "question": "In what region of France is Dieppe located?",
+        "label": "Normandy region of northern France"
+    }
+]

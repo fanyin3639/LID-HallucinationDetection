@@ -1,0 +1,15 @@
+[
+    [
+        482,
+        [],
+        "explore cultural phenomena where the researcher observes society from the point of view of the subject of the study"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ethnography (from Greek \u1f14\u03b8\u03bd\u03bf\u03c2 ethnos \"folk, people, nation\" and \u03b3\u03c1\u03ac\u03c6\u03c9 grapho \"I write\") is the systematic study of people and cultures. It is designed to explore cultural phenomena where the researcher observes society from the point of view of the subject of the study.  An ethnography is a means to represent graphically and in writing the culture of a group.  The word can thus be said to have a double meaning, which partly depends on whether it is used as a count noun or uncountable.[1] The resulting field study or a case report reflects the knowledge and the system of meanings in the lives of a cultural group.[2][3][4] Question: What is ethnography used for? Answer:",
+    {
+        "id": "english-3211778415932478788-1",
+        "lang": "english",
+        "summary": "Ethnography (from Greek \u1f14\u03b8\u03bd\u03bf\u03c2 ethnos \"folk, people, nation\" and \u03b3\u03c1\u03ac\u03c6\u03c9 grapho \"I write\") is the systematic study of people and cultures. It is designed to explore cultural phenomena where the researcher observes society from the point of view of the subject of the study.  An ethnography is a means to represent graphically and in writing the culture of a group.  The word can thus be said to have a double meaning, which partly depends on whether it is used as a count noun or uncountable.[1] The resulting field study or a case report reflects the knowledge and the system of meanings in the lives of a cultural group.[2][3][4]",
+        "question": "What is ethnography used for?",
+        "label": "explore cultural phenomena where the researcher observes society from the point of view of the subject of the study"
+    }
+]

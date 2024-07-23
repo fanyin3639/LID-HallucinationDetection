@@ -1,0 +1,15 @@
+[
+    [
+        1416,
+        [],
+        "David de Gea Quintana"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: David de Gea Quintana (Spanish pronunciation:[da\u02c8\u03b2i\u00f0 \u00f0e \u02c8xea kin\u02c8tana]; born 7 November 1990) is a Spanish professional footballer who plays as a goalkeeper for Premier League club Manchester United and the Spain national team. Question: Who is the goalie for Manchester United? Answer:",
+    {
+        "id": "english-3931528894910017758-0",
+        "lang": "english",
+        "summary": "David de Gea Quintana (Spanish pronunciation:[da\u02c8\u03b2i\u00f0 \u00f0e \u02c8xea kin\u02c8tana]; born 7 November 1990) is a Spanish professional footballer who plays as a goalkeeper for Premier League club Manchester United and the Spain national team.",
+        "question": "Who is the goalie for Manchester United?",
+        "label": "David de Gea Quintana"
+    }
+]

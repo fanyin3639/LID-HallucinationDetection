@@ -1,0 +1,15 @@
+[
+    [
+        2100,
+        [],
+        "about 55,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to Museums of the World, there are about 55,000 museums in 202 countries.[1] The International Council of Museums comprises 30,000 members in 137 countries. Question: How many museums are in the world? Answer:",
+    {
+        "id": "english-6687426756904531315-1",
+        "lang": "english",
+        "summary": "According to Museums of the World, there are about 55,000 museums in 202 countries.[1] The International Council of Museums comprises 30,000 members in 137 countries.",
+        "question": "How many museums are in the world?",
+        "label": "about 55,000"
+    }
+]

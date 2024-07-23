@@ -1,0 +1,15 @@
+[
+    [
+        836,
+        [],
+        "Viacom Media Networks"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Viacom Media Networks, formerly known as MTV Networks, is an American mass media division of Viacom that oversees the operations of many of its television channels and Internet brands. Its sister international division is Viacom International Media Networks. Question: Who owns MTV? Answer:",
+    {
+        "id": "english--6029937950887935297-1",
+        "lang": "english",
+        "summary": "Viacom Media Networks, formerly known as MTV Networks, is an American mass media division of Viacom that oversees the operations of many of its television channels and Internet brands. Its sister international division is Viacom International Media Networks.",
+        "question": "Who owns MTV?",
+        "label": "Viacom Media Networks"
+    }
+]

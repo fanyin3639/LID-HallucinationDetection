@@ -1,0 +1,15 @@
+[
+    [
+        1077,
+        [],
+        "Sunday December 2, 1804"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The coronation of Napoleon as Emperor of the French took place on Sunday December 2, 1804 (11 Frimaire, Year XIII according to the French Republican Calendar) at Notre Dame Cathedral in Paris. It marked \"the instantiation of modern empire\" and was a \"transparently masterminded piece of modern propaganda\".[1] Question: When did Napoleon crown himself emperor? Answer:",
+    {
+        "id": "english--995282693738960857-0",
+        "lang": "english",
+        "summary": "The coronation of Napoleon as Emperor of the French took place on Sunday December 2, 1804 (11 Frimaire, Year XIII according to the French Republican Calendar) at Notre Dame Cathedral in Paris. It marked \"the instantiation of modern empire\" and was a \"transparently masterminded piece of modern propaganda\".[1]",
+        "question": "When did Napoleon crown himself emperor?",
+        "label": "Sunday December 2, 1804"
+    }
+]

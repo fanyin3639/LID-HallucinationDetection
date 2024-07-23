@@ -1,0 +1,14 @@
+[
+    [
+        617,
+        [],
+        "Cuban leader Raul Castro has removed several senior Communists from the party's powerful Central Committee."
+    ],
+    "Write a short summary for the following passage:\nThey include former parliament speaker and foreign minister Ricardo Alarcon, a close ally of ex-leader Fidel Castro.\nMr Castro said those leaving had not made any mistakes or committed any crimes. He said the changes marked a normal course of events.\nMr Alarcon, 76, one of Cuba's most visible politicians, had been a member of the committee since 1992.\nHe stepped down as speaker in February.\nAmong the four others removed were Jose Miguel Miyar Barruecos, 81, who was secretary of the Council of State for three decades, and Misael Enamorado, 60, the party chief in Santiago de Cuba.\nMr Castro played down the significance of the move in comments broadcast on state television.\n\"There's a door you come in through; there's a door you go out, without it meaning anything negative,\" he said.\nRaul Castro became Cuba's leader when his elder brother stepped down in 2008. In February he was elected to a second five-year term, which he said would be his last.\nSummary:\n",
+    {
+        "id": 617,
+        "document": "They include former parliament speaker and foreign minister Ricardo Alarcon, a close ally of ex-leader Fidel Castro.\nMr Castro said those leaving had not made any mistakes or committed any crimes. He said the changes marked a normal course of events.\nMr Alarcon, 76, one of Cuba's most visible politicians, had been a member of the committee since 1992.\nHe stepped down as speaker in February.\nAmong the four others removed were Jose Miguel Miyar Barruecos, 81, who was secretary of the Council of State for three decades, and Misael Enamorado, 60, the party chief in Santiago de Cuba.\nMr Castro played down the significance of the move in comments broadcast on state television.\n\"There's a door you come in through; there's a door you go out, without it meaning anything negative,\" he said.\nRaul Castro became Cuba's leader when his elder brother stepped down in 2008. In February he was elected to a second five-year term, which he said would be his last.",
+        "summary": "Cuban leader Raul Castro has removed several senior Communists from the party's powerful Central Committee.",
+        "label": "Cuban leader Raul Castro has removed several senior Communists from the party's powerful Central Committee."
+    }
+]

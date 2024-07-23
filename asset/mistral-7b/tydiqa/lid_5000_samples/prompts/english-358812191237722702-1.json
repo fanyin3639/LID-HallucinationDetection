@@ -1,0 +1,15 @@
+[
+    [
+        2318,
+        [],
+        "11 October 1962 and was closed under Pope Paul VI on the Solemnity of the Immaculate Conception on 8 December 1965"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Second Ecumenical Council of the Vatican, commonly known as the Second Vatican Council or Vatican II, addressed relations between the Catholic Church and the modern world.[2] The council, through the Holy See, was formally opened under the pontificate of Pope John XXIII on 11 October 1962 and was closed under Pope Paul VI on the Solemnity of the Immaculate Conception on 8 December 1965. Question: When was Vatican II? Answer:",
+    {
+        "id": "english-358812191237722702-1",
+        "lang": "english",
+        "summary": "The Second Ecumenical Council of the Vatican, commonly known as the Second Vatican Council or Vatican II, addressed relations between the Catholic Church and the modern world.[2] The council, through the Holy See, was formally opened under the pontificate of Pope John XXIII on 11 October 1962 and was closed under Pope Paul VI on the Solemnity of the Immaculate Conception on 8 December 1965.",
+        "question": "When was Vatican II?",
+        "label": "11 October 1962 and was closed under Pope Paul VI on the Solemnity of the Immaculate Conception on 8 December 1965"
+    }
+]

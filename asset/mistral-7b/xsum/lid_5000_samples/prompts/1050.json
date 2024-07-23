@@ -1,0 +1,14 @@
+[
+    [
+        1050,
+        [],
+        "England are monitoring Stuart Broad's fitness before the first Test against South Africa after a recurrence of the paceman's long-standing heel injury."
+    ],
+    "Write a short summary for the following passage:\nBroad left the field on Wednesday after bowling one over for Nottinghamshire in their win against Leicestershire.\nThe 30-year-old is reported to have had a scan on his left heel after the game.\nFellow bowlers Chris Woakes and Ben Stokes are doubtful for the first of the four-Test series at Lord's from 6 July, but James Anderson is fit again.\nWoakes is highly unlikely to be ready for the opening Test after pulling out of the Champions Trophy with a side problem, while all-rounder Stokes has been managing a knee injury.\nHowever, Anderson - who took three wickets for five runs in eight overs for Lancashire against Hampshire on Wednesday - has returned to action after a groin strain.\n\"Stuart had a bit of pain in his heel, he's had it for a while,\" said Nottinghamshire coach Peter Moores.\n\"If the situation had been different, he could have pushed on through it but there was no need to, so he came off and we'll monitor it and look after him.\"\nSummary:\n",
+    {
+        "id": 1050,
+        "document": "Broad left the field on Wednesday after bowling one over for Nottinghamshire in their win against Leicestershire.\nThe 30-year-old is reported to have had a scan on his left heel after the game.\nFellow bowlers Chris Woakes and Ben Stokes are doubtful for the first of the four-Test series at Lord's from 6 July, but James Anderson is fit again.\nWoakes is highly unlikely to be ready for the opening Test after pulling out of the Champions Trophy with a side problem, while all-rounder Stokes has been managing a knee injury.\nHowever, Anderson - who took three wickets for five runs in eight overs for Lancashire against Hampshire on Wednesday - has returned to action after a groin strain.\n\"Stuart had a bit of pain in his heel, he's had it for a while,\" said Nottinghamshire coach Peter Moores.\n\"If the situation had been different, he could have pushed on through it but there was no need to, so he came off and we'll monitor it and look after him.\"",
+        "summary": "England are monitoring Stuart Broad's fitness before the first Test against South Africa after a recurrence of the paceman's long-standing heel injury.",
+        "label": "England are monitoring Stuart Broad's fitness before the first Test against South Africa after a recurrence of the paceman's long-standing heel injury."
+    }
+]

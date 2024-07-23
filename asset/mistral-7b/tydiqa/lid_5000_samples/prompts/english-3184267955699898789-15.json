@@ -1,0 +1,15 @@
+[
+    [
+        1952,
+        [],
+        "1839"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first full-blooded European infant in the territory, Thomas Holloway King, was born on 21 Feb 1815 at the Oihi Mission Station near Hohi Bay[19] in the Bay of Islands. Kerikeri, founded in 1822, and Bluff founded in 1823, both claim to be the oldest European settlements in New Zealand.[20] Many European settlers bought land from M\u0101ori, but misunderstanding and different concepts of land ownership led to conflict and bitterness.[18] In 1839, the New Zealand Company announced plans to buy large tracts of land and establish colonies in New Zealand.[21] This alarmed the missionaries, who called for British control of European settlers in New Zealand. Question: When was New Zealand colonized? Answer:",
+    {
+        "id": "english-3184267955699898789-15",
+        "lang": "english",
+        "summary": "The first full-blooded European infant in the territory, Thomas Holloway King, was born on 21 Feb 1815 at the Oihi Mission Station near Hohi Bay[19] in the Bay of Islands. Kerikeri, founded in 1822, and Bluff founded in 1823, both claim to be the oldest European settlements in New Zealand.[20] Many European settlers bought land from M\u0101ori, but misunderstanding and different concepts of land ownership led to conflict and bitterness.[18] In 1839, the New Zealand Company announced plans to buy large tracts of land and establish colonies in New Zealand.[21] This alarmed the missionaries, who called for British control of European settlers in New Zealand.",
+        "question": "When was New Zealand colonized?",
+        "label": "1839"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1671,
+        [],
+        "1965"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Adopting the metric system was discussed in Parliament as early as 1818 and some industries and even some government agencies had metricated, or were in the process of metricating by the mid-1960s. A formal government policy to support metrication was agreed by 1965.  This policy, initiated in response to requests from industry, was to support voluntary metrication, with costs picked up where they fell. In 1969 the government created the Metrication Board as a quango to promote and coordinate metrication. In 1978, after some carpet retailers reverted to pricing by the square yard rather than the square metre, government policy shifted, and they started issuing orders making metrication mandatory in certain sectors. In 1980 government policy shifted again to prefer voluntary metrication, and the Metrication Board was abolished. By the time the Metrication Board was wound up, all the economic sectors that fell within its remit except road signage and parts of the retail trade sector had metricated.    Question: When did the UK adopt the metric system? Answer:",
+    {
+        "id": "english-3550390098763807821-1",
+        "lang": "english",
+        "summary": "Adopting the metric system was discussed in Parliament as early as 1818 and some industries and even some government agencies had metricated, or were in the process of metricating by the mid-1960s. A formal government policy to support metrication was agreed by 1965.  This policy, initiated in response to requests from industry, was to support voluntary metrication, with costs picked up where they fell. In 1969 the government created the Metrication Board as a quango to promote and coordinate metrication. In 1978, after some carpet retailers reverted to pricing by the square yard rather than the square metre, government policy shifted, and they started issuing orders making metrication mandatory in certain sectors. In 1980 government policy shifted again to prefer voluntary metrication, and the Metrication Board was abolished. By the time the Metrication Board was wound up, all the economic sectors that fell within its remit except road signage and parts of the retail trade sector had metricated.   ",
+        "question": "When did the UK adopt the metric system?",
+        "label": "1965"
+    }
+]

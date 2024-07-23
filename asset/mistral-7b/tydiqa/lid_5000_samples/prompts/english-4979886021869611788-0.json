@@ -1,0 +1,15 @@
+[
+    [
+        1844,
+        [],
+        "Harry Brearley"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Harry Brearley (18 February 1871 \u2013 14 July 1948) was an English metallurgist, usually credited with the invention of \"rustless steel\" (later to be called \"stainless steel\" in the anglophone world). Question: Who invented stainless steel? Answer:",
+    {
+        "id": "english-4979886021869611788-0",
+        "lang": "english",
+        "summary": "Harry Brearley (18 February 1871 \u2013 14 July 1948) was an English metallurgist, usually credited with the invention of \"rustless steel\" (later to be called \"stainless steel\" in the anglophone world).",
+        "question": "Who invented stainless steel?",
+        "label": "Harry Brearley"
+    }
+]

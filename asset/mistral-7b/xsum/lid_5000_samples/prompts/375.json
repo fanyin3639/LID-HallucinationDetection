@@ -1,0 +1,14 @@
+[
+    [
+        375,
+        [],
+        "Derry dual champions Slaughtneil will play their All-Ireland club hurling and football semi-finals at Ulster venues."
+    ],
+    "Write a short summary for the following passage:\nThe football match against Dublin side St Vincent's takes place in Pairc Esler in Newry on Saturday 11 February.\nThe hurlers will get the chance to continue the club's good record in the Athletic Grounds in Armagh.\nDue to the large number of dual players in both squads, the hurling semi-final against Cuala (Dublin) has been moved to Saturday 25 February.\nShould Slaughtneil advance to both All-Ireland club finals, the GAA will be forced to scrap the traditional double bill in Croke Park on St Patrick's Day.\nSummary:\n",
+    {
+        "id": 375,
+        "document": "The football match against Dublin side St Vincent's takes place in Pairc Esler in Newry on Saturday 11 February.\nThe hurlers will get the chance to continue the club's good record in the Athletic Grounds in Armagh.\nDue to the large number of dual players in both squads, the hurling semi-final against Cuala (Dublin) has been moved to Saturday 25 February.\nShould Slaughtneil advance to both All-Ireland club finals, the GAA will be forced to scrap the traditional double bill in Croke Park on St Patrick's Day.",
+        "summary": "Derry dual champions Slaughtneil will play their All-Ireland club hurling and football semi-finals at Ulster venues.",
+        "label": "Derry dual champions Slaughtneil will play their All-Ireland club hurling and football semi-finals at Ulster venues."
+    }
+]

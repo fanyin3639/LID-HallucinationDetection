@@ -1,0 +1,19 @@
+[
+    [
+        1048,
+        [],
+        "on the Senate floor"
+    ],
+    "Answer the following questions:\nContext: The critical moment for Sen. Ted Cruz and his allies came around 7 p.m. on Tuesday night. \n\nThe Texas Republican's suit was still crisp, despite more than four hours into what would become a rhetorical marathon of more than 21 hours on the Senate floor aimed at derailing Obamacare. \n\nBut until that point, the brunt of the speaking had been done by Cruz and his ally, Sen. Mike Lee, R-Utah. Without more help, Lee's aides weren't sure how long the effort could continue. \n\nThen Sen. Marco Rubio, R-Florida, arrived. It was a sign that they'd get the bodies they needed for the long haul. \n\n\"When he showed up, we had a feeling that we could go until noon (the next day),\" said Lee spokesman Brian Phillips. \n\nLee was on or near the floor all night. Sen. Rand Paul of Kentucky, who held the floor for 12 hours in March, jumped in. Even ideological opponent Sen. Dick Durbin, D-Illinois, shouldered some speaking time while trying to refute Cruz' points. \n\nThat gave Cruz some time for mental breaks even though he couldn't leave the floor to eat, use the restroom or do anything else. \n\nFor material, staff pulled together binders of articles, talking points and documents that could be used to fill time. And as social networks heated up, aides ferried in a stream of tweets for Cruz to read. \n\nBut to the big and less comfortable question: How did he manage physically? \n\nGood, pliable shoes, for a start. Cruz left his trademark Ostrich boots behind and told the chamber that he picked up some sneakers in preparation for the long hours of standing. \n'Question': Where did it happen?\n'Answer: '",
+    {
+        "id": "3p4rdnwnd56fenk4oitvdzka6vljij_4",
+        "summary": "The critical moment for Sen. Ted Cruz and his allies came around 7 p.m. on Tuesday night. \n\nThe Texas Republican's suit was still crisp, despite more than four hours into what would become a rhetorical marathon of more than 21 hours on the Senate floor aimed at derailing Obamacare. \n\nBut until that point, the brunt of the speaking had been done by Cruz and his ally, Sen. Mike Lee, R-Utah. Without more help, Lee's aides weren't sure how long the effort could continue. \n\nThen Sen. Marco Rubio, R-Florida, arrived. It was a sign that they'd get the bodies they needed for the long haul. \n\n\"When he showed up, we had a feeling that we could go until noon (the next day),\" said Lee spokesman Brian Phillips. \n\nLee was on or near the floor all night. Sen. Rand Paul of Kentucky, who held the floor for 12 hours in March, jumped in. Even ideological opponent Sen. Dick Durbin, D-Illinois, shouldered some speaking time while trying to refute Cruz' points. \n\nThat gave Cruz some time for mental breaks even though he couldn't leave the floor to eat, use the restroom or do anything else. \n\nFor material, staff pulled together binders of articles, talking points and documents that could be used to fill time. And as social networks heated up, aides ferried in a stream of tweets for Cruz to read. \n\nBut to the big and less comfortable question: How did he manage physically? \n\nGood, pliable shoes, for a start. Cruz left his trademark Ostrich boots behind and told the chamber that he picked up some sneakers in preparation for the long hours of standing. ",
+        "question": "Where did it happen?",
+        "label": "on the Senate floor",
+        "additional_answers": [
+            "It happened on the Senate floor.",
+            "on the Senate floor",
+            "the Senate floor"
+        ]
+    }
+]

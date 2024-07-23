@@ -1,0 +1,15 @@
+[
+    [
+        1384,
+        [],
+        "IBM"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Based upon a patent issued in 1952, Nakamatsu claims to have invented the first floppy disk[28] well before IBM's floppy disk patent  was filed in 1969.[29] However, what Nakamatsu patented in 1952 was a paper for optical sound player.[13]  In contrast to a floppy disk, this Nakamatsu patent discloses the use of printed paper for storage instead of the magnetic material of a floppy disk.  It is not rewritable and lacks most elements of the IBM floppy disk patent. Since the paper was 'floppy' material, he claims he had invented the floppy disk (sometimes he uses the phrase \"floppy media\"); however, it should be noted that flexible magnetic recording media was well known prior to 1952, in tape and wire recording. Question: Who invented the floppy disk? Answer:",
+    {
+        "id": "english-7915033271052672248-5",
+        "lang": "english",
+        "summary": "Based upon a patent issued in 1952, Nakamatsu claims to have invented the first floppy disk[28] well before IBM's floppy disk patent  was filed in 1969.[29] However, what Nakamatsu patented in 1952 was a paper for optical sound player.[13]  In contrast to a floppy disk, this Nakamatsu patent discloses the use of printed paper for storage instead of the magnetic material of a floppy disk.  It is not rewritable and lacks most elements of the IBM floppy disk patent. Since the paper was 'floppy' material, he claims he had invented the floppy disk (sometimes he uses the phrase \"floppy media\"); however, it should be noted that flexible magnetic recording media was well known prior to 1952, in tape and wire recording.",
+        "question": "Who invented the floppy disk?",
+        "label": "IBM"
+    }
+]

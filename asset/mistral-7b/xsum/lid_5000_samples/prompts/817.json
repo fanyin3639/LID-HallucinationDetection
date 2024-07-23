@@ -1,0 +1,14 @@
+[
+    [
+        817,
+        [],
+        "Mae rhybudd melyn o wyntoedd cryfion wedi ei gyhoeddi ar gyfer rhannau o orllewin Cymru ddydd Llun."
+    ],
+    "Write a short summary for the following passage:\nDywedodd y Swyddfa Dywydd y gallai gyrraedd 75 milltir yr awr mewn rhai rhannau.\n\"Mae'n debygol y bydd rhywfaint o drafferthion i deithwyr, ar y ffyrdd ac ar y llongau,\" meddai llefarydd.\nMae'r rhybudd yn para o 03:00 fore ddydd Llun nes 22:00 nos Lun, ac yn cynnwys Ynys M\u00f4n, Gwynedd, Conwy, Ceredigion, Powys, Sir Benfro a Sir G\u00e2r.\nSummary:\n",
+    {
+        "id": 817,
+        "document": "Dywedodd y Swyddfa Dywydd y gallai gyrraedd 75 milltir yr awr mewn rhai rhannau.\n\"Mae'n debygol y bydd rhywfaint o drafferthion i deithwyr, ar y ffyrdd ac ar y llongau,\" meddai llefarydd.\nMae'r rhybudd yn para o 03:00 fore ddydd Llun nes 22:00 nos Lun, ac yn cynnwys Ynys M\u00f4n, Gwynedd, Conwy, Ceredigion, Powys, Sir Benfro a Sir G\u00e2r.",
+        "summary": "Mae rhybudd melyn o wyntoedd cryfion wedi ei gyhoeddi ar gyfer rhannau o orllewin Cymru ddydd Llun.",
+        "label": "Mae rhybudd melyn o wyntoedd cryfion wedi ei gyhoeddi ar gyfer rhannau o orllewin Cymru ddydd Llun."
+    }
+]

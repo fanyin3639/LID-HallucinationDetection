@@ -1,0 +1,15 @@
+[
+    [
+        1193,
+        [],
+        "1595"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: It is unknown when exactly Shakespeare wrote Romeo and Juliet. Juliet's nurse refers to an earthquake she says occurred 11 years ago.[25] This may refer to the Dover Straits earthquake of 1580, which would date that particular line to 1591. Other earthquakes\u2014both in England and in Verona\u2014have been proposed in support of the different dates.[26] But the play's stylistic similarities with A Midsummer Night's Dream and other plays conventionally dated around 1594\u201395, place its composition sometime between 1591 and 1595.[27][lower-alpha 1] One conjecture is that Shakespeare may have begun a draft in 1591, which he completed in 1595.[28] Question: When was Romeo and Juliet written by Shakespeare? Answer:",
+    {
+        "id": "english-3992016593036872128-24",
+        "lang": "english",
+        "summary": "It is unknown when exactly Shakespeare wrote Romeo and Juliet. Juliet's nurse refers to an earthquake she says occurred 11 years ago.[25] This may refer to the Dover Straits earthquake of 1580, which would date that particular line to 1591. Other earthquakes\u2014both in England and in Verona\u2014have been proposed in support of the different dates.[26] But the play's stylistic similarities with A Midsummer Night's Dream and other plays conventionally dated around 1594\u201395, place its composition sometime between 1591 and 1595.[27][lower-alpha 1] One conjecture is that Shakespeare may have begun a draft in 1591, which he completed in 1595.[28]",
+        "question": "When was Romeo and Juliet written by Shakespeare?",
+        "label": "1595"
+    }
+]

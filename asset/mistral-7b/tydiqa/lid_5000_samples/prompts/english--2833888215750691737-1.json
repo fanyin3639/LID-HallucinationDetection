@@ -1,0 +1,15 @@
+[
+    [
+        2528,
+        [],
+        "a subgenre of Japanese fantasy anime and manga which features girls with magical powers or who use magic"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Magical girl(Japanese:\u9b54\u6cd5 \u5c11\u5973,Hepburn:mah\u014d sh\u014djo) is a subgenre of Japanese fantasy anime and manga which features girls with magical powers or who use magic. Although the genre has origins in Japan, it has been used as a motif outside Japan in Western works such as Winx Club, among others. Question: What is a magical girl? Answer:",
+    {
+        "id": "english--2833888215750691737-1",
+        "lang": "english",
+        "summary": "Magical girl(Japanese:\u9b54\u6cd5 \u5c11\u5973,Hepburn:mah\u014d sh\u014djo) is a subgenre of Japanese fantasy anime and manga which features girls with magical powers or who use magic. Although the genre has origins in Japan, it has been used as a motif outside Japan in Western works such as Winx Club, among others.",
+        "question": "What is a magical girl?",
+        "label": "a subgenre of Japanese fantasy anime and manga which features girls with magical powers or who use magic"
+    }
+]

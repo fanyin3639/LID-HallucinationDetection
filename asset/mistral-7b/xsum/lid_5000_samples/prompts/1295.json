@@ -1,0 +1,14 @@
+[
+    [
+        1295,
+        [],
+        "Six people have been arrested in a false imprisonment investigation in County Meath in the Republic of Ireland."
+    ],
+    "Write a short summary for the following passage:\nGarda\u00c3\u00ad (Irish police) said the arrests were made after officers carried out a planned search of a house at Castletown in Navan on Thursday evening.\nThose detained were three men, two women and a girl under 18 years of age.\nA Garda spokesman would not confirm state media reports that up to 20 people were found in the house.\nThe six suspects are being held at police stations in County Meath.\nSummary:\n",
+    {
+        "id": 1295,
+        "document": "Garda\u00c3\u00ad (Irish police) said the arrests were made after officers carried out a planned search of a house at Castletown in Navan on Thursday evening.\nThose detained were three men, two women and a girl under 18 years of age.\nA Garda spokesman would not confirm state media reports that up to 20 people were found in the house.\nThe six suspects are being held at police stations in County Meath.",
+        "summary": "Six people have been arrested in a false imprisonment investigation in County Meath in the Republic of Ireland.",
+        "label": "Six people have been arrested in a false imprisonment investigation in County Meath in the Republic of Ireland."
+    }
+]

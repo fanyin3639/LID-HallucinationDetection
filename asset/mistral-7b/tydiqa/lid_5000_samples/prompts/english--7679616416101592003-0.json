@@ -1,0 +1,15 @@
+[
+    [
+        1808,
+        [],
+        "28ft (8.5 m)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Angel Oak is a Southern live oak (Quercus virginiana) located in Angel Oak Park on Johns Island near Charleston, South Carolina. The tree is estimated to be 400-500 years old.[1] It stands 66.5ft  (20 m) tall, measures 28ft (8.5 m) in circumference, and produces shade that covers 17,200 square feet (1,600 m2). Its longest branch distance is 187ft[2] in length. Angel Oak was the 210th tree to be registered with the Live Oak Society.[3][4][5] Question: What is the trunk circumference of the Angel Oak in South Carolina? Answer:",
+    {
+        "id": "english--7679616416101592003-0",
+        "lang": "english",
+        "summary": "Angel Oak is a Southern live oak (Quercus virginiana) located in Angel Oak Park on Johns Island near Charleston, South Carolina. The tree is estimated to be 400-500 years old.[1] It stands 66.5ft  (20 m) tall, measures 28ft (8.5 m) in circumference, and produces shade that covers 17,200 square feet (1,600 m2). Its longest branch distance is 187ft[2] in length. Angel Oak was the 210th tree to be registered with the Live Oak Society.[3][4][5]",
+        "question": "What is the trunk circumference of the Angel Oak in South Carolina?",
+        "label": "28ft (8.5 m)"
+    }
+]

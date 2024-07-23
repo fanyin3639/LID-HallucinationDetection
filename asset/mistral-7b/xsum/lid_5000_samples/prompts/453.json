@@ -1,0 +1,14 @@
+[
+    [
+        453,
+        [],
+        "A 27-year-old man has been charged with causing death by dangerous driving in connection with a car crash in Leeds."
+    ],
+    "Write a short summary for the following passage:\nMajid Malik, of Silverhill Avenue, Bradford, will appear at Leeds Magistrates' Court on Friday.\nJames Gilbey, 25, from Bramley, died after he was in collision with a car while crossing Stanningley Bypass on Monday night.\nSeven other arrested men have been released on bail.\nSummary:\n",
+    {
+        "id": 453,
+        "document": "Majid Malik, of Silverhill Avenue, Bradford, will appear at Leeds Magistrates' Court on Friday.\nJames Gilbey, 25, from Bramley, died after he was in collision with a car while crossing Stanningley Bypass on Monday night.\nSeven other arrested men have been released on bail.",
+        "summary": "A 27-year-old man has been charged with causing death by dangerous driving in connection with a car crash in Leeds.",
+        "label": "A 27-year-old man has been charged with causing death by dangerous driving in connection with a car crash in Leeds."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2605,
+        [],
+        "Holy Lance"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Holy Lance, also known as the Lance of Longinus (named after Saint Longinus), the Spear of Destiny, or the Holy Spear, according to the Gospel of John, is the lance that pierced the side of Jesus as he hung on the cross. Question: What is the spear that pierced Jesus' side called? Answer:",
+    {
+        "id": "english--7076655832310000558-0",
+        "lang": "english",
+        "summary": "The Holy Lance, also known as the Lance of Longinus (named after Saint Longinus), the Spear of Destiny, or the Holy Spear, according to the Gospel of John, is the lance that pierced the side of Jesus as he hung on the cross.",
+        "question": "What is the spear that pierced Jesus' side called?",
+        "label": "Holy Lance"
+    }
+]

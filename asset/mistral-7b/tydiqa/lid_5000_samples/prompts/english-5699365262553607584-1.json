@@ -1,0 +1,15 @@
+[
+    [
+        3021,
+        [],
+        "Hypertext Transfer Protocol Secure"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP) for secure communication over a computer network, and is widely used on the Internet.[1][2] In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS), or, formerly, its predecessor, Secure Sockets Layer (SSL). The protocol is therefore also often referred to as HTTP over TLS,[3] or HTTP over SSL. Question: What does HTTPS stand for? Answer:",
+    {
+        "id": "english-5699365262553607584-1",
+        "lang": "english",
+        "summary": "Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP) for secure communication over a computer network, and is widely used on the Internet.[1][2] In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS), or, formerly, its predecessor, Secure Sockets Layer (SSL). The protocol is therefore also often referred to as HTTP over TLS,[3] or HTTP over SSL.",
+        "question": "What does HTTPS stand for?",
+        "label": "Hypertext Transfer Protocol Secure"
+    }
+]

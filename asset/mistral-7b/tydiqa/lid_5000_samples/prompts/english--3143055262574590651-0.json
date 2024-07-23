@@ -1,0 +1,15 @@
+[
+    [
+        1743,
+        [],
+        "9 September 2014"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Old Isisford District Hospital is a heritage-listed former public hospital at 6 St Agnes Street, Isisford, Longreach Region, Queensland, Australia. It was designed by Queensland Department of Public Works and built from 1914 to 1918. It is also known as Isisford District Hospital (former). It was added to the Queensland Heritage Register on 9 September 2014.[1] Question: When did Old Isisford District Hospital become a heritage-listed site? Answer:",
+    {
+        "id": "english--3143055262574590651-0",
+        "lang": "english",
+        "summary": "Old Isisford District Hospital is a heritage-listed former public hospital at 6 St Agnes Street, Isisford, Longreach Region, Queensland, Australia. It was designed by Queensland Department of Public Works and built from 1914 to 1918. It is also known as Isisford District Hospital (former). It was added to the Queensland Heritage Register on 9 September 2014.[1]",
+        "question": "When did Old Isisford District Hospital become a heritage-listed site?",
+        "label": "9 September 2014"
+    }
+]

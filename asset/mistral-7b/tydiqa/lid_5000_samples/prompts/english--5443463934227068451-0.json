@@ -1,0 +1,15 @@
+[
+    [
+        2902,
+        [],
+        "MetLife Stadium"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: MetLife Stadium is a multi-purpose stadium located in East Rutherford, New Jersey, 8 miles (13km) outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built,[10] at the time it opened. Question: What stadium do the Jets home play? Answer:",
+    {
+        "id": "english--5443463934227068451-0",
+        "lang": "english",
+        "summary": "MetLife Stadium is a multi-purpose stadium located in East Rutherford, New Jersey, 8 miles (13km) outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built,[10] at the time it opened.",
+        "question": "What stadium do the Jets home play?",
+        "label": "MetLife Stadium"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2915,
+        [],
+        "massive heart attack"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The death of Kim Jong-il was reported by North Korean state television news on 19 December 2011.[1] The presenter Ri Chun-hee announced that he had died on 17 December at 8:30 am of a massive heart attack while travelling by train to an area outside Pyongyang. Reportedly, he had received medical treatment for cardiac and cerebrovascular diseases. During the trip though, he was said to have had an advanced acute myocardial infarction, complicated with a serious heart shock.[2][3] However, it was reported by South Korean media in December 2012 that he had died in a fit of rage over construction faults at a crucial power plant project.[4] Question: How did Kim Hong-il die? Answer:",
+    {
+        "id": "english-2882292491796977240-1",
+        "lang": "english",
+        "summary": "The death of Kim Jong-il was reported by North Korean state television news on 19 December 2011.[1] The presenter Ri Chun-hee announced that he had died on 17 December at 8:30 am of a massive heart attack while travelling by train to an area outside Pyongyang. Reportedly, he had received medical treatment for cardiac and cerebrovascular diseases. During the trip though, he was said to have had an advanced acute myocardial infarction, complicated with a serious heart shock.[2][3] However, it was reported by South Korean media in December 2012 that he had died in a fit of rage over construction faults at a crucial power plant project.[4]",
+        "question": "How did Kim Hong-il die?",
+        "label": "massive heart attack"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2421,
+        [],
+        "one million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Great Famine (Irish: an Gorta M\u00f3r, [an\u02e0 \u02c8g\u0254\u027e\u02e0t\u032a\u02e0a m\u02e0o\u02d0\u027e\u02e0]), or the Great Hunger, was a period in Ireland between 1845 and 1849 of mass starvation, disease, and emigration.[1] With the most severely affected areas in the west and south of Ireland, where the Irish language was primarily spoken, the period was contemporaneously known as Irish: An Drochshaol,[2] loosely translated as the \"hard times\" (or literally, \"The Bad Life\"). The worst year of the period, that of \"Black 47\", is known as Irish: Bliain an Drochshaoil.[3][4]  During the famine, about one million people died and a million more emigrated from Ireland,[5] causing the island's population to fall by between 20% and 25%.[6] Question: How many died during the Potato Famine? Answer:",
+    {
+        "id": "english-7644015755573332141-0",
+        "lang": "english",
+        "summary": "The Great Famine (Irish: an Gorta M\u00f3r, [an\u02e0 \u02c8g\u0254\u027e\u02e0t\u032a\u02e0a m\u02e0o\u02d0\u027e\u02e0]), or the Great Hunger, was a period in Ireland between 1845 and 1849 of mass starvation, disease, and emigration.[1] With the most severely affected areas in the west and south of Ireland, where the Irish language was primarily spoken, the period was contemporaneously known as Irish: An Drochshaol,[2] loosely translated as the \"hard times\" (or literally, \"The Bad Life\"). The worst year of the period, that of \"Black 47\", is known as Irish: Bliain an Drochshaoil.[3][4]  During the famine, about one million people died and a million more emigrated from Ireland,[5] causing the island's population to fall by between 20% and 25%.[6]",
+        "question": "How many died during the Potato Famine?",
+        "label": "one million"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        142,
+        [],
+        "400 miles"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Sacramento River is the principal river of Northern California in the United States, and is the largest river in California.[9] Rising in the Klamath Mountains, the river flows south for 400 miles (640km) before reaching the Sacramento\u2013San Joaquin River Delta and San Francisco Bay. The river drains about 26,500 square miles (69,000km2) in 19 California counties, mostly within the fertile agricultural region bounded by the Coast Ranges and Sierra Nevada known as the Sacramento Valley, but also extending as far as the volcanic plateaus of Northeastern California. Historically, its watershed has reached as far north as south-central Oregon where the now, primarily, endorheic (closed) Goose Lake rarely experiences southerly outflow into the Pit River, the most northerly tributary of the Sacramento. Question: How long is the Sacramento River? Answer:",
+    {
+        "id": "english-5040015057082651103-0",
+        "lang": "english",
+        "summary": "The Sacramento River is the principal river of Northern California in the United States, and is the largest river in California.[9] Rising in the Klamath Mountains, the river flows south for 400 miles (640km) before reaching the Sacramento\u2013San Joaquin River Delta and San Francisco Bay. The river drains about 26,500 square miles (69,000km2) in 19 California counties, mostly within the fertile agricultural region bounded by the Coast Ranges and Sierra Nevada known as the Sacramento Valley, but also extending as far as the volcanic plateaus of Northeastern California. Historically, its watershed has reached as far north as south-central Oregon where the now, primarily, endorheic (closed) Goose Lake rarely experiences southerly outflow into the Pit River, the most northerly tributary of the Sacramento.",
+        "question": "How long is the Sacramento River?",
+        "label": "400 miles"
+    }
+]

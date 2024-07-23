@@ -1,0 +1,15 @@
+[
+    [
+        717,
+        [],
+        "August 6, 1945"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: So far, two nuclear weapons have been used in the course of warfare, both by the United States near the end of World War II. On August 6, 1945, a uranium gun-type device (code name \"Little Boy\") was detonated over the Japanese city of Hiroshima. Three days later, on August 9, a plutonium implosion-type device (code name \"Fat Man\") was detonated over the Japanese city of Nagasaki. These two bombings resulted in the deaths of approximately 120,000 people. Question: When were nuclear weapons first used in war? Answer:",
+    {
+        "id": "english-393600025539513182-4",
+        "lang": "english",
+        "summary": "So far, two nuclear weapons have been used in the course of warfare, both by the United States near the end of World War II. On August 6, 1945, a uranium gun-type device (code name \"Little Boy\") was detonated over the Japanese city of Hiroshima. Three days later, on August 9, a plutonium implosion-type device (code name \"Fat Man\") was detonated over the Japanese city of Nagasaki. These two bombings resulted in the deaths of approximately 120,000 people.",
+        "question": "When were nuclear weapons first used in war?",
+        "label": "August 6, 1945"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2234,
+        [],
+        "124.6\u2013122million years ago"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Three specimens have been assigned to Sinosauropteryx prima: the holotype GMV2123 (and its counter slab [opposite face], NIGP127586), NIGP127587, and D2141.[13] Another specimen, IVPPV14202, was assigned to the genus but not to the only species by Zhang and colleagues.[8] The assignment of an additional larger specimen to S. prima, GMV2124, was later found to be in error.[13][14] All of the fossils were found in the Jianshangou or Dawangzhangzi Beds of the Yixian Formation in the Beipiao and Lingyuan regions of Liaoning, China. These fossil beds have been dated to 124.6\u2013122million years ago, during the early Aptian stage of the Early Cretaceous.[15] Question: When did the sinosauropteryx live? Answer:",
+    {
+        "id": "english--6580920772999284208-17",
+        "lang": "english",
+        "summary": "Three specimens have been assigned to Sinosauropteryx prima: the holotype GMV2123 (and its counter slab [opposite face], NIGP127586), NIGP127587, and D2141.[13] Another specimen, IVPPV14202, was assigned to the genus but not to the only species by Zhang and colleagues.[8] The assignment of an additional larger specimen to S. prima, GMV2124, was later found to be in error.[13][14] All of the fossils were found in the Jianshangou or Dawangzhangzi Beds of the Yixian Formation in the Beipiao and Lingyuan regions of Liaoning, China. These fossil beds have been dated to 124.6\u2013122million years ago, during the early Aptian stage of the Early Cretaceous.[15]",
+        "question": "When did the sinosauropteryx live?",
+        "label": "124.6\u2013122million years ago"
+    }
+]

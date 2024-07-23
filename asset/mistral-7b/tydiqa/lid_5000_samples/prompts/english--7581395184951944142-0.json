@@ -1,0 +1,15 @@
+[
+    [
+        1893,
+        [],
+        "13 May 2002"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first series of the British spy drama television series Spooks (known as MI-5 in the United States) began broadcasting on 13 May 2002 on BBC One, before ending on 17 June 2002. It consists of six episodes. Spooks follows the actions of Section D, a counter-terrorism division of the British Security Services (MI5). Among the storylines, main character Tom Quinn faces dilemmas living a double life with his girlfriend, who at first does not know he is really a spy, and Tessa Phillips is running phantom agents for monetary gain. Matthew Macfadyen, Keeley Hawes, David Oyelowo, Peter Firth, Jenny Agutter, Lisa Faulkner, Esther Hall, Heather Cave, Hugh Simon and Greame Mearns are listed as the main cast. Question: When did the first series of Spooks begin? Answer:",
+    {
+        "id": "english--7581395184951944142-0",
+        "lang": "english",
+        "summary": "The first series of the British spy drama television series Spooks (known as MI-5 in the United States) began broadcasting on 13 May 2002 on BBC One, before ending on 17 June 2002. It consists of six episodes. Spooks follows the actions of Section D, a counter-terrorism division of the British Security Services (MI5). Among the storylines, main character Tom Quinn faces dilemmas living a double life with his girlfriend, who at first does not know he is really a spy, and Tessa Phillips is running phantom agents for monetary gain. Matthew Macfadyen, Keeley Hawes, David Oyelowo, Peter Firth, Jenny Agutter, Lisa Faulkner, Esther Hall, Heather Cave, Hugh Simon and Greame Mearns are listed as the main cast.",
+        "question": "When did the first series of Spooks begin?",
+        "label": "13 May 2002"
+    }
+]

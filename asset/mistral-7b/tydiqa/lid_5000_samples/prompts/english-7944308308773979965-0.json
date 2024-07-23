@@ -1,0 +1,15 @@
+[
+    [
+        3170,
+        [],
+        "Mohammad Reza Pahlavi"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mohammad Reza Pahlavi (Persian: \u0645\u062d\u0645\u062f\u0631\u0636\u0627 \u067e\u0647\u0644\u0648\u06cc\u200e, pronounced[moh\u00e6m\u02c8m\u00e6d re\u02c8z\u0252\u02d0 \u02c8\u0283\u0252\u02d0h p\u00e6hl\u00e6\u02c8vi\u02d0]; 26 October 1919\u2013 27 July 1980),[3] also known as Mohammad Reza Shah, was the last Shah of Iran from 16 September 1941 until his overthrow by the Iranian Revolution on 11 February 1979. Mohammad Reza Shah took the title Shahanshah (\"King of Kings\")[4] on 26 October 1967. He was the second and last monarch of the House of Pahlavi. Mohammad Reza Shah Pahlavi held several other titles, including that of Aryamehr (\"Light of the Aryans\") and Bozorg Arteshtaran (\"Commander-in-Chief\"). His dream of what he referred to as a \"Great Civilisation\" (Persian: \u062a\u0645\u062f\u0646 \u0628\u0632\u0631\u06af\u200e, romanized:tamadon-e bozorg) in Iran led to a rapid industrial and military modernisation, as well as economic and social reforms.[5] Question: Who was the most recent Shah of Iran? Answer:",
+    {
+        "id": "english-7944308308773979965-0",
+        "lang": "english",
+        "summary": "Mohammad Reza Pahlavi (Persian: \u0645\u062d\u0645\u062f\u0631\u0636\u0627 \u067e\u0647\u0644\u0648\u06cc\u200e, pronounced[moh\u00e6m\u02c8m\u00e6d re\u02c8z\u0252\u02d0 \u02c8\u0283\u0252\u02d0h p\u00e6hl\u00e6\u02c8vi\u02d0]; 26 October 1919\u2013 27 July 1980),[3] also known as Mohammad Reza Shah, was the last Shah of Iran from 16 September 1941 until his overthrow by the Iranian Revolution on 11 February 1979. Mohammad Reza Shah took the title Shahanshah (\"King of Kings\")[4] on 26 October 1967. He was the second and last monarch of the House of Pahlavi. Mohammad Reza Shah Pahlavi held several other titles, including that of Aryamehr (\"Light of the Aryans\") and Bozorg Arteshtaran (\"Commander-in-Chief\"). His dream of what he referred to as a \"Great Civilisation\" (Persian: \u062a\u0645\u062f\u0646 \u0628\u0632\u0631\u06af\u200e, romanized:tamadon-e bozorg) in Iran led to a rapid industrial and military modernisation, as well as economic and social reforms.[5]",
+        "question": "Who was the most recent Shah of Iran?",
+        "label": "Mohammad Reza Pahlavi"
+    }
+]

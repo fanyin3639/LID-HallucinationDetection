@@ -1,0 +1,14 @@
+[
+    [
+        384,
+        [],
+        "Police in a suburb of Melbourne, Australia have shot dead a man after a hostage situation at an apartment building."
+    ],
+    "Write a short summary for the following passage:\nOfficers went to the address in Brighton after reports of an explosion - they found one man already dead in a stairwell.\nAnother man holding a woman against her will was found inside the building.\nSpecialist police began negotiations but officers then stormed the building and shot the hostage-taker dead.\nThree officers received non-life threatening injuries in the operation, one requiring hospital treatment.\nThe woman was rescued unharmed.\nThe area has been cordoned off and people are being advised to stay away.\nVictoria Police said they were investigating whether the incident was terror-related.\nSummary:\n",
+    {
+        "id": 384,
+        "document": "Officers went to the address in Brighton after reports of an explosion - they found one man already dead in a stairwell.\nAnother man holding a woman against her will was found inside the building.\nSpecialist police began negotiations but officers then stormed the building and shot the hostage-taker dead.\nThree officers received non-life threatening injuries in the operation, one requiring hospital treatment.\nThe woman was rescued unharmed.\nThe area has been cordoned off and people are being advised to stay away.\nVictoria Police said they were investigating whether the incident was terror-related.",
+        "summary": "Police in a suburb of Melbourne, Australia have shot dead a man after a hostage situation at an apartment building.",
+        "label": "Police in a suburb of Melbourne, Australia have shot dead a man after a hostage situation at an apartment building."
+    }
+]

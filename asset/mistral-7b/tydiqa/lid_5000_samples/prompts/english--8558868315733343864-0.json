@@ -1,0 +1,15 @@
+[
+    [
+        2623,
+        [],
+        "August 1, 1988"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Microsoft Office is a family of client software, server software, and services developed by Microsoft. It was first announced by Bill Gates on August 1, 1988, at COMDEX in Las Vegas. Initially a marketing term for an office suite (bundled set of productivity applications), the first version of Office contained Microsoft Word, Microsoft Excel, and Microsoft PowerPoint. Over the years, Office applications have grown substantially closer with shared features such as a common spell checker, OLE data integration and Visual Basic for Applications scripting language. Microsoft also positions Office as a development platform for line-of-business software under the Office Business Applications brand. On July 10, 2012, Softpedia reported that Office is used by over a billion people worldwide.[3] Question: When was Microsoft Office introduced? Answer:",
+    {
+        "id": "english--8558868315733343864-0",
+        "lang": "english",
+        "summary": "Microsoft Office is a family of client software, server software, and services developed by Microsoft. It was first announced by Bill Gates on August 1, 1988, at COMDEX in Las Vegas. Initially a marketing term for an office suite (bundled set of productivity applications), the first version of Office contained Microsoft Word, Microsoft Excel, and Microsoft PowerPoint. Over the years, Office applications have grown substantially closer with shared features such as a common spell checker, OLE data integration and Visual Basic for Applications scripting language. Microsoft also positions Office as a development platform for line-of-business software under the Office Business Applications brand. On July 10, 2012, Softpedia reported that Office is used by over a billion people worldwide.[3]",
+        "question": "When was Microsoft Office introduced?",
+        "label": "August 1, 1988"
+    }
+]

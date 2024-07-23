@@ -1,0 +1,15 @@
+[
+    [
+        2732,
+        [],
+        "1880"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Little Fourteen-Year-Old Dancer (French: La Petite Danseuse de Quatorze Ans)  is a sculpture begun c. 1880 by Edgar Degas of a young student of the Paris Opera Ballet dance school, a Belgian named Marie van Goethem. Question: When did Degas sculpt his \"Little Dancer\"? Answer:",
+    {
+        "id": "english-5702252761201944504-0",
+        "lang": "english",
+        "summary": "The Little Fourteen-Year-Old Dancer (French: La Petite Danseuse de Quatorze Ans)  is a sculpture begun c. 1880 by Edgar Degas of a young student of the Paris Opera Ballet dance school, a Belgian named Marie van Goethem.",
+        "question": "When did Degas sculpt his \"Little Dancer\"?",
+        "label": "1880"
+    }
+]

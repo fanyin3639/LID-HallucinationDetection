@@ -1,0 +1,15 @@
+[
+    [
+        1931,
+        [],
+        "1852\u20131871"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The NapoleonIII style was a highly eclectic style of architecture and decorative arts, which used elements of many different historical styles,and also made innovative use of modern materials, such as iron frameworks and glass skylights.  It flourished during the reign of Emperor Napoleon\u00a0III in France (1852\u20131871) and had an important influence on architecture and decoration in the rest of Europe and the United States. Major examples of the style include the Op\u00e9ra Garnier in Paris by Charles Garnier (1862\u201371), the Biblioth\u00e8que nationale de France. and the Church of Saint Augustine (1860\u20131871). The architectural style was closely connected with Haussmann's renovation of Paris carried out during the Second Empire; the new buildings, such as the opera, were intended as the focal points of the new boulevards. Question: In what years was the Napoleon III style popular? Answer:",
+    {
+        "id": "english--8906162594216015360-0",
+        "lang": "english",
+        "summary": "The NapoleonIII style was a highly eclectic style of architecture and decorative arts, which used elements of many different historical styles,and also made innovative use of modern materials, such as iron frameworks and glass skylights.  It flourished during the reign of Emperor Napoleon\u00a0III in France (1852\u20131871) and had an important influence on architecture and decoration in the rest of Europe and the United States. Major examples of the style include the Op\u00e9ra Garnier in Paris by Charles Garnier (1862\u201371), the Biblioth\u00e8que nationale de France. and the Church of Saint Augustine (1860\u20131871). The architectural style was closely connected with Haussmann's renovation of Paris carried out during the Second Empire; the new buildings, such as the opera, were intended as the focal points of the new boulevards.",
+        "question": "In what years was the Napoleon III style popular?",
+        "label": "1852\u20131871"
+    }
+]

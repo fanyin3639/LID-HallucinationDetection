@@ -1,0 +1,15 @@
+[
+    [
+        903,
+        [],
+        "1899"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Socialist Party of America (SPA) was a multi-tendency democratic socialist and social democratic political party in the United States formed in 1901 by a merger between the three-year-old Social Democratic Party of America and disaffected elements of the Socialist Labor Party of America which had split from the main organization in 1899.[1] Question: When did the Socialist Party in the US disband? Answer:",
+    {
+        "id": "english--8892353926268747149-0",
+        "lang": "english",
+        "summary": "The Socialist Party of America (SPA) was a multi-tendency democratic socialist and social democratic political party in the United States formed in 1901 by a merger between the three-year-old Social Democratic Party of America and disaffected elements of the Socialist Labor Party of America which had split from the main organization in 1899.[1]",
+        "question": "When did the Socialist Party in the US disband?",
+        "label": "1899"
+    }
+]

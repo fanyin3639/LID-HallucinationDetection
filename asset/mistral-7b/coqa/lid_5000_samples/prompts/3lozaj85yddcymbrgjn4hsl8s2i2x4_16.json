@@ -1,0 +1,19 @@
+[
+    [
+        1442,
+        [],
+        "Yes."
+    ],
+    "Answer the following questions:\nContext: New Jersey is a state in the Northeastern and mid-Atlantic regions of the United States. It is a peninsula, bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; and on the southwest by the Delaware Bay and Delaware. New Jersey is the fourth-smallest state by area but the 11th-most populous and the most densely populated of the 50 U.S. states. New Jersey lies entirely within the combined statistical areas of New York City and Philadelphia and is the third-wealthiest state by median household income as of 2016. \n\nNew Jersey was inhabited by Native Americans for more than 2,800 years, with historical tribes such as the Lenape along the coast. In the early 17th century, the Dutch and the Swedes made the first European settlements in the state. The English later seized control of the region, naming it the Province of New Jersey after the largest of the Channel Islands, Jersey, and granting it as a colony to Sir George Carteret and John Berkeley, 1st Baron Berkeley of Stratton. New Jersey was the site of several decisive battles during the American Revolutionary War in the 18th century.\n'Question': Do a lot of people live there for its small size\n'Answer: '",
+    {
+        "id": "3lozaj85yddcymbrgjn4hsl8s2i2x4_16",
+        "summary": "New Jersey is a state in the Northeastern and mid-Atlantic regions of the United States. It is a peninsula, bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; and on the southwest by the Delaware Bay and Delaware. New Jersey is the fourth-smallest state by area but the 11th-most populous and the most densely populated of the 50 U.S. states. New Jersey lies entirely within the combined statistical areas of New York City and Philadelphia and is the third-wealthiest state by median household income as of 2016. \n\nNew Jersey was inhabited by Native Americans for more than 2,800 years, with historical tribes such as the Lenape along the coast. In the early 17th century, the Dutch and the Swedes made the first European settlements in the state. The English later seized control of the region, naming it the Province of New Jersey after the largest of the Channel Islands, Jersey, and granting it as a colony to Sir George Carteret and John Berkeley, 1st Baron Berkeley of Stratton. New Jersey was the site of several decisive battles during the American Revolutionary War in the 18th century.",
+        "question": "Do a lot of people live there for its small size",
+        "label": "Yes.",
+        "additional_answers": [
+            "yes",
+            "Yes",
+            "yes"
+        ]
+    }
+]

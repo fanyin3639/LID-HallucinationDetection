@@ -1,0 +1,14 @@
+[
+    [
+        1136,
+        [],
+        "A council breached the Data Protection Act after sensitive records relating to the care of a young child were lost, an investigation has ruled."
+    ],
+    "Write a short summary for the following passage:\nSocial services documents requested by a family member from Wokingham Borough Council went missing after the delivery driver left them outside the requester's home in August 2013.\nThey included details of allegations of neglect and abuse carried out by the requester's ex-partner.\nThe council has agreed to take action.\nThe Information Commissioner's Office (ICO), which carried out the investigation, said the driver had not been told about the sensitivity of the information, or that the delivery required a signature or returning to the council if no-one was available.\nThe council had also failed to arrange a suitable delivery time with the requester, it added.\nStephen Eckersley, ICO's head of enforcement, said a \"series of errors\" by the council led to a social services record being delivered \"with no consideration given to its content\".\nThe council has agreed to ensure future deliveries containing sensitive personal information are carried out securely.\nIt said it would also make sure its staff receive regular training in data protection and information security.\nSummary:\n",
+    {
+        "id": 1136,
+        "document": "Social services documents requested by a family member from Wokingham Borough Council went missing after the delivery driver left them outside the requester's home in August 2013.\nThey included details of allegations of neglect and abuse carried out by the requester's ex-partner.\nThe council has agreed to take action.\nThe Information Commissioner's Office (ICO), which carried out the investigation, said the driver had not been told about the sensitivity of the information, or that the delivery required a signature or returning to the council if no-one was available.\nThe council had also failed to arrange a suitable delivery time with the requester, it added.\nStephen Eckersley, ICO's head of enforcement, said a \"series of errors\" by the council led to a social services record being delivered \"with no consideration given to its content\".\nThe council has agreed to ensure future deliveries containing sensitive personal information are carried out securely.\nIt said it would also make sure its staff receive regular training in data protection and information security.",
+        "summary": "A council breached the Data Protection Act after sensitive records relating to the care of a young child were lost, an investigation has ruled.",
+        "label": "A council breached the Data Protection Act after sensitive records relating to the care of a young child were lost, an investigation has ruled."
+    }
+]

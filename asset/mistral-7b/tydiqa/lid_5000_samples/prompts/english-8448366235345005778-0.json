@@ -1,0 +1,15 @@
+[
+    [
+        1930,
+        [],
+        "Tim Berners-Lee"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The World Wide Web, also known as the WWW and the Web, is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and accessible via the Internet.[1] English scientist Tim Berners-Lee invented the World Wide Web in 1989. He wrote the first web browser in 1990 while employed at CERN near Geneva, Switzerland.[2][3] The browser was released outside CERN in 1991, first to other research institutions starting in January 1991 and to the general public on the Internet in August 1991. Question: Who invented the World Wide Web? Answer:",
+    {
+        "id": "english-8448366235345005778-0",
+        "lang": "english",
+        "summary": "The World Wide Web, also known as the WWW and the Web, is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and accessible via the Internet.[1] English scientist Tim Berners-Lee invented the World Wide Web in 1989. He wrote the first web browser in 1990 while employed at CERN near Geneva, Switzerland.[2][3] The browser was released outside CERN in 1991, first to other research institutions starting in January 1991 and to the general public on the Internet in August 1991.",
+        "question": "Who invented the World Wide Web?",
+        "label": "Tim Berners-Lee"
+    }
+]

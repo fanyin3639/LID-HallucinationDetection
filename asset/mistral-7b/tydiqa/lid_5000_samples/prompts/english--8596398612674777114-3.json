@@ -1,0 +1,15 @@
+[
+    [
+        2143,
+        [],
+        "1945"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The current system has undergone several changes since its foundation in 1945, though the basis of the system remains state planned and operated.[7] Question: When was universal health care introduced in France? Answer:",
+    {
+        "id": "english--8596398612674777114-3",
+        "lang": "english",
+        "summary": "The current system has undergone several changes since its foundation in 1945, though the basis of the system remains state planned and operated.[7]",
+        "question": "When was universal health care introduced in France?",
+        "label": "1945"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        272,
+        [],
+        "Sam Burgess will return to rugby league in an All-Stars game on 13 February."
+    ],
+    "Write a short summary for the following passage:\nBurgess, 27, rejoined South Sydney Rabbitohs after cutting short his time in rugby union following England's ill-fated World Cup campaign.\nBurgess, whose move has not yet been sanctioned by the National Rugby League, has been named in a World XIII to play an Indigenous Australian side.\nEngland trio James Graham, Gareth Widdop and Tom Burgess, Sam's younger brother, have also been picked.\nAll three were members of the squad that defeated New Zealand in the recent Test series.\nSummary:\n",
+    {
+        "id": 272,
+        "document": "Burgess, 27, rejoined South Sydney Rabbitohs after cutting short his time in rugby union following England's ill-fated World Cup campaign.\nBurgess, whose move has not yet been sanctioned by the National Rugby League, has been named in a World XIII to play an Indigenous Australian side.\nEngland trio James Graham, Gareth Widdop and Tom Burgess, Sam's younger brother, have also been picked.\nAll three were members of the squad that defeated New Zealand in the recent Test series.",
+        "summary": "Sam Burgess will return to rugby league in an All-Stars game on 13 February.",
+        "label": "Sam Burgess will return to rugby league in an All-Stars game on 13 February."
+    }
+]

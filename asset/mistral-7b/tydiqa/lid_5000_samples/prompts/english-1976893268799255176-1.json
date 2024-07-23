@@ -1,0 +1,15 @@
+[
+    [
+        1243,
+        [],
+        "1,273 kilometres"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Alberta Provincial Highway No.2, commonly referred to as Highway2 or the Queen ElizabethII Highway,[lower-alpha 2] is a major highway in Alberta, Canada that stretches from the Canada\u2013United States border through Calgary and Edmonton to Grande Prairie.  Running primarily north to south for approximately 1,273 kilometres (791mi), it is the longest and busiest highway in the province carrying nearly 170,000 vehicles per day in central Calgary.  Between Edmonton and Fort Macleod, the highway forms a portion of Alberta's Export Highway and the CANAMEX Corridor.  More than half of Alberta's 4million residents live in the Calgary\u2013Edmonton Corridor created by Highway2. Question: How long is the Alberta Provincial Highway No. 2? Answer:",
+    {
+        "id": "english-1976893268799255176-1",
+        "lang": "english",
+        "summary": "Alberta Provincial Highway No.2, commonly referred to as Highway2 or the Queen ElizabethII Highway,[lower-alpha 2] is a major highway in Alberta, Canada that stretches from the Canada\u2013United States border through Calgary and Edmonton to Grande Prairie.  Running primarily north to south for approximately 1,273 kilometres (791mi), it is the longest and busiest highway in the province carrying nearly 170,000 vehicles per day in central Calgary.  Between Edmonton and Fort Macleod, the highway forms a portion of Alberta's Export Highway and the CANAMEX Corridor.  More than half of Alberta's 4million residents live in the Calgary\u2013Edmonton Corridor created by Highway2.",
+        "question": "How long is the Alberta Provincial Highway No. 2?",
+        "label": "1,273 kilometres"
+    }
+]

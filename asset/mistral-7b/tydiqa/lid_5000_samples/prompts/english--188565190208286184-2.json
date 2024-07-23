@@ -1,0 +1,15 @@
+[
+    [
+        85,
+        [],
+        "c.2630\u20132610BC"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The earliest known Egyptian pyramids are found at Saqqara, northwest of Memphis. The earliest among these is the Pyramid of Djoser, which was built c.2630\u20132610BC during the Third Dynasty.[6] This pyramid and its surrounding complex were designed by the architect Imhotep, and are generally considered to be the world's oldest monumental structures constructed of dressed masonry.[7] Question: How old is the oldest pyramid? Answer:",
+    {
+        "id": "english--188565190208286184-2",
+        "lang": "english",
+        "summary": "The earliest known Egyptian pyramids are found at Saqqara, northwest of Memphis. The earliest among these is the Pyramid of Djoser, which was built c.2630\u20132610BC during the Third Dynasty.[6] This pyramid and its surrounding complex were designed by the architect Imhotep, and are generally considered to be the world's oldest monumental structures constructed of dressed masonry.[7]",
+        "question": "How old is the oldest pyramid?",
+        "label": "c.2630\u20132610BC"
+    }
+]

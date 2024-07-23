@@ -1,0 +1,15 @@
+[
+    [
+        1786,
+        [],
+        "natural causes"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the Hebrew Bible, Solomon is the last ruler of a united Kingdom of Israel. He dies of natural causes[35] at around 60 years of age. Upon Solomon's death, his son, Rehoboam, succeeds him. However, ten of the Tribes of Israel refuse to accept him as king, splitting the United Monarchy in the northern Kingdom of Israel under Jeroboam, while Rehoboam continues to reign over the much smaller southern Kingdom of Judah. Henceforth the two kingdoms are never again united. Question: how did Solomon die? Answer:",
+    {
+        "id": "english--1725565175604065733-39",
+        "lang": "english",
+        "summary": "According to the Hebrew Bible, Solomon is the last ruler of a united Kingdom of Israel. He dies of natural causes[35] at around 60 years of age. Upon Solomon's death, his son, Rehoboam, succeeds him. However, ten of the Tribes of Israel refuse to accept him as king, splitting the United Monarchy in the northern Kingdom of Israel under Jeroboam, while Rehoboam continues to reign over the much smaller southern Kingdom of Judah. Henceforth the two kingdoms are never again united.",
+        "question": "how did Solomon die?",
+        "label": "natural causes"
+    }
+]

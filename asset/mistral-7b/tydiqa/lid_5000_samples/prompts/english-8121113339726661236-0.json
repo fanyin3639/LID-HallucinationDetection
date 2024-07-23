@@ -1,0 +1,15 @@
+[
+    [
+        2239,
+        [],
+        "1759"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Candide, ou l'Optimisme (/k\u00e6n\u02c8di\u02d0d/; French:[k\u0251\u0303did]) is a French satire first published in 1759 by Voltaire, a philosopher of the Age of Enlightenment.[5] The novella has been widely translated, with English versions titled Candide: or, All for the Best (1759); Candide: or, The Optimist (1762); and Candide: Optimism (1947).[6] It begins with a young man, Candide, who is living a sheltered life in an Edenic paradise and being indoctrinated with Leibnizian optimism by his mentor, Professor Pangloss.[7] The work describes the abrupt cessation of this lifestyle, followed by Candide's slow and painful disillusionment as he witnesses and experiences great hardships in the world. Voltaire concludes with Candide, if not rejecting Leibnizian optimism outright, advocating a deeply practical precept, \"we must cultivate our garden\", in lieu of the Leibnizian mantra of Pangloss, \"all is for the best\" in the \"best of all possible worlds\". Question: When did Voltaire publish Candide? Answer:",
+    {
+        "id": "english-8121113339726661236-0",
+        "lang": "english",
+        "summary": "Candide, ou l'Optimisme (/k\u00e6n\u02c8di\u02d0d/; French:[k\u0251\u0303did]) is a French satire first published in 1759 by Voltaire, a philosopher of the Age of Enlightenment.[5] The novella has been widely translated, with English versions titled Candide: or, All for the Best (1759); Candide: or, The Optimist (1762); and Candide: Optimism (1947).[6] It begins with a young man, Candide, who is living a sheltered life in an Edenic paradise and being indoctrinated with Leibnizian optimism by his mentor, Professor Pangloss.[7] The work describes the abrupt cessation of this lifestyle, followed by Candide's slow and painful disillusionment as he witnesses and experiences great hardships in the world. Voltaire concludes with Candide, if not rejecting Leibnizian optimism outright, advocating a deeply practical precept, \"we must cultivate our garden\", in lieu of the Leibnizian mantra of Pangloss, \"all is for the best\" in the \"best of all possible worlds\".",
+        "question": "When did Voltaire publish Candide?",
+        "label": "1759"
+    }
+]

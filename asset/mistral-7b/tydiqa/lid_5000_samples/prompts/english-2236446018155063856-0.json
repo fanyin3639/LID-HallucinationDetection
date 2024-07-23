@@ -1,0 +1,15 @@
+[
+    [
+        1127,
+        [],
+        "21million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Schizophrenia affects around 0.3\u20130.7% of people at some point in their life,[1] or 21million people worldwide as of 2011 (about one of every 285).[2] By using precise methods in its diagnosis and a large, representative population, schizophrenia seems to occur with relative consistency over time during the last half-century.[3] Question: How many people have schizophrenia? Answer:",
+    {
+        "id": "english-2236446018155063856-0",
+        "lang": "english",
+        "summary": "Schizophrenia affects around 0.3\u20130.7% of people at some point in their life,[1] or 21million people worldwide as of 2011 (about one of every 285).[2] By using precise methods in its diagnosis and a large, representative population, schizophrenia seems to occur with relative consistency over time during the last half-century.[3]",
+        "question": "How many people have schizophrenia?",
+        "label": "21million"
+    }
+]

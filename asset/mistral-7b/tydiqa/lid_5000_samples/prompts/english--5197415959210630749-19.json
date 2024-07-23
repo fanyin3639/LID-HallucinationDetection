@@ -1,0 +1,15 @@
+[
+    [
+        989,
+        [],
+        "Derbyshire, England"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Richard Arkwright is the person credited with inventing the prototype of the modern factory. After he patented his water frame in 1769, he established Cromford Mill, in Derbyshire, England, significantly expanding the village of Cromford to accommodate the migrant workers new to the area. The factory system was a new way of organizing labour made necessary by the development of machines which were too large to house in a worker's cottage. Working hours were as long as they had been for the farmer, that is, from dawn to dusk, six days per week. Overall, this practice essentially reduced skilled and unskilled workers to replaceable commodities. Arkwright's factory was the first successful cotton spinning factory in the world; it showed unequivocally the way ahead for industry and was widely copied. Question: Where was the first factory in the Industrial Revolution? Answer:",
+    {
+        "id": "english--5197415959210630749-19",
+        "lang": "english",
+        "summary": "Richard Arkwright is the person credited with inventing the prototype of the modern factory. After he patented his water frame in 1769, he established Cromford Mill, in Derbyshire, England, significantly expanding the village of Cromford to accommodate the migrant workers new to the area. The factory system was a new way of organizing labour made necessary by the development of machines which were too large to house in a worker's cottage. Working hours were as long as they had been for the farmer, that is, from dawn to dusk, six days per week. Overall, this practice essentially reduced skilled and unskilled workers to replaceable commodities. Arkwright's factory was the first successful cotton spinning factory in the world; it showed unequivocally the way ahead for industry and was widely copied.",
+        "question": "Where was the first factory in the Industrial Revolution?",
+        "label": "Derbyshire, England"
+    }
+]

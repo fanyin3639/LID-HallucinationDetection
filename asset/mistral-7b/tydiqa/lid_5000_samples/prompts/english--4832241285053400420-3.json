@@ -1,0 +1,15 @@
+[
+    [
+        1270,
+        [],
+        "June 1752"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Franklin's kite experiment was performed in Philadelphia in June 1752, according to the account by Priestley.[5] Franklin described the experiment in the Pennsylvania Gazette in October 19, 1752,[6][7] without mentioning that he himself had performed it.[8] This account was read to the Royal Society on December 21 and printed as such in the Philosophical Transactions.[5] A more complete account of Franklin's experiment was given by Joseph Priestley in 1767, who presumably learned the details directly from Franklin, who was in London at the time Priestley wrote the book.[5] Question: When did Benjamin Franklin supposedly perform his kite experiment? Answer:",
+    {
+        "id": "english--4832241285053400420-3",
+        "lang": "english",
+        "summary": "Franklin's kite experiment was performed in Philadelphia in June 1752, according to the account by Priestley.[5] Franklin described the experiment in the Pennsylvania Gazette in October 19, 1752,[6][7] without mentioning that he himself had performed it.[8] This account was read to the Royal Society on December 21 and printed as such in the Philosophical Transactions.[5] A more complete account of Franklin's experiment was given by Joseph Priestley in 1767, who presumably learned the details directly from Franklin, who was in London at the time Priestley wrote the book.[5]",
+        "question": "When did Benjamin Franklin supposedly perform his kite experiment?",
+        "label": "June 1752"
+    }
+]

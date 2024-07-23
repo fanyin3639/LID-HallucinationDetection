@@ -1,0 +1,14 @@
+[
+    [
+        1553,
+        [],
+        "BBC presenter Steve Hewlett has said his first course of chemotherapy has \"failed\"."
+    ],
+    "Write a short summary for the following passage:\nIt was discovered in March that the 58-year-old has cancer of the oesophagus, which connects the throat to the stomach.\nHe is having a second course of chemotherapy, plus radiotherapy, at the Royal Marsden Hospital in London.\nDespite the chemotherapy failing, Mr Hewlett said he was \"relatively positive\".\nThe journalist revealed his illness on the PM programme on Radio 4 three weeks ago.\nOn Monday, he told the same programme that - after four cycles of chemotherapy - it had looked like \"extraordinarily good news\".\nBut after the seventh cycle, a scan revealed that the cancer remained aggressive, and was growing back.\nHe said it was like \"being given notice\" - although, he added, he did not know \"whether the universe was going to act on it\".\nMr Hewlett - who has presented the Media Show on Radio 4 since 2008, and also writes for the Guardian - has three children, aged 24, 21, and 19.\nSince his diagnosis, he admitted, he has moments where he \"had to shed a few tears\".\n\"It can be in the bath, it can be in the shower, it can be just looking in the mirror (or) sitting on the bus,\" he said.\nHe added that he was happy to talk about his illness because \"not enough is said, often enough, about cancer\".\nSummary:\n",
+    {
+        "id": 1553,
+        "document": "It was discovered in March that the 58-year-old has cancer of the oesophagus, which connects the throat to the stomach.\nHe is having a second course of chemotherapy, plus radiotherapy, at the Royal Marsden Hospital in London.\nDespite the chemotherapy failing, Mr Hewlett said he was \"relatively positive\".\nThe journalist revealed his illness on the PM programme on Radio 4 three weeks ago.\nOn Monday, he told the same programme that - after four cycles of chemotherapy - it had looked like \"extraordinarily good news\".\nBut after the seventh cycle, a scan revealed that the cancer remained aggressive, and was growing back.\nHe said it was like \"being given notice\" - although, he added, he did not know \"whether the universe was going to act on it\".\nMr Hewlett - who has presented the Media Show on Radio 4 since 2008, and also writes for the Guardian - has three children, aged 24, 21, and 19.\nSince his diagnosis, he admitted, he has moments where he \"had to shed a few tears\".\n\"It can be in the bath, it can be in the shower, it can be just looking in the mirror (or) sitting on the bus,\" he said.\nHe added that he was happy to talk about his illness because \"not enough is said, often enough, about cancer\".",
+        "summary": "BBC presenter Steve Hewlett has said his first course of chemotherapy has \"failed\".",
+        "label": "BBC presenter Steve Hewlett has said his first course of chemotherapy has \"failed\"."
+    }
+]

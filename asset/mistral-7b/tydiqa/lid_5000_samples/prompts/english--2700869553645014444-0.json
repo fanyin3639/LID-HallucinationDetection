@@ -1,0 +1,15 @@
+[
+    [
+        2859,
+        [],
+        "it is used to cause contraction of the uterus to start labor, increase the speed of labor, and to stop bleeding following delivery"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Oxytocin, sold under the brand name Pitocin among others, is a medication made from the peptide oxytocin.[3][4] As a medication, it is used to cause contraction of the uterus to start labor, increase the speed of labor, and to stop bleeding following delivery.[3] For this purpose, it is given by injection either into a muscle or into a vein.[3] Question: Why do we use Oxytocin? Answer:",
+    {
+        "id": "english--2700869553645014444-0",
+        "lang": "english",
+        "summary": "Oxytocin, sold under the brand name Pitocin among others, is a medication made from the peptide oxytocin.[3][4] As a medication, it is used to cause contraction of the uterus to start labor, increase the speed of labor, and to stop bleeding following delivery.[3] For this purpose, it is given by injection either into a muscle or into a vein.[3]",
+        "question": "Why do we use Oxytocin?",
+        "label": "it is used to cause contraction of the uterus to start labor, increase the speed of labor, and to stop bleeding following delivery"
+    }
+]

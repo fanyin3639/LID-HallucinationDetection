@@ -1,0 +1,15 @@
+[
+    [
+        837,
+        [],
+        "100 years ago"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mosasaur growth is not well understood, as specimens of juveniles are rare, and many were mistaken for hesperornithine birds when discovered 100 years ago. However, the discovery of several specimens of juvenile and neonate-sized mosasaurs unearthed more than a century ago indicate that mosasaurs gave birth to live young, and that they spent their early years of life out in the open ocean, not in sheltered nurseries or areas such as shallow water as previously believed. If, like other marine reptiles (such as plesiosaurs), mosasaurs provided parental care is currently unknown. The discovery of young mosasaurs was published in the journal Palaeontology.[16] Question: When were the first mososaur fossils discovered? Answer:",
+    {
+        "id": "english-1781365699900661039-14",
+        "lang": "english",
+        "summary": "Mosasaur growth is not well understood, as specimens of juveniles are rare, and many were mistaken for hesperornithine birds when discovered 100 years ago. However, the discovery of several specimens of juvenile and neonate-sized mosasaurs unearthed more than a century ago indicate that mosasaurs gave birth to live young, and that they spent their early years of life out in the open ocean, not in sheltered nurseries or areas such as shallow water as previously believed. If, like other marine reptiles (such as plesiosaurs), mosasaurs provided parental care is currently unknown. The discovery of young mosasaurs was published in the journal Palaeontology.[16]",
+        "question": "When were the first mososaur fossils discovered?",
+        "label": "100 years ago"
+    }
+]

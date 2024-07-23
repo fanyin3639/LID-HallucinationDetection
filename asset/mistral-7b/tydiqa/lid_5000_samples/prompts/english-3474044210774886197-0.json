@@ -1,0 +1,15 @@
+[
+    [
+        151,
+        [],
+        "a phenomenon often attributed as a form of gender-based price discrimination"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The pink tax is a phenomenon often attributed as a form of gender-based price discrimination, with the name stemming from the observation that many of the affected products are pink.[1] Products marketed specifically toward women are generally more expensive than those marketed for men, despite either gender's choice to purchase either product. The NYC Department of Consumer Affairs conducted a study that concludes that women's products are typically more expensive than men's for often reasonable cause. There are many causes of this discrepancy, including the tampon tax, product differentiation, and the belief that women are less price elastic than men.[1][2][3][4] Question: What is the pink tax? Answer:",
+    {
+        "id": "english-3474044210774886197-0",
+        "lang": "english",
+        "summary": "The pink tax is a phenomenon often attributed as a form of gender-based price discrimination, with the name stemming from the observation that many of the affected products are pink.[1] Products marketed specifically toward women are generally more expensive than those marketed for men, despite either gender's choice to purchase either product. The NYC Department of Consumer Affairs conducted a study that concludes that women's products are typically more expensive than men's for often reasonable cause. There are many causes of this discrepancy, including the tampon tax, product differentiation, and the belief that women are less price elastic than men.[1][2][3][4]",
+        "question": "What is the pink tax?",
+        "label": "a phenomenon often attributed as a form of gender-based price discrimination"
+    }
+]

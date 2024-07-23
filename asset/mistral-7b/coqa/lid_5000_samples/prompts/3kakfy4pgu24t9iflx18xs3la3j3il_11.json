@@ -1,0 +1,19 @@
+[
+    [
+        220,
+        [],
+        "Baak Doi"
+    ],
+    "Answer the following questions:\nContext: RCA Records is an American record label owned by Sony Music, a subsidiary of Sony Corporation of America. It is one of SME's three flagship record labels, alongside Columbia Records and Epic Records. The label has released multiple genres of music, including pop, rock, hip hop, electronic, R&B, blues, jazz, and country. The company's name is derived from the initials of the label's former parent company, the Radio Corporation of America (RCA). It is the second oldest recording company in US history, after sister label Columbia Records. RCA's Canadian unit (formerly Berliner Gramophone Canada) is Sony's oldest label in Canada. It was one of only two Canadian record companies to survive the Great Depression. \n\nArtists currently signed to RCA Records include Britney Spears, Shakira, Christina Aguilera, Miley Cyrus, Justin Timberlake, Alicia Keys, Usher, Charlie Wilson, R. Kelly, Enrique Iglesias, Foo Fighters, Kings of Leon, Kesha, Chris Brown, D'Angelo, Pink, Walk the Moon, Pitbull and Zayn. \n\nIn 1929, the Radio Corporation of America (RCA) purchased the Victor Talking Machine Company, then the world's largest manufacturer of phonographs (including the famous \"Victrola\") and phonograph records (in British English, \"gramophone records\"). The company then became RCA Victor but retained use of the Victor Records name on their labels until the beginning of 1946 when the labels were finally switched over to RCA Victor. With Victor, RCA acquired New World rights to the famous Nipper \"His Master's Voice\" trademark; in Shanghai, China, RCA Victor was the main competitor with Baak Doi (EMI). Singer Carmen Miranda was signed to RCA Victor Brazilian branch, in 1929 to 1935, when she was still only known in Brazil.\n'Question': who is their main competitor in China?\n'Answer: '",
+    {
+        "id": "3kakfy4pgu24t9iflx18xs3la3j3il_11",
+        "summary": "RCA Records is an American record label owned by Sony Music, a subsidiary of Sony Corporation of America. It is one of SME's three flagship record labels, alongside Columbia Records and Epic Records. The label has released multiple genres of music, including pop, rock, hip hop, electronic, R&B, blues, jazz, and country. The company's name is derived from the initials of the label's former parent company, the Radio Corporation of America (RCA). It is the second oldest recording company in US history, after sister label Columbia Records. RCA's Canadian unit (formerly Berliner Gramophone Canada) is Sony's oldest label in Canada. It was one of only two Canadian record companies to survive the Great Depression. \n\nArtists currently signed to RCA Records include Britney Spears, Shakira, Christina Aguilera, Miley Cyrus, Justin Timberlake, Alicia Keys, Usher, Charlie Wilson, R. Kelly, Enrique Iglesias, Foo Fighters, Kings of Leon, Kesha, Chris Brown, D'Angelo, Pink, Walk the Moon, Pitbull and Zayn. \n\nIn 1929, the Radio Corporation of America (RCA) purchased the Victor Talking Machine Company, then the world's largest manufacturer of phonographs (including the famous \"Victrola\") and phonograph records (in British English, \"gramophone records\"). The company then became RCA Victor but retained use of the Victor Records name on their labels until the beginning of 1946 when the labels were finally switched over to RCA Victor. With Victor, RCA acquired New World rights to the famous Nipper \"His Master's Voice\" trademark; in Shanghai, China, RCA Victor was the main competitor with Baak Doi (EMI). Singer Carmen Miranda was signed to RCA Victor Brazilian branch, in 1929 to 1935, when she was still only known in Brazil.",
+        "question": "who is their main competitor in China?",
+        "label": "Baak Doi",
+        "additional_answers": [
+            "Baak Doi (EMI)",
+            "Baak Doi",
+            "Baak Doi (EMI)"
+        ]
+    }
+]

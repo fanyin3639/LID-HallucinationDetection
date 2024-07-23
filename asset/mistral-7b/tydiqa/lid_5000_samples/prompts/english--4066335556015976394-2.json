@@ -1,0 +1,15 @@
+[
+    [
+        2504,
+        [],
+        "13th-century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The importance of the escapement in the history of technology is that it was the key invention that made the all-mechanical clock possible.[1][2]  The invention of the first all-mechanical escapement, the verge escapement, in 13th-century Europe initiated a change in timekeeping methods from continuous processes, such as the flow of water in water clocks, to repetitive oscillatory processes, such as the swing of pendulums, which could yield more accuracy.[2]  Oscillating timekeepers are used in every modern clock. Question: When was the escapement first used inn mechanical watches and clocks? Answer:",
+    {
+        "id": "english--4066335556015976394-2",
+        "lang": "english",
+        "summary": "The importance of the escapement in the history of technology is that it was the key invention that made the all-mechanical clock possible.[1][2]  The invention of the first all-mechanical escapement, the verge escapement, in 13th-century Europe initiated a change in timekeeping methods from continuous processes, such as the flow of water in water clocks, to repetitive oscillatory processes, such as the swing of pendulums, which could yield more accuracy.[2]  Oscillating timekeepers are used in every modern clock.",
+        "question": "When was the escapement first used inn mechanical watches and clocks?",
+        "label": "13th-century"
+    }
+]

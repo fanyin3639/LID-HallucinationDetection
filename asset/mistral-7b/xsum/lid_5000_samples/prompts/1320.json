@@ -1,0 +1,14 @@
+[
+    [
+        1320,
+        [],
+        "Fire crews have been tackling a blaze at an Aberdeenshire takeaway."
+    ],
+    "Write a short summary for the following passage:\nSix fire engines were sent to the scene of the incident in Chinatown in Huntly.\nThe alarm was raised at about 13:45.\nA number of nearby buildings were evacuated. There were no reports of any injuries\nSummary:\n",
+    {
+        "id": 1320,
+        "document": "Six fire engines were sent to the scene of the incident in Chinatown in Huntly.\nThe alarm was raised at about 13:45.\nA number of nearby buildings were evacuated. There were no reports of any injuries",
+        "summary": "Fire crews have been tackling a blaze at an Aberdeenshire takeaway.",
+        "label": "Fire crews have been tackling a blaze at an Aberdeenshire takeaway."
+    }
+]

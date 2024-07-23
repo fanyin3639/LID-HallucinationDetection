@@ -1,0 +1,15 @@
+[
+    [
+        1304,
+        [],
+        "John Francis Bentley"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: It was designed by John Francis Bentley in a neo-Byzantine style, and is accordingly made almost entirely of brick, without steel reinforcements.[3][4] John Betjeman has called it \"a masterpiece in striped brick and stone\" and said that it shows that \"the good craftsman has no need of steel or concrete.\"[5] Question: Who designed Westminster Cathedral? Answer:",
+    {
+        "id": "english--1707894250339673406-3",
+        "lang": "english",
+        "summary": "It was designed by John Francis Bentley in a neo-Byzantine style, and is accordingly made almost entirely of brick, without steel reinforcements.[3][4] John Betjeman has called it \"a masterpiece in striped brick and stone\" and said that it shows that \"the good craftsman has no need of steel or concrete.\"[5]",
+        "question": "Who designed Westminster Cathedral?",
+        "label": "John Francis Bentley"
+    }
+]

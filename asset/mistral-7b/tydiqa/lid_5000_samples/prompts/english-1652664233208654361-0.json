@@ -1,0 +1,15 @@
+[
+    [
+        1314,
+        [],
+        "October 1977"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Smallpox was an infectious disease caused by one of two virus variants, variola major and variola minor.[7] The last naturally occurring case was diagnosed in October 1977 and the World Health Organization (WHO) certified the global eradication of the disease in 1980.[10] The risk of death following contracting the disease was about 30%, with higher rates among babies.[6][11] Often those who survived had extensive scarring of their skin and some were left blind.[6] Question: When was the last case of smallpox in the US? Answer:",
+    {
+        "id": "english-1652664233208654361-0",
+        "lang": "english",
+        "summary": "Smallpox was an infectious disease caused by one of two virus variants, variola major and variola minor.[7] The last naturally occurring case was diagnosed in October 1977 and the World Health Organization (WHO) certified the global eradication of the disease in 1980.[10] The risk of death following contracting the disease was about 30%, with higher rates among babies.[6][11] Often those who survived had extensive scarring of their skin and some were left blind.[6]",
+        "question": "When was the last case of smallpox in the US?",
+        "label": "October 1977"
+    }
+]

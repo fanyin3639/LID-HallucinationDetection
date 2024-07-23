@@ -1,0 +1,15 @@
+[
+    [
+        753,
+        [],
+        "Charles Darwin"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of evolutionary psychology began with Charles Darwin, who said that humans have social instincts that evolved by natural selection. Darwin's work inspired later psychologists such as William James and Sigmund Freud but for most of the 20th century psychologists focused more on behaviorism and proximate explanations for human behavior. E. O. Wilson's landmark 1975 book, Sociobiology, synthesized recent theoretical advances in evolutionary theory to explain social behavior in animals, including humans. Jerome Barkow, Leda Cosmides and John Tooby popularized the term \"evolutionary psychology\" in their 1992 book The Adapted Mind: Evolutionary Psychology and The Generation of Culture.[1] Like sociobiology before it, evolutionary psychology has been embroiled in controversy, but evolutionary psychologists see their field as gaining increased acceptance overall. Question: Who is the founder of evolutionary psychology? Answer:",
+    {
+        "id": "english--786856298521529862-0",
+        "lang": "english",
+        "summary": "The history of evolutionary psychology began with Charles Darwin, who said that humans have social instincts that evolved by natural selection. Darwin's work inspired later psychologists such as William James and Sigmund Freud but for most of the 20th century psychologists focused more on behaviorism and proximate explanations for human behavior. E. O. Wilson's landmark 1975 book, Sociobiology, synthesized recent theoretical advances in evolutionary theory to explain social behavior in animals, including humans. Jerome Barkow, Leda Cosmides and John Tooby popularized the term \"evolutionary psychology\" in their 1992 book The Adapted Mind: Evolutionary Psychology and The Generation of Culture.[1] Like sociobiology before it, evolutionary psychology has been embroiled in controversy, but evolutionary psychologists see their field as gaining increased acceptance overall.",
+        "question": "Who is the founder of evolutionary psychology?",
+        "label": "Charles Darwin"
+    }
+]

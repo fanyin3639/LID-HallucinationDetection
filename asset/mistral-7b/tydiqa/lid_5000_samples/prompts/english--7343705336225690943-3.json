@@ -1,0 +1,15 @@
+[
+    [
+        2757,
+        [],
+        "3000 BCE in Mesopotamia"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Whether in prehistoric or historic times, people always needed to be near reliable sources of potable water.  Settlements developed on river banks as early as 3000 BCE in Mesopotamia,[3] on the banks of Egypt's Nile River,[4][5] in the Indus River valley,[6] and along China's rivers.[7][8]  As farming developed, grain agriculture became more sophisticated and prompted a division of labour to store food between growing seasons. Labour divisions led to the rise of a leisured upper class and the development of cities, which provided the foundation for civilization. The growing complexity of human societies necessitated systems of accounting and writing. Question: What is the earliest known civilization? Answer:",
+    {
+        "id": "english--7343705336225690943-3",
+        "lang": "english",
+        "summary": "Whether in prehistoric or historic times, people always needed to be near reliable sources of potable water.  Settlements developed on river banks as early as 3000 BCE in Mesopotamia,[3] on the banks of Egypt's Nile River,[4][5] in the Indus River valley,[6] and along China's rivers.[7][8]  As farming developed, grain agriculture became more sophisticated and prompted a division of labour to store food between growing seasons. Labour divisions led to the rise of a leisured upper class and the development of cities, which provided the foundation for civilization. The growing complexity of human societies necessitated systems of accounting and writing.",
+        "question": "What is the earliest known civilization?",
+        "label": "3000 BCE in Mesopotamia"
+    }
+]

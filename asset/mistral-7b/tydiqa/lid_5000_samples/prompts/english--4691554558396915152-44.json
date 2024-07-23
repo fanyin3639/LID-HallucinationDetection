@@ -1,0 +1,15 @@
+[
+    [
+        340,
+        [],
+        "December 1, 2014"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On November 4, 2014, Supervisor Kuehl was elected to the Los Angeles County Board of Supervisors. She assumed office on December 1, 2014, thus becoming the first openly LGBTQ person to ever serve on the Board. As the representative of Los Angeles County's 3rd Supervisorial District, she serves the interests of nearly two million residents, and is responsible for managing 431 square miles of land stretching from the ocean to Los Feliz, and from Venice up to San Fernando. In 2018, she is serving as Chair of the Board of Supervisors. Question: When did Sheila James Kuehl join the Los Angeles County Board of Supervisors? Answer:",
+    {
+        "id": "english--4691554558396915152-44",
+        "lang": "english",
+        "summary": "On November 4, 2014, Supervisor Kuehl was elected to the Los Angeles County Board of Supervisors. She assumed office on December 1, 2014, thus becoming the first openly LGBTQ person to ever serve on the Board. As the representative of Los Angeles County's 3rd Supervisorial District, she serves the interests of nearly two million residents, and is responsible for managing 431 square miles of land stretching from the ocean to Los Feliz, and from Venice up to San Fernando. In 2018, she is serving as Chair of the Board of Supervisors.",
+        "question": "When did Sheila James Kuehl join the Los Angeles County Board of Supervisors?",
+        "label": "December 1, 2014"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1402,
+        [],
+        "fictional artificially-intelligent \"species\""
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cylons are a fictional artificially-intelligent \"species\" envisioned in the Battlestar Galactica science fiction series and related franchises. Originally created to serve human needs like other machines, a series of events involving the transfer of a human's consciousness into a Cylon's neural network led Cylons to evolve into sentient, self-aware beings. The original Cylons were purely mechanical. Question: Who are the Cylons? Answer:",
+    {
+        "id": "english--4211547764595428353-0",
+        "lang": "english",
+        "summary": "Cylons are a fictional artificially-intelligent \"species\" envisioned in the Battlestar Galactica science fiction series and related franchises. Originally created to serve human needs like other machines, a series of events involving the transfer of a human's consciousness into a Cylon's neural network led Cylons to evolve into sentient, self-aware beings. The original Cylons were purely mechanical.",
+        "question": "Who are the Cylons?",
+        "label": "fictional artificially-intelligent \"species\""
+    }
+]

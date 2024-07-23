@@ -1,0 +1,15 @@
+[
+    [
+        2781,
+        [],
+        "1917"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lincoln Motor Company was founded in 1917 by Henry M. Leland, naming it after Abraham Lincoln; in 1922, Lincoln was acquired by Ford.[5]  Following World War II, Ford formed the Lincoln-Mercury Division, pairing Lincoln with its mid-range Mercury brand through 2010.  In 2012, Ford rebranded the Lincoln division under its original name, Lincoln Motor Company.[6]  Originally founded as a freestanding division above Lincoln, Continental was integrated within Lincoln in 1959.  The Continental-branded Mark Series was marketed through Lincoln starting in 1968, adapting the Lincoln name in 1986.  The Lincoln star emblem is derived from a badge first used on the 1956 Continental Mark II. Question: When was Lincoln automotive founded? Answer:",
+    {
+        "id": "english-6784227505422367339-1",
+        "lang": "english",
+        "summary": "Lincoln Motor Company was founded in 1917 by Henry M. Leland, naming it after Abraham Lincoln; in 1922, Lincoln was acquired by Ford.[5]  Following World War II, Ford formed the Lincoln-Mercury Division, pairing Lincoln with its mid-range Mercury brand through 2010.  In 2012, Ford rebranded the Lincoln division under its original name, Lincoln Motor Company.[6]  Originally founded as a freestanding division above Lincoln, Continental was integrated within Lincoln in 1959.  The Continental-branded Mark Series was marketed through Lincoln starting in 1968, adapting the Lincoln name in 1986.  The Lincoln star emblem is derived from a badge first used on the 1956 Continental Mark II.",
+        "question": "When was Lincoln automotive founded?",
+        "label": "1917"
+    }
+]

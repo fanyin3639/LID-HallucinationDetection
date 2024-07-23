@@ -1,0 +1,15 @@
+[
+    [
+        3167,
+        [],
+        "January 1, 1935"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Sugar Bowl is an annual American college football bowl game played in New Orleans, Louisiana. It has been played annually since January 1, 1935, and celebrated its 75th anniversary on January 2, 2009. The Sugar Bowl, along with the Orange Bowl and Sun Bowl, are the second-oldest bowl games in the country, behind the Rose Bowl Game.[2] Question: When was the first Sugar Bowl game? Answer:",
+    {
+        "id": "english--288557974672070285-0",
+        "lang": "english",
+        "summary": "The Sugar Bowl is an annual American college football bowl game played in New Orleans, Louisiana. It has been played annually since January 1, 1935, and celebrated its 75th anniversary on January 2, 2009. The Sugar Bowl, along with the Orange Bowl and Sun Bowl, are the second-oldest bowl games in the country, behind the Rose Bowl Game.[2]",
+        "question": "When was the first Sugar Bowl game?",
+        "label": "January 1, 1935"
+    }
+]

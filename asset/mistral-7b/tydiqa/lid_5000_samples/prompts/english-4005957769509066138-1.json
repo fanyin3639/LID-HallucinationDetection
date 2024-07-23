@@ -1,0 +1,15 @@
+[
+    [
+        2831,
+        [],
+        "1969"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first live-action film based on Spider-Man was the unauthorized short Spider-Man by Donald F. Glut in 1969. This was followed by Spider-Man, an American made-for-television film that premiered on the CBS network in 1977. It starred Nicholas Hammond and was intended as a backdoor pilot for what became a weekly episodic TV series. Question: When was the first Spider-Man movie released? Answer:",
+    {
+        "id": "english-4005957769509066138-1",
+        "lang": "english",
+        "summary": "The first live-action film based on Spider-Man was the unauthorized short Spider-Man by Donald F. Glut in 1969. This was followed by Spider-Man, an American made-for-television film that premiered on the CBS network in 1977. It starred Nicholas Hammond and was intended as a backdoor pilot for what became a weekly episodic TV series.",
+        "question": "When was the first Spider-Man movie released?",
+        "label": "1969"
+    }
+]

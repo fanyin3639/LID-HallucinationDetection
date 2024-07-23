@@ -1,0 +1,15 @@
+[
+    [
+        2784,
+        [],
+        "A) tropical, B) dry, C) mild mid-latitude, D) cold mid-latitude, and E) polar"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The K\u00f6ppen classification depends on average monthly values of temperature and precipitation. The most commonly used form of the K\u00f6ppen classification has five primary types labeled A through E. These primary types are A) tropical, B) dry, C) mild mid-latitude, D) cold mid-latitude, and E) polar. The five primary classifications can be further divided into secondary classifications such as rainforest, monsoon, tropical savanna, humid subtropical, humid continental, oceanic climate, Mediterranean climate, desert, steppe, subarctic climate, tundra, and polar ice cap. Question: What are the main climate types? Answer:",
+    {
+        "id": "english--7337303517502770445-13",
+        "lang": "english",
+        "summary": "The K\u00f6ppen classification depends on average monthly values of temperature and precipitation. The most commonly used form of the K\u00f6ppen classification has five primary types labeled A through E. These primary types are A) tropical, B) dry, C) mild mid-latitude, D) cold mid-latitude, and E) polar. The five primary classifications can be further divided into secondary classifications such as rainforest, monsoon, tropical savanna, humid subtropical, humid continental, oceanic climate, Mediterranean climate, desert, steppe, subarctic climate, tundra, and polar ice cap.",
+        "question": "What are the main climate types?",
+        "label": "A) tropical, B) dry, C) mild mid-latitude, D) cold mid-latitude, and E) polar"
+    }
+]

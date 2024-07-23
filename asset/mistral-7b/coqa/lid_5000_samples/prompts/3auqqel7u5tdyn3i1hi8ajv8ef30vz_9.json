@@ -1,0 +1,19 @@
+[
+    [
+        644,
+        [],
+        "she will not enter"
+    ],
+    "Answer the following questions:\nContext: Diwali is perhaps the most well--known of the Hindu festivals. It is celebrated by Hindus in India and abroad. It is often called the Festival of Lights. For Hindus, Diwli is very important and it is also very exciting time for them. Normally , this holiday is celebrated in October or November and it falls on a different date each year. This year , it will be celebrated on October23. Diwali is usually celebrated for 5 days. To prepare for Diwali, Hindus spend several weeks cleaning their homes and preparing special food in order to welcome Laskhmi, the goodness of wealth into their lives. They will open the windows of their homes during this time to make sure that she can enter their home. One of other traditions of Dawali is to light up oil lamp in the homes. The oil lamps are used to make the goddess of wealth enter the homes. Hindus believe that she will not enter a home that is not lit up. During Diwali, the children in India do not have to go to school. They share gifts with one another and prepare special holiday meals to celebrate this event. Fireworks are also a big part of the Diwali festival. They are used to scare away bad spirits.\n'Question': What happens if they house is dark?\n'Answer: '",
+    {
+        "id": "3auqqel7u5tdyn3i1hi8ajv8ef30vz_9",
+        "summary": "Diwali is perhaps the most well--known of the Hindu festivals. It is celebrated by Hindus in India and abroad. It is often called the Festival of Lights. For Hindus, Diwli is very important and it is also very exciting time for them. Normally , this holiday is celebrated in October or November and it falls on a different date each year. This year , it will be celebrated on October23. Diwali is usually celebrated for 5 days. To prepare for Diwali, Hindus spend several weeks cleaning their homes and preparing special food in order to welcome Laskhmi, the goodness of wealth into their lives. They will open the windows of their homes during this time to make sure that she can enter their home. One of other traditions of Dawali is to light up oil lamp in the homes. The oil lamps are used to make the goddess of wealth enter the homes. Hindus believe that she will not enter a home that is not lit up. During Diwali, the children in India do not have to go to school. They share gifts with one another and prepare special holiday meals to celebrate this event. Fireworks are also a big part of the Diwali festival. They are used to scare away bad spirits.",
+        "question": "What happens if they house is dark?",
+        "label": "she will not enter",
+        "additional_answers": [
+            "she will not enter",
+            "She will not enter",
+            "she will not enter a home"
+        ]
+    }
+]

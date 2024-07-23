@@ -1,0 +1,15 @@
+[
+    [
+        1697,
+        [],
+        "1889"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Wimbledon Football Club was an English football club formed in Wimbledon, south-west London, in 1889 and based at Plough Lane  from 1912 to 1991. Founded as Wimbledon Old Centrals,[n 1] the club were a non-League team for most of their history. Nicknamed \"the Dons\" and latterly \"the Wombles\", they won eight Isthmian League titles, the FA Amateur Cup in 1963 and three successive Southern League championships between 1975 and 1977, and were then elected to the Football League. The team rose quickly from obscurity during the 1980s and were promoted to the then top-flight First Division in 1986, just four seasons after being in the Fourth Division. Question: When was Wimbledon Football Club formed? Answer:",
+    {
+        "id": "english-3333234112343566332-0",
+        "lang": "english",
+        "summary": "Wimbledon Football Club was an English football club formed in Wimbledon, south-west London, in 1889 and based at Plough Lane  from 1912 to 1991. Founded as Wimbledon Old Centrals,[n 1] the club were a non-League team for most of their history. Nicknamed \"the Dons\" and latterly \"the Wombles\", they won eight Isthmian League titles, the FA Amateur Cup in 1963 and three successive Southern League championships between 1975 and 1977, and were then elected to the Football League. The team rose quickly from obscurity during the 1980s and were promoted to the then top-flight First Division in 1986, just four seasons after being in the Fourth Division.",
+        "question": "When was Wimbledon Football Club formed?",
+        "label": "1889"
+    }
+]

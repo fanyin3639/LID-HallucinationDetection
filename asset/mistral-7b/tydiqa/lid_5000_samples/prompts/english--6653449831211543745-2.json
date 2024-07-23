@@ -1,0 +1,15 @@
+[
+    [
+        2830,
+        [],
+        "1860"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The most serious attempt at secession was advanced in the years 1860 and 1861 as eleven southern states each declared secession from the United States, and joined together to form the Confederate States of America. This movement collapsed in 1865 with the defeat of Confederate forces by Union armies in the American Civil War.[1] Question: When did the South secede? Answer:",
+    {
+        "id": "english--6653449831211543745-2",
+        "lang": "english",
+        "summary": "The most serious attempt at secession was advanced in the years 1860 and 1861 as eleven southern states each declared secession from the United States, and joined together to form the Confederate States of America. This movement collapsed in 1865 with the defeat of Confederate forces by Union armies in the American Civil War.[1]",
+        "question": "When did the South secede?",
+        "label": "1860"
+    }
+]

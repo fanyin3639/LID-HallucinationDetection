@@ -1,0 +1,15 @@
+[
+    [
+        2638,
+        [],
+        "3150 BC"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The historical records of ancient Egypt begin with Egypt as a unified state, which occurred sometime around 3150 BC. According to Egyptian tradition, Menes, thought to have unified Upper and Lower Egypt, was the first king. This Egyptian culture, customs, art expression, architecture, and social structure was closely tied to religion, remarkably stable, and changed little over a period of nearly 3000 years. Question: When did ancient Egypt begin? Answer:",
+    {
+        "id": "english-605303464078651255-20",
+        "lang": "english",
+        "summary": "The historical records of ancient Egypt begin with Egypt as a unified state, which occurred sometime around 3150 BC. According to Egyptian tradition, Menes, thought to have unified Upper and Lower Egypt, was the first king. This Egyptian culture, customs, art expression, architecture, and social structure was closely tied to religion, remarkably stable, and changed little over a period of nearly 3000 years.",
+        "question": "When did ancient Egypt begin?",
+        "label": "3150 BC"
+    }
+]

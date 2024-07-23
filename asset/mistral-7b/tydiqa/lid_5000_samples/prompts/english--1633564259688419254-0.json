@@ -1,0 +1,15 @@
+[
+    [
+        1880,
+        [],
+        "ambiguity, group cohesiveness, and diffusion of responsibility"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The bystander effect, or bystander apathy, is a social psychological phenomenon in which individuals are less likely to offer help to a victim when other people are present. The greater the number of bystanders, the less likely it is that one of them will help. Several factors contribute to the bystander effect, including ambiguity, group cohesiveness, and diffusion of responsibility that reinforces mutual denial of a situation's severity. Question: What causes the bystander effect? Answer:",
+    {
+        "id": "english--1633564259688419254-0",
+        "lang": "english",
+        "summary": "The bystander effect, or bystander apathy, is a social psychological phenomenon in which individuals are less likely to offer help to a victim when other people are present. The greater the number of bystanders, the less likely it is that one of them will help. Several factors contribute to the bystander effect, including ambiguity, group cohesiveness, and diffusion of responsibility that reinforces mutual denial of a situation's severity.",
+        "question": "What causes the bystander effect?",
+        "label": "ambiguity, group cohesiveness, and diffusion of responsibility"
+    }
+]

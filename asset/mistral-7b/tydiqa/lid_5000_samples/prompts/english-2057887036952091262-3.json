@@ -1,0 +1,15 @@
+[
+    [
+        972,
+        [],
+        "Professor Michael Faraday"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first rubber balloons were made by Professor Michael Faraday in 1824 for use in his experiments with hydrogen at the Royal Institution in London. \"The caoutchouc is exceedingly elastic\", he wrote in the Quarterly Journal of Science the same year. \"Bags made of it...have been expanded by having air forced into them, until the caoutchouc was quite transparent, and when expanded by hydrogen they were so light as to form balloons with considerable ascending power....\" Faraday made his balloons by cutting round two sheets of rubber laid together and pressing the edges together. The tacky rubber welded automatically, and the inside of the balloon was rubbed with flour to prevent the opposing surfaces joining together.[8] Question: Who made the first rubber balloon? Answer:",
+    {
+        "id": "english-2057887036952091262-3",
+        "lang": "english",
+        "summary": "The first rubber balloons were made by Professor Michael Faraday in 1824 for use in his experiments with hydrogen at the Royal Institution in London. \"The caoutchouc is exceedingly elastic\", he wrote in the Quarterly Journal of Science the same year. \"Bags made of it...have been expanded by having air forced into them, until the caoutchouc was quite transparent, and when expanded by hydrogen they were so light as to form balloons with considerable ascending power....\" Faraday made his balloons by cutting round two sheets of rubber laid together and pressing the edges together. The tacky rubber welded automatically, and the inside of the balloon was rubbed with flour to prevent the opposing surfaces joining together.[8]",
+        "question": "Who made the first rubber balloon?",
+        "label": "Professor Michael Faraday"
+    }
+]

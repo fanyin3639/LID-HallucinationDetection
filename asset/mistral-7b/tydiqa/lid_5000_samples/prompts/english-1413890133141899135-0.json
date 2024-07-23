@@ -1,0 +1,15 @@
+[
+    [
+        1805,
+        [],
+        "Pacific Northwest"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Klickitat (also spelled Klikitat) are a Native American tribe of the Pacific Northwest. Today most Klickitat are enrolled in the federally recognized Confederated Tribes and Bands of the Yakama Nation, some are also part of the Confederated Tribes of the Grand Ronde Community of Oregon. Question: Where is the Klickitat tribe? Answer:",
+    {
+        "id": "english-1413890133141899135-0",
+        "lang": "english",
+        "summary": "The Klickitat (also spelled Klikitat) are a Native American tribe of the Pacific Northwest. Today most Klickitat are enrolled in the federally recognized Confederated Tribes and Bands of the Yakama Nation, some are also part of the Confederated Tribes of the Grand Ronde Community of Oregon.",
+        "question": "Where is the Klickitat tribe?",
+        "label": "Pacific Northwest"
+    }
+]

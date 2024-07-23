@@ -1,0 +1,15 @@
+[
+    [
+        3180,
+        [],
+        "estimated 10 million people in Ontario and 45 million people in eight U.S. states"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Some power was restored by 11 p.m. Most did not get their power back until two days later. In other areas, it took nearly a week or two for power to be restored.[2] At the time, it was the world's second most widespread blackout in history, after the 1999 Southern Brazil blackout.[3][4] The outage, which was much more widespread than the Northeast Blackout of 1965, affected an estimated 10 million people in Ontario and 45 million people in eight U.S. states. Question: How many people were affected by the Northeast blackout of 2003? Answer:",
+    {
+        "id": "english-1135729931909847428-1",
+        "lang": "english",
+        "summary": "Some power was restored by 11 p.m. Most did not get their power back until two days later. In other areas, it took nearly a week or two for power to be restored.[2] At the time, it was the world's second most widespread blackout in history, after the 1999 Southern Brazil blackout.[3][4] The outage, which was much more widespread than the Northeast Blackout of 1965, affected an estimated 10 million people in Ontario and 45 million people in eight U.S. states.",
+        "question": "How many people were affected by the Northeast blackout of 2003?",
+        "label": "estimated 10 million people in Ontario and 45 million people in eight U.S. states"
+    }
+]

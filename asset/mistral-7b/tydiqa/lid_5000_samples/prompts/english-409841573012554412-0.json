@@ -1,0 +1,15 @@
+[
+    [
+        1003,
+        [],
+        "from 1878 to 1881"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Montague Island Light is an heritage-listed active lighthouse located on Montague Island, an island in the Tasman Sea, 9 kilometres (5.6mi) offshore from Narooma on the south coast of New South Wales, Australia. The lighthouse is located at the highest point of the island. It was designed by James Barnet and NSW Colonial Architect and built from 1878 to 1881 by J. Musson and completed By W. H. Jennings. It is also known as the Montague Island Lightstation and its setting. The property is owned by the Office of Environment and Heritage, an agency of the Government of New South Wales. It was added to the New South Wales State Heritage Register on 2 April 1999,[2] and the Commonwealth Heritage List on 22 June 2004.[3] Question: When was the Montague Island Light built? Answer:",
+    {
+        "id": "english-409841573012554412-0",
+        "lang": "english",
+        "summary": "The Montague Island Light is an heritage-listed active lighthouse located on Montague Island, an island in the Tasman Sea, 9 kilometres (5.6mi) offshore from Narooma on the south coast of New South Wales, Australia. The lighthouse is located at the highest point of the island. It was designed by James Barnet and NSW Colonial Architect and built from 1878 to 1881 by J. Musson and completed By W. H. Jennings. It is also known as the Montague Island Lightstation and its setting. The property is owned by the Office of Environment and Heritage, an agency of the Government of New South Wales. It was added to the New South Wales State Heritage Register on 2 April 1999,[2] and the Commonwealth Heritage List on 22 June 2004.[3]",
+        "question": "When was the Montague Island Light built?",
+        "label": "from 1878 to 1881"
+    }
+]

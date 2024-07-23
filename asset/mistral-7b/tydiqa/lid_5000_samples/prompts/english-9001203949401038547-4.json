@@ -1,0 +1,15 @@
+[
+    [
+        2233,
+        [],
+        "1955"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The modern era of West Virginia basketball history began in 1955, with the emergence of sophomore guard Hot Rod Hundley and newly appointed head coach Fred Schaus. The Mountaineers finished with a 19\u201311 record, and earned the first NCAA Tournament appearance in school history under Hundley's lead. The team entered the tournament with a #19 ranking, the first Top 20 ranking in school history. However, they lost to the #3 La Salle Explorers in the first round of the tourney, 95\u201361. Question: When was the West Virginia Mountaineers basketball team formed? Answer:",
+    {
+        "id": "english-9001203949401038547-4",
+        "lang": "english",
+        "summary": "The modern era of West Virginia basketball history began in 1955, with the emergence of sophomore guard Hot Rod Hundley and newly appointed head coach Fred Schaus. The Mountaineers finished with a 19\u201311 record, and earned the first NCAA Tournament appearance in school history under Hundley's lead. The team entered the tournament with a #19 ranking, the first Top 20 ranking in school history. However, they lost to the #3 La Salle Explorers in the first round of the tourney, 95\u201361.",
+        "question": "When was the West Virginia Mountaineers basketball team formed?",
+        "label": "1955"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        962,
+        [],
+        "1991"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Beauty and the Beast is a 1991 American animated musical romantic fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. The 30th Disney animated feature film and the third released during the Disney Renaissance period, it is based on the French fairy tale of the same name by Jeanne-Marie Leprince de Beaumont who was uncredited in the English version but credited in the French version,[6] and ideas from the 1946 French film of the same name directed by Jean Cocteau.[7] Beauty and the Beast focuses on the relationship between the Beast (voice of Robby Benson),[8] a prince who is magically transformed into a monster and his servants into household objects as punishment for his arrogance, and Belle (voice of Paige O'Hara),[8] a young woman whom he imprisons in his castle to become a prince again. To break the curse, Beast must learn to love Belle and earn her love in return before the last petal falls from an enchanted rose or else the Beast will remain a monster forever. The film also features the voices of Richard White, Jerry Orbach, David Ogden Stiers, and Angela Lansbury.[8] Question: When was Walt Disney Pictures' animated feature film Beauty and the Beast released in theaters? Answer:",
+    {
+        "id": "english--8676941551094921179-0",
+        "lang": "english",
+        "summary": "Beauty and the Beast is a 1991 American animated musical romantic fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. The 30th Disney animated feature film and the third released during the Disney Renaissance period, it is based on the French fairy tale of the same name by Jeanne-Marie Leprince de Beaumont who was uncredited in the English version but credited in the French version,[6] and ideas from the 1946 French film of the same name directed by Jean Cocteau.[7] Beauty and the Beast focuses on the relationship between the Beast (voice of Robby Benson),[8] a prince who is magically transformed into a monster and his servants into household objects as punishment for his arrogance, and Belle (voice of Paige O'Hara),[8] a young woman whom he imprisons in his castle to become a prince again. To break the curse, Beast must learn to love Belle and earn her love in return before the last petal falls from an enchanted rose or else the Beast will remain a monster forever. The film also features the voices of Richard White, Jerry Orbach, David Ogden Stiers, and Angela Lansbury.[8]",
+        "question": "When was Walt Disney Pictures' animated feature film Beauty and the Beast released in theaters?",
+        "label": "1991"
+    }
+]

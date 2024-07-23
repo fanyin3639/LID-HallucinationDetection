@@ -1,0 +1,15 @@
+[
+    [
+        2372,
+        [],
+        "during the 1930s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The former Philip Livingston Magnet Academy is located along Northern Boulevard in the West Hill neighborhood of Albany, New York, United States. It is a large brick building predominantly in the Colonial Revival architectural style, with some Art Deco touches inside, erected during the 1930s. Additions were made in the 1960s. In 2014 it was listed on the National Register of Historic Places as the Philip Livingston Junior High School,[2] the only purpose-built public school building in the city so recognized.[lower-alpha 1] Question: When was the Philip Livingston Magnet Academy established? Answer:",
+    {
+        "id": "english--258500932433571606-0",
+        "lang": "english",
+        "summary": "The former Philip Livingston Magnet Academy is located along Northern Boulevard in the West Hill neighborhood of Albany, New York, United States. It is a large brick building predominantly in the Colonial Revival architectural style, with some Art Deco touches inside, erected during the 1930s. Additions were made in the 1960s. In 2014 it was listed on the National Register of Historic Places as the Philip Livingston Junior High School,[2] the only purpose-built public school building in the city so recognized.[lower-alpha 1]",
+        "question": "When was the Philip Livingston Magnet Academy established?",
+        "label": "during the 1930s"
+    }
+]

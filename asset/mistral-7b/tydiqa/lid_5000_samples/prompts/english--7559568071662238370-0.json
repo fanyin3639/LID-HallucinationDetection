@@ -1,0 +1,15 @@
+[
+    [
+        2768,
+        [],
+        "27 May 1703"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Founded by Tsar Peter the Great on 27 May 1703. It became capital of the Russian Empire for more than two hundred years (1712\u20131728, 1732\u20131918). St. Petersburg ceased being the capital in 1918 after the Russian Revolution of 1917.[1] Question: When was Saint Petersburg first founded? Answer:",
+    {
+        "id": "english--7559568071662238370-0",
+        "lang": "english",
+        "summary": "Founded by Tsar Peter the Great on 27 May 1703. It became capital of the Russian Empire for more than two hundred years (1712\u20131728, 1732\u20131918). St. Petersburg ceased being the capital in 1918 after the Russian Revolution of 1917.[1]",
+        "question": "When was Saint Petersburg first founded?",
+        "label": "27 May 1703"
+    }
+]

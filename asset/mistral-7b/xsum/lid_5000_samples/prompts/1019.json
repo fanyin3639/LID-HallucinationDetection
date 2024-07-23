@@ -1,0 +1,14 @@
+[
+    [
+        1019,
+        [],
+        "Essex have appointed former Yorkshire and England all-rounder Anthony McGrath as assistant head coach."
+    ],
+    "Write a short summary for the following passage:\nThe 40-year-old, who won four Test caps, made 257 first-class appearances between 1995 and 2012 before a thumb injury ended his career.\nHe played his final professional game against Essex at Chelmsford and has been coaching at Yorkshire since 2014.\nMcGrath will assist Chris Silverwood, who was named Paul Grayson's permanent successor as head coach this winter.\n\"I'd had a chat with Chris about the club in general when we were down there for the One-Day Cup quarter-final in the summer,\" McGrath told BBC Essex.\n\"So when the role came up, again I had a chat with Chris, heard his plans for the club, and it's really exciting, the group of players I believe is very talented and I think the club is going places.\nSilverwood told the club website: \"He has excellent cricket knowledge, and during his interview it was clear he had a real passion for this job.\n\"He is a very good coach, and will help our batsmen improve their game. He has experience of working with some of the best batsmen in the country - names such as Jonny Bairstow, Joe Root, Gary Ballance, Adam Lyth - so his experience will be invaluable to our players.\"\nSummary:\n",
+    {
+        "id": 1019,
+        "document": "The 40-year-old, who won four Test caps, made 257 first-class appearances between 1995 and 2012 before a thumb injury ended his career.\nHe played his final professional game against Essex at Chelmsford and has been coaching at Yorkshire since 2014.\nMcGrath will assist Chris Silverwood, who was named Paul Grayson's permanent successor as head coach this winter.\n\"I'd had a chat with Chris about the club in general when we were down there for the One-Day Cup quarter-final in the summer,\" McGrath told BBC Essex.\n\"So when the role came up, again I had a chat with Chris, heard his plans for the club, and it's really exciting, the group of players I believe is very talented and I think the club is going places.\nSilverwood told the club website: \"He has excellent cricket knowledge, and during his interview it was clear he had a real passion for this job.\n\"He is a very good coach, and will help our batsmen improve their game. He has experience of working with some of the best batsmen in the country - names such as Jonny Bairstow, Joe Root, Gary Ballance, Adam Lyth - so his experience will be invaluable to our players.\"",
+        "summary": "Essex have appointed former Yorkshire and England all-rounder Anthony McGrath as assistant head coach.",
+        "label": "Essex have appointed former Yorkshire and England all-rounder Anthony McGrath as assistant head coach."
+    }
+]

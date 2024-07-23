@@ -1,0 +1,15 @@
+[
+    [
+        1282,
+        [],
+        "Christianity"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The predominant religion in the Republic of Ireland is Christianity, with the largest church being the Roman Catholic Church. The Irish constitution says that the state may not endorse any particular religion and guarantees freedom of religion. Question: What is the official religion of Ireland? Answer:",
+    {
+        "id": "english-8815074209626105887-1",
+        "lang": "english",
+        "summary": "The predominant religion in the Republic of Ireland is Christianity, with the largest church being the Roman Catholic Church. The Irish constitution says that the state may not endorse any particular religion and guarantees freedom of religion.",
+        "question": "What is the official religion of Ireland?",
+        "label": "Christianity"
+    }
+]

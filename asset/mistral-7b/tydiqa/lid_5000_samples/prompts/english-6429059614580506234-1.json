@@ -1,0 +1,15 @@
+[
+    [
+        1709,
+        [],
+        "Balmain, Sydney, New South Wales"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kerr was born in Balmain, Sydney, New South Wales, on 24 September 1914. He was the eldest of three children born to Laura May (n\u00e9e Cardwell) and Harry Kerr; his younger brother Dudley was born in 1917 and younger sister Elaine in 1926.[1] Kerr's parents and maternal grandparents were Australian-born, while his paternal grandparents came from Sunderland, England, arriving in Sydney in 1886. He came from a line of waterside workers\u2014his father was a boilermaker, his grandfather was a stevedore, and his great-grandfather was a shipwright. At the time of his son's birth, Kerr's father was employed at the Eveleigh Railway Workshops.[2] He was sacked three months later, but soon found work at the Cockatoo Island Dockyard, which were at full capacity due to the ongoing war. He was involved in the union movement, and participated in a number of strikes, including the 1917 general strike, during which he went without pay for two months. Work at the docks became irregular after the war's end, and he eventually rejoined the railways in 1925.[3] Question: Where was Sir John Robert Kerr born? Answer:",
+    {
+        "id": "english-6429059614580506234-1",
+        "lang": "english",
+        "summary": "Kerr was born in Balmain, Sydney, New South Wales, on 24 September 1914. He was the eldest of three children born to Laura May (n\u00e9e Cardwell) and Harry Kerr; his younger brother Dudley was born in 1917 and younger sister Elaine in 1926.[1] Kerr's parents and maternal grandparents were Australian-born, while his paternal grandparents came from Sunderland, England, arriving in Sydney in 1886. He came from a line of waterside workers\u2014his father was a boilermaker, his grandfather was a stevedore, and his great-grandfather was a shipwright. At the time of his son's birth, Kerr's father was employed at the Eveleigh Railway Workshops.[2] He was sacked three months later, but soon found work at the Cockatoo Island Dockyard, which were at full capacity due to the ongoing war. He was involved in the union movement, and participated in a number of strikes, including the 1917 general strike, during which he went without pay for two months. Work at the docks became irregular after the war's end, and he eventually rejoined the railways in 1925.[3]",
+        "question": "Where was Sir John Robert Kerr born?",
+        "label": "Balmain, Sydney, New South Wales"
+    }
+]

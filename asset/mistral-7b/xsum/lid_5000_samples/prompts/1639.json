@@ -1,0 +1,14 @@
+[
+    [
+        1639,
+        [],
+        "The inquest into the death of Arlene Arkinson has been further delayed due to new evidence that has only just come to light, a court has heard."
+    ],
+    "Write a short summary for the following passage:\nArlene, from Castlederg, was 15 when she disappeared in County Donegal in the Republic of Ireland.\nConvicted child killer Robert Howard, who died in prison last year, was the main suspect in her disappearance.\nOn Friday, a barrister for the police said he had consulted with a witness who had been due to give evidence.\nThe inquest heard that some of the information in the witness's journal, which was produced late on Thursday night, may be subject to protection and could be withheld under Public Interest Immunity or under Article 2 (Right to Life) in the European Convention on Human Rights.\nThe court also heard that most of the \"lengthy\" journal is \"hard to decipher\".\nThe coroner accepted that the decision to delay the inquest further was \"disappointing\" for Kathleen Arkinson, Arlene's sister, who has been present in court throughout the hearing.\nHowever, he said it is \"better to do things correctly than artificially quickly\".\nThe inquest will reconvene next week for a \"review\", which will \"take stock\" and set a timetable for the \"end phase of evidence to be given to the inquest\".\nSummary:\n",
+    {
+        "id": 1639,
+        "document": "Arlene, from Castlederg, was 15 when she disappeared in County Donegal in the Republic of Ireland.\nConvicted child killer Robert Howard, who died in prison last year, was the main suspect in her disappearance.\nOn Friday, a barrister for the police said he had consulted with a witness who had been due to give evidence.\nThe inquest heard that some of the information in the witness's journal, which was produced late on Thursday night, may be subject to protection and could be withheld under Public Interest Immunity or under Article 2 (Right to Life) in the European Convention on Human Rights.\nThe court also heard that most of the \"lengthy\" journal is \"hard to decipher\".\nThe coroner accepted that the decision to delay the inquest further was \"disappointing\" for Kathleen Arkinson, Arlene's sister, who has been present in court throughout the hearing.\nHowever, he said it is \"better to do things correctly than artificially quickly\".\nThe inquest will reconvene next week for a \"review\", which will \"take stock\" and set a timetable for the \"end phase of evidence to be given to the inquest\".",
+        "summary": "The inquest into the death of Arlene Arkinson has been further delayed due to new evidence that has only just come to light, a court has heard.",
+        "label": "The inquest into the death of Arlene Arkinson has been further delayed due to new evidence that has only just come to light, a court has heard."
+    }
+]

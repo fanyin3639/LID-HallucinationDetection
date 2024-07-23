@@ -1,0 +1,14 @@
+[
+    [
+        1340,
+        [],
+        "South African police have arrested a man who they say swallowed 220 polished diamonds in an attempt to smuggle them out of the country."
+    ],
+    "Write a short summary for the following passage:\nThe man was arrested as he waited to board a plane at Johannesburg airport.\nOfficials said a scan of his body revealed the diamonds he had ingested, worth $2.3m (\u00c2\u00a31.4m; 1.8m euros), inside.\nThe man was reportedly of Lebanese origin and was travelling to Dubai.\n\"We nabbed him just before he went through the security checkpoint,\" Paul Ramaloko, spokesman of the South Africa elite police unit the Hawks said, according to Agence France Presse.\nAuthorities believe the man belongs to a smuggling ring. Another man was arrested in March also attempting to smuggle diamonds out the country in a similar way.\nSouth Africa is among the world's top producers of diamonds.\nSummary:\n",
+    {
+        "id": 1340,
+        "document": "The man was arrested as he waited to board a plane at Johannesburg airport.\nOfficials said a scan of his body revealed the diamonds he had ingested, worth $2.3m (\u00c2\u00a31.4m; 1.8m euros), inside.\nThe man was reportedly of Lebanese origin and was travelling to Dubai.\n\"We nabbed him just before he went through the security checkpoint,\" Paul Ramaloko, spokesman of the South Africa elite police unit the Hawks said, according to Agence France Presse.\nAuthorities believe the man belongs to a smuggling ring. Another man was arrested in March also attempting to smuggle diamonds out the country in a similar way.\nSouth Africa is among the world's top producers of diamonds.",
+        "summary": "South African police have arrested a man who they say swallowed 220 polished diamonds in an attempt to smuggle them out of the country.",
+        "label": "South African police have arrested a man who they say swallowed 220 polished diamonds in an attempt to smuggle them out of the country."
+    }
+]

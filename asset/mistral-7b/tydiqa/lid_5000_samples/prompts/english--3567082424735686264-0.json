@@ -1,0 +1,15 @@
+[
+    [
+        2082,
+        [],
+        "varies widely, from arid in the west to humid in the east"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Texas' weather varies widely, from arid in the west to humid in the east. The huge expanse of Texas encompasses several regions with distinctly different climates: Northern Plains, Trans-Pecos Region, Texas Hill Country, Piney Woods, and South Texas.  Generally speaking, the part of Texas that lies to the east of Interstate 35 is subtropical, while the portion that lies to the west of Interstate 35 is arid desert. Question: What climates are present in the state of Texas? Answer:",
+    {
+        "id": "english--3567082424735686264-0",
+        "lang": "english",
+        "summary": "Texas' weather varies widely, from arid in the west to humid in the east. The huge expanse of Texas encompasses several regions with distinctly different climates: Northern Plains, Trans-Pecos Region, Texas Hill Country, Piney Woods, and South Texas.  Generally speaking, the part of Texas that lies to the east of Interstate 35 is subtropical, while the portion that lies to the west of Interstate 35 is arid desert.",
+        "question": "What climates are present in the state of Texas?",
+        "label": "varies widely, from arid in the west to humid in the east"
+    }
+]

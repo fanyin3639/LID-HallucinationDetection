@@ -1,0 +1,15 @@
+[
+    [
+        726,
+        [],
+        "1942"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The notion of using a fission weapon to ignite a process of nuclear fusion can be dated back to 1942. At the first major theoretical conference on the development of an atomic bomb hosted by J. Robert Oppenheimer at the University of California, Berkeley, participant Edward Teller directed the majority of the discussion towards Enrico Fermi's idea of a \"Super\" bomb that would use the same reactions that powered the Sun itself. Question: When was the first thermonuclear weapon developed? Answer:",
+    {
+        "id": "english--6103235184740088227-36",
+        "lang": "english",
+        "summary": "The notion of using a fission weapon to ignite a process of nuclear fusion can be dated back to 1942. At the first major theoretical conference on the development of an atomic bomb hosted by J. Robert Oppenheimer at the University of California, Berkeley, participant Edward Teller directed the majority of the discussion towards Enrico Fermi's idea of a \"Super\" bomb that would use the same reactions that powered the Sun itself.",
+        "question": "When was the first thermonuclear weapon developed?",
+        "label": "1942"
+    }
+]

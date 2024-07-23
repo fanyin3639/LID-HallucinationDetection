@@ -1,0 +1,15 @@
+[
+    [
+        1432,
+        [],
+        "150,697,361"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Seventeenth United States Census, conducted by the Census Bureau, determined the resident population of the United States to be 150,697,361, an increase of 14.5 percent over the 131,669,275 persons enumerated during the 1940 Census.[1] Question: What was the US population in 1950? Answer:",
+    {
+        "id": "english-8179212903917620323-0",
+        "lang": "english",
+        "summary": "The Seventeenth United States Census, conducted by the Census Bureau, determined the resident population of the United States to be 150,697,361, an increase of 14.5 percent over the 131,669,275 persons enumerated during the 1940 Census.[1]",
+        "question": "What was the US population in 1950?",
+        "label": "150,697,361"
+    }
+]

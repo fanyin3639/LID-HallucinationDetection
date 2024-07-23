@@ -1,0 +1,15 @@
+[
+    [
+        639,
+        [],
+        "1979"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Menachem Rosensaft received his B.A. degree from Johns Hopkins University in 1971, together with an M.A. degree in creative writing from the university's Writing Seminars. From 1972 until 1975, he was an Adjunct Lecturer in the Department of Jewish Studies at the City College of the City University of New York and assisted Professor Elie Wiesel in his courses on Holocaust literature and Hasidism. He received a second M.A. degree in modern European history from Columbia University in 1975, and in 1979, he received his J.D. degree from the Columbia University School of Law, where he was a Harlan Fiske Stone Scholar and Book Review Editor of the Columbia Journal of Transnational Law. Question: When did Menachem Z. Rosensaft become an attorney? Answer:",
+    {
+        "id": "english--2033640259747049901-3",
+        "lang": "english",
+        "summary": "Menachem Rosensaft received his B.A. degree from Johns Hopkins University in 1971, together with an M.A. degree in creative writing from the university's Writing Seminars. From 1972 until 1975, he was an Adjunct Lecturer in the Department of Jewish Studies at the City College of the City University of New York and assisted Professor Elie Wiesel in his courses on Holocaust literature and Hasidism. He received a second M.A. degree in modern European history from Columbia University in 1975, and in 1979, he received his J.D. degree from the Columbia University School of Law, where he was a Harlan Fiske Stone Scholar and Book Review Editor of the Columbia Journal of Transnational Law.",
+        "question": "When did Menachem Z. Rosensaft become an attorney?",
+        "label": "1979"
+    }
+]

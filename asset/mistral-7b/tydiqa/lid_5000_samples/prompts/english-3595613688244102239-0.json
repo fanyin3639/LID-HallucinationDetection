@@ -1,0 +1,15 @@
+[
+    [
+        3141,
+        [],
+        "Jigokudani Monkey Park"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Jigokudani Monkey Park(\u5730\u7344\u8c37\u91ce\u733f\u516c\u82d1,Jigokudani Yaen K\u014den) is located in Yamanouchi, Nagano Prefecture, Japan. It is part of the Joshinetsu Kogen National Park (locally known as Shigakogen), and is located in the valley of the Yokoyu-River, in the northern part of the prefecture. The name Jigokudani, meaning \"Hell's Valley\", is due to the steam and boiling water that bubbles out of small crevices in the frozen ground, surrounded by steep cliffs and formidably cold and hostile forests.[1] Question: What species of monkey soaks in Japanese hot springs? Answer:",
+    {
+        "id": "english-3595613688244102239-0",
+        "lang": "english",
+        "summary": "Jigokudani Monkey Park(\u5730\u7344\u8c37\u91ce\u733f\u516c\u82d1,Jigokudani Yaen K\u014den) is located in Yamanouchi, Nagano Prefecture, Japan. It is part of the Joshinetsu Kogen National Park (locally known as Shigakogen), and is located in the valley of the Yokoyu-River, in the northern part of the prefecture. The name Jigokudani, meaning \"Hell's Valley\", is due to the steam and boiling water that bubbles out of small crevices in the frozen ground, surrounded by steep cliffs and formidably cold and hostile forests.[1]",
+        "question": "What species of monkey soaks in Japanese hot springs?",
+        "label": "Jigokudani Monkey Park"
+    }
+]

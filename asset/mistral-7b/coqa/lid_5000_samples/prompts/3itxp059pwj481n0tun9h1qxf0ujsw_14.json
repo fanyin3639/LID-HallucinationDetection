@@ -1,0 +1,19 @@
+[
+    [
+        1578,
+        [],
+        "a condition which affects his ability to speak and move."
+    ],
+    "Answer the following questions:\nContext: Harry is a boy with a learning disability. On his fourth birthday, he was given a pug called Millie. Two weeks after the dog's arrival, he was happier and calmer and said his first words, \"dog\" and \"mummy\". Just two months later, thieves stole the dog, and now the heartbroken little boy is back to where he started. He has refused to talk since losing his best friend. His mother was worried and gave him another dog, but he just \"pushed it away\". Mrs Hainsworth, his mother, says, \"My son is very sad. He'll go over to her cage and just beat on the bars. There is no word coming out, but you just know he's screaming 'Where is Millie' inside. Millie was really his best friend. They would play together happily for hours. None of his toys has ever held his attention that long. Now he has just completely turned quiet again. \"Harry suffers from a condition which affects his ability to speak and move. But the dog's being with him achieved more in days than months of speech therapy and physiotherapy had. Mrs Hainsworth says, \"My son was so happy when he saw Millie. Being with Millie changed him, and within two weeks he had said his first words and was working on saying 'dad'. Just last week, his teachers and I were saying how much Millie had helped him. And now this!\" Mrs Hainsworth is considering buying another pug in the hope that her son will accept it. Maureen Hennis of the charity, Pets as Therapy, says she has seen many cases of dogs helping people with speech problems. \"People may talk to a dog when they wouldn't like to talk to another human,\" she says. \"A dog doesn't care if words come out wrong.\"\n'Question': Does he have any medical issues?\n'Answer: '",
+    {
+        "id": "3itxp059pwj481n0tun9h1qxf0ujsw_14",
+        "summary": "Harry is a boy with a learning disability. On his fourth birthday, he was given a pug called Millie. Two weeks after the dog's arrival, he was happier and calmer and said his first words, \"dog\" and \"mummy\". Just two months later, thieves stole the dog, and now the heartbroken little boy is back to where he started. He has refused to talk since losing his best friend. His mother was worried and gave him another dog, but he just \"pushed it away\". Mrs Hainsworth, his mother, says, \"My son is very sad. He'll go over to her cage and just beat on the bars. There is no word coming out, but you just know he's screaming 'Where is Millie' inside. Millie was really his best friend. They would play together happily for hours. None of his toys has ever held his attention that long. Now he has just completely turned quiet again. \"Harry suffers from a condition which affects his ability to speak and move. But the dog's being with him achieved more in days than months of speech therapy and physiotherapy had. Mrs Hainsworth says, \"My son was so happy when he saw Millie. Being with Millie changed him, and within two weeks he had said his first words and was working on saying 'dad'. Just last week, his teachers and I were saying how much Millie had helped him. And now this!\" Mrs Hainsworth is considering buying another pug in the hope that her son will accept it. Maureen Hennis of the charity, Pets as Therapy, says she has seen many cases of dogs helping people with speech problems. \"People may talk to a dog when they wouldn't like to talk to another human,\" she says. \"A dog doesn't care if words come out wrong.\"",
+        "question": "Does he have any medical issues?",
+        "label": "a condition which affects his ability to speak and move.",
+        "additional_answers": [
+            "yes",
+            "Yes",
+            "yes"
+        ]
+    }
+]

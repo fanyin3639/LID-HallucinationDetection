@@ -1,0 +1,15 @@
+[
+    [
+        832,
+        [],
+        "class B"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Early in January 2006 Charles Clarke, the Home Secretary, said that on the basis of advice from the Advisory Council, a decision was made not to return cannabis to class B.[6]  However, during Prime Minister's Questions on 18 July 2007, Prime Minister Gordon Brown announced that the Home Secretary, Jacqui Smith, was reviewing again whether to return cannabis to class B status.[7][8] On 7 May 2008, Smith confirmed that cannabis in the UK would again be classified as a class B drug, despite the Advisory Council's recommendation.[9]  On 26 January 2009, cannabis was reclassified as a class B drug.[10] The reclassification of cannabis to a class B drug had been hinted at as early as 2005 by allies of Gordon Brown, on the election night in 2005, Ed Balls stated that cannabis and the war in Iraq were mistakes that the Labour party had to learn from.[11] Question: What class of drug is Cannabis? Answer:",
+    {
+        "id": "english--688112198501873749-3",
+        "lang": "english",
+        "summary": "Early in January 2006 Charles Clarke, the Home Secretary, said that on the basis of advice from the Advisory Council, a decision was made not to return cannabis to class B.[6]  However, during Prime Minister's Questions on 18 July 2007, Prime Minister Gordon Brown announced that the Home Secretary, Jacqui Smith, was reviewing again whether to return cannabis to class B status.[7][8] On 7 May 2008, Smith confirmed that cannabis in the UK would again be classified as a class B drug, despite the Advisory Council's recommendation.[9]  On 26 January 2009, cannabis was reclassified as a class B drug.[10] The reclassification of cannabis to a class B drug had been hinted at as early as 2005 by allies of Gordon Brown, on the election night in 2005, Ed Balls stated that cannabis and the war in Iraq were mistakes that the Labour party had to learn from.[11]",
+        "question": "What class of drug is Cannabis?",
+        "label": "class B"
+    }
+]

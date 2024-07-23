@@ -1,0 +1,15 @@
+[
+    [
+        1924,
+        [],
+        "Tokyo"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 2020 Summer Olympics, officially known as the Games of the XXXII Olympiad(Japanese:\u7b2c\u4e09\u5341\u4e8c\u56de\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u7af6\u6280\u5927\u4f1a,Hepburn:Dai Sanj\u016bni-kai Orinpikku Ky\u014dgi Taikai)[1] and commonly known as Tokyo 2020, is a forthcoming international multi-sport event that is scheduled to take place from 24 July to 9 August 2020. Question: Where will the next Summer Olympics be held? Answer:",
+    {
+        "id": "english-5795050523904028645-1",
+        "lang": "english",
+        "summary": "The 2020 Summer Olympics, officially known as the Games of the XXXII Olympiad(Japanese:\u7b2c\u4e09\u5341\u4e8c\u56de\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u7af6\u6280\u5927\u4f1a,Hepburn:Dai Sanj\u016bni-kai Orinpikku Ky\u014dgi Taikai)[1] and commonly known as Tokyo 2020, is a forthcoming international multi-sport event that is scheduled to take place from 24 July to 9 August 2020.",
+        "question": "Where will the next Summer Olympics be held?",
+        "label": "Tokyo"
+    }
+]

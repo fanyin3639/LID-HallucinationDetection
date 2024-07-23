@@ -1,0 +1,15 @@
+[
+    [
+        1741,
+        [],
+        "Berkshire"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first American 2-8-4s were built for the Boston and Albany Railroad in 1925 by Lima Locomotive Works. The railroad's route across the Berkshire mountains was a substantial test for the new locomotives and, as a result, the name Berkshire was adopted for the locomotive type. Question: What was the first 2-8-4 steam locomotive? Answer:",
+    {
+        "id": "english--8947541416766815972-2",
+        "lang": "english",
+        "summary": "The first American 2-8-4s were built for the Boston and Albany Railroad in 1925 by Lima Locomotive Works. The railroad's route across the Berkshire mountains was a substantial test for the new locomotives and, as a result, the name Berkshire was adopted for the locomotive type.",
+        "question": "What was the first 2-8-4 steam locomotive?",
+        "label": "Berkshire"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        348,
+        [],
+        "A man has died in hospital five days after being hit by a car in Sunderland."
+    ],
+    "Write a short summary for the following passage:\nGary Wood, 42, was struck on Seaham Road in Houghton, the street where he lived, at about 21:40 BST on 2 June. He was taken to hospital in a critical condition and died on Wednesday.\nPolice said two cars were believed to be in convoy and both left the scene.\nLiam Carr, of Langdon Road, Newcastle, appeared at South Tyneside Magistrates' Court on Thursday charged with death by dangerous driving.\nThe 19-year-old is also accused of failing to stop at an accident and perverting the course of justice.\nA second man, 38-year-old Gareth Bainbridge of School Road, Houghton, appeared before magistrates charged with assisting an offender.\nThe pair were remanded in custody to appear at Newcastle Crown Court on 6 July.\nSummary:\n",
+    {
+        "id": 348,
+        "document": "Gary Wood, 42, was struck on Seaham Road in Houghton, the street where he lived, at about 21:40 BST on 2 June. He was taken to hospital in a critical condition and died on Wednesday.\nPolice said two cars were believed to be in convoy and both left the scene.\nLiam Carr, of Langdon Road, Newcastle, appeared at South Tyneside Magistrates' Court on Thursday charged with death by dangerous driving.\nThe 19-year-old is also accused of failing to stop at an accident and perverting the course of justice.\nA second man, 38-year-old Gareth Bainbridge of School Road, Houghton, appeared before magistrates charged with assisting an offender.\nThe pair were remanded in custody to appear at Newcastle Crown Court on 6 July.",
+        "summary": "A man has died in hospital five days after being hit by a car in Sunderland.",
+        "label": "A man has died in hospital five days after being hit by a car in Sunderland."
+    }
+]

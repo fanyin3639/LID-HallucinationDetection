@@ -1,0 +1,15 @@
+[
+    [
+        1755,
+        [],
+        "Eleven countries"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 2014, 181.5 million hectares of genetically modified crops were planted in 28 countries. Half of all GM crops planted were genetically modified soybeans, either for herbicide tolerance or insect resistance. Eleven countries grew modified soybean, with the USA, Brazil and Argentina accounting for 90% of the total hectarage. Of the 111 hectares of soybean grown worldwide in 2014, 82% was genetically modified in some way. Seventeen countries grew a total of 55.2 million hectares of genetically modified maize and fifteen grew 23.9 hectares of genetically modified cotton. Nine million hectares of genetically modified canola was grown with 8 million of those in Canada. Other GM crops grown in 2014 include Alfalfa (862 000 ha), sugar beet (494 000 ha) and papaya (7 475 ha). In Bangladesh a genetically modified eggplant was grown commercially for the first time on 12ha.[6] Question: Where is the soybean grown commercially today? Answer:",
+    {
+        "id": "english--398571342594639742-4",
+        "lang": "english",
+        "summary": "In 2014, 181.5 million hectares of genetically modified crops were planted in 28 countries. Half of all GM crops planted were genetically modified soybeans, either for herbicide tolerance or insect resistance. Eleven countries grew modified soybean, with the USA, Brazil and Argentina accounting for 90% of the total hectarage. Of the 111 hectares of soybean grown worldwide in 2014, 82% was genetically modified in some way. Seventeen countries grew a total of 55.2 million hectares of genetically modified maize and fifteen grew 23.9 hectares of genetically modified cotton. Nine million hectares of genetically modified canola was grown with 8 million of those in Canada. Other GM crops grown in 2014 include Alfalfa (862 000 ha), sugar beet (494 000 ha) and papaya (7 475 ha). In Bangladesh a genetically modified eggplant was grown commercially for the first time on 12ha.[6]",
+        "question": "Where is the soybean grown commercially today?",
+        "label": "Eleven countries"
+    }
+]

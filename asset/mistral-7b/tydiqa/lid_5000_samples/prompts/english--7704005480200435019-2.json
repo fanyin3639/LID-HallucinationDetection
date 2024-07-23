@@ -1,0 +1,15 @@
+[
+    [
+        2052,
+        [],
+        "January 2019"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kingdom Hearts III was released worldwide in January 2019. Upon release, the game was met with generally positive reviews from critics. Question: When does Kingdom Hearts 3 come out? Answer:",
+    {
+        "id": "english--7704005480200435019-2",
+        "lang": "english",
+        "summary": "Kingdom Hearts III was released worldwide in January 2019. Upon release, the game was met with generally positive reviews from critics.",
+        "question": "When does Kingdom Hearts 3 come out?",
+        "label": "January 2019"
+    }
+]

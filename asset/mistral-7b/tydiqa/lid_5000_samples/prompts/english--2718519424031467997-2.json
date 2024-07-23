@@ -1,0 +1,15 @@
+[
+    [
+        433,
+        [],
+        "1970s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The use of closing credits in film to list complete production crew and cast was not firmly established in American film until the 1970s. Before this decade, most movies were released with no closing credits at all. Films generally had opening credits only, which consisted of just major cast and crew, although sometimes the names of the cast and the characters they played would be shown at the end, as in The Wizard of Oz, Mary Poppins, Oliver! and the 1964 Fail Safe. Two of the first major films to contain extensive closing credits \u2013 but almost no opening credits \u2013 were the blockbusters Around the World in 80 Days (1956) and West Side Story (1961). West Side Story showed only the title at the beginning of the film, and Around the World in 80 Days had no opening credits at all. Question: When did closing credits start? Answer:",
+    {
+        "id": "english--2718519424031467997-2",
+        "lang": "english",
+        "summary": "The use of closing credits in film to list complete production crew and cast was not firmly established in American film until the 1970s. Before this decade, most movies were released with no closing credits at all. Films generally had opening credits only, which consisted of just major cast and crew, although sometimes the names of the cast and the characters they played would be shown at the end, as in The Wizard of Oz, Mary Poppins, Oliver! and the 1964 Fail Safe. Two of the first major films to contain extensive closing credits \u2013 but almost no opening credits \u2013 were the blockbusters Around the World in 80 Days (1956) and West Side Story (1961). West Side Story showed only the title at the beginning of the film, and Around the World in 80 Days had no opening credits at all.",
+        "question": "When did closing credits start?",
+        "label": "1970s"
+    }
+]

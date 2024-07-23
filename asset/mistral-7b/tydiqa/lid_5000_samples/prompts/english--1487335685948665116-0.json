@@ -1,0 +1,15 @@
+[
+    [
+        705,
+        [],
+        "around the West Indies and the eastern coast of Britain's North American colonies"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Edward Teach or Edward Thatch (c.1680 \u2013 22 November 1718), better known as Blackbeard, was an English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies. Little is known about his early life, but he may have been a sailor on privateer ships during Queen Anne's War before settling on the Bahamian island of New Providence, a base for Captain Benjamin Hornigold, whose crew Teach joined around 1716. Hornigold placed him in command of a sloop that he had captured, and the two engaged in numerous acts of piracy. Their numbers were boosted by the addition to their fleet of two more ships, one of which was commanded by Stede Bonnet; but Hornigold retired from piracy towards the end of 1717, taking two vessels with him. Question: Where did Black Beard sail? Answer:",
+    {
+        "id": "english--1487335685948665116-0",
+        "lang": "english",
+        "summary": "Edward Teach or Edward Thatch (c.1680 \u2013 22 November 1718), better known as Blackbeard, was an English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies. Little is known about his early life, but he may have been a sailor on privateer ships during Queen Anne's War before settling on the Bahamian island of New Providence, a base for Captain Benjamin Hornigold, whose crew Teach joined around 1716. Hornigold placed him in command of a sloop that he had captured, and the two engaged in numerous acts of piracy. Their numbers were boosted by the addition to their fleet of two more ships, one of which was commanded by Stede Bonnet; but Hornigold retired from piracy towards the end of 1717, taking two vessels with him.",
+        "question": "Where did Black Beard sail?",
+        "label": "around the West Indies and the eastern coast of Britain's North American colonies"
+    }
+]

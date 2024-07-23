@@ -1,0 +1,15 @@
+[
+    [
+        2101,
+        [],
+        "Jon Erich Rauch"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Jon Erich Rauch (born September 27, 1978) is an American former professional baseball pitcher. At 6feet 11inches (2.11m), he is the tallest player in Major League Baseball history.[1] He is also an Olympic Gold Medalist. Question: Who is the tallest baseball player in the USA? Answer:",
+    {
+        "id": "english--5637517162528047367-0",
+        "lang": "english",
+        "summary": "Jon Erich Rauch (born September 27, 1978) is an American former professional baseball pitcher. At 6feet 11inches (2.11m), he is the tallest player in Major League Baseball history.[1] He is also an Olympic Gold Medalist.",
+        "question": "Who is the tallest baseball player in the USA?",
+        "label": "Jon Erich Rauch"
+    }
+]

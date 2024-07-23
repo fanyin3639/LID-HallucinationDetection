@@ -1,0 +1,15 @@
+[
+    [
+        3124,
+        [],
+        "42-acre"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Taj Mahal (/\u02cct\u0251\u02d0d\u0292 m\u0259\u02c8h\u0251\u02d0l, \u02cct\u0251\u02d0\u0292-/;[4] Hindi: \u0924\u093e\u091c \u092e\u0939\u0932 [ta\u02d0d\u0292 \u02c8m\u025b\u02d0\u0266(\u0259)l], meaning \"Crown of the Palaces\")[5] is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal. It also houses the tomb of Shah Jahan, the builder. The tomb is the centerpiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall. Question: What is size of the Taj Mahal by area? Answer:",
+    {
+        "id": "english--6509392250676275373-0",
+        "lang": "english",
+        "summary": "The Taj Mahal (/\u02cct\u0251\u02d0d\u0292 m\u0259\u02c8h\u0251\u02d0l, \u02cct\u0251\u02d0\u0292-/;[4] Hindi: \u0924\u093e\u091c \u092e\u0939\u0932 [ta\u02d0d\u0292 \u02c8m\u025b\u02d0\u0266(\u0259)l], meaning \"Crown of the Palaces\")[5] is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal. It also houses the tomb of Shah Jahan, the builder. The tomb is the centerpiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
+        "question": "What is size of the Taj Mahal by area?",
+        "label": "42-acre"
+    }
+]

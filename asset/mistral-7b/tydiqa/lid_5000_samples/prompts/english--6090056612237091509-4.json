@@ -1,0 +1,15 @@
+[
+    [
+        207,
+        [],
+        "1997"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pausch was an assistant and associate professor in the Department of Computer Science at the University of Virginia's School of Engineering and Applied Science from 1988 until 1997. While there, he completed sabbaticals at Walt Disney Imagineering and Electronic Arts (EA). In 1997, Pausch became Associate Professor of Computer Science, Human-Computer Interaction, and Design at Carnegie Mellon University. In 1998, he was a co-founder, along with Don Marinelli, of CMU's Entertainment Technology Center (ETC), and he started the Building Virtual Worlds[5] course at CMU, which he taught for 10 years. He consulted with Google on user interface design and also consulted with PARC, Imagineering, and Media Metrix.[4] Pausch is also the founder of the Alice software project.[6] He received the National Science Foundation Presidential Young Investigator Award and was a Lilly Foundation Teaching Fellow.[7] Pausch was the author or co-author of five books and over 70 articles. Question: When did Randy Pausch join the faculty of Carnegie Mellon? Answer:",
+    {
+        "id": "english--6090056612237091509-4",
+        "lang": "english",
+        "summary": "Pausch was an assistant and associate professor in the Department of Computer Science at the University of Virginia's School of Engineering and Applied Science from 1988 until 1997. While there, he completed sabbaticals at Walt Disney Imagineering and Electronic Arts (EA). In 1997, Pausch became Associate Professor of Computer Science, Human-Computer Interaction, and Design at Carnegie Mellon University. In 1998, he was a co-founder, along with Don Marinelli, of CMU's Entertainment Technology Center (ETC), and he started the Building Virtual Worlds[5] course at CMU, which he taught for 10 years. He consulted with Google on user interface design and also consulted with PARC, Imagineering, and Media Metrix.[4] Pausch is also the founder of the Alice software project.[6] He received the National Science Foundation Presidential Young Investigator Award and was a Lilly Foundation Teaching Fellow.[7] Pausch was the author or co-author of five books and over 70 articles.",
+        "question": "When did Randy Pausch join the faculty of Carnegie Mellon?",
+        "label": "1997"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        1061,
+        [],
+        "(Close): The FTSE 100 reversed its earlier gains by closing down 17 points, or 0.27%,  at 6,130.46."
+    ],
+    "Write a short summary for the following passage:\nShares in Admiral Group, the insurer, were the biggest risers after the company reported better than expected annual results.\nThey closed up 9%, or 159 points,  to end the day at 1919p.\nThe company - which also owns the Confused.com price comparison website - were helped by an 11% rise in profits from car insurance.\nMining stocks also boosted the FTSE.  Shares in Glencore rose 5.6%, while Anglo American climbed 1.49%.\nBut shares in Whitbread fell 6.15% after the firm said sales growth had slowed at its Costa coffee chain.\nLike-for-like sales at Costa rose by just 0.5% in the 11 weeks to 11 February, which Whitbread blamed partly on the \"unusually warm winter\".\nContrasting house price reports from the Nationwide Building Society and Halifax did nothing to calm worries about the sector.\nHouse builder Persimmon saw its shares fall 6.8% to 1998p.\nThe pound was up 0.5% against the dollar to $1.4151 and fell 0.2% against the euro to \u00e2\u201a\u00ac1.2925.\nNews of weak growth in the UK's services sector weighed on the pound, with a survey registering the slowest rate of growth in the sector for nearly three years.\nSummary:\n",
+    {
+        "id": 1061,
+        "document": "Shares in Admiral Group, the insurer, were the biggest risers after the company reported better than expected annual results.\nThey closed up 9%, or 159 points,  to end the day at 1919p.\nThe company - which also owns the Confused.com price comparison website - were helped by an 11% rise in profits from car insurance.\nMining stocks also boosted the FTSE.  Shares in Glencore rose 5.6%, while Anglo American climbed 1.49%.\nBut shares in Whitbread fell 6.15% after the firm said sales growth had slowed at its Costa coffee chain.\nLike-for-like sales at Costa rose by just 0.5% in the 11 weeks to 11 February, which Whitbread blamed partly on the \"unusually warm winter\".\nContrasting house price reports from the Nationwide Building Society and Halifax did nothing to calm worries about the sector.\nHouse builder Persimmon saw its shares fall 6.8% to 1998p.\nThe pound was up 0.5% against the dollar to $1.4151 and fell 0.2% against the euro to \u00e2\u201a\u00ac1.2925.\nNews of weak growth in the UK's services sector weighed on the pound, with a survey registering the slowest rate of growth in the sector for nearly three years.",
+        "summary": "(Close): The FTSE 100 reversed its earlier gains by closing down 17 points, or 0.27%,  at 6,130.46.",
+        "label": "(Close): The FTSE 100 reversed its earlier gains by closing down 17 points, or 0.27%,  at 6,130.46."
+    }
+]

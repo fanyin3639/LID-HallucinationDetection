@@ -1,0 +1,19 @@
+[
+    [
+        215,
+        [],
+        "Bryan"
+    ],
+    "Answer the following questions:\nContext: CHAPTER NINE. \n\nA STORM BREWING--IT BURSTS, AND PRODUCES CONSEQUENCES--THE PARTY TAKE TO THE WATER PER FORCE--ALL SAVED. \n\n\"Ah, Bryan! `a friend in need is a friend indeed,'\" said Frank, as he sat on a rock watching the blacksmith and his two Indians while they performed the operation of skinning the bear, whose timely destruction has been related in the last chapter. \"I must say I never saw a man stand his ground so well, with a brute like that stealing kisses from his cheek. Were they sweet, Bryan? Did they remind you of the fair maid of Derry, hey?\" \n\n\"Ah! thrue for ye,\" replied the blacksmith, as he stepped to a rock for the purpose of whetting his knife; \"yer honour was just in time to save me a power o' throuble. Bad skran to the baste! it would have taken three or four rounds at laste to have finished him nately off, for there's no end o' fat on his ribs that would have kep' the knife from goin' far in.\" \n\nFrank laughed at this free-and-easy way of looking at it. \"So you think you would have killed him, do you, if I had not saved you the trouble?\" \n\n\"Av coorse I do. Shure a man is better than a baste any day; and besides, had I not a frind at my back ridy to help me?\" Bryan cast a comical leer at La Roche as he said this, and the poor Frenchman blushed, for he felt that his conduct in the affair had not been very praiseworthy. It is due to La Roche to say, however, that no sooner had he found himself at the top of the tree, and had a moment to reflect, than he slid rapidly to the bottom again, and ran to the assistance of his friend, not, however, in time to render such assistance available, as he came up just at the moment the bear fell. \n'Question': What's his name?\n'Answer: '",
+    {
+        "id": "3yz8upk3vtmxf09y871n9yvqadwcuh_4",
+        "summary": "CHAPTER NINE. \n\nA STORM BREWING--IT BURSTS, AND PRODUCES CONSEQUENCES--THE PARTY TAKE TO THE WATER PER FORCE--ALL SAVED. \n\n\"Ah, Bryan! `a friend in need is a friend indeed,'\" said Frank, as he sat on a rock watching the blacksmith and his two Indians while they performed the operation of skinning the bear, whose timely destruction has been related in the last chapter. \"I must say I never saw a man stand his ground so well, with a brute like that stealing kisses from his cheek. Were they sweet, Bryan? Did they remind you of the fair maid of Derry, hey?\" \n\n\"Ah! thrue for ye,\" replied the blacksmith, as he stepped to a rock for the purpose of whetting his knife; \"yer honour was just in time to save me a power o' throuble. Bad skran to the baste! it would have taken three or four rounds at laste to have finished him nately off, for there's no end o' fat on his ribs that would have kep' the knife from goin' far in.\" \n\nFrank laughed at this free-and-easy way of looking at it. \"So you think you would have killed him, do you, if I had not saved you the trouble?\" \n\n\"Av coorse I do. Shure a man is better than a baste any day; and besides, had I not a frind at my back ridy to help me?\" Bryan cast a comical leer at La Roche as he said this, and the poor Frenchman blushed, for he felt that his conduct in the affair had not been very praiseworthy. It is due to La Roche to say, however, that no sooner had he found himself at the top of the tree, and had a moment to reflect, than he slid rapidly to the bottom again, and ran to the assistance of his friend, not, however, in time to render such assistance available, as he came up just at the moment the bear fell. ",
+        "question": "What's his name?",
+        "label": "Bryan",
+        "additional_answers": [
+            "Bryan",
+            "Bryan",
+            "Bryan"
+        ]
+    }
+]

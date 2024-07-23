@@ -1,0 +1,15 @@
+[
+    [
+        1164,
+        [],
+        "1876"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: One of the earliest electric musical instruments, the Musical Telegraph, was invented in 1876 by American electrical engineer Elisha Gray. He accidentally discovered the sound generation from a self-vibrating electromechanical circuit, and invented a basic single-note oscillator. This instrument used steel reeds with oscillations created by electromagnets transmitted over a telegraph line.  Gray also built a simple loudspeaker device into later models, consisting of a vibrating diaphragm in a magnetic field, to make the oscillator audible.[3][4] This instrument was a remote electromechanical musical instrument that used telegraphy and electric buzzers that generated fixed timbre sound. Though it lacked an arbitrary sound-synthesis function, some have erroneously called it the first synthesizer.[1][2] Question: When was the synthesizer keyboard invented? Answer:",
+    {
+        "id": "english-3394444304417556223-4",
+        "lang": "english",
+        "summary": "One of the earliest electric musical instruments, the Musical Telegraph, was invented in 1876 by American electrical engineer Elisha Gray. He accidentally discovered the sound generation from a self-vibrating electromechanical circuit, and invented a basic single-note oscillator. This instrument used steel reeds with oscillations created by electromagnets transmitted over a telegraph line.  Gray also built a simple loudspeaker device into later models, consisting of a vibrating diaphragm in a magnetic field, to make the oscillator audible.[3][4] This instrument was a remote electromechanical musical instrument that used telegraphy and electric buzzers that generated fixed timbre sound. Though it lacked an arbitrary sound-synthesis function, some have erroneously called it the first synthesizer.[1][2]",
+        "question": "When was the synthesizer keyboard invented?",
+        "label": "1876"
+    }
+]

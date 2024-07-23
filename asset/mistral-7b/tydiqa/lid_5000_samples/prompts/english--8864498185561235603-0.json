@@ -1,0 +1,15 @@
+[
+    [
+        805,
+        [],
+        "Greek"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Eureka (Greek: \u0395\u03cd\u03c1\u03b7\u03ba\u03b1) is an interjection used to celebrate a discovery or invention. It is a transliteration of an exclamation attributed to Ancient Greek mathematician and inventor Archimedes. Question: What is the origin of the word \"eureka\"? Answer:",
+    {
+        "id": "english--8864498185561235603-0",
+        "lang": "english",
+        "summary": "Eureka (Greek: \u0395\u03cd\u03c1\u03b7\u03ba\u03b1) is an interjection used to celebrate a discovery or invention. It is a transliteration of an exclamation attributed to Ancient Greek mathematician and inventor Archimedes.",
+        "question": "What is the origin of the word \"eureka\"?",
+        "label": "Greek"
+    }
+]

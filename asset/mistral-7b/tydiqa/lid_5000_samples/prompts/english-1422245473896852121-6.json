@@ -1,0 +1,15 @@
+[
+    [
+        2135,
+        [],
+        "1997"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Charles J. Moore, returning home through the North Pacific Gyre after competing in the Transpacific Yacht Race in 1997, claimed to have come upon an enormous stretch of floating debris. Moore alerted the oceanographer Curtis Ebbesmeyer, who subsequently dubbed the region the \"Eastern Garbage Patch\" (EGP).[10] The area is frequently featured in media reports as an exceptional example of marine pollution.[11] Question: When was the \"plastic island\" in the Pacific Ocean discovered? Answer:",
+    {
+        "id": "english-1422245473896852121-6",
+        "lang": "english",
+        "summary": "Charles J. Moore, returning home through the North Pacific Gyre after competing in the Transpacific Yacht Race in 1997, claimed to have come upon an enormous stretch of floating debris. Moore alerted the oceanographer Curtis Ebbesmeyer, who subsequently dubbed the region the \"Eastern Garbage Patch\" (EGP).[10] The area is frequently featured in media reports as an exceptional example of marine pollution.[11]",
+        "question": "When was the \"plastic island\" in the Pacific Ocean discovered?",
+        "label": "1997"
+    }
+]

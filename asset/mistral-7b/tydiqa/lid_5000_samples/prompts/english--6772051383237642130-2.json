@@ -1,0 +1,15 @@
+[
+    [
+        180,
+        [],
+        "1861"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In the Early Middle Ages, through barbarian movements, the waning of the Byzantine Empire influence in the western Mediterranean and the Saracen raids, the island fell out of the sphere of influence of any higher government. This led to the birth of four kingdoms called Judicates (Latin: Judicati; Sardinian: Judicados) in the 8th through 10th centuries. Falling under papal influence, Sardinia became the focus of the rivalry of Genoa and Pisa, the Judicates and the Crown of Aragon, which eventually subsumed the island as the Kingdom of Sardinia in 1324. The Kingdom was to last until 1718, when it was ceded to the Piedmontese House of Savoy; later, in 1861, it would thus become the Kingdom of Italy and finally in 1946 the Italian Republic. Question: When did Sardinia become part of Italy? Answer:",
+    {
+        "id": "english--6772051383237642130-2",
+        "lang": "english",
+        "summary": "In the Early Middle Ages, through barbarian movements, the waning of the Byzantine Empire influence in the western Mediterranean and the Saracen raids, the island fell out of the sphere of influence of any higher government. This led to the birth of four kingdoms called Judicates (Latin: Judicati; Sardinian: Judicados) in the 8th through 10th centuries. Falling under papal influence, Sardinia became the focus of the rivalry of Genoa and Pisa, the Judicates and the Crown of Aragon, which eventually subsumed the island as the Kingdom of Sardinia in 1324. The Kingdom was to last until 1718, when it was ceded to the Piedmontese House of Savoy; later, in 1861, it would thus become the Kingdom of Italy and finally in 1946 the Italian Republic.",
+        "question": "When did Sardinia become part of Italy?",
+        "label": "1861"
+    }
+]

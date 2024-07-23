@@ -1,0 +1,15 @@
+[
+    [
+        2149,
+        [],
+        "a systematic method for waste minimization (known by\"Muda\") within a manufacturing system without sacrificing productivity, which can cause problems"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lean manufacturing or lean production, often simply \"lean\", is a systematic method for waste minimization (known by\"Muda\") within a manufacturing system without sacrificing productivity, which can cause problems.  Lean also takes into account waste created through overburden ( the \"Muri\") and waste created through unevenness in work loads (the \"Mura\"). Working from the perspective of the client who consumes a product or service, \"value\" is any action or process that a customer would be willing to pay for. Question: What is lean manufacturing? Answer:",
+    {
+        "id": "english--38554252481378809-0",
+        "lang": "english",
+        "summary": "Lean manufacturing or lean production, often simply \"lean\", is a systematic method for waste minimization (known by\"Muda\") within a manufacturing system without sacrificing productivity, which can cause problems.  Lean also takes into account waste created through overburden ( the \"Muri\") and waste created through unevenness in work loads (the \"Mura\"). Working from the perspective of the client who consumes a product or service, \"value\" is any action or process that a customer would be willing to pay for.",
+        "question": "What is lean manufacturing?",
+        "label": "a systematic method for waste minimization (known by\"Muda\") within a manufacturing system without sacrificing productivity, which can cause problems"
+    }
+]

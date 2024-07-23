@@ -1,0 +1,15 @@
+[
+    [
+        2911,
+        [],
+        "three years and eight months"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Imperial Japanese occupation of Hong Kong (\u9999\u6e2f\u65e5\u64da\u6642\u671f) began when the Governor of Hong Kong, Sir Mark Young, surrendered the British Crown colony of Hong Kong to the Empire of Japan on 25 December 1941.  The surrender occurred after 18 days of fierce fighting against the overwhelming Japanese forces that had invaded the territory.[7][8] The occupation lasted for three years and eight months until Japan surrendered at the end of Second World War. The length of this period (\u4e09\u5e74\u96f6\u516b\u500b\u6708) later became a metonym of the occupation.[8] Question: How long was the Imperial Japanese occupation of Hong Kong? Answer:",
+    {
+        "id": "english-6367299267038382860-0",
+        "lang": "english",
+        "summary": "The Imperial Japanese occupation of Hong Kong (\u9999\u6e2f\u65e5\u64da\u6642\u671f) began when the Governor of Hong Kong, Sir Mark Young, surrendered the British Crown colony of Hong Kong to the Empire of Japan on 25 December 1941.  The surrender occurred after 18 days of fierce fighting against the overwhelming Japanese forces that had invaded the territory.[7][8] The occupation lasted for three years and eight months until Japan surrendered at the end of Second World War. The length of this period (\u4e09\u5e74\u96f6\u516b\u500b\u6708) later became a metonym of the occupation.[8]",
+        "question": "How long was the Imperial Japanese occupation of Hong Kong?",
+        "label": "three years and eight months"
+    }
+]

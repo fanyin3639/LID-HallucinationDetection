@@ -1,0 +1,15 @@
+[
+    [
+        1233,
+        [],
+        "a branch of the Indo-European language family"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Italic languages are a branch of the Indo-European language family, originally spoken by Italic peoples. They include Latin and its descendants (the Romance languages), as well as a number of extinct languages of the Italian Peninsula, including Umbrian, Oscan, Faliscan, South Picene, and possibly Venetic and Sicel. Question: What are the Italic languages? Answer:",
+    {
+        "id": "english--6537518120991839022-1",
+        "lang": "english",
+        "summary": "The Italic languages are a branch of the Indo-European language family, originally spoken by Italic peoples. They include Latin and its descendants (the Romance languages), as well as a number of extinct languages of the Italian Peninsula, including Umbrian, Oscan, Faliscan, South Picene, and possibly Venetic and Sicel.",
+        "question": "What are the Italic languages?",
+        "label": "a branch of the Indo-European language family"
+    }
+]

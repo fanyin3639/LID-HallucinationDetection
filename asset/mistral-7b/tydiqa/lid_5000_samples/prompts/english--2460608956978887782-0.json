@@ -1,0 +1,15 @@
+[
+    [
+        2230,
+        [],
+        "2001"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Pearl Brewing Company (also known as the Pearl Brewery or just Pearl) was an American brewery, established in 1883 in Downtown San Antonio, Texas, USA.  In 1985, Pearl's parent company purchased the Pabst Brewing Company and assumed the Pabst name.  In 1999, the Pabst Brewing Company began transferring its production to Miller Brewing, on a contract basis, and closing all of its breweries.  Pearl beer is still in production at Miller's Ft. Worth, Texas facility, but the Pearl Brewery in San Antonio was closed in 2001.[1]  Since then, the former brewery was purchased by Silver Ventures, Inc., which has made the property the crown jewel in revitalization efforts of southern Midtown and northern Downtown San Antonio.[2] Question: When did Pearl Brewing Company close? Answer:",
+    {
+        "id": "english--2460608956978887782-0",
+        "lang": "english",
+        "summary": "The Pearl Brewing Company (also known as the Pearl Brewery or just Pearl) was an American brewery, established in 1883 in Downtown San Antonio, Texas, USA.  In 1985, Pearl's parent company purchased the Pabst Brewing Company and assumed the Pabst name.  In 1999, the Pabst Brewing Company began transferring its production to Miller Brewing, on a contract basis, and closing all of its breweries.  Pearl beer is still in production at Miller's Ft. Worth, Texas facility, but the Pearl Brewery in San Antonio was closed in 2001.[1]  Since then, the former brewery was purchased by Silver Ventures, Inc., which has made the property the crown jewel in revitalization efforts of southern Midtown and northern Downtown San Antonio.[2]",
+        "question": "When did Pearl Brewing Company close?",
+        "label": "2001"
+    }
+]

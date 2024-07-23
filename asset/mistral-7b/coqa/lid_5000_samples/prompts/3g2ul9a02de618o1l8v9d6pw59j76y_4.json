@@ -1,0 +1,19 @@
+[
+    [
+        1968,
+        [],
+        "golden puppy"
+    ],
+    "Answer the following questions:\nContext: Peter was a very sad puppy. He had been inside of the pet store for a very long time. In fact, he had been there for three months! Peter had seen many other puppies find a person; he began to wonder why he could not get one. He thought that maybe his fur was not pretty enough or maybe his bark was not loud enough. He tried and tried to please every person who came to the store, but they all picked smaller puppies. However, one day all of this changed. Sammie came into the store looking for a golden puppy. She wanted a puppy she could snuggle with. It so happened that Peter was very sad and tired that day. Sammie came to hold him. Peter wanted to show off his bark, but he was too tired. He fell right to sleep. Sammie loved him at once and loved holding him in her arms. Sammie took Peter home that day, and they made lots of fun memories.\n'Question': What for?\n'Answer: '",
+    {
+        "id": "3g2ul9a02de618o1l8v9d6pw59j76y_4",
+        "summary": "Peter was a very sad puppy. He had been inside of the pet store for a very long time. In fact, he had been there for three months! Peter had seen many other puppies find a person; he began to wonder why he could not get one. He thought that maybe his fur was not pretty enough or maybe his bark was not loud enough. He tried and tried to please every person who came to the store, but they all picked smaller puppies. However, one day all of this changed. Sammie came into the store looking for a golden puppy. She wanted a puppy she could snuggle with. It so happened that Peter was very sad and tired that day. Sammie came to hold him. Peter wanted to show off his bark, but he was too tired. He fell right to sleep. Sammie loved him at once and loved holding him in her arms. Sammie took Peter home that day, and they made lots of fun memories.",
+        "question": "What for?",
+        "label": "golden puppy",
+        "additional_answers": [
+            "a golden puppy",
+            "Looking for a golden puppy",
+            "to look for a golden puppy."
+        ]
+    }
+]

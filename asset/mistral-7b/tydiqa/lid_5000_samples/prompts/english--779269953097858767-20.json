@@ -1,0 +1,15 @@
+[
+    [
+        2667,
+        [],
+        "Jersey Royal potato"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: As of 2009 the Jersey Royal potato is the biggest crop export. Question: What is the main export of New Jersey? Answer:",
+    {
+        "id": "english--779269953097858767-20",
+        "lang": "english",
+        "summary": "As of 2009 the Jersey Royal potato is the biggest crop export.",
+        "question": "What is the main export of New Jersey?",
+        "label": "Jersey Royal potato"
+    }
+]

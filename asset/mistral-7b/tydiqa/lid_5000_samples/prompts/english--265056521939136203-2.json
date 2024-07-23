@@ -1,0 +1,15 @@
+[
+    [
+        3108,
+        [],
+        "1929"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of the French team began in 1929 with their first official game against Spain in Barcelona with a 10\u20136 victory.[1] The team made its debut in competition in 1955 when it played in the finals of the second European Baseball Championship, finishing fifth out of five teams.[2] Question: When was professional baseball introduced in France? Answer:",
+    {
+        "id": "english--265056521939136203-2",
+        "lang": "english",
+        "summary": "The history of the French team began in 1929 with their first official game against Spain in Barcelona with a 10\u20136 victory.[1] The team made its debut in competition in 1955 when it played in the finals of the second European Baseball Championship, finishing fifth out of five teams.[2]",
+        "question": "When was professional baseball introduced in France?",
+        "label": "1929"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1009,
+        [],
+        "56,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In order to comply with a conditional-use permit limiting Dodger Stadium's seating capacity to 56,000 it was the only current MLB park (through 2005 ) that had never increased its capacity. Whenever higher revenue lower seats were added some in the upper deck or pavilion were removed to keep the number the same.[28] Through the sale of standing room only tickets, the Dodgers' 2009 home opener drew 57,099 fans, the largest crowd in stadium history. Following a number of incidents in the early 1970s in which fans showered Cincinnati Reds left fielder Pete Rose with beer, bottles, cups, and trash, the sale of beer was discontinued in both pavilions. Beer sales were reinstated in the right field pavilion in 2008, when that section was converted into the All You Can Eat Pavilion. Fans seated in that section can eat unlimited hot dogs and peanuts and also have access to free soft drinks. There is a charge for beer.[29] Question: How many can Dodger Stadium fit? Answer:",
+    {
+        "id": "english-4200427366384915987-30",
+        "lang": "english",
+        "summary": "In order to comply with a conditional-use permit limiting Dodger Stadium's seating capacity to 56,000 it was the only current MLB park (through 2005 ) that had never increased its capacity. Whenever higher revenue lower seats were added some in the upper deck or pavilion were removed to keep the number the same.[28] Through the sale of standing room only tickets, the Dodgers' 2009 home opener drew 57,099 fans, the largest crowd in stadium history. Following a number of incidents in the early 1970s in which fans showered Cincinnati Reds left fielder Pete Rose with beer, bottles, cups, and trash, the sale of beer was discontinued in both pavilions. Beer sales were reinstated in the right field pavilion in 2008, when that section was converted into the All You Can Eat Pavilion. Fans seated in that section can eat unlimited hot dogs and peanuts and also have access to free soft drinks. There is a charge for beer.[29]",
+        "question": "How many can Dodger Stadium fit?",
+        "label": "56,000"
+    }
+]

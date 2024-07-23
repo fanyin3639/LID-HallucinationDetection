@@ -1,0 +1,15 @@
+[
+    [
+        2979,
+        [],
+        "1 February 1884"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first dictionary fascicle was published on 1 February 1884\u2014twenty-three years after Coleridge's sample pages. The full title was A New English Dictionary on Historical Principles; Founded Mainly on the Materials Collected by The Philological Society; the 352-page volume, words from A to Ant, cost 12s 6d.[19]:251 (or about $668.24 in 2013) The total sales were only 4,000 copies.[22]:169 Question: When was the first volume of the Oxford Dictionary published? Answer:",
+    {
+        "id": "english--863196166290584988-18",
+        "lang": "english",
+        "summary": "The first dictionary fascicle was published on 1 February 1884\u2014twenty-three years after Coleridge's sample pages. The full title was A New English Dictionary on Historical Principles; Founded Mainly on the Materials Collected by The Philological Society; the 352-page volume, words from A to Ant, cost 12s 6d.[19]:251 (or about $668.24 in 2013) The total sales were only 4,000 copies.[22]:169",
+        "question": "When was the first volume of the Oxford Dictionary published?",
+        "label": "1 February 1884"
+    }
+]

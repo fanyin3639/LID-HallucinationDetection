@@ -1,0 +1,15 @@
+[
+    [
+        1091,
+        [],
+        "Fourteen"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 2015 Cricket World Cup was jointly hosted by Australia and New Zealand from 14 February to 29 March 2015. Fourteen teams played 49 matches in 14 venues, with Australia staging 26 games at grounds in Adelaide, Brisbane, Canberra, Hobart, Melbourne, Perth and Sydney. Australia defeated New Zealand by 7 wickets to win their fifth ICC Cricket World Cup in front of a record crowd of 93,013. The winning captain Michael Clarke, retired from ODIs with immediate effect after the final match.[36] Question: How many cricket teams are in Australia? Answer:",
+    {
+        "id": "english--7327300810661705072-23",
+        "lang": "english",
+        "summary": "The 2015 Cricket World Cup was jointly hosted by Australia and New Zealand from 14 February to 29 March 2015. Fourteen teams played 49 matches in 14 venues, with Australia staging 26 games at grounds in Adelaide, Brisbane, Canberra, Hobart, Melbourne, Perth and Sydney. Australia defeated New Zealand by 7 wickets to win their fifth ICC Cricket World Cup in front of a record crowd of 93,013. The winning captain Michael Clarke, retired from ODIs with immediate effect after the final match.[36]",
+        "question": "How many cricket teams are in Australia?",
+        "label": "Fourteen"
+    }
+]

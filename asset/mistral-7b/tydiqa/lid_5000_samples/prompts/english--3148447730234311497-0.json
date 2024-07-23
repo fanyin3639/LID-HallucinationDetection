@@ -1,0 +1,15 @@
+[
+    [
+        1789,
+        [],
+        "fictitious town of Ohio"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A Nightmare on Elm Street is a 1984 American slasher film written and directed by Wes Craven, and produced by Robert Shaye.[5] It stars Heather Langenkamp, John Saxon, Ronee Blakley, Amanda Wyss, Jsu Garcia, Robert Englund, and Johnny Depp in his film debut. The plot concerns four teenagers living on one street in a fictitious town of Ohio, who are invaded and killed in their dreams, which results in being killed in reality, by a burnt killer with a bladed glove. Question: Where is the story of A Nightmare on Elm Street set? Answer:",
+    {
+        "id": "english--3148447730234311497-0",
+        "lang": "english",
+        "summary": "A Nightmare on Elm Street is a 1984 American slasher film written and directed by Wes Craven, and produced by Robert Shaye.[5] It stars Heather Langenkamp, John Saxon, Ronee Blakley, Amanda Wyss, Jsu Garcia, Robert Englund, and Johnny Depp in his film debut. The plot concerns four teenagers living on one street in a fictitious town of Ohio, who are invaded and killed in their dreams, which results in being killed in reality, by a burnt killer with a bladed glove.",
+        "question": "Where is the story of A Nightmare on Elm Street set?",
+        "label": "fictitious town of Ohio"
+    }
+]

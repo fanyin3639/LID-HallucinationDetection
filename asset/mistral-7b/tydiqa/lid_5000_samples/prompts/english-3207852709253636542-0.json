@@ -1,0 +1,15 @@
+[
+    [
+        3099,
+        [],
+        "conical volcano built up by many layers (strata) of hardened lava, tephra, pumice and ash"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A stratovolcano, also known as a composite volcano,[1] is a conical volcano built up by many layers (strata) of hardened lava, tephra, pumice and ash. Unlike shield volcanoes, stratovolcanoes are characterized by a steep profile with a summit crater and periodic intervals of explosive eruptions and effusive eruptions, although some have collapsed summit craters called calderas. The lava flowing from stratovolcanoes typically cools and hardens before spreading far, due to high viscosity. The magma forming this lava is often felsic, having high-to-intermediate levels of silica (as in rhyolite, dacite, or andesite), with lesser amounts of less-viscous mafic magma. Extensive felsic lava flows are uncommon, but have travelled as far as 15km (9.3mi).[2] Question: What's a stratovolcano? Answer:",
+    {
+        "id": "english-3207852709253636542-0",
+        "lang": "english",
+        "summary": "A stratovolcano, also known as a composite volcano,[1] is a conical volcano built up by many layers (strata) of hardened lava, tephra, pumice and ash. Unlike shield volcanoes, stratovolcanoes are characterized by a steep profile with a summit crater and periodic intervals of explosive eruptions and effusive eruptions, although some have collapsed summit craters called calderas. The lava flowing from stratovolcanoes typically cools and hardens before spreading far, due to high viscosity. The magma forming this lava is often felsic, having high-to-intermediate levels of silica (as in rhyolite, dacite, or andesite), with lesser amounts of less-viscous mafic magma. Extensive felsic lava flows are uncommon, but have travelled as far as 15km (9.3mi).[2]",
+        "question": "What's a stratovolcano?",
+        "label": "conical volcano built up by many layers (strata) of hardened lava, tephra, pumice and ash"
+    }
+]

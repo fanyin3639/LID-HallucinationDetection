@@ -1,0 +1,15 @@
+[
+    [
+        2978,
+        [],
+        "1891"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The company was established in 1891 as the United States subsidiary of the German company Merck, which was founded in 1668 by the Merck family. Merck & Co. was expropriated by the US government during World War I and subsequently established as an independent American company in 1917. While it operates as Merck & Co. in North America, the original Merck based in Darmstadt holds the rights to the Merck name everywhere else. Merck & Co. is the world's seventh largest pharmaceutical company by market capitalization and revenue. Its headquarters is located in Kenilworth, New Jersey.[4] The company ranked No. 78 in the 2018 Fortune 500 list of the largest United States corporations by total revenue.[5] Question: When was Merck founded? Answer:",
+    {
+        "id": "english--3542488910232911031-1",
+        "lang": "english",
+        "summary": "The company was established in 1891 as the United States subsidiary of the German company Merck, which was founded in 1668 by the Merck family. Merck & Co. was expropriated by the US government during World War I and subsequently established as an independent American company in 1917. While it operates as Merck & Co. in North America, the original Merck based in Darmstadt holds the rights to the Merck name everywhere else. Merck & Co. is the world's seventh largest pharmaceutical company by market capitalization and revenue. Its headquarters is located in Kenilworth, New Jersey.[4] The company ranked No. 78 in the 2018 Fortune 500 list of the largest United States corporations by total revenue.[5]",
+        "question": "When was Merck founded?",
+        "label": "1891"
+    }
+]

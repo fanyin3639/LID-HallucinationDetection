@@ -1,0 +1,14 @@
+[
+    [
+        160,
+        [],
+        "A teenager has been charged with a hacking attack on Mumsnet, which caused the parenting site to reset its 7.7 million members' passwords."
+    ],
+    "Write a short summary for the following passage:\nDavid Buchanan, 18, of Haslemere, Surrey, faces two counts of hacking and one of impairing the operation of or hindering access to a computer.\nThe charges relate to \"computer intrusion and damage to network profiles\" in July and August 2015.\nMr Buchanan is expected to appear at Guildford Magistrates' Court on 7 June.\nThe Mumsnet homepage was redirected to a now suspended Twitter profile page and had some posts edited during a cyber attack in August.\nIt was also subjected to a distributed denial of service (DDoS) attack, where an attempt is made to force a site offline by swamping it with internet traffic.\nThe Metropolitan Police said two 17-year-old boys who were were interviewed under caution in relation to the incidents had been eliminated from the inquiry.\nMumsnet users were made to reset their passwords as a \"precautionary measure\" following the attacks.\nSummary:\n",
+    {
+        "id": 160,
+        "document": "David Buchanan, 18, of Haslemere, Surrey, faces two counts of hacking and one of impairing the operation of or hindering access to a computer.\nThe charges relate to \"computer intrusion and damage to network profiles\" in July and August 2015.\nMr Buchanan is expected to appear at Guildford Magistrates' Court on 7 June.\nThe Mumsnet homepage was redirected to a now suspended Twitter profile page and had some posts edited during a cyber attack in August.\nIt was also subjected to a distributed denial of service (DDoS) attack, where an attempt is made to force a site offline by swamping it with internet traffic.\nThe Metropolitan Police said two 17-year-old boys who were were interviewed under caution in relation to the incidents had been eliminated from the inquiry.\nMumsnet users were made to reset their passwords as a \"precautionary measure\" following the attacks.",
+        "summary": "A teenager has been charged with a hacking attack on Mumsnet, which caused the parenting site to reset its 7.7 million members' passwords.",
+        "label": "A teenager has been charged with a hacking attack on Mumsnet, which caused the parenting site to reset its 7.7 million members' passwords."
+    }
+]

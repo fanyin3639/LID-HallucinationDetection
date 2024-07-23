@@ -1,0 +1,15 @@
+[
+    [
+        1986,
+        [],
+        "1962"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of Trinidad and Tobago begins with the settlements of the islands by Amerindians, specifically the Island Carib and Arawak peoples. Both islands were explored by Christopher Columbus on his third voyage in 1498. Trinidad remained in Spanish hands until 1797, but it was largely settled by French colonists. Tobago changed hands between the British, French, Dutch, and Courlanders, but eventually ended up in British hands following the second Treaty of Paris (1814). In 1889 the two islands were incorporated into a single crown colony.[1] Trinidad and Tobago obtained its independence from the British  Empire in 1962 and became a republic in 1976. Question: When did Trinidad and Tobago become an independent nation? Answer:",
+    {
+        "id": "english--8097461352439685649-1",
+        "lang": "english",
+        "summary": "The history of Trinidad and Tobago begins with the settlements of the islands by Amerindians, specifically the Island Carib and Arawak peoples. Both islands were explored by Christopher Columbus on his third voyage in 1498. Trinidad remained in Spanish hands until 1797, but it was largely settled by French colonists. Tobago changed hands between the British, French, Dutch, and Courlanders, but eventually ended up in British hands following the second Treaty of Paris (1814). In 1889 the two islands were incorporated into a single crown colony.[1] Trinidad and Tobago obtained its independence from the British  Empire in 1962 and became a republic in 1976.",
+        "question": "When did Trinidad and Tobago become an independent nation?",
+        "label": "1962"
+    }
+]

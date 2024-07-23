@@ -1,0 +1,15 @@
+[
+    [
+        535,
+        [],
+        "PPOs have gained popularity because, although they tend to have slightly higher premiums than HMOs"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A preferred provider organization[1] is a subscription-based medical care arrangement. A membership allows a substantial discount below the regularly charged rates of the designated professionals partnered with the organization. Preferred provider organizations themselves earn money by charging an access fee to the insurance company for the use of their network (unlike the usual insurance with premiums and corresponding payments paid either in full or partially by the insurance provider to the medical doctor). They negotiate with providers to set fee schedules, and handle disputes between insurers and providers. PPOs can also contract with one another to strengthen their position in certain geographic areas without forming new relationships directly with providers. This will be mutually beneficial in theory, as be billed at a reduced rate when its insureds utilize the services of the \"preferred\" provider and the provider will see an increase in its business as almost all insureds in the organization will use only providers who are members.  PPOs have gained popularity because, although they tend to have slightly higher premiums than HMOs and other more restrictive plans, they offer patients more flexibility overall.[2] Question: How are PPOs different from HMOs? Answer:",
+    {
+        "id": "english--5408380409972293369-2",
+        "lang": "english",
+        "summary": "A preferred provider organization[1] is a subscription-based medical care arrangement. A membership allows a substantial discount below the regularly charged rates of the designated professionals partnered with the organization. Preferred provider organizations themselves earn money by charging an access fee to the insurance company for the use of their network (unlike the usual insurance with premiums and corresponding payments paid either in full or partially by the insurance provider to the medical doctor). They negotiate with providers to set fee schedules, and handle disputes between insurers and providers. PPOs can also contract with one another to strengthen their position in certain geographic areas without forming new relationships directly with providers. This will be mutually beneficial in theory, as be billed at a reduced rate when its insureds utilize the services of the \"preferred\" provider and the provider will see an increase in its business as almost all insureds in the organization will use only providers who are members.  PPOs have gained popularity because, although they tend to have slightly higher premiums than HMOs and other more restrictive plans, they offer patients more flexibility overall.[2]",
+        "question": "How are PPOs different from HMOs?",
+        "label": "PPOs have gained popularity because, although they tend to have slightly higher premiums than HMOs"
+    }
+]

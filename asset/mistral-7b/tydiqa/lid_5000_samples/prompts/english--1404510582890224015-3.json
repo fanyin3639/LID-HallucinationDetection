@@ -1,0 +1,15 @@
+[
+    [
+        1046,
+        [],
+        "2,859"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the 2013 census, the usual resident population of Lyttelton, including neighbouring communities of Rapaki, Cass Bay and Corsair Bay, was 2,859.[5] Question: How many people live in Lyttelton? Answer:",
+    {
+        "id": "english--1404510582890224015-3",
+        "lang": "english",
+        "summary": "According to the 2013 census, the usual resident population of Lyttelton, including neighbouring communities of Rapaki, Cass Bay and Corsair Bay, was 2,859.[5]",
+        "question": "How many people live in Lyttelton?",
+        "label": "2,859"
+    }
+]

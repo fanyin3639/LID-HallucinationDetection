@@ -1,0 +1,15 @@
+[
+    [
+        2146,
+        [],
+        "Clifford House, Skipton, Yorkshire"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Iain Macleod was born at Clifford House, Skipton, Yorkshire, on 11 November 1913. His father, Dr. Norman Alexander Macleod, was a well-respected general practitioner in Skipton, with a substantial poor-law practice (providing medical services for those who could not afford to pay); the young Macleod would often accompany his father on his rounds.[1][2] His parents were from the Isle of Lewis in the Western Isles of Scotland, belonging to the branch of the Macleods of Pabbay and Uig. They moved to Skipton in 1907. Macleod grew up with strong personal and cultural ties to Scotland, as his parents bought in 1917 part of the Leverhulme estate on the Isle of Lewis, where they often used to stay for family holidays.[1] Question: When was Iain Norman Macleod born? Answer:",
+    {
+        "id": "english--6290884808794995681-4",
+        "lang": "english",
+        "summary": "Iain Macleod was born at Clifford House, Skipton, Yorkshire, on 11 November 1913. His father, Dr. Norman Alexander Macleod, was a well-respected general practitioner in Skipton, with a substantial poor-law practice (providing medical services for those who could not afford to pay); the young Macleod would often accompany his father on his rounds.[1][2] His parents were from the Isle of Lewis in the Western Isles of Scotland, belonging to the branch of the Macleods of Pabbay and Uig. They moved to Skipton in 1907. Macleod grew up with strong personal and cultural ties to Scotland, as his parents bought in 1917 part of the Leverhulme estate on the Isle of Lewis, where they often used to stay for family holidays.[1]",
+        "question": "When was Iain Norman Macleod born?",
+        "label": "Clifford House, Skipton, Yorkshire"
+    }
+]

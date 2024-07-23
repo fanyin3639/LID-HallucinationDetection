@@ -1,0 +1,15 @@
+[
+    [
+        2933,
+        [],
+        "17.7%"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Asian Canadians are Canadians who can trace their ancestry back to the continent of Asia or Asian people. Canadians with Asian ancestry comprise the largest and fastest growing visible minority group in Canada, with roughly 17.7% of the Canadian population. Most Asian Canadians are concentrated in the urban areas of Southern Ontario, the Greater Vancouver area, Calgary, and other large Canadian cities. Question: What's the percentage of Asian's currently living in Canada? Answer:",
+    {
+        "id": "english-5480355385252038075-0",
+        "lang": "english",
+        "summary": "Asian Canadians are Canadians who can trace their ancestry back to the continent of Asia or Asian people. Canadians with Asian ancestry comprise the largest and fastest growing visible minority group in Canada, with roughly 17.7% of the Canadian population. Most Asian Canadians are concentrated in the urban areas of Southern Ontario, the Greater Vancouver area, Calgary, and other large Canadian cities.",
+        "question": "What's the percentage of Asian's currently living in Canada?",
+        "label": "17.7%"
+    }
+]

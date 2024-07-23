@@ -1,0 +1,15 @@
+[
+    [
+        412,
+        [],
+        "1975"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of the Comoros goes back some 1,500 years. The Comoros have been inhabited by various groups throughout this time. France colonised the islands in the 19th century, and they became independent in 1975. Question: When was Comoros founded? Answer:",
+    {
+        "id": "english--8907022244819521415-1",
+        "lang": "english",
+        "summary": "The history of the Comoros goes back some 1,500 years. The Comoros have been inhabited by various groups throughout this time. France colonised the islands in the 19th century, and they became independent in 1975.",
+        "question": "When was Comoros founded?",
+        "label": "1975"
+    }
+]

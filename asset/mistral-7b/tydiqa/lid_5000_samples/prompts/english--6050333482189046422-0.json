@@ -1,0 +1,15 @@
+[
+    [
+        2247,
+        [],
+        "Moncton"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Canadian Province of New Brunswick has eight municipalities that hold city status. These eight cities had a cumulative population of272,174 and an average population of34,022 in the 2016 Census.[1] New Brunswick's largest and smallest cities are Moncton and Campbellton with populations of71,889 and7,385 respectively.[2] Question: What is the largest city in New Brunswick, Canada? Answer:",
+    {
+        "id": "english--6050333482189046422-0",
+        "lang": "english",
+        "summary": "The Canadian Province of New Brunswick has eight municipalities that hold city status. These eight cities had a cumulative population of272,174 and an average population of34,022 in the 2016 Census.[1] New Brunswick's largest and smallest cities are Moncton and Campbellton with populations of71,889 and7,385 respectively.[2]",
+        "question": "What is the largest city in New Brunswick, Canada?",
+        "label": "Moncton"
+    }
+]

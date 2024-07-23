@@ -1,0 +1,15 @@
+[
+    [
+        1456,
+        [],
+        "31 March 1596 \u2013 11 February 1650"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage:  Ren\u00e9 Descartes (/de\u026a\u02c8k\u0251\u02d0rt/, UK also /\u02c8de\u026ak\u0251\u02d0rt/;[15] French:[\u0281\u0259ne deka\u0281t]; Latinized: Renatus Cartesius; adjectival form: \"Cartesian\";[16] 31 March 1596 \u2013 11 February 1650) was a French philosopher, mathematician, and scientist. A native of the Kingdom of France, he spent about 20 years (1629\u201349) of his life in the Dutch Republic after serving for a while in the Dutch States Army of Maurice of Nassau, Prince of Orange and the Stadtholder of the United Provinces. He is generally considered one of the most notable intellectual figures of the Dutch Golden Age.[17] Question: What years did Descartes live? Answer:",
+    {
+        "id": "english-4500875770757534458-2",
+        "lang": "english",
+        "summary": " Ren\u00e9 Descartes (/de\u026a\u02c8k\u0251\u02d0rt/, UK also /\u02c8de\u026ak\u0251\u02d0rt/;[15] French:[\u0281\u0259ne deka\u0281t]; Latinized: Renatus Cartesius; adjectival form: \"Cartesian\";[16] 31 March 1596 \u2013 11 February 1650) was a French philosopher, mathematician, and scientist. A native of the Kingdom of France, he spent about 20 years (1629\u201349) of his life in the Dutch Republic after serving for a while in the Dutch States Army of Maurice of Nassau, Prince of Orange and the Stadtholder of the United Provinces. He is generally considered one of the most notable intellectual figures of the Dutch Golden Age.[17]",
+        "question": "What years did Descartes live?",
+        "label": "31 March 1596 \u2013 11 February 1650"
+    }
+]

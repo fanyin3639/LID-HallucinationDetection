@@ -1,0 +1,15 @@
+[
+    [
+        2598,
+        [],
+        "North Germanic"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ethnically, the residents of Norway are predominantly Norwegians, a North Germanic ethnic group descent. In Northern Norway live the Sami, who claim descent from people who settled the area around 8,000 years ago, probably from continental Europe through the Norwegian coast and through Finland along the inland glaciers. As of 2012, an official government study shows that 86.2% of the total population are ethnic Norwegians.[10] The national minorities of Norway include Scandinavian Romani, Roma, Jews, and Kvener, as well as a small Finnish community. Question: What is the major ethnic group in Norway? Answer:",
+    {
+        "id": "english-7889467030308858036-11",
+        "lang": "english",
+        "summary": "Ethnically, the residents of Norway are predominantly Norwegians, a North Germanic ethnic group descent. In Northern Norway live the Sami, who claim descent from people who settled the area around 8,000 years ago, probably from continental Europe through the Norwegian coast and through Finland along the inland glaciers. As of 2012, an official government study shows that 86.2% of the total population are ethnic Norwegians.[10] The national minorities of Norway include Scandinavian Romani, Roma, Jews, and Kvener, as well as a small Finnish community.",
+        "question": "What is the major ethnic group in Norway?",
+        "label": "North Germanic"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        1060,
+        [],
+        "A 250-year-old Borders bridge near Melrose is to shut for five days for checks ahead of major repairs."
+    ],
+    "Write a short summary for the following passage:\nThe B-listed Lowood Bridge over the River Tweed is to close between 09:00 and 16:00 from Monday to Friday.\nMotorists travelling between Galashiels and Melrose on the B6374 road will have to divert via the Melrose bypass.\nIt will allow the first phase of a \u00c2\u00a3640,000 repairs programme to get under way later this year with work set to be completed by 2019.\nSummary:\n",
+    {
+        "id": 1060,
+        "document": "The B-listed Lowood Bridge over the River Tweed is to close between 09:00 and 16:00 from Monday to Friday.\nMotorists travelling between Galashiels and Melrose on the B6374 road will have to divert via the Melrose bypass.\nIt will allow the first phase of a \u00c2\u00a3640,000 repairs programme to get under way later this year with work set to be completed by 2019.",
+        "summary": "A 250-year-old Borders bridge near Melrose is to shut for five days for checks ahead of major repairs.",
+        "label": "A 250-year-old Borders bridge near Melrose is to shut for five days for checks ahead of major repairs."
+    }
+]

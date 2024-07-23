@@ -1,0 +1,15 @@
+[
+    [
+        317,
+        [],
+        "Amy Poehler"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Leslie Barbara Knope (/\u02c8no\u028ap/ NOHP) is a fictional character and the main protagonist of the NBC sitcom Parks and Recreation. She is portrayed by Amy Poehler. For most of the show's run, she serves as Deputy Director of the Parks and Recreation Department of the fictional city of Pawnee, Indiana. An over-achiever, Knope believes the government should serve the people. Question: Who plays Leslie Knope in the Parks and Recreation? Answer:",
+    {
+        "id": "english--253132044084533762-0",
+        "lang": "english",
+        "summary": "Leslie Barbara Knope (/\u02c8no\u028ap/ NOHP) is a fictional character and the main protagonist of the NBC sitcom Parks and Recreation. She is portrayed by Amy Poehler. For most of the show's run, she serves as Deputy Director of the Parks and Recreation Department of the fictional city of Pawnee, Indiana. An over-achiever, Knope believes the government should serve the people.",
+        "question": "Who plays Leslie Knope in the Parks and Recreation?",
+        "label": "Amy Poehler"
+    }
+]

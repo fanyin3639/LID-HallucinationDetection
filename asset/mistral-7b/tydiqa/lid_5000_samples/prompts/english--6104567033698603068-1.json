@@ -1,0 +1,15 @@
+[
+    [
+        95,
+        [],
+        "1 July 1873"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 15.3-mile (24.6km) line from Douglas to Port Erin is the last remaining line of the former Isle of Man Railway Company, formed in 1870. Its first line, from Douglas to Peel, opened on 1 July 1873, followed by the Port Erin line on 1 August 1874. Initially the Port Erin line had been planned to terminate at Castletown, but the construction of deep water docks at Port Erin caused an extension to the line. A few years after completion, the dock was destroyed by heavy seas and the idea of deep water vessels abandoned there. The remains of the breakwater are still visible at low tide. Question: When did the Isle of Man Railway start running? Answer:",
+    {
+        "id": "english--6104567033698603068-1",
+        "lang": "english",
+        "summary": "The 15.3-mile (24.6km) line from Douglas to Port Erin is the last remaining line of the former Isle of Man Railway Company, formed in 1870. Its first line, from Douglas to Peel, opened on 1 July 1873, followed by the Port Erin line on 1 August 1874. Initially the Port Erin line had been planned to terminate at Castletown, but the construction of deep water docks at Port Erin caused an extension to the line. A few years after completion, the dock was destroyed by heavy seas and the idea of deep water vessels abandoned there. The remains of the breakwater are still visible at low tide.",
+        "question": "When did the Isle of Man Railway start running?",
+        "label": "1 July 1873"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1128,
+        [],
+        "Mayaguez incident"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Mayaguez incident took place between Kampuchea and the United States from May 12\u201315, 1975, less than a month after the Khmer Rouge took control of the capital Phnom Penh ousting the U.S. backed Khmer Republic.  It was the last official battle of the Vietnam War. The names of the Americans killed, as well as those of three U.S. Marines who were left behind on the island of Koh Tang after the battle and were subsequently executed by the Khmer Rouge, are the last names on the Vietnam Veterans Memorial. The merchant ship's crew, whose seizure at sea had prompted the U.S. attack, had been released in good health, unknown to the U.S. Marines or the U.S. command of the operation before they attacked. Nevertheless, the Marines boarded and recaptured the ship anchored offshore a Cambodian island, finding it empty.[1] Question: What was the last battle fought by the USS Taylor? Answer:",
+    {
+        "id": "english--3634494874627606419-0",
+        "lang": "english",
+        "summary": "The Mayaguez incident took place between Kampuchea and the United States from May 12\u201315, 1975, less than a month after the Khmer Rouge took control of the capital Phnom Penh ousting the U.S. backed Khmer Republic.  It was the last official battle of the Vietnam War. The names of the Americans killed, as well as those of three U.S. Marines who were left behind on the island of Koh Tang after the battle and were subsequently executed by the Khmer Rouge, are the last names on the Vietnam Veterans Memorial. The merchant ship's crew, whose seizure at sea had prompted the U.S. attack, had been released in good health, unknown to the U.S. Marines or the U.S. command of the operation before they attacked. Nevertheless, the Marines boarded and recaptured the ship anchored offshore a Cambodian island, finding it empty.[1]",
+        "question": "What was the last battle fought by the USS Taylor?",
+        "label": "Mayaguez incident"
+    }
+]

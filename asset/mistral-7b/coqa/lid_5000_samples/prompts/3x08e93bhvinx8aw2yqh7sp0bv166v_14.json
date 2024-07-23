@@ -1,0 +1,19 @@
+[
+    [
+        1577,
+        [],
+        "Two days"
+    ],
+    "Answer the following questions:\nContext: Three high students become heroes after their act of saving a baby's life. \n\nAndrew Willis, 15, his brother Chris, 13, and friend Reece Galea, 14, were walking along Swallow Drive on their way to school on May 23, when Nicholle Price ran out of her house, shouting for help. Her six-month-old son Corey had swallowed an earring and the young mother couldn't ring for help because something was wrong with her phone. The three teenagers rushed to the aid of Ms Price, called an ambulance , calmed her down and waited with her until the ambulance arrived before heading to school. \n\nMs Price, Corey and his grandmother Joyce Finnie visited the school last Thursday to thank the boys for their kind action. \"It's good to know that there are still some good people who will stop and help,\" Ms Price said. \"While I was shouting for help, a woman walking her dog went straight past, without stopping. I don't know what would have happened if these boys had not stopped.\" \n\nThe teenagers were shocked at the attention they received at school for their heroic act but admitted that the incident was nerve-racking . \"We heard her shouting so we knew something wasn't right,\" Andrew said. \"We thought someone had died. It was scary but we just did what we had to do.\" \n\nJust as proud as the boys' parents is their principal, Tim McCallum. \n\nAfter two days in hospital, Corey has now fully recovered. \"He's got two new teeth to show,\" Ms Price said. \"I have to keep a closer eye on him. He's into everything now and grabs whatever he finds to put it straight into his mouth.\"\n'Question': How long the bay was in the hospital?\n'Answer: '",
+    {
+        "id": "3x08e93bhvinx8aw2yqh7sp0bv166v_14",
+        "summary": "Three high students become heroes after their act of saving a baby's life. \n\nAndrew Willis, 15, his brother Chris, 13, and friend Reece Galea, 14, were walking along Swallow Drive on their way to school on May 23, when Nicholle Price ran out of her house, shouting for help. Her six-month-old son Corey had swallowed an earring and the young mother couldn't ring for help because something was wrong with her phone. The three teenagers rushed to the aid of Ms Price, called an ambulance , calmed her down and waited with her until the ambulance arrived before heading to school. \n\nMs Price, Corey and his grandmother Joyce Finnie visited the school last Thursday to thank the boys for their kind action. \"It's good to know that there are still some good people who will stop and help,\" Ms Price said. \"While I was shouting for help, a woman walking her dog went straight past, without stopping. I don't know what would have happened if these boys had not stopped.\" \n\nThe teenagers were shocked at the attention they received at school for their heroic act but admitted that the incident was nerve-racking . \"We heard her shouting so we knew something wasn't right,\" Andrew said. \"We thought someone had died. It was scary but we just did what we had to do.\" \n\nJust as proud as the boys' parents is their principal, Tim McCallum. \n\nAfter two days in hospital, Corey has now fully recovered. \"He's got two new teeth to show,\" Ms Price said. \"I have to keep a closer eye on him. He's into everything now and grabs whatever he finds to put it straight into his mouth.\"",
+        "question": "How long the bay was in the hospital?",
+        "label": "Two days",
+        "additional_answers": [
+            "2 days",
+            "Two",
+            "two days"
+        ]
+    }
+]

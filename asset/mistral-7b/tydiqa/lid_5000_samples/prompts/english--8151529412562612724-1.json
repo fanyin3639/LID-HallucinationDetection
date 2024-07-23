@@ -1,0 +1,15 @@
+[
+    [
+        1061,
+        [],
+        "1 January 1993"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Dissolution of Czechoslovakia (Czech: Rozd\u011blen\u00ed \u010ceskoslovenska, Slovak: Rozdelenie \u010cesko-Slovenska), which took effect on 1 January 1993, was an event that saw the self-determined split of the federal state of Czechoslovakia into the Czech Republic and Slovakia, entities that had arisen before as the Czech Socialist Republic and the Slovak Socialist Republic in 1969 within the framework of a federal republic. Question: When did Slovakia separate from the Czech Republic? Answer:",
+    {
+        "id": "english--8151529412562612724-1",
+        "lang": "english",
+        "summary": "The Dissolution of Czechoslovakia (Czech: Rozd\u011blen\u00ed \u010ceskoslovenska, Slovak: Rozdelenie \u010cesko-Slovenska), which took effect on 1 January 1993, was an event that saw the self-determined split of the federal state of Czechoslovakia into the Czech Republic and Slovakia, entities that had arisen before as the Czech Socialist Republic and the Slovak Socialist Republic in 1969 within the framework of a federal republic.",
+        "question": "When did Slovakia separate from the Czech Republic?",
+        "label": "1 January 1993"
+    }
+]

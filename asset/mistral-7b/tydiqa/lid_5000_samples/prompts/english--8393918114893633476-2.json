@@ -1,0 +1,15 @@
+[
+    [
+        793,
+        [],
+        "1995"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Ramones recorded a cover of the song as a bonus track for their final album, 1995's \u00a1Adios Amigos!. A live version appears on their Greatest Hits Live album. Question: When did the Ramones record the song Spider-Man? Answer:",
+    {
+        "id": "english--8393918114893633476-2",
+        "lang": "english",
+        "summary": "The Ramones recorded a cover of the song as a bonus track for their final album, 1995's \u00a1Adios Amigos!. A live version appears on their Greatest Hits Live album.",
+        "question": "When did the Ramones record the song Spider-Man?",
+        "label": "1995"
+    }
+]

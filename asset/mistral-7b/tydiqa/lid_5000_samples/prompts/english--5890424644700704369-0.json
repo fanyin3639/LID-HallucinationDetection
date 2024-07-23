@@ -1,0 +1,15 @@
+[
+    [
+        2909,
+        [],
+        "Circuit de Spa-Francorchamps in Belgium"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 6 Hours of Spa-Francorchamps (formerly the 1000 Kilometres of Spa-Francorchamps) is an endurance race for sports cars held at Circuit de Spa-Francorchamps in Belgium. Question: Where does the  6 Hours of Spa-Francorchamps take place? Answer:",
+    {
+        "id": "english--5890424644700704369-0",
+        "lang": "english",
+        "summary": "The 6 Hours of Spa-Francorchamps (formerly the 1000 Kilometres of Spa-Francorchamps) is an endurance race for sports cars held at Circuit de Spa-Francorchamps in Belgium.",
+        "question": "Where does the  6 Hours of Spa-Francorchamps take place?",
+        "label": "Circuit de Spa-Francorchamps in Belgium"
+    }
+]

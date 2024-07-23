@@ -1,0 +1,14 @@
+[
+    [
+        221,
+        [],
+        "Pudsey pops into the BBC News NI studios to meet the Good Morning Ulster team."
+    ],
+    "Write a short summary for the following passage:\n18 November 2016 Last updated at 13:04 GMT\nChildren in Need will be on BBC One NI at 19:30 GMT on Friday.\nSummary:\n",
+    {
+        "id": 221,
+        "document": "18 November 2016 Last updated at 13:04 GMT\nChildren in Need will be on BBC One NI at 19:30 GMT on Friday.",
+        "summary": "Pudsey pops into the BBC News NI studios to meet the Good Morning Ulster team.",
+        "label": "Pudsey pops into the BBC News NI studios to meet the Good Morning Ulster team."
+    }
+]

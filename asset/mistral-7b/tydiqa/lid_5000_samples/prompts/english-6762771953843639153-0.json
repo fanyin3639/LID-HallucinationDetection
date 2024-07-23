@@ -1,0 +1,15 @@
+[
+    [
+        2073,
+        [],
+        "Turkmenistan, Uzbekistan, and Kyrgyzstan to the south; Russia to the north; Russia and the Caspian Sea to the west; and China's Xinjiang Uygur Autonomous Region to the east"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kazakhstan is located in Central Asia and Eastern Europe at Coordinates: . With an area of about 2,724,800 square kilometers, Kazakhstan is more than twice the combined size of the other four Central Asian states and 60% larger than Alaska. The country borders Turkmenistan, Uzbekistan, and Kyrgyzstan to the south; Russia to the north; Russia and the Caspian Sea to the west; and China's Xinjiang Uygur Autonomous Region to the east. Question: What country borders Kazakhstan? Answer:",
+    {
+        "id": "english-6762771953843639153-0",
+        "lang": "english",
+        "summary": "Kazakhstan is located in Central Asia and Eastern Europe at Coordinates: . With an area of about 2,724,800 square kilometers, Kazakhstan is more than twice the combined size of the other four Central Asian states and 60% larger than Alaska. The country borders Turkmenistan, Uzbekistan, and Kyrgyzstan to the south; Russia to the north; Russia and the Caspian Sea to the west; and China's Xinjiang Uygur Autonomous Region to the east.",
+        "question": "What country borders Kazakhstan?",
+        "label": "Turkmenistan, Uzbekistan, and Kyrgyzstan to the south; Russia to the north; Russia and the Caspian Sea to the west; and China's Xinjiang Uygur Autonomous Region to the east"
+    }
+]

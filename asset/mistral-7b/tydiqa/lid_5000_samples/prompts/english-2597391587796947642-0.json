@@ -1,0 +1,15 @@
+[
+    [
+        19,
+        [],
+        "five"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The  permanent members of the United Nations Security Council  (also known as the Permanent Five, Big Five, or P5) are the five states which the UN Charter of 1945 grants a permanent seat on the UN Security Council:  China (formerly the Republic of China), France, Russia (formerly the Soviet Union), the United Kingdom, and the United States. These countries were all allies in World War II, which they won. They are also all nuclear weapons states. A total of 15 UN member states serve on the UNSC, the remainder of which are elected.  Any one of the five permanent members have the power of veto, which enables them to prevent the adoption of any \"substantive\" draft Council resolution, regardless of its level of international support.[1] Question: How many permanent members of the United Nations Security Council are there? Answer:",
+    {
+        "id": "english-2597391587796947642-0",
+        "lang": "english",
+        "summary": "The  permanent members of the United Nations Security Council  (also known as the Permanent Five, Big Five, or P5) are the five states which the UN Charter of 1945 grants a permanent seat on the UN Security Council:  China (formerly the Republic of China), France, Russia (formerly the Soviet Union), the United Kingdom, and the United States. These countries were all allies in World War II, which they won. They are also all nuclear weapons states. A total of 15 UN member states serve on the UNSC, the remainder of which are elected.  Any one of the five permanent members have the power of veto, which enables them to prevent the adoption of any \"substantive\" draft Council resolution, regardless of its level of international support.[1]",
+        "question": "How many permanent members of the United Nations Security Council are there?",
+        "label": "five"
+    }
+]

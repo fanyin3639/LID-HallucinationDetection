@@ -1,0 +1,15 @@
+[
+    [
+        2265,
+        [],
+        "April 1948"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Toys \"R\" Us, Inc.[nb 1] is an international toy, clothing, video game, and baby product retailer founded in April 1948, with its headquarters located in Wayne, New Jersey, in the New York metropolitan area. Question: When was Toys R Us founded? Answer:",
+    {
+        "id": "english-8207299579047389450-0",
+        "lang": "english",
+        "summary": "Toys \"R\" Us, Inc.[nb 1] is an international toy, clothing, video game, and baby product retailer founded in April 1948, with its headquarters located in Wayne, New Jersey, in the New York metropolitan area.",
+        "question": "When was Toys R Us founded?",
+        "label": "April 1948"
+    }
+]

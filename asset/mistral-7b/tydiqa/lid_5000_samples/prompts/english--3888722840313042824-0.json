@@ -1,0 +1,15 @@
+[
+    [
+        1752,
+        [],
+        "Quezon City, Philippines"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Ateneo de Manila University (Filipino: Pamantasang Ateneo de Manila; Spanish: Universidad Ateneo de Manila) is a private Roman Catholic research university in Quezon City, Philippines. Founded in 1859 by the Society of Jesus, Ateneo is the third-oldest university in the Philippines. Ateneo offers elementary and secondary education exclusively to male students (and has recently opened the Senior High School to girls). The undergraduate and graduate programmes are coeducational and organised into four schools, collectively known as the Loyola Schools, which are located at its main campus at Loyola Heights. Four professional schools occupy campuses in different parts of Metro Manila. Question: Where is Ateneo de Manila University located? Answer:",
+    {
+        "id": "english--3888722840313042824-0",
+        "lang": "english",
+        "summary": "The Ateneo de Manila University (Filipino: Pamantasang Ateneo de Manila; Spanish: Universidad Ateneo de Manila) is a private Roman Catholic research university in Quezon City, Philippines. Founded in 1859 by the Society of Jesus, Ateneo is the third-oldest university in the Philippines. Ateneo offers elementary and secondary education exclusively to male students (and has recently opened the Senior High School to girls). The undergraduate and graduate programmes are coeducational and organised into four schools, collectively known as the Loyola Schools, which are located at its main campus at Loyola Heights. Four professional schools occupy campuses in different parts of Metro Manila.",
+        "question": "Where is Ateneo de Manila University located?",
+        "label": "Quezon City, Philippines"
+    }
+]

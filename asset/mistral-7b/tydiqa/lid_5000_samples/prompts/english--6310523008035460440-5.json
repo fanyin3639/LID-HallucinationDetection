@@ -1,0 +1,15 @@
+[
+    [
+        136,
+        [],
+        "1846"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Darwin made attempts to open discussions about his theory with his close scientific colleagues. In January 1842 Darwin sent a tentative description of his ideas in a letter to Lyell, then prepared a \"Pencil Sketch\" of his theory.  He worked up his \"Sketch\" into an \"Essay\" in 1844, and eventually persuaded Hooker to read a copy in January 1847. His geology books and publication of Beagle findings were completed in 1846, when he began what became eight years of research into classification of barnacle species, exploring the immense amount of variation in nature. Question: When was Darwin's theory first published? Answer:",
+    {
+        "id": "english--6310523008035460440-5",
+        "lang": "english",
+        "summary": "Darwin made attempts to open discussions about his theory with his close scientific colleagues. In January 1842 Darwin sent a tentative description of his ideas in a letter to Lyell, then prepared a \"Pencil Sketch\" of his theory.  He worked up his \"Sketch\" into an \"Essay\" in 1844, and eventually persuaded Hooker to read a copy in January 1847. His geology books and publication of Beagle findings were completed in 1846, when he began what became eight years of research into classification of barnacle species, exploring the immense amount of variation in nature.",
+        "question": "When was Darwin's theory first published?",
+        "label": "1846"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1246,
+        [],
+        "newtons per meter per ampere"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The term 'magnetic field' is used for two distinct but closely related fields denoted by the symbols B and H. In the International System of Units, H is measured in units of amperes per meter and B is measured in teslas, which are equivalent to newtons per meter per ampere.  H and B differ in how they account for magnetization. In a vacuum, B and H are the same aside from units; but in a magnetized material, B/     \u03bc  0     {\\displaystyle \\mu _{0}}   and H differ by the magnetization M of the material at that point in the material. Question: What is the unit of measurement for magnetic force? Answer:",
+    {
+        "id": "english--1273235788550208580-2",
+        "lang": "english",
+        "summary": "The term 'magnetic field' is used for two distinct but closely related fields denoted by the symbols B and H. In the International System of Units, H is measured in units of amperes per meter and B is measured in teslas, which are equivalent to newtons per meter per ampere.  H and B differ in how they account for magnetization. In a vacuum, B and H are the same aside from units; but in a magnetized material, B/     \u03bc  0     {\\displaystyle \\mu _{0}}   and H differ by the magnetization M of the material at that point in the material.",
+        "question": "What is the unit of measurement for magnetic force?",
+        "label": "newtons per meter per ampere"
+    }
+]

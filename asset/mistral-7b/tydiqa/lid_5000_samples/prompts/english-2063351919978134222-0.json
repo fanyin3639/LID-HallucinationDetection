@@ -1,0 +1,15 @@
+[
+    [
+        2540,
+        [],
+        "at least 3600 years ago"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of glass-making dates back to at least 3600 years ago in Mesopotamia. However, they may have been producing second-rate copies of glass objects from Egypt, where this complex craft originated.[1] Other archaeological evidence suggests that the first true glass was made in coastal north Syria, Mesopotamia or Egypt.[2] The earliest known glass objects, of the mid second millennium BC, were beads, perhaps initially created as the accidental by-products of metal-working (slags) or during the production of faience, a pre-glass vitreous material made by a process similar to glazing.[n 1] Glass products remained a luxury until the disasters that overtook the late Bronze Age civilizations seemingly brought glass-making to a halt. Question: When was glass first created? Answer:",
+    {
+        "id": "english-2063351919978134222-0",
+        "lang": "english",
+        "summary": "The history of glass-making dates back to at least 3600 years ago in Mesopotamia. However, they may have been producing second-rate copies of glass objects from Egypt, where this complex craft originated.[1] Other archaeological evidence suggests that the first true glass was made in coastal north Syria, Mesopotamia or Egypt.[2] The earliest known glass objects, of the mid second millennium BC, were beads, perhaps initially created as the accidental by-products of metal-working (slags) or during the production of faience, a pre-glass vitreous material made by a process similar to glazing.[n 1] Glass products remained a luxury until the disasters that overtook the late Bronze Age civilizations seemingly brought glass-making to a halt.",
+        "question": "When was glass first created?",
+        "label": "at least 3600 years ago"
+    }
+]

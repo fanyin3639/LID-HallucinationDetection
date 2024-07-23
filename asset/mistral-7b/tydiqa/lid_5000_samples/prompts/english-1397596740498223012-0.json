@@ -1,0 +1,15 @@
+[
+    [
+        2219,
+        [],
+        "1991"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Power League Wrestling (PLW) is an American independent professional wrestling promotion based in Pawtucket, Rhode Island. It was founded in Swansea, Massachusetts by Bob Evans and Mark Amaral in 1991, and later taken over by Amaral, Carlos Arenas, Paul Lauzon, and Tommy Degnan. It is the first and longest running \"indy\" promotion in the state of Rhode Island and one of the few successful groups outside the Greater Boston Area. Question: When was Power League Wrestling founded? Answer:",
+    {
+        "id": "english-1397596740498223012-0",
+        "lang": "english",
+        "summary": "Power League Wrestling (PLW) is an American independent professional wrestling promotion based in Pawtucket, Rhode Island. It was founded in Swansea, Massachusetts by Bob Evans and Mark Amaral in 1991, and later taken over by Amaral, Carlos Arenas, Paul Lauzon, and Tommy Degnan. It is the first and longest running \"indy\" promotion in the state of Rhode Island and one of the few successful groups outside the Greater Boston Area.",
+        "question": "When was Power League Wrestling founded?",
+        "label": "1991"
+    }
+]

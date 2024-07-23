@@ -1,0 +1,15 @@
+[
+    [
+        1812,
+        [],
+        "11 February 1929"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Holy See dates back to early Christianity, and is the primate episcopal see of the Catholic Church, with 1.3billion Catholics around the world distributed in the Latin Church and 23 Eastern Catholic Churches. The independent Vatican City-state, on the other hand, came into existence in 11 February 1929 by the Lateran Treaty between the Holy See and Italy, which spoke of it as a new creation,[12] not as a vestige of the much larger Papal States (756\u20131870), which had previously encompassed much of central Italy. Question: When was the Vatican established? Answer:",
+    {
+        "id": "english--8282665231712366803-2",
+        "lang": "english",
+        "summary": "The Holy See dates back to early Christianity, and is the primate episcopal see of the Catholic Church, with 1.3billion Catholics around the world distributed in the Latin Church and 23 Eastern Catholic Churches. The independent Vatican City-state, on the other hand, came into existence in 11 February 1929 by the Lateran Treaty between the Holy See and Italy, which spoke of it as a new creation,[12] not as a vestige of the much larger Papal States (756\u20131870), which had previously encompassed much of central Italy.",
+        "question": "When was the Vatican established?",
+        "label": "11 February 1929"
+    }
+]

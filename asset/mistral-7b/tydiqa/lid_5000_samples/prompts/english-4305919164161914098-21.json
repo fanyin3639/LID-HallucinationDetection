@@ -1,0 +1,15 @@
+[
+    [
+        1781,
+        [],
+        "Richard Harvey"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first use of the term \"anthropology\" in English to refer to a natural science of humanity was apparently in Richard Harvey's 1593 Philadelphus, a defense of the legend of Brutus in British history, which, includes the passage: \"Genealogy or issue which they had, Artes which they studied, Actes which they did. This part of History is named Anthropology.\" Question: Who first used the term anthropology? Answer:",
+    {
+        "id": "english-4305919164161914098-21",
+        "lang": "english",
+        "summary": "The first use of the term \"anthropology\" in English to refer to a natural science of humanity was apparently in Richard Harvey's 1593 Philadelphus, a defense of the legend of Brutus in British history, which, includes the passage: \"Genealogy or issue which they had, Artes which they studied, Actes which they did. This part of History is named Anthropology.\"",
+        "question": "Who first used the term anthropology?",
+        "label": "Richard Harvey"
+    }
+]

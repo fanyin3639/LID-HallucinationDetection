@@ -1,0 +1,14 @@
+[
+    [
+        52,
+        [],
+        "Leicester have sold goalkeeper Ron-Robert Zieler to Stuttgart for an undisclosed fee after a year with the Premier League club."
+    ],
+    "Write a short summary for the following passage:\nGermany international Zieler, 28, joined the Foxes from Hannover in June 2016 but made just 13 appearances last season.\nStuttgart will be back in the Bundesliga next season after winning promotion under Hannes Wolf.\nZieler said: \"I have the feeling that something can develop at the club.\"\nZieler's departure means that Leicester have Ben Hamer as back-up to first-choice Kasper Schmeichel.\nThis summer the Foxes have signed Sevilla captain Vicente Iborra for \u00a310.5m and Hull defender Harry Maguire for \u00a317m.\nFind all the latest football transfers on our dedicated page.\nSummary:\n",
+    {
+        "id": 52,
+        "document": "Germany international Zieler, 28, joined the Foxes from Hannover in June 2016 but made just 13 appearances last season.\nStuttgart will be back in the Bundesliga next season after winning promotion under Hannes Wolf.\nZieler said: \"I have the feeling that something can develop at the club.\"\nZieler's departure means that Leicester have Ben Hamer as back-up to first-choice Kasper Schmeichel.\nThis summer the Foxes have signed Sevilla captain Vicente Iborra for \u00a310.5m and Hull defender Harry Maguire for \u00a317m.\nFind all the latest football transfers on our dedicated page.",
+        "summary": "Leicester have sold goalkeeper Ron-Robert Zieler to Stuttgart for an undisclosed fee after a year with the Premier League club.",
+        "label": "Leicester have sold goalkeeper Ron-Robert Zieler to Stuttgart for an undisclosed fee after a year with the Premier League club."
+    }
+]

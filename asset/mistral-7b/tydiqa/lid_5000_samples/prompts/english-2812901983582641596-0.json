@@ -1,0 +1,15 @@
+[
+    [
+        1196,
+        [],
+        "1927"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Brewers Retail Inc., doing business as The Beer Store,  is a Canadian privately owned chain of retail outlets selling beer and other malt beverages in the province of Ontario, Canada. Founded in 1927, it was owned at its inception by a consortium of Ontario-based brewers. It currently operates as a unique open retail and wholesale system primarily owned by 3 large multinational brewing companies. It is also partially owned (under 0.02%[3]) by 30 Ontario-based brewers.[4] Under the ownership model, all qualified brewers are free to list their products without discrimination and to set their own selling prices,[5] subject to LCBO price approval that must comply with legislated minimum and uniform pricing requirements.[6] Question: When was Brewers Retail Inc founded? Answer:",
+    {
+        "id": "english-2812901983582641596-0",
+        "lang": "english",
+        "summary": "Brewers Retail Inc., doing business as The Beer Store,  is a Canadian privately owned chain of retail outlets selling beer and other malt beverages in the province of Ontario, Canada. Founded in 1927, it was owned at its inception by a consortium of Ontario-based brewers. It currently operates as a unique open retail and wholesale system primarily owned by 3 large multinational brewing companies. It is also partially owned (under 0.02%[3]) by 30 Ontario-based brewers.[4] Under the ownership model, all qualified brewers are free to list their products without discrimination and to set their own selling prices,[5] subject to LCBO price approval that must comply with legislated minimum and uniform pricing requirements.[6]",
+        "question": "When was Brewers Retail Inc founded?",
+        "label": "1927"
+    }
+]

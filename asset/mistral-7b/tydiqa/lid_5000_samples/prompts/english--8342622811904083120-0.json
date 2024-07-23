@@ -1,0 +1,15 @@
+[
+    [
+        2179,
+        [],
+        "In mathematics, a matrix (plural: matrices) is a rectangular array[1] of numbers, symbols, or expressions, arranged in rows and columns"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In mathematics, a matrix (plural: matrices) is a rectangular array[1] of numbers, symbols, or expressions, arranged in rows and columns.[2][3] For example, the dimensions of the matrix below are 2 \u00d7 3 (read \"two by three\"), because there are two rows and three columns: Question: What is a matrix in algebra? Answer:",
+    {
+        "id": "english--8342622811904083120-0",
+        "lang": "english",
+        "summary": "In mathematics, a matrix (plural: matrices) is a rectangular array[1] of numbers, symbols, or expressions, arranged in rows and columns.[2][3] For example, the dimensions of the matrix below are 2 \u00d7 3 (read \"two by three\"), because there are two rows and three columns:",
+        "question": "What is a matrix in algebra?",
+        "label": "In mathematics, a matrix (plural: matrices) is a rectangular array[1] of numbers, symbols, or expressions, arranged in rows and columns"
+    }
+]

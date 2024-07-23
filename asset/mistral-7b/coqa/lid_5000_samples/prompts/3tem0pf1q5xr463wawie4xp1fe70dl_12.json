@@ -1,0 +1,19 @@
+[
+    [
+        247,
+        [],
+        "Yes"
+    ],
+    "Answer the following questions:\nContext: A German taxi-driver, Franz Bussman, recently found his brother who was thought to have been killed twenty years ago. \n\nWhile on a walking tour with his wife, he stopped to talk to a workman. After they had gone on, Mrs. Bussman said that the workman was closely like her husband and even suggested that he might be his brother. Franz laughed at the idea, pointing out that his brother had been killed in action during the war. Though Mrs. Busman knew this story quite well, she thought there was a chance in a million that she might be right. \n\nA few days later, she sent a boy to the workman to ask him if his name was Hans Bussman. Needless to say, the man's name was Hans Bussman. And he really was Franz's long-lost brother. \n\nWhen the brothers were reunited, Hans explained how it was that he was still alive. \n\nAfter having been wondered towards the end of the war, he had been sent to hospital and was separated from his unit . The hospital had been bombed and Hans had made his way back into Western Germany on foot. Meanwhile, his unit was lost and all records of him had been destroyed. Hans returned to his home, but the house had been bombed up. Guessing that his family had all been killed during an air-raid , Hans settled down in a village fifty miles away where he had remained ever since.\n'Question': Does he have a living brother?\n'Answer: '",
+    {
+        "id": "3tem0pf1q5xr463wawie4xp1fe70dl_12",
+        "summary": "A German taxi-driver, Franz Bussman, recently found his brother who was thought to have been killed twenty years ago. \n\nWhile on a walking tour with his wife, he stopped to talk to a workman. After they had gone on, Mrs. Bussman said that the workman was closely like her husband and even suggested that he might be his brother. Franz laughed at the idea, pointing out that his brother had been killed in action during the war. Though Mrs. Busman knew this story quite well, she thought there was a chance in a million that she might be right. \n\nA few days later, she sent a boy to the workman to ask him if his name was Hans Bussman. Needless to say, the man's name was Hans Bussman. And he really was Franz's long-lost brother. \n\nWhen the brothers were reunited, Hans explained how it was that he was still alive. \n\nAfter having been wondered towards the end of the war, he had been sent to hospital and was separated from his unit . The hospital had been bombed and Hans had made his way back into Western Germany on foot. Meanwhile, his unit was lost and all records of him had been destroyed. Hans returned to his home, but the house had been bombed up. Guessing that his family had all been killed during an air-raid , Hans settled down in a village fifty miles away where he had remained ever since.",
+        "question": "Does he have a living brother?",
+        "label": "Yes",
+        "additional_answers": [
+            "yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

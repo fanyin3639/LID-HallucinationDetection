@@ -1,0 +1,15 @@
+[
+    [
+        1914,
+        [],
+        "the lakes of southern Russia and Ukraine"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The zebra mussel (Dreissena polymorpha) is a small freshwater mussel. This species was originally native to the lakes of southern Russia and Ukraine.[2] However, the zebra mussel has been accidentally introduced to numerous other areas, and has become an invasive species in many countries worldwide. Since the 1980s, they have invaded the Great Lakes and the Hudson River. Question: Where are zebra mussels naturally from? Answer:",
+    {
+        "id": "english--7688882413018640954-0",
+        "lang": "english",
+        "summary": "The zebra mussel (Dreissena polymorpha) is a small freshwater mussel. This species was originally native to the lakes of southern Russia and Ukraine.[2] However, the zebra mussel has been accidentally introduced to numerous other areas, and has become an invasive species in many countries worldwide. Since the 1980s, they have invaded the Great Lakes and the Hudson River.",
+        "question": "Where are zebra mussels naturally from?",
+        "label": "the lakes of southern Russia and Ukraine"
+    }
+]

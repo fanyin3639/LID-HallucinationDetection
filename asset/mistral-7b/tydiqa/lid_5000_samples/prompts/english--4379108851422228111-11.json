@@ -1,0 +1,15 @@
+[
+    [
+        1373,
+        [],
+        "1927"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 1927 flood was the greatest flood in modern history on the lower Mississippi River. In the summer of 1926 until the spring of 1927, heavy rains fell in eastern Kansas, Oklahoma, and the Ohio Valley. The White and Little Red rivers broke through the levees in Arkansas in February, flooding over 400km2 (99,000 acres) with 3 to 5m (9.8 to 16.4ft) of water.[10]  The first levee break along the Mississippi River occurred a few miles south of Elaine, Arkansas on March 29.[2] Question: When was the deadliest recorded flood in the history of the Mississippi River? Answer:",
+    {
+        "id": "english--4379108851422228111-11",
+        "lang": "english",
+        "summary": "The 1927 flood was the greatest flood in modern history on the lower Mississippi River. In the summer of 1926 until the spring of 1927, heavy rains fell in eastern Kansas, Oklahoma, and the Ohio Valley. The White and Little Red rivers broke through the levees in Arkansas in February, flooding over 400km2 (99,000 acres) with 3 to 5m (9.8 to 16.4ft) of water.[10]  The first levee break along the Mississippi River occurred a few miles south of Elaine, Arkansas on March 29.[2]",
+        "question": "When was the deadliest recorded flood in the history of the Mississippi River?",
+        "label": "1927"
+    }
+]

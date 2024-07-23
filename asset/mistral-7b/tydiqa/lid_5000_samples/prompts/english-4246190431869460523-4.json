@@ -1,0 +1,15 @@
+[
+    [
+        708,
+        [],
+        "1768"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Work began on what historians would subsequently refer to as \"the first Monticello\" in 1768, on a plantation of 5,000 acres (2,000 hectares). Jefferson moved into the South Pavilion (an outbuilding) in 1770, where his new wife Martha Wayles Skelton joined him in 1772. Jefferson continued work on his original design, but how much was completed is of some dispute.[5] In constructing and later reconstructing his home, Jefferson used a combination of free workers, indentured servants and enslaved laborers.[6] Question: When did Thomas Jefferson build Monticello? Answer:",
+    {
+        "id": "english-4246190431869460523-4",
+        "lang": "english",
+        "summary": "Work began on what historians would subsequently refer to as \"the first Monticello\" in 1768, on a plantation of 5,000 acres (2,000 hectares). Jefferson moved into the South Pavilion (an outbuilding) in 1770, where his new wife Martha Wayles Skelton joined him in 1772. Jefferson continued work on his original design, but how much was completed is of some dispute.[5] In constructing and later reconstructing his home, Jefferson used a combination of free workers, indentured servants and enslaved laborers.[6]",
+        "question": "When did Thomas Jefferson build Monticello?",
+        "label": "1768"
+    }
+]

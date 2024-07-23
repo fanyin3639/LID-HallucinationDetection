@@ -1,0 +1,19 @@
+[
+    [
+        906,
+        [],
+        "Where is Shaggam Creek?"
+    ],
+    "Answer the following questions:\nContext: CHAPTER XXX \n\nTHE RESCUE--CONCLUSION \n\nThe Rovers and the others on the steam tug could scarcely wait for the old man in the dilapidated rowboat to come up alongside. \n\n\"You have a message for us?\" said Dick. \"Hand it over, quick.\" \n\n\"The message says as how you-uns will pay me twenty-five dollars fer delivering of it in twenty-four hours,\" said the old man, cautiously. \n\n\"Who is it from?\" \n\n\"It is signed Dora Stanhope and Nellie Laning.\" \n\n\"Give it to me--I'll pay you the money,\" cried Tom. \n\n\"All right, reckon as how I kin trust you-uns,\" said the old man. \n\nIt was Jake Shaggam, who had received the message the evening before. He had read it with interest and started out at daylight to find out something about the Rovers and where they might be located. Good fortune had thrown him directly in our young friends' way. \n\n\"This is really a message from the girls!\" cried Tom, reading it hastily. \"It is in Nellie Laning's handwriting.\" \n\n\"And Dora Stanhope has signed her name too,\" added Dick. \"I know her signature well.\" \n\n\"Of course you do,\" put in Fred, dryly, but nobody paid attention to the sally. \n\n\"They are on the houseboat, and the craft is hidden up Shaggam Creek,\" put in Sam. He turned to the captain of the tug. \"Where is Shaggam Creek?\" \n\n\"This ere is Shaggam Creek, an' I'm Jake Shaggam,\" answered the hermit. \"But you-uns said you'd pay me thet twenty-five dollars.\" \n\n\"I will,\" said Tom, and brought out the amount at once. \n'Question': What did he ask him?\n'Answer: '",
+    {
+        "id": "37z929rlg98ym4j55o1dj7d6d02tso_11",
+        "summary": "CHAPTER XXX \n\nTHE RESCUE--CONCLUSION \n\nThe Rovers and the others on the steam tug could scarcely wait for the old man in the dilapidated rowboat to come up alongside. \n\n\"You have a message for us?\" said Dick. \"Hand it over, quick.\" \n\n\"The message says as how you-uns will pay me twenty-five dollars fer delivering of it in twenty-four hours,\" said the old man, cautiously. \n\n\"Who is it from?\" \n\n\"It is signed Dora Stanhope and Nellie Laning.\" \n\n\"Give it to me--I'll pay you the money,\" cried Tom. \n\n\"All right, reckon as how I kin trust you-uns,\" said the old man. \n\nIt was Jake Shaggam, who had received the message the evening before. He had read it with interest and started out at daylight to find out something about the Rovers and where they might be located. Good fortune had thrown him directly in our young friends' way. \n\n\"This is really a message from the girls!\" cried Tom, reading it hastily. \"It is in Nellie Laning's handwriting.\" \n\n\"And Dora Stanhope has signed her name too,\" added Dick. \"I know her signature well.\" \n\n\"Of course you do,\" put in Fred, dryly, but nobody paid attention to the sally. \n\n\"They are on the houseboat, and the craft is hidden up Shaggam Creek,\" put in Sam. He turned to the captain of the tug. \"Where is Shaggam Creek?\" \n\n\"This ere is Shaggam Creek, an' I'm Jake Shaggam,\" answered the hermit. \"But you-uns said you'd pay me thet twenty-five dollars.\" \n\n\"I will,\" said Tom, and brought out the amount at once. ",
+        "question": "What did he ask him?",
+        "label": "Where is Shaggam Creek?",
+        "additional_answers": [
+            "\"Where is Shaggam Creek?",
+            "\"Where is Shaggam Creek?\"",
+            "\"Where is Shaggam Creek?\""
+        ]
+    }
+]

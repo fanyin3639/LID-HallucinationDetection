@@ -1,0 +1,15 @@
+[
+    [
+        2851,
+        [],
+        "Boston Latin School"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first American schools in the thirteen original colonies opened in the 17th century. Boston Latin School was founded in 1635 and is both the first public school and oldest existing school in the United States.[1] The first free taxpayer-supported public school in North America, the Mather School, was opened in Dorchester, Massachusetts, in 1639.[2][3] Cremin (1970) stresses that colonists tried at first to educate by the traditional English methods of family, church, community, and apprenticeship, with schools later becoming the key agent in \"socialization.\" At first, the rudiments of literacy and arithmetic were taught inside the family, assuming the parents had those skills. Literacy rates were much higher in New England because much of the population had been deeply involved in the Protestant Reformation and learned to read in order to read the Scriptures. Literacy was much lower in the South, where the Anglican Church was the established church. Single working-class people formed a large part of the population in the early years, arriving as indentured servants. The planter class did not support public education but arranged for private tutors for their children, and sent some to England at appropriate ages for further education. Question: Where was the first public school opened in the U.S.? Answer:",
+    {
+        "id": "english-8807977568946669705-2",
+        "lang": "english",
+        "summary": "The first American schools in the thirteen original colonies opened in the 17th century. Boston Latin School was founded in 1635 and is both the first public school and oldest existing school in the United States.[1] The first free taxpayer-supported public school in North America, the Mather School, was opened in Dorchester, Massachusetts, in 1639.[2][3] Cremin (1970) stresses that colonists tried at first to educate by the traditional English methods of family, church, community, and apprenticeship, with schools later becoming the key agent in \"socialization.\" At first, the rudiments of literacy and arithmetic were taught inside the family, assuming the parents had those skills. Literacy rates were much higher in New England because much of the population had been deeply involved in the Protestant Reformation and learned to read in order to read the Scriptures. Literacy was much lower in the South, where the Anglican Church was the established church. Single working-class people formed a large part of the population in the early years, arriving as indentured servants. The planter class did not support public education but arranged for private tutors for their children, and sent some to England at appropriate ages for further education.",
+        "question": "Where was the first public school opened in the U.S.?",
+        "label": "Boston Latin School"
+    }
+]

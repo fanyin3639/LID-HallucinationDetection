@@ -1,0 +1,15 @@
+[
+    [
+        1756,
+        [],
+        "1945"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Established in 1945 by the UN Charter, the court began work in 1946 as the successor to the Permanent Court of International Justice. The Statute of the International Court of Justice, similar to that of its predecessor, is the main constitutional document constituting and regulating the court.[3] Question: When was the International Court of Justice formed? Answer:",
+    {
+        "id": "english-4165495624214561508-2",
+        "lang": "english",
+        "summary": "Established in 1945 by the UN Charter, the court began work in 1946 as the successor to the Permanent Court of International Justice. The Statute of the International Court of Justice, similar to that of its predecessor, is the main constitutional document constituting and regulating the court.[3]",
+        "question": "When was the International Court of Justice formed?",
+        "label": "1945"
+    }
+]

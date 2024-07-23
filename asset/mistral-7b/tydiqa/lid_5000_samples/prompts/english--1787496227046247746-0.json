@@ -1,0 +1,15 @@
+[
+    [
+        3198,
+        [],
+        "100km to 160km"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Death Star is a type of fictional mobile space station and galactic superweapon featured in the Star Wars space opera franchise. The first Death Star is stated to be more than 100km to 160km in diameter, depending on source. It is crewed by an estimated 1.7 million military personnel and 400,000 droids.[1][2] The second Death Star is significantly larger, between 160km to 900km in diameter depending on source, and technologically more powerful than its predecessor. Both versions of these moon-sized fortresses are designed for massive power-projection capabilities, capable of destroying multiple naval fleets or entire planets with one blast from their superlasers.[3] Question: What was the size of the Death Star? Answer:",
+    {
+        "id": "english--1787496227046247746-0",
+        "lang": "english",
+        "summary": "The Death Star is a type of fictional mobile space station and galactic superweapon featured in the Star Wars space opera franchise. The first Death Star is stated to be more than 100km to 160km in diameter, depending on source. It is crewed by an estimated 1.7 million military personnel and 400,000 droids.[1][2] The second Death Star is significantly larger, between 160km to 900km in diameter depending on source, and technologically more powerful than its predecessor. Both versions of these moon-sized fortresses are designed for massive power-projection capabilities, capable of destroying multiple naval fleets or entire planets with one blast from their superlasers.[3]",
+        "question": "What was the size of the Death Star?",
+        "label": "100km to 160km"
+    }
+]

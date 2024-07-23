@@ -1,0 +1,14 @@
+[
+    [
+        1886,
+        [],
+        "Ospreys and Wales prop Paul James faces a spell on the sidelines after the loose-head underwent eye surgery."
+    ],
+    "Write a short summary for the following passage:\nThe 33-year-old joins Wales forwards Alun Wyn Jones and Justin Tupuric on the Ospreys injured list.\nJames captained Ospreys in their Pro 12 defeat by Scarlets but was referred to an eye specialist after a problem was picked up following Saturday's game.\n\"We'll continue to consult with the specialist,\" said Ospreys medical performance manager Chris Towers.\n\"Paul had an operation on Thursday. We are still awaiting further details of his after-care.\n\"As part of Paul's routine post-match medical check on Saturday, the doctor identified an eye problem and referred him to a specialist for consultation.\n\"His advice was that surgery was required to prevent the issue worsening.\"\nSummary:\n",
+    {
+        "id": 1886,
+        "document": "The 33-year-old joins Wales forwards Alun Wyn Jones and Justin Tupuric on the Ospreys injured list.\nJames captained Ospreys in their Pro 12 defeat by Scarlets but was referred to an eye specialist after a problem was picked up following Saturday's game.\n\"We'll continue to consult with the specialist,\" said Ospreys medical performance manager Chris Towers.\n\"Paul had an operation on Thursday. We are still awaiting further details of his after-care.\n\"As part of Paul's routine post-match medical check on Saturday, the doctor identified an eye problem and referred him to a specialist for consultation.\n\"His advice was that surgery was required to prevent the issue worsening.\"",
+        "summary": "Ospreys and Wales prop Paul James faces a spell on the sidelines after the loose-head underwent eye surgery.",
+        "label": "Ospreys and Wales prop Paul James faces a spell on the sidelines after the loose-head underwent eye surgery."
+    }
+]

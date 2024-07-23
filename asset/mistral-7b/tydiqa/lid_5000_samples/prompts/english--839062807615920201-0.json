@@ -1,0 +1,15 @@
+[
+    [
+        2513,
+        [],
+        "Sid Haig, Bill Moseley, Sheri Moon, and Karen Black"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: House of 1000 Corpses is a 2003 American exploitation horror film written, co-scored and directed by Rob Zombie in his directorial debut. The film stars Sid Haig, Bill Moseley, Sheri Moon, and Karen Black as members of the Firefly family. Set on Halloween, the film sees the Firefly family torturing and mutilating a group of teenagers who are traveling across the country writing a book. The film explores a number of genres, and features elements of the supernatural. Zombie cited American horror films The Texas Chain Saw Massacre (1974) and The Hills Have Eyes (1977) as influences on House of 1000 Corpses, as well as other films released during the 1970s.[3] Question: Who starred in House of a 1000 Corpses? Answer:",
+    {
+        "id": "english--839062807615920201-0",
+        "lang": "english",
+        "summary": "House of 1000 Corpses is a 2003 American exploitation horror film written, co-scored and directed by Rob Zombie in his directorial debut. The film stars Sid Haig, Bill Moseley, Sheri Moon, and Karen Black as members of the Firefly family. Set on Halloween, the film sees the Firefly family torturing and mutilating a group of teenagers who are traveling across the country writing a book. The film explores a number of genres, and features elements of the supernatural. Zombie cited American horror films The Texas Chain Saw Massacre (1974) and The Hills Have Eyes (1977) as influences on House of 1000 Corpses, as well as other films released during the 1970s.[3]",
+        "question": "Who starred in House of a 1000 Corpses?",
+        "label": "Sid Haig, Bill Moseley, Sheri Moon, and Karen Black"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2181,
+        [],
+        "three sisters who had hair made of living, venomous snakes, as well as a horrifying visage that turned those who beheld her to stone"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In Greek mythology, a Gorgon (/\u02c8\u0261\u0254\u02d0r\u0261\u0259n/; plural: Gorgons, Ancient Greek: \u0393\u03bf\u03c1\u03b3\u03ce\u03bd/\u0393\u03bf\u03c1\u03b3\u03ce Gorgon/Gorgo) is a mythical creature portrayed in ancient Greek literature. While descriptions of Gorgons vary across Greek literature and occur in the earliest examples of Greek literature, the term commonly refers to any of three sisters who had hair made of living, venomous snakes, as well as a horrifying visage that turned those who beheld her to stone. Traditionally, while two of the Gorgons were immortal, Stheno and Euryale, their sister Medusa was not and she was slain by the demigod and hero Perseus.  Question: Who are the Gorgons? Answer:",
+    {
+        "id": "english--8610993193083996808-1",
+        "lang": "english",
+        "summary": "In Greek mythology, a Gorgon (/\u02c8\u0261\u0254\u02d0r\u0261\u0259n/; plural: Gorgons, Ancient Greek: \u0393\u03bf\u03c1\u03b3\u03ce\u03bd/\u0393\u03bf\u03c1\u03b3\u03ce Gorgon/Gorgo) is a mythical creature portrayed in ancient Greek literature. While descriptions of Gorgons vary across Greek literature and occur in the earliest examples of Greek literature, the term commonly refers to any of three sisters who had hair made of living, venomous snakes, as well as a horrifying visage that turned those who beheld her to stone. Traditionally, while two of the Gorgons were immortal, Stheno and Euryale, their sister Medusa was not and she was slain by the demigod and hero Perseus. ",
+        "question": "Who are the Gorgons?",
+        "label": "three sisters who had hair made of living, venomous snakes, as well as a horrifying visage that turned those who beheld her to stone"
+    }
+]

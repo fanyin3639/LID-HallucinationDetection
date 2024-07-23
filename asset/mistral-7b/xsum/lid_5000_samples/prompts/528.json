@@ -1,0 +1,14 @@
+[
+    [
+        528,
+        [],
+        "The new surgeon appointed in the Isle of Man after a controversy over the the future of breast care services has been revealed."
+    ],
+    "Write a short summary for the following passage:\nMillie Bello will start at Noble's Hospital in February.\nHer appointment comes after concerns about replacing a specialised breast surgeon with a general surgeon.\nA government spokesperson said Ms Bello had more than 10 years' experience as consultant general surgeon with a special interest in breast surgery.\nMs Bello said she was looking forward to working with colleagues to ensure patients received \"the highest standard of care possible\".\nChief Executive of Manx Cancer Help, Andrea Chambers said: \"Ms Bello is a highly-regarded breast surgeon and her appointment is a coup for the Isle of Man.\"\nSummary:\n",
+    {
+        "id": 528,
+        "document": "Millie Bello will start at Noble's Hospital in February.\nHer appointment comes after concerns about replacing a specialised breast surgeon with a general surgeon.\nA government spokesperson said Ms Bello had more than 10 years' experience as consultant general surgeon with a special interest in breast surgery.\nMs Bello said she was looking forward to working with colleagues to ensure patients received \"the highest standard of care possible\".\nChief Executive of Manx Cancer Help, Andrea Chambers said: \"Ms Bello is a highly-regarded breast surgeon and her appointment is a coup for the Isle of Man.\"",
+        "summary": "The new surgeon appointed in the Isle of Man after a controversy over the the future of breast care services has been revealed.",
+        "label": "The new surgeon appointed in the Isle of Man after a controversy over the the future of breast care services has been revealed."
+    }
+]

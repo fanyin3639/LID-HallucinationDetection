@@ -1,0 +1,19 @@
+[
+    [
+        1605,
+        [],
+        "David and Lucy"
+    ],
+    "Answer the following questions:\nContext: David and Lucy waited in their mom's truck. They all were going to the circus to see the clowns. Their Mom had to take their little brother back into the house to get more diapers and go to the bathroom. David was worried because he did not want to miss the wolf clown. Lucy watched her brother rub his chin. \"Why are you looking out the window?\" she asked. \"Mom needs to hurry. We might miss the clowns.\" \"I am going to get out of the truck and draw triangles in the sand.\" Lucy said. \"No! You might make us miss it.\" David cried. Before she could get out of the truck Lucy saw her mom and little brother walk out of the house. Her mom got in the truck and asked, \"Okay kids are we ready to go?\" David and Lucy yelled, \"Yes!\" When they got to the circus David and Lucy saw all the clowns. Their little brother was too young to go into the tent, so their mom stayed with him. The show ended and they walked to the truck. \"What do you have there?\" David asked Lucy \"It is a bag I found in the tent.\" Lucy said. \"We have to return that Lucy.\" Their mom said. \"Why? It has cool stuff in it. I found it.\" Lucy said. \"It is not ours.\" Their mom said. Lucy frowned as they walked to the lost and found and gave the bag back. Then they all went home. When they were washing up to go to bed Lucy said, \"I fear some of those clowns. The wolf one was scary.\" \"Lucy, I can save you. The wolf clown was a person in make-up.\" With that they shut off the bathroom light and went to bed. A great day had by all.\n'Question': Who was in the truck?\n'Answer: '",
+    {
+        "id": "3xuhv3nrvky7btuzty7gcd0qng1h5p_2",
+        "summary": "David and Lucy waited in their mom's truck. They all were going to the circus to see the clowns. Their Mom had to take their little brother back into the house to get more diapers and go to the bathroom. David was worried because he did not want to miss the wolf clown. Lucy watched her brother rub his chin. \"Why are you looking out the window?\" she asked. \"Mom needs to hurry. We might miss the clowns.\" \"I am going to get out of the truck and draw triangles in the sand.\" Lucy said. \"No! You might make us miss it.\" David cried. Before she could get out of the truck Lucy saw her mom and little brother walk out of the house. Her mom got in the truck and asked, \"Okay kids are we ready to go?\" David and Lucy yelled, \"Yes!\" When they got to the circus David and Lucy saw all the clowns. Their little brother was too young to go into the tent, so their mom stayed with him. The show ended and they walked to the truck. \"What do you have there?\" David asked Lucy \"It is a bag I found in the tent.\" Lucy said. \"We have to return that Lucy.\" Their mom said. \"Why? It has cool stuff in it. I found it.\" Lucy said. \"It is not ours.\" Their mom said. Lucy frowned as they walked to the lost and found and gave the bag back. Then they all went home. When they were washing up to go to bed Lucy said, \"I fear some of those clowns. The wolf one was scary.\" \"Lucy, I can save you. The wolf clown was a person in make-up.\" With that they shut off the bathroom light and went to bed. A great day had by all.",
+        "question": "Who was in the truck?",
+        "label": "David and Lucy",
+        "additional_answers": [
+            "David and Lucy",
+            "David and Lucy",
+            "David and Lucy"
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        174,
+        [],
+        "Thai authorities have arrested a lorry driver after 16 tiger cubs were discovered in the back of his vehicle."
+    ],
+    "Write a short summary for the following passage:\nThe man was stopped near the border with Laos after avoiding a police checkpoint.\nThe driver told police he had been paid 15,000 baht ($490; \u00c2\u00a3300) to transport the cubs.\nThailand is one of the centres of the illegal trade in tigers. Tiger body parts are prized in many parts of Asia for their reputed medicinal properties.\nThe cubs were found packed into eight plastic crates.\nThe driver now faces the possibility of a four-year jail term or a fine of 40,000 baht ($1,300; \u00c2\u00a3800) on wildlife-smuggling charges.\nThe animals are now in the care of wildlife officials.\nOnly six subspecies of tiger remain in the wild, with fewer than 1,000 tigers thought to be left in each group.\nEarlier this year, heads of police and customs from 13 countries with wild tiger populations agreed to tighten controls and improve cross-border co-operation to combat smuggling.\nSummary:\n",
+    {
+        "id": 174,
+        "document": "The man was stopped near the border with Laos after avoiding a police checkpoint.\nThe driver told police he had been paid 15,000 baht ($490; \u00c2\u00a3300) to transport the cubs.\nThailand is one of the centres of the illegal trade in tigers. Tiger body parts are prized in many parts of Asia for their reputed medicinal properties.\nThe cubs were found packed into eight plastic crates.\nThe driver now faces the possibility of a four-year jail term or a fine of 40,000 baht ($1,300; \u00c2\u00a3800) on wildlife-smuggling charges.\nThe animals are now in the care of wildlife officials.\nOnly six subspecies of tiger remain in the wild, with fewer than 1,000 tigers thought to be left in each group.\nEarlier this year, heads of police and customs from 13 countries with wild tiger populations agreed to tighten controls and improve cross-border co-operation to combat smuggling.",
+        "summary": "Thai authorities have arrested a lorry driver after 16 tiger cubs were discovered in the back of his vehicle.",
+        "label": "Thai authorities have arrested a lorry driver after 16 tiger cubs were discovered in the back of his vehicle."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        177,
+        [],
+        "very high frequency"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ultra high frequency (UHF) is the ITU designation for radio frequencies in the range between 300megahertz (MHz) and 3gigahertz (GHz), also known as the decimetre band as the wavelengths range from one meter to one tenth of a meter (one decimeter). Radio waves with frequencies above the UHF band fall into the super-high frequency (SHF) or microwave frequency range. Lower frequency signals fall into the VHF (very high frequency) or lower bands.  UHF radio waves propagate mainly by line of sight; they are blocked by hills and large buildings although the transmission through building walls is strong enough for indoor reception. They are used for television broadcasting, cell phones, satellite communication including GPS, personal radio services including Wi-Fi and Bluetooth, walkie-talkies, cordless phones, and numerous other applications. Question: What does VHF stand for in VHF-band radar? Answer:",
+    {
+        "id": "english-6937369565116639401-1",
+        "lang": "english",
+        "summary": "Ultra high frequency (UHF) is the ITU designation for radio frequencies in the range between 300megahertz (MHz) and 3gigahertz (GHz), also known as the decimetre band as the wavelengths range from one meter to one tenth of a meter (one decimeter). Radio waves with frequencies above the UHF band fall into the super-high frequency (SHF) or microwave frequency range. Lower frequency signals fall into the VHF (very high frequency) or lower bands.  UHF radio waves propagate mainly by line of sight; they are blocked by hills and large buildings although the transmission through building walls is strong enough for indoor reception. They are used for television broadcasting, cell phones, satellite communication including GPS, personal radio services including Wi-Fi and Bluetooth, walkie-talkies, cordless phones, and numerous other applications.",
+        "question": "What does VHF stand for in VHF-band radar?",
+        "label": "very high frequency"
+    }
+]

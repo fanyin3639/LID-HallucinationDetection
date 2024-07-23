@@ -1,0 +1,15 @@
+[
+    [
+        636,
+        [],
+        "World Judo Championships"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The World Judo Championships are the highest level of international judo competition, along with the Olympic judo competition. The championships are held once every year (except the years when the Olympics take place) by the International Judo Federation, and qualified judoka compete in their respective categories as representatives of their home countries. Team competitions have also been held since 1994. The men's championships began in 1956, though the format and periodicity of the championships have changed over time. The last edition of the championships took place in Budapest, Hungary in 2017. Question: What is the largest judo competition? Answer:",
+    {
+        "id": "english-7832398167909387285-0",
+        "lang": "english",
+        "summary": "The World Judo Championships are the highest level of international judo competition, along with the Olympic judo competition. The championships are held once every year (except the years when the Olympics take place) by the International Judo Federation, and qualified judoka compete in their respective categories as representatives of their home countries. Team competitions have also been held since 1994. The men's championships began in 1956, though the format and periodicity of the championships have changed over time. The last edition of the championships took place in Budapest, Hungary in 2017.",
+        "question": "What is the largest judo competition?",
+        "label": "World Judo Championships"
+    }
+]

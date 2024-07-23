@@ -1,0 +1,15 @@
+[
+    [
+        2893,
+        [],
+        "40,100 regular uniformed personnel, augmented by 12,300 reserve"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The role of the Army was fundamentally changed by the upheavals of the early 1990s and after 1994 the Army became part of the new South African National Defence Force. It is now becoming increasingly involved in peacekeeping efforts in southern Africa, often as part of wider African Union operations. The Army is composed of roughly 40,100 regular uniformed personnel, augmented by 12,300 reserve force personnel. The rank/age structure of the army, which deteriorated desperately during the 1990s, is greatly improving through the Military Skills Development (MSDS) voluntary national service system. Through this system, young healthy members are being inducted into the regular and reserve forces every year. Question: How big is the South African army? Answer:",
+    {
+        "id": "english-4070932070976859432-1",
+        "lang": "english",
+        "summary": "The role of the Army was fundamentally changed by the upheavals of the early 1990s and after 1994 the Army became part of the new South African National Defence Force. It is now becoming increasingly involved in peacekeeping efforts in southern Africa, often as part of wider African Union operations. The Army is composed of roughly 40,100 regular uniformed personnel, augmented by 12,300 reserve force personnel. The rank/age structure of the army, which deteriorated desperately during the 1990s, is greatly improving through the Military Skills Development (MSDS) voluntary national service system. Through this system, young healthy members are being inducted into the regular and reserve forces every year.",
+        "question": "How big is the South African army?",
+        "label": "40,100 regular uniformed personnel, augmented by 12,300 reserve"
+    }
+]

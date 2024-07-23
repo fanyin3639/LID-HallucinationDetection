@@ -1,0 +1,15 @@
+[
+    [
+        887,
+        [],
+        "Edward Gibbon Wakefield"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The New Zealand Company, chartered in the United Kingdom, was a company that existed in the first half of the 1800s on a business model focused on the systematic colonisation of New Zealand. The company was formed to carry out the principles devised by Edward Gibbon Wakefield, who envisaged the creation of a new-model English society in the southern hemisphere. Under Wakefield\u2019s model, the colony would attract capitalists who would then have a ready supply of labour\u2014migrant labourers who could not initially afford to be property owners, but who would have the expectation of one day buying land with their savings.[1] Question: Who formed the New Zealand Company? Answer:",
+    {
+        "id": "english-1582839374522462505-0",
+        "lang": "english",
+        "summary": "The New Zealand Company, chartered in the United Kingdom, was a company that existed in the first half of the 1800s on a business model focused on the systematic colonisation of New Zealand. The company was formed to carry out the principles devised by Edward Gibbon Wakefield, who envisaged the creation of a new-model English society in the southern hemisphere. Under Wakefield\u2019s model, the colony would attract capitalists who would then have a ready supply of labour\u2014migrant labourers who could not initially afford to be property owners, but who would have the expectation of one day buying land with their savings.[1]",
+        "question": "Who formed the New Zealand Company?",
+        "label": "Edward Gibbon Wakefield"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        17,
+        [],
+        "The final defendant in the $68bn (\u00a344bn) Bernard Madoff fraud case has been jailed."
+    ],
+    "Write a short summary for the following passage:\nIrwin Lipkin, 77, pleaded guilty of helping to hide the fraud from US regulators by falsifying documents.\nHis six-month sentence marks the end of a six-year prosecution saga.\nA total of 15 people have been convicted for their parts in the Ponzi - pyramid - scheme orchestrated by Madoff that defrauded investors out of billions of dollars.\nMadoff's fraud emerged in 2008. What was thought to be a fund worth $68bn turned out to be all but worthless having been paid as fake profit or stolen by Madoff and his associates.\nMadoff pleaded guilty to fraud and was sentenced to 150 years in prison.\nThe judge rejected the defence case that Lipkin should not be jailed because of his failing health, and that he did not know the full extent of Madoff's scheme.\nProsecutor David Abramowicz told the court in New York: Madoff \"didn't do it alone because he couldn't do it alone. He needed the help of people like Mr Lipkin\".\nLipkin was hired as one of Madoff's first employees in the 1960s.\nHe apologised to the court, \"and to everybody else who may have been hurt by the things that I've done\".\nSummary:\n",
+    {
+        "id": 17,
+        "document": "Irwin Lipkin, 77, pleaded guilty of helping to hide the fraud from US regulators by falsifying documents.\nHis six-month sentence marks the end of a six-year prosecution saga.\nA total of 15 people have been convicted for their parts in the Ponzi - pyramid - scheme orchestrated by Madoff that defrauded investors out of billions of dollars.\nMadoff's fraud emerged in 2008. What was thought to be a fund worth $68bn turned out to be all but worthless having been paid as fake profit or stolen by Madoff and his associates.\nMadoff pleaded guilty to fraud and was sentenced to 150 years in prison.\nThe judge rejected the defence case that Lipkin should not be jailed because of his failing health, and that he did not know the full extent of Madoff's scheme.\nProsecutor David Abramowicz told the court in New York: Madoff \"didn't do it alone because he couldn't do it alone. He needed the help of people like Mr Lipkin\".\nLipkin was hired as one of Madoff's first employees in the 1960s.\nHe apologised to the court, \"and to everybody else who may have been hurt by the things that I've done\".",
+        "summary": "The final defendant in the $68bn (\u00a344bn) Bernard Madoff fraud case has been jailed.",
+        "label": "The final defendant in the $68bn (\u00a344bn) Bernard Madoff fraud case has been jailed."
+    }
+]

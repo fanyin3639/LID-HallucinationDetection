@@ -1,0 +1,15 @@
+[
+    [
+        2564,
+        [],
+        "Kingdom of the Netherlands"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cura\u00e7ao (/\u02c8kj\u028a\u0259r\u0259so\u028a/;[6] Dutch: Cura\u00e7ao, pronounced[ky\u02d0ra\u02d0\u02c8s\u028cu, ku\u02d0-];[7] Papiamento: K\u00f2rsou, pronounced[\u02c8korsou]) is a Lesser Antilles island in the southern Caribbean Sea and the Dutch Caribbean region, about 65km (40mi) north of the Venezuelan coast. It is a constituent country (Dutch: land) of the Kingdom of the Netherlands. Question: What country does Curacao belong to? Answer:",
+    {
+        "id": "english--200359877928861996-0",
+        "lang": "english",
+        "summary": "Cura\u00e7ao (/\u02c8kj\u028a\u0259r\u0259so\u028a/;[6] Dutch: Cura\u00e7ao, pronounced[ky\u02d0ra\u02d0\u02c8s\u028cu, ku\u02d0-];[7] Papiamento: K\u00f2rsou, pronounced[\u02c8korsou]) is a Lesser Antilles island in the southern Caribbean Sea and the Dutch Caribbean region, about 65km (40mi) north of the Venezuelan coast. It is a constituent country (Dutch: land) of the Kingdom of the Netherlands.",
+        "question": "What country does Curacao belong to?",
+        "label": "Kingdom of the Netherlands"
+    }
+]

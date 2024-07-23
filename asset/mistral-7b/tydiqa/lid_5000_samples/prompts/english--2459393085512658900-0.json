@@ -1,0 +1,15 @@
+[
+    [
+        426,
+        [],
+        "structures (aka substances) specifically bound by antibodies (Ab) or a cell surface version of Ab ~ B cell antigen receptor"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In immunology, antigens (Ag) are structures (aka substances) specifically bound by antibodies (Ab) or a cell surface version of Ab ~ B cell antigen receptor (BCR). The term antigen originally described a structural molecule that binds specifically to an antibody only in the form of native antigen. It was expanded later to refer to any molecule or a linear molecular fragment after processing the native antigen that can be recognized by T-cell receptor (TCR). BCR and TCR are both highly variable antigen receptors diversified by somatic V(D)J recombination. Both T cells and B cells are cellular components of adaptive immunity. [1] The Ag abbreviation stands for an anti</b>body gen</b>erator. [2] Question: What are antigens? Answer:",
+    {
+        "id": "english--2459393085512658900-0",
+        "lang": "english",
+        "summary": "In immunology, antigens (Ag) are structures (aka substances) specifically bound by antibodies (Ab) or a cell surface version of Ab ~ B cell antigen receptor (BCR). The term antigen originally described a structural molecule that binds specifically to an antibody only in the form of native antigen. It was expanded later to refer to any molecule or a linear molecular fragment after processing the native antigen that can be recognized by T-cell receptor (TCR). BCR and TCR are both highly variable antigen receptors diversified by somatic V(D)J recombination. Both T cells and B cells are cellular components of adaptive immunity. [1] The Ag abbreviation stands for an anti</b>body gen</b>erator. [2]",
+        "question": "What are antigens?",
+        "label": "structures (aka substances) specifically bound by antibodies (Ab) or a cell surface version of Ab ~ B cell antigen receptor"
+    }
+]

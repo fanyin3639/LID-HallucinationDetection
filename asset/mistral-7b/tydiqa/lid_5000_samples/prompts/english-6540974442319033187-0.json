@@ -1,0 +1,15 @@
+[
+    [
+        757,
+        [],
+        "oxygen (O), sulfur (S), selenium (Se), tellurium (Te), and the radioactive element polonium"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The chalcogens (/\u02c8k\u00e6lk\u0259d\u0292\u026anz/) are the chemical elements in group 16 of the periodic table. This group is also known as the oxygen family. It consists of the elements oxygen (O), sulfur (S), selenium (Se), tellurium (Te), and the radioactive element polonium (Po). The chemically uncharacterized synthetic element livermorium (Lv) is predicted to be a chalcogen as well.[1] Often, oxygen is treated separately from the other chalcogens, sometimes even excluded from the scope of the term \"chalcogen\" altogether, due to its very different chemical behavior from sulfur, selenium, tellurium, and polonium. The word \"chalcogen\" is derived from a combination of the Greek word khalk\u03ccs (\u03c7\u03b1\u03bb\u03ba\u03cc\u03c2) principally meaning copper (the term was also used for bronze/brass, any metal in the poetic sense, ore or coin),[2] and the Latinised Greek word gen\u0113s, meaning born or produced.[3][4] Question: What elements are in the chalcogen group? Answer:",
+    {
+        "id": "english-6540974442319033187-0",
+        "lang": "english",
+        "summary": "The chalcogens (/\u02c8k\u00e6lk\u0259d\u0292\u026anz/) are the chemical elements in group 16 of the periodic table. This group is also known as the oxygen family. It consists of the elements oxygen (O), sulfur (S), selenium (Se), tellurium (Te), and the radioactive element polonium (Po). The chemically uncharacterized synthetic element livermorium (Lv) is predicted to be a chalcogen as well.[1] Often, oxygen is treated separately from the other chalcogens, sometimes even excluded from the scope of the term \"chalcogen\" altogether, due to its very different chemical behavior from sulfur, selenium, tellurium, and polonium. The word \"chalcogen\" is derived from a combination of the Greek word khalk\u03ccs (\u03c7\u03b1\u03bb\u03ba\u03cc\u03c2) principally meaning copper (the term was also used for bronze/brass, any metal in the poetic sense, ore or coin),[2] and the Latinised Greek word gen\u0113s, meaning born or produced.[3][4]",
+        "question": "What elements are in the chalcogen group?",
+        "label": "oxygen (O), sulfur (S), selenium (Se), tellurium (Te), and the radioactive element polonium"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2290,
+        [],
+        "Ernest Cockrell Jr"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Previously known as the College of Engineering, on July 11, 2007, the University of Texas at Austin renamed the College after 1936 graduate Ernest Cockrell Jr., whose family has over the past 30 years helped to build a $140 million endowment for the College.[7] Question: Who is UT's Cockrell School of Engineering named for? Answer:",
+    {
+        "id": "english-2671638383726393567-1",
+        "lang": "english",
+        "summary": "Previously known as the College of Engineering, on July 11, 2007, the University of Texas at Austin renamed the College after 1936 graduate Ernest Cockrell Jr., whose family has over the past 30 years helped to build a $140 million endowment for the College.[7]",
+        "question": "Who is UT's Cockrell School of Engineering named for?",
+        "label": "Ernest Cockrell Jr"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1644,
+        [],
+        "2016"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The film screened at the Melbourne International Film Festival on August 13, 2016,[8] and was theatrically released in the United States on August 19, 2016.[9] Question: What year did Kubo The Two Strings come out? Answer:",
+    {
+        "id": "english-222506449884291644-14",
+        "lang": "english",
+        "summary": "The film screened at the Melbourne International Film Festival on August 13, 2016,[8] and was theatrically released in the United States on August 19, 2016.[9]",
+        "question": "What year did Kubo The Two Strings come out?",
+        "label": "2016"
+    }
+]

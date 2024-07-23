@@ -1,0 +1,15 @@
+[
+    [
+        3029,
+        [],
+        "Tennis for Two"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Following the 1947 invention of the cathode-ray tube amusement device, the earliest known interactive electronic game as well as the first to use an electronic display, the first true video games were created in the early 1950s. Initially created as technology demonstrations, such as the Bertie the Brain and Nimrod computers in 1950 and 1951, video games also became the purview of academic research. A series of games, generally simulating real-world board games, were created at various research institutions to explore programming, human\u2013computer interaction, and computer algorithms. These include OXO and Christopher Strachey's draughts program in 1952, the first software-based games to incorporate a CRT display, and several chess and checkers programs. Possibly the first video game created simply for entertainment was 1958's Tennis for Two, featuring moving graphics on an oscilloscope. As computing technology improved over time, computers became smaller and faster, and the ability to work on them was opened up to university employees and undergraduate students by the end of the 1950s. These new programmers began to create games for non-academic purposes, leading up to the 1962 release of Spacewar! as one of the earliest known digital computer games to be available outside a single research institute. Question: What was the first video game ever released? Answer:",
+    {
+        "id": "english-5277335673147694941-2",
+        "lang": "english",
+        "summary": "Following the 1947 invention of the cathode-ray tube amusement device, the earliest known interactive electronic game as well as the first to use an electronic display, the first true video games were created in the early 1950s. Initially created as technology demonstrations, such as the Bertie the Brain and Nimrod computers in 1950 and 1951, video games also became the purview of academic research. A series of games, generally simulating real-world board games, were created at various research institutions to explore programming, human\u2013computer interaction, and computer algorithms. These include OXO and Christopher Strachey's draughts program in 1952, the first software-based games to incorporate a CRT display, and several chess and checkers programs. Possibly the first video game created simply for entertainment was 1958's Tennis for Two, featuring moving graphics on an oscilloscope. As computing technology improved over time, computers became smaller and faster, and the ability to work on them was opened up to university employees and undergraduate students by the end of the 1950s. These new programmers began to create games for non-academic purposes, leading up to the 1962 release of Spacewar! as one of the earliest known digital computer games to be available outside a single research institute.",
+        "question": "What was the first video game ever released?",
+        "label": "Tennis for Two"
+    }
+]

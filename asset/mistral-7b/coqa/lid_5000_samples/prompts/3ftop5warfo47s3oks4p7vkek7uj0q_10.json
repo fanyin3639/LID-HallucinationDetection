@@ -1,0 +1,19 @@
+[
+    [
+        380,
+        [],
+        "\"in\""
+    ],
+    "Answer the following questions:\nContext: Endemism is the ecological state of a species being unique to a defined geographic location, such as an island, nation, country or other defined zone, or habitat type; organisms that are indigenous to a place are not endemic to it if they are also found elsewhere. The extreme opposite of endemism is cosmopolitan distribution. An alternative term for a species that is endemic is precinctive, which applies to species (and subspecific categories) that are restricted to a defined geographical area. \n\nThe word \"endemic\" is from New Latin \"end\u0113micus\", from Greek \u03b5\u03bd\u03b4\u03ae\u03bc\u03bf\u03c2, \"end\u0113mos\", \"native\". \"End\u0113mos\" is formed of \"en\" meaning \"in\", and \"d\u0113mos\" meaning \"the people\". The term \"precinctive\" has been suggested by some scientists, and was first used in botany by MacCaughey in 1917. It is the equivalent of \"endemism\". \"Precinction\" was perhaps first used by Frank and McCoy. \"Precinctive\" seems to have been coined by David Sharp when describing the Hawaiian fauna in 1900: \"I use the word precinctive in the sense of 'confined to the area under discussion' ... 'precinctive forms' means those forms that are confined to the area specified.\" That definition excludes artificial confinement of examples by humans in far-off botanical gardens or zoological parks. \n\nPhysical, climatic, and biological factors can contribute to endemism. The orange-breasted sunbird is exclusively found in the fynbos vegetation zone of southwestern South Africa. The glacier bear is found only in limited places in Southeast Alaska. Political factors can play a part if a species is protected, or actively hunted, in one jurisdiction but not another.\n'Question': What would \"en\" translate to?\n'Answer: '",
+    {
+        "id": "3ftop5warfo47s3oks4p7vkek7uj0q_10",
+        "summary": "Endemism is the ecological state of a species being unique to a defined geographic location, such as an island, nation, country or other defined zone, or habitat type; organisms that are indigenous to a place are not endemic to it if they are also found elsewhere. The extreme opposite of endemism is cosmopolitan distribution. An alternative term for a species that is endemic is precinctive, which applies to species (and subspecific categories) that are restricted to a defined geographical area. \n\nThe word \"endemic\" is from New Latin \"end\u0113micus\", from Greek \u03b5\u03bd\u03b4\u03ae\u03bc\u03bf\u03c2, \"end\u0113mos\", \"native\". \"End\u0113mos\" is formed of \"en\" meaning \"in\", and \"d\u0113mos\" meaning \"the people\". The term \"precinctive\" has been suggested by some scientists, and was first used in botany by MacCaughey in 1917. It is the equivalent of \"endemism\". \"Precinction\" was perhaps first used by Frank and McCoy. \"Precinctive\" seems to have been coined by David Sharp when describing the Hawaiian fauna in 1900: \"I use the word precinctive in the sense of 'confined to the area under discussion' ... 'precinctive forms' means those forms that are confined to the area specified.\" That definition excludes artificial confinement of examples by humans in far-off botanical gardens or zoological parks. \n\nPhysical, climatic, and biological factors can contribute to endemism. The orange-breasted sunbird is exclusively found in the fynbos vegetation zone of southwestern South Africa. The glacier bear is found only in limited places in Southeast Alaska. Political factors can play a part if a species is protected, or actively hunted, in one jurisdiction but not another.",
+        "question": "What would \"en\" translate to?",
+        "label": "\"in\"",
+        "additional_answers": [
+            "\"in\",",
+            "in",
+            "in"
+        ]
+    }
+]

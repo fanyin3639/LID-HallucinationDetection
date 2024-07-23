@@ -1,0 +1,15 @@
+[
+    [
+        2889,
+        [],
+        "1313"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first historical document attesting to the existence of a Warsaw castellan dates to 1313.[2] Fuller information about the age of the city is contained in the court case against the Teutonic Knights, which took place in Warsaw cathedral in 1339.[2] In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the capital of Masovia in 1413 (Prince Janusz II).[1] Warsaw's economy of the 14th century rested on crafts and trade. The townsmen, of uniform nationality at the time, were marked by a great disparity in their financial status.[2] At the top were the rich patricians while the plebeians formed the lower strata.[2] Question: When was Warsaw founded? Answer:",
+    {
+        "id": "english--712134684219387627-4",
+        "lang": "english",
+        "summary": "The first historical document attesting to the existence of a Warsaw castellan dates to 1313.[2] Fuller information about the age of the city is contained in the court case against the Teutonic Knights, which took place in Warsaw cathedral in 1339.[2] In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the capital of Masovia in 1413 (Prince Janusz II).[1] Warsaw's economy of the 14th century rested on crafts and trade. The townsmen, of uniform nationality at the time, were marked by a great disparity in their financial status.[2] At the top were the rich patricians while the plebeians formed the lower strata.[2]",
+        "question": "When was Warsaw founded?",
+        "label": "1313"
+    }
+]

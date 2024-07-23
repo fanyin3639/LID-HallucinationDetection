@@ -1,0 +1,15 @@
+[
+    [
+        2081,
+        [],
+        "August 7, 1944"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Robert Swan Mueller III (/\u02c8m\u028cl\u0259r/ (rhymes with \"fuller\"); born August 7, 1944) is an American attorney and current Special Counsel of the  investigation into Russian interference in the 2016 United States elections and related matters. He served as the sixth Director of the Federal Bureau of Investigation (FBI) from 2001 to 2013.  Question: When was Robert Mueller born? Answer:",
+    {
+        "id": "english--2607344189329477311-0",
+        "lang": "english",
+        "summary": "Robert Swan Mueller III (/\u02c8m\u028cl\u0259r/ (rhymes with \"fuller\"); born August 7, 1944) is an American attorney and current Special Counsel of the  investigation into Russian interference in the 2016 United States elections and related matters. He served as the sixth Director of the Federal Bureau of Investigation (FBI) from 2001 to 2013. ",
+        "question": "When was Robert Mueller born?",
+        "label": "August 7, 1944"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2521,
+        [],
+        "produced from grapes that have been frozen while still on the vine"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ice wine (or icewine; German: Eiswein) is a type of dessert wine produced from grapes that have been frozen while still on the vine. The sugars and other dissolved solids do not freeze, but the water does, allowing for a more concentrated grape juice to develop. The grapes' must is pressed from the frozen grapes, resulting in a smaller amount of more concentrated, very sweet wine. With ice wines, the freezing happens before the fermentation, not afterwards. Unlike the grapes from which other dessert wines are made, such as Sauternes, Tokaji, or Trockenbeerenauslese, ice wine grapes should not be affected by Botrytis cinerea or noble rot, at least not to any great degree. Only healthy grapes keep in good shape until the opportunity arises for an ice wine harvest, which in extreme cases can occur after the New Year, on a northern hemisphere calendar. This gives ice wine its characteristic refreshing sweetness balanced by high acidity. When the grapes are free of Botrytis, they are said to come in \"clean\". Question: What makes an ice wine an ice wine? Answer:",
+    {
+        "id": "english-7646763582832914180-0",
+        "lang": "english",
+        "summary": "Ice wine (or icewine; German: Eiswein) is a type of dessert wine produced from grapes that have been frozen while still on the vine. The sugars and other dissolved solids do not freeze, but the water does, allowing for a more concentrated grape juice to develop. The grapes' must is pressed from the frozen grapes, resulting in a smaller amount of more concentrated, very sweet wine. With ice wines, the freezing happens before the fermentation, not afterwards. Unlike the grapes from which other dessert wines are made, such as Sauternes, Tokaji, or Trockenbeerenauslese, ice wine grapes should not be affected by Botrytis cinerea or noble rot, at least not to any great degree. Only healthy grapes keep in good shape until the opportunity arises for an ice wine harvest, which in extreme cases can occur after the New Year, on a northern hemisphere calendar. This gives ice wine its characteristic refreshing sweetness balanced by high acidity. When the grapes are free of Botrytis, they are said to come in \"clean\".",
+        "question": "What makes an ice wine an ice wine?",
+        "label": "produced from grapes that have been frozen while still on the vine"
+    }
+]

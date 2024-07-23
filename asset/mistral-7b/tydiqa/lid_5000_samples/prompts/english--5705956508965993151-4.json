@@ -1,0 +1,15 @@
+[
+    [
+        1608,
+        [],
+        "60"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Over 60% of the Hispanic and Latino population in the United States is of Mexican ancestry. The influence of Mexican and Mexican-American culture is felt throughout the country, with the epicenter of this influence located in the southwestern United States, including Texas, Nevada, Arizona and Southern California.  Question: What percentage of the US Hispanic population has South American origins? Answer:",
+    {
+        "id": "english--5705956508965993151-4",
+        "lang": "english",
+        "summary": "Over 60% of the Hispanic and Latino population in the United States is of Mexican ancestry. The influence of Mexican and Mexican-American culture is felt throughout the country, with the epicenter of this influence located in the southwestern United States, including Texas, Nevada, Arizona and Southern California. ",
+        "question": "What percentage of the US Hispanic population has South American origins?",
+        "label": "60"
+    }
+]

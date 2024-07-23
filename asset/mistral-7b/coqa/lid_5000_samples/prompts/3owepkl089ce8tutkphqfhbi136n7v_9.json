@@ -1,0 +1,19 @@
+[
+    [
+        251,
+        [],
+        "Arnalooa"
+    ],
+    "Answer the following questions:\nContext: CHAPTER TWENTY TWO. \n\nMAXIMUS--DEER SPEARING--A SURPRISINGLY BAD SHOT--CHARACTER OF THE NATIVES. \n\n\"Hallo! what have we here?\" exclaimed Stanley, starting from his seat in amazement, as the giant entered the hall of Fort Chimo--his left hand grasping a blood-stained wolf by the throat, and Edith resting in his right arm. \n\nAt first the startled father imagined his child must have been wounded, if not killed, by the savage animal; but his mind was immediately relieved on this point by Edith herself, who was no sooner laid on her bed than she recovered sufficiently to narrate the circumstances attending her fall. \n\n\"Well, Maximus,\" said Stanley, returning to the hall and applying to the bulky savage the term that seemed most appropriate to him, \"shake hands with me, my good fellow. You've saved Chimo's life, it seems; and that's a good turn I'll not forget. But a--. I see you don't understand a word I say. Hallo! Moses, Moses! you deaf rascal, come here!\" he shouted, as that worthy passed the window. \n\n\"Yis, mossue,\" said Moses, entering the hall. \"Oh, me! what a walrus am dis! Me do b'lieve him most high as a tree an' more broader nor iveryt'ing!\" \n\n\"Hold thy tongue, Moses, and ask the fellow where he came from; but tell him first that I'm obliged to him for saving Chimo from that villainous wolf.\" \n\nWhile Moses interpreted, Arnalooa and Okatook, being privileged members of the tribe, crossed over to Edith's room. \n\n\"Well, what says he?\" inquired Stanley, at the end of a long address which the giant had delivered to Moses. \n'Question': who were members of the tribe?\n'Answer: '",
+    {
+        "id": "3owepkl089ce8tutkphqfhbi136n7v_9",
+        "summary": "CHAPTER TWENTY TWO. \n\nMAXIMUS--DEER SPEARING--A SURPRISINGLY BAD SHOT--CHARACTER OF THE NATIVES. \n\n\"Hallo! what have we here?\" exclaimed Stanley, starting from his seat in amazement, as the giant entered the hall of Fort Chimo--his left hand grasping a blood-stained wolf by the throat, and Edith resting in his right arm. \n\nAt first the startled father imagined his child must have been wounded, if not killed, by the savage animal; but his mind was immediately relieved on this point by Edith herself, who was no sooner laid on her bed than she recovered sufficiently to narrate the circumstances attending her fall. \n\n\"Well, Maximus,\" said Stanley, returning to the hall and applying to the bulky savage the term that seemed most appropriate to him, \"shake hands with me, my good fellow. You've saved Chimo's life, it seems; and that's a good turn I'll not forget. But a--. I see you don't understand a word I say. Hallo! Moses, Moses! you deaf rascal, come here!\" he shouted, as that worthy passed the window. \n\n\"Yis, mossue,\" said Moses, entering the hall. \"Oh, me! what a walrus am dis! Me do b'lieve him most high as a tree an' more broader nor iveryt'ing!\" \n\n\"Hold thy tongue, Moses, and ask the fellow where he came from; but tell him first that I'm obliged to him for saving Chimo from that villainous wolf.\" \n\nWhile Moses interpreted, Arnalooa and Okatook, being privileged members of the tribe, crossed over to Edith's room. \n\n\"Well, what says he?\" inquired Stanley, at the end of a long address which the giant had delivered to Moses. ",
+        "question": "who were members of the tribe?",
+        "label": "Arnalooa",
+        "additional_answers": [
+            "Arnalooa and Okatook",
+            "Arnalooa and Okatook",
+            "Arnalooa and Okatook"
+        ]
+    }
+]

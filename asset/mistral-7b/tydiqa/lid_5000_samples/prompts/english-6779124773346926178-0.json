@@ -1,0 +1,15 @@
+[
+    [
+        2912,
+        [],
+        "7ft 1in (2.16m)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Wilton Norman Chamberlain (/\u02c8t\u0283e\u026amb\u0259rl\u026an/; August 21, 1936 \u2013 October 12, 1999) was an American basketball player who played center position and is considered one of the most prominent and dominant players in NBA history.[1][2] He played for the Philadelphia/San Francisco Warriors, the Philadelphia 76ers, and the Los Angeles Lakers of the National Basketball Association (NBA). He played for the University of Kansas and also for the Harlem Globetrotters before playing in the NBA.  Chamberlain stood 7ft 1in (2.16m) tall, and weighed 250 pounds (110kg) as a rookie[3] before bulking up to 275 and eventually to over 300 pounds (140kg) with the Lakers. Question: How tall was Wilton Norman Chamberlain? Answer:",
+    {
+        "id": "english-6779124773346926178-0",
+        "lang": "english",
+        "summary": "Wilton Norman Chamberlain (/\u02c8t\u0283e\u026amb\u0259rl\u026an/; August 21, 1936 \u2013 October 12, 1999) was an American basketball player who played center position and is considered one of the most prominent and dominant players in NBA history.[1][2] He played for the Philadelphia/San Francisco Warriors, the Philadelphia 76ers, and the Los Angeles Lakers of the National Basketball Association (NBA). He played for the University of Kansas and also for the Harlem Globetrotters before playing in the NBA.  Chamberlain stood 7ft 1in (2.16m) tall, and weighed 250 pounds (110kg) as a rookie[3] before bulking up to 275 and eventually to over 300 pounds (140kg) with the Lakers.",
+        "question": "How tall was Wilton Norman Chamberlain?",
+        "label": "7ft 1in (2.16m)"
+    }
+]

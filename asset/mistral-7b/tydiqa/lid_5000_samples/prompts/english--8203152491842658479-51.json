@@ -1,0 +1,15 @@
+[
+    [
+        825,
+        [],
+        "2003"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: During powered flight of the space shuttle, crew escape was not possible. Launch escape systems were considered several times during shuttle development, but NASA's conclusion was that the shuttle's expected high reliability would preclude the need for one. Modified SR-71 Blackbird ejection seats and full pressure suits were used for the two-man crews on the first four shuttle orbital missions, which were considered test flights, but they were removed for the \"operational\" missions that followed. (The Columbia Accident Investigation Board later declared, after the 2003 Columbia re-entry disaster, that the space shuttle system should never have been declared operational because it is experimental by nature due to the limited number of flights as compared to certified commercial aircraft.) The multi-deck design of the crew cabin precluded use of such ejection seats for larger crews. Providing some sort of launch escape system had been considered, but deemed impractical due to \"limited utility, technical complexity and excessive cost in dollars, weight or schedule delays.\"[30] Question: When did Columbia tear apart in reentry? Answer:",
+    {
+        "id": "english--8203152491842658479-51",
+        "lang": "english",
+        "summary": "During powered flight of the space shuttle, crew escape was not possible. Launch escape systems were considered several times during shuttle development, but NASA's conclusion was that the shuttle's expected high reliability would preclude the need for one. Modified SR-71 Blackbird ejection seats and full pressure suits were used for the two-man crews on the first four shuttle orbital missions, which were considered test flights, but they were removed for the \"operational\" missions that followed. (The Columbia Accident Investigation Board later declared, after the 2003 Columbia re-entry disaster, that the space shuttle system should never have been declared operational because it is experimental by nature due to the limited number of flights as compared to certified commercial aircraft.) The multi-deck design of the crew cabin precluded use of such ejection seats for larger crews. Providing some sort of launch escape system had been considered, but deemed impractical due to \"limited utility, technical complexity and excessive cost in dollars, weight or schedule delays.\"[30]",
+        "question": "When did Columbia tear apart in reentry?",
+        "label": "2003"
+    }
+]

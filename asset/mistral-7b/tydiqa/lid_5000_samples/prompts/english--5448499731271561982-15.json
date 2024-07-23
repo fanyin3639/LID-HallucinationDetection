@@ -1,0 +1,15 @@
+[
+    [
+        1188,
+        [],
+        "Swedish"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Language Law of 2009 recognizes Swedish as the main and common language of society as well as being the official language in \"international contexts\".[4] Question: What language is spoken in Sweden? Answer:",
+    {
+        "id": "english--5448499731271561982-15",
+        "lang": "english",
+        "summary": "The Language Law of 2009 recognizes Swedish as the main and common language of society as well as being the official language in \"international contexts\".[4]",
+        "question": "What language is spoken in Sweden?",
+        "label": "Swedish"
+    }
+]

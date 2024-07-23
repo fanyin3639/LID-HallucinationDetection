@@ -1,0 +1,15 @@
+[
+    [
+        2053,
+        [],
+        "80km/h"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Line 1 was planned right through to the construction stage since it covered the two most important traffic axes in the metropolitan regions of (Glatttal and Limmattal) and, according to the traffic concepts, it could be an efficient system on its own. The construction of the Schwammendingen branch line was also given priority, because this rapidly growing district was badly developed.[23] The maximum speed of the underground was set at 80km/h, the minimum radius at 245 m, the maximum inclination of the line at 40\u2030 and of the stations at 5\u2030. The standard-gauge section was to be electrified with 1500 V direct current using a third rail.  Eight-axle railcars of type Be 8/8 (45.6m length and 2.9m width) were planned as rolling stock. Railcars in groups of three formed a 136.8m long train, with a total capacity for 1302 passengers (including 360 seats).[24] Question: How fast are the trains in the Z\u00fcrich Underground Railway? Answer:",
+    {
+        "id": "english-3674226302377204286-18",
+        "lang": "english",
+        "summary": "Line 1 was planned right through to the construction stage since it covered the two most important traffic axes in the metropolitan regions of (Glatttal and Limmattal) and, according to the traffic concepts, it could be an efficient system on its own. The construction of the Schwammendingen branch line was also given priority, because this rapidly growing district was badly developed.[23] The maximum speed of the underground was set at 80km/h, the minimum radius at 245 m, the maximum inclination of the line at 40\u2030 and of the stations at 5\u2030. The standard-gauge section was to be electrified with 1500 V direct current using a third rail.  Eight-axle railcars of type Be 8/8 (45.6m length and 2.9m width) were planned as rolling stock. Railcars in groups of three formed a 136.8m long train, with a total capacity for 1302 passengers (including 360 seats).[24]",
+        "question": "How fast are the trains in the Z\u00fcrich Underground Railway?",
+        "label": "80km/h"
+    }
+]

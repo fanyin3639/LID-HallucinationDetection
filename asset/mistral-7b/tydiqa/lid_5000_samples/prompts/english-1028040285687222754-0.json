@@ -1,0 +1,15 @@
+[
+    [
+        2917,
+        [],
+        "Claudia Sheinbaum Pardo"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Claudia Sheinbaum Pardo is a Mexican scientist, politician and incumbent mayor of Mexico City. She jointly received the Nobel Peace Prize in 2007 as a member of the Intergovernmental Panel on Climate Change. She was elected as mayor on July 1, 2018 as part of the Juntos Haremos Historia coalition. She is the second woman to serve as mayor but the first to be elected and the first member of the Jewish faith to be elected mayor of Mexico City. Question: Who is the current mayor of Mexico City? Answer:",
+    {
+        "id": "english-1028040285687222754-0",
+        "lang": "english",
+        "summary": "Claudia Sheinbaum Pardo is a Mexican scientist, politician and incumbent mayor of Mexico City. She jointly received the Nobel Peace Prize in 2007 as a member of the Intergovernmental Panel on Climate Change. She was elected as mayor on July 1, 2018 as part of the Juntos Haremos Historia coalition. She is the second woman to serve as mayor but the first to be elected and the first member of the Jewish faith to be elected mayor of Mexico City.",
+        "question": "Who is the current mayor of Mexico City?",
+        "label": "Claudia Sheinbaum Pardo"
+    }
+]

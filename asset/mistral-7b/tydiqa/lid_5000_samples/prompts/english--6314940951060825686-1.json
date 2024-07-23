@@ -1,0 +1,15 @@
+[
+    [
+        1636,
+        [],
+        "Italy and subsequently throughout the western Roman Empire"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Latin was originally spoken in the area around Rome, known as Latium.[4] Through the power of the Roman Republic, it became the dominant language, initially in Italy and subsequently throughout the western Roman Empire. Vulgar Latin developed into the Romance languages, such as Italian, Portuguese, Spanish, French, and Romanian. Latin, Greek, and French have contributed many words to the English language. In particular, Latin and Ancient Greek roots are used in English descriptions of theology, biology, science, medicine, and law. Question: Where was Latin spoken? Answer:",
+    {
+        "id": "english--6314940951060825686-1",
+        "lang": "english",
+        "summary": "Latin was originally spoken in the area around Rome, known as Latium.[4] Through the power of the Roman Republic, it became the dominant language, initially in Italy and subsequently throughout the western Roman Empire. Vulgar Latin developed into the Romance languages, such as Italian, Portuguese, Spanish, French, and Romanian. Latin, Greek, and French have contributed many words to the English language. In particular, Latin and Ancient Greek roots are used in English descriptions of theology, biology, science, medicine, and law.",
+        "question": "Where was Latin spoken?",
+        "label": "Italy and subsequently throughout the western Roman Empire"
+    }
+]

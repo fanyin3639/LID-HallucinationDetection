@@ -1,0 +1,15 @@
+[
+    [
+        1768,
+        [],
+        "Yang di-Pertuan Negara"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Under the Constitution of Singapore, executive power is vested in the President. However, the Constitution also vests \"general direction and control of the government\" in the Cabinet. The President is almost always bound to act on the advice of the Cabinet or any minister acting under Cabinet authority. Thus, in practice, most of the actual work of governing is done by the Prime Minister and Cabinet. The office of Prime Minister dates back to 1959 and was appointed at first by the Governor of Singapore then the Yang di-Pertuan Negara (vice-regal head of state), when Singapore achieved self-governance as the State of Singapore within the British Empire. The title of Prime Minister remained unchanged after the merger with the Federation of Malaya, Sarawak and North Borneo, while Singapore was a state in the Federation of Malaysia from 1963 to 1965, and after independence in 1965. Question: Who was the first prime minister of Singapore? Answer:",
+    {
+        "id": "english--1173343380606580094-2",
+        "lang": "english",
+        "summary": "Under the Constitution of Singapore, executive power is vested in the President. However, the Constitution also vests \"general direction and control of the government\" in the Cabinet. The President is almost always bound to act on the advice of the Cabinet or any minister acting under Cabinet authority. Thus, in practice, most of the actual work of governing is done by the Prime Minister and Cabinet. The office of Prime Minister dates back to 1959 and was appointed at first by the Governor of Singapore then the Yang di-Pertuan Negara (vice-regal head of state), when Singapore achieved self-governance as the State of Singapore within the British Empire. The title of Prime Minister remained unchanged after the merger with the Federation of Malaya, Sarawak and North Borneo, while Singapore was a state in the Federation of Malaysia from 1963 to 1965, and after independence in 1965.",
+        "question": "Who was the first prime minister of Singapore?",
+        "label": "Yang di-Pertuan Negara"
+    }
+]

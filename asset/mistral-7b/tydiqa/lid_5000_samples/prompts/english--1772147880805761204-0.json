@@ -1,0 +1,15 @@
+[
+    [
+        1651,
+        [],
+        "every 75\u201376 years"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Halley's Comet or Comet Halley, officially designated 1P/Halley,[1] is a short-period comet visible from Earth every 75\u201376 years.[1][10][11][12] Halley is the only known short-period comet that is regularly visible to the naked eye from Earth, and the only naked-eye comet that might appear twice in a human lifetime.[13] Halley last appeared in the inner parts of the Solar System in 1986 and will next appear in mid-2061.[14] Question: How often is Halley's Comet visible? Answer:",
+    {
+        "id": "english--1772147880805761204-0",
+        "lang": "english",
+        "summary": "Halley's Comet or Comet Halley, officially designated 1P/Halley,[1] is a short-period comet visible from Earth every 75\u201376 years.[1][10][11][12] Halley is the only known short-period comet that is regularly visible to the naked eye from Earth, and the only naked-eye comet that might appear twice in a human lifetime.[13] Halley last appeared in the inner parts of the Solar System in 1986 and will next appear in mid-2061.[14]",
+        "question": "How often is Halley's Comet visible?",
+        "label": "every 75\u201376 years"
+    }
+]

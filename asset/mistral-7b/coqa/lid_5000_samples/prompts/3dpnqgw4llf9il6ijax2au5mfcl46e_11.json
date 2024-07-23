@@ -1,0 +1,19 @@
+[
+    [
+        1311,
+        [],
+        "17 million"
+    ],
+    "Answer the following questions:\nContext: Dhaka (, ; or ) is the capital and largest city of Bangladesh. The name of the city was spelled as \"Dacca\", which was an anglicisation name until the current spelling was adopted in 1983 to match with Bengali pronunciation. Located in an eponymous district and division, it lies along the east bank of the Buriganga River in the heart of the Bengal delta. The city is a microcosm of the entire country, with diverse religious and ethnic communities. Dhaka is the economic, cultural and political center of Bangladesh. It is a major financial center of South Asia. It is one of the world's most populated cities and within OIC countries, with a population of 17 million people in the Greater Dhaka Area. It is also the 4th most densely populated city in the world. \n\nAt the height of its medieval glory, Dhaka was regarded as one of the wealthiest and most prosperous cities in the world. It served as the capital of the Bengal province of the Mughal Empire twice (1608\u201339 and 1660\u20131704). The city's name was Jahangir Nagar (\"City of Jahangir\") in the 17th century. It was central to the economy of Mughal Bengal, which generated 50% of Mughal GDP. It was a cosmopolitan commercial center and the hub of the worldwide muslin and silk trade.\n'Question': What is it's population?\n'Answer: '",
+    {
+        "id": "3dpnqgw4llf9il6ijax2au5mfcl46e_11",
+        "summary": "Dhaka (, ; or ) is the capital and largest city of Bangladesh. The name of the city was spelled as \"Dacca\", which was an anglicisation name until the current spelling was adopted in 1983 to match with Bengali pronunciation. Located in an eponymous district and division, it lies along the east bank of the Buriganga River in the heart of the Bengal delta. The city is a microcosm of the entire country, with diverse religious and ethnic communities. Dhaka is the economic, cultural and political center of Bangladesh. It is a major financial center of South Asia. It is one of the world's most populated cities and within OIC countries, with a population of 17 million people in the Greater Dhaka Area. It is also the 4th most densely populated city in the world. \n\nAt the height of its medieval glory, Dhaka was regarded as one of the wealthiest and most prosperous cities in the world. It served as the capital of the Bengal province of the Mughal Empire twice (1608\u201339 and 1660\u20131704). The city's name was Jahangir Nagar (\"City of Jahangir\") in the 17th century. It was central to the economy of Mughal Bengal, which generated 50% of Mughal GDP. It was a cosmopolitan commercial center and the hub of the worldwide muslin and silk trade.",
+        "question": "What is it's population?",
+        "label": "17 million",
+        "additional_answers": [
+            "17 million",
+            "17 million",
+            "17 million"
+        ]
+    }
+]

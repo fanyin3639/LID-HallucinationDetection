@@ -1,0 +1,15 @@
+[
+    [
+        1678,
+        [],
+        "God of War"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Game Awards 2018 was an award show that honored the best video games of 2018. As with previous Game Awards, the event was hosted by Geoff Keighley at the Microsoft Theater in Los Angeles on December 6, 2018. God of War won three awards, including for game of the year, while Red Dead Redemption 2 won the most overall awards with four. It was live streamed on over 40 platforms worldwide, with viewership numbers of over 26 million. In addition to the awards, a number of new games and content for them was revealed during the event. Question: What is the best racing game of 2018? Answer:",
+    {
+        "id": "english--1788138113236183153-0",
+        "lang": "english",
+        "summary": "The Game Awards 2018 was an award show that honored the best video games of 2018. As with previous Game Awards, the event was hosted by Geoff Keighley at the Microsoft Theater in Los Angeles on December 6, 2018. God of War won three awards, including for game of the year, while Red Dead Redemption 2 won the most overall awards with four. It was live streamed on over 40 platforms worldwide, with viewership numbers of over 26 million. In addition to the awards, a number of new games and content for them was revealed during the event.",
+        "question": "What is the best racing game of 2018?",
+        "label": "God of War"
+    }
+]

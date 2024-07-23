@@ -1,0 +1,15 @@
+[
+    [
+        146,
+        [],
+        "run length"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Commonly described using the American colloquialism Spanish soap opera, many telenovelas share some stylistic and thematic similarities to the soap opera familiar to the English-speaking world. The significant difference is their series run length; telenovelas tell one self-contained story, typically within the span of a year or less whereas soap operas tend to have intertwined storylines told during indefinite, continuing runs.[3][4] This makes them shorter than most other television series, but still much longer than a miniseries. This planned run results in a faster-paced, more concise style of melodrama compared to a typical soap opera.[5] Episodes of telenovelas usually last between 30 and 45 minutes, and rarely more than an hour, except for final episodes. The telenovela combines drama with the 19th-century feuilleton, and naturally evolved from the Latin American radionovela, according to Blanca de Lizaur.[6] Question: What is the difference between a telenovela and a soap opera? Answer:",
+    {
+        "id": "english-2326124970478352034-1",
+        "lang": "english",
+        "summary": "Commonly described using the American colloquialism Spanish soap opera, many telenovelas share some stylistic and thematic similarities to the soap opera familiar to the English-speaking world. The significant difference is their series run length; telenovelas tell one self-contained story, typically within the span of a year or less whereas soap operas tend to have intertwined storylines told during indefinite, continuing runs.[3][4] This makes them shorter than most other television series, but still much longer than a miniseries. This planned run results in a faster-paced, more concise style of melodrama compared to a typical soap opera.[5] Episodes of telenovelas usually last between 30 and 45 minutes, and rarely more than an hour, except for final episodes. The telenovela combines drama with the 19th-century feuilleton, and naturally evolved from the Latin American radionovela, according to Blanca de Lizaur.[6]",
+        "question": "What is the difference between a telenovela and a soap opera?",
+        "label": "run length"
+    }
+]

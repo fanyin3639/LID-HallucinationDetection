@@ -1,0 +1,14 @@
+[
+    [
+        336,
+        [],
+        "A \u00a320m revamp of Northampton railway station has begun."
+    ],
+    "Write a short summary for the following passage:\nThe station is being doubled in size and will include a number of new shops, cafes and larger waiting areas.\nNorthampton Borough Council leader David Mackintosh, said: \"This will be a facility we can be proud of and will present a fitting welcome for visitors to our town.\"\nConstruction is due to be completed in the autumn of next year, with a new car park to be built at a later date.\nThe West Northamptonshire Development Corporation, which is overseeing the project, said without a bigger station the town's economic growth would be \"constrained\".\nThe government is funding half the project, with the rest of the money coming from Northamptonshire County Council and Network Rail.\nThe station is being built next to the existing building, which will be knocked down once completed.\nPrior to building work, excavations of the new site found remains dating back to Saxon times.\nSummary:\n",
+    {
+        "id": 336,
+        "document": "The station is being doubled in size and will include a number of new shops, cafes and larger waiting areas.\nNorthampton Borough Council leader David Mackintosh, said: \"This will be a facility we can be proud of and will present a fitting welcome for visitors to our town.\"\nConstruction is due to be completed in the autumn of next year, with a new car park to be built at a later date.\nThe West Northamptonshire Development Corporation, which is overseeing the project, said without a bigger station the town's economic growth would be \"constrained\".\nThe government is funding half the project, with the rest of the money coming from Northamptonshire County Council and Network Rail.\nThe station is being built next to the existing building, which will be knocked down once completed.\nPrior to building work, excavations of the new site found remains dating back to Saxon times.",
+        "summary": "A \u00a320m revamp of Northampton railway station has begun.",
+        "label": "A \u00a320m revamp of Northampton railway station has begun."
+    }
+]

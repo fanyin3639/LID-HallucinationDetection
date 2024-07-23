@@ -1,0 +1,15 @@
+[
+    [
+        2990,
+        [],
+        "1994"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kaine Parker is a fictional character appearing in American comic books published by Marvel Comics. The character has been depicted as a superhero and former supervillain who serves as an ally, an enemy, and a foil of Spider-Man (Peter Parker) and Ben Reilly. Created by Terry Kavanagh and Steven Butler,[2] the character first appeared in Web of Spider-Man #119 (December 1994) as the Jackal's first failed attempt of a clone of Spider-Man. He later appeared as the new Scarlet Spider in the Marvel Point One one-shot in November 2011 before starring in his own series. Question: When was Kaine Parker first introduced in Marvel Comics? Answer:",
+    {
+        "id": "english-2755817057464857721-0",
+        "lang": "english",
+        "summary": "Kaine Parker is a fictional character appearing in American comic books published by Marvel Comics. The character has been depicted as a superhero and former supervillain who serves as an ally, an enemy, and a foil of Spider-Man (Peter Parker) and Ben Reilly. Created by Terry Kavanagh and Steven Butler,[2] the character first appeared in Web of Spider-Man #119 (December 1994) as the Jackal's first failed attempt of a clone of Spider-Man. He later appeared as the new Scarlet Spider in the Marvel Point One one-shot in November 2011 before starring in his own series.",
+        "question": "When was Kaine Parker first introduced in Marvel Comics?",
+        "label": "1994"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2562,
+        [],
+        "1996"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The system had its origins in laws enacted before Confederation, but was primarily active from the passage of the Indian Act in 1876. An amendment to the Indian Act in 1884 made attendance at day schools, industrial schools, or residential schools compulsory for First Nations children. Due to the remote nature of many communities, school locations meant that for some families residential schools were the only way to comply. The schools were intentionally located at substantial distances from Indigenous communities to minimize contact between families and their children. Indian Commissioner Hayter Reed argued for schools at greater distances to reduce family visits, which he thought counteracted efforts to civilize Indigenous children. Parental visits were further restricted by the use of a pass system designed to confine Indigenous peoples to reserves. The last federally operated residential school closed in 1996. Schools operated in every province and territory with the exception of New Brunswick and Prince Edward Island.[7] Question: When did the Residential Schools close in Canada? Answer:",
+    {
+        "id": "english--1639068165117885587-1",
+        "lang": "english",
+        "summary": "The system had its origins in laws enacted before Confederation, but was primarily active from the passage of the Indian Act in 1876. An amendment to the Indian Act in 1884 made attendance at day schools, industrial schools, or residential schools compulsory for First Nations children. Due to the remote nature of many communities, school locations meant that for some families residential schools were the only way to comply. The schools were intentionally located at substantial distances from Indigenous communities to minimize contact between families and their children. Indian Commissioner Hayter Reed argued for schools at greater distances to reduce family visits, which he thought counteracted efforts to civilize Indigenous children. Parental visits were further restricted by the use of a pass system designed to confine Indigenous peoples to reserves. The last federally operated residential school closed in 1996. Schools operated in every province and territory with the exception of New Brunswick and Prince Edward Island.[7]",
+        "question": "When did the Residential Schools close in Canada?",
+        "label": "1996"
+    }
+]

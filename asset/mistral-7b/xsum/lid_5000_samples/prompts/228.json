@@ -1,0 +1,14 @@
+[
+    [
+        228,
+        [],
+        "Italian cyclists Nicola Ruffoni and Stefano Pirazzi have been suspended on the eve of the Giro d'Italia after returning positive doping tests."
+    ],
+    "Write a short summary for the following passage:\nThe Bardiani CSF riders' positive tests took place out of competition and they can request analysis of B samples.\nBoth were due to ride in the Giro but world governing body the UCI said they were \"provisionally suspended\" after detection of the growth hormone GHRP.\nBardiani said both would be dismissed if the positive tests are confirmed.\nThe Italian team, who first competed in 1982 under the name Termolan, will also be suspended for between 15 and 45 days in line with the UCI's anti-doping rules.\nPirazzi topped the Giro mountain classification in 2013. The 30-year-old was tested on 25 April.\nRuffoni, 25, won the points classification at the Tour of Croatia this year and provided a sample a day after his team-mate.\nThe 2017 Giro is the 100th edition of the event and starts on the island of Sardinia on Friday. The Grand Tour will span 21 stages and finish on 28 May.\nBahrain-Merida's Italian rider Vincenzo Nibali will be defending his title but Movistar's Nairo Quintana of Colombia starts as favourite.\nSummary:\n",
+    {
+        "id": 228,
+        "document": "The Bardiani CSF riders' positive tests took place out of competition and they can request analysis of B samples.\nBoth were due to ride in the Giro but world governing body the UCI said they were \"provisionally suspended\" after detection of the growth hormone GHRP.\nBardiani said both would be dismissed if the positive tests are confirmed.\nThe Italian team, who first competed in 1982 under the name Termolan, will also be suspended for between 15 and 45 days in line with the UCI's anti-doping rules.\nPirazzi topped the Giro mountain classification in 2013. The 30-year-old was tested on 25 April.\nRuffoni, 25, won the points classification at the Tour of Croatia this year and provided a sample a day after his team-mate.\nThe 2017 Giro is the 100th edition of the event and starts on the island of Sardinia on Friday. The Grand Tour will span 21 stages and finish on 28 May.\nBahrain-Merida's Italian rider Vincenzo Nibali will be defending his title but Movistar's Nairo Quintana of Colombia starts as favourite.",
+        "summary": "Italian cyclists Nicola Ruffoni and Stefano Pirazzi have been suspended on the eve of the Giro d'Italia after returning positive doping tests.",
+        "label": "Italian cyclists Nicola Ruffoni and Stefano Pirazzi have been suspended on the eve of the Giro d'Italia after returning positive doping tests."
+    }
+]

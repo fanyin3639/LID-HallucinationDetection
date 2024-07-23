@@ -1,0 +1,15 @@
+[
+    [
+        181,
+        [],
+        "Sala Polivalent\u0103 in Cluj-Napoca, Romania"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: DreamHack Open Cluj-Napoca 2015 was the seventh Counter-Strike: Global Offensive Major Championship that was held from October 28\u2013November 1, 2015 at the Sala Polivalent\u0103 in Cluj-Napoca, Romania. It was organized by DreamHack with help from Valve Corporation and the Professional Gamers League. The tournament had a total prize pool of $250,000 USD. Question: Where was the DreamHack Open Cluj-Napoca 2015 held? Answer:",
+    {
+        "id": "english--2925467118859919921-0",
+        "lang": "english",
+        "summary": "DreamHack Open Cluj-Napoca 2015 was the seventh Counter-Strike: Global Offensive Major Championship that was held from October 28\u2013November 1, 2015 at the Sala Polivalent\u0103 in Cluj-Napoca, Romania. It was organized by DreamHack with help from Valve Corporation and the Professional Gamers League. The tournament had a total prize pool of $250,000 USD.",
+        "question": "Where was the DreamHack Open Cluj-Napoca 2015 held?",
+        "label": "Sala Polivalent\u0103 in Cluj-Napoca, Romania"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        648,
+        [],
+        "Work on a \u00a33m upgrade to Abertay University's main teaching and research block in Dundee will begin in July."
+    ],
+    "Write a short summary for the following passage:\nThe spaces to be remodelled are currently occupied by the university's school of science, engineering and technology.\nTwo laboratories at the Kydd Building will be upgraded during the work as well as a complete reconstruction of the north wing's southern facade.\nThe upgrade work will continue until the end of the year.\nThe university said the most disruptive phases of the project would be carried out over the summer break.\nSummary:\n",
+    {
+        "id": 648,
+        "document": "The spaces to be remodelled are currently occupied by the university's school of science, engineering and technology.\nTwo laboratories at the Kydd Building will be upgraded during the work as well as a complete reconstruction of the north wing's southern facade.\nThe upgrade work will continue until the end of the year.\nThe university said the most disruptive phases of the project would be carried out over the summer break.",
+        "summary": "Work on a \u00a33m upgrade to Abertay University's main teaching and research block in Dundee will begin in July.",
+        "label": "Work on a \u00a33m upgrade to Abertay University's main teaching and research block in Dundee will begin in July."
+    }
+]

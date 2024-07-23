@@ -1,0 +1,15 @@
+[
+    [
+        81,
+        [],
+        "1951"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Texas Instruments emerged in 1951 after a reorganization of Geophysical Service Incorporated, a company founded in 1930 that manufactured equipment for use in the seismic industry, as well as defense electronics.[8] TI produced the world's first commercial silicon transistor in 1954[9], and designed and manufactured the first transistor radio in 1954. Jack Kilby invented the integrated circuit in 1958 while working at TI's Central Research Labs. TI also invented the hand-held calculator in 1967, and introduced the first single-chip microcontroller (MCU) in 1970, which combined all the elements of computing onto one piece of silicon.[10] Question: When was Texas Instruments founded? Answer:",
+    {
+        "id": "english-2144754837526760373-1",
+        "lang": "english",
+        "summary": "Texas Instruments emerged in 1951 after a reorganization of Geophysical Service Incorporated, a company founded in 1930 that manufactured equipment for use in the seismic industry, as well as defense electronics.[8] TI produced the world's first commercial silicon transistor in 1954[9], and designed and manufactured the first transistor radio in 1954. Jack Kilby invented the integrated circuit in 1958 while working at TI's Central Research Labs. TI also invented the hand-held calculator in 1967, and introduced the first single-chip microcontroller (MCU) in 1970, which combined all the elements of computing onto one piece of silicon.[10]",
+        "question": "When was Texas Instruments founded?",
+        "label": "1951"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2142,
+        [],
+        "sugar"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 2006, Merisant, the maker of Equal, filed suit against McNeil Nutritionals in U.S. District Court, Philadelphia, alleging that Splenda's tagline; \"made from sugar, so it tastes like sugar\" is misleading. McNeil argued during the trial that it had never deceived consumers or set out to deceive them, since the product is in fact made from sugar. Merisant asked that McNeil be ordered to surrender profits and modify its advertising. The case ended with an agreement reached outside of court, with undisclosed settlement conditions.[26] The lawsuit was the latest move in a long-simmering dispute. In 2004, Merisant filed a complaint with the Better Business Bureau regarding McNeil's advertising. McNeil alleged that Merisant's complaint was in retaliation for a ruling in federal court in Puerto Rico, which forced Merisant to stop packaging Equal in packages resembling Splenda's. McNeil filed suit in Puerto Rico seeking a ruling which would declare its advertising to not be misleading. Following Merisant's lawsuit in Philadelphia, McNeil agreed to a jury trial and to the dismissal of its lawsuit in Puerto Rico. However, on May 11, 2007, the parties reached a settlement on the case, the terms of which were not disclosed.[7] Currently, Splenda is advertised with the slogan, \"It starts with sugar. It tastes like sugar. but it's not sugar.\"[27] Question: What is Splenda made from? Answer:",
+    {
+        "id": "english-2064797062736782364-8",
+        "lang": "english",
+        "summary": "In 2006, Merisant, the maker of Equal, filed suit against McNeil Nutritionals in U.S. District Court, Philadelphia, alleging that Splenda's tagline; \"made from sugar, so it tastes like sugar\" is misleading. McNeil argued during the trial that it had never deceived consumers or set out to deceive them, since the product is in fact made from sugar. Merisant asked that McNeil be ordered to surrender profits and modify its advertising. The case ended with an agreement reached outside of court, with undisclosed settlement conditions.[26] The lawsuit was the latest move in a long-simmering dispute. In 2004, Merisant filed a complaint with the Better Business Bureau regarding McNeil's advertising. McNeil alleged that Merisant's complaint was in retaliation for a ruling in federal court in Puerto Rico, which forced Merisant to stop packaging Equal in packages resembling Splenda's. McNeil filed suit in Puerto Rico seeking a ruling which would declare its advertising to not be misleading. Following Merisant's lawsuit in Philadelphia, McNeil agreed to a jury trial and to the dismissal of its lawsuit in Puerto Rico. However, on May 11, 2007, the parties reached a settlement on the case, the terms of which were not disclosed.[7] Currently, Splenda is advertised with the slogan, \"It starts with sugar. It tastes like sugar. but it's not sugar.\"[27]",
+        "question": "What is Splenda made from?",
+        "label": "sugar"
+    }
+]

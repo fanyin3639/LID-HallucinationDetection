@@ -1,0 +1,15 @@
+[
+    [
+        554,
+        [],
+        "tropical evergreen species"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Most houseplants are tropical evergreen species that adapted to survive in a tropical climate which ranges from 15\u00b0C to 25\u00b0C (60\u00b0F to 80\u00b0F) year-round. This is similar to the temperature in most homes.  Question: What is the most common houseplant? Answer:",
+    {
+        "id": "english-4554132942478722619-7",
+        "lang": "english",
+        "summary": "Most houseplants are tropical evergreen species that adapted to survive in a tropical climate which ranges from 15\u00b0C to 25\u00b0C (60\u00b0F to 80\u00b0F) year-round. This is similar to the temperature in most homes. ",
+        "question": "What is the most common houseplant?",
+        "label": "tropical evergreen species"
+    }
+]

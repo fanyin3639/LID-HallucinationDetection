@@ -1,0 +1,14 @@
+[
+    [
+        92,
+        [],
+        "Ireland made it two wins from two by beating China by 28 runs at the ICC Women's World Twenty20 qualifying tournament in Bangkok."
+    ],
+    "Write a short summary for the following passage:\nIreland posted 104-6 from their 20 overs, a total China never did not threaten to overtake.\nCaptain Isobel Joyce hit an unbeaten 41 off 36 balls, while her China counterpart Huang Zhuo was her team's top scorer with an unbeaten 39.\nIreland play their final Group B against Zimbabwe on Tuesday.\nA win would see the Irish avoiding tournament favourites Bangladesh in the semi-finals, with Scotland the likely semi-final opponents.\nZimbabwe beat the Netherlands by two runs on Sunday to maintain their 100% record.\nIn Group A, Bangladesh beat Scotland by eight wickets and Papua New Guinea secured a seven-wicket victory over the hosts Thailand.\nSummary:\n",
+    {
+        "id": 92,
+        "document": "Ireland posted 104-6 from their 20 overs, a total China never did not threaten to overtake.\nCaptain Isobel Joyce hit an unbeaten 41 off 36 balls, while her China counterpart Huang Zhuo was her team's top scorer with an unbeaten 39.\nIreland play their final Group B against Zimbabwe on Tuesday.\nA win would see the Irish avoiding tournament favourites Bangladesh in the semi-finals, with Scotland the likely semi-final opponents.\nZimbabwe beat the Netherlands by two runs on Sunday to maintain their 100% record.\nIn Group A, Bangladesh beat Scotland by eight wickets and Papua New Guinea secured a seven-wicket victory over the hosts Thailand.",
+        "summary": "Ireland made it two wins from two by beating China by 28 runs at the ICC Women's World Twenty20 qualifying tournament in Bangkok.",
+        "label": "Ireland made it two wins from two by beating China by 28 runs at the ICC Women's World Twenty20 qualifying tournament in Bangkok."
+    }
+]

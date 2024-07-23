@@ -1,0 +1,15 @@
+[
+    [
+        2309,
+        [],
+        "Ribauldequin"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Ribauldequin was a medieval version of the volley gun. It had its barrels set up in parallel.  This early version was first employed during the Hundred Years' War by the army of Edward III of England, in 1339. Later on, the late Swiss army employed it. Question: What was the first volley gun? Answer:",
+    {
+        "id": "english-2533093178966624275-2",
+        "lang": "english",
+        "summary": "The Ribauldequin was a medieval version of the volley gun. It had its barrels set up in parallel.  This early version was first employed during the Hundred Years' War by the army of Edward III of England, in 1339. Later on, the late Swiss army employed it.",
+        "question": "What was the first volley gun?",
+        "label": "Ribauldequin"
+    }
+]

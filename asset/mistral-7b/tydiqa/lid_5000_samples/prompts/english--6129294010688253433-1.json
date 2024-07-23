@@ -1,0 +1,15 @@
+[
+    [
+        182,
+        [],
+        "March 1, 1961"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The program was established by Executive Order 10924, issued by President John F. Kennedy on March 1, 1961 and authorized by Congress on September 21, 1961 with passage of the Peace Corps Act (Pub.L. 87\u2013293). The act declares the program's purpose as follows: Question: When was the Peace Corps founded? Answer:",
+    {
+        "id": "english--6129294010688253433-1",
+        "lang": "english",
+        "summary": "The program was established by Executive Order 10924, issued by President John F. Kennedy on March 1, 1961 and authorized by Congress on September 21, 1961 with passage of the Peace Corps Act (Pub.L. 87\u2013293). The act declares the program's purpose as follows:",
+        "question": "When was the Peace Corps founded?",
+        "label": "March 1, 1961"
+    }
+]

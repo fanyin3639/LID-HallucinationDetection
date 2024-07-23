@@ -1,0 +1,15 @@
+[
+    [
+        2294,
+        [],
+        "Britain"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The victory confirmed the naval supremacy Britain had established during the course of the eighteenth century and it was achieved in part through Nelson's departure from the prevailing naval tactical orthodoxy of the day.[4] Conventional practice at the time was for opposing fleets to engage each other in single parallel lines, in order to facilitate signalling and disengagement, and to maximise fields of fire and target areas. Nelson instead arranged his ships into two columns to sail perpendicularly into the enemy fleet's line. Question: Who won the battle of Trafalgar? Answer:",
+    {
+        "id": "english-5794258353653556429-2",
+        "lang": "english",
+        "summary": "The victory confirmed the naval supremacy Britain had established during the course of the eighteenth century and it was achieved in part through Nelson's departure from the prevailing naval tactical orthodoxy of the day.[4] Conventional practice at the time was for opposing fleets to engage each other in single parallel lines, in order to facilitate signalling and disengagement, and to maximise fields of fire and target areas. Nelson instead arranged his ships into two columns to sail perpendicularly into the enemy fleet's line.",
+        "question": "Who won the battle of Trafalgar?",
+        "label": "Britain"
+    }
+]

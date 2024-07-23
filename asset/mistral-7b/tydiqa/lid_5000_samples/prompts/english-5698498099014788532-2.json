@@ -1,0 +1,15 @@
+[
+    [
+        957,
+        [],
+        "France"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The islands were uninhabited when discovered by Europeans. France established a colony on the islands in 1764. In 1765, a British captain claimed the islands for Britain. In early 1770 a Spanish commander arrived from Argentina with five ships and 1400 soldiers forcing the British to leave Port Egmont. Britain and Spain almost went to war over the islands, but the British government decided that it should withdraw its presence from many overseas settlements in 1774. Spain, which had a garrison at Puerto Soledad on East Falklands, administered the garrison from Montevideo until 1811 when it was compelled to withdraw by pressures resulting from the Peninsular War. In 1833, the British returned to the Falkland Islands. Argentina invaded the islands on 2 April 1982. The British responded with an expeditionary force that forced the Argentines to surrender. Question: Who first colonized the Falkland Islands? Answer:",
+    {
+        "id": "english-5698498099014788532-2",
+        "lang": "english",
+        "summary": "The islands were uninhabited when discovered by Europeans. France established a colony on the islands in 1764. In 1765, a British captain claimed the islands for Britain. In early 1770 a Spanish commander arrived from Argentina with five ships and 1400 soldiers forcing the British to leave Port Egmont. Britain and Spain almost went to war over the islands, but the British government decided that it should withdraw its presence from many overseas settlements in 1774. Spain, which had a garrison at Puerto Soledad on East Falklands, administered the garrison from Montevideo until 1811 when it was compelled to withdraw by pressures resulting from the Peninsular War. In 1833, the British returned to the Falkland Islands. Argentina invaded the islands on 2 April 1982. The British responded with an expeditionary force that forced the Argentines to surrender.",
+        "question": "Who first colonized the Falkland Islands?",
+        "label": "France"
+    }
+]

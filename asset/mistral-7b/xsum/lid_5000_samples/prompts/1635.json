@@ -1,0 +1,14 @@
+[
+    [
+        1635,
+        [],
+        "Plans to move a town library to council offices are expected to get the green light on Wednesday."
+    ],
+    "Write a short summary for the following passage:\nThe proposal, to change the use of council offices at Morgan Street in Cardigan, would mean the library is relocated from Canolfan Teifi, Pendre.\nBut there have been 13 letters of objection from the public, and a 1,000-strong petition has been handed to Ceredigion council.\nCardigan town council raised questions about parking and pedestrian crossings.\nObjections from the public included access problems, a lack of computer facilities and that it would be located \"on a very busy road and at a dangerous junction\".\nThe move was also described as a \"complete waste of money and time\".\nA report to the council said it had no control over the decision to close the existing library and that the new location was served by public transport and would be accessible by foot.\nSummary:\n",
+    {
+        "id": 1635,
+        "document": "The proposal, to change the use of council offices at Morgan Street in Cardigan, would mean the library is relocated from Canolfan Teifi, Pendre.\nBut there have been 13 letters of objection from the public, and a 1,000-strong petition has been handed to Ceredigion council.\nCardigan town council raised questions about parking and pedestrian crossings.\nObjections from the public included access problems, a lack of computer facilities and that it would be located \"on a very busy road and at a dangerous junction\".\nThe move was also described as a \"complete waste of money and time\".\nA report to the council said it had no control over the decision to close the existing library and that the new location was served by public transport and would be accessible by foot.",
+        "summary": "Plans to move a town library to council offices are expected to get the green light on Wednesday.",
+        "label": "Plans to move a town library to council offices are expected to get the green light on Wednesday."
+    }
+]

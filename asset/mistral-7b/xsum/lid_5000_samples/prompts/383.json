@@ -1,0 +1,14 @@
+[
+    [
+        383,
+        [],
+        "With 170,000 fans departing following the Champions League final, Cardiff is expected to return to normal with all roads reopened on Monday."
+    ],
+    "Write a short summary for the following passage:\nRestrictions were in place as Real Madrid beat Juventus 4-1 on Saturday.\nThere was a \"significant\" police presence at the final day of the Champions League Festival on Sunday following the London terror attack.\nAfter the festival finished nearby roads in Cardiff Bay, such as Lloyd George Avenue, reopened by 22:00 BST.\nAll other roads were accessible to motorists, apart from Cowbridge Road East, Castle Street and the bottom of North Road, which were open to pedestrians and cyclists only.\nHowever, these were due to be fully open by 03:30 Monday.\nSummary:\n",
+    {
+        "id": 383,
+        "document": "Restrictions were in place as Real Madrid beat Juventus 4-1 on Saturday.\nThere was a \"significant\" police presence at the final day of the Champions League Festival on Sunday following the London terror attack.\nAfter the festival finished nearby roads in Cardiff Bay, such as Lloyd George Avenue, reopened by 22:00 BST.\nAll other roads were accessible to motorists, apart from Cowbridge Road East, Castle Street and the bottom of North Road, which were open to pedestrians and cyclists only.\nHowever, these were due to be fully open by 03:30 Monday.",
+        "summary": "With 170,000 fans departing following the Champions League final, Cardiff is expected to return to normal with all roads reopened on Monday.",
+        "label": "With 170,000 fans departing following the Champions League final, Cardiff is expected to return to normal with all roads reopened on Monday."
+    }
+]

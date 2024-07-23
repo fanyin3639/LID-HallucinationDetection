@@ -1,0 +1,15 @@
+[
+    [
+        948,
+        [],
+        "Asian conical hat"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Asian conical hat, commonly known as an Asian rice hat, coolie hat (in the UK), or farmer's hat, is a simple style of conical hat originating in East, South, and Southeast Asia;  and notable in modern-day nations and regions of Bangladesh, Bhutan, China, Cambodia, India, Indonesia, Japan, Korea, Laos, Malaysia, Myanmar, Nepal, Philippines, parts of Russian Manchuria and Vietnam. Question: What is the pointy Chinese hat called? Answer:",
+    {
+        "id": "english--8796723441290968536-0",
+        "lang": "english",
+        "summary": "The Asian conical hat, commonly known as an Asian rice hat, coolie hat (in the UK), or farmer's hat, is a simple style of conical hat originating in East, South, and Southeast Asia;  and notable in modern-day nations and regions of Bangladesh, Bhutan, China, Cambodia, India, Indonesia, Japan, Korea, Laos, Malaysia, Myanmar, Nepal, Philippines, parts of Russian Manchuria and Vietnam.",
+        "question": "What is the pointy Chinese hat called?",
+        "label": "Asian conical hat"
+    }
+]

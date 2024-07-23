@@ -1,0 +1,14 @@
+[
+    [
+        208,
+        [],
+        "Newly-promoted Forest Green Rovers have signed Barnsley defender Callum Evans on a one-year contract following his release by the Championship club."
+    ],
+    "Write a short summary for the following passage:\nThe 21-year-old made three league appearances for the Tykes.\nHe spent time on loan at non-league Macclesfield in 2016-17, making two starts in the National League.\nEvans becomes Mark Cooper's Gloucestershire side's second signing since reaching the English Football League for the first time.\nFind all the latest football transfers on our dedicated page.\nSummary:\n",
+    {
+        "id": 208,
+        "document": "The 21-year-old made three league appearances for the Tykes.\nHe spent time on loan at non-league Macclesfield in 2016-17, making two starts in the National League.\nEvans becomes Mark Cooper's Gloucestershire side's second signing since reaching the English Football League for the first time.\nFind all the latest football transfers on our dedicated page.",
+        "summary": "Newly-promoted Forest Green Rovers have signed Barnsley defender Callum Evans on a one-year contract following his release by the Championship club.",
+        "label": "Newly-promoted Forest Green Rovers have signed Barnsley defender Callum Evans on a one-year contract following his release by the Championship club."
+    }
+]

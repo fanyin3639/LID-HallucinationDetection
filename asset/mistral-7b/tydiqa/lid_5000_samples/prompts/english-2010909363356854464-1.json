@@ -1,0 +1,15 @@
+[
+    [
+        1680,
+        [],
+        "Green Lantern vol. 4 #25"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: They debuted in Green Lantern vol. 4 #25 (December 2007) and were created by Geoff Johns and Ethan Van Sciver. Some of their characteristics were inspired by 28 Days Later, which is one of Van Sciver's favorite films.[1] Question: What issue did the Red Lantern first appear in? Answer:",
+    {
+        "id": "english-2010909363356854464-1",
+        "lang": "english",
+        "summary": "They debuted in Green Lantern vol. 4 #25 (December 2007) and were created by Geoff Johns and Ethan Van Sciver. Some of their characteristics were inspired by 28 Days Later, which is one of Van Sciver's favorite films.[1]",
+        "question": "What issue did the Red Lantern first appear in?",
+        "label": "Green Lantern vol. 4 #25"
+    }
+]

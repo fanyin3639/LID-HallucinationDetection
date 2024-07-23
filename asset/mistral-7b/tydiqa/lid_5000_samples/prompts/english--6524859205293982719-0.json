@@ -1,0 +1,15 @@
+[
+    [
+        523,
+        [],
+        "an English officer of the Royal Navy and a scientist"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Vice-Admiral Robert FitzRoy FRS (5 July 1805 \u2013 30 April 1865) was an English officer of the Royal Navy and a scientist. He achieved lasting fame as the captain of HMS<i>Beagle during Charles Darwin's famous voyage, FitzRoy's second expedition to Tierra del Fuego and the Southern Cone. Question: What kind of job did Fitzroy have? Answer:",
+    {
+        "id": "english--6524859205293982719-0",
+        "lang": "english",
+        "summary": "Vice-Admiral Robert FitzRoy FRS (5 July 1805 \u2013 30 April 1865) was an English officer of the Royal Navy and a scientist. He achieved lasting fame as the captain of HMS<i>Beagle during Charles Darwin's famous voyage, FitzRoy's second expedition to Tierra del Fuego and the Southern Cone.",
+        "question": "What kind of job did Fitzroy have?",
+        "label": "an English officer of the Royal Navy and a scientist"
+    }
+]

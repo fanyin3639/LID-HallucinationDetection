@@ -1,0 +1,15 @@
+[
+    [
+        2747,
+        [],
+        "December 1815"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Emma, by Jane Austen, is a novel about youthful hubris and the perils of misconstrued romance. The story takes place in the fictional village of Highbury and the surrounding estates of Hartfield, Randalls, and Donwell Abbey and involves the relationships among individuals in those locations consisting of \"3 or 4 families in a country village\".[2] The novel was first published in December 1815 while the author was alive, with its title page listing a publication date of 1816. As in her other novels, Austen explores the concerns and difficulties of genteel women living in Georgian\u2013Regency England; she also creates a lively comedy of manners among her characters and depicts issues of marriage, gender, age, and social status. Question: When was Emma first published? Answer:",
+    {
+        "id": "english--8820644092995100618-0",
+        "lang": "english",
+        "summary": "Emma, by Jane Austen, is a novel about youthful hubris and the perils of misconstrued romance. The story takes place in the fictional village of Highbury and the surrounding estates of Hartfield, Randalls, and Donwell Abbey and involves the relationships among individuals in those locations consisting of \"3 or 4 families in a country village\".[2] The novel was first published in December 1815 while the author was alive, with its title page listing a publication date of 1816. As in her other novels, Austen explores the concerns and difficulties of genteel women living in Georgian\u2013Regency England; she also creates a lively comedy of manners among her characters and depicts issues of marriage, gender, age, and social status.",
+        "question": "When was Emma first published?",
+        "label": "December 1815"
+    }
+]

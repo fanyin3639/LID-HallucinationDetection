@@ -1,0 +1,15 @@
+[
+    [
+        2455,
+        [],
+        "1995"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Michelle Fowler (also Holloway) is a fictional character from the BBC soap opera EastEnders, played by Susan Tully from the first episode in 1985 until the character's departure in 1995. In December 2016, it was announced Michelle would be returning to the show after 21 years, with actress Jenna Russell taking over the role making her first appearance on 24 December 2016.[1] In her first stint Michelle made some huge mistakes during her time in Albert Square mainly through having a habit of choosing the wrong men and her stubborn nature meant that she rarely accepted help or listened to good advice. Being determined and outspoken, she has never been afraid to defend herself or her beliefs. Since the recast to Russell in 2016, Michelle's storylines have revolved around her having had an illegal relationship with her student, Preston Cooper (Martin Anzor) in America, a love triangle involving her niece Bex Fowler (Jasmine Armfield), crashing Phil Mitchell car into the local chip shop and being stalked by Tom Bailey (Daniel Casey). Russell's departure from the show was announced in March 2018, and Michelle departed on 17 April 2018.[2] Question: When was the character Michelle Fowler's last episode of EastEnders? Answer:",
+    {
+        "id": "english-1063791365382741855-0",
+        "lang": "english",
+        "summary": "Michelle Fowler (also Holloway) is a fictional character from the BBC soap opera EastEnders, played by Susan Tully from the first episode in 1985 until the character's departure in 1995. In December 2016, it was announced Michelle would be returning to the show after 21 years, with actress Jenna Russell taking over the role making her first appearance on 24 December 2016.[1] In her first stint Michelle made some huge mistakes during her time in Albert Square mainly through having a habit of choosing the wrong men and her stubborn nature meant that she rarely accepted help or listened to good advice. Being determined and outspoken, she has never been afraid to defend herself or her beliefs. Since the recast to Russell in 2016, Michelle's storylines have revolved around her having had an illegal relationship with her student, Preston Cooper (Martin Anzor) in America, a love triangle involving her niece Bex Fowler (Jasmine Armfield), crashing Phil Mitchell car into the local chip shop and being stalked by Tom Bailey (Daniel Casey). Russell's departure from the show was announced in March 2018, and Michelle departed on 17 April 2018.[2]",
+        "question": "When was the character Michelle Fowler's last episode of EastEnders?",
+        "label": "1995"
+    }
+]

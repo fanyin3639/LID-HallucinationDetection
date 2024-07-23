@@ -1,0 +1,15 @@
+[
+    [
+        796,
+        [],
+        "March 28 or April 6, 1483\u2013April 6, 1520"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Raffaello Sanzio da Urbino[2] (Italian:[raffa\u02c8\u025bllo \u02c8santsjo da ur\u02c8bi\u02d0no]; March 28 or April 6, 1483\u2013April 6, 1520),[3] known as Raphael (/\u02c8r\u00e6fe\u026a\u0259l/, US: /\u02c8r\u00e6fi\u0259l, \u02ccr\u0251\u02d0fa\u026a\u02c8\u025bl/), was an Italian painter and architect of the High Renaissance. His work is admired for its clarity of form, ease of composition, and visual achievement of the Neoplatonic ideal of human grandeur.[4] Together with Michelangelo and Leonardo da Vinci, he forms the traditional trinity of great masters of that period.[5] Question: What years did Raphael live? Answer:",
+    {
+        "id": "english--4570859360254504661-0",
+        "lang": "english",
+        "summary": "Raffaello Sanzio da Urbino[2] (Italian:[raffa\u02c8\u025bllo \u02c8santsjo da ur\u02c8bi\u02d0no]; March 28 or April 6, 1483\u2013April 6, 1520),[3] known as Raphael (/\u02c8r\u00e6fe\u026a\u0259l/, US: /\u02c8r\u00e6fi\u0259l, \u02ccr\u0251\u02d0fa\u026a\u02c8\u025bl/), was an Italian painter and architect of the High Renaissance. His work is admired for its clarity of form, ease of composition, and visual achievement of the Neoplatonic ideal of human grandeur.[4] Together with Michelangelo and Leonardo da Vinci, he forms the traditional trinity of great masters of that period.[5]",
+        "question": "What years did Raphael live?",
+        "label": "March 28 or April 6, 1483\u2013April 6, 1520"
+    }
+]

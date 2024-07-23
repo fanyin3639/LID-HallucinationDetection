@@ -1,0 +1,15 @@
+[
+    [
+        544,
+        [],
+        "Rice"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The most striking feature of Japanese agriculture is the shortage of farmland. The 49,000 square kilometres (19,000sqmi) under cultivation constituted just 13.2% of the total land area in 1988. However, the land is intensively cultivated. Rice paddies occupy most of the countryside, whether on the alluvial plains, the terraced slopes, or wetlands and coastal bays. Non-paddy farmland share the terraces and lower slopes and are planted with wheat and barley in the autumn and with sweet potatoes, vegetables, and dry rice in the summer. Intercropping is common: such crops are alternated with beans and peas. Question: What is Japan's number one crop? Answer:",
+    {
+        "id": "english--911640532106404052-4",
+        "lang": "english",
+        "summary": "The most striking feature of Japanese agriculture is the shortage of farmland. The 49,000 square kilometres (19,000sqmi) under cultivation constituted just 13.2% of the total land area in 1988. However, the land is intensively cultivated. Rice paddies occupy most of the countryside, whether on the alluvial plains, the terraced slopes, or wetlands and coastal bays. Non-paddy farmland share the terraces and lower slopes and are planted with wheat and barley in the autumn and with sweet potatoes, vegetables, and dry rice in the summer. Intercropping is common: such crops are alternated with beans and peas.",
+        "question": "What is Japan's number one crop?",
+        "label": "Rice"
+    }
+]

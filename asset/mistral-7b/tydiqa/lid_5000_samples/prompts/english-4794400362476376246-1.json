@@ -1,0 +1,15 @@
+[
+    [
+        1227,
+        [],
+        "six"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The series consists of six digest size black-and-white volumes, released between August 2004 and July 2010, by Portland-based independent comic book publisher Oni Press. It was later republished by Fourth Estate, an imprint of HarperCollins.[2] Full-colour hardback volumes, coloured by Nathan Fairbairn, were released from August 2012 to April 2014.[3][4] Question: How many volumes did Scott Pilgrim have? Answer:",
+    {
+        "id": "english-4794400362476376246-1",
+        "lang": "english",
+        "summary": "The series consists of six digest size black-and-white volumes, released between August 2004 and July 2010, by Portland-based independent comic book publisher Oni Press. It was later republished by Fourth Estate, an imprint of HarperCollins.[2] Full-colour hardback volumes, coloured by Nathan Fairbairn, were released from August 2012 to April 2014.[3][4]",
+        "question": "How many volumes did Scott Pilgrim have?",
+        "label": "six"
+    }
+]

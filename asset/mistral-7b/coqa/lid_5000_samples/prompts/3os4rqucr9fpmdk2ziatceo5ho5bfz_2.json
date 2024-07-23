@@ -1,0 +1,19 @@
+[
+    [
+        486,
+        [],
+        "yes"
+    ],
+    "Answer the following questions:\nContext: GERALD Christian is in Grade 8 at Ridge Road Middle School in North Carolina, US. She is a member of her school basketball team. Late last month, the 14-year-old faced a big problem. Her mother lost her job. She thought she couldn't pay the $ 50 fee for the city's sports meet this year. Christian was not the only one who had this problem. Some other middle school players in the city had the same problem. That's why famous NBA player Michael Jordan gave $ 250, 000 to the city earlier this month. He wanted to help the poor students. Jordan said: \"I know there are kids who get an education by playing sports. We need to keep sports alive for them.\" Christian was _ . \"Really? I can't believe Michael did that for us. These days, I go to bed thinking about it and I wake up thinking about it,\" she said. \"Now the problem is over. \" Christian wanted to say \"thanks\" to Jordan. \"Michael, thank you for giving me the chance to show myself. I will do my best at the meet.\n'Question': did he think about it all the time?\n'Answer: '",
+    {
+        "id": "3os4rqucr9fpmdk2ziatceo5ho5bfz_2",
+        "summary": "GERALD Christian is in Grade 8 at Ridge Road Middle School in North Carolina, US. She is a member of her school basketball team. Late last month, the 14-year-old faced a big problem. Her mother lost her job. She thought she couldn't pay the $ 50 fee for the city's sports meet this year. Christian was not the only one who had this problem. Some other middle school players in the city had the same problem. That's why famous NBA player Michael Jordan gave $ 250, 000 to the city earlier this month. He wanted to help the poor students. Jordan said: \"I know there are kids who get an education by playing sports. We need to keep sports alive for them.\" Christian was _ . \"Really? I can't believe Michael did that for us. These days, I go to bed thinking about it and I wake up thinking about it,\" she said. \"Now the problem is over. \" Christian wanted to say \"thanks\" to Jordan. \"Michael, thank you for giving me the chance to show myself. I will do my best at the meet.",
+        "question": "did he think about it all the time?",
+        "label": "yes",
+        "additional_answers": [
+            "yes",
+            "Yes",
+            "yes"
+        ]
+    }
+]

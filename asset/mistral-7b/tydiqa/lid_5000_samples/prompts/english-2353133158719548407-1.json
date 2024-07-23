@@ -1,0 +1,15 @@
+[
+    [
+        539,
+        [],
+        "Ram Nath Kovind"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: This is a list of the heads of state of India, from the independence of India in 1947 to the present day. The current head of state of India is Ram Nath Kovind, elected in 2017 after being nominated by BJP, the party run by Prime Minister Narendra Modi.  Question: Who is the leader of India? Answer:",
+    {
+        "id": "english-2353133158719548407-1",
+        "lang": "english",
+        "summary": "This is a list of the heads of state of India, from the independence of India in 1947 to the present day. The current head of state of India is Ram Nath Kovind, elected in 2017 after being nominated by BJP, the party run by Prime Minister Narendra Modi. ",
+        "question": "Who is the leader of India?",
+        "label": "Ram Nath Kovind"
+    }
+]

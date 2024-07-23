@@ -1,0 +1,15 @@
+[
+    [
+        2628,
+        [],
+        "3 million"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: OPs are one of the most common causes of poisoning worldwide.[2] There are nearly 3 million poisonings per year resulting in two hundred thousand deaths.[2][3] Around 15% of people who are poisoned die as a result.[2] Organophosphate poisoning has been reported at least since 1962.[7] Question: How many people get organophosphate poisoning each year in the US? Answer:",
+    {
+        "id": "english-4044767463596012614-3",
+        "lang": "english",
+        "summary": "OPs are one of the most common causes of poisoning worldwide.[2] There are nearly 3 million poisonings per year resulting in two hundred thousand deaths.[2][3] Around 15% of people who are poisoned die as a result.[2] Organophosphate poisoning has been reported at least since 1962.[7]",
+        "question": "How many people get organophosphate poisoning each year in the US?",
+        "label": "3 million"
+    }
+]

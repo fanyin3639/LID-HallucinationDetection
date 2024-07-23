@@ -1,0 +1,15 @@
+[
+    [
+        2850,
+        [],
+        "Allergan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Based on data from thousands of patients collected by 240 investigators, Allergan received FDA approval in 1989 to market Oculinum for clinical use in the United States to treat adult strabismus and blepharospasm, using the trademark Botox.[50] This was under the 1983 US Orphan Drug Act.[51] Question: What company introduced Botox? Answer:",
+    {
+        "id": "english-861635192403570918-29",
+        "lang": "english",
+        "summary": "Based on data from thousands of patients collected by 240 investigators, Allergan received FDA approval in 1989 to market Oculinum for clinical use in the United States to treat adult strabismus and blepharospasm, using the trademark Botox.[50] This was under the 1983 US Orphan Drug Act.[51]",
+        "question": "What company introduced Botox?",
+        "label": "Allergan"
+    }
+]

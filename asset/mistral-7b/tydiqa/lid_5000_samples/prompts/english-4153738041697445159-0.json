@@ -1,0 +1,15 @@
+[
+    [
+        432,
+        [],
+        "Shelby County, Tennessee"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Germantown is a city in Shelby County, Tennessee, United States. The population was 38,844 at the 2010 census.[4] Question: Where is Germantown? Answer:",
+    {
+        "id": "english-4153738041697445159-0",
+        "lang": "english",
+        "summary": "Germantown is a city in Shelby County, Tennessee, United States. The population was 38,844 at the 2010 census.[4]",
+        "question": "Where is Germantown?",
+        "label": "Shelby County, Tennessee"
+    }
+]

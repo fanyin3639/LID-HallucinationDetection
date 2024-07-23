@@ -1,0 +1,15 @@
+[
+    [
+        1020,
+        [],
+        "Hanoi"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: This list of historical capitals of Vietnam includes former capital cities as well as the current capital of Vietnam which is Hanoi in time order. The capitals in bold indicate long-term or important capitals in Vietnamese history while the capitals in italic indicate short-lived or transient capitals. Question: What is the capital of Vietnam? Answer:",
+    {
+        "id": "english-3265009781924477568-0",
+        "lang": "english",
+        "summary": "This list of historical capitals of Vietnam includes former capital cities as well as the current capital of Vietnam which is Hanoi in time order. The capitals in bold indicate long-term or important capitals in Vietnamese history while the capitals in italic indicate short-lived or transient capitals.",
+        "question": "What is the capital of Vietnam?",
+        "label": "Hanoi"
+    }
+]

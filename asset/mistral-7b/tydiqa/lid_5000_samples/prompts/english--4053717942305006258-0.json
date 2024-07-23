@@ -1,0 +1,15 @@
+[
+    [
+        1581,
+        [],
+        "153,990"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Centre County is a county in the U.S. state of Pennsylvania. As of the 2010 census, the population was 153,990.[2] Its county seat is Bellefonte.[3]  Centre County comprises the State College, PA Metropolitan Statistical Area. Question: How many people live in Centre County? Answer:",
+    {
+        "id": "english--4053717942305006258-0",
+        "lang": "english",
+        "summary": "Centre County is a county in the U.S. state of Pennsylvania. As of the 2010 census, the population was 153,990.[2] Its county seat is Bellefonte.[3]  Centre County comprises the State College, PA Metropolitan Statistical Area.",
+        "question": "How many people live in Centre County?",
+        "label": "153,990"
+    }
+]

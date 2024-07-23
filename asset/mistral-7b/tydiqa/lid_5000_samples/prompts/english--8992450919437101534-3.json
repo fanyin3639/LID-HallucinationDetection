@@ -1,0 +1,15 @@
+[
+    [
+        687,
+        [],
+        "Michigan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Other states which abolished the death penalty for murder before Gregg v. Georgia include: Minnesota in 1911, Vermont in 1964, Iowa and West Virginia in 1965 and North Dakota in 1973. Hawaii abolished the death penalty in 1948 and Alaska in 1957, both before their statehood. Puerto Rico repealed it in 1929 and the District of Columbia in 1981. Arizona and Oregon abolished the death penalty by popular vote in 1916 and 1964 respectively, but both reinstated it, again by popular vote, some years later; Arizona reinstated the death penalty in 1918 and Oregon in 1978.[10] Puerto Rico and Michigan are the only two U.S. jurisdictions to have explicitly prohibited capital punishment in their constitutions: in 1952 and 1964, respectively. Question: Which US state first outlawed capital punishment? Answer:",
+    {
+        "id": "english--8992450919437101534-3",
+        "lang": "english",
+        "summary": "Other states which abolished the death penalty for murder before Gregg v. Georgia include: Minnesota in 1911, Vermont in 1964, Iowa and West Virginia in 1965 and North Dakota in 1973. Hawaii abolished the death penalty in 1948 and Alaska in 1957, both before their statehood. Puerto Rico repealed it in 1929 and the District of Columbia in 1981. Arizona and Oregon abolished the death penalty by popular vote in 1916 and 1964 respectively, but both reinstated it, again by popular vote, some years later; Arizona reinstated the death penalty in 1918 and Oregon in 1978.[10] Puerto Rico and Michigan are the only two U.S. jurisdictions to have explicitly prohibited capital punishment in their constitutions: in 1952 and 1964, respectively.",
+        "question": "Which US state first outlawed capital punishment?",
+        "label": "Michigan"
+    }
+]

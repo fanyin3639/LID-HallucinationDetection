@@ -1,0 +1,14 @@
+[
+    [
+        876,
+        [],
+        "Watford have turned striker Odion Ighalo's loan move from Italian club Udinese into a permanent deal."
+    ],
+    "Write a short summary for the following passage:\nThe Nigerian, 25, initially moved to Vicarage Road on a season-long loan in July but has now agreed a contract until the summer of 2017.\nIghalo has scored in each of his last three Championship appearances for the Hornets, having failed to find the net in his first seven outings.\nWatford lie second in the table and face Middlesbrough on Saturday.\nSummary:\n",
+    {
+        "id": 876,
+        "document": "The Nigerian, 25, initially moved to Vicarage Road on a season-long loan in July but has now agreed a contract until the summer of 2017.\nIghalo has scored in each of his last three Championship appearances for the Hornets, having failed to find the net in his first seven outings.\nWatford lie second in the table and face Middlesbrough on Saturday.",
+        "summary": "Watford have turned striker Odion Ighalo's loan move from Italian club Udinese into a permanent deal.",
+        "label": "Watford have turned striker Odion Ighalo's loan move from Italian club Udinese into a permanent deal."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        3179,
+        [],
+        "The term \"retailer\" is typically applied where a service provider fills the small orders of a large number of individuals, who are end-users, rather than large orders of a small number of wholesale, corporate or government clientele"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Retail is the process of selling consumer goods or services to customers through multiple channels of distribution to earn a profit. Retailers satisfy demand identified through a supply chain. The term \"retailer\" is typically applied where a service provider fills the small orders of a large number of individuals, who are end-users, rather than large orders of a small number of wholesale, corporate or government clientele. Shopping generally refers to the act of buying products. Sometimes this is done to obtain final goods, including necessities such as food and clothing; sometimes it takes place as a recreational activity. Recreational shopping often involves window shopping and browsing: it does not always result in a purchase. Question: Who is called retailer? Answer:",
+    {
+        "id": "english--2572660570399807306-0",
+        "lang": "english",
+        "summary": "Retail is the process of selling consumer goods or services to customers through multiple channels of distribution to earn a profit. Retailers satisfy demand identified through a supply chain. The term \"retailer\" is typically applied where a service provider fills the small orders of a large number of individuals, who are end-users, rather than large orders of a small number of wholesale, corporate or government clientele. Shopping generally refers to the act of buying products. Sometimes this is done to obtain final goods, including necessities such as food and clothing; sometimes it takes place as a recreational activity. Recreational shopping often involves window shopping and browsing: it does not always result in a purchase.",
+        "question": "Who is called retailer?",
+        "label": "The term \"retailer\" is typically applied where a service provider fills the small orders of a large number of individuals, who are end-users, rather than large orders of a small number of wholesale, corporate or government clientele"
+    }
+]

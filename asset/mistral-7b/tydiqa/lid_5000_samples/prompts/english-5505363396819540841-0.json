@@ -1,0 +1,15 @@
+[
+    [
+        2335,
+        [],
+        "Thai elephant"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The elephant has been a contributor to Thai society and its icon for many centuries.[1] The elephant has had a considerable impact on Thai culture.[2] The Thai elephant (Thai: \u0e0a\u0e49\u0e32\u0e07\u0e44\u0e17\u0e22, chang Thai) is the official national animal of Thailand. The elephant found in Thailand is the Indian elephant (Elephas maximus indicus), a subspecies of the Asian elephant. In the early-1900s there were an estimated 100,000 domesticated or captive elephants in Thailand.[3] In mid-2007 there were an estimated 3,456 domesticated elephants left in Thailand and roughly a thousand wild elephants.[4][5] It became an endangered species in 1986.[6] Question: What is Thailand's national animal? Answer:",
+    {
+        "id": "english-5505363396819540841-0",
+        "lang": "english",
+        "summary": "The elephant has been a contributor to Thai society and its icon for many centuries.[1] The elephant has had a considerable impact on Thai culture.[2] The Thai elephant (Thai: \u0e0a\u0e49\u0e32\u0e07\u0e44\u0e17\u0e22, chang Thai) is the official national animal of Thailand. The elephant found in Thailand is the Indian elephant (Elephas maximus indicus), a subspecies of the Asian elephant. In the early-1900s there were an estimated 100,000 domesticated or captive elephants in Thailand.[3] In mid-2007 there were an estimated 3,456 domesticated elephants left in Thailand and roughly a thousand wild elephants.[4][5] It became an endangered species in 1986.[6]",
+        "question": "What is Thailand's national animal?",
+        "label": "Thai elephant"
+    }
+]

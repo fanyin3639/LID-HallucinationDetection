@@ -1,0 +1,15 @@
+[
+    [
+        28,
+        [],
+        "Norman Gimbel and Charles Fox"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: \"Happy Days\" is a song written by Norman Gimbel and Charles Fox. It is the theme song of the 1970s television series Happy Days.[3]  It can be heard during the TV show's opening and closing credits as it runs in perpetual rerun syndication. Question: Who wrote the song \"Happy Days\"? Answer:",
+    {
+        "id": "english-3152779224481001639-0",
+        "lang": "english",
+        "summary": "\"Happy Days\" is a song written by Norman Gimbel and Charles Fox. It is the theme song of the 1970s television series Happy Days.[3]  It can be heard during the TV show's opening and closing credits as it runs in perpetual rerun syndication.",
+        "question": "Who wrote the song \"Happy Days\"?",
+        "label": "Norman Gimbel and Charles Fox"
+    }
+]

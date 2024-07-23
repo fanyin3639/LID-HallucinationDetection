@@ -1,0 +1,19 @@
+[
+    [
+        548,
+        [],
+        "Frank"
+    ],
+    "Answer the following questions:\nContext: Hey! That isn't fair! Knights can't fly! Only wizards like me can! And maybe also witches. Bobby yelled. \n\n\"Yes! They can, too!\" Frank said, \"They're the most powerful and you can't stop me from flying!\" \n\n\"Well, if you fly, then I can fight with a sword, too. It's only fair,\" Bobby said back. \n\n\"No! They can't! They aren't even strong enough to pick up a sword. They can't even pick up a knife, they're so weak! I don't even know what you're talking about. You're crazy, aren't you?\" Frank pointed his finger at Bobby and ran at him with the sword made out of cardboard. \n\nBobby jumped out of the way as quickly as he could! Bobby then pointed a finger at Frank. \"FREEZE!\" \n\nFrank stopped in place. \"Hey, you can't use the freeze spell. How can I fight you if I can't move? I'm going to tell mom.\" \n\n\"I can use any spell I want! I can use Freeze, Trap, and Fly! I can do any of them! I'm also telling mom that you think you can fly and you can't. You're a stupid knight with no brains. I have all the brains here.\" Bobby crossed his arms over his chest and stomped a foot on the ground. \n\n\"You take that back! I'm the smartest knight there is and I'll get you any day!\" Suddenly, Frank pulled Bobby to the ground. \"Take it back right now!\" \n\n\"BOYS! What's all the noise?\" Mom asked. \n\n\"Bobby called me stupid!\" Frank yelled. \n\n\"Frank is trying to fly!\" Bobby cried. \n\n\"Oh boy.\" Mom laughed.\n'Question': Who thinks knights can fly?\n'Answer: '",
+    {
+        "id": "3bdcf01ogxu7zdn9vlrbf2rqz14ylh_1",
+        "summary": "Hey! That isn't fair! Knights can't fly! Only wizards like me can! And maybe also witches. Bobby yelled. \n\n\"Yes! They can, too!\" Frank said, \"They're the most powerful and you can't stop me from flying!\" \n\n\"Well, if you fly, then I can fight with a sword, too. It's only fair,\" Bobby said back. \n\n\"No! They can't! They aren't even strong enough to pick up a sword. They can't even pick up a knife, they're so weak! I don't even know what you're talking about. You're crazy, aren't you?\" Frank pointed his finger at Bobby and ran at him with the sword made out of cardboard. \n\nBobby jumped out of the way as quickly as he could! Bobby then pointed a finger at Frank. \"FREEZE!\" \n\nFrank stopped in place. \"Hey, you can't use the freeze spell. How can I fight you if I can't move? I'm going to tell mom.\" \n\n\"I can use any spell I want! I can use Freeze, Trap, and Fly! I can do any of them! I'm also telling mom that you think you can fly and you can't. You're a stupid knight with no brains. I have all the brains here.\" Bobby crossed his arms over his chest and stomped a foot on the ground. \n\n\"You take that back! I'm the smartest knight there is and I'll get you any day!\" Suddenly, Frank pulled Bobby to the ground. \"Take it back right now!\" \n\n\"BOYS! What's all the noise?\" Mom asked. \n\n\"Bobby called me stupid!\" Frank yelled. \n\n\"Frank is trying to fly!\" Bobby cried. \n\n\"Oh boy.\" Mom laughed.",
+        "question": "Who thinks knights can fly?",
+        "label": "Frank",
+        "additional_answers": [
+            "Frank",
+            "Frank",
+            "Frank"
+        ]
+    }
+]

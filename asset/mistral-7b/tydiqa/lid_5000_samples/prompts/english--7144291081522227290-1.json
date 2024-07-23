@@ -1,0 +1,15 @@
+[
+    [
+        2560,
+        [],
+        "the Swiss"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Many battles were fought from January to July 1499, and in all but a few minor skirmishes, the experienced Swiss soldiers defeated the Swabian and Habsburg armies. After their victories in the Burgundian Wars, the Swiss had battle tested troops and commanders. On the Swabian side, distrust between the knights and their foot soldiers, disagreements amongst the military leadership, and a general reluctance to fight a war that even the Swabian counts considered to be more in the interests of the powerful Habsburgs than in the interest of the Holy Roman Empire[2] proved fatal handicaps. When his military high commander fell in the battle of Dornach, where the Swiss won a final decisive victory, Emperor Maximilian I had no choice but to agree to a peace treaty signed on September 22, 1499, in Basel. The treaty granted the Confederacy far-reaching independence from the empire. Although the Eidgenossenschaft officially remained a part of the empire until the Treaty of Westphalia in 1648, the peace of Basel exempted it from the imperial jurisdiction and imperial taxes and thus de facto acknowledged it as a separate political entity. Question: who won The Swabian War of 1499? Answer:",
+    {
+        "id": "english--7144291081522227290-1",
+        "lang": "english",
+        "summary": "Many battles were fought from January to July 1499, and in all but a few minor skirmishes, the experienced Swiss soldiers defeated the Swabian and Habsburg armies. After their victories in the Burgundian Wars, the Swiss had battle tested troops and commanders. On the Swabian side, distrust between the knights and their foot soldiers, disagreements amongst the military leadership, and a general reluctance to fight a war that even the Swabian counts considered to be more in the interests of the powerful Habsburgs than in the interest of the Holy Roman Empire[2] proved fatal handicaps. When his military high commander fell in the battle of Dornach, where the Swiss won a final decisive victory, Emperor Maximilian I had no choice but to agree to a peace treaty signed on September 22, 1499, in Basel. The treaty granted the Confederacy far-reaching independence from the empire. Although the Eidgenossenschaft officially remained a part of the empire until the Treaty of Westphalia in 1648, the peace of Basel exempted it from the imperial jurisdiction and imperial taxes and thus de facto acknowledged it as a separate political entity.",
+        "question": "who won The Swabian War of 1499?",
+        "label": "the Swiss"
+    }
+]

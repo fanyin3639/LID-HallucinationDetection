@@ -1,0 +1,15 @@
+[
+    [
+        1225,
+        [],
+        "Brian Acton and Jan Koum"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: WhatsApp was founded in 2009 by Brian Acton and Jan Koum, both former employees of Yahoo!. After Koum and Acton left Yahoo! in September 2007, the duo traveled to South America to take a break from work.[8] At one point, they applied for jobs at Facebook but were rejected.[8] For the rest of the following years Koum relied on his $400,000 savings from Yahoo!. Question: Who created Whatsapp? Answer:",
+    {
+        "id": "english-8671681031985157622-2",
+        "lang": "english",
+        "summary": "WhatsApp was founded in 2009 by Brian Acton and Jan Koum, both former employees of Yahoo!. After Koum and Acton left Yahoo! in September 2007, the duo traveled to South America to take a break from work.[8] At one point, they applied for jobs at Facebook but were rejected.[8] For the rest of the following years Koum relied on his $400,000 savings from Yahoo!.",
+        "question": "Who created Whatsapp?",
+        "label": "Brian Acton and Jan Koum"
+    }
+]

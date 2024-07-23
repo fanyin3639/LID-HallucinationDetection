@@ -1,0 +1,15 @@
+[
+    [
+        516,
+        [],
+        "The commanding officer (CO) or sometimes, if the incumbent is a general officer, commanding general (CG), is the officer in command of a military unit. The commanding officer has ultimate authority over the unit, and is usually given wide latitude to run the unit as they see fit, within the bounds of military law"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The commanding officer (CO) or sometimes, if the incumbent is a general officer, commanding general (CG), is the officer in command of a military unit. The commanding officer has ultimate authority over the unit, and is usually given wide latitude to run the unit as they see fit, within the bounds of military law. In this respect, commanding officers have significant responsibilities (for example, the use of force, finances, equipment, the Geneva Conventions), duties (to higher authority, mission effectiveness, duty of care to personnel), and powers (for example, discipline and punishment of personnel within certain limits of military law). Question: What does CO mean in the Army? Answer:",
+    {
+        "id": "english-1769212776666457980-0",
+        "lang": "english",
+        "summary": "The commanding officer (CO) or sometimes, if the incumbent is a general officer, commanding general (CG), is the officer in command of a military unit. The commanding officer has ultimate authority over the unit, and is usually given wide latitude to run the unit as they see fit, within the bounds of military law. In this respect, commanding officers have significant responsibilities (for example, the use of force, finances, equipment, the Geneva Conventions), duties (to higher authority, mission effectiveness, duty of care to personnel), and powers (for example, discipline and punishment of personnel within certain limits of military law).",
+        "question": "What does CO mean in the Army?",
+        "label": "The commanding officer (CO) or sometimes, if the incumbent is a general officer, commanding general (CG), is the officer in command of a military unit. The commanding officer has ultimate authority over the unit, and is usually given wide latitude to run the unit as they see fit, within the bounds of military law"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1310,
+        [],
+        "Linda"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 2007, de la Huerta was cast in the role of Linda for the film Enter the Void, a psychedelic melodrama set in neon-lit nightclub environments of Tokyo. Director Gaspar No\u00e9 found her after holding auditions in New York City.[8] \"I met Paz and I really liked her. She had the profile for the character because she likes screaming, crying, showing herself naked\u2014all the qualities for it.\"[9] The crew filmed in Tokyo from 19 October to 15 December 2007. Flashback scenes were shot in Montreal over the course of four weeks the following spring, until 16 May 2008.[8][10] Question: What character di Paz de la Huerta play in Enter the Void? Answer:",
+    {
+        "id": "english-1171339805661132881-4",
+        "lang": "english",
+        "summary": "In 2007, de la Huerta was cast in the role of Linda for the film Enter the Void, a psychedelic melodrama set in neon-lit nightclub environments of Tokyo. Director Gaspar No\u00e9 found her after holding auditions in New York City.[8] \"I met Paz and I really liked her. She had the profile for the character because she likes screaming, crying, showing herself naked\u2014all the qualities for it.\"[9] The crew filmed in Tokyo from 19 October to 15 December 2007. Flashback scenes were shot in Montreal over the course of four weeks the following spring, until 16 May 2008.[8][10]",
+        "question": "What character di Paz de la Huerta play in Enter the Void?",
+        "label": "Linda"
+    }
+]

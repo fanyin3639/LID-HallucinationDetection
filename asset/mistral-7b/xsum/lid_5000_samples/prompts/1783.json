@@ -1,0 +1,14 @@
+[
+    [
+        1783,
+        [],
+        "The trial of a Hatton Garden burglar, over accusations he took part in a \u00c2\u00a31m raid five years earlier, has collapsed."
+    ],
+    "Write a short summary for the following passage:\nTerry Perkins, 68, is charged with breaking into Chatila jewellers in old Bond Street, Mayfair, in 2010.\nJurors at Southwark Crown Court were told he and Daniel Jones, 59, posed as workmen during the raid, which bore similarities to the 2015 heist.\nOn Friday, Judge Joanna Korner QC discharged the jury. A retrial is due to take place in December.\nPerkins denies burglary, while Jones pleaded guilty to the Chatila burglary at an earlier hearing.\nThe pair, both from Enfield, are already serving sentences for conspiring to commit burglary in the Hatton Garden raid - believed to be the biggest heist in English legal history.\nA third man, Charles Matthews, 54, of Virginia Water in Surrey, is accused of handling stolen goods from the Chatila burglary, which he has denied.\nSummary:\n",
+    {
+        "id": 1783,
+        "document": "Terry Perkins, 68, is charged with breaking into Chatila jewellers in old Bond Street, Mayfair, in 2010.\nJurors at Southwark Crown Court were told he and Daniel Jones, 59, posed as workmen during the raid, which bore similarities to the 2015 heist.\nOn Friday, Judge Joanna Korner QC discharged the jury. A retrial is due to take place in December.\nPerkins denies burglary, while Jones pleaded guilty to the Chatila burglary at an earlier hearing.\nThe pair, both from Enfield, are already serving sentences for conspiring to commit burglary in the Hatton Garden raid - believed to be the biggest heist in English legal history.\nA third man, Charles Matthews, 54, of Virginia Water in Surrey, is accused of handling stolen goods from the Chatila burglary, which he has denied.",
+        "summary": "The trial of a Hatton Garden burglar, over accusations he took part in a \u00c2\u00a31m raid five years earlier, has collapsed.",
+        "label": "The trial of a Hatton Garden burglar, over accusations he took part in a \u00c2\u00a31m raid five years earlier, has collapsed."
+    }
+]

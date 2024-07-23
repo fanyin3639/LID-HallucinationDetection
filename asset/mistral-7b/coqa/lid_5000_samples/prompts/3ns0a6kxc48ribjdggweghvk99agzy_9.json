@@ -1,0 +1,19 @@
+[
+    [
+        1657,
+        [],
+        "Oakdale"
+    ],
+    "Answer the following questions:\nContext: CHAPTER XXII \n\nAFTER THE RUNAWAYS \n\n\"Why, Nat, what do you mean?\" demanded Dave. \n\n\"I mean just what I say!\" declared the money-lender's son. \"This is a frame-up, nothing more! I understand it all now, although I didn't at first.\" \n\n\"What do you mean by 'a frame-up,' Poole?\" demanded Doctor Clay. \n\n\"I mean that they took this magazine and the drawing to the cabin, that is what I mean, Doctor Clay. They found out somehow that my--er--that the wild man was there, and they got up this scheme to make it look as if he had blown up the hotel,--and they did it just to clear their cronies and themselves.\" \n\n\"Nat, you know that is not true!\" exclaimed Roger. \"I found the magazine with the drawing on a shelf in the cabin.\" \n\n\"Yes, that is what you said, but I don't believe it, Roger Morr. I think you put the magazine there yourself--you or Dave Porter.\" \n\n\"We did nothing of the kind,\" cried our hero. \n\n\"I think you did--and I think Jason Sparr will think so, too, when he hears the story. It's a frame-up, just to clear yourselves and your cronies,\" added Nat, with a sneer. \n\n\"Nat, you ought to be----\" began Roger, in high anger, when Dave stopped him. Our hero looked at Doctor Clay. \n\n\"What Roger says is the absolute truth, Doctor Clay,\" said our hero. \"He found that magazine on a shelf in the cabin where the wild man was staying, and that drawing and the wording were on it, just as you see. More than that, we can prove that the wild man was around the old shanty where the dynamite was kept, and that he was seen in Oakdale several times.\" \n'Question': In what city?\n'Answer: '",
+    {
+        "id": "3ns0a6kxc48ribjdggweghvk99agzy_9",
+        "summary": "CHAPTER XXII \n\nAFTER THE RUNAWAYS \n\n\"Why, Nat, what do you mean?\" demanded Dave. \n\n\"I mean just what I say!\" declared the money-lender's son. \"This is a frame-up, nothing more! I understand it all now, although I didn't at first.\" \n\n\"What do you mean by 'a frame-up,' Poole?\" demanded Doctor Clay. \n\n\"I mean that they took this magazine and the drawing to the cabin, that is what I mean, Doctor Clay. They found out somehow that my--er--that the wild man was there, and they got up this scheme to make it look as if he had blown up the hotel,--and they did it just to clear their cronies and themselves.\" \n\n\"Nat, you know that is not true!\" exclaimed Roger. \"I found the magazine with the drawing on a shelf in the cabin.\" \n\n\"Yes, that is what you said, but I don't believe it, Roger Morr. I think you put the magazine there yourself--you or Dave Porter.\" \n\n\"We did nothing of the kind,\" cried our hero. \n\n\"I think you did--and I think Jason Sparr will think so, too, when he hears the story. It's a frame-up, just to clear yourselves and your cronies,\" added Nat, with a sneer. \n\n\"Nat, you ought to be----\" began Roger, in high anger, when Dave stopped him. Our hero looked at Doctor Clay. \n\n\"What Roger says is the absolute truth, Doctor Clay,\" said our hero. \"He found that magazine on a shelf in the cabin where the wild man was staying, and that drawing and the wording were on it, just as you see. More than that, we can prove that the wild man was around the old shanty where the dynamite was kept, and that he was seen in Oakdale several times.\" ",
+        "question": "In what city?",
+        "label": "Oakdale",
+        "additional_answers": [
+            "Oakdale",
+            "Oakdale",
+            "Oakdale"
+        ]
+    }
+]

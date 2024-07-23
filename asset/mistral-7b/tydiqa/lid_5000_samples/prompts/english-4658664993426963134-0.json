@@ -1,0 +1,15 @@
+[
+    [
+        1776,
+        [],
+        "March 1977"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ceremony is a novel by Native American writer Leslie Marmon Silko, first published by Penguin in March 1977. The title Ceremony is based upon the oral traditions and ceremonial practices of the Navajo and Pueblo people. Question: When was the book Ceremony published? Answer:",
+    {
+        "id": "english-4658664993426963134-0",
+        "lang": "english",
+        "summary": "Ceremony is a novel by Native American writer Leslie Marmon Silko, first published by Penguin in March 1977. The title Ceremony is based upon the oral traditions and ceremonial practices of the Navajo and Pueblo people.",
+        "question": "When was the book Ceremony published?",
+        "label": "March 1977"
+    }
+]

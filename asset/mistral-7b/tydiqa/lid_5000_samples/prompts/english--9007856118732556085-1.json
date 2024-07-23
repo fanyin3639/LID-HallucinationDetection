@@ -1,0 +1,15 @@
+[
+    [
+        545,
+        [],
+        "Monza"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In earlier years, the European Grand Prix was not a race in its own right, but an honorific title given to one of the national Grands Prix in Europe. The first race to be so named was the 1923 Italian Grand Prix, held at Monza, and the last was the 1977 British Grand Prix at Silverstone. Question: Where was the first European Grand Prix race held? Answer:",
+    {
+        "id": "english--9007856118732556085-1",
+        "lang": "english",
+        "summary": "In earlier years, the European Grand Prix was not a race in its own right, but an honorific title given to one of the national Grands Prix in Europe. The first race to be so named was the 1923 Italian Grand Prix, held at Monza, and the last was the 1977 British Grand Prix at Silverstone.",
+        "question": "Where was the first European Grand Prix race held?",
+        "label": "Monza"
+    }
+]

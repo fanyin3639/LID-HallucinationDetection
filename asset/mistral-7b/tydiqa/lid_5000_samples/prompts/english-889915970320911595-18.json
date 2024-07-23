@@ -1,0 +1,15 @@
+[
+    [
+        608,
+        [],
+        "Tropidacris"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Arachnacris katydids and Tropidacris grasshoppers reach up to 12\u201315cm (4.7\u20135.9in) in length and 23\u201327.5cm (9.1\u201310.8in) in wingspan, making them the largest by these measurements.[2][7] The largest Saga and Pseudophyllus  bush crickets are only are a few centimeters smaller.[7] Question: What is the biggest Grasshopper? Answer:",
+    {
+        "id": "english-889915970320911595-18",
+        "lang": "english",
+        "summary": "Arachnacris katydids and Tropidacris grasshoppers reach up to 12\u201315cm (4.7\u20135.9in) in length and 23\u201327.5cm (9.1\u201310.8in) in wingspan, making them the largest by these measurements.[2][7] The largest Saga and Pseudophyllus  bush crickets are only are a few centimeters smaller.[7]",
+        "question": "What is the biggest Grasshopper?",
+        "label": "Tropidacris"
+    }
+]

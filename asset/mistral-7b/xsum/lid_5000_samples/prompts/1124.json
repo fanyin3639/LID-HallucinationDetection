@@ -1,0 +1,14 @@
+[
+    [
+        1124,
+        [],
+        "Notts County boss John Sheridan has been given a five-match touchline ban by the Football Association."
+    ],
+    "Write a short summary for the following passage:\nHe was sent to the stand in his side's 2-0 defeat by Wycombe on 10 December.\nThe ban starts immediately, meaning Sheridan will have to watch Tuesday's FA Cup second-round replay with Peterborough from the stands.\nThe former Chesterfield and Oldham boss admitted on Monday that his job was under threat after six successive League Two defeats.\nNotts are 20th in the table, just one point above the relegation zone having lost 11 of their 21 league matches.\nSummary:\n",
+    {
+        "id": 1124,
+        "document": "He was sent to the stand in his side's 2-0 defeat by Wycombe on 10 December.\nThe ban starts immediately, meaning Sheridan will have to watch Tuesday's FA Cup second-round replay with Peterborough from the stands.\nThe former Chesterfield and Oldham boss admitted on Monday that his job was under threat after six successive League Two defeats.\nNotts are 20th in the table, just one point above the relegation zone having lost 11 of their 21 league matches.",
+        "summary": "Notts County boss John Sheridan has been given a five-match touchline ban by the Football Association.",
+        "label": "Notts County boss John Sheridan has been given a five-match touchline ban by the Football Association."
+    }
+]

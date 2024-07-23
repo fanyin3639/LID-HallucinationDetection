@@ -1,0 +1,14 @@
+[
+    [
+        1334,
+        [],
+        "Arsenal will be missing Kieran Gibbs, Per Mertesacker (both knee), Santi Cazorla (ankle) and Francis Coquelin (hamstring)."
+    ],
+    "Write a short summary for the following passage:\nArsene Wenger says he will also rest goalkeeper Petr Cech, defender Laurent Koscielny and forward Alexis Sanchez.\nDefender Marnick Vermijl (groin) is a doubt for Preston, who are without Jermaine Beckford (suspension).\nMidfielders Aiden McGeady and Paul Gallagher could start after continuing their returns from injury.\nGunners boss Wenger insists the FA Cup is a \"big priority\" for Arsenal this season and has said he will only make a couple of changes to his strongest side.\n\"We know as well that after a congested Christmas period that the third round is always a tricky game,\" he said.\n\"That is why I believe it is a mental challenge for the Premier League teams to prepare well and not have a bad surprise - especially when you go to a Championship team, it is always difficult.\"\nSummary:\n",
+    {
+        "id": 1334,
+        "document": "Arsene Wenger says he will also rest goalkeeper Petr Cech, defender Laurent Koscielny and forward Alexis Sanchez.\nDefender Marnick Vermijl (groin) is a doubt for Preston, who are without Jermaine Beckford (suspension).\nMidfielders Aiden McGeady and Paul Gallagher could start after continuing their returns from injury.\nGunners boss Wenger insists the FA Cup is a \"big priority\" for Arsenal this season and has said he will only make a couple of changes to his strongest side.\n\"We know as well that after a congested Christmas period that the third round is always a tricky game,\" he said.\n\"That is why I believe it is a mental challenge for the Premier League teams to prepare well and not have a bad surprise - especially when you go to a Championship team, it is always difficult.\"",
+        "summary": "Arsenal will be missing Kieran Gibbs, Per Mertesacker (both knee), Santi Cazorla (ankle) and Francis Coquelin (hamstring).",
+        "label": "Arsenal will be missing Kieran Gibbs, Per Mertesacker (both knee), Santi Cazorla (ankle) and Francis Coquelin (hamstring)."
+    }
+]

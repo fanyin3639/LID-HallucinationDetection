@@ -1,0 +1,15 @@
+[
+    [
+        2274,
+        [],
+        "24km/h"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: She also had six masts (said to be named after the days of a week \u2013 Monday being the fore mast and Saturday the spanker mast), providing space for 1,686 square metres (18,150sqft) of sails (7 gaff and max. 9 (usually 4) square sails), rigged similar to a topsail schooner with a main gaff sail (fore-and-aft sail) on each mast, one \"jib\" on the fore mast and three square sails on masts no. 2 and no. 3 (Tuesday & Wednesday); for a time mast no. 4 was also fitted with three yards. In later years, some of the yards were removed. According to some sources she would have carried 5,435 square metres (58,500sqft). This amount of canvas is obviously too much for seven fore-and-aft sails and max. 9 square sails. This (larger) figure of sail area lies only a few square metres below that the famous Flying P-Liner Preu\u00dfen carried \u2013 with her five full-rigged masts of 30 square sails and a lot of stay sails. Setting sails turned out to be unusable at the same time as the paddles and screw were under steam, because the hot exhaust from the five (later four) funnels would set them on fire. Her maximum speed was 24km/h (13 knots). Question: How fast could the SS Great Eastern go? Answer:",
+    {
+        "id": "english--4565167876475429671-15",
+        "lang": "english",
+        "summary": "She also had six masts (said to be named after the days of a week \u2013 Monday being the fore mast and Saturday the spanker mast), providing space for 1,686 square metres (18,150sqft) of sails (7 gaff and max. 9 (usually 4) square sails), rigged similar to a topsail schooner with a main gaff sail (fore-and-aft sail) on each mast, one \"jib\" on the fore mast and three square sails on masts no. 2 and no. 3 (Tuesday & Wednesday); for a time mast no. 4 was also fitted with three yards. In later years, some of the yards were removed. According to some sources she would have carried 5,435 square metres (58,500sqft). This amount of canvas is obviously too much for seven fore-and-aft sails and max. 9 square sails. This (larger) figure of sail area lies only a few square metres below that the famous Flying P-Liner Preu\u00dfen carried \u2013 with her five full-rigged masts of 30 square sails and a lot of stay sails. Setting sails turned out to be unusable at the same time as the paddles and screw were under steam, because the hot exhaust from the five (later four) funnels would set them on fire. Her maximum speed was 24km/h (13 knots).",
+        "question": "How fast could the SS Great Eastern go?",
+        "label": "24km/h"
+    }
+]

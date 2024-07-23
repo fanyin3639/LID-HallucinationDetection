@@ -1,0 +1,14 @@
+[
+    [
+        312,
+        [],
+        "A man has appeared in court charged with trying to disrupt the Commonwealth Games Queen's Baton Relay."
+    ],
+    "Write a short summary for the following passage:\nSean Clerkin, 53, is alleged to have run on to Darnley Road, Barrhead, East Renfrewshire, on Wednesday in a bid to disrupt the baton's progress.\nAt Paisley Sheriff Court, he denied the charge. Mr Clerkin was released on bail pending a trial date next year.\nAs a condition of bail, he is not allowed near the Baton Relay or any event zone during the Games.\nSummary:\n",
+    {
+        "id": 312,
+        "document": "Sean Clerkin, 53, is alleged to have run on to Darnley Road, Barrhead, East Renfrewshire, on Wednesday in a bid to disrupt the baton's progress.\nAt Paisley Sheriff Court, he denied the charge. Mr Clerkin was released on bail pending a trial date next year.\nAs a condition of bail, he is not allowed near the Baton Relay or any event zone during the Games.",
+        "summary": "A man has appeared in court charged with trying to disrupt the Commonwealth Games Queen's Baton Relay.",
+        "label": "A man has appeared in court charged with trying to disrupt the Commonwealth Games Queen's Baton Relay."
+    }
+]

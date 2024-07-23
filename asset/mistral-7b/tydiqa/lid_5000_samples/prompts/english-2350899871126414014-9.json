@@ -1,0 +1,15 @@
+[
+    [
+        2111,
+        [],
+        "17 miles (27km)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: He made his next report to the Trustees on 23 April 1792. He estimated that \u00a312,762 would be required to finish the work, of which \u00a36,600 would be needed for the remaining 12 locks, which he thought could be built for \u00a3550 each. He then inspected the lower river, and agreed that Jessop's original site for the junction between the navigation and the River Orwell was the best available. He suggested that the timber locks should be rebuilt, once the navigation began to make a profit, and recommended that another Act of Parliament should be obtained, to raise more money.[12] The Act was obtained on 28 March 1793, which authorised the Trustees to borrow an extra \u00a315,000, as the original capital had all been spent.[5] The final cost of construction was \u00a326,263, which was nearly double the original estimate.[3] The waterway was just under 17 miles (27km) long from Ipswich to Stowmarket, rising 90 feet (27m) through 15 locks of broad construction each 55 by 14 feet (16.8 by 4.3m), suitable for barges with a draught of 3feet 4inches (1.02m).[13] It was opened throughout on 14 September 1793.[12] Question: How long is the River Gipping? Answer:",
+    {
+        "id": "english-2350899871126414014-9",
+        "lang": "english",
+        "summary": "He made his next report to the Trustees on 23 April 1792. He estimated that \u00a312,762 would be required to finish the work, of which \u00a36,600 would be needed for the remaining 12 locks, which he thought could be built for \u00a3550 each. He then inspected the lower river, and agreed that Jessop's original site for the junction between the navigation and the River Orwell was the best available. He suggested that the timber locks should be rebuilt, once the navigation began to make a profit, and recommended that another Act of Parliament should be obtained, to raise more money.[12] The Act was obtained on 28 March 1793, which authorised the Trustees to borrow an extra \u00a315,000, as the original capital had all been spent.[5] The final cost of construction was \u00a326,263, which was nearly double the original estimate.[3] The waterway was just under 17 miles (27km) long from Ipswich to Stowmarket, rising 90 feet (27m) through 15 locks of broad construction each 55 by 14 feet (16.8 by 4.3m), suitable for barges with a draught of 3feet 4inches (1.02m).[13] It was opened throughout on 14 September 1793.[12]",
+        "question": "How long is the River Gipping?",
+        "label": "17 miles (27km)"
+    }
+]

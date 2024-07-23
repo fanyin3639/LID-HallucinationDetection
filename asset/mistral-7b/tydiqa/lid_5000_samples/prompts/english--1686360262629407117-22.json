@@ -1,0 +1,15 @@
+[
+    [
+        97,
+        [],
+        "about 500 pages"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Super Editions are stand alone books in the Warriors series that are approximately double the length of a normal Warriors book, about 500 pages long. Question: How long is the Warrior series? Answer:",
+    {
+        "id": "english--1686360262629407117-22",
+        "lang": "english",
+        "summary": "Super Editions are stand alone books in the Warriors series that are approximately double the length of a normal Warriors book, about 500 pages long.",
+        "question": "How long is the Warrior series?",
+        "label": "about 500 pages"
+    }
+]

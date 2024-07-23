@@ -1,0 +1,15 @@
+[
+    [
+        2764,
+        [],
+        "Chief of the Defence Staff"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Commander-in-Chief of the Canadian Armed Forces is the reigning Canadian monarch, QueenElizabeth II,[19] who is represented by the Governor General of Canada.[20][21] The Canadian Armed Forces is led by the Chief of the Defence Staff, who is advised and assisted by the Armed Forces Council. Question: Who leads the Canadian Forces? Answer:",
+    {
+        "id": "english-7929035127745631601-2",
+        "lang": "english",
+        "summary": "The Commander-in-Chief of the Canadian Armed Forces is the reigning Canadian monarch, QueenElizabeth II,[19] who is represented by the Governor General of Canada.[20][21] The Canadian Armed Forces is led by the Chief of the Defence Staff, who is advised and assisted by the Armed Forces Council.",
+        "question": "Who leads the Canadian Forces?",
+        "label": "Chief of the Defence Staff"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2432,
+        [],
+        "1912"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Progressive Party was a third party in the United States formed in 1912 by former President Theodore Roosevelt after he lost the presidential nomination of the Republican Party to his former prot\u00e9g\u00e9, incumbent President William Howard Taft. The new party was known for taking advanced positions on progressive reforms and attracting some leading reformers. After the party's defeat in the 1912 presidential election, it went into rapid decline, disappearing by 1918. The Progressive Party was popularly nicknamed the \"Bull Moose Party\" since Roosevelt often said that he felt \"strong as a bull moose\" both before and after an assassination attempt on the campaign trail.[1] Question: When was the Bull Party founded? Answer:",
+    {
+        "id": "english--405458586826518422-2",
+        "lang": "english",
+        "summary": "The Progressive Party was a third party in the United States formed in 1912 by former President Theodore Roosevelt after he lost the presidential nomination of the Republican Party to his former prot\u00e9g\u00e9, incumbent President William Howard Taft. The new party was known for taking advanced positions on progressive reforms and attracting some leading reformers. After the party's defeat in the 1912 presidential election, it went into rapid decline, disappearing by 1918. The Progressive Party was popularly nicknamed the \"Bull Moose Party\" since Roosevelt often said that he felt \"strong as a bull moose\" both before and after an assassination attempt on the campaign trail.[1]",
+        "question": "When was the Bull Party founded?",
+        "label": "1912"
+    }
+]

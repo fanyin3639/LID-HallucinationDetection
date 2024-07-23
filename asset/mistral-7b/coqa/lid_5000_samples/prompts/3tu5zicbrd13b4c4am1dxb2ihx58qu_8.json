@@ -1,0 +1,19 @@
+[
+    [
+        610,
+        [],
+        "Eight"
+    ],
+    "Answer the following questions:\nContext: Pope Benedict XVI (; ; ; born Joseph Aloisius Ratzinger; ; born 16 April 1927) served as Pope from 2005 until his resignation in 2013. Benedict's election occurred in the 2005 papal conclave that followed the death of Pope John Paul II. Since his resignation, Benedict holds the title Pope Emeritus. \n\nOrdained as a priest in 1951 in his native Bavaria, Ratzinger established himself as a highly regarded university theologian by the late 1950s and was appointed a full professor in 1958. After a long career as an academic and professor of theology at several German universities, he was appointed Archbishop of Munich and Freising and Cardinal by Pope Paul VI in 1977, an unusual promotion for someone with little pastoral experience. In 1981, he was appointed Prefect of the Congregation for the Doctrine of the Faith, one of the most important dicasteries of the Roman Curia. From 2002 until his election as Pope, he was also Dean of the College of Cardinals. Prior to becoming Pope, he was \"a major figure on the Vatican stage for a quarter of a century\"; he had an influence \"second to none when it came to setting church priorities and directions\" as one of John Paul II's closest confidants.\n'Question': How many years did he serve as pope?\n'Answer: '",
+    {
+        "id": "3tu5zicbrd13b4c4am1dxb2ihx58qu_8",
+        "summary": "Pope Benedict XVI (; ; ; born Joseph Aloisius Ratzinger; ; born 16 April 1927) served as Pope from 2005 until his resignation in 2013. Benedict's election occurred in the 2005 papal conclave that followed the death of Pope John Paul II. Since his resignation, Benedict holds the title Pope Emeritus. \n\nOrdained as a priest in 1951 in his native Bavaria, Ratzinger established himself as a highly regarded university theologian by the late 1950s and was appointed a full professor in 1958. After a long career as an academic and professor of theology at several German universities, he was appointed Archbishop of Munich and Freising and Cardinal by Pope Paul VI in 1977, an unusual promotion for someone with little pastoral experience. In 1981, he was appointed Prefect of the Congregation for the Doctrine of the Faith, one of the most important dicasteries of the Roman Curia. From 2002 until his election as Pope, he was also Dean of the College of Cardinals. Prior to becoming Pope, he was \"a major figure on the Vatican stage for a quarter of a century\"; he had an influence \"second to none when it came to setting church priorities and directions\" as one of John Paul II's closest confidants.",
+        "question": "How many years did he serve as pope?",
+        "label": "Eight",
+        "additional_answers": [
+            "Eight",
+            "Eight",
+            "Eight"
+        ]
+    }
+]

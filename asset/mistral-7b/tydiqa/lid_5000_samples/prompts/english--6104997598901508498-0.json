@@ -1,0 +1,15 @@
+[
+    [
+        1547,
+        [],
+        "1908"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Field hockey, was introduced at the Olympic Games as a men's competition at the 1908 Games in London, with six teams, including four from the United Kingdom of Great Britain and Ireland. Question: When was field hockey made an Olympic sport? Answer:",
+    {
+        "id": "english--6104997598901508498-0",
+        "lang": "english",
+        "summary": "Field hockey, was introduced at the Olympic Games as a men's competition at the 1908 Games in London, with six teams, including four from the United Kingdom of Great Britain and Ireland.",
+        "question": "When was field hockey made an Olympic sport?",
+        "label": "1908"
+    }
+]

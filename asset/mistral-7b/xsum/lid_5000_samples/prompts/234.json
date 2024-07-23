@@ -1,0 +1,14 @@
+[
+    [
+        234,
+        [],
+        "More than 200 cadets and military personnel have marched in a recreation of the first detachment of Guernsey volunteers during World War One."
+    ],
+    "Write a short summary for the following passage:\nOn 4 March, 1915, 246 volunteers from the island's militia marched from the barracks at Les Beaucamps to St Peter Port Harbour.\nAbout 15,000 islanders, a third of the population, waved them off as they left to join the Royal Irish Regiment.\nEarlier, hundreds of people lined the streets as they marched to the harbour.\nBailiff Sir Richard Collas said: \"This parade offers a poignant reminder that many of the island's young men marched away to defend their country in 1915.\"\nThe parade left Les Beaucamps High School, the former site of the militia barracks, at 09:15 GMT and followed the route taken 100 years earlier - arriving at the harbour at about 10:30.\nThree personnel from the Irish Defence Force and a small contingent from the Guernsey Military History Company were also involved in the march.\nUp to 800 Guernsey volunteers served with Irish regiments during World War One.\nSummary:\n",
+    {
+        "id": 234,
+        "document": "On 4 March, 1915, 246 volunteers from the island's militia marched from the barracks at Les Beaucamps to St Peter Port Harbour.\nAbout 15,000 islanders, a third of the population, waved them off as they left to join the Royal Irish Regiment.\nEarlier, hundreds of people lined the streets as they marched to the harbour.\nBailiff Sir Richard Collas said: \"This parade offers a poignant reminder that many of the island's young men marched away to defend their country in 1915.\"\nThe parade left Les Beaucamps High School, the former site of the militia barracks, at 09:15 GMT and followed the route taken 100 years earlier - arriving at the harbour at about 10:30.\nThree personnel from the Irish Defence Force and a small contingent from the Guernsey Military History Company were also involved in the march.\nUp to 800 Guernsey volunteers served with Irish regiments during World War One.",
+        "summary": "More than 200 cadets and military personnel have marched in a recreation of the first detachment of Guernsey volunteers during World War One.",
+        "label": "More than 200 cadets and military personnel have marched in a recreation of the first detachment of Guernsey volunteers during World War One."
+    }
+]

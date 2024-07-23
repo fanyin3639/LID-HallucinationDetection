@@ -1,0 +1,15 @@
+[
+    [
+        1662,
+        [],
+        "chicle"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Chewing gum in many forms has existed since the Neolithic period. 6,000-year-old chewing gum made from birch bark tar, with tooth imprints, has been found in Kierikki in Finland. The tar from which the gums were made is believed to have antiseptic properties and other medicinal benefits.[4] It is chemically similar to petroleum tar and is in this way different from most other early gum.[5][6] The Mayans and Aztecs were the first to exploit the positive properties of gum,[7] they used chicle, a natural tree gum, as a base for making a gum-like substance[8] and to stick objects together in everyday use. Forms of chewing gums were also chewed in Ancient Greece. The Ancient Greeks chewed mastic gum, made from the resin of the mastic tree.[9] Mastic gum, like birch bark tar, has antiseptic properties and is believed to have been used to maintain oral health.[10] Both chicle and mastic are tree resins. Many other cultures have chewed gum-like substances made from plants, grasses, and resins. Question: What did chewing gum used to be made out of? Answer:",
+    {
+        "id": "english-219705392169706929-2",
+        "lang": "english",
+        "summary": "Chewing gum in many forms has existed since the Neolithic period. 6,000-year-old chewing gum made from birch bark tar, with tooth imprints, has been found in Kierikki in Finland. The tar from which the gums were made is believed to have antiseptic properties and other medicinal benefits.[4] It is chemically similar to petroleum tar and is in this way different from most other early gum.[5][6] The Mayans and Aztecs were the first to exploit the positive properties of gum,[7] they used chicle, a natural tree gum, as a base for making a gum-like substance[8] and to stick objects together in everyday use. Forms of chewing gums were also chewed in Ancient Greece. The Ancient Greeks chewed mastic gum, made from the resin of the mastic tree.[9] Mastic gum, like birch bark tar, has antiseptic properties and is believed to have been used to maintain oral health.[10] Both chicle and mastic are tree resins. Many other cultures have chewed gum-like substances made from plants, grasses, and resins.",
+        "question": "What did chewing gum used to be made out of?",
+        "label": "chicle"
+    }
+]

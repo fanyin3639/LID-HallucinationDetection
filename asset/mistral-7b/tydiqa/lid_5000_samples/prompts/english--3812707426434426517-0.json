@@ -1,0 +1,15 @@
+[
+    [
+        495,
+        [],
+        "Surrey, England"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Baryonyx (/\u02ccb\u00e6ri\u02c8\u0252n\u026aks/) is a genus of theropod dinosaur which lived in the Barremian stage of the Early Cretaceous Period, about 130\u2013125 million years ago. The first skeleton was discovered in 1983 in the Weald Clay Formation of Surrey, England, and became the holotype specimen of B. walkeri, named by palaeontologists Alan J. Charig and Angela C. Milner in 1986. The generic name, Baryonyx, means \"heavy claw\" and alludes to the animal's very large claw on the first finger; the specific name, walkeri, refers to its discoverer, amateur fossil collector William J. Walker. The holotype specimen is one of the most complete theropod skeletons from the UK (and remains the most complete spinosaurid), and its discovery attracted media attention. Specimens later discovered in other parts of the United Kingdom and Iberia have also been assigned to the genus.  Question: Where were the first Baryonyx fossils found? Answer:",
+    {
+        "id": "english--3812707426434426517-0",
+        "lang": "english",
+        "summary": "Baryonyx (/\u02ccb\u00e6ri\u02c8\u0252n\u026aks/) is a genus of theropod dinosaur which lived in the Barremian stage of the Early Cretaceous Period, about 130\u2013125 million years ago. The first skeleton was discovered in 1983 in the Weald Clay Formation of Surrey, England, and became the holotype specimen of B. walkeri, named by palaeontologists Alan J. Charig and Angela C. Milner in 1986. The generic name, Baryonyx, means \"heavy claw\" and alludes to the animal's very large claw on the first finger; the specific name, walkeri, refers to its discoverer, amateur fossil collector William J. Walker. The holotype specimen is one of the most complete theropod skeletons from the UK (and remains the most complete spinosaurid), and its discovery attracted media attention. Specimens later discovered in other parts of the United Kingdom and Iberia have also been assigned to the genus. ",
+        "question": "Where were the first Baryonyx fossils found?",
+        "label": "Surrey, England"
+    }
+]

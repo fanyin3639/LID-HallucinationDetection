@@ -1,0 +1,15 @@
+[
+    [
+        964,
+        [],
+        "optical instruments that make distant objects appear magnified by using an arrangement of lenses or curved mirrors and lenses, or various devices used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Telescopes are optical instruments that make distant objects appear magnified by using an arrangement of lenses or curved mirrors and lenses, or various devices used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation.[1] The first known practical telescopes were refracting telescopes invented in the Netherlands at the beginning of the 17th century, by using glass lenses. They found use in both terrestrial applications and astronomy. Question: What is a telescope? Answer:",
+    {
+        "id": "english--6849717012494819458-0",
+        "lang": "english",
+        "summary": "Telescopes are optical instruments that make distant objects appear magnified by using an arrangement of lenses or curved mirrors and lenses, or various devices used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation.[1] The first known practical telescopes were refracting telescopes invented in the Netherlands at the beginning of the 17th century, by using glass lenses. They found use in both terrestrial applications and astronomy.",
+        "question": "What is a telescope?",
+        "label": "optical instruments that make distant objects appear magnified by using an arrangement of lenses or curved mirrors and lenses, or various devices used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation"
+    }
+]

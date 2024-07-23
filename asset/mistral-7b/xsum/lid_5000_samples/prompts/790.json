@@ -1,0 +1,14 @@
+[
+    [
+        790,
+        [],
+        "Northern Ireland goalkeeper Alan Mannus has signed a one-year contract extension with St Johnstone."
+    ],
+    "Write a short summary for the following passage:\nThe 35-year-old had been linked with Scottish Premiership rivals Motherwell after playing second fiddle to Zander Clark for much of the season.\nBut he regained his place in mid-March and will continue to fight for the number one jersey.\nThe former Linfield player has made 202 appearances for Saints since joining from Shamrock Rovers in 2011.\nMannus made only 18 appearances, having lost his place in August.\nSummary:\n",
+    {
+        "id": 790,
+        "document": "The 35-year-old had been linked with Scottish Premiership rivals Motherwell after playing second fiddle to Zander Clark for much of the season.\nBut he regained his place in mid-March and will continue to fight for the number one jersey.\nThe former Linfield player has made 202 appearances for Saints since joining from Shamrock Rovers in 2011.\nMannus made only 18 appearances, having lost his place in August.",
+        "summary": "Northern Ireland goalkeeper Alan Mannus has signed a one-year contract extension with St Johnstone.",
+        "label": "Northern Ireland goalkeeper Alan Mannus has signed a one-year contract extension with St Johnstone."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        785,
+        [],
+        "It is the largest and most capable navy in the world,[6][7][8] with the highest combined battle fleet tonnage[9][10] and the world's largest aircraft carrier fleet, with eleven in service, and two new carriers under construction. With 319,421 personnel on active duty and 99,616 in the Ready Reserve, the Navy is the third largest of the service branches. It has 282 deployable combat vessels and more than 3,700 operational aircraft as of March2018,[2] making it the second largest and second most powerful air force in the world.[11]"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The United States Navy (USN) is the naval warfare service branch of the United States Armed Forces and one of the seven uniformed services of the United States. It is the largest and most capable navy in the world,[6][7][8] with the highest combined battle fleet tonnage[9][10] and the world's largest aircraft carrier fleet, with eleven in service, and two new carriers under construction. With 319,421 personnel on active duty and 99,616 in the Ready Reserve, the Navy is the third largest of the service branches. It has 282 deployable combat vessels and more than 3,700 operational aircraft as of March2018,[2] making it the second largest and second most powerful air force in the world.[11] Question: How large is the US navy? Answer:",
+    {
+        "id": "english-7146001621026968416-0",
+        "lang": "english",
+        "summary": "The United States Navy (USN) is the naval warfare service branch of the United States Armed Forces and one of the seven uniformed services of the United States. It is the largest and most capable navy in the world,[6][7][8] with the highest combined battle fleet tonnage[9][10] and the world's largest aircraft carrier fleet, with eleven in service, and two new carriers under construction. With 319,421 personnel on active duty and 99,616 in the Ready Reserve, the Navy is the third largest of the service branches. It has 282 deployable combat vessels and more than 3,700 operational aircraft as of March2018,[2] making it the second largest and second most powerful air force in the world.[11]",
+        "question": "How large is the US navy?",
+        "label": "It is the largest and most capable navy in the world,[6][7][8] with the highest combined battle fleet tonnage[9][10] and the world's largest aircraft carrier fleet, with eleven in service, and two new carriers under construction. With 319,421 personnel on active duty and 99,616 in the Ready Reserve, the Navy is the third largest of the service branches. It has 282 deployable combat vessels and more than 3,700 operational aircraft as of March2018,[2] making it the second largest and second most powerful air force in the world.[11]"
+    }
+]

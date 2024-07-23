@@ -1,0 +1,15 @@
+[
+    [
+        1414,
+        [],
+        "Titin"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Titin is the third most abundant protein in muscle (after myosin and actin), and an adult human contains approximately 0.5kg of titin.[8]  With its length of ~27,000 to ~33,000 amino acids (depending on the splice isoform), titin is the largest known protein.[9]   Furthermore, the gene for titin contains the largest number of exons (363) discovered in any single gene,[10] as well as the longest single exon (17,106 bp). Question: What is the longest amino acid? Answer:",
+    {
+        "id": "english-7801269112046250714-2",
+        "lang": "english",
+        "summary": "Titin is the third most abundant protein in muscle (after myosin and actin), and an adult human contains approximately 0.5kg of titin.[8]  With its length of ~27,000 to ~33,000 amino acids (depending on the splice isoform), titin is the largest known protein.[9]   Furthermore, the gene for titin contains the largest number of exons (363) discovered in any single gene,[10] as well as the longest single exon (17,106 bp).",
+        "question": "What is the longest amino acid?",
+        "label": "Titin"
+    }
+]

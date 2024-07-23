@@ -1,0 +1,15 @@
+[
+    [
+        2727,
+        [],
+        "Fridays at 6:50 PM"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On 4 September 2014, official word broke that Verbotene Liebe would return as a weekly series in 2015 as soon as airing on the daily format has stopped.[21] The network ordered 15 episodes and will air the weekly series Fridays at 6:50 PM. The show will introduce a new central character, Mila von Draskow (who has yet to be cast), and still feature members of the Lahnstein family - namely Elisabeth, Ansgar, Sebastian, Tanja, Tristan and Rebecca, original character Charlie Schneider, the Helmke brothers and the younger set around Charlie's nephew Olli who are sharing a flat. Sets like the bistro Schneiders and the bar No Limits will also still be a part of the show. \"There will be a new Verbotene Liebe with more shooting time, more opulent images and a dense plot. And yet the new look will still deliver intrigue, passion and great feelings - like many fans of Verbotene Liebe wished\", said ARD coordinator of access primetime Frank Beckmann about the renewal.[22] Question: When does Verbotene Liebe air? Answer:",
+    {
+        "id": "english--1585063165423550717-24",
+        "lang": "english",
+        "summary": "On 4 September 2014, official word broke that Verbotene Liebe would return as a weekly series in 2015 as soon as airing on the daily format has stopped.[21] The network ordered 15 episodes and will air the weekly series Fridays at 6:50 PM. The show will introduce a new central character, Mila von Draskow (who has yet to be cast), and still feature members of the Lahnstein family - namely Elisabeth, Ansgar, Sebastian, Tanja, Tristan and Rebecca, original character Charlie Schneider, the Helmke brothers and the younger set around Charlie's nephew Olli who are sharing a flat. Sets like the bistro Schneiders and the bar No Limits will also still be a part of the show. \"There will be a new Verbotene Liebe with more shooting time, more opulent images and a dense plot. And yet the new look will still deliver intrigue, passion and great feelings - like many fans of Verbotene Liebe wished\", said ARD coordinator of access primetime Frank Beckmann about the renewal.[22]",
+        "question": "When does Verbotene Liebe air?",
+        "label": "Fridays at 6:50 PM"
+    }
+]

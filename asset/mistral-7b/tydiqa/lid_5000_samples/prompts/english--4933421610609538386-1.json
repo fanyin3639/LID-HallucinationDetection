@@ -1,0 +1,15 @@
+[
+    [
+        2140,
+        [],
+        "Queen Anne"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Kingdom of the Picts just became known as Kingdom of Alba in Gaelic, which later became known in Scots and English as Scotland; the terms are retained in both languages to this day. By the late 11th century at the very latest, Scottish kings were using the term rex Scottorum, or King of Scots, to refer to themselves in Latin. The Kingdom of Scotland was merged with the Kingdom of England to form a single Kingdom of Great Britain in 1707. Thus Queen Anne became the last monarch of the ancient kingdoms of Scotland and England and the first of Great Britain, although the kingdoms had shared a monarch since 1603 (see Union of the Crowns). Her uncle Charles II was the last monarch to be crowned in Scotland, at Scone in 1651. He had a second coronation in England ten years later. Question: Who was the last king of Scotland? Answer:",
+    {
+        "id": "english--4933421610609538386-1",
+        "lang": "english",
+        "summary": "The Kingdom of the Picts just became known as Kingdom of Alba in Gaelic, which later became known in Scots and English as Scotland; the terms are retained in both languages to this day. By the late 11th century at the very latest, Scottish kings were using the term rex Scottorum, or King of Scots, to refer to themselves in Latin. The Kingdom of Scotland was merged with the Kingdom of England to form a single Kingdom of Great Britain in 1707. Thus Queen Anne became the last monarch of the ancient kingdoms of Scotland and England and the first of Great Britain, although the kingdoms had shared a monarch since 1603 (see Union of the Crowns). Her uncle Charles II was the last monarch to be crowned in Scotland, at Scone in 1651. He had a second coronation in England ten years later.",
+        "question": "Who was the last king of Scotland?",
+        "label": "Queen Anne"
+    }
+]

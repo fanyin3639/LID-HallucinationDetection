@@ -1,0 +1,14 @@
+[
+    [
+        1604,
+        [],
+        "The leader of the Labour party, Jeremy Corbyn, said that the Prime Minister Theresa May should resign."
+    ],
+    "Write a short summary for the following passage:\n9 June 2017 Last updated at 08:25 BST\nThat's after her party, the Conservatives, did worse than people expected in the general election.\nJeremy Corbyn made the speech after being voted the MP for Islington North in London.\nSummary:\n",
+    {
+        "id": 1604,
+        "document": "9 June 2017 Last updated at 08:25 BST\nThat's after her party, the Conservatives, did worse than people expected in the general election.\nJeremy Corbyn made the speech after being voted the MP for Islington North in London.",
+        "summary": "The leader of the Labour party, Jeremy Corbyn, said that the Prime Minister Theresa May should resign.",
+        "label": "The leader of the Labour party, Jeremy Corbyn, said that the Prime Minister Theresa May should resign."
+    }
+]

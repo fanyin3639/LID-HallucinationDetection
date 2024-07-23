@@ -1,0 +1,15 @@
+[
+    [
+        569,
+        [],
+        "July 4, 1946"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On July 5, 1946, representatives of the United States of America and of the Republic of the Philippines signed a Treaty of General Relations between the two governments. The treaty provided for the recognition of the independence of the Republic of the Philippines as of July 4, 1946, and the relinquishment of American sovereignty over the Philippine Islands.[1] Question: When did the Philippines win independence? Answer:",
+    {
+        "id": "english-3354087893149895852-2",
+        "lang": "english",
+        "summary": "On July 5, 1946, representatives of the United States of America and of the Republic of the Philippines signed a Treaty of General Relations between the two governments. The treaty provided for the recognition of the independence of the Republic of the Philippines as of July 4, 1946, and the relinquishment of American sovereignty over the Philippine Islands.[1]",
+        "question": "When did the Philippines win independence?",
+        "label": "July 4, 1946"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        462,
+        [],
+        "Poland never formally surrendered"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On 17 September, the Soviet Red Army invaded Eastern Poland, the territory that fell into the Soviet \"sphere of influence\" according to the secret protocol of the Molotov\u2013Ribbentrop Pact; this rendered the Polish plan of defence obsolete.[16] Facing a second front, the Polish government concluded the defence of the Romanian Bridgehead was no longer feasible and ordered an emergency evacuation of all troops to neutral Romania.[17] On 6 October, following the Polish defeat at the Battle of Kock, German and Soviet forces gained full control over Poland. The success of the invasion marked the end of the Second Polish Republic, though Poland never formally surrendered. Question: What day did Poland surrender to the Nazis? Answer:",
+    {
+        "id": "english--1086588478053773954-2",
+        "lang": "english",
+        "summary": "On 17 September, the Soviet Red Army invaded Eastern Poland, the territory that fell into the Soviet \"sphere of influence\" according to the secret protocol of the Molotov\u2013Ribbentrop Pact; this rendered the Polish plan of defence obsolete.[16] Facing a second front, the Polish government concluded the defence of the Romanian Bridgehead was no longer feasible and ordered an emergency evacuation of all troops to neutral Romania.[17] On 6 October, following the Polish defeat at the Battle of Kock, German and Soviet forces gained full control over Poland. The success of the invasion marked the end of the Second Polish Republic, though Poland never formally surrendered.",
+        "question": "What day did Poland surrender to the Nazis?",
+        "label": "Poland never formally surrendered"
+    }
+]

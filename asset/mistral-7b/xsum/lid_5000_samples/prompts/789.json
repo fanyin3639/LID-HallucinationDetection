@@ -1,0 +1,14 @@
+[
+    [
+        789,
+        [],
+        "A 22-year-old was seriously injured after being stabbed outside a bar in Glasgow."
+    ],
+    "Write a short summary for the following passage:\nPolice were called following reports of a disturbance outside the Hazelwood Bar in Nitshill Road at about 19:20 on Friday.\nEmergency services attended and the victim was taken to the Queen Elizabeth University Hospital for treatment. He has since been released.\nPolice inquiries into the incident are continuing.\nSummary:\n",
+    {
+        "id": 789,
+        "document": "Police were called following reports of a disturbance outside the Hazelwood Bar in Nitshill Road at about 19:20 on Friday.\nEmergency services attended and the victim was taken to the Queen Elizabeth University Hospital for treatment. He has since been released.\nPolice inquiries into the incident are continuing.",
+        "summary": "A 22-year-old was seriously injured after being stabbed outside a bar in Glasgow.",
+        "label": "A 22-year-old was seriously injured after being stabbed outside a bar in Glasgow."
+    }
+]

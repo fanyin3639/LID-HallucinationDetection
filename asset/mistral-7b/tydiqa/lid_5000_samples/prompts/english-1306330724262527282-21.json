@@ -1,0 +1,15 @@
+[
+    [
+        2005,
+        [],
+        "Nazi Party"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Nazi Party grew significantly during 1921 and 1922, partly through Hitler's oratorical skills, partly through the SA's appeal to unemployed young men, and partly because there was a backlash against socialist and liberal politics in Bavaria as Germany's economic problems deepened and the weakness of the Weimar regime became apparent. The party recruited former World WarI soldiers, to whom Hitler as a decorated frontline veteran could particularly appeal, as well as small businessmen and disaffected former members of rival parties. Nazi rallies were often held in beer halls, where downtrodden men could get free beer. The Hitler Youth was formed for the children of party members. The party also formed groups in other parts of Germany. Julius Streicher in Nuremberg was an early recruit and became editor of the racist magazine Der St\u00fcrmer. In December 1920, the Nazi Party had acquired a newspaper, the V\u00f6lkischer Beobachter, of which its leading ideologist Alfred Rosenberg became editor. Others to join the party around this time were Heinrich Himmler and World War I flying ace Hermann G\u00f6ring. Question: What political party did Hitler belong to? Answer:",
+    {
+        "id": "english-1306330724262527282-21",
+        "lang": "english",
+        "summary": "The Nazi Party grew significantly during 1921 and 1922, partly through Hitler's oratorical skills, partly through the SA's appeal to unemployed young men, and partly because there was a backlash against socialist and liberal politics in Bavaria as Germany's economic problems deepened and the weakness of the Weimar regime became apparent. The party recruited former World WarI soldiers, to whom Hitler as a decorated frontline veteran could particularly appeal, as well as small businessmen and disaffected former members of rival parties. Nazi rallies were often held in beer halls, where downtrodden men could get free beer. The Hitler Youth was formed for the children of party members. The party also formed groups in other parts of Germany. Julius Streicher in Nuremberg was an early recruit and became editor of the racist magazine Der St\u00fcrmer. In December 1920, the Nazi Party had acquired a newspaper, the V\u00f6lkischer Beobachter, of which its leading ideologist Alfred Rosenberg became editor. Others to join the party around this time were Heinrich Himmler and World War I flying ace Hermann G\u00f6ring.",
+        "question": "What political party did Hitler belong to?",
+        "label": "Nazi Party"
+    }
+]

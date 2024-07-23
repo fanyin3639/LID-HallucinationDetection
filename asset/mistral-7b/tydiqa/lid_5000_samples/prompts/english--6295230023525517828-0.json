@@ -1,0 +1,15 @@
+[
+    [
+        2431,
+        [],
+        "4 April 1949"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The North Atlantic Treaty Organization (NATO /\u02c8ne\u026ato\u028a/; French: Organisation du Trait\u00e9 de l'Atlantique Nord; OTAN), also called the North Atlantic Alliance, is an intergovernmental military alliance between 29 North American and European countries. The organization implements the North Atlantic Treaty that was signed on 4 April 1949.[3][4] NATO constitutes a system of collective defence whereby its independent member states agree to mutual defence in response to an attack by any external party. NATO\u2019s Headquarters are located in Haren, Brussels, Belgium, while the headquarters of Allied Command Operations is near Mons, Belgium. Question: When was NATO founded? Answer:",
+    {
+        "id": "english--6295230023525517828-0",
+        "lang": "english",
+        "summary": "The North Atlantic Treaty Organization (NATO /\u02c8ne\u026ato\u028a/; French: Organisation du Trait\u00e9 de l'Atlantique Nord; OTAN), also called the North Atlantic Alliance, is an intergovernmental military alliance between 29 North American and European countries. The organization implements the North Atlantic Treaty that was signed on 4 April 1949.[3][4] NATO constitutes a system of collective defence whereby its independent member states agree to mutual defence in response to an attack by any external party. NATO\u2019s Headquarters are located in Haren, Brussels, Belgium, while the headquarters of Allied Command Operations is near Mons, Belgium.",
+        "question": "When was NATO founded?",
+        "label": "4 April 1949"
+    }
+]

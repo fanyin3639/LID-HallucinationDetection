@@ -1,0 +1,14 @@
+[
+    [
+        557,
+        [],
+        "Four teenagers have been arrested in north London on suspicion of being involved in acid attacks."
+    ],
+    "Write a short summary for the following passage:\nThey were detained on the Andover Estate in Islington in the early hours of the morning having been tracked by a police helicopter.\nPolice said they had dumped a stolen moped and other items before entering an address where they were arrested.\nOfficers said they were not detained in connection with a specific incident.\nThe number of attacks involving corrosive fluids has risen sharply in the capital in recent years.\nThere were 454 such crimes last year compared to 261 in 2015.\nThe four teenagers were \"not detained on the basis of information connecting them to a specific acid attack\", officers said.\nSummary:\n",
+    {
+        "id": 557,
+        "document": "They were detained on the Andover Estate in Islington in the early hours of the morning having been tracked by a police helicopter.\nPolice said they had dumped a stolen moped and other items before entering an address where they were arrested.\nOfficers said they were not detained in connection with a specific incident.\nThe number of attacks involving corrosive fluids has risen sharply in the capital in recent years.\nThere were 454 such crimes last year compared to 261 in 2015.\nThe four teenagers were \"not detained on the basis of information connecting them to a specific acid attack\", officers said.",
+        "summary": "Four teenagers have been arrested in north London on suspicion of being involved in acid attacks.",
+        "label": "Four teenagers have been arrested in north London on suspicion of being involved in acid attacks."
+    }
+]

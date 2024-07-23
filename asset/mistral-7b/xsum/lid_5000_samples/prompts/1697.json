@@ -1,0 +1,14 @@
+[
+    [
+        1697,
+        [],
+        "Widnes Vikings hooker Lloyd White has signed a two-year contract extension, keeping him at the Super League club until the end of the 2018 season."
+    ],
+    "Write a short summary for the following passage:\nWales captain White, 27, has made 88 appearances for the Vikings, joining the club on their return to the top flight in 2012.\n\"Every year he is getting better and better,\" head coach Denis Betts said.\n\"He's on the cusp of fulfilling his potential. He can be one of the best number nines in Super League.\"\nSummary:\n",
+    {
+        "id": 1697,
+        "document": "Wales captain White, 27, has made 88 appearances for the Vikings, joining the club on their return to the top flight in 2012.\n\"Every year he is getting better and better,\" head coach Denis Betts said.\n\"He's on the cusp of fulfilling his potential. He can be one of the best number nines in Super League.\"",
+        "summary": "Widnes Vikings hooker Lloyd White has signed a two-year contract extension, keeping him at the Super League club until the end of the 2018 season.",
+        "label": "Widnes Vikings hooker Lloyd White has signed a two-year contract extension, keeping him at the Super League club until the end of the 2018 season."
+    }
+]

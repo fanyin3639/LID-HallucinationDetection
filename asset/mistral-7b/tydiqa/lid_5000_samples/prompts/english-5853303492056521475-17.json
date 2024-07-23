@@ -1,0 +1,15 @@
+[
+    [
+        3197,
+        [],
+        "Shoah"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The biblical word Shoah (\u05e9\u05d5\u05d0\u05d4), also spelled Shoa and Sho'ah, meaning \"calamity\" in Hebrew (and also used to refer to \"destruction\" since the Middle Ages), became the standard Hebrew term for the 20th-century Holocaust as early as the early 1940s. In recent literature it is specifically prefixed with Ha (\"The\" in Hebrew) when referring to Nazi mass-murders, for the same reason that \"holocaust\" becomes \"The Holocaust\". It may be spelled Ha-Shoah or HaShoah, as in Yom HaShoah, the annual Jewish \"Holocaust and Heroism Remembrance Day\". Question: What is the holocaust called by Jewish people? Answer:",
+    {
+        "id": "english-5853303492056521475-17",
+        "lang": "english",
+        "summary": "The biblical word Shoah (\u05e9\u05d5\u05d0\u05d4), also spelled Shoa and Sho'ah, meaning \"calamity\" in Hebrew (and also used to refer to \"destruction\" since the Middle Ages), became the standard Hebrew term for the 20th-century Holocaust as early as the early 1940s. In recent literature it is specifically prefixed with Ha (\"The\" in Hebrew) when referring to Nazi mass-murders, for the same reason that \"holocaust\" becomes \"The Holocaust\". It may be spelled Ha-Shoah or HaShoah, as in Yom HaShoah, the annual Jewish \"Holocaust and Heroism Remembrance Day\".",
+        "question": "What is the holocaust called by Jewish people?",
+        "label": "Shoah"
+    }
+]

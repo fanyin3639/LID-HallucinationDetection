@@ -1,0 +1,15 @@
+[
+    [
+        1338,
+        [],
+        "1970"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Portland Trail Blazers are a professional basketball team which joined the Western Conference of the National Basketball Association in 1970. They play at the Moda Center in the Lloyd District of Portland. They are owned by the estate of the late Microsoft co-founder and Vulcan Inc. chairman Paul Allen, who purchased the team in 1988. The team is often referred to as \"Rip City\", which was coined by play-by-play announcer Bill Schonely during their inaugural season. The Trail Blazers have retired several players jerseys, including Naismith Memorial Basketball Hall of Fame members Clyde Drexler and Bill Walton. Jack Ramsay, who was the Trail Blazers head coach from 1976 to 1986, had the number 77 retired in honor of Portland's only NBA Finals victory in 1977. Portland has had four NBA Rookies of the Year; Geoff Petrie (1971), Sidney Wicks (1972), Brandon Roy (2007) and Damian Lillard (2013). The only NBA Most Valuable Player that earned the award as a member of the Trail Blazers was Bill Walton in 1978. Question: When were the Portland Trail Blazers first formed? Answer:",
+    {
+        "id": "english-3183972669306230465-0",
+        "lang": "english",
+        "summary": "The Portland Trail Blazers are a professional basketball team which joined the Western Conference of the National Basketball Association in 1970. They play at the Moda Center in the Lloyd District of Portland. They are owned by the estate of the late Microsoft co-founder and Vulcan Inc. chairman Paul Allen, who purchased the team in 1988. The team is often referred to as \"Rip City\", which was coined by play-by-play announcer Bill Schonely during their inaugural season. The Trail Blazers have retired several players jerseys, including Naismith Memorial Basketball Hall of Fame members Clyde Drexler and Bill Walton. Jack Ramsay, who was the Trail Blazers head coach from 1976 to 1986, had the number 77 retired in honor of Portland's only NBA Finals victory in 1977. Portland has had four NBA Rookies of the Year; Geoff Petrie (1971), Sidney Wicks (1972), Brandon Roy (2007) and Damian Lillard (2013). The only NBA Most Valuable Player that earned the award as a member of the Trail Blazers was Bill Walton in 1978.",
+        "question": "When were the Portland Trail Blazers first formed?",
+        "label": "1970"
+    }
+]

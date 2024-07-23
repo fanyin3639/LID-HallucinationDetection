@@ -1,0 +1,15 @@
+[
+    [
+        1765,
+        [],
+        "mammary glands"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: All the milk-secreting tissue leading to a single lactiferous duct is called a \"simple mammary gland\"; in a \"complex mammary gland\" all the simple mammary glands serve one nipple. Humans normally have two complex mammary glands, one in each breast, and each complex mammary gland consists of 10\u201320 simple glands. The presence of more than two nipples is known as polythelia and the presence of more than two complex mammary glands as polymastia. Question: How many mammary glands do human women have? Answer:",
+    {
+        "id": "english-132523396672631055-2",
+        "lang": "english",
+        "summary": "All the milk-secreting tissue leading to a single lactiferous duct is called a \"simple mammary gland\"; in a \"complex mammary gland\" all the simple mammary glands serve one nipple. Humans normally have two complex mammary glands, one in each breast, and each complex mammary gland consists of 10\u201320 simple glands. The presence of more than two nipples is known as polythelia and the presence of more than two complex mammary glands as polymastia.",
+        "question": "How many mammary glands do human women have?",
+        "label": "mammary glands"
+    }
+]

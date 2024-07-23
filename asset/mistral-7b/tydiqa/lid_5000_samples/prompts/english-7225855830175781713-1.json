@@ -1,0 +1,15 @@
+[
+    [
+        2717,
+        [],
+        "Salton Sea"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In terms of area covered, the largest lake in California is the Salton Sea, a lake formed in 1905 which is now saline.  It occupies 376 square miles (970km2) in the southeast corner of the state, but because it is shallow it only holds about 7.5millionacre\u22c5ft (2.4trillionUSgal; 9.3trillionl) of water.[2] Tulare Lake in the San Joaquin Valley was larger, at approximately 690sqmi (1,800km2), until it was drained during the later years of the nineteenth century. Question: What is the largest lake in California? Answer:",
+    {
+        "id": "english-7225855830175781713-1",
+        "lang": "english",
+        "summary": "In terms of area covered, the largest lake in California is the Salton Sea, a lake formed in 1905 which is now saline.  It occupies 376 square miles (970km2) in the southeast corner of the state, but because it is shallow it only holds about 7.5millionacre\u22c5ft (2.4trillionUSgal; 9.3trillionl) of water.[2] Tulare Lake in the San Joaquin Valley was larger, at approximately 690sqmi (1,800km2), until it was drained during the later years of the nineteenth century.",
+        "question": "What is the largest lake in California?",
+        "label": "Salton Sea"
+    }
+]

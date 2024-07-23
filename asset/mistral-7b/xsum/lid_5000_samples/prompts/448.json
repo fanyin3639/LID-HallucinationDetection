@@ -1,0 +1,14 @@
+[
+    [
+        448,
+        [],
+        "Defender Steven Taylor will leave Newcastle when his contract expires at the end of June."
+    ],
+    "Write a short summary for the following passage:\nThe 30-year-old, who joined the club in 1995 and became a professional in 2003, made 268 appearances for the Magpies.\n\"It will be a huge wrench to leave Newcastle but I've been offered exciting opportunities,\" he said.\nManager Rafael Benitez added: \"His character and personality has always been positive, including during difficult times.\"\nTaylor made his first-team debut on 25 March 2004 against Real Mallorca in the Uefa Cup and his Premier League bow against Bolton three days later.\nAlthough Taylor failed to win an England cap, he was called up to the full squad for the friendly against Germany in August 2007.\nNewcastle have taken up an option to extend defender Kevin Mbabu's contract for two more years.\nThe 21-year-old Swiss left-back, who joined the club from Servette in January 2013, made his debut against Sheffield Wednesday in the Capital One Cup in September.\nSummary:\n",
+    {
+        "id": 448,
+        "document": "The 30-year-old, who joined the club in 1995 and became a professional in 2003, made 268 appearances for the Magpies.\n\"It will be a huge wrench to leave Newcastle but I've been offered exciting opportunities,\" he said.\nManager Rafael Benitez added: \"His character and personality has always been positive, including during difficult times.\"\nTaylor made his first-team debut on 25 March 2004 against Real Mallorca in the Uefa Cup and his Premier League bow against Bolton three days later.\nAlthough Taylor failed to win an England cap, he was called up to the full squad for the friendly against Germany in August 2007.\nNewcastle have taken up an option to extend defender Kevin Mbabu's contract for two more years.\nThe 21-year-old Swiss left-back, who joined the club from Servette in January 2013, made his debut against Sheffield Wednesday in the Capital One Cup in September.",
+        "summary": "Defender Steven Taylor will leave Newcastle when his contract expires at the end of June.",
+        "label": "Defender Steven Taylor will leave Newcastle when his contract expires at the end of June."
+    }
+]

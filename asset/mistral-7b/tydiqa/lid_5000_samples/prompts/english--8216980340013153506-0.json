@@ -1,0 +1,15 @@
+[
+    [
+        2020,
+        [],
+        "1569"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The general sejm (Polish: sejm walny, also translated as the full or ordinary sejm) was the bicameral parliament of the Polish\u2013Lithuanian Commonwealth. It was established by the Union of Lublin in 1569 from the merger of the Sejm of the Kingdom of Poland and the Seimas of Grand Duchy of Lithuania, Ruthenia and Samogitia. It was one of the primary elements of the democratic governance in the Commonwealth (see Golden Liberty). The sejm was a powerful political institution and the king could not pass laws without the approval of that body. Question: When was the Great Sejm of the Polish\u2013Lithuanian Commonwealth established? Answer:",
+    {
+        "id": "english--8216980340013153506-0",
+        "lang": "english",
+        "summary": "The general sejm (Polish: sejm walny, also translated as the full or ordinary sejm) was the bicameral parliament of the Polish\u2013Lithuanian Commonwealth. It was established by the Union of Lublin in 1569 from the merger of the Sejm of the Kingdom of Poland and the Seimas of Grand Duchy of Lithuania, Ruthenia and Samogitia. It was one of the primary elements of the democratic governance in the Commonwealth (see Golden Liberty). The sejm was a powerful political institution and the king could not pass laws without the approval of that body.",
+        "question": "When was the Great Sejm of the Polish\u2013Lithuanian Commonwealth established?",
+        "label": "1569"
+    }
+]

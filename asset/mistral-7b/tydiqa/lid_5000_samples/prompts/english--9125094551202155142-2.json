@@ -1,0 +1,15 @@
+[
+    [
+        1023,
+        [],
+        "November 11, 1975"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Angola is a country in southwestern Africa. The country's name derives from the Kimbundu word for king.. It was first settled by San hunter-gatherer societies before the northern domains came under the rule of Bantu states such as Kongo and Ndongo. From the 15th century, Portuguese colonists began trading, and a settlement was established at Luanda during the 16th century. Portugal annexed territories in the region which were ruled as a colony from 1655, and Angola was incorporated as an overseas province of Portugal in 1951. After the Angolan War of Independence, which ended with an army mutiny and leftist coup in Lisbon, Angola's independence was achieved on November 11, 1975 through the Alvor Agreement. After independence, Angola later entered a period of civil war that lasted up until 2002. Question: When did Angola become an independent country? Answer:",
+    {
+        "id": "english--9125094551202155142-2",
+        "lang": "english",
+        "summary": "Angola is a country in southwestern Africa. The country's name derives from the Kimbundu word for king.. It was first settled by San hunter-gatherer societies before the northern domains came under the rule of Bantu states such as Kongo and Ndongo. From the 15th century, Portuguese colonists began trading, and a settlement was established at Luanda during the 16th century. Portugal annexed territories in the region which were ruled as a colony from 1655, and Angola was incorporated as an overseas province of Portugal in 1951. After the Angolan War of Independence, which ended with an army mutiny and leftist coup in Lisbon, Angola's independence was achieved on November 11, 1975 through the Alvor Agreement. After independence, Angola later entered a period of civil war that lasted up until 2002.",
+        "question": "When did Angola become an independent country?",
+        "label": "November 11, 1975"
+    }
+]

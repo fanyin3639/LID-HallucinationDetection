@@ -1,0 +1,19 @@
+[
+    [
+        1568,
+        [],
+        "8th century"
+    ],
+    "Answer the following questions:\nContext: Szczecin (; ; German and , known also by other alternative names) is the capital and largest city of the West Pomeranian Voivodeship in Poland. Located near the Baltic Sea and the German border, it is a major seaport and Poland's seventh-largest city. As of June 2011, the population was 407,811. \n\nSzczecin is located on the Oder, south of the Szczecin Lagoon and the Bay of Pomerania. The city is situated along the southwestern shore of D\u0105bie Lake, on both sides of the Oder and on several large islands between the western and eastern branches of the river. Szczecin is adjacent to the town of Police and is the urban centre of the Szczecin agglomeration, an extended metropolitan area that includes communities in the German states of Brandenburg and Mecklenburg-Vorpommern. \n\nThe city's recorded history began in the 8th century as a Slavic Pomeranian stronghold, built at the site of the Ducal castle. In the 12th century, when Szczecin had become one of Pomerania's main urban centres, it lost its independence to Piast Poland, the Duchy of Saxony, the Holy Roman Empire and Denmark. At the same time, the House of Griffins established themselves as local rulers, the population was Christianized, and German settlers arrived from Western European states. The native Slavic population was subjected to discrimination and Germanization in the following centuries. Between 1237 and 1243, the town was rebuilt, granted extensive autonomy rights and eventually joined the Hanseatic League.\n'Question': When did it's history begin?\n'Answer: '",
+    {
+        "id": "39rp059mehtvsncjl5e6748ef5kbm6_1",
+        "summary": "Szczecin (; ; German and , known also by other alternative names) is the capital and largest city of the West Pomeranian Voivodeship in Poland. Located near the Baltic Sea and the German border, it is a major seaport and Poland's seventh-largest city. As of June 2011, the population was 407,811. \n\nSzczecin is located on the Oder, south of the Szczecin Lagoon and the Bay of Pomerania. The city is situated along the southwestern shore of D\u0105bie Lake, on both sides of the Oder and on several large islands between the western and eastern branches of the river. Szczecin is adjacent to the town of Police and is the urban centre of the Szczecin agglomeration, an extended metropolitan area that includes communities in the German states of Brandenburg and Mecklenburg-Vorpommern. \n\nThe city's recorded history began in the 8th century as a Slavic Pomeranian stronghold, built at the site of the Ducal castle. In the 12th century, when Szczecin had become one of Pomerania's main urban centres, it lost its independence to Piast Poland, the Duchy of Saxony, the Holy Roman Empire and Denmark. At the same time, the House of Griffins established themselves as local rulers, the population was Christianized, and German settlers arrived from Western European states. The native Slavic population was subjected to discrimination and Germanization in the following centuries. Between 1237 and 1243, the town was rebuilt, granted extensive autonomy rights and eventually joined the Hanseatic League.",
+        "question": "When did it's history begin?",
+        "label": "8th century",
+        "additional_answers": [
+            "In the 8th century",
+            "in the 8th century",
+            "the 8th century"
+        ]
+    }
+]

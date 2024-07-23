@@ -1,0 +1,15 @@
+[
+    [
+        1269,
+        [],
+        "Goodall"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Goodall has composed the main themes and incidental music for several popular UK comedy programmes, including Red Dwarf, Blackadder, Mr. Bean, The Thin Blue Line, The Vicar of Dibley, The Catherine Tate Show, 2point4 Children and QI, on which he has also appeared twice as a panellist. A single Tongue Tied from Red Dwarf reached no. 17 on the UK charts. Question: Who wrote the Blackadder theme song? Answer:",
+    {
+        "id": "english--2820648820822461668-8",
+        "lang": "english",
+        "summary": "Goodall has composed the main themes and incidental music for several popular UK comedy programmes, including Red Dwarf, Blackadder, Mr. Bean, The Thin Blue Line, The Vicar of Dibley, The Catherine Tate Show, 2point4 Children and QI, on which he has also appeared twice as a panellist. A single Tongue Tied from Red Dwarf reached no. 17 on the UK charts.",
+        "question": "Who wrote the Blackadder theme song?",
+        "label": "Goodall"
+    }
+]

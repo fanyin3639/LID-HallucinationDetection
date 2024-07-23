@@ -1,0 +1,15 @@
+[
+    [
+        1001,
+        [],
+        "1993"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Czech National Symphony Orchestra (\u010cNSO) (Czech: \u010cesk\u00fd n\u00e1rodn\u00ed symfonick\u00fd orchestr) is a symphony orchestra in Prague in the Czech Republic.  It was established in 1993 by trumpet player Jan Hasen\u00f6hrl. Libor Pe\u0161ek is the orchestra's chief conductor, having taken over in 2007 from American conductor Paul Freeman who commenced with the orchestra in 1996.[2] Question: When was the National Symphony Orchestra formed? Answer:",
+    {
+        "id": "english--1003299113181929255-0",
+        "lang": "english",
+        "summary": "The Czech National Symphony Orchestra (\u010cNSO) (Czech: \u010cesk\u00fd n\u00e1rodn\u00ed symfonick\u00fd orchestr) is a symphony orchestra in Prague in the Czech Republic.  It was established in 1993 by trumpet player Jan Hasen\u00f6hrl. Libor Pe\u0161ek is the orchestra's chief conductor, having taken over in 2007 from American conductor Paul Freeman who commenced with the orchestra in 1996.[2]",
+        "question": "When was the National Symphony Orchestra formed?",
+        "label": "1993"
+    }
+]

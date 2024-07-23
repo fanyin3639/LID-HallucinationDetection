@@ -1,0 +1,14 @@
+[
+    [
+        1508,
+        [],
+        "Play was held up for around 10 minutes after fans hurled objects following Zlatan Ibrahimovic's controversial goal that earned Paris St-Germain a 1-0 League Cup victory at St Etienne."
+    ],
+    "Write a short summary for the following passage:\nA plastic water bottle was also thrown, while St Etienne coach Christophe Galtier urged supporters to calm down.\nThe controversy occurred in the 72nd minute when striker Ibrahimovic chested the ball over the line.\nSt Etienne argued the ball had not crossed the line but the goal stood.\nIt was enough to send Paris St-Germain into the semi-finals of the League Cup.\nPSG had gone into the game on the back of a 4-2 league defeat by Bastia last Saturday.\nThey have slipped to fourth in Ligue 1 after failing to win their last three league games.\nSummary:\n",
+    {
+        "id": 1508,
+        "document": "A plastic water bottle was also thrown, while St Etienne coach Christophe Galtier urged supporters to calm down.\nThe controversy occurred in the 72nd minute when striker Ibrahimovic chested the ball over the line.\nSt Etienne argued the ball had not crossed the line but the goal stood.\nIt was enough to send Paris St-Germain into the semi-finals of the League Cup.\nPSG had gone into the game on the back of a 4-2 league defeat by Bastia last Saturday.\nThey have slipped to fourth in Ligue 1 after failing to win their last three league games.",
+        "summary": "Play was held up for around 10 minutes after fans hurled objects following Zlatan Ibrahimovic's controversial goal that earned Paris St-Germain a 1-0 League Cup victory at St Etienne.",
+        "label": "Play was held up for around 10 minutes after fans hurled objects following Zlatan Ibrahimovic's controversial goal that earned Paris St-Germain a 1-0 League Cup victory at St Etienne."
+    }
+]

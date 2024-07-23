@@ -1,0 +1,14 @@
+[
+    [
+        857,
+        [],
+        "Oxford United are to end the season-long loan of midfielder Dan Crowley from Arsenal six months early."
+    ],
+    "Write a short summary for the following passage:\nThe 19-year-old has made 11 appearances in all competitions for the League One club, scoring three goals.\nOxford head coach Michael Appleton would not reveal the exact reasons for Crowley's return to his parent club.\nThe England Under-19 international, who also had a spell on loan at Barnsley last season, is yet to make a senior appearance for the Gunners.\nCrowley has been left out of Oxford's squad for their past three games.\n\"I'm certainly not going to lose sleep if Arsenal have got an issue with Oxford United going forward,\" Appleton told BBC Radio Oxford when asked if he would feature again for the club.\n\"The one thing we are, and will always be, is very professional. Nothing and nobody will ever get in the way of what we're trying to do from a team culture and ethos point of view.\"\nSummary:\n",
+    {
+        "id": 857,
+        "document": "The 19-year-old has made 11 appearances in all competitions for the League One club, scoring three goals.\nOxford head coach Michael Appleton would not reveal the exact reasons for Crowley's return to his parent club.\nThe England Under-19 international, who also had a spell on loan at Barnsley last season, is yet to make a senior appearance for the Gunners.\nCrowley has been left out of Oxford's squad for their past three games.\n\"I'm certainly not going to lose sleep if Arsenal have got an issue with Oxford United going forward,\" Appleton told BBC Radio Oxford when asked if he would feature again for the club.\n\"The one thing we are, and will always be, is very professional. Nothing and nobody will ever get in the way of what we're trying to do from a team culture and ethos point of view.\"",
+        "summary": "Oxford United are to end the season-long loan of midfielder Dan Crowley from Arsenal six months early.",
+        "label": "Oxford United are to end the season-long loan of midfielder Dan Crowley from Arsenal six months early."
+    }
+]

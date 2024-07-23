@@ -1,0 +1,15 @@
+[
+    [
+        2726,
+        [],
+        "1946"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Rhineland-Palatinate was established in 1946 after World War II from territory of the historically separate regions of the Free State of Prussia, People's State of Hesse, and Bavaria, by the French military administration in Allied-occupied Germany. Rhineland-Palatinate became part of the Federal Republic of Germany in 1949, and shared the country's only border with the Saar Protectorate until it was returned to German control in 1957. Rhineland-Palatinate has since developed its own identity built on its natural and cultural heritage, including the extensive Palatinate winegrowing region, its picturesque landscapes, and many castles and palaces.[2] Question: When was Rhineland-Palatinate established? Answer:",
+    {
+        "id": "english-3479166514463178210-2",
+        "lang": "english",
+        "summary": "Rhineland-Palatinate was established in 1946 after World War II from territory of the historically separate regions of the Free State of Prussia, People's State of Hesse, and Bavaria, by the French military administration in Allied-occupied Germany. Rhineland-Palatinate became part of the Federal Republic of Germany in 1949, and shared the country's only border with the Saar Protectorate until it was returned to German control in 1957. Rhineland-Palatinate has since developed its own identity built on its natural and cultural heritage, including the extensive Palatinate winegrowing region, its picturesque landscapes, and many castles and palaces.[2]",
+        "question": "When was Rhineland-Palatinate established?",
+        "label": "1946"
+    }
+]

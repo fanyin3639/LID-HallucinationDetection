@@ -1,0 +1,15 @@
+[
+    [
+        695,
+        [],
+        "1983"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Specialty drugs may also be designated as orphan drugs or ultra-orphan drugs under the U. S. Orphan Drug Act of 1983. This was enacted to facilitate development of orphan drugs\u2014drugs for rare diseases such as Huntington's disease, myoclonus, amyotrophic lateral sclerosis, Tourette syndrome and muscular dystrophy which affect small numbers of individuals residing in the United States.[29] Question: What year were specialty drugs designated? Answer:",
+    {
+        "id": "english-6623351084278363841-16",
+        "lang": "english",
+        "summary": "Specialty drugs may also be designated as orphan drugs or ultra-orphan drugs under the U. S. Orphan Drug Act of 1983. This was enacted to facilitate development of orphan drugs\u2014drugs for rare diseases such as Huntington's disease, myoclonus, amyotrophic lateral sclerosis, Tourette syndrome and muscular dystrophy which affect small numbers of individuals residing in the United States.[29]",
+        "question": "What year were specialty drugs designated?",
+        "label": "1983"
+    }
+]

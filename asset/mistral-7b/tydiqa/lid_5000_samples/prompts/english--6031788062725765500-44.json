@@ -1,0 +1,15 @@
+[
+    [
+        2266,
+        [],
+        "psychotropic"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A form of psychotherapy called \"cognitive behavioral therapy\" (CBT) and psychotropic medications are first-line treatments for OCD.[1][77] Other forms of psychotherapy, such as psychodynamic and psychoanalysis may help in managing some aspects of the disorder, but in 2007 the American Psychiatric Association (APA) noted a lack of controlled studies showing their effectiveness \"in dealing with the core symptoms of OCD\".[78] The fact that many individuals do not seek treatment may be due in part to stigma associated with OCD. Question: What types of medications treats OCD? Answer:",
+    {
+        "id": "english--6031788062725765500-44",
+        "lang": "english",
+        "summary": "A form of psychotherapy called \"cognitive behavioral therapy\" (CBT) and psychotropic medications are first-line treatments for OCD.[1][77] Other forms of psychotherapy, such as psychodynamic and psychoanalysis may help in managing some aspects of the disorder, but in 2007 the American Psychiatric Association (APA) noted a lack of controlled studies showing their effectiveness \"in dealing with the core symptoms of OCD\".[78] The fact that many individuals do not seek treatment may be due in part to stigma associated with OCD.",
+        "question": "What types of medications treats OCD?",
+        "label": "psychotropic"
+    }
+]

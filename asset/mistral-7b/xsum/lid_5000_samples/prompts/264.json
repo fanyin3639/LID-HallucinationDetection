@@ -1,0 +1,14 @@
+[
+    [
+        264,
+        [],
+        "Swansea City have confirmed they have had an enquiry from Dubai club Al Ahli to sign striker Bafetimbi Gomis."
+    ],
+    "Write a short summary for the following passage:\nBut the Premier League club rejected the move for last season's top scorer.\nManager Garry Monk insisted the France international \"is a Swansea City player\" and \"I'm not thinking about him leaving\".\n\"Bafe is focused on doing a good job,\" Monk told reporters. \"We had the same thing in January but he ended up finishing the season well.\"\nGomis was wanted by Emirates side Al Ahli ahead of their AFC Champions League quarter-final next month but they have instead signed Brazilian striker Lima from Portuguese club Benfica.\n\"That club made contact with us and made an enquiry,\" added Monk.\n\"That's no problem, that happens.\n\"But Bafe is a Swansea City player. We are looking forward to working with him and him hopefully having a productive season.\"\n\"We are looking forward to working with him and him hopefully having a productive season.\"\nThe 12-times capped France international was omitted from Swansea's team against Nottingham Forest on Saturday with a hamstring injury.\nSummary:\n",
+    {
+        "id": 264,
+        "document": "But the Premier League club rejected the move for last season's top scorer.\nManager Garry Monk insisted the France international \"is a Swansea City player\" and \"I'm not thinking about him leaving\".\n\"Bafe is focused on doing a good job,\" Monk told reporters. \"We had the same thing in January but he ended up finishing the season well.\"\nGomis was wanted by Emirates side Al Ahli ahead of their AFC Champions League quarter-final next month but they have instead signed Brazilian striker Lima from Portuguese club Benfica.\n\"That club made contact with us and made an enquiry,\" added Monk.\n\"That's no problem, that happens.\n\"But Bafe is a Swansea City player. We are looking forward to working with him and him hopefully having a productive season.\"\n\"We are looking forward to working with him and him hopefully having a productive season.\"\nThe 12-times capped France international was omitted from Swansea's team against Nottingham Forest on Saturday with a hamstring injury.",
+        "summary": "Swansea City have confirmed they have had an enquiry from Dubai club Al Ahli to sign striker Bafetimbi Gomis.",
+        "label": "Swansea City have confirmed they have had an enquiry from Dubai club Al Ahli to sign striker Bafetimbi Gomis."
+    }
+]

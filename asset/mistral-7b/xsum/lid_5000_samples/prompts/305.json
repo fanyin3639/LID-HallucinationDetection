@@ -1,0 +1,14 @@
+[
+    [
+        305,
+        [],
+        "Portsmouth have signed Swindon Town striker Michael Smith for an undisclosed fee on a two-year contract."
+    ],
+    "Write a short summary for the following passage:\nThe 24-year-old spent three months on loan at the League Two club last term.\nSmith scored four goals in 16 appearances for Paul Cook's side, who failed to gain promotion via the play-offs in 2015-16.\n\"I really enjoyed my time here last season and am over the moon to be a Pompey player again,\" Smith told the club website.\nSmith becomes Cook's fifth summer signing, following the arrivals of Matt Clarke, Danny Rose, Carl Baker and Drew Talbot.\nFind all the latest football transfers on our dedicated page.\nSummary:\n",
+    {
+        "id": 305,
+        "document": "The 24-year-old spent three months on loan at the League Two club last term.\nSmith scored four goals in 16 appearances for Paul Cook's side, who failed to gain promotion via the play-offs in 2015-16.\n\"I really enjoyed my time here last season and am over the moon to be a Pompey player again,\" Smith told the club website.\nSmith becomes Cook's fifth summer signing, following the arrivals of Matt Clarke, Danny Rose, Carl Baker and Drew Talbot.\nFind all the latest football transfers on our dedicated page.",
+        "summary": "Portsmouth have signed Swindon Town striker Michael Smith for an undisclosed fee on a two-year contract.",
+        "label": "Portsmouth have signed Swindon Town striker Michael Smith for an undisclosed fee on a two-year contract."
+    }
+]

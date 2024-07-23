@@ -1,0 +1,19 @@
+[
+    [
+        714,
+        [],
+        "a surgical anesthetic"
+    ],
+    "Answer the following questions:\nContext: Los Angeles (CNN) -- Two years after his death, music legend and celebrity icon Michael Jackson's legacy remains clouded by the debate over how he died and who, if anyone, is to blame. \n\nA Los Angeles coroner ruled that a surgical anesthetic called Propofol killed the then 50-year-old Jackson, in combination with several sedatives found in his blood, on June 25, 2009. \n\nEver since, there have been ongoing efforts -- from awards to statues to new songs -- to keep his memory, and music, alive. Still, much of the talk about one of the world's most celebrated singers has occurred in courtrooms, centered around a host of cases related to his untimely death. \n\nAuthorities claim that his personal doctor, Conrad Murray, administered the fatal dose. He has been charged with involuntary manslaughter in the singer's death. The doctor's defense attorney, Ed Chernoff, contends Jackson was \"a desperate man in many respects\" and gave himself the fatal dose of surgical anesthesia while the doctor was not watching. \n\nOne of Michael's sisters, LaToya Jackson, told CNN's Piers Morgan this week that her brother \"told me that they were going to murder him\" -- identifying \"they\" only as \"the people involved in his life, the people that were controlling him.\" \n\nThe late singer's father, Joe Jackson, also fingered unidentified individuals in an interview with CNN on Saturday. \n\n\"We're striving for justice, because there's more to it than they're claiming,\" said Joe Jackson, who has filed a wrongful death lawsuit against Murray and also said he's still fighting over who controls his son's estate. \"There is somebody else involved.\" \n'Question': What type is it?\n'Answer: '",
+    {
+        "id": "354p56de9k3bo6myslycebloo147sf_3",
+        "summary": "Los Angeles (CNN) -- Two years after his death, music legend and celebrity icon Michael Jackson's legacy remains clouded by the debate over how he died and who, if anyone, is to blame. \n\nA Los Angeles coroner ruled that a surgical anesthetic called Propofol killed the then 50-year-old Jackson, in combination with several sedatives found in his blood, on June 25, 2009. \n\nEver since, there have been ongoing efforts -- from awards to statues to new songs -- to keep his memory, and music, alive. Still, much of the talk about one of the world's most celebrated singers has occurred in courtrooms, centered around a host of cases related to his untimely death. \n\nAuthorities claim that his personal doctor, Conrad Murray, administered the fatal dose. He has been charged with involuntary manslaughter in the singer's death. The doctor's defense attorney, Ed Chernoff, contends Jackson was \"a desperate man in many respects\" and gave himself the fatal dose of surgical anesthesia while the doctor was not watching. \n\nOne of Michael's sisters, LaToya Jackson, told CNN's Piers Morgan this week that her brother \"told me that they were going to murder him\" -- identifying \"they\" only as \"the people involved in his life, the people that were controlling him.\" \n\nThe late singer's father, Joe Jackson, also fingered unidentified individuals in an interview with CNN on Saturday. \n\n\"We're striving for justice, because there's more to it than they're claiming,\" said Joe Jackson, who has filed a wrongful death lawsuit against Murray and also said he's still fighting over who controls his son's estate. \"There is somebody else involved.\" ",
+        "question": "What type is it?",
+        "label": "a surgical anesthetic",
+        "additional_answers": [
+            "a surgical anesthetic",
+            "Surgical anesthetic",
+            "a surgical anesthetic"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        645,
+        [],
+        "Battle for Castle Itter"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Battle for Castle Itter was fought in the Austrian North Tyrol village of Itter on 5 May 1945, in the last days of the European Theater of World War II. Question: What was the last siege of WW2? Answer:",
+    {
+        "id": "english-6182184467145438378-0",
+        "lang": "english",
+        "summary": "The Battle for Castle Itter was fought in the Austrian North Tyrol village of Itter on 5 May 1945, in the last days of the European Theater of World War II.",
+        "question": "What was the last siege of WW2?",
+        "label": "Battle for Castle Itter"
+    }
+]

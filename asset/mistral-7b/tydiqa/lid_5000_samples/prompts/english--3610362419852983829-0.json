@@ -1,0 +1,15 @@
+[
+    [
+        1347,
+        [],
+        "works, usually written, of unknown authorship or of doubtful origin"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Apocrypha are works, usually written, of unknown authorship or of doubtful origin.[1] Biblical apocrypha is a set of texts included in the Latin Vulgate and Septuagint but not in the Hebrew Bible. While Catholic tradition considers some of these texts to be deuterocanonical, Protestants consider them apocryphal. Thus, Protestant bibles do not include the books within the Old Testament but have often included them in a separate section. Other non-canonical apocryphal texts are generally called pseudepigrapha, a term that means \"false writings\".[2] Question: What is the Apocryphal? Answer:",
+    {
+        "id": "english--3610362419852983829-0",
+        "lang": "english",
+        "summary": "Apocrypha are works, usually written, of unknown authorship or of doubtful origin.[1] Biblical apocrypha is a set of texts included in the Latin Vulgate and Septuagint but not in the Hebrew Bible. While Catholic tradition considers some of these texts to be deuterocanonical, Protestants consider them apocryphal. Thus, Protestant bibles do not include the books within the Old Testament but have often included them in a separate section. Other non-canonical apocryphal texts are generally called pseudepigrapha, a term that means \"false writings\".[2]",
+        "question": "What is the Apocryphal?",
+        "label": "works, usually written, of unknown authorship or of doubtful origin"
+    }
+]

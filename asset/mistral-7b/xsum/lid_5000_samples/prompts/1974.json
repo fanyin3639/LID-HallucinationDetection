@@ -1,0 +1,14 @@
+[
+    [
+        1974,
+        [],
+        "The Duchess of Cambridge has launched a \u00a310m fundraising drive to build a new children's hospice in Norfolk."
+    ],
+    "Write a short summary for the following passage:\nEast Anglia's Children's Hospices (EACH) - which has the duchess as its royal patron - hopes to build the new facility near Norwich.\nThe planned hospice at Framingham Pigot will replace its existing Norfolk hospice at Quidenham.\nThe Quidenham hospice is 23 years old and one of the oldest in the UK, with restricted facilities.\nPlanning permission for the new hospice was granted in June, but funds need to be raised before building work can begin.\nThe duchess, who arrived at the Royal Norfolk Showground at midday, heard about the importance of the charity from staff and families during her visit.\nGraham Butland, chief executive of EACH, said: \"It's tremendous to have the support of our royal patron as we start on a long journey to raise a significant sum of money.\n\"The increasing complexity of the children that we are dealing with means that we really need a modern hospice in Norfolk for the 21st Century.\"\nThe new hospice will include a hydrotherapy pool and improved accommodation and play areas.\nIt is due to be built on a five-acre (two-hectare) woodland plot south of Norwich.\nEACH runs other hospices in Cambridgeshire and Suffolk as well as offering services in Essex.\nSummary:\n",
+    {
+        "id": 1974,
+        "document": "East Anglia's Children's Hospices (EACH) - which has the duchess as its royal patron - hopes to build the new facility near Norwich.\nThe planned hospice at Framingham Pigot will replace its existing Norfolk hospice at Quidenham.\nThe Quidenham hospice is 23 years old and one of the oldest in the UK, with restricted facilities.\nPlanning permission for the new hospice was granted in June, but funds need to be raised before building work can begin.\nThe duchess, who arrived at the Royal Norfolk Showground at midday, heard about the importance of the charity from staff and families during her visit.\nGraham Butland, chief executive of EACH, said: \"It's tremendous to have the support of our royal patron as we start on a long journey to raise a significant sum of money.\n\"The increasing complexity of the children that we are dealing with means that we really need a modern hospice in Norfolk for the 21st Century.\"\nThe new hospice will include a hydrotherapy pool and improved accommodation and play areas.\nIt is due to be built on a five-acre (two-hectare) woodland plot south of Norwich.\nEACH runs other hospices in Cambridgeshire and Suffolk as well as offering services in Essex.",
+        "summary": "The Duchess of Cambridge has launched a \u00a310m fundraising drive to build a new children's hospice in Norfolk.",
+        "label": "The Duchess of Cambridge has launched a \u00a310m fundraising drive to build a new children's hospice in Norfolk."
+    }
+]

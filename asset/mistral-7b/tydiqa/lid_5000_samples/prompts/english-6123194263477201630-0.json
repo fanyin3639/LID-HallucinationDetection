@@ -1,0 +1,15 @@
+[
+    [
+        324,
+        [],
+        "35,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Bathurst /\u02c8b\u00e6\u03b8\u0259rst/ is a regional city in the Central Tablelands of New South Wales, Australia. It is about 200 kilometres (120mi) north-west of Sydney and is the seat of the Bathurst Regional Council. Bathurst is the oldest inland settlement in Australia[2] and had a population of approximately 35,000 as at the 2016 Census. Question: What is the population of Bathurst? Answer:",
+    {
+        "id": "english-6123194263477201630-0",
+        "lang": "english",
+        "summary": "Bathurst /\u02c8b\u00e6\u03b8\u0259rst/ is a regional city in the Central Tablelands of New South Wales, Australia. It is about 200 kilometres (120mi) north-west of Sydney and is the seat of the Bathurst Regional Council. Bathurst is the oldest inland settlement in Australia[2] and had a population of approximately 35,000 as at the 2016 Census.",
+        "question": "What is the population of Bathurst?",
+        "label": "35,000"
+    }
+]

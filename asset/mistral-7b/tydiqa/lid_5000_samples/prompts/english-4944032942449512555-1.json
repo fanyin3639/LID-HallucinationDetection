@@ -1,0 +1,15 @@
+[
+    [
+        820,
+        [],
+        "1,018,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: As a uniformed military service, the U.S. Army is part of the Department of the Army, which is one of the three military departments of the Department of Defense. The U.S. Army is headed by a civilian senior appointed civil servant, the Secretary of the Army (SECARMY) and by a chief military officer, the Chief of Staff of the Army (CSA) who is also a member of the Joint Chiefs of Staff. It is the largest military branch, and in the fiscal year 2017, the projected end strength for the Regular Army (USA) was 476,000 soldiers; the Army National Guard (ARNG) had 343,000 soldiers and the United States Army Reserve (USAR) had 199,000 soldiers; the combined-component strength of the U.S. Army was 1,018,000 soldiers.[4] As a branch of the armed forces, the mission of the U.S. Army is \"to fight and win our Nation's wars, by providing prompt, sustained, land dominance, across the full range of military operations and the spectrum of conflict, in support of combatant commanders\".[14] The branch participates in conflicts worldwide and is the major ground-based offensive and defensive force of the United States. Question: How many soldiers are in the US Army? Answer:",
+    {
+        "id": "english-4944032942449512555-1",
+        "lang": "english",
+        "summary": "As a uniformed military service, the U.S. Army is part of the Department of the Army, which is one of the three military departments of the Department of Defense. The U.S. Army is headed by a civilian senior appointed civil servant, the Secretary of the Army (SECARMY) and by a chief military officer, the Chief of Staff of the Army (CSA) who is also a member of the Joint Chiefs of Staff. It is the largest military branch, and in the fiscal year 2017, the projected end strength for the Regular Army (USA) was 476,000 soldiers; the Army National Guard (ARNG) had 343,000 soldiers and the United States Army Reserve (USAR) had 199,000 soldiers; the combined-component strength of the U.S. Army was 1,018,000 soldiers.[4] As a branch of the armed forces, the mission of the U.S. Army is \"to fight and win our Nation's wars, by providing prompt, sustained, land dominance, across the full range of military operations and the spectrum of conflict, in support of combatant commanders\".[14] The branch participates in conflicts worldwide and is the major ground-based offensive and defensive force of the United States.",
+        "question": "How many soldiers are in the US Army?",
+        "label": "1,018,000"
+    }
+]

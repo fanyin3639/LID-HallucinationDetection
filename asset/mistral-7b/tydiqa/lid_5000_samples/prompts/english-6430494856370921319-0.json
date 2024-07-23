@@ -1,0 +1,15 @@
+[
+    [
+        1668,
+        [],
+        "George Boole"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: George Boole (/bu\u02d0l/; 2 November 1815\u2013 8 December 1864) was a largely self-taught English mathematician, philosopher and logician, most of whose short career was spent as the first professor of mathematics at Queen's College, Cork in Ireland.  He worked in the fields of differential equations and algebraic logic, and is best known as the author of The Laws of Thought (1854) which contains Boolean algebra. Boolean logic is credited with laying the foundations for the information age.[3] Boole maintained that: Question: Who invented Boolean logic? Answer:",
+    {
+        "id": "english-6430494856370921319-0",
+        "lang": "english",
+        "summary": "George Boole (/bu\u02d0l/; 2 November 1815\u2013 8 December 1864) was a largely self-taught English mathematician, philosopher and logician, most of whose short career was spent as the first professor of mathematics at Queen's College, Cork in Ireland.  He worked in the fields of differential equations and algebraic logic, and is best known as the author of The Laws of Thought (1854) which contains Boolean algebra. Boolean logic is credited with laying the foundations for the information age.[3] Boole maintained that:",
+        "question": "Who invented Boolean logic?",
+        "label": "George Boole"
+    }
+]

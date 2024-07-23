@@ -1,0 +1,15 @@
+[
+    [
+        1532,
+        [],
+        "Maize, wheat, and rice"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Maize, wheat, and rice together accounted for 89% of all cereal production worldwide in 2012, and 43% of all food calories in 2009,[11] while the production of oats and triticale have drastically fallen from their 1960s levels. Question: What are the three most consumed cereal grains? Answer:",
+    {
+        "id": "english-5215074044147384609-17",
+        "lang": "english",
+        "summary": "Maize, wheat, and rice together accounted for 89% of all cereal production worldwide in 2012, and 43% of all food calories in 2009,[11] while the production of oats and triticale have drastically fallen from their 1960s levels.",
+        "question": "What are the three most consumed cereal grains?",
+        "label": "Maize, wheat, and rice"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        879,
+        [],
+        "1933"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Although Fermi's name is most commonly associated with the paradox, he was not the first to ask the question. An earlier implicit mention was by Konstantin Tsiolkovsky in an unpublished manuscript from 1933.[23] He noted \"people deny the presence of intelligent beings on the planets of the universe\" because \"(i) if such beings exist they would have visited Earth, and (ii) if such civilizations existed then they would have given us some sign of their existence.\" This was not a paradox for others, who took this to imply the absence of ETs, but it was for him, since he himself was a strong believer in extraterrestrial life and the possibility of space travel. Therefore, he proposed what is now known as the zoo hypothesis and speculated that mankind is not yet ready for higher beings to contact us.[24] That Tsiolkovsky himself may not have been the first to discover the paradox is suggested by his above-mentioned reference to other people's reasons for denying the existence of extraterrestrial civilizations. Question: When was the Fermi paradox created? Answer:",
+    {
+        "id": "english--4764493465983617847-9",
+        "lang": "english",
+        "summary": "Although Fermi's name is most commonly associated with the paradox, he was not the first to ask the question. An earlier implicit mention was by Konstantin Tsiolkovsky in an unpublished manuscript from 1933.[23] He noted \"people deny the presence of intelligent beings on the planets of the universe\" because \"(i) if such beings exist they would have visited Earth, and (ii) if such civilizations existed then they would have given us some sign of their existence.\" This was not a paradox for others, who took this to imply the absence of ETs, but it was for him, since he himself was a strong believer in extraterrestrial life and the possibility of space travel. Therefore, he proposed what is now known as the zoo hypothesis and speculated that mankind is not yet ready for higher beings to contact us.[24] That Tsiolkovsky himself may not have been the first to discover the paradox is suggested by his above-mentioned reference to other people's reasons for denying the existence of extraterrestrial civilizations.",
+        "question": "When was the Fermi paradox created?",
+        "label": "1933"
+    }
+]

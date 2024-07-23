@@ -1,0 +1,15 @@
+[
+    [
+        2194,
+        [],
+        "1 May 1900"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ignazio Silone (Italian:[i\u0272\u02c8\u0272attsjo si\u02c8lo\u02d0ne]; 1 May 1900 \u2013 22 August 1978) was the pseudonym of Secondino Tranquilli, a political leader, Italian novelist, and short-story writer, world-famous during World War II for his powerful anti-Fascist novels. He was nominated for the Nobel prize for literature ten times.[1][2] Question: When was Ignazio Silone born? Answer:",
+    {
+        "id": "english-2923481247555196573-0",
+        "lang": "english",
+        "summary": "Ignazio Silone (Italian:[i\u0272\u02c8\u0272attsjo si\u02c8lo\u02d0ne]; 1 May 1900 \u2013 22 August 1978) was the pseudonym of Secondino Tranquilli, a political leader, Italian novelist, and short-story writer, world-famous during World War II for his powerful anti-Fascist novels. He was nominated for the Nobel prize for literature ten times.[1][2]",
+        "question": "When was Ignazio Silone born?",
+        "label": "1 May 1900"
+    }
+]

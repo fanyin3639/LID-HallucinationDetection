@@ -1,0 +1,15 @@
+[
+    [
+        3096,
+        [],
+        "Caroll Spinney"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Oscar the Grouch is a character on the television program Sesame Street. He has a green body, no visible nose, and lives in a trash can. His favorite thing is trash, as evidenced by the song \"I Love Trash\", with a running theme being his collection of seemingly useless items.  Although the term \"Grouch\" aptly describes Oscar's misanthropic interaction with the other characters, it also refers to his species. His birthday, as noted by Sesame Workshop, is on June 1. The character is performed by Caroll Spinney, and has been performed by him since the show's first episode. Since 2015, Eric Jacobson has been the understudy for the character. Question: Who was the original voice of Oscar the Grouch on Sesame Street? Answer:",
+    {
+        "id": "english-3761396388930535440-0",
+        "lang": "english",
+        "summary": "Oscar the Grouch is a character on the television program Sesame Street. He has a green body, no visible nose, and lives in a trash can. His favorite thing is trash, as evidenced by the song \"I Love Trash\", with a running theme being his collection of seemingly useless items.  Although the term \"Grouch\" aptly describes Oscar's misanthropic interaction with the other characters, it also refers to his species. His birthday, as noted by Sesame Workshop, is on June 1. The character is performed by Caroll Spinney, and has been performed by him since the show's first episode. Since 2015, Eric Jacobson has been the understudy for the character.",
+        "question": "Who was the original voice of Oscar the Grouch on Sesame Street?",
+        "label": "Caroll Spinney"
+    }
+]

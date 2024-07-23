@@ -1,0 +1,15 @@
+[
+    [
+        2486,
+        [],
+        "Salt Lake City"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Utah State Capitol is the house of government for the U.S. state of Utah. The building houses the chambers and offices of the Utah State Legislature, the offices of the Governor, Lieutenant Governor, Attorney General, the State Auditor and their staffs. The capitol is the main building of the Utah State Capitol Complex, which is located on Capitol Hill, overlooking downtown Salt Lake City. Question: What city is the capitol of Utah? Answer:",
+    {
+        "id": "english--2302816688352067561-0",
+        "lang": "english",
+        "summary": "The Utah State Capitol is the house of government for the U.S. state of Utah. The building houses the chambers and offices of the Utah State Legislature, the offices of the Governor, Lieutenant Governor, Attorney General, the State Auditor and their staffs. The capitol is the main building of the Utah State Capitol Complex, which is located on Capitol Hill, overlooking downtown Salt Lake City.",
+        "question": "What city is the capitol of Utah?",
+        "label": "Salt Lake City"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        1375,
+        [],
+        "play baseball"
+    ],
+    "Answer the following questions:\nContext: Once there was a white horse named Bob, who lived in a house with his best friend. His friend was a cat named Shelly who loved to play baseball. The two of them would go to the park and play baseball with Lucy a lamb who lived next door. \n\nIt was Friday morning and Bob and Shelly were in the park waiting for Lucy. She was late and when she finally showed up she had forgotten the ball. \n\n\"What can we use for a ball?\" Bob asked. They looked around. There were rocks but they were too hard. There could get mud out of the pond but that would be too soft and splat when they hit it with the wooden bat. Finally Bob, being the tallest, saw that in a pile of plants that there were melons growing. \"Let's use a melon,\" Bob said. \"That's stupid,\" said Shelly, the practical one. \"No hear him out,\" said Lucy. \"It might work. \"It'll work,\" said Bob, and he picked a melon and handed it to Shelly. \"You pitch.\" \"This is going to end badly, I'm afraid,\" Shelly said, throwing the melon at Bob who stood over home plate. \"I know what I'm doing,\" Bob said, swinging the bat as hard as he could. When the bat hit the melon it splatted into a million pieces, raining sticky pieces down on Bob and Shelly and Lucy and a wedding party that had been setting up nearby. \"Oops,\" said Bob.\n'Question': to do what?\n'Answer: '",
+    {
+        "id": "3ii4upycoj7fsz8vructj3gjrkwdqq_6",
+        "summary": "Once there was a white horse named Bob, who lived in a house with his best friend. His friend was a cat named Shelly who loved to play baseball. The two of them would go to the park and play baseball with Lucy a lamb who lived next door. \n\nIt was Friday morning and Bob and Shelly were in the park waiting for Lucy. She was late and when she finally showed up she had forgotten the ball. \n\n\"What can we use for a ball?\" Bob asked. They looked around. There were rocks but they were too hard. There could get mud out of the pond but that would be too soft and splat when they hit it with the wooden bat. Finally Bob, being the tallest, saw that in a pile of plants that there were melons growing. \"Let's use a melon,\" Bob said. \"That's stupid,\" said Shelly, the practical one. \"No hear him out,\" said Lucy. \"It might work. \"It'll work,\" said Bob, and he picked a melon and handed it to Shelly. \"You pitch.\" \"This is going to end badly, I'm afraid,\" Shelly said, throwing the melon at Bob who stood over home plate. \"I know what I'm doing,\" Bob said, swinging the bat as hard as he could. When the bat hit the melon it splatted into a million pieces, raining sticky pieces down on Bob and Shelly and Lucy and a wedding party that had been setting up nearby. \"Oops,\" said Bob.",
+        "question": "to do what?",
+        "label": "play baseball",
+        "additional_answers": [
+            "play baseball",
+            "Play baseball",
+            "play baseball"
+        ]
+    }
+]

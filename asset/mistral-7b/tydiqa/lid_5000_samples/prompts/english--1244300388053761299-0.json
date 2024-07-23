@@ -1,0 +1,15 @@
+[
+    [
+        2007,
+        [],
+        "two"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: From 1947 to 1955, Jim Tatum served as the head coach of the Maryland Terrapins football team, which represented the University of Maryland in National Collegiate Athletic Association (NCAA) college football. Maryland hired Tatum to replace Clark Shaughnessy after the 1946 season. Tatum had created both success and controversy during his one season as head coach of the Oklahoma Sooners football team. During his nine-year tenure, Tatum became one of the most successful head football coaches in Maryland history, and the Terrapins compiled two national championships, three conference championships, and five bowl game appearances. His teams compiled a 73\u201315\u20134 record without a single losing season, and as of the end of 2016, he has the highest winning percentage of any Maryland football coach who coached at least seven games.[1] In 1954, the University of Maryland appointed a new president, Dr. Wilson Elkins, who chose to de-emphasize football. Following the 1955 season, Tatum took a pay cut to coach at his alma mater, North Carolina, and he died four years later. Question: How many championships did the Maryland Terrapins win under Jim Tatum? Answer:",
+    {
+        "id": "english--1244300388053761299-0",
+        "lang": "english",
+        "summary": "From 1947 to 1955, Jim Tatum served as the head coach of the Maryland Terrapins football team, which represented the University of Maryland in National Collegiate Athletic Association (NCAA) college football. Maryland hired Tatum to replace Clark Shaughnessy after the 1946 season. Tatum had created both success and controversy during his one season as head coach of the Oklahoma Sooners football team. During his nine-year tenure, Tatum became one of the most successful head football coaches in Maryland history, and the Terrapins compiled two national championships, three conference championships, and five bowl game appearances. His teams compiled a 73\u201315\u20134 record without a single losing season, and as of the end of 2016, he has the highest winning percentage of any Maryland football coach who coached at least seven games.[1] In 1954, the University of Maryland appointed a new president, Dr. Wilson Elkins, who chose to de-emphasize football. Following the 1955 season, Tatum took a pay cut to coach at his alma mater, North Carolina, and he died four years later.",
+        "question": "How many championships did the Maryland Terrapins win under Jim Tatum?",
+        "label": "two"
+    }
+]

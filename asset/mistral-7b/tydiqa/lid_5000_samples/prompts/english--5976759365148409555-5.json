@@ -1,0 +1,15 @@
+[
+    [
+        2441,
+        [],
+        "1885"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1885, Karl Benz developed a petrol or gasoline powered automobile.[2] This is also considered to be the first \"production\" vehicle as Benz made several other identical copies. The automobile was powered by a single cylinder four-stroke engine. Question: When was the first car invented? Answer:",
+    {
+        "id": "english--5976759365148409555-5",
+        "lang": "english",
+        "summary": "In 1885, Karl Benz developed a petrol or gasoline powered automobile.[2] This is also considered to be the first \"production\" vehicle as Benz made several other identical copies. The automobile was powered by a single cylinder four-stroke engine.",
+        "question": "When was the first car invented?",
+        "label": "1885"
+    }
+]

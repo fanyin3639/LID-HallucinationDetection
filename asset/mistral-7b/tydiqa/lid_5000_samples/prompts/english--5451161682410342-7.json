@@ -1,0 +1,15 @@
+[
+    [
+        907,
+        [],
+        "one year"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Fukuda was married and had five children: three sons and two daughters.[3] His eldest son, Yasuo Fukuda, after the sudden resignation of Shinz\u014d Abe, became Prime Minister in September 2007, and remained in that office for one year, making him the first son of a Japanese prime minister to become a prime minister himself.[4] In addition, Prime Minister Junichiro Koizumi began his political career as a secretary to Fukuda, and the two were very close in their political and personal lives from the 1970s onward (Fukuda was the best man at Koizumi's wedding). Question: How long was Takeo Fukuda prime minister of Japan? Answer:",
+    {
+        "id": "english--5451161682410342-7",
+        "lang": "english",
+        "summary": "Fukuda was married and had five children: three sons and two daughters.[3] His eldest son, Yasuo Fukuda, after the sudden resignation of Shinz\u014d Abe, became Prime Minister in September 2007, and remained in that office for one year, making him the first son of a Japanese prime minister to become a prime minister himself.[4] In addition, Prime Minister Junichiro Koizumi began his political career as a secretary to Fukuda, and the two were very close in their political and personal lives from the 1970s onward (Fukuda was the best man at Koizumi's wedding).",
+        "question": "How long was Takeo Fukuda prime minister of Japan?",
+        "label": "one year"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        54,
+        [],
+        "John Brennan."
+    ],
+    "Answer the following questions:\nContext: (CNN) -- President Barack Obama has nominated his top counterterrorism adviser, John Brennan, to be the next director of the CIA. \n\nIf there is an emerging Obama doctrine to deal with the threat from al Qaeda and its allies, it is clearly a rejection of the use of conventional military forces and a growing reliance instead on the use of drones and U.S. Special Operations Forces -- and Brennan has been central to Obama's policy. \n\nIn an April 30 speech at the Woodrow Wilson Center in Washington, Brennan laid out the rationale for the drone policy in more detail than any administration official had done publicly hitherto. He asserted that the drone strikes are legal both under the Authorization for Use of Military Force passed by Congress after the September 11 attacks and because, \"There is nothing in international law that bans the use of remotely piloted aircraft for this purpose or that prohibits us from using lethal force against our enemies outside of an active battlefield, at least when the country involved consents or is unable or unwilling to take action against the threat.\" \n\nThis does not appear to be the view of Ben Emmerson, U.N. special rapporteur on counterterrorism and human rights, who announced plans at Harvard Law School in October to launch an investigation into U.S. drone attacks and the extent to which they cause civilian casualties. \n\nPolitics: Compared to Hagel, reaction to Brennan nomination muted \n\nOne of Brennan's most significant legacies in the four years he has been the president's principal adviser on terrorism is the U.S. drone campaign against al Qaeda and its allies in countries such as Pakistan and Yemen -- one that has shifted focus significantly in the past year or so. \n'Question': Who did Obama nominate?\n'Answer: '",
+    {
+        "id": "3xcc1odxdlb9t9r09v7dosxn7pdqr8_0",
+        "summary": "(CNN) -- President Barack Obama has nominated his top counterterrorism adviser, John Brennan, to be the next director of the CIA. \n\nIf there is an emerging Obama doctrine to deal with the threat from al Qaeda and its allies, it is clearly a rejection of the use of conventional military forces and a growing reliance instead on the use of drones and U.S. Special Operations Forces -- and Brennan has been central to Obama's policy. \n\nIn an April 30 speech at the Woodrow Wilson Center in Washington, Brennan laid out the rationale for the drone policy in more detail than any administration official had done publicly hitherto. He asserted that the drone strikes are legal both under the Authorization for Use of Military Force passed by Congress after the September 11 attacks and because, \"There is nothing in international law that bans the use of remotely piloted aircraft for this purpose or that prohibits us from using lethal force against our enemies outside of an active battlefield, at least when the country involved consents or is unable or unwilling to take action against the threat.\" \n\nThis does not appear to be the view of Ben Emmerson, U.N. special rapporteur on counterterrorism and human rights, who announced plans at Harvard Law School in October to launch an investigation into U.S. drone attacks and the extent to which they cause civilian casualties. \n\nPolitics: Compared to Hagel, reaction to Brennan nomination muted \n\nOne of Brennan's most significant legacies in the four years he has been the president's principal adviser on terrorism is the U.S. drone campaign against al Qaeda and its allies in countries such as Pakistan and Yemen -- one that has shifted focus significantly in the past year or so. ",
+        "question": "Who did Obama nominate?",
+        "label": "John Brennan.",
+        "additional_answers": [
+            "John Brennan",
+            "John Brennan",
+            "John Brennan"
+        ]
+    }
+]

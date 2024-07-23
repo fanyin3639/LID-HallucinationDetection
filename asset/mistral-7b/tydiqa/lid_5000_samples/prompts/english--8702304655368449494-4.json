@@ -1,0 +1,15 @@
+[
+    [
+        3101,
+        [],
+        "Shinz\u014d Abe"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: To date, 62 people have served this position. The current Prime Minister is Shinz\u014d Abe, who re-took office on December 26, 2012. He is the first former Prime Minister to return to office since 1948, and the 5th longest serving Prime Minister to date. Question: Who is the current Prime Minister of Japan? Answer:",
+    {
+        "id": "english--8702304655368449494-4",
+        "lang": "english",
+        "summary": "To date, 62 people have served this position. The current Prime Minister is Shinz\u014d Abe, who re-took office on December 26, 2012. He is the first former Prime Minister to return to office since 1948, and the 5th longest serving Prime Minister to date.",
+        "question": "Who is the current Prime Minister of Japan?",
+        "label": "Shinz\u014d Abe"
+    }
+]

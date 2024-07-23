@@ -1,0 +1,15 @@
+[
+    [
+        2629,
+        [],
+        "1847"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Brigham Young (/\u02c8br\u026a\u0261\u0259m/; June 1, 1801\u2013August 29, 1877)[3] was an American religious leader, politician, and settler. He was the second president of The Church of Jesus Christ of Latter-day Saints (LDS Church) from 1847 until his death in 1877. He founded Salt Lake City and he served as the first governor of the Utah Territory. Young also led the foundings of the precursors to the University of Utah and Brigham Young University. Question: When was president Brigham Young elected? Answer:",
+    {
+        "id": "english--8881513560142294088-0",
+        "lang": "english",
+        "summary": "Brigham Young (/\u02c8br\u026a\u0261\u0259m/; June 1, 1801\u2013August 29, 1877)[3] was an American religious leader, politician, and settler. He was the second president of The Church of Jesus Christ of Latter-day Saints (LDS Church) from 1847 until his death in 1877. He founded Salt Lake City and he served as the first governor of the Utah Territory. Young also led the foundings of the precursors to the University of Utah and Brigham Young University.",
+        "question": "When was president Brigham Young elected?",
+        "label": "1847"
+    }
+]

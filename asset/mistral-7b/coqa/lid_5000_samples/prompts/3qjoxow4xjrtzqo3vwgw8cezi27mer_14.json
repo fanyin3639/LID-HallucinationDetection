@@ -1,0 +1,19 @@
+[
+    [
+        753,
+        [],
+        "7-5 6-1"
+    ],
+    "Answer the following questions:\nContext: (CNN) -- World No. 1 Caroline Wozniacki began her latest bid for a first grand slam title with a 6-2 6-1 win over Anastasia Rodionova on Monday, joining last year's finalists Kim Clijsters and Li Na in the second round of the Australian Open. \n\nTop seed Wozniacki looked in good shape as she wrapped up victory against the Russia-born Australian in 76 minutes, but the Dane admitted she was worried about a wrist injury she suffered during last week's quarterfinal defeat at the Sydney International. \n\n\"I was a bit nervous before the match. I didn't know exactly what to expect. But it feels better,\" the 21-year-old told the WTA Tour website. \"I'm very happy about the way I felt out there today. I got into the rhythm as the match went on tonight.\" \n\nWho will be the 2012 Australian Open victors? \n\nWozniacki will next play Georgia's 83rd-ranked Anna Tatishvili, who beat Australia's Ashleigh Barty 6-2 7-6 (7-4). \n\nFormer No. 1 Clijsters made a strong start to the defense of her crown with a 7-5 6-1 defeat of Portuguese qualifier Maria Joao Koehler. \n\nThe Belgian 11th seed, who will play France's world No. 98 Stephanie Foretz Gacon in the last 64, showed little sign of the hip injury which forced her out of the Brisbane International 10 days ago. \n\n\"I wanted to go out there and I wanted to start playing,\" the 28-year-old told the tournament's official website. \"I've had that ever since we came to Australia. \n\n\"I had a good off-season where we worked obviously to try to be in good shape for Australia, then you want to put that to the test and play those matches again.\" \n'Question': What was the score?\n'Answer: '",
+    {
+        "id": "3qjoxow4xjrtzqo3vwgw8cezi27mer_14",
+        "summary": "(CNN) -- World No. 1 Caroline Wozniacki began her latest bid for a first grand slam title with a 6-2 6-1 win over Anastasia Rodionova on Monday, joining last year's finalists Kim Clijsters and Li Na in the second round of the Australian Open. \n\nTop seed Wozniacki looked in good shape as she wrapped up victory against the Russia-born Australian in 76 minutes, but the Dane admitted she was worried about a wrist injury she suffered during last week's quarterfinal defeat at the Sydney International. \n\n\"I was a bit nervous before the match. I didn't know exactly what to expect. But it feels better,\" the 21-year-old told the WTA Tour website. \"I'm very happy about the way I felt out there today. I got into the rhythm as the match went on tonight.\" \n\nWho will be the 2012 Australian Open victors? \n\nWozniacki will next play Georgia's 83rd-ranked Anna Tatishvili, who beat Australia's Ashleigh Barty 6-2 7-6 (7-4). \n\nFormer No. 1 Clijsters made a strong start to the defense of her crown with a 7-5 6-1 defeat of Portuguese qualifier Maria Joao Koehler. \n\nThe Belgian 11th seed, who will play France's world No. 98 Stephanie Foretz Gacon in the last 64, showed little sign of the hip injury which forced her out of the Brisbane International 10 days ago. \n\n\"I wanted to go out there and I wanted to start playing,\" the 28-year-old told the tournament's official website. \"I've had that ever since we came to Australia. \n\n\"I had a good off-season where we worked obviously to try to be in good shape for Australia, then you want to put that to the test and play those matches again.\" ",
+        "question": "What was the score?",
+        "label": "7-5 6-1",
+        "additional_answers": [
+            "a 7-5 6-1",
+            "7-5 6-1",
+            "7-5 6-1"
+        ]
+    }
+]

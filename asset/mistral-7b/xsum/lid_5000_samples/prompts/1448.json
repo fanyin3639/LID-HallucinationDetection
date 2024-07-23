@@ -1,0 +1,14 @@
+[
+    [
+        1448,
+        [],
+        "A dip in temperatures has seen flurries of April snow falling across parts of Scotland."
+    ],
+    "Write a short summary for the following passage:\nCooler and wintry conditions arrived for the start of the weekend, with temperatures set to struggle to reach 10C on Saturday.\nOvernight snow covered higher ground as well as reaching up to 2-3cm in areas around Aberdeen.\nOn Friday, three of Scotland's five snowsports centres reported having good snow conditions.\nThere were also reports of snow falling in East Kilbride, Midlothian and in Leith in Edinburgh.\nSummary:\n",
+    {
+        "id": 1448,
+        "document": "Cooler and wintry conditions arrived for the start of the weekend, with temperatures set to struggle to reach 10C on Saturday.\nOvernight snow covered higher ground as well as reaching up to 2-3cm in areas around Aberdeen.\nOn Friday, three of Scotland's five snowsports centres reported having good snow conditions.\nThere were also reports of snow falling in East Kilbride, Midlothian and in Leith in Edinburgh.",
+        "summary": "A dip in temperatures has seen flurries of April snow falling across parts of Scotland.",
+        "label": "A dip in temperatures has seen flurries of April snow falling across parts of Scotland."
+    }
+]

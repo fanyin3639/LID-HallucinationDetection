@@ -1,0 +1,15 @@
+[
+    [
+        2503,
+        [],
+        "Mike McCoy"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 2014 San Diego Chargers season was the franchise's 45th season in the National Football League (NFL), the 55th overall, and the second under head coach Mike McCoy. After former Chargers' offensive coordinator, Ken Whisenhunt, was hired by the Tennessee Titans to become their new head coach, the Chargers promoted Frank Reich to replace him. Reich spent last season as the Chargers' quarterback coach. Question: Who was head coach of the San Diego Chargers in the 2014 season? Answer:",
+    {
+        "id": "english-8793823143317429393-0",
+        "lang": "english",
+        "summary": "The 2014 San Diego Chargers season was the franchise's 45th season in the National Football League (NFL), the 55th overall, and the second under head coach Mike McCoy. After former Chargers' offensive coordinator, Ken Whisenhunt, was hired by the Tennessee Titans to become their new head coach, the Chargers promoted Frank Reich to replace him. Reich spent last season as the Chargers' quarterback coach.",
+        "question": "Who was head coach of the San Diego Chargers in the 2014 season?",
+        "label": "Mike McCoy"
+    }
+]

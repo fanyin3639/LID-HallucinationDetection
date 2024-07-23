@@ -1,0 +1,14 @@
+[
+    [
+        1232,
+        [],
+        "The details of a Scottish tour for Sir Edwin Landseer's iconic Monarch of the Glen painting have been revealed."
+    ],
+    "Write a short summary for the following passage:\nThe famous artwork was saved for the nation by the National Galleries of Scotland earlier this year.\nThe tour will see the painting put on public display in Inverness, Perth, Paisley and Kirkcudbright.\nIt will start in Inverness in early October with the work being on view for about seven weeks at each venue across the country.\nSir John Leighton, NGS director-general, said: \"Thanks to the generosity of the National Lottery and the Scottish government we are able to take this fantastic picture across the country to be enjoyed by as many people as possible.\n\"We want this tour of The Monarch of the Glen to be seen as a huge thank you for the overwhelming support that we received during the fundraising campaign and as a celebration that this amazing work of art now belongs to all the people of Scotland.\n\"We hope that it will be admired and debated by wide audiences across the country.\"\nCulture Secretary Fiona Hyslop said the tour would allow people of \"all ages and backgrounds across Scotland\" to see the painting.\n\"I am pleased the Scottish government was able to support both the acquisition of the painting, and its tour,\" she said.\nSummary:\n",
+    {
+        "id": 1232,
+        "document": "The famous artwork was saved for the nation by the National Galleries of Scotland earlier this year.\nThe tour will see the painting put on public display in Inverness, Perth, Paisley and Kirkcudbright.\nIt will start in Inverness in early October with the work being on view for about seven weeks at each venue across the country.\nSir John Leighton, NGS director-general, said: \"Thanks to the generosity of the National Lottery and the Scottish government we are able to take this fantastic picture across the country to be enjoyed by as many people as possible.\n\"We want this tour of The Monarch of the Glen to be seen as a huge thank you for the overwhelming support that we received during the fundraising campaign and as a celebration that this amazing work of art now belongs to all the people of Scotland.\n\"We hope that it will be admired and debated by wide audiences across the country.\"\nCulture Secretary Fiona Hyslop said the tour would allow people of \"all ages and backgrounds across Scotland\" to see the painting.\n\"I am pleased the Scottish government was able to support both the acquisition of the painting, and its tour,\" she said.",
+        "summary": "The details of a Scottish tour for Sir Edwin Landseer's iconic Monarch of the Glen painting have been revealed.",
+        "label": "The details of a Scottish tour for Sir Edwin Landseer's iconic Monarch of the Glen painting have been revealed."
+    }
+]

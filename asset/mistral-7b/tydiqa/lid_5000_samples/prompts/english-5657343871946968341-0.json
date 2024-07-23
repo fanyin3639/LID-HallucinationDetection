@@ -1,0 +1,15 @@
+[
+    [
+        2750,
+        [],
+        "Charles Marlow"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Heart of Darkness (1899) is a novella by Polish-English novelist Joseph Conrad about a narrated voyage up the Congo River into the Congo Free State in the so-called heart of Africa.[1] Charles Marlow, the narrator, tells his story to friends aboard a boat anchored on the River Thames. This setting provides the frame for Marlow's story of his obsession with the ivory trader Kurtz, which enables Conrad to create a parallel between what Conrad calls \"the greatest town on earth\", London, and Africa as places of darkness.[2] Question: Who is the main character of  Heart of Darkness? Answer:",
+    {
+        "id": "english-5657343871946968341-0",
+        "lang": "english",
+        "summary": "Heart of Darkness (1899) is a novella by Polish-English novelist Joseph Conrad about a narrated voyage up the Congo River into the Congo Free State in the so-called heart of Africa.[1] Charles Marlow, the narrator, tells his story to friends aboard a boat anchored on the River Thames. This setting provides the frame for Marlow's story of his obsession with the ivory trader Kurtz, which enables Conrad to create a parallel between what Conrad calls \"the greatest town on earth\", London, and Africa as places of darkness.[2]",
+        "question": "Who is the main character of  Heart of Darkness?",
+        "label": "Charles Marlow"
+    }
+]

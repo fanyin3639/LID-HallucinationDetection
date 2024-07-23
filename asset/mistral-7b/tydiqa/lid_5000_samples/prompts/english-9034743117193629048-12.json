@@ -1,0 +1,15 @@
+[
+    [
+        306,
+        [],
+        "600"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 2005, Centipede Press released a deluxe limited edition of 'Salem's Lot with black and white photographs by Jerry Uelsmann and the two short stories \"Jerusalem's Lot\" and \"One for the Road\", as well as over 50 pages of deleted material. The book was limited to 315 copies, each signed by Stephen King and Jerry Uelsmann. The book was printed on 100# Mohawk Superfine paper, it measured 9 by 13 inches (23cm \u00d733cm), was over 41\u20444in (11cm) thick, and weighed more than 13 pounds (5.9kg). The book included a ribbon marker, head and tail bands, three-piece cloth construction, and a slipcase. An unsigned hardcover edition limited to 600 copies, was later released. Both the signed and unsigned editions were sold out.[10] In an interview with the printed trade journal Fine Books & Collections, King said of the illustrated folio version of his 'Salem's Lot, \"I think it's beautiful!\"[11] A trade edition was later released. Question: How many copies did Salem's Lot sell? Answer:",
+    {
+        "id": "english-9034743117193629048-12",
+        "lang": "english",
+        "summary": "In 2005, Centipede Press released a deluxe limited edition of 'Salem's Lot with black and white photographs by Jerry Uelsmann and the two short stories \"Jerusalem's Lot\" and \"One for the Road\", as well as over 50 pages of deleted material. The book was limited to 315 copies, each signed by Stephen King and Jerry Uelsmann. The book was printed on 100# Mohawk Superfine paper, it measured 9 by 13 inches (23cm \u00d733cm), was over 41\u20444in (11cm) thick, and weighed more than 13 pounds (5.9kg). The book included a ribbon marker, head and tail bands, three-piece cloth construction, and a slipcase. An unsigned hardcover edition limited to 600 copies, was later released. Both the signed and unsigned editions were sold out.[10] In an interview with the printed trade journal Fine Books & Collections, King said of the illustrated folio version of his 'Salem's Lot, \"I think it's beautiful!\"[11] A trade edition was later released.",
+        "question": "How many copies did Salem's Lot sell?",
+        "label": "600"
+    }
+]

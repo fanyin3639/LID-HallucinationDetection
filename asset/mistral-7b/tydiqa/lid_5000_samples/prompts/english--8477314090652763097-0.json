@@ -1,0 +1,15 @@
+[
+    [
+        876,
+        [],
+        "Isaac Newton and Gottfried Wilhelm Leibniz"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Calculus, known in its early history as infinitesimal calculus, is a mathematical discipline focused on limits, functions, derivatives, integrals, and infinite series. Isaac Newton and Gottfried Wilhelm Leibniz independently discovered calculus in the mid-17th century. However, both inventors claimed that the other had stolen his work, and the Leibniz-Newton calculus controversy continued until the end of their lives. Question: Who is the father of calculus? Answer:",
+    {
+        "id": "english--8477314090652763097-0",
+        "lang": "english",
+        "summary": "Calculus, known in its early history as infinitesimal calculus, is a mathematical discipline focused on limits, functions, derivatives, integrals, and infinite series. Isaac Newton and Gottfried Wilhelm Leibniz independently discovered calculus in the mid-17th century. However, both inventors claimed that the other had stolen his work, and the Leibniz-Newton calculus controversy continued until the end of their lives.",
+        "question": "Who is the father of calculus?",
+        "label": "Isaac Newton and Gottfried Wilhelm Leibniz"
+    }
+]

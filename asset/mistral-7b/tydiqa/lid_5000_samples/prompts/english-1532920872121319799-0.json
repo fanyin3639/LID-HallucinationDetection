@@ -1,0 +1,15 @@
+[
+    [
+        176,
+        [],
+        "New Zealand"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 2018 Rugby World Cup Sevens was the seventh edition of the Rugby World Cup Sevens. Organised by World Rugby, it was held at AT&T Park in San Francisco, United States. A total of 84 matches (52 men's and 32 women's) were played over three days from July 20\u201322, 2018 with both tournaments being played for the first time in a knock-out only format.[1]  New Zealand won the championship for both events \u2014 defeating England in the men's final and France in the women's final. Question: What was the world champion rugby team in 2018? Answer:",
+    {
+        "id": "english-1532920872121319799-0",
+        "lang": "english",
+        "summary": "The 2018 Rugby World Cup Sevens was the seventh edition of the Rugby World Cup Sevens. Organised by World Rugby, it was held at AT&T Park in San Francisco, United States. A total of 84 matches (52 men's and 32 women's) were played over three days from July 20\u201322, 2018 with both tournaments being played for the first time in a knock-out only format.[1]  New Zealand won the championship for both events \u2014 defeating England in the men's final and France in the women's final.",
+        "question": "What was the world champion rugby team in 2018?",
+        "label": "New Zealand"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1078,
+        [],
+        "15th century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Golf courses have not always had eighteen holes. The St Andrews Links occupy a narrow strip of land along the sea. As early as the 15th century, golfers at St Andrews established a trench through the undulating terrain, playing to holes whose locations were dictated by topography. The course that emerged featured eleven holes, laid out end to end from the clubhouse to the far end of the property. One played the holes out, turned around, and played the holes in, for a total of 22 holes. In 1764, several of the holes were deemed too short, and were therefore combined. The number was thereby reduced from 11 to nine, so that a complete round of the links comprised 18 holes. Due to the status of St Andrews as the golfing capital, all other courses followed suit and the 18 hole course remains the standard to the present day. Question: When was golf invented? Answer:",
+    {
+        "id": "english-1167286786471329680-30",
+        "lang": "english",
+        "summary": "Golf courses have not always had eighteen holes. The St Andrews Links occupy a narrow strip of land along the sea. As early as the 15th century, golfers at St Andrews established a trench through the undulating terrain, playing to holes whose locations were dictated by topography. The course that emerged featured eleven holes, laid out end to end from the clubhouse to the far end of the property. One played the holes out, turned around, and played the holes in, for a total of 22 holes. In 1764, several of the holes were deemed too short, and were therefore combined. The number was thereby reduced from 11 to nine, so that a complete round of the links comprised 18 holes. Due to the status of St Andrews as the golfing capital, all other courses followed suit and the 18 hole course remains the standard to the present day.",
+        "question": "When was golf invented?",
+        "label": "15th century"
+    }
+]

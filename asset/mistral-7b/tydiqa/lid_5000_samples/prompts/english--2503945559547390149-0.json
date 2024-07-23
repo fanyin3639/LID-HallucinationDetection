@@ -1,0 +1,15 @@
+[
+    [
+        783,
+        [],
+        "December 1900"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Whyte notation for classifying steam locomotives by wheel arrangement was devised by Frederick Methvan Whyte,[2] and came into use in the early twentieth century following a December 1900 editorial in American Engineer and Railroad Journal. The notation counts the number of leading wheels, then the number of driving wheels, and finally the number of trailing wheels, groups of numbers being separated by dashes.[3] Other classification schemes, like UIC classification and the French, Turkish and Swiss systems for steam locomotives, count axles rather than wheels. Question: When was the Whyte notation introduced? Answer:",
+    {
+        "id": "english--2503945559547390149-0",
+        "lang": "english",
+        "summary": "The Whyte notation for classifying steam locomotives by wheel arrangement was devised by Frederick Methvan Whyte,[2] and came into use in the early twentieth century following a December 1900 editorial in American Engineer and Railroad Journal. The notation counts the number of leading wheels, then the number of driving wheels, and finally the number of trailing wheels, groups of numbers being separated by dashes.[3] Other classification schemes, like UIC classification and the French, Turkish and Swiss systems for steam locomotives, count axles rather than wheels.",
+        "question": "When was the Whyte notation introduced?",
+        "label": "December 1900"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        1033,
+        [],
+        "Arsonists are being blamed for a fire which has destroyed a shelter on Redcar's revamped seafront for the second time in less than a year."
+    ],
+    "Write a short summary for the following passage:\nTwo fire crews attended the blaze at the Esplanade opposite Pacitto's ice cream parlour just after 22:00 BST on Saturday.\nThe shelters were built as part of the \u00c2\u00a330m seafront revamp two years ago.\nCleveland Fire Brigade said the blaze was being treated as malicious and police were investigating.\nCouncillor Neil Baldwin said the shelter had been \"completely destroyed\" in the blaze.\n\"It's just bizarre, the damage looks awful. You've got to ask yourself what pleasure these people get out of doing this. I'm speechless.\n\"The fire brigade had to peel the roof off to put the fire out and the shelter looks completely destroyed.\"\nSummary:\n",
+    {
+        "id": 1033,
+        "document": "Two fire crews attended the blaze at the Esplanade opposite Pacitto's ice cream parlour just after 22:00 BST on Saturday.\nThe shelters were built as part of the \u00c2\u00a330m seafront revamp two years ago.\nCleveland Fire Brigade said the blaze was being treated as malicious and police were investigating.\nCouncillor Neil Baldwin said the shelter had been \"completely destroyed\" in the blaze.\n\"It's just bizarre, the damage looks awful. You've got to ask yourself what pleasure these people get out of doing this. I'm speechless.\n\"The fire brigade had to peel the roof off to put the fire out and the shelter looks completely destroyed.\"",
+        "summary": "Arsonists are being blamed for a fire which has destroyed a shelter on Redcar's revamped seafront for the second time in less than a year.",
+        "label": "Arsonists are being blamed for a fire which has destroyed a shelter on Redcar's revamped seafront for the second time in less than a year."
+    }
+]

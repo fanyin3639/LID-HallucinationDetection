@@ -1,0 +1,15 @@
+[
+    [
+        3041,
+        [],
+        "Three"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: G\u00e1lvez placed Gaspar de Portol\u00e1, recently appointed governor of Las Californias, in overall command of the expedition. Second in command was Captain Fernando Rivera y Moncada, commander of the Presidio at Loreto. Serra headed the Franciscan missionary contingent. Three ships were also assigned: two to follow the land march up the coast and keep the expedition supplied from the naval depot at La Paz (on the Baja peninsula), and another ship to connect La Paz with the mainland at San Blas. Question: How many ships were involved in the Portol\u00e0 expedition? Answer:",
+    {
+        "id": "english-1609487775195665944-3",
+        "lang": "english",
+        "summary": "G\u00e1lvez placed Gaspar de Portol\u00e1, recently appointed governor of Las Californias, in overall command of the expedition. Second in command was Captain Fernando Rivera y Moncada, commander of the Presidio at Loreto. Serra headed the Franciscan missionary contingent. Three ships were also assigned: two to follow the land march up the coast and keep the expedition supplied from the naval depot at La Paz (on the Baja peninsula), and another ship to connect La Paz with the mainland at San Blas.",
+        "question": "How many ships were involved in the Portol\u00e0 expedition?",
+        "label": "Three"
+    }
+]

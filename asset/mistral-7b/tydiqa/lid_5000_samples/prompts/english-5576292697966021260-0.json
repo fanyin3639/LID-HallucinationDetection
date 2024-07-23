@@ -1,0 +1,15 @@
+[
+    [
+        203,
+        [],
+        "November 18, 1883"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of standard time in the United States began November 18, 1883, when United States and Canadian railroads instituted standard time in time zones. Before then, time of day was a local matter, and most cities and towns used some form of local solar time, maintained by some well-known clock (for example, on a church steeple or in a jeweler's window). The new standard time system was not immediately embraced by all. Question: When were the North American time zones established? Answer:",
+    {
+        "id": "english-5576292697966021260-0",
+        "lang": "english",
+        "summary": "The history of standard time in the United States began November 18, 1883, when United States and Canadian railroads instituted standard time in time zones. Before then, time of day was a local matter, and most cities and towns used some form of local solar time, maintained by some well-known clock (for example, on a church steeple or in a jeweler's window). The new standard time system was not immediately embraced by all.",
+        "question": "When were the North American time zones established?",
+        "label": "November 18, 1883"
+    }
+]

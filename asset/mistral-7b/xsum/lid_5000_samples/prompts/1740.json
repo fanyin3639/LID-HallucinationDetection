@@ -1,0 +1,14 @@
+[
+    [
+        1740,
+        [],
+        "A 43-year-old man from Cardiff has been arrested following an investigation into \"modern slavery\" in the city."
+    ],
+    "Write a short summary for the following passage:\nIt follows a seven month covert operation by South Wales Police and the Czech Police Organised Crime Unit.\nThe man, from Llanishen, has been released on police bail while further investigations take place.\nDet Insp Tudor Thomas said the joint operation was the first of its kind in south Wales.\nHe said: \"The exploitation of vulnerable people within Wales will be given the highest priority by South Wales Police [and] our partners.\n\"Today's arrest demonstrates the international commitment to tackle modern slavery and protect people from harm.\"\nThe Department for Work and Pensions (DWP), Her Majesty's Revenue and Customs (HMRC), National Crime Agency and Bawso were also involved.\nWelsh Government anti-slavery co-ordinator Stephen Chapman said: \"Slavery is a global problem.\n\"Our aim is to make Wales hostile to slavery and to provide the best possible support to survivors.\"\nSummary:\n",
+    {
+        "id": 1740,
+        "document": "It follows a seven month covert operation by South Wales Police and the Czech Police Organised Crime Unit.\nThe man, from Llanishen, has been released on police bail while further investigations take place.\nDet Insp Tudor Thomas said the joint operation was the first of its kind in south Wales.\nHe said: \"The exploitation of vulnerable people within Wales will be given the highest priority by South Wales Police [and] our partners.\n\"Today's arrest demonstrates the international commitment to tackle modern slavery and protect people from harm.\"\nThe Department for Work and Pensions (DWP), Her Majesty's Revenue and Customs (HMRC), National Crime Agency and Bawso were also involved.\nWelsh Government anti-slavery co-ordinator Stephen Chapman said: \"Slavery is a global problem.\n\"Our aim is to make Wales hostile to slavery and to provide the best possible support to survivors.\"",
+        "summary": "A 43-year-old man from Cardiff has been arrested following an investigation into \"modern slavery\" in the city.",
+        "label": "A 43-year-old man from Cardiff has been arrested following an investigation into \"modern slavery\" in the city."
+    }
+]

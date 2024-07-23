@@ -1,0 +1,14 @@
+[
+    [
+        1292,
+        [],
+        "An investigation into the cause of a fire at a former paper mill in Deeside is taking place on Tuesday."
+    ],
+    "Write a short summary for the following passage:\nEmergency services were called just after 20:00 GMT on Monday to UPM Shotton, formerly Shotton Paper mill, on Deeside Industrial Park.\nSix appliances tackled a blaze in the recycling plant room for hour hours, with the fire extinguished just after midnight.\nNo-one was hurt and the firm said there was no loss of production.\nIt is thought the fire broke out in a waste residue holding bay in the materials recovery facility.\nGeneral manager David Ingham added: \"We are grateful to the emergency services who responded in a timely and professional manner to bring the situation under control.\"\nSummary:\n",
+    {
+        "id": 1292,
+        "document": "Emergency services were called just after 20:00 GMT on Monday to UPM Shotton, formerly Shotton Paper mill, on Deeside Industrial Park.\nSix appliances tackled a blaze in the recycling plant room for hour hours, with the fire extinguished just after midnight.\nNo-one was hurt and the firm said there was no loss of production.\nIt is thought the fire broke out in a waste residue holding bay in the materials recovery facility.\nGeneral manager David Ingham added: \"We are grateful to the emergency services who responded in a timely and professional manner to bring the situation under control.\"",
+        "summary": "An investigation into the cause of a fire at a former paper mill in Deeside is taking place on Tuesday.",
+        "label": "An investigation into the cause of a fire at a former paper mill in Deeside is taking place on Tuesday."
+    }
+]

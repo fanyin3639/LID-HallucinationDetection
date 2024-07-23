@@ -1,0 +1,15 @@
+[
+    [
+        92,
+        [],
+        "Zebulon Pike"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: \"Tava\" or \"sun\", is the Ute word that was given by these first people to the mountain that we now call Pikes Peak. The band of Ute people who called the Pikes Peak region their home were the \"Tabeguache\", meaning the \"People of Sun Mountain\".[4] The Ute people first arrived in Colorado about 500 A.D., although their traditions state they were created on Pikes Peak. In the 1800s, when the Arapaho people arrived in Colorado, they knew the mountain as \"Heey-otoyoo' \" meaning \"Long Mountain\".[5] Early Spanish explorers named the mountain \"El Capit\u00e1n\" meaning \"The Leader\". American explorer Zebulon Pike named the mountain \"Highest Peak\" in 1806, and the mountain was later commonly known as \"Pike's Highest Peak\". American explorer Stephen Harriman Long named the mountain \"James Peak\" in honor of Edwin James who climbed to the summit in 1820. The mountain was later renamed \"Pike's Peak\" in honor of Pike. The name was simplified to \"Pikes Peak\" by the United States Board on Geographic Names in 1890. Question: Who is Pike's Peak named for? Answer:",
+    {
+        "id": "english--4161924105482706897-2",
+        "lang": "english",
+        "summary": "\"Tava\" or \"sun\", is the Ute word that was given by these first people to the mountain that we now call Pikes Peak. The band of Ute people who called the Pikes Peak region their home were the \"Tabeguache\", meaning the \"People of Sun Mountain\".[4] The Ute people first arrived in Colorado about 500 A.D., although their traditions state they were created on Pikes Peak. In the 1800s, when the Arapaho people arrived in Colorado, they knew the mountain as \"Heey-otoyoo' \" meaning \"Long Mountain\".[5] Early Spanish explorers named the mountain \"El Capit\u00e1n\" meaning \"The Leader\". American explorer Zebulon Pike named the mountain \"Highest Peak\" in 1806, and the mountain was later commonly known as \"Pike's Highest Peak\". American explorer Stephen Harriman Long named the mountain \"James Peak\" in honor of Edwin James who climbed to the summit in 1820. The mountain was later renamed \"Pike's Peak\" in honor of Pike. The name was simplified to \"Pikes Peak\" by the United States Board on Geographic Names in 1890.",
+        "question": "Who is Pike's Peak named for?",
+        "label": "Zebulon Pike"
+    }
+]

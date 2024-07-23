@@ -1,0 +1,15 @@
+[
+    [
+        749,
+        [],
+        "February 15, 1950"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: At the time, Walt Disney Productions had suffered from losing connections to the European film markets due to the outbreak of World War II, enduring some box office bombs like Pinocchio (1940), Fantasia (1940), and Bambi (1942), all of which would later become more successful with several re-releases in theaters and on home video. At the time, however, the studio was over $4 million in debt and was on the verge of bankruptcy. Walt Disney and his animators turned back to feature film production in 1948 after producing a string of package films with the idea of adapting Charles Perrault's Cendrillon into a motion picture.[6] It is the first Disney film in which all of Disney's Nine Old Men worked together as directing animators. After two years in production, Cinderella was finally released on February 15, 1950. It became the greatest critical and commercial hit for the studio since Snow White and the Seven Dwarfs (1937), and helped reverse the studio's fortunes.[6] It received three Academy Award nominations, including Best Music, Original Song for \"Bibbidi-Bobbidi-Boo\".[6] Question: When was Disney's animated Cinderella first released? Answer:",
+    {
+        "id": "english--7558510689989899102-1",
+        "lang": "english",
+        "summary": "At the time, Walt Disney Productions had suffered from losing connections to the European film markets due to the outbreak of World War II, enduring some box office bombs like Pinocchio (1940), Fantasia (1940), and Bambi (1942), all of which would later become more successful with several re-releases in theaters and on home video. At the time, however, the studio was over $4 million in debt and was on the verge of bankruptcy. Walt Disney and his animators turned back to feature film production in 1948 after producing a string of package films with the idea of adapting Charles Perrault's Cendrillon into a motion picture.[6] It is the first Disney film in which all of Disney's Nine Old Men worked together as directing animators. After two years in production, Cinderella was finally released on February 15, 1950. It became the greatest critical and commercial hit for the studio since Snow White and the Seven Dwarfs (1937), and helped reverse the studio's fortunes.[6] It received three Academy Award nominations, including Best Music, Original Song for \"Bibbidi-Bobbidi-Boo\".[6]",
+        "question": "When was Disney's animated Cinderella first released?",
+        "label": "February 15, 1950"
+    }
+]

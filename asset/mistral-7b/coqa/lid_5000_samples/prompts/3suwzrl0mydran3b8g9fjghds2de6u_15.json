@@ -1,0 +1,19 @@
+[
+    [
+        1201,
+        [],
+        "Paralympic"
+    ],
+    "Answer the following questions:\nContext: A National Olympic Committee (NOC) is a national constituent of the worldwide Olympic movement. Subject to the controls of the International Olympic Committee, NOCs are responsible for organizing their people's participation in the Olympic Games. They may nominate cities within their respective areas as candidates for future Olympic Games. NOCs also promote the development of athletes and training of coaches and officials at a national level within their geographies. \n\nAs of 2016, there are 206 NOCs: Each of the 193 member states of the United Nations; United Nations observer state Palestine; the Cook Islands, a state in free association with New Zealand whose capacity to participate in international organizations has been recognized by the United Nations Secretariat; and two states with limited recognition, Kosovo and Taiwan (designated as \"Chinese Taipei\" by the IOC). \n\nThere are also nine dependent territories with NOCs: \n\nPrior to 1996, rules for recognising separate countries within the IOC were not as strict as those within the United Nations, which allowed these territories to field teams separately from their sovereign state. Following an amendment to the Olympic Charter in 1996, NOC recognition can only be granted after recognition as an independent state by the international community. Since the rule does not apply retroactively, the dependent territories which were recognised before the rule change are allowed to continue sending separate teams to the Olympics, while the Faroe Islands and Macau send their own Paralympic teams.\n'Question': What kind of team does Macau send?\n'Answer: '",
+    {
+        "id": "3suwzrl0mydran3b8g9fjghds2de6u_15",
+        "summary": "A National Olympic Committee (NOC) is a national constituent of the worldwide Olympic movement. Subject to the controls of the International Olympic Committee, NOCs are responsible for organizing their people's participation in the Olympic Games. They may nominate cities within their respective areas as candidates for future Olympic Games. NOCs also promote the development of athletes and training of coaches and officials at a national level within their geographies. \n\nAs of 2016, there are 206 NOCs: Each of the 193 member states of the United Nations; United Nations observer state Palestine; the Cook Islands, a state in free association with New Zealand whose capacity to participate in international organizations has been recognized by the United Nations Secretariat; and two states with limited recognition, Kosovo and Taiwan (designated as \"Chinese Taipei\" by the IOC). \n\nThere are also nine dependent territories with NOCs: \n\nPrior to 1996, rules for recognising separate countries within the IOC were not as strict as those within the United Nations, which allowed these territories to field teams separately from their sovereign state. Following an amendment to the Olympic Charter in 1996, NOC recognition can only be granted after recognition as an independent state by the international community. Since the rule does not apply retroactively, the dependent territories which were recognised before the rule change are allowed to continue sending separate teams to the Olympics, while the Faroe Islands and Macau send their own Paralympic teams.",
+        "question": "What kind of team does Macau send?",
+        "label": "Paralympic",
+        "additional_answers": [
+            "Paralympic",
+            "Paralympic",
+            "Paralympic"
+        ]
+    }
+]

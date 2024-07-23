@@ -1,0 +1,15 @@
+[
+    [
+        1296,
+        [],
+        "21 November 1694\u201330 May 1778"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Fran\u00e7ois-Marie Arouet (French:[f\u0281\u0251\u0303swa ma\u0281i a\u0281w\u025b]; 21 November 1694\u201330 May 1778), known by his nom de plume Voltaire (/v\u0252l\u02c8t\u025b\u0259r/;[2] French:[v\u0254lt\u025b\u02d0\u0281]), was a French Enlightenment writer, historian and philosopher famous for his wit, his criticism of Christianity, especially the Roman Catholic Church, and his advocacy of freedom of religion, freedom of speech, and separation of church and state. Question: What years did Voltaire live? Answer:",
+    {
+        "id": "english--5284836931653277244-0",
+        "lang": "english",
+        "summary": "Fran\u00e7ois-Marie Arouet (French:[f\u0281\u0251\u0303swa ma\u0281i a\u0281w\u025b]; 21 November 1694\u201330 May 1778), known by his nom de plume Voltaire (/v\u0252l\u02c8t\u025b\u0259r/;[2] French:[v\u0254lt\u025b\u02d0\u0281]), was a French Enlightenment writer, historian and philosopher famous for his wit, his criticism of Christianity, especially the Roman Catholic Church, and his advocacy of freedom of religion, freedom of speech, and separation of church and state.",
+        "question": "What years did Voltaire live?",
+        "label": "21 November 1694\u201330 May 1778"
+    }
+]

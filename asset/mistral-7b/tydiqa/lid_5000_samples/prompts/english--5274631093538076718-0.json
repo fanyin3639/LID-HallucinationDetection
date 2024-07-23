@@ -1,0 +1,15 @@
+[
+    [
+        2325,
+        [],
+        "non-metallic spherical projectiles"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Airsoft guns are replica weapons used in airsoft sports. They are a special type of very low-power smoothbore air guns designed to shoot non-metallic spherical projectiles often colloquially (and incorrectly) referred to as \"BBs\", which are typically made of (but not limited to) plastic or biodegradable resin materials. Airsoft gun powerplants are designed to have low muzzle energy ratings (generally less than 1.5 J, or 1.1 ft\u22c5lb) and the pellets have significantly less penetrative and stopping powers than conventional air guns, and are generally safe for competitive sporting and recreational purposes if proper protective gear is worn. Question: What do airsoft guns shoot? Answer:",
+    {
+        "id": "english--5274631093538076718-0",
+        "lang": "english",
+        "summary": "Airsoft guns are replica weapons used in airsoft sports. They are a special type of very low-power smoothbore air guns designed to shoot non-metallic spherical projectiles often colloquially (and incorrectly) referred to as \"BBs\", which are typically made of (but not limited to) plastic or biodegradable resin materials. Airsoft gun powerplants are designed to have low muzzle energy ratings (generally less than 1.5 J, or 1.1 ft\u22c5lb) and the pellets have significantly less penetrative and stopping powers than conventional air guns, and are generally safe for competitive sporting and recreational purposes if proper protective gear is worn.",
+        "question": "What do airsoft guns shoot?",
+        "label": "non-metallic spherical projectiles"
+    }
+]

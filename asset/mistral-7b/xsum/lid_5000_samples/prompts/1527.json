@@ -1,0 +1,14 @@
+[
+    [
+        1527,
+        [],
+        "A 26-year-old man had a large part of his ear bitten off in a \"vicious unprovoked attack\" during a Halloween night out at a pub in Ceredigion, said police."
+    ],
+    "Write a short summary for the following passage:\nGwynant Jones from Machynlleth, Powys, was attacked while out with friends at the Academy, Great Darkgate Street, Aberystwyth, on Saturday at 23:25 GMT.\nDyfed-Powys Police are hunting the attacker who was in fancy dress.\nMr Jones said he had been offered reconstructive surgery.\nThe computer programmer told Welsh language TV news programme Newyddion 9 he did not know his attacker and he explained how he felt a sudden pain and realised the severity of the wound when he put his hand to his left ear to find it bleeding heavily.\nMr Jones was taken to Bronglais General Hospital in Aberystwyth but he was referred to specialists at Swansea's Morriston Hospital.\nPolice are appealing for witnesses.\nThey said the suspect, approximately 20-years-old, was wearing a fancy dress outfit of an orange poncho and a black wig.\nHe is believed to have been with a group of women. One was wearing a white dress, another was in a nurse's uniform and a mask and a third was wearing a black dress.\nWitnesses have been asked to call Aberystwyth CID on 101.\nSummary:\n",
+    {
+        "id": 1527,
+        "document": "Gwynant Jones from Machynlleth, Powys, was attacked while out with friends at the Academy, Great Darkgate Street, Aberystwyth, on Saturday at 23:25 GMT.\nDyfed-Powys Police are hunting the attacker who was in fancy dress.\nMr Jones said he had been offered reconstructive surgery.\nThe computer programmer told Welsh language TV news programme Newyddion 9 he did not know his attacker and he explained how he felt a sudden pain and realised the severity of the wound when he put his hand to his left ear to find it bleeding heavily.\nMr Jones was taken to Bronglais General Hospital in Aberystwyth but he was referred to specialists at Swansea's Morriston Hospital.\nPolice are appealing for witnesses.\nThey said the suspect, approximately 20-years-old, was wearing a fancy dress outfit of an orange poncho and a black wig.\nHe is believed to have been with a group of women. One was wearing a white dress, another was in a nurse's uniform and a mask and a third was wearing a black dress.\nWitnesses have been asked to call Aberystwyth CID on 101.",
+        "summary": "A 26-year-old man had a large part of his ear bitten off in a \"vicious unprovoked attack\" during a Halloween night out at a pub in Ceredigion, said police.",
+        "label": "A 26-year-old man had a large part of his ear bitten off in a \"vicious unprovoked attack\" during a Halloween night out at a pub in Ceredigion, said police."
+    }
+]

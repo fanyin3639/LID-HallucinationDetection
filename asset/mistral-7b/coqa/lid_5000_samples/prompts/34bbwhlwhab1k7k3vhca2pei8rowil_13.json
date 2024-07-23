@@ -1,0 +1,19 @@
+[
+    [
+        604,
+        [],
+        "Yes"
+    ],
+    "Answer the following questions:\nContext: (CNN) -- Engulfed by the darkness of doping's \"white noise\", he emerged the other side to become a beacon in cycling's anti-drugs fight. \n\nAnd in a sport where the tainted legacies of former Tour de France champions Lance Armstrong and Jan Ulrich continue to cast a dark shadow, reformed rider David Millar can see a light at the end of the tunnel. \n\nHe has come a long way since nine years ago when he was was sitting in a Biarritz restaurant in south west France. \n\nMillar was having dinner with Dave Brailsford, now performance director at British Cycling and Team Sky, when French police arrived to arrest the cyclist, throwing him in a cell and outing him as a drugs cheat. \n\nA two-year ban from competition followed and, after a Damascene conversion, he returned to the sport a reformed character determined to remove the stain of doping from cycling. \n\n\"I was a fervent anti-doper,\" the Malta-born Scot, who spent his formative years in England and Hong Kong, told CNN's Changing Gear series before the start of the 2013 Tour de France. \n\n\"I was a naive kid who came from Hong Kong, who dreamed of winning the Tour de France and who was disgusted to learn that my colleagues were doping, but within four or five years I was one of them.\" \n\nBlog: Cycling faces watershed of credibility \n\nMillar had served notice of his potential by winning the prologue of his first ever Tour de France in 2000 and the journey from idealistic youngster to fully-fledged doper was not a simple one. \n'Question': Did they ban him?\n'Answer: '",
+    {
+        "id": "34bbwhlwhab1k7k3vhca2pei8rowil_13",
+        "summary": "(CNN) -- Engulfed by the darkness of doping's \"white noise\", he emerged the other side to become a beacon in cycling's anti-drugs fight. \n\nAnd in a sport where the tainted legacies of former Tour de France champions Lance Armstrong and Jan Ulrich continue to cast a dark shadow, reformed rider David Millar can see a light at the end of the tunnel. \n\nHe has come a long way since nine years ago when he was was sitting in a Biarritz restaurant in south west France. \n\nMillar was having dinner with Dave Brailsford, now performance director at British Cycling and Team Sky, when French police arrived to arrest the cyclist, throwing him in a cell and outing him as a drugs cheat. \n\nA two-year ban from competition followed and, after a Damascene conversion, he returned to the sport a reformed character determined to remove the stain of doping from cycling. \n\n\"I was a fervent anti-doper,\" the Malta-born Scot, who spent his formative years in England and Hong Kong, told CNN's Changing Gear series before the start of the 2013 Tour de France. \n\n\"I was a naive kid who came from Hong Kong, who dreamed of winning the Tour de France and who was disgusted to learn that my colleagues were doping, but within four or five years I was one of them.\" \n\nBlog: Cycling faces watershed of credibility \n\nMillar had served notice of his potential by winning the prologue of his first ever Tour de France in 2000 and the journey from idealistic youngster to fully-fledged doper was not a simple one. ",
+        "question": "Did they ban him?",
+        "label": "Yes",
+        "additional_answers": [
+            "yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

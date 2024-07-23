@@ -1,0 +1,15 @@
+[
+    [
+        2108,
+        [],
+        "sauropods"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The sauropods were the largest and heaviest dinosaurs. For much of the dinosaur era, the smallest sauropods were larger than anything else in their habitat, and the largest were an order of magnitude more massive than anything else that has since walked the Earth. Giant prehistoric mammals such as Paraceratherium and Palaeoloxodon (the largest land mammals ever[8]) were dwarfed by the giant sauropods, and only modern whales surpass them in size.[9] There are several proposed advantages for the large size of sauropods, including protection from predation, reduction of energy use, and longevity, but it may be that the most important advantage was dietary. Large animals are more efficient at digestion than small animals, because food spends more time in their digestive systems. This also permits them to subsist on food with lower nutritive value than smaller animals. Sauropod remains are mostly found in rock formations interpreted as dry or seasonally dry, and the ability to eat large quantities of low-nutrient browse would have been advantageous in such environments.[10] Question: What was the largest dinosaur? Answer:",
+    {
+        "id": "english-3963410347075409568-3",
+        "lang": "english",
+        "summary": "The sauropods were the largest and heaviest dinosaurs. For much of the dinosaur era, the smallest sauropods were larger than anything else in their habitat, and the largest were an order of magnitude more massive than anything else that has since walked the Earth. Giant prehistoric mammals such as Paraceratherium and Palaeoloxodon (the largest land mammals ever[8]) were dwarfed by the giant sauropods, and only modern whales surpass them in size.[9] There are several proposed advantages for the large size of sauropods, including protection from predation, reduction of energy use, and longevity, but it may be that the most important advantage was dietary. Large animals are more efficient at digestion than small animals, because food spends more time in their digestive systems. This also permits them to subsist on food with lower nutritive value than smaller animals. Sauropod remains are mostly found in rock formations interpreted as dry or seasonally dry, and the ability to eat large quantities of low-nutrient browse would have been advantageous in such environments.[10]",
+        "question": "What was the largest dinosaur?",
+        "label": "sauropods"
+    }
+]

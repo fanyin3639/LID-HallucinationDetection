@@ -1,0 +1,15 @@
+[
+    [
+        2797,
+        [],
+        "12 November 1866"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Sun Yat-sen (/\u02c8s\u028cn \u02c8j\u00e6t\u02c8s\u025bn/; 12 November 1866 \u2013 12 March 1925)[1][2] was the founding father of the Republic of China. The provisional first president of the Republic of China, Sun was a Chinese medical doctor, writer, philosopher, Georgist,[3][4] calligrapher,[5] and revolutionary. As the foremost pioneer and first leader of a Republican China, Sun is referred to as the \"Father of the Nation\" in the Republic of China (ROC) and the \"forerunner of democratic revolution\" in the People's Republic of China (PRC). Sun played an instrumental role in the overthrow of the Qing dynasty (the last imperial dynasty of China) during the years leading up to the Xinhai Revolution. He was appointed to serve as Provisional President of the Republic of China when it was founded in 1912. He later co-founded the Kuomintang (Nationalist Party of China), serving as its first leader.[6] Sun was a uniting figure in post-Imperial China, and he remains unique among 20th-century Chinese politicians for being widely revered amongst the people from both sides of the Taiwan Strait. Question: When was Sun Yat-sen born? Answer:",
+    {
+        "id": "english-3402930023625804525-0",
+        "lang": "english",
+        "summary": "Sun Yat-sen (/\u02c8s\u028cn \u02c8j\u00e6t\u02c8s\u025bn/; 12 November 1866 \u2013 12 March 1925)[1][2] was the founding father of the Republic of China. The provisional first president of the Republic of China, Sun was a Chinese medical doctor, writer, philosopher, Georgist,[3][4] calligrapher,[5] and revolutionary. As the foremost pioneer and first leader of a Republican China, Sun is referred to as the \"Father of the Nation\" in the Republic of China (ROC) and the \"forerunner of democratic revolution\" in the People's Republic of China (PRC). Sun played an instrumental role in the overthrow of the Qing dynasty (the last imperial dynasty of China) during the years leading up to the Xinhai Revolution. He was appointed to serve as Provisional President of the Republic of China when it was founded in 1912. He later co-founded the Kuomintang (Nationalist Party of China), serving as its first leader.[6] Sun was a uniting figure in post-Imperial China, and he remains unique among 20th-century Chinese politicians for being widely revered amongst the people from both sides of the Taiwan Strait.",
+        "question": "When was Sun Yat-sen born?",
+        "label": "12 November 1866"
+    }
+]

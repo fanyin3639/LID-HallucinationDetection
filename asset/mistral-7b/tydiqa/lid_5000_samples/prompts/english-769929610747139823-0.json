@@ -1,0 +1,15 @@
+[
+    [
+        2356,
+        [],
+        "microscopic organism"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A microorganism, or microbe,[lower-alpha 1] is a microscopic organism, which may exist in its single-celled form or in a colony of cells. Question: What is a microbe? Answer:",
+    {
+        "id": "english-769929610747139823-0",
+        "lang": "english",
+        "summary": "A microorganism, or microbe,[lower-alpha 1] is a microscopic organism, which may exist in its single-celled form or in a colony of cells.",
+        "question": "What is a microbe?",
+        "label": "microscopic organism"
+    }
+]

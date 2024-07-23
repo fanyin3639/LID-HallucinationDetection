@@ -1,0 +1,15 @@
+[
+    [
+        1562,
+        [],
+        "1912"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1912, after over two thousand years of imperial rule, a republic was established to replace the monarchy.[3] The Qing Dynasty that preceded the republic experienced a century of instability throughout the 19th century, suffered from both internal rebellion and foreign imperialism.[8] The ongoing instability eventually led to the outburst of Boxer Rebellion in 1900, whose attacks on foreigners led to the invasion by the Eight Nation Alliance. China signed the Boxer Protocol and paid a large indemnity to the foreign powers: 450million taels of fine silver (around $333million  or \u00a367million at the then current exchange rates).[9] A program of institutional reform proved too little and too late. Only the lack of an alternative regime prolonged its existence until 1912.[10][11] Question: When did China become a republic? Answer:",
+    {
+        "id": "english-7398100873199175215-7",
+        "lang": "english",
+        "summary": "In 1912, after over two thousand years of imperial rule, a republic was established to replace the monarchy.[3] The Qing Dynasty that preceded the republic experienced a century of instability throughout the 19th century, suffered from both internal rebellion and foreign imperialism.[8] The ongoing instability eventually led to the outburst of Boxer Rebellion in 1900, whose attacks on foreigners led to the invasion by the Eight Nation Alliance. China signed the Boxer Protocol and paid a large indemnity to the foreign powers: 450million taels of fine silver (around $333million  or \u00a367million at the then current exchange rates).[9] A program of institutional reform proved too little and too late. Only the lack of an alternative regime prolonged its existence until 1912.[10][11]",
+        "question": "When did China become a republic?",
+        "label": "1912"
+    }
+]

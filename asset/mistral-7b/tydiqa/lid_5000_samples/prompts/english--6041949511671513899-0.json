@@ -1,0 +1,15 @@
+[
+    [
+        673,
+        [],
+        "Sierra Nevada mountain range"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The American River (R\u00edo de los Americanos during the period before 1847 ruled by Mexico) is a 120-mile-long river in California that runs from the Sierra Nevada mountain range to its confluence with the Sacramento River in the Sacramento Valley. Via the Sacramento River, it is part of the San Francisco Bay watershed. This river is fed by the melting snowpack of the Sierra Nevada and its many headwaters and tributaries, including the North Fork American River, the Middle Fork American River, and the South Fork American River. Question: Where does the American River originate? Answer:",
+    {
+        "id": "english--6041949511671513899-0",
+        "lang": "english",
+        "summary": "The American River (R\u00edo de los Americanos during the period before 1847 ruled by Mexico) is a 120-mile-long river in California that runs from the Sierra Nevada mountain range to its confluence with the Sacramento River in the Sacramento Valley. Via the Sacramento River, it is part of the San Francisco Bay watershed. This river is fed by the melting snowpack of the Sierra Nevada and its many headwaters and tributaries, including the North Fork American River, the Middle Fork American River, and the South Fork American River.",
+        "question": "Where does the American River originate?",
+        "label": "Sierra Nevada mountain range"
+    }
+]

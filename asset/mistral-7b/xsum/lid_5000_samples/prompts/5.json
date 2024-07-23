@@ -1,0 +1,14 @@
+[
+    [
+        5,
+        [],
+        "A waiter in Texas was given a $750 (\u00c2\u00a3605) tip by a diner after mentioning he had not seen his family in Northern Ireland for more than two years."
+    ],
+    "Write a short summary for the following passage:\nBen Millar, 22, said he was waiting on a man called Jeffery on Saturday when they began discussing Ireland.\nJeffery said he often visited Ireland and Mr Millar said he wished he could see his family more often.\nA note on the dinner receipt read: \"Hopefully, this can get you back to Ireland for the holidays.\"\nMr Millar had served Jeffery and his family for the rest of the evening after their conversation and only discovered the tip after they left.\nMr Millar told ABC News he was shocked by the gesture and that he had never been tipped so well.\nHis girlfriend, Taryn Kieth, is pregnant and he plans to save the money until his son Killian is born, and then introduce his new family to his Irish relatives in Belfast.\n\"I also hope I can reach out to Jeffrey so he knows how much I appreciate it,\" Mr Millar said.\n\"It means a lot to me, but more to my family back home who will benefit from seeing me again since almost two years.\"\nHe said would \"love it if Jeffrey could come over when I go back, so I can show him the true Northern Ireland, not just the tourist aspect\".\nSummary:\n",
+    {
+        "id": 5,
+        "document": "Ben Millar, 22, said he was waiting on a man called Jeffery on Saturday when they began discussing Ireland.\nJeffery said he often visited Ireland and Mr Millar said he wished he could see his family more often.\nA note on the dinner receipt read: \"Hopefully, this can get you back to Ireland for the holidays.\"\nMr Millar had served Jeffery and his family for the rest of the evening after their conversation and only discovered the tip after they left.\nMr Millar told ABC News he was shocked by the gesture and that he had never been tipped so well.\nHis girlfriend, Taryn Kieth, is pregnant and he plans to save the money until his son Killian is born, and then introduce his new family to his Irish relatives in Belfast.\n\"I also hope I can reach out to Jeffrey so he knows how much I appreciate it,\" Mr Millar said.\n\"It means a lot to me, but more to my family back home who will benefit from seeing me again since almost two years.\"\nHe said would \"love it if Jeffrey could come over when I go back, so I can show him the true Northern Ireland, not just the tourist aspect\".",
+        "summary": "A waiter in Texas was given a $750 (\u00c2\u00a3605) tip by a diner after mentioning he had not seen his family in Northern Ireland for more than two years.",
+        "label": "A waiter in Texas was given a $750 (\u00c2\u00a3605) tip by a diner after mentioning he had not seen his family in Northern Ireland for more than two years."
+    }
+]

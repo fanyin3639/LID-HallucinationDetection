@@ -1,0 +1,15 @@
+[
+    [
+        1369,
+        [],
+        "July 2015 was 2,887,974["
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kiev (/\u02c8ki\u02d0\u025bf, -\u025bv/ KEE-ef, -\u2060ev)[9] or Kyiv (Ukrainian: \u041a\u0438\u0457\u0432, romanized:Kyiv [\u02c8k\u026ajiu\u032f](listen); Russian: \u041a\u0438\u0435\u0432, romanized:Kiyev [\u02c8k\u02b2i(j)\u026af]; Old East Slavic: \u041a\u044b\u0465\u0432\u044a, romanized:Kyjev) is the capital and most populous city of Ukraine, located in the north-central part of the country on the Dnieper. The population in July 2015 was 2,887,974[4] (though higher estimated numbers have been cited in the press),[10] making Kiev the 7th most populous city in Europe.[11] Question: How many people live in Kiev? Answer:",
+    {
+        "id": "english--3132566802334260053-0",
+        "lang": "english",
+        "summary": "Kiev (/\u02c8ki\u02d0\u025bf, -\u025bv/ KEE-ef, -\u2060ev)[9] or Kyiv (Ukrainian: \u041a\u0438\u0457\u0432, romanized:Kyiv [\u02c8k\u026ajiu\u032f](listen); Russian: \u041a\u0438\u0435\u0432, romanized:Kiyev [\u02c8k\u02b2i(j)\u026af]; Old East Slavic: \u041a\u044b\u0465\u0432\u044a, romanized:Kyjev) is the capital and most populous city of Ukraine, located in the north-central part of the country on the Dnieper. The population in July 2015 was 2,887,974[4] (though higher estimated numbers have been cited in the press),[10] making Kiev the 7th most populous city in Europe.[11]",
+        "question": "How many people live in Kiev?",
+        "label": "July 2015 was 2,887,974["
+    }
+]

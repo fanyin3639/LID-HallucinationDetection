@@ -1,0 +1,19 @@
+[
+    [
+        459,
+        [],
+        "Tigers pitching ace"
+    ],
+    "Answer the following questions:\nContext: (CNN) -- Pablo Sandoval's record-tying three home runs led the San Francisco Giants to an 8-3 victory over the Detroit Tigers in Game 1 of the World Series. \n\nBarry Zito gave up just one run in 5 2/3 innings to earn the win for San Francisco. He also had a run-scoring single in the fourth inning. \n\nTigers pitching ace Justin Verlander only managed to go four innings, allowing five runs on six hits. \n\nSandoval, who had 12 home runs during the regular season, hit a solo home run in the first and a two-run shot in the third off Verlander. In the fifth, he added another home run off Al Alburquerque. He has six home runs in the postseason. \n\n\"In this situation you're going to face the best. For me I just go in there and don't thinking too much or try to do too much, get a pitch you can hit, take advantage of the mistakes he be making. That's a part of my game.\" Sandoval said. \n\nHis manager said Sandoval has been swinging the bat well for weeks. \n\n\"He's been locked in for a while, and the home runs, really where he hit them, too, it's not easy to hit them where he hit them,\" Giants skipper Bruce Bochy said. \n\nThree other players have homered three times in one World Series game. \n\nBabe Ruth did it twice, and Reggie Jackson also achieved the feat. Last year, St. Louis Cardinals slugger Albert Pujols had three home runs in Game 3. \n'Question': who is Justin Verlander ?\n'Answer: '",
+    {
+        "id": "374tnbha8bviqa3mnqz7woqk90aqy3_5",
+        "summary": "(CNN) -- Pablo Sandoval's record-tying three home runs led the San Francisco Giants to an 8-3 victory over the Detroit Tigers in Game 1 of the World Series. \n\nBarry Zito gave up just one run in 5 2/3 innings to earn the win for San Francisco. He also had a run-scoring single in the fourth inning. \n\nTigers pitching ace Justin Verlander only managed to go four innings, allowing five runs on six hits. \n\nSandoval, who had 12 home runs during the regular season, hit a solo home run in the first and a two-run shot in the third off Verlander. In the fifth, he added another home run off Al Alburquerque. He has six home runs in the postseason. \n\n\"In this situation you're going to face the best. For me I just go in there and don't thinking too much or try to do too much, get a pitch you can hit, take advantage of the mistakes he be making. That's a part of my game.\" Sandoval said. \n\nHis manager said Sandoval has been swinging the bat well for weeks. \n\n\"He's been locked in for a while, and the home runs, really where he hit them, too, it's not easy to hit them where he hit them,\" Giants skipper Bruce Bochy said. \n\nThree other players have homered three times in one World Series game. \n\nBabe Ruth did it twice, and Reggie Jackson also achieved the feat. Last year, St. Louis Cardinals slugger Albert Pujols had three home runs in Game 3. ",
+        "question": "who is Justin Verlander ?",
+        "label": "Tigers pitching ace",
+        "additional_answers": [
+            "Tigers pitching ace",
+            "Tigers pitching ace",
+            "a pitcher"
+        ]
+    }
+]

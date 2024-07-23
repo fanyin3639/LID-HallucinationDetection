@@ -1,0 +1,15 @@
+[
+    [
+        1087,
+        [],
+        "La Marseillaise"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: \"La Marseillaise\" (French pronunciation:\u200b[la ma\u0281s\u025bj\u025b\u02d0z]) is the national anthem of France. The song was written in 1792 by Claude Joseph Rouget de Lisle in Strasbourg after the declaration of war by France against Austria, and was originally titled \"Chant de guerre pour l'Arm\u00e9e du Rhin\" (\"War Song for the Rhine Army\"). Question: What is the national anthem of France? Answer:",
+    {
+        "id": "english--5131848221510509783-0",
+        "lang": "english",
+        "summary": "\"La Marseillaise\" (French pronunciation:\u200b[la ma\u0281s\u025bj\u025b\u02d0z]) is the national anthem of France. The song was written in 1792 by Claude Joseph Rouget de Lisle in Strasbourg after the declaration of war by France against Austria, and was originally titled \"Chant de guerre pour l'Arm\u00e9e du Rhin\" (\"War Song for the Rhine Army\").",
+        "question": "What is the national anthem of France?",
+        "label": "La Marseillaise"
+    }
+]

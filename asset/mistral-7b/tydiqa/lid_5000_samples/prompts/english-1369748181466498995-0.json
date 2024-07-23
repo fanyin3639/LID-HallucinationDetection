@@ -1,0 +1,15 @@
+[
+    [
+        2423,
+        [],
+        "16th century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Journey to the West is a Chinese novel published in the 16th century during the Ming dynasty and attributed to Wu Cheng'en. It is one of the Four Great Classical Novels of Chinese literature. In English-speaking countries, Monkey, Arthur Waley's popular abridged translation is well known. Question: When was Odyssey to the West published? Answer:",
+    {
+        "id": "english-1369748181466498995-0",
+        "lang": "english",
+        "summary": "Journey to the West is a Chinese novel published in the 16th century during the Ming dynasty and attributed to Wu Cheng'en. It is one of the Four Great Classical Novels of Chinese literature. In English-speaking countries, Monkey, Arthur Waley's popular abridged translation is well known.",
+        "question": "When was Odyssey to the West published?",
+        "label": "16th century"
+    }
+]

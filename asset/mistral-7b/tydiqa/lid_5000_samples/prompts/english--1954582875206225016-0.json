@@ -1,0 +1,15 @@
+[
+    [
+        973,
+        [],
+        "300 episodes"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Red Green Show is a Canadian sitcom. It premiered January 4th, 1991 and ended April 7, 2006. It aired 300 episodes, 11 specials, and 1 film.[1][2] Question: How many episodes does The Red Green Show have? Answer:",
+    {
+        "id": "english--1954582875206225016-0",
+        "lang": "english",
+        "summary": "The Red Green Show is a Canadian sitcom. It premiered January 4th, 1991 and ended April 7, 2006. It aired 300 episodes, 11 specials, and 1 film.[1][2]",
+        "question": "How many episodes does The Red Green Show have?",
+        "label": "300 episodes"
+    }
+]

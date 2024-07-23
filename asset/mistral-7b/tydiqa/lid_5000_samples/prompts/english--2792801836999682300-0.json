@@ -1,0 +1,15 @@
+[
+    [
+        1084,
+        [],
+        "1871"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Imperial German Navy (German: Kaiserliche Marine, \"Imperial Navy\") was the navy created at the time of the formation of the German Empire. It existed between 1871 and 1919, growing out of the small Prussian Navy (from 1867 the North German Federal Navy), which primarily had the mission of coastal defence. Kaiser Wilhelm II greatly expanded the navy, and enlarged its mission. The key leader was Admiral Alfred von Tirpitz, who greatly expanded the size and quality of the navy, while adopting the sea power theories of American strategist Alfred Thayer Mahan. The result was a naval arms race with Britain as the German navy grew to become one of the greatest maritime forces in the world, second only to the Royal Navy. The German surface navy proved ineffective during World War I; its only major engagement, the Battle of Jutland, was indecisive. However, the submarine fleet was greatly expanded and posed a major threat to the British supply system. The Imperial Navy's main ships were turned over to the Allies, but were sunk at Scapa Flow in 1919 by German crews. Question: When was the Imperial German Navy established? Answer:",
+    {
+        "id": "english--2792801836999682300-0",
+        "lang": "english",
+        "summary": "The Imperial German Navy (German: Kaiserliche Marine, \"Imperial Navy\") was the navy created at the time of the formation of the German Empire. It existed between 1871 and 1919, growing out of the small Prussian Navy (from 1867 the North German Federal Navy), which primarily had the mission of coastal defence. Kaiser Wilhelm II greatly expanded the navy, and enlarged its mission. The key leader was Admiral Alfred von Tirpitz, who greatly expanded the size and quality of the navy, while adopting the sea power theories of American strategist Alfred Thayer Mahan. The result was a naval arms race with Britain as the German navy grew to become one of the greatest maritime forces in the world, second only to the Royal Navy. The German surface navy proved ineffective during World War I; its only major engagement, the Battle of Jutland, was indecisive. However, the submarine fleet was greatly expanded and posed a major threat to the British supply system. The Imperial Navy's main ships were turned over to the Allies, but were sunk at Scapa Flow in 1919 by German crews.",
+        "question": "When was the Imperial German Navy established?",
+        "label": "1871"
+    }
+]

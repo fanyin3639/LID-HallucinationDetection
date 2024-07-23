@@ -1,0 +1,15 @@
+[
+    [
+        1613,
+        [],
+        "Ethiopian Highlands"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Ethiopian Highlands is a rugged mass of mountains in Ethiopia, situated in the Horn region in northeast Africa. It forms the largest continuous area of its elevation in the continent, with little of its surface falling below 1,500m (4,900ft), while the summits reach heights of up to 4,550m (14,930ft). It is sometimes called the Roof of Africa due to its height and large area.[1] Most of the Ethiopian Highlands are part of central and northern Ethiopia, and its northernmost portion reaches into Eritrea. Question: What mountain ranges are found in Ethiopia? Answer:",
+    {
+        "id": "english-3665279550659093300-0",
+        "lang": "english",
+        "summary": "The Ethiopian Highlands is a rugged mass of mountains in Ethiopia, situated in the Horn region in northeast Africa. It forms the largest continuous area of its elevation in the continent, with little of its surface falling below 1,500m (4,900ft), while the summits reach heights of up to 4,550m (14,930ft). It is sometimes called the Roof of Africa due to its height and large area.[1] Most of the Ethiopian Highlands are part of central and northern Ethiopia, and its northernmost portion reaches into Eritrea.",
+        "question": "What mountain ranges are found in Ethiopia?",
+        "label": "Ethiopian Highlands"
+    }
+]

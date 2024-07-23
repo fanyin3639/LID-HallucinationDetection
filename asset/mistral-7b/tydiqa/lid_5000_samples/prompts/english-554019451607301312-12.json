@@ -1,0 +1,15 @@
+[
+    [
+        431,
+        [],
+        "Jean Nicot"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A Frenchman named Jean Nicot (from whose name the word nicotine derives) introduced tobacco to France in 1560 from Spain. From there, it spread to England. The first report of a smoking Englishman is of a sailor in Bristol in 1556, seen \"emitting smoke from his nostrils.\"[10] Like tea, coffee and opium, tobacco was just one of many intoxicants originally used as a form of medicine.[11] Question: Who introduced tobacco smoking to Europe? Answer:",
+    {
+        "id": "english-554019451607301312-12",
+        "lang": "english",
+        "summary": "A Frenchman named Jean Nicot (from whose name the word nicotine derives) introduced tobacco to France in 1560 from Spain. From there, it spread to England. The first report of a smoking Englishman is of a sailor in Bristol in 1556, seen \"emitting smoke from his nostrils.\"[10] Like tea, coffee and opium, tobacco was just one of many intoxicants originally used as a form of medicine.[11]",
+        "question": "Who introduced tobacco smoking to Europe?",
+        "label": "Jean Nicot"
+    }
+]

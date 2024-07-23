@@ -1,0 +1,15 @@
+[
+    [
+        98,
+        [],
+        "10 October 1845"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The institution was founded as the Naval School on 10 October 1845 by Secretary of the Navy George Bancroft. The campus was established at Annapolis on the grounds of the former U.S. Army post Fort Severn. The school opened with 50 midshipman students and seven professors. The decision to establish an academy on land may have been in part a result of the Somers Affair, an alleged mutiny involving the Secretary of War's son that resulted in his execution at sea. Commodore Matthew Perry had a considerable interest in naval education, supporting an apprentice system to train new seamen, and helped establish the curriculum for the United States Naval Academy. He was also a vocal proponent of modernization of the navy. Question: When was the Annapolis Naval Academy founded? Answer:",
+    {
+        "id": "english-5295793989325040866-14",
+        "lang": "english",
+        "summary": "The institution was founded as the Naval School on 10 October 1845 by Secretary of the Navy George Bancroft. The campus was established at Annapolis on the grounds of the former U.S. Army post Fort Severn. The school opened with 50 midshipman students and seven professors. The decision to establish an academy on land may have been in part a result of the Somers Affair, an alleged mutiny involving the Secretary of War's son that resulted in his execution at sea. Commodore Matthew Perry had a considerable interest in naval education, supporting an apprentice system to train new seamen, and helped establish the curriculum for the United States Naval Academy. He was also a vocal proponent of modernization of the navy.",
+        "question": "When was the Annapolis Naval Academy founded?",
+        "label": "10 October 1845"
+    }
+]

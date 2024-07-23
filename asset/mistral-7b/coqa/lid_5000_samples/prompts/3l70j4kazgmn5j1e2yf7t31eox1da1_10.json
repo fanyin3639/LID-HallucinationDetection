@@ -1,0 +1,19 @@
+[
+    [
+        1915,
+        [],
+        "the MP"
+    ],
+    "Answer the following questions:\nContext: It was only in the 1980s that digital telephony transmission networks became possible, such as with ISDN networks, assuring a minimum bit rate (usually 128 kilobits/s) for compressed video and audio transmission. During this time, there was also research into other forms of digital video and audio communication. Many of these technologies, such as the Media space, are not as widely used today as videoconferencing but were still an important area of research. The first dedicated systems started to appear in the market as ISDN networks were expanding throughout the world. One of the first commercial videoconferencing systems sold to companies came from PictureTel Corp., which had an Initial Public Offering in November, 1984. \n\nThe MC controls the conferencing while it is active on the signaling plane, which is simply where the system manages conferencing creation, endpoint signaling and in-conferencing controls. This component negotiates parameters with every endpoint in the network and controls conferencing resources. While the MC controls resources and signaling negotiations, the MP operates on the media plane and receives media from each endpoint. The MP generates output streams from each endpoint and redirects the information to other endpoints in the conference.\n'Question': What does?\n'Answer: '",
+    {
+        "id": "3l70j4kazgmn5j1e2yf7t31eox1da1_10",
+        "summary": "It was only in the 1980s that digital telephony transmission networks became possible, such as with ISDN networks, assuring a minimum bit rate (usually 128 kilobits/s) for compressed video and audio transmission. During this time, there was also research into other forms of digital video and audio communication. Many of these technologies, such as the Media space, are not as widely used today as videoconferencing but were still an important area of research. The first dedicated systems started to appear in the market as ISDN networks were expanding throughout the world. One of the first commercial videoconferencing systems sold to companies came from PictureTel Corp., which had an Initial Public Offering in November, 1984. \n\nThe MC controls the conferencing while it is active on the signaling plane, which is simply where the system manages conferencing creation, endpoint signaling and in-conferencing controls. This component negotiates parameters with every endpoint in the network and controls conferencing resources. While the MC controls resources and signaling negotiations, the MP operates on the media plane and receives media from each endpoint. The MP generates output streams from each endpoint and redirects the information to other endpoints in the conference.",
+        "question": "What does?",
+        "label": "the MP",
+        "additional_answers": [
+            "the MP",
+            "Receives media from each endpoint",
+            "the MP"
+        ]
+    }
+]

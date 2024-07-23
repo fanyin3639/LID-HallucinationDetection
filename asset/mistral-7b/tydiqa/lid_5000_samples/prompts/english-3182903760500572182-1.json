@@ -1,0 +1,15 @@
+[
+    [
+        2875,
+        [],
+        "German Confederation of Trade Unions"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The most important labor organization is the German Confederation of Trade Unions (Deutscher Gewerkschaftsbund, or DGB), which is the umbrella association of eight single trade unions for individual economic sectors, representing more than 6 million people as of 2014. The largest single trade union is the IG Metall, which as of 2014 organizes about 2.3 million members in metal (including automobile and machine building), electronics, steel, textile, wood and synthetics industries. Question: What's the biggest union in Germany? Answer:",
+    {
+        "id": "english-3182903760500572182-1",
+        "lang": "english",
+        "summary": "The most important labor organization is the German Confederation of Trade Unions (Deutscher Gewerkschaftsbund, or DGB), which is the umbrella association of eight single trade unions for individual economic sectors, representing more than 6 million people as of 2014. The largest single trade union is the IG Metall, which as of 2014 organizes about 2.3 million members in metal (including automobile and machine building), electronics, steel, textile, wood and synthetics industries.",
+        "question": "What's the biggest union in Germany?",
+        "label": "German Confederation of Trade Unions"
+    }
+]

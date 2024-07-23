@@ -1,0 +1,15 @@
+[
+    [
+        1906,
+        [],
+        "1528"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Following the arrival of Europeans, tobacco became one of the primary products fueling colonization, and also became a driving factor in the incorporation of African slave labor. The Spanish introduced tobacco to Europeans in about 1528, and by 1533, Diego Columbus mentioned a tobacco merchant of Lisbon in his will, showing how quickly the traffic had sprung up. Jean Nicot, French ambassador in Lisbon, sent samples to Paris in 1559. The French, Spanish, and Portuguese initially referred to the plant as the \"sacred herb\" because of its valuable medicinal properties.[7] Question: When was tobacco introduced to Europe? Answer:",
+    {
+        "id": "english--1906347687000435507-8",
+        "lang": "english",
+        "summary": "Following the arrival of Europeans, tobacco became one of the primary products fueling colonization, and also became a driving factor in the incorporation of African slave labor. The Spanish introduced tobacco to Europeans in about 1528, and by 1533, Diego Columbus mentioned a tobacco merchant of Lisbon in his will, showing how quickly the traffic had sprung up. Jean Nicot, French ambassador in Lisbon, sent samples to Paris in 1559. The French, Spanish, and Portuguese initially referred to the plant as the \"sacred herb\" because of its valuable medicinal properties.[7]",
+        "question": "When was tobacco introduced to Europe?",
+        "label": "1528"
+    }
+]

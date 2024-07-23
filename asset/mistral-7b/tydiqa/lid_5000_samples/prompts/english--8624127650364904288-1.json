@@ -1,0 +1,15 @@
+[
+    [
+        2173,
+        [],
+        "assassination"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The political crisis caused by his assassination, barely two months after the Geneva Agreements which prepared to restore peace in Indochina, contributed to bring down the current neutralist government (pro-French) which was replaced by a progressive one (pro-American) in extremely tense atmosphere of the Cold War between Russia and the United States. From 1955 indeed, the political history of this small landlocked country fell trapped inexorably in the ideological confrontation between the capitalist United States and the communist Soviet Union, annihilating any hope of national unification. Question: How did Kou Voravong die? Answer:",
+    {
+        "id": "english--8624127650364904288-1",
+        "lang": "english",
+        "summary": "The political crisis caused by his assassination, barely two months after the Geneva Agreements which prepared to restore peace in Indochina, contributed to bring down the current neutralist government (pro-French) which was replaced by a progressive one (pro-American) in extremely tense atmosphere of the Cold War between Russia and the United States. From 1955 indeed, the political history of this small landlocked country fell trapped inexorably in the ideological confrontation between the capitalist United States and the communist Soviet Union, annihilating any hope of national unification.",
+        "question": "How did Kou Voravong die?",
+        "label": "assassination"
+    }
+]

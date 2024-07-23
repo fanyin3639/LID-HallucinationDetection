@@ -1,0 +1,15 @@
+[
+    [
+        360,
+        [],
+        "1704"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage:    A Tale of a Tub was the first major work written by Jonathan Swift, arguably his most difficult satire and perhaps his most masterly. The Tale is a prose parody divided into sections each delving into the morals and ethics of the English. Composed between 1694 and 1697, it was eventually published in 1704. It was long regarded as a satire on religion, and has famously been attacked for that, starting with William Wotton.[1][2] Question: When was Swift's A Tale of a Tub first published? Answer:",
+    {
+        "id": "english-3204057237385226985-0",
+        "lang": "english",
+        "summary": "   A Tale of a Tub was the first major work written by Jonathan Swift, arguably his most difficult satire and perhaps his most masterly. The Tale is a prose parody divided into sections each delving into the morals and ethics of the English. Composed between 1694 and 1697, it was eventually published in 1704. It was long regarded as a satire on religion, and has famously been attacked for that, starting with William Wotton.[1][2]",
+        "question": "When was Swift's A Tale of a Tub first published?",
+        "label": "1704"
+    }
+]

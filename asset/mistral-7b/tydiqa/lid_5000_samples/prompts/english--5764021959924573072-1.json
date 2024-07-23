@@ -1,0 +1,15 @@
+[
+    [
+        1767,
+        [],
+        "953,207"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Honolulu is the most remote city of its size in the world[8] and is the westernmost major U.S. city. For statistical purposes, the United States Census Bureau recognizes the approximate area commonly referred to as \"City of Honolulu\" (not to be confused with the \"City and County\") as a census county division (CCD).[9] Honolulu is a major financial center of the islands and of the Pacific Ocean. The population of the Honolulu census designated place (CDP) was 359,870 as of the 2017 population estimate,[4] while the Honolulu CCD was 390,738[10] and the population of the consolidated city and county was 953,207. Question: What is the population of Honolulu? Answer:",
+    {
+        "id": "english--5764021959924573072-1",
+        "lang": "english",
+        "summary": "Honolulu is the most remote city of its size in the world[8] and is the westernmost major U.S. city. For statistical purposes, the United States Census Bureau recognizes the approximate area commonly referred to as \"City of Honolulu\" (not to be confused with the \"City and County\") as a census county division (CCD).[9] Honolulu is a major financial center of the islands and of the Pacific Ocean. The population of the Honolulu census designated place (CDP) was 359,870 as of the 2017 population estimate,[4] while the Honolulu CCD was 390,738[10] and the population of the consolidated city and county was 953,207.",
+        "question": "What is the population of Honolulu?",
+        "label": "953,207"
+    }
+]

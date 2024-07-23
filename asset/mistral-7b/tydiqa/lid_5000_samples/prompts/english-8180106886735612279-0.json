@@ -1,0 +1,15 @@
+[
+    [
+        1814,
+        [],
+        "high (cirrus, cirrocumulus, cirrostratus), middle (altocumulus, altostratus), multi-level (nimbostratus, cumulus, cumulonimbus), and low (stratocumulus, stratus)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The list of cloud types groups the tropospheric types as high (cirrus, cirrocumulus, cirrostratus), middle (altocumulus, altostratus), multi-level (nimbostratus, cumulus, cumulonimbus), and low (stratocumulus, stratus) according to the altitude level or levels at which each cloud is normally found. Small cumulus are commonly grouped with the low clouds because they do not show significant vertical extent. Of the multi-level genus-types, those with the greatest convective activity are often grouped separately as towering vertical.  The genus types all have Latin names. Question: What are the types of clouds? Answer:",
+    {
+        "id": "english-8180106886735612279-0",
+        "lang": "english",
+        "summary": "The list of cloud types groups the tropospheric types as high (cirrus, cirrocumulus, cirrostratus), middle (altocumulus, altostratus), multi-level (nimbostratus, cumulus, cumulonimbus), and low (stratocumulus, stratus) according to the altitude level or levels at which each cloud is normally found. Small cumulus are commonly grouped with the low clouds because they do not show significant vertical extent. Of the multi-level genus-types, those with the greatest convective activity are often grouped separately as towering vertical.  The genus types all have Latin names.",
+        "question": "What are the types of clouds?",
+        "label": "high (cirrus, cirrocumulus, cirrostratus), middle (altocumulus, altostratus), multi-level (nimbostratus, cumulus, cumulonimbus), and low (stratocumulus, stratus)"
+    }
+]

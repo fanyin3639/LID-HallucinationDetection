@@ -1,0 +1,15 @@
+[
+    [
+        1430,
+        [],
+        "fourteenth century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ancient walls, which date from around the 11th century, have been discovered below the Church of San Ant\u00f3n.[40] Bilbao was one of the first towns founded in the fourteenth century, during a period in which approximately three-quarters of the Biscayan cities were developed, among them Portugalete in 1323, Ondarroa in 1327, Lekeitio in 1335, and Mungia and Larrabetzu in 1376.[41] Diego L\u00f3pez V de Haro, then third Lord of Biscay, founded Bilbao through a municipal charter dated in Valladolid on 15 June 1300 and confirmed by King Ferdinand IV of Castile in Burgos, on 4 January 1301. Diego L\u00f3pez established the new town on the right bank of the Nervi\u00f3n river, on the grounds of the elizate of Bego\u00f1a and granted it the fuero of Logro\u00f1o, a compilation of rights and privileges that would prove fundamental to its later development.[42] Question: When was Bilbao founded? Answer:",
+    {
+        "id": "english--862585861718444747-17",
+        "lang": "english",
+        "summary": "Ancient walls, which date from around the 11th century, have been discovered below the Church of San Ant\u00f3n.[40] Bilbao was one of the first towns founded in the fourteenth century, during a period in which approximately three-quarters of the Biscayan cities were developed, among them Portugalete in 1323, Ondarroa in 1327, Lekeitio in 1335, and Mungia and Larrabetzu in 1376.[41] Diego L\u00f3pez V de Haro, then third Lord of Biscay, founded Bilbao through a municipal charter dated in Valladolid on 15 June 1300 and confirmed by King Ferdinand IV of Castile in Burgos, on 4 January 1301. Diego L\u00f3pez established the new town on the right bank of the Nervi\u00f3n river, on the grounds of the elizate of Bego\u00f1a and granted it the fuero of Logro\u00f1o, a compilation of rights and privileges that would prove fundamental to its later development.[42]",
+        "question": "When was Bilbao founded?",
+        "label": "fourteenth century"
+    }
+]

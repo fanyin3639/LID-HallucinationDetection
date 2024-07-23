@@ -1,0 +1,15 @@
+[
+    [
+        1268,
+        [],
+        "1923"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 24 Hours of Le Mans (French: 24 Heures du Mans) is the world's oldest active sports car race in endurance racing, held annually since 1923 near the town of Le Mans, France.[1] It is considered one of the most prestigious automobile races in the world and has been called the \"Grand Prix of Endurance and Efficiency\".[2] The event represents one leg of the Triple Crown of Motorsport; other events being the Indianapolis 500 and the Monaco Grand Prix. Question: When was the first 24 Hours of Le Mans? Answer:",
+    {
+        "id": "english-1980054277634815187-0",
+        "lang": "english",
+        "summary": "The 24 Hours of Le Mans (French: 24 Heures du Mans) is the world's oldest active sports car race in endurance racing, held annually since 1923 near the town of Le Mans, France.[1] It is considered one of the most prestigious automobile races in the world and has been called the \"Grand Prix of Endurance and Efficiency\".[2] The event represents one leg of the Triple Crown of Motorsport; other events being the Indianapolis 500 and the Monaco Grand Prix.",
+        "question": "When was the first 24 Hours of Le Mans?",
+        "label": "1923"
+    }
+]

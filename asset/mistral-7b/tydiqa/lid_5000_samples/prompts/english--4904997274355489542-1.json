@@ -1,0 +1,15 @@
+[
+    [
+        2373,
+        [],
+        "Craig Kallman"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 2004, Atlantic and its sister label Elektra were merged into Atlantic Records Group.[2] Craig Kallman is the chairman of Atlantic. Ahmet Erteg\u00fcn served as founding chairman until his death on December 14, 2006, at age 83.[3] Question: Who owns the Atlantic Recording Corporation? Answer:",
+    {
+        "id": "english--4904997274355489542-1",
+        "lang": "english",
+        "summary": "In 2004, Atlantic and its sister label Elektra were merged into Atlantic Records Group.[2] Craig Kallman is the chairman of Atlantic. Ahmet Erteg\u00fcn served as founding chairman until his death on December 14, 2006, at age 83.[3]",
+        "question": "Who owns the Atlantic Recording Corporation?",
+        "label": "Craig Kallman"
+    }
+]

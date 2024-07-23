@@ -1,0 +1,15 @@
+[
+    [
+        2473,
+        [],
+        "Iraq"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The remains of the city are in present-day Hillah, Babil Governorate, Iraq, about 85 kilometres (53mi) south of Baghdad, comprising a large tell of broken mud-brick buildings and debris. Question: Where was Babylon located in the world? Answer:",
+    {
+        "id": "english--4336064457432258503-3",
+        "lang": "english",
+        "summary": "The remains of the city are in present-day Hillah, Babil Governorate, Iraq, about 85 kilometres (53mi) south of Baghdad, comprising a large tell of broken mud-brick buildings and debris.",
+        "question": "Where was Babylon located in the world?",
+        "label": "Iraq"
+    }
+]

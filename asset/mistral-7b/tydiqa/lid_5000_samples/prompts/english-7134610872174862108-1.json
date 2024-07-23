@@ -1,0 +1,15 @@
+[
+    [
+        1567,
+        [],
+        "12th century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Protestantism originated from work of several theologians starting in the 12th century, although there could have been earlier cases of which there is no surviving evidence. Question: When did Protestantism form? Answer:",
+    {
+        "id": "english-7134610872174862108-1",
+        "lang": "english",
+        "summary": "Protestantism originated from work of several theologians starting in the 12th century, although there could have been earlier cases of which there is no surviving evidence.",
+        "question": "When did Protestantism form?",
+        "label": "12th century"
+    }
+]

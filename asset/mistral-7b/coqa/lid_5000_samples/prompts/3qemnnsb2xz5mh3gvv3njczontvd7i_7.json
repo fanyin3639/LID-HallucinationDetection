@@ -1,0 +1,19 @@
+[
+    [
+        149,
+        [],
+        "over one thousand"
+    ],
+    "Answer the following questions:\nContext: Claude Monet is surely one of the most famous French artists of all. Monet was particularly interested in the effect of light and would paint the same scene in different lighting conditions or times of the day. For example, he painted around 20 versions of the Rouen Cathedral from dawn to dusk. His most famous paintings include his Water lilies series. \n\nThe paintings of Paul Cezanne had a lot of influence in the development of 20th century art, including Cubism and Fauvism . Cezanne is one of the most famous French artists and is known as a \"post-impressionist\", which was similar in some ways to impressionism but also broke away from some of its limitations. Famous French paintings include his Bathers and Mont St Victoire series. \n\nHenri Matisse was one of the most important famous French artists of the 20th century. He was considered one of the leaders of the Fauvist movement. He had a long and varied artistic career, painting in different styles ranging from Impressionism to Abstract. In 1941, Matisse was diagnosed with cancer and was forced into a wheelchair. But this didn't stop him completing the amazing Chapel of the Rosary in Vence. \n\nDegas is probably one of the most fascinating of all the famous French artists. He is known as one of the founders of Impressionism, but his paintings were also influenced by classicism, romanticism, and realism. His style is definitely very unique. He was a prolific artist, producing over one thousand works. He is best known for his paintings of ballet dancers.\n'Question': How many items did he produce?\n'Answer: '",
+    {
+        "id": "3qemnnsb2xz5mh3gvv3njczontvd7i_7",
+        "summary": "Claude Monet is surely one of the most famous French artists of all. Monet was particularly interested in the effect of light and would paint the same scene in different lighting conditions or times of the day. For example, he painted around 20 versions of the Rouen Cathedral from dawn to dusk. His most famous paintings include his Water lilies series. \n\nThe paintings of Paul Cezanne had a lot of influence in the development of 20th century art, including Cubism and Fauvism . Cezanne is one of the most famous French artists and is known as a \"post-impressionist\", which was similar in some ways to impressionism but also broke away from some of its limitations. Famous French paintings include his Bathers and Mont St Victoire series. \n\nHenri Matisse was one of the most important famous French artists of the 20th century. He was considered one of the leaders of the Fauvist movement. He had a long and varied artistic career, painting in different styles ranging from Impressionism to Abstract. In 1941, Matisse was diagnosed with cancer and was forced into a wheelchair. But this didn't stop him completing the amazing Chapel of the Rosary in Vence. \n\nDegas is probably one of the most fascinating of all the famous French artists. He is known as one of the founders of Impressionism, but his paintings were also influenced by classicism, romanticism, and realism. His style is definitely very unique. He was a prolific artist, producing over one thousand works. He is best known for his paintings of ballet dancers.",
+        "question": "How many items did he produce?",
+        "label": "over one thousand",
+        "additional_answers": [
+            "over one thousand",
+            "over one thousand",
+            "over one thousand"
+        ]
+    }
+]

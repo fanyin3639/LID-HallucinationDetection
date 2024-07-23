@@ -1,0 +1,15 @@
+[
+    [
+        2516,
+        [],
+        "Sean McVay"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Sean McVay (born January 24, 1986) is an American football coach who is the head coach of the Los Angeles Rams of the National Football League (NFL). Upon his hiring in 2017 at the age of 30, he became the youngest head coach in modern NFL history. He was the offensive coordinator of the Washington Redskins from 2014 to 2016. He was named the AP NFL Coach of the Year in his first year of coaching, becoming the youngest person ever to win the award. After the Los Angeles Rams' appearance in Super Bowl LIII, McVay will become the youngest head coach ever to coach in a Super Bowl game.[1] Question: Who is head coach for the Los Angeles Rams? Answer:",
+    {
+        "id": "english--6729120191524278970-0",
+        "lang": "english",
+        "summary": "Sean McVay (born January 24, 1986) is an American football coach who is the head coach of the Los Angeles Rams of the National Football League (NFL). Upon his hiring in 2017 at the age of 30, he became the youngest head coach in modern NFL history. He was the offensive coordinator of the Washington Redskins from 2014 to 2016. He was named the AP NFL Coach of the Year in his first year of coaching, becoming the youngest person ever to win the award. After the Los Angeles Rams' appearance in Super Bowl LIII, McVay will become the youngest head coach ever to coach in a Super Bowl game.[1]",
+        "question": "Who is head coach for the Los Angeles Rams?",
+        "label": "Sean McVay"
+    }
+]

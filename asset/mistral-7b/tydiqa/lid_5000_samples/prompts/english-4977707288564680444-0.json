@@ -1,0 +1,15 @@
+[
+    [
+        3057,
+        [],
+        "knife for cutting greens"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Nakiri b\u014dch\u014d (\u83dc\u5207\u308a\u5305\u4e01, translation: knife for cutting greens) and usuba b\u014dch\u014d (\u8584\u5203\u5305\u4e01, thin knife) are Japanese-style vegetable knives. They differ from the deba b\u014dch\u014d in their shape, as they have a straight blade edge suitable for cutting all the way to the cutting board without the need for a horizontal pull or push.[1] These knives are also much thinner. While the deba b\u014dch\u014d is a heavy blade for easy cutting through thin bones, the blade is not suitable for chopping vegetables, as the thicker blade can break the vegetable slice. The nakiri b\u014dch\u014d and the usuba b\u014dch\u014d have a much thinner blade. This does not help with cutting small bones in fish or meat, but is useful for cutting vegetables. Question: What is a nakiri? Answer:",
+    {
+        "id": "english-4977707288564680444-0",
+        "lang": "english",
+        "summary": "Nakiri b\u014dch\u014d (\u83dc\u5207\u308a\u5305\u4e01, translation: knife for cutting greens) and usuba b\u014dch\u014d (\u8584\u5203\u5305\u4e01, thin knife) are Japanese-style vegetable knives. They differ from the deba b\u014dch\u014d in their shape, as they have a straight blade edge suitable for cutting all the way to the cutting board without the need for a horizontal pull or push.[1] These knives are also much thinner. While the deba b\u014dch\u014d is a heavy blade for easy cutting through thin bones, the blade is not suitable for chopping vegetables, as the thicker blade can break the vegetable slice. The nakiri b\u014dch\u014d and the usuba b\u014dch\u014d have a much thinner blade. This does not help with cutting small bones in fish or meat, but is useful for cutting vegetables.",
+        "question": "What is a nakiri?",
+        "label": "knife for cutting greens"
+    }
+]

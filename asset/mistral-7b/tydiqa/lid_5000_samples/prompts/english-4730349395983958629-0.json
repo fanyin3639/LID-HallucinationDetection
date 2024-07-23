@@ -1,0 +1,15 @@
+[
+    [
+        3142,
+        [],
+        "Jerusalem's Lot"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: 'Salem's Lot is a 1975 horror novel  by American author Stephen King. It was his second published novel. The story involves a writer named Ben Mears who returns to the town of Jerusalem's Lot (or 'Salem's Lot for short) in Maine, where he had lived from the age of five through nine, only to discover that the residents are becoming vampires. The town is revisited in the short stories \"Jerusalem's Lot\" and \"One for the Road\", both from King's story collection Night Shift (1978). The novel was nominated for the World Fantasy Award in 1976,[1] and the Locus Award for the All-Time Best Fantasy Novel in 1987.[2] Question: What town does Salem's Lot take place in? Answer:",
+    {
+        "id": "english-4730349395983958629-0",
+        "lang": "english",
+        "summary": "'Salem's Lot is a 1975 horror novel  by American author Stephen King. It was his second published novel. The story involves a writer named Ben Mears who returns to the town of Jerusalem's Lot (or 'Salem's Lot for short) in Maine, where he had lived from the age of five through nine, only to discover that the residents are becoming vampires. The town is revisited in the short stories \"Jerusalem's Lot\" and \"One for the Road\", both from King's story collection Night Shift (1978). The novel was nominated for the World Fantasy Award in 1976,[1] and the Locus Award for the All-Time Best Fantasy Novel in 1987.[2]",
+        "question": "What town does Salem's Lot take place in?",
+        "label": "Jerusalem's Lot"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        1705,
+        [],
+        "yes"
+    ],
+    "Answer the following questions:\nContext: The Six-Day War (Hebrew: , \"Milhemet Sheshet Ha Yamim\"; Arabic: , \"an-Naksah\", \"The Setback\" or , \"\u1e24arb 1967\", \"War of 1967\"), also known as the June War, 1967 Arab\u2013Israeli War, or Third Arab\u2013Israeli War, was fought between June 5 and 10, 1967 by Israel and the neighboring states of Egypt (known at the time as the United Arab Republic), Jordan, and Syria. \n\nRelations between Israel and its neighbours had never fully normalised following the 1948 Arab\u2013Israeli War. In 1956 Israel invaded the Egyptian Sinai, with one of its objectives being the reopening of the Straits of Tiran which Egypt had blocked to Israeli shipping since 1950. Israel was subsequently forced to withdraw, but won a guarantee that the Straits of Tiran would remain open. Whilst the United Nations Emergency Force was deployed along the border, there was no demilitarisation agreement. \n\nIn the period leading up to June 1967, tensions became dangerously heightened. Israel reiterated its post-1956 position that the closure of the straits of Tiran to its shipping would be a \"casus belli\" and in late May Nasser announced the straits would be closed to Israeli vessels. Egypt then mobilised its forces along its border with Israel, and on 5 June Israel launched what it claimed were a series of preemptive airstrikes against Egyptian airfields. Claims and counterclaims relating to this series of events are one of a number of controversies relating to the conflict.\n'Question': Was Syria involved in the conflict?\n'Answer: '",
+    {
+        "id": "36v4q8r5zk0iwte84nbw2t3d14jmqp_11",
+        "summary": "The Six-Day War (Hebrew: , \"Milhemet Sheshet Ha Yamim\"; Arabic: , \"an-Naksah\", \"The Setback\" or , \"\u1e24arb 1967\", \"War of 1967\"), also known as the June War, 1967 Arab\u2013Israeli War, or Third Arab\u2013Israeli War, was fought between June 5 and 10, 1967 by Israel and the neighboring states of Egypt (known at the time as the United Arab Republic), Jordan, and Syria. \n\nRelations between Israel and its neighbours had never fully normalised following the 1948 Arab\u2013Israeli War. In 1956 Israel invaded the Egyptian Sinai, with one of its objectives being the reopening of the Straits of Tiran which Egypt had blocked to Israeli shipping since 1950. Israel was subsequently forced to withdraw, but won a guarantee that the Straits of Tiran would remain open. Whilst the United Nations Emergency Force was deployed along the border, there was no demilitarisation agreement. \n\nIn the period leading up to June 1967, tensions became dangerously heightened. Israel reiterated its post-1956 position that the closure of the straits of Tiran to its shipping would be a \"casus belli\" and in late May Nasser announced the straits would be closed to Israeli vessels. Egypt then mobilised its forces along its border with Israel, and on 5 June Israel launched what it claimed were a series of preemptive airstrikes against Egyptian airfields. Claims and counterclaims relating to this series of events are one of a number of controversies relating to the conflict.",
+        "question": "Was Syria involved in the conflict?",
+        "label": "yes",
+        "additional_answers": [
+            "yes",
+            "Yes",
+            "yes"
+        ]
+    }
+]

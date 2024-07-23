@@ -1,0 +1,15 @@
+[
+    [
+        1669,
+        [],
+        "17th century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the language scholar Walter William Skeat, the term schooner comes from scoon, while the sch spelling comes from the later adoption of the Dutch spelling (\"schoener\"). Another study suggests that a Dutch expression praising ornate schooner yachts in the 17th century, \"een schoone Schip\", may have led to the term \"schooner\" being used by English speakers to describe the early versions of the schooner rig as it evolved in England and America.[2] The Dutch word \"schoon(e)\" means nice, clean, good looking. Question: When was the schooner invented? Answer:",
+    {
+        "id": "english-38334663020414266-2",
+        "lang": "english",
+        "summary": "According to the language scholar Walter William Skeat, the term schooner comes from scoon, while the sch spelling comes from the later adoption of the Dutch spelling (\"schoener\"). Another study suggests that a Dutch expression praising ornate schooner yachts in the 17th century, \"een schoone Schip\", may have led to the term \"schooner\" being used by English speakers to describe the early versions of the schooner rig as it evolved in England and America.[2] The Dutch word \"schoon(e)\" means nice, clean, good looking.",
+        "question": "When was the schooner invented?",
+        "label": "17th century"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        1093,
+        [],
+        "Yes"
+    ],
+    "Answer the following questions:\nContext: The Canada 2006 Census was a detailed enumeration of the Canadian population. Census day was May 16, 2006. The following census was the 2011 Census. Canada's total population enumerated by the 2006 census was 31,612,897. This count was lower than the official July 1, 2006 population estimate of 32,623,490 people. \n\nOver 12.7 million households, 32.5 million people were expected to be counted. Canada Post delivered census forms by mail to 70% of the country, primarily residents in urban areas. Census enumerators delivered to the remaining 30% of households. Every fifth home received the long questionnaire (53 questions versus 8 questions on the short form). For the first time, Canadian residents were able to go online to fill in their forms. Statistics Canada expected approximately 20% of households to file their surveys electronically. Persistent census staff are contacting tardy households. The total estimated cost of the 2006 census is $567 million spread over seven years, employing more than 25,000 full and part-time census workers. \n\nNew in the 2006 Census Questionnaire: \n\nQuestions not asked in the 2006 Census: \n\nModified questions: \n\nAs the data were compiled, Statistics Canada released various census data products. The first set of data products was released on March 13, 2007, originally scheduled for release on February 13, 2007, covering population and dwelling counts by geographical unit. This was followed by other census data products.\n'Question': Can Canadians now fill out the census online?\n'Answer: '",
+    {
+        "id": "3a1cohj8njvqybd1rwejoxahqdwh80_0",
+        "summary": "The Canada 2006 Census was a detailed enumeration of the Canadian population. Census day was May 16, 2006. The following census was the 2011 Census. Canada's total population enumerated by the 2006 census was 31,612,897. This count was lower than the official July 1, 2006 population estimate of 32,623,490 people. \n\nOver 12.7 million households, 32.5 million people were expected to be counted. Canada Post delivered census forms by mail to 70% of the country, primarily residents in urban areas. Census enumerators delivered to the remaining 30% of households. Every fifth home received the long questionnaire (53 questions versus 8 questions on the short form). For the first time, Canadian residents were able to go online to fill in their forms. Statistics Canada expected approximately 20% of households to file their surveys electronically. Persistent census staff are contacting tardy households. The total estimated cost of the 2006 census is $567 million spread over seven years, employing more than 25,000 full and part-time census workers. \n\nNew in the 2006 Census Questionnaire: \n\nQuestions not asked in the 2006 Census: \n\nModified questions: \n\nAs the data were compiled, Statistics Canada released various census data products. The first set of data products was released on March 13, 2007, originally scheduled for release on February 13, 2007, covering population and dwelling counts by geographical unit. This was followed by other census data products.",
+        "question": "Can Canadians now fill out the census online?",
+        "label": "Yes",
+        "additional_answers": [
+            "Yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

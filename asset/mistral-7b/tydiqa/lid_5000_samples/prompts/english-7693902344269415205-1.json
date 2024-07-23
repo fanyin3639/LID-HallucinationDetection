@@ -1,0 +1,15 @@
+[
+    [
+        1332,
+        [],
+        "24"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Black Cat premiered in Japan on October 6, 2005, on Animax and Tokyo Broadcasting System (TBS), and aired for 24 episodes, ending on March 30, 2006. The first 20 episodes adapt the entirety of Yabuki's manga, while the last four episodes feature a completely original, self-contained story arc. The 15th episode was broadcast exclusively on Animax.[3][4] In Japan, the series was released across twelve Region 2 DVD volumes from December 21, 2005 to November 22, 2006.[5][6] Each volume was also published in a Premium Edition which included various extras.[7] The DVD volumes were gathered in a limited release DVD boxset by Sony Pictures Entertainment on April 23, 2008.[8] Question: How many episodes did the Black Cat anime have? Answer:",
+    {
+        "id": "english-7693902344269415205-1",
+        "lang": "english",
+        "summary": "Black Cat premiered in Japan on October 6, 2005, on Animax and Tokyo Broadcasting System (TBS), and aired for 24 episodes, ending on March 30, 2006. The first 20 episodes adapt the entirety of Yabuki's manga, while the last four episodes feature a completely original, self-contained story arc. The 15th episode was broadcast exclusively on Animax.[3][4] In Japan, the series was released across twelve Region 2 DVD volumes from December 21, 2005 to November 22, 2006.[5][6] Each volume was also published in a Premium Edition which included various extras.[7] The DVD volumes were gathered in a limited release DVD boxset by Sony Pictures Entertainment on April 23, 2008.[8]",
+        "question": "How many episodes did the Black Cat anime have?",
+        "label": "24"
+    }
+]

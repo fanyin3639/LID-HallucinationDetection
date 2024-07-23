@@ -1,0 +1,14 @@
+[
+    [
+        774,
+        [],
+        "Mae tri o gystadleuwyr mewn ras beic modur ym Mhenparc ger Aberteifi wedi'i anafu."
+    ],
+    "Write a short summary for the following passage:\nFe ddigwyddodd y ddamwain yn ystod ras Pencampwriaeth Cymru yn fferm Crugmore, Penparc ddydd Sul.\nCafodd un o'r tri ei gludo i Ysbyty Treforys mewn ambiwlans awyr.\nFe aeth y ddau arall mewn ambiwlans i Ysbyty Glangwili, Caerfyrddin. Does dim rhagor o wybodaeth yngl\u0177n \u00e2 chyflwr y tri.\nSummary:\n",
+    {
+        "id": 774,
+        "document": "Fe ddigwyddodd y ddamwain yn ystod ras Pencampwriaeth Cymru yn fferm Crugmore, Penparc ddydd Sul.\nCafodd un o'r tri ei gludo i Ysbyty Treforys mewn ambiwlans awyr.\nFe aeth y ddau arall mewn ambiwlans i Ysbyty Glangwili, Caerfyrddin. Does dim rhagor o wybodaeth yngl\u0177n \u00e2 chyflwr y tri.",
+        "summary": "Mae tri o gystadleuwyr mewn ras beic modur ym Mhenparc ger Aberteifi wedi'i anafu.",
+        "label": "Mae tri o gystadleuwyr mewn ras beic modur ym Mhenparc ger Aberteifi wedi'i anafu."
+    }
+]

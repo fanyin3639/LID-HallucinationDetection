@@ -1,0 +1,15 @@
+[
+    [
+        2343,
+        [],
+        "an official location where pieces of political, military, cultural, or social history have been preserved due to their cultural heritage value"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Historic site or Heritage site is an official location where pieces of political, military, cultural, or social history have been preserved due to their cultural heritage value. Historic sites are usually protected by law, and many have been recognized with the official national historic site status. A historic site may be any building, landscape, site or structure that is of local, regional, or national significance. Question: What historic site means? Answer:",
+    {
+        "id": "english-2488109827402084542-0",
+        "lang": "english",
+        "summary": "Historic site or Heritage site is an official location where pieces of political, military, cultural, or social history have been preserved due to their cultural heritage value. Historic sites are usually protected by law, and many have been recognized with the official national historic site status. A historic site may be any building, landscape, site or structure that is of local, regional, or national significance.",
+        "question": "What historic site means?",
+        "label": "an official location where pieces of political, military, cultural, or social history have been preserved due to their cultural heritage value"
+    }
+]

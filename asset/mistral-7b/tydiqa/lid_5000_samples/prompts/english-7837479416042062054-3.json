@@ -1,0 +1,15 @@
+[
+    [
+        3089,
+        [],
+        "up to 1-foot (30cm)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The coast redwood can reach 115m (377ft) tall with a trunk diameter of 9m (30ft).[10] It has a conical crown, with horizontal to slightly drooping branches. The bark can be very thick, up to 1-foot (30cm), and quite soft and fibrous, with a bright red-brown color when freshly exposed (hence the name redwood), weathering darker. The root system is composed of shallow, wide-spreading lateral roots. Question: How thick is the bark of a redwood tree? Answer:",
+    {
+        "id": "english-7837479416042062054-3",
+        "lang": "english",
+        "summary": "The coast redwood can reach 115m (377ft) tall with a trunk diameter of 9m (30ft).[10] It has a conical crown, with horizontal to slightly drooping branches. The bark can be very thick, up to 1-foot (30cm), and quite soft and fibrous, with a bright red-brown color when freshly exposed (hence the name redwood), weathering darker. The root system is composed of shallow, wide-spreading lateral roots.",
+        "question": "How thick is the bark of a redwood tree?",
+        "label": "up to 1-foot (30cm)"
+    }
+]

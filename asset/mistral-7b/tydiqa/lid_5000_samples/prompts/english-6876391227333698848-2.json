@@ -1,0 +1,15 @@
+[
+    [
+        1226,
+        [],
+        "Akihito"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Currently, the Emperor of Japan is the only head of state in the world with the English title of \"Emperor\". The Imperial House of Japan is the oldest continuing monarchical house in the world.[2] The historical origins of the Emperors lie in the late Kofun period of the 3rd\u20137th centuries AD, but according to the traditional account of the Kojiki (finished 712) and Nihon Shoki (finished 720), Japan was founded in 660 BC by Emperor Jimmu, who was said to be a direct descendant of the sun-goddess Amaterasu.[3][4] The current Emperor is Akihito. He acceded to the Chrysanthemum Throne upon the death of his father, Emperor Sh\u014dwa (Hirohito), in 1989. The Japanese government announced in December 2017 that Akihito will abdicate on 30 April 2019.[5] Question: Who is the current emperor of Japan? Answer:",
+    {
+        "id": "english-6876391227333698848-2",
+        "lang": "english",
+        "summary": "Currently, the Emperor of Japan is the only head of state in the world with the English title of \"Emperor\". The Imperial House of Japan is the oldest continuing monarchical house in the world.[2] The historical origins of the Emperors lie in the late Kofun period of the 3rd\u20137th centuries AD, but according to the traditional account of the Kojiki (finished 712) and Nihon Shoki (finished 720), Japan was founded in 660 BC by Emperor Jimmu, who was said to be a direct descendant of the sun-goddess Amaterasu.[3][4] The current Emperor is Akihito. He acceded to the Chrysanthemum Throne upon the death of his father, Emperor Sh\u014dwa (Hirohito), in 1989. The Japanese government announced in December 2017 that Akihito will abdicate on 30 April 2019.[5]",
+        "question": "Who is the current emperor of Japan?",
+        "label": "Akihito"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        886,
+        [],
+        "Dog walkers have been ordered to bin their pet's waste after a deer's stomach was found to be full of plastic poo bags at a park in Leicestershire."
+    ],
+    "Write a short summary for the following passage:\nThe discovery was made at Bradgate Park, in Newtown Linford on Tuesday following an annual deer cull.\nPeter Tyldesley, director of the Bradgate Park Trust, said leaving dog mess lying around in plastic bags is \"lethal\" for all wildlife.\nHe said the culled deer was in good health despite the contents of its gut.\nMore updates and stories from Leicestershire\nMr Tyldesley said: \"When we examined its internal organs, to make sure its not got any parasites or diseases, we found the stomach was full of plastic dog poo bags.\nHe said animals had been found in the past \"looking emaciated and in poor health\" and later their stomachs were found to be \"full of plastic\".\n\"This is the first time that one has been walking around apparently healthy ... you do wonder how many animals out there have ingested a whole load of plastic.\"\nHe added the deer could be associating the bags with picnic food.\nSummary:\n",
+    {
+        "id": 886,
+        "document": "The discovery was made at Bradgate Park, in Newtown Linford on Tuesday following an annual deer cull.\nPeter Tyldesley, director of the Bradgate Park Trust, said leaving dog mess lying around in plastic bags is \"lethal\" for all wildlife.\nHe said the culled deer was in good health despite the contents of its gut.\nMore updates and stories from Leicestershire\nMr Tyldesley said: \"When we examined its internal organs, to make sure its not got any parasites or diseases, we found the stomach was full of plastic dog poo bags.\nHe said animals had been found in the past \"looking emaciated and in poor health\" and later their stomachs were found to be \"full of plastic\".\n\"This is the first time that one has been walking around apparently healthy ... you do wonder how many animals out there have ingested a whole load of plastic.\"\nHe added the deer could be associating the bags with picnic food.",
+        "summary": "Dog walkers have been ordered to bin their pet's waste after a deer's stomach was found to be full of plastic poo bags at a park in Leicestershire.",
+        "label": "Dog walkers have been ordered to bin their pet's waste after a deer's stomach was found to be full of plastic poo bags at a park in Leicestershire."
+    }
+]

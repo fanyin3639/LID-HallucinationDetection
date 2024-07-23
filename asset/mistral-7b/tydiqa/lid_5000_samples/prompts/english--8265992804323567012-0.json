@@ -1,0 +1,15 @@
+[
+    [
+        2512,
+        [],
+        "1/1,000,000,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A nanosecond (ns) is an SI unit of time equal to one thousand-millionth of a second (or one billionth of a second), that is, 1/1,000,000,000 of a second, or 10\u22129 seconds. Question: How many nanoseconds are in a second? Answer:",
+    {
+        "id": "english--8265992804323567012-0",
+        "lang": "english",
+        "summary": "A nanosecond (ns) is an SI unit of time equal to one thousand-millionth of a second (or one billionth of a second), that is, 1/1,000,000,000 of a second, or 10\u22129 seconds.",
+        "question": "How many nanoseconds are in a second?",
+        "label": "1/1,000,000,000"
+    }
+]

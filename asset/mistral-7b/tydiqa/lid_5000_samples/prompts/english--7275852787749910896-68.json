@@ -1,0 +1,15 @@
+[
+    [
+        2226,
+        [],
+        "194"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Houtman Abrolhos is unusual in having a luxuriant and diverse living coral reef at such a high latitude. 194 species in 50 genera have been recorded there,[60] all but two of which are tropical. This is a surprisingly high coral diversity, considering the high latitude of the reef, and the relatively low diversity of other biota.[60] For a full list, see list of corals of the Houtman Abrolhos. Question: How many species live in The Houtman Abrolhos reef? Answer:",
+    {
+        "id": "english--7275852787749910896-68",
+        "lang": "english",
+        "summary": "The Houtman Abrolhos is unusual in having a luxuriant and diverse living coral reef at such a high latitude. 194 species in 50 genera have been recorded there,[60] all but two of which are tropical. This is a surprisingly high coral diversity, considering the high latitude of the reef, and the relatively low diversity of other biota.[60] For a full list, see list of corals of the Houtman Abrolhos.",
+        "question": "How many species live in The Houtman Abrolhos reef?",
+        "label": "194"
+    }
+]

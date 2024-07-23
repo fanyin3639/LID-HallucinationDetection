@@ -1,0 +1,14 @@
+[
+    [
+        1134,
+        [],
+        "Here's an extremely lucky escape that'll have you holding onto your seat!"
+    ],
+    "Write a short summary for the following passage:\nA motorcyclist is waiting at a crossroad in China when a lorry coming from the opposite direction tries to turn but topples over - narrowly missing the motorbike rider.\nThe lorry driver, Mr Zhu, said: \"As the road winds here, the back compartment of the truck tilted towards the right side of the tyres and then flipped over, which was followed by the front of the truck.\"\nThankfully no one was hurt in the incident, but authorities closed off the area after it happened.\nSummary:\n",
+    {
+        "id": 1134,
+        "document": "A motorcyclist is waiting at a crossroad in China when a lorry coming from the opposite direction tries to turn but topples over - narrowly missing the motorbike rider.\nThe lorry driver, Mr Zhu, said: \"As the road winds here, the back compartment of the truck tilted towards the right side of the tyres and then flipped over, which was followed by the front of the truck.\"\nThankfully no one was hurt in the incident, but authorities closed off the area after it happened.",
+        "summary": "Here's an extremely lucky escape that'll have you holding onto your seat!",
+        "label": "Here's an extremely lucky escape that'll have you holding onto your seat!"
+    }
+]

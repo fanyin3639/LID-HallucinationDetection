@@ -1,0 +1,15 @@
+[
+    [
+        175,
+        [],
+        "c.1914 to 1960s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Gona Barracks is a heritage-listed barracks at 3, 7,12, 25 & 26 Gona Parade, Kelvin Grove, City of Brisbane, Queensland, Australia. It was built from c.1914 to 1960s. It is also known as Kelvin Grove Military Reserve and Kelvin Grove Training Area. It was added to the Queensland Heritage Register on 7 February 2005.[1] Question: When was Gona Barracks built? Answer:",
+    {
+        "id": "english-6317294592864798042-0",
+        "lang": "english",
+        "summary": "Gona Barracks is a heritage-listed barracks at 3, 7,12, 25 & 26 Gona Parade, Kelvin Grove, City of Brisbane, Queensland, Australia. It was built from c.1914 to 1960s. It is also known as Kelvin Grove Military Reserve and Kelvin Grove Training Area. It was added to the Queensland Heritage Register on 7 February 2005.[1]",
+        "question": "When was Gona Barracks built?",
+        "label": "c.1914 to 1960s"
+    }
+]

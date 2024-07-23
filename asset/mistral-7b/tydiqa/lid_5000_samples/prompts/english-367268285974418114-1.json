@@ -1,0 +1,15 @@
+[
+    [
+        1202,
+        [],
+        "cave complex comprises one hundred and nine caves"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The site is on a hillside, and is accessed via rock-cut steps. The cave complex comprises one hundred and nine caves, carved from the basalt rock and dating from the 1st century BCE to the 11th century CE. The oldest are relatively plain and unadorned, in contrast to later caves on the site, and the highly embellished Elephanta Caves of Mumbai. Each cave has a stone plinth that functioned as a bed. A congregation hall with huge stone pillars contains a stupa (a Buddhist shrine). Rock-cut channels above the caves fed rainwater into cisterns, which provided the complex with water.[3] Once the caves were converted to permanent monasteries, their walls were carved with intricate reliefs of Buddha and the Bodhisattvas. Kanheri had become an important Buddhist settlement on the Konkan coast by the 3rd century CE.[4] Question: How large are the Kanheri Caves? Answer:",
+    {
+        "id": "english-367268285974418114-1",
+        "lang": "english",
+        "summary": "The site is on a hillside, and is accessed via rock-cut steps. The cave complex comprises one hundred and nine caves, carved from the basalt rock and dating from the 1st century BCE to the 11th century CE. The oldest are relatively plain and unadorned, in contrast to later caves on the site, and the highly embellished Elephanta Caves of Mumbai. Each cave has a stone plinth that functioned as a bed. A congregation hall with huge stone pillars contains a stupa (a Buddhist shrine). Rock-cut channels above the caves fed rainwater into cisterns, which provided the complex with water.[3] Once the caves were converted to permanent monasteries, their walls were carved with intricate reliefs of Buddha and the Bodhisattvas. Kanheri had become an important Buddhist settlement on the Konkan coast by the 3rd century CE.[4]",
+        "question": "How large are the Kanheri Caves?",
+        "label": "cave complex comprises one hundred and nine caves"
+    }
+]

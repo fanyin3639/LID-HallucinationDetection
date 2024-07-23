@@ -1,0 +1,15 @@
+[
+    [
+        2488,
+        [],
+        "Gala\u021bi is a port town on the Danube River"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Gala\u021bi (Romanian pronunciation:[\u0261a\u02c8lat\u0361s\u02b2](listen); also known by other alternative names) is the capital city of Gala\u021bi County, in the historical region of Moldavia, eastern Romania. Gala\u021bi is a port town on the Danube River.[4][5] In 2011, the Romanian census recorded 249,432 residents,[1] making it the 8th most populous city in Romania. Gala\u021bi is an economic centre based around the port of Gala\u021bi and the naval shipyard. Question: What is Gala\u021bi known for? Answer:",
+    {
+        "id": "english-6610661708917736323-0",
+        "lang": "english",
+        "summary": "Gala\u021bi (Romanian pronunciation:[\u0261a\u02c8lat\u0361s\u02b2](listen); also known by other alternative names) is the capital city of Gala\u021bi County, in the historical region of Moldavia, eastern Romania. Gala\u021bi is a port town on the Danube River.[4][5] In 2011, the Romanian census recorded 249,432 residents,[1] making it the 8th most populous city in Romania. Gala\u021bi is an economic centre based around the port of Gala\u021bi and the naval shipyard.",
+        "question": "What is Gala\u021bi known for?",
+        "label": "Gala\u021bi is a port town on the Danube River"
+    }
+]

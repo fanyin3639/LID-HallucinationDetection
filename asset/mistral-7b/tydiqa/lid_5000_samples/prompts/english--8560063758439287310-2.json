@@ -1,0 +1,15 @@
+[
+    [
+        2395,
+        [],
+        "General Ya\u015far G\u00fcler"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The current Chief of the General staff is General Ya\u015far G\u00fcler. The Chief of the General Staff is the Commander of the Armed Forces. In wartime, he acts as the Commander in Chief on behalf of the President of Turkey, who represents the Supreme Military Command of the TAF on behalf of the Grand National Assembly of Turkey.[10] Commanding the Armed Forces and establishing the policies and programs related with the preparation for combat of personnel, intelligence, operations, organization, training and logistic services are the responsibilities of the General Staff. Furthermore, the General Staff coordinates the military relations of the TAF with NATO member states and other friendly nations. Question: Who is top commander of the Turkish Armed Forces? Answer:",
+    {
+        "id": "english--8560063758439287310-2",
+        "lang": "english",
+        "summary": "The current Chief of the General staff is General Ya\u015far G\u00fcler. The Chief of the General Staff is the Commander of the Armed Forces. In wartime, he acts as the Commander in Chief on behalf of the President of Turkey, who represents the Supreme Military Command of the TAF on behalf of the Grand National Assembly of Turkey.[10] Commanding the Armed Forces and establishing the policies and programs related with the preparation for combat of personnel, intelligence, operations, organization, training and logistic services are the responsibilities of the General Staff. Furthermore, the General Staff coordinates the military relations of the TAF with NATO member states and other friendly nations.",
+        "question": "Who is top commander of the Turkish Armed Forces?",
+        "label": "General Ya\u015far G\u00fcler"
+    }
+]

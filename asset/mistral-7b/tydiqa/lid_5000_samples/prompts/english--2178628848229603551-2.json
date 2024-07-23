@@ -1,0 +1,15 @@
+[
+    [
+        2707,
+        [],
+        "26"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The French alphabet is based on the 26 letters of the Latin alphabet, uppercase and lowercase, with five diacritics and two orthographic ligatures. Question: How many letters are used in the French alphabet? Answer:",
+    {
+        "id": "english--2178628848229603551-2",
+        "lang": "english",
+        "summary": "The French alphabet is based on the 26 letters of the Latin alphabet, uppercase and lowercase, with five diacritics and two orthographic ligatures.",
+        "question": "How many letters are used in the French alphabet?",
+        "label": "26"
+    }
+]

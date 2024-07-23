@@ -1,0 +1,14 @@
+[
+    [
+        1327,
+        [],
+        "An 18-year-old shepherd has died after being shot by Israeli settlers near the West Bank city of Nablus, Palestinian officials say."
+    ],
+    "Write a short summary for the following passage:\nWitnesses say the man was attacked by four Jewish settlers. Israeli officials say they are looking into the incident.\nThere are over 400,000 Jewish settlers living on occupied Palestinian land in the West Bank and East Jerusalem.\nDisputes over grazing areas that lie between the illegal settlements and Palestinian villages are common.\nMany settlers own guns which were originally issued to them by the Israeli government, says the BBC's Jon Donnison from Ramallah.\nPalestinian sources identified the man as Uday Maher Qadous from the village of Iraq Burin, south-west of Nablus.\nHis cousin, Omar Qadous, told the AFP news agency that the incident occurred as they were farming near their village.\nHe said one of a group of four settlers standing on a nearby hilltop opened fire, hitting Uday in the chest.\nThe teenager was later pronounced dead at Rafidiyeh hospital in Nablus.\nAn Israeli police spokesman said they were checking reports that a Palestinian had been shot.\nSummary:\n",
+    {
+        "id": 1327,
+        "document": "Witnesses say the man was attacked by four Jewish settlers. Israeli officials say they are looking into the incident.\nThere are over 400,000 Jewish settlers living on occupied Palestinian land in the West Bank and East Jerusalem.\nDisputes over grazing areas that lie between the illegal settlements and Palestinian villages are common.\nMany settlers own guns which were originally issued to them by the Israeli government, says the BBC's Jon Donnison from Ramallah.\nPalestinian sources identified the man as Uday Maher Qadous from the village of Iraq Burin, south-west of Nablus.\nHis cousin, Omar Qadous, told the AFP news agency that the incident occurred as they were farming near their village.\nHe said one of a group of four settlers standing on a nearby hilltop opened fire, hitting Uday in the chest.\nThe teenager was later pronounced dead at Rafidiyeh hospital in Nablus.\nAn Israeli police spokesman said they were checking reports that a Palestinian had been shot.",
+        "summary": "An 18-year-old shepherd has died after being shot by Israeli settlers near the West Bank city of Nablus, Palestinian officials say.",
+        "label": "An 18-year-old shepherd has died after being shot by Israeli settlers near the West Bank city of Nablus, Palestinian officials say."
+    }
+]

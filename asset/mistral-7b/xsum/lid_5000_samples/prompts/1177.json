@@ -1,0 +1,14 @@
+[
+    [
+        1177,
+        [],
+        "Widnes Vikings centre Stefan Marsh will miss the rest of the season due to a knee injury picked up in last week's victory over Wigan Warriors."
+    ],
+    "Write a short summary for the following passage:\nThe 26-year-old, who joined Widnes from Wigan in 2012, will await a decision on whether he now requires an operation.\nMarsh signed a new two-year-deal in April to remain at the club until 2018.\nHead coach Denis Betts told the club website: \"We're assessing him this week but the early signs mean he will definitely miss the rest of this year.\"\nSummary:\n",
+    {
+        "id": 1177,
+        "document": "The 26-year-old, who joined Widnes from Wigan in 2012, will await a decision on whether he now requires an operation.\nMarsh signed a new two-year-deal in April to remain at the club until 2018.\nHead coach Denis Betts told the club website: \"We're assessing him this week but the early signs mean he will definitely miss the rest of this year.\"",
+        "summary": "Widnes Vikings centre Stefan Marsh will miss the rest of the season due to a knee injury picked up in last week's victory over Wigan Warriors.",
+        "label": "Widnes Vikings centre Stefan Marsh will miss the rest of the season due to a knee injury picked up in last week's victory over Wigan Warriors."
+    }
+]

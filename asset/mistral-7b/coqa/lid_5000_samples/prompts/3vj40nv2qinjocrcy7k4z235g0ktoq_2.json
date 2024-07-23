@@ -1,0 +1,19 @@
+[
+    [
+        1808,
+        [],
+        "the Catholic Church"
+    ],
+    "Answer the following questions:\nContext: Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits. Educational methods include storytelling, discussion, teaching, training, and directed research. Education frequently takes place under the guidance of educators, but learners may also educate themselves. Education can take place in formal or informal settings and any experience that has a formative effect on the way one thinks, feels, or acts may be considered educational. The methodology of teaching is called pedagogy. \n\nAfter the Fall of Rome, the Catholic Church became the sole preserver of literate scholarship in Western Europe. The church established cathedral schools in the Early Middle Ages as centers of advanced education. Some of these establishments ultimately evolved into medieval universities and forebears of many of Europe's modern universities. During the High Middle Ages, Chartres Cathedral operated the famous and influential Chartres Cathedral School. The medieval universities of Western Christendom were well-integrated across all of Western Europe, encouraged freedom of inquiry, and produced a great variety of fine scholars and natural philosophers, including Thomas Aquinas of the University of Naples, Robert Grosseteste of the University of Oxford, an early expositor of a systematic method of scientific experimentation, and Saint Albert the Great, a pioneer of biological field research. Founded in 1088, the University of Bologne is considered the first, and the oldest continually operating university.\n'Question': After Rome fell, who was the only preserver of literate scholarship in Western Europe?\n'Answer: '",
+    {
+        "id": "3vj40nv2qinjocrcy7k4z235g0ktoq_2",
+        "summary": "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits. Educational methods include storytelling, discussion, teaching, training, and directed research. Education frequently takes place under the guidance of educators, but learners may also educate themselves. Education can take place in formal or informal settings and any experience that has a formative effect on the way one thinks, feels, or acts may be considered educational. The methodology of teaching is called pedagogy. \n\nAfter the Fall of Rome, the Catholic Church became the sole preserver of literate scholarship in Western Europe. The church established cathedral schools in the Early Middle Ages as centers of advanced education. Some of these establishments ultimately evolved into medieval universities and forebears of many of Europe's modern universities. During the High Middle Ages, Chartres Cathedral operated the famous and influential Chartres Cathedral School. The medieval universities of Western Christendom were well-integrated across all of Western Europe, encouraged freedom of inquiry, and produced a great variety of fine scholars and natural philosophers, including Thomas Aquinas of the University of Naples, Robert Grosseteste of the University of Oxford, an early expositor of a systematic method of scientific experimentation, and Saint Albert the Great, a pioneer of biological field research. Founded in 1088, the University of Bologne is considered the first, and the oldest continually operating university.",
+        "question": "After Rome fell, who was the only preserver of literate scholarship in Western Europe?",
+        "label": "the Catholic Church",
+        "additional_answers": [
+            "the Catholic Church",
+            "the Catholic Church",
+            "Catholic Church"
+        ]
+    }
+]

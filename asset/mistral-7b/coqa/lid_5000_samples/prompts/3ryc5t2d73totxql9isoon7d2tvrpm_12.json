@@ -1,0 +1,19 @@
+[
+    [
+        1960,
+        [],
+        "yes"
+    ],
+    "Answer the following questions:\nContext: (CNN) -- Major League Baseball on Monday suspended 13 players, including New York Yankees star Alex Rodriguez, after an investigation into the use of performance-enhancing drugs. \n\nThe league suspended Rodriguez for 211 regular-season games through the 2014 season, but the 38-year-old slugger said he planned to appeal. Twelve other players have accepted 50-game suspensions without pay. \n\nA-Rod and the other players are accused of having ties to the now-shuttered Biogenesis anti-aging clinic in south Florida and taking performance-enhancing drugs. Rodriguez has denied the accusation. \n\n\"I'm fighting for my life. I have to defend myself. If I don't defend myself, no one else will,\" he told reporters after the league announced its decision. \n\nTwitter reaction to A-Rod ban \n\nThe last seven months have been a \"nightmare,\" he said. \n\nIt \"has been probably the worst time of my life for sure,\" said Rodriguez, \"obviously for the circumstances that are at hand and also dealing with a very tough surgery and a rehab program, and being 38.\" \n\nAsked directly whether he had used performance-enhancing drugs, he declined -- repeatedly -- to comment. \n\n\"I think we'll have a forum to discuss all of that, and we'll talk about it then,\" Rodriguez said. \n\nEarlier in a written statement, he said that he was disappointed with the penalty and intends to appeal. He thanked family, friends and fans for their support and stressed that he was eager to get back on the field with his teammates. \n\nTimeline of Alex Rodriguez's rise and fall \n\nHis suspension is set to go into effect on Thursday, the league said. But officials also said that Rodriguez could keep playing if he appeals. \n'Question': anyone else appealing?\n'Answer: '",
+    {
+        "id": "3ryc5t2d73totxql9isoon7d2tvrpm_12",
+        "summary": "(CNN) -- Major League Baseball on Monday suspended 13 players, including New York Yankees star Alex Rodriguez, after an investigation into the use of performance-enhancing drugs. \n\nThe league suspended Rodriguez for 211 regular-season games through the 2014 season, but the 38-year-old slugger said he planned to appeal. Twelve other players have accepted 50-game suspensions without pay. \n\nA-Rod and the other players are accused of having ties to the now-shuttered Biogenesis anti-aging clinic in south Florida and taking performance-enhancing drugs. Rodriguez has denied the accusation. \n\n\"I'm fighting for my life. I have to defend myself. If I don't defend myself, no one else will,\" he told reporters after the league announced its decision. \n\nTwitter reaction to A-Rod ban \n\nThe last seven months have been a \"nightmare,\" he said. \n\nIt \"has been probably the worst time of my life for sure,\" said Rodriguez, \"obviously for the circumstances that are at hand and also dealing with a very tough surgery and a rehab program, and being 38.\" \n\nAsked directly whether he had used performance-enhancing drugs, he declined -- repeatedly -- to comment. \n\n\"I think we'll have a forum to discuss all of that, and we'll talk about it then,\" Rodriguez said. \n\nEarlier in a written statement, he said that he was disappointed with the penalty and intends to appeal. He thanked family, friends and fans for their support and stressed that he was eager to get back on the field with his teammates. \n\nTimeline of Alex Rodriguez's rise and fall \n\nHis suspension is set to go into effect on Thursday, the league said. But officials also said that Rodriguez could keep playing if he appeals. ",
+        "question": "anyone else appealing?",
+        "label": "yes",
+        "additional_answers": [
+            "No",
+            "unknown",
+            "unknown"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        3061,
+        [],
+        "fatty acid molecules are broken down[1] in the cytosol in prokaryotes and in the mitochondria in eukaryotes to generate acetyl-CoA, which enters the citric acid cycle, and NADH and FADH2, which are co-enzymes used in the electron transport chain"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In biochemistry and metabolism, beta-oxidation is the catabolic process by which fatty acid molecules are broken down[1] in the cytosol in prokaryotes and in the mitochondria in eukaryotes to generate acetyl-CoA, which enters the citric acid cycle, and NADH and FADH2, which are co-enzymes used in the electron transport chain. It is named as such because the beta carbon of the fatty acid undergoes oxidation to a carbonyl group. Beta-oxidation is primarily facilitated by the mitochondrial trifunctional protein, an enzyme complex associated with the inner mitochondrial membrane, although very long chain fatty acids are oxidized in peroxisomes. Question: What happens in oxidation? Answer:",
+    {
+        "id": "english-7741592576223040501-0",
+        "lang": "english",
+        "summary": "In biochemistry and metabolism, beta-oxidation is the catabolic process by which fatty acid molecules are broken down[1] in the cytosol in prokaryotes and in the mitochondria in eukaryotes to generate acetyl-CoA, which enters the citric acid cycle, and NADH and FADH2, which are co-enzymes used in the electron transport chain. It is named as such because the beta carbon of the fatty acid undergoes oxidation to a carbonyl group. Beta-oxidation is primarily facilitated by the mitochondrial trifunctional protein, an enzyme complex associated with the inner mitochondrial membrane, although very long chain fatty acids are oxidized in peroxisomes.",
+        "question": "What happens in oxidation?",
+        "label": "fatty acid molecules are broken down[1] in the cytosol in prokaryotes and in the mitochondria in eukaryotes to generate acetyl-CoA, which enters the citric acid cycle, and NADH and FADH2, which are co-enzymes used in the electron transport chain"
+    }
+]

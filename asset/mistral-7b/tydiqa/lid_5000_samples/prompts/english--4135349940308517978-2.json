@@ -1,0 +1,15 @@
+[
+    [
+        3147,
+        [],
+        "Ghirlandaio"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Michelangelo's father sent him to study grammar with the Renaissance humanist Francesco da Urbino in Florence as a young boy.[1]  The young artist, however, showed no interest in his schooling, preferring to copy paintings from churches and seek the company of painters.[1] At thirteen, Michelangelo was apprenticed to the painter Domenico Ghirlandaio.[2]  When Michelangelo was only fourteen, his father persuaded Ghirlandaio to pay his apprentice as an artist, which was highly unusual at the time.[3]  When in 1489 Lorenzo de' Medici (\"Lorenzo il Magnifico), de facto ruler of Florence, asked Ghirlandaio for his two best pupils, Ghirlandaio sent Michelangelo and Francesco Granacci.[3] Lorenzo had taken notice of Michelangelo\u2019s unusual talent and, wishing to encourage him, proposed for Michelangelo to move into the palace and live there as his son to be educated along with the Medici children. Lorenzo even offered Michelangelo\u2019s father Lodovico a respectable position in the palace. Michelangelo was thrown into the midst of the Medici circle where he was involved with poetry, science, philosophy, and art. Question: Who was Michelangelo's teacher? Answer:",
+    {
+        "id": "english--4135349940308517978-2",
+        "lang": "english",
+        "summary": "Michelangelo's father sent him to study grammar with the Renaissance humanist Francesco da Urbino in Florence as a young boy.[1]  The young artist, however, showed no interest in his schooling, preferring to copy paintings from churches and seek the company of painters.[1] At thirteen, Michelangelo was apprenticed to the painter Domenico Ghirlandaio.[2]  When Michelangelo was only fourteen, his father persuaded Ghirlandaio to pay his apprentice as an artist, which was highly unusual at the time.[3]  When in 1489 Lorenzo de' Medici (\"Lorenzo il Magnifico), de facto ruler of Florence, asked Ghirlandaio for his two best pupils, Ghirlandaio sent Michelangelo and Francesco Granacci.[3] Lorenzo had taken notice of Michelangelo\u2019s unusual talent and, wishing to encourage him, proposed for Michelangelo to move into the palace and live there as his son to be educated along with the Medici children. Lorenzo even offered Michelangelo\u2019s father Lodovico a respectable position in the palace. Michelangelo was thrown into the midst of the Medici circle where he was involved with poetry, science, philosophy, and art.",
+        "question": "Who was Michelangelo's teacher?",
+        "label": "Ghirlandaio"
+    }
+]

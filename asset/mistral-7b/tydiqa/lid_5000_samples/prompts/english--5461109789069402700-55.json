@@ -1,0 +1,15 @@
+[
+    [
+        1761,
+        [],
+        "1978"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The last cases of smallpox in the world occurred in an outbreak of two cases (one of which was fatal) in Birmingham, United Kingdom, in 1978.[94] A medical photographer, Janet Parker, contracted the disease at the University of Birmingham Medical School and died on 11 September 1978. Professor Henry Bedson, the scientist responsible for smallpox research at the university, killed himself.[94][95] All known stocks of smallpox were subsequently destroyed or transferred to two WHO-designated reference laboratories with BSL-4 facilities\u2013 the United States' Centers for Disease Control and Prevention and Russia's State Research Center of Virology and Biotechnology VECTOR.[96] Question: When was the last smallpox outbreak? Answer:",
+    {
+        "id": "english--5461109789069402700-55",
+        "lang": "english",
+        "summary": "The last cases of smallpox in the world occurred in an outbreak of two cases (one of which was fatal) in Birmingham, United Kingdom, in 1978.[94] A medical photographer, Janet Parker, contracted the disease at the University of Birmingham Medical School and died on 11 September 1978. Professor Henry Bedson, the scientist responsible for smallpox research at the university, killed himself.[94][95] All known stocks of smallpox were subsequently destroyed or transferred to two WHO-designated reference laboratories with BSL-4 facilities\u2013 the United States' Centers for Disease Control and Prevention and Russia's State Research Center of Virology and Biotechnology VECTOR.[96]",
+        "question": "When was the last smallpox outbreak?",
+        "label": "1978"
+    }
+]

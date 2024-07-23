@@ -1,0 +1,19 @@
+[
+    [
+        1055,
+        [],
+        "eleven years"
+    ],
+    "Answer the following questions:\nContext: The Kingdom of Yugoslavia (, , \"Kingdom of South Slavia\") was a state in Southeast Europe and Central Europe, that existed during the interwar period (1918\u20131939) and first half of World War II (1939\u20131943). \n\nIt was formed in 1918 by the merger of the provisional State of Slovenes, Croats and Serbs (itself formed from territories of the former Austro-Hungarian Empire) with the formerly independent Kingdom of Serbia. The Kingdom of Montenegro had united with Serbia five days previously, while the regions of Kosovo, Vojvodina and Vardar Macedonia were parts of Serbia prior to the unification. \n\nFor its first eleven years of existence, the Kingdom was officially called the Kingdom of Serbs, Croats and Slovenes, but the term \"Yugoslavia\" was its colloquial name from its origins. The official name of the state was changed to \"Kingdom of Yugoslavia\" by King Alexander I on 3 October 1929. \n\nThe state was ruled by the Serbian dynasty of Kara\u0111or\u0111evi\u0107, which previously ruled the Kingdom of Serbia under Peter I from 1903 (after the May Overthrow) onwards. Peter I became the first king of Yugoslavia until his death in 1921. He was succeeded by his son Alexander I, who had been regent for his father. He was known as \"Alexander the Unifier\" and he renamed the kingdom \"Yugoslavia\" in 1929. He was assassinated in Marseille by Vlado Chernozemski, a member of the Internal Macedonian Revolutionary Organization (IMRO), during his visit to France in 1934. The crown passed to his then-still under-aged son Peter. His cousin Paul ruled as Prince regent until 1941, when Peter II would come of age. The royal family flew to London the same year, prior to the country being invaded by the Axis powers.\n'Question': For how long?\n'Answer: '",
+    {
+        "id": "3gna64guze4komt2coualrsrf7o5q9_7",
+        "summary": "The Kingdom of Yugoslavia (, , \"Kingdom of South Slavia\") was a state in Southeast Europe and Central Europe, that existed during the interwar period (1918\u20131939) and first half of World War II (1939\u20131943). \n\nIt was formed in 1918 by the merger of the provisional State of Slovenes, Croats and Serbs (itself formed from territories of the former Austro-Hungarian Empire) with the formerly independent Kingdom of Serbia. The Kingdom of Montenegro had united with Serbia five days previously, while the regions of Kosovo, Vojvodina and Vardar Macedonia were parts of Serbia prior to the unification. \n\nFor its first eleven years of existence, the Kingdom was officially called the Kingdom of Serbs, Croats and Slovenes, but the term \"Yugoslavia\" was its colloquial name from its origins. The official name of the state was changed to \"Kingdom of Yugoslavia\" by King Alexander I on 3 October 1929. \n\nThe state was ruled by the Serbian dynasty of Kara\u0111or\u0111evi\u0107, which previously ruled the Kingdom of Serbia under Peter I from 1903 (after the May Overthrow) onwards. Peter I became the first king of Yugoslavia until his death in 1921. He was succeeded by his son Alexander I, who had been regent for his father. He was known as \"Alexander the Unifier\" and he renamed the kingdom \"Yugoslavia\" in 1929. He was assassinated in Marseille by Vlado Chernozemski, a member of the Internal Macedonian Revolutionary Organization (IMRO), during his visit to France in 1934. The crown passed to his then-still under-aged son Peter. His cousin Paul ruled as Prince regent until 1941, when Peter II would come of age. The royal family flew to London the same year, prior to the country being invaded by the Axis powers.",
+        "question": "For how long?",
+        "label": "eleven years",
+        "additional_answers": [
+            "11 years",
+            "11 years",
+            "eleven years"
+        ]
+    }
+]

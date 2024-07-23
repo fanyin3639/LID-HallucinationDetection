@@ -1,0 +1,15 @@
+[
+    [
+        2198,
+        [],
+        "18,277"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Boden is a locality and the seat of Boden Municipality in Norrbotten County, Sweden with 18,277 inhabitants in 2010.[1] It is part of the larger area around coastal city Lule\u00e5 some 36 kilometres (22mi) southeast.[2] Question: What is the population of Boden? Answer:",
+    {
+        "id": "english-1884293077440155473-0",
+        "lang": "english",
+        "summary": "Boden is a locality and the seat of Boden Municipality in Norrbotten County, Sweden with 18,277 inhabitants in 2010.[1] It is part of the larger area around coastal city Lule\u00e5 some 36 kilometres (22mi) southeast.[2]",
+        "question": "What is the population of Boden?",
+        "label": "18,277"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        841,
+        [],
+        "Coastal sand dunes have been left unstable by tidal surges, leading to fears people may become trapped."
+    ],
+    "Write a short summary for the following passage:\nHigh waves lashed the north-east coast of England on Friday and overtopped sea walls.\nRedcar RNLI said the dunes at Coatham in Redcar had \"taken a battering\" and rescuing people in sinking sand could be \"very, very difficult\".\nThe warning comes following previous incidents further up the coast at Druridge Bay and Bamburgh.\nRedcar Lifeboat operations manager Dave Cocks said the storm surge had left Coatham's dunes \"very unstable\".\n\"Once people have become trapped in sand it is a very, very difficult situation to be rescued from,\" he said.\nThe Friends of Redcar group has in the past highlighted the danger posed by shifting sands exposing the former landfill site.\nRedcar councillor Carl Quartermain said Coatham dunes had now partly disappeared, revealing a \"brick and masonry underbelly\".\nRedcar and Cleveland Council warned high tides could bring in debris along the coast following the tidal surge.\nElsewhere, a fisherman had to be rescued after being cut off by huge waves on Blyth Pier, while the pier at Saltburn had to be closed after it was damaged by the waves.\nThe River Tyne reached the top of temporary barriers on Newcastle and Gateshead quayside before the tide receded.\nSummary:\n",
+    {
+        "id": 841,
+        "document": "High waves lashed the north-east coast of England on Friday and overtopped sea walls.\nRedcar RNLI said the dunes at Coatham in Redcar had \"taken a battering\" and rescuing people in sinking sand could be \"very, very difficult\".\nThe warning comes following previous incidents further up the coast at Druridge Bay and Bamburgh.\nRedcar Lifeboat operations manager Dave Cocks said the storm surge had left Coatham's dunes \"very unstable\".\n\"Once people have become trapped in sand it is a very, very difficult situation to be rescued from,\" he said.\nThe Friends of Redcar group has in the past highlighted the danger posed by shifting sands exposing the former landfill site.\nRedcar councillor Carl Quartermain said Coatham dunes had now partly disappeared, revealing a \"brick and masonry underbelly\".\nRedcar and Cleveland Council warned high tides could bring in debris along the coast following the tidal surge.\nElsewhere, a fisherman had to be rescued after being cut off by huge waves on Blyth Pier, while the pier at Saltburn had to be closed after it was damaged by the waves.\nThe River Tyne reached the top of temporary barriers on Newcastle and Gateshead quayside before the tide receded.",
+        "summary": "Coastal sand dunes have been left unstable by tidal surges, leading to fears people may become trapped.",
+        "label": "Coastal sand dunes have been left unstable by tidal surges, leading to fears people may become trapped."
+    }
+]

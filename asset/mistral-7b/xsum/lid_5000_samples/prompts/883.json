@@ -1,0 +1,14 @@
+[
+    [
+        883,
+        [],
+        "Derby County left-back Max Lowe has signed a new contract with the club until the summer of 2020."
+    ],
+    "Write a short summary for the following passage:\nThe 19-year-old came through the Rams' youth ranks and made his first-team debut against Carlisle in the EFL Cup earlier this season.\nEngland Under-20 international Lowe made his first Championship start in the 2-0 win at Cardiff on Tuesday.\n\"I really hope that this is just the start and I know that I still have lots to learn as a player,\" he said.\n\"It has been a great journey for me to get to this stage, having joined at the age of 10, but I know I've not achieved anything yet and I'll continue to work extremely hard.\"\nSummary:\n",
+    {
+        "id": 883,
+        "document": "The 19-year-old came through the Rams' youth ranks and made his first-team debut against Carlisle in the EFL Cup earlier this season.\nEngland Under-20 international Lowe made his first Championship start in the 2-0 win at Cardiff on Tuesday.\n\"I really hope that this is just the start and I know that I still have lots to learn as a player,\" he said.\n\"It has been a great journey for me to get to this stage, having joined at the age of 10, but I know I've not achieved anything yet and I'll continue to work extremely hard.\"",
+        "summary": "Derby County left-back Max Lowe has signed a new contract with the club until the summer of 2020.",
+        "label": "Derby County left-back Max Lowe has signed a new contract with the club until the summer of 2020."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        737,
+        [],
+        "four arcs"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The series is loosely divided into four arcs, chronicling the introduction and reveal of each \"A\". Set in the suburbs of Philadelphia, the series follows the lives of four teenage girls nicknamed the Pretty little Liars or simply the Liars, whose clique falls apart after the disappearance of their Queen bee leader, \"Alison DiLaurentis\". A year after her disappearance, the girls begin receiving threatening messages from an anonymous character named \"A,\" who threatens to expose their secrets, including long-hidden ones they thought only Alison knew. Shortly after the messages begin, Alison's body is discovered buried in her yard. The books progress with the four girls trying to figure out the identity of \"A\" and facing many dangerous obstacles and twists as they do so. Question: How many books are in the Pretty Little Liars series? Answer:",
+    {
+        "id": "english--3896265190215863531-2",
+        "lang": "english",
+        "summary": "The series is loosely divided into four arcs, chronicling the introduction and reveal of each \"A\". Set in the suburbs of Philadelphia, the series follows the lives of four teenage girls nicknamed the Pretty little Liars or simply the Liars, whose clique falls apart after the disappearance of their Queen bee leader, \"Alison DiLaurentis\". A year after her disappearance, the girls begin receiving threatening messages from an anonymous character named \"A,\" who threatens to expose their secrets, including long-hidden ones they thought only Alison knew. Shortly after the messages begin, Alison's body is discovered buried in her yard. The books progress with the four girls trying to figure out the identity of \"A\" and facing many dangerous obstacles and twists as they do so.",
+        "question": "How many books are in the Pretty Little Liars series?",
+        "label": "four arcs"
+    }
+]

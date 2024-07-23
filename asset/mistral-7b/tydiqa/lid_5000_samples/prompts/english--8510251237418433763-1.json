@@ -1,0 +1,15 @@
+[
+    [
+        2434,
+        [],
+        "783,562km"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The area of Turkey is 783,562km2 (302,535sqmi);[2] land: 770,760km2 (297,592sqmi), water: 9,820km2 (3,792sqmi). Question: How large is Turkey? Answer:",
+    {
+        "id": "english--8510251237418433763-1",
+        "lang": "english",
+        "summary": "The area of Turkey is 783,562km2 (302,535sqmi);[2] land: 770,760km2 (297,592sqmi), water: 9,820km2 (3,792sqmi).",
+        "question": "How large is Turkey?",
+        "label": "783,562km"
+    }
+]

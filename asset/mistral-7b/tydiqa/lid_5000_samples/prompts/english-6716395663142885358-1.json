@@ -1,0 +1,15 @@
+[
+    [
+        1095,
+        [],
+        "1.418billion"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 2019, China's population stands at 1.418billion,[1] the largest of any country in the world. According to the 2010 census, 91.51% of the population was Han Chinese, and 8.49% were minorities. China's population growth rate is only 0.59%, ranking 159th in the world.[2] China conducted its sixth national population census on 1 November 2010.[3] Unless otherwise indicated, the statistics on this page pertain to mainland China only; see also Demographics of Hong Kong and Demographics of Macau. Question: How many people live in China? Answer:",
+    {
+        "id": "english-6716395663142885358-1",
+        "lang": "english",
+        "summary": "In 2019, China's population stands at 1.418billion,[1] the largest of any country in the world. According to the 2010 census, 91.51% of the population was Han Chinese, and 8.49% were minorities. China's population growth rate is only 0.59%, ranking 159th in the world.[2] China conducted its sixth national population census on 1 November 2010.[3] Unless otherwise indicated, the statistics on this page pertain to mainland China only; see also Demographics of Hong Kong and Demographics of Macau.",
+        "question": "How many people live in China?",
+        "label": "1.418billion"
+    }
+]

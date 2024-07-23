@@ -1,0 +1,15 @@
+[
+    [
+        2590,
+        [],
+        "8mi (13km) long and 2mi (3.2km) wide"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: About 8mi (13km) long and 2mi (3.2km) wide, the island lies between the mainland and the barrier islands near Nags Head. Albemarle Sound lies on its north, Roanoke Sound on the eastern, Croatan Sound on the west, and Wanchese CDP lies at the southern end. The town of Manteo is located on the northern portion of the island, and is the county seat of Dare County. Fort Raleigh National Historic Site is on the north end of the island. The island has a land area of 17.95 square miles (46.5km2) and a population of 6,724 as of the 2000 census. Question: How big is Roanoke Island? Answer:",
+    {
+        "id": "english-1982862762704942690-1",
+        "lang": "english",
+        "summary": "About 8mi (13km) long and 2mi (3.2km) wide, the island lies between the mainland and the barrier islands near Nags Head. Albemarle Sound lies on its north, Roanoke Sound on the eastern, Croatan Sound on the west, and Wanchese CDP lies at the southern end. The town of Manteo is located on the northern portion of the island, and is the county seat of Dare County. Fort Raleigh National Historic Site is on the north end of the island. The island has a land area of 17.95 square miles (46.5km2) and a population of 6,724 as of the 2000 census.",
+        "question": "How big is Roanoke Island?",
+        "label": "8mi (13km) long and 2mi (3.2km) wide"
+    }
+]

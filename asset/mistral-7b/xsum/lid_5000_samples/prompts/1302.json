@@ -1,0 +1,14 @@
+[
+    [
+        1302,
+        [],
+        "A rare antique map of the world found during building work has returned to Aberdeenshire after being saved by conservation experts."
+    ],
+    "Write a short summary for the following passage:\nThe map, found in the 1980s, was identified as a late 17th century wall map of the world produced by the Dutch engraver Gerald Valck.\nIt was delicately washed and cleaned by conservationists at the National Library of Scotland.\nIt is now being put on public display at Castle Fraser, near Dunecht.\nIt had become known as the chimney map because it was initially said to have been found stuffed up a chimney.\nHowever, it is now understood to have been found under a floorboard during renovations on Drumnahoy House that was once part of the Castle Fraser estate.\nPaula Swan, National Trust for Scotland property manager at Castle Fraser, said:  \"We are honoured to welcome this amazing map back to the Castle Fraser estate.\n\"It is a fascinating piece and of such historical significance.\"\nSummary:\n",
+    {
+        "id": 1302,
+        "document": "The map, found in the 1980s, was identified as a late 17th century wall map of the world produced by the Dutch engraver Gerald Valck.\nIt was delicately washed and cleaned by conservationists at the National Library of Scotland.\nIt is now being put on public display at Castle Fraser, near Dunecht.\nIt had become known as the chimney map because it was initially said to have been found stuffed up a chimney.\nHowever, it is now understood to have been found under a floorboard during renovations on Drumnahoy House that was once part of the Castle Fraser estate.\nPaula Swan, National Trust for Scotland property manager at Castle Fraser, said:  \"We are honoured to welcome this amazing map back to the Castle Fraser estate.\n\"It is a fascinating piece and of such historical significance.\"",
+        "summary": "A rare antique map of the world found during building work has returned to Aberdeenshire after being saved by conservation experts.",
+        "label": "A rare antique map of the world found during building work has returned to Aberdeenshire after being saved by conservation experts."
+    }
+]

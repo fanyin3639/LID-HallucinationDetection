@@ -1,0 +1,14 @@
+[
+    [
+        441,
+        [],
+        "A 16-year-old boy has been charged with the murder of a teenager who was stabbed to death in the street."
+    ],
+    "Write a short summary for the following passage:\nIrfan Wahid, also 16, was attacked in Harehills Lane, Leeds, on Friday afternoon. He later died from a single stab wound to the chest.\nThe suspect has been charged with murder and possession of a bladed article.\nWest Yorkshire Police said the boy, who cannot be named due to his age, will appear at Leeds Youth Court on Tuesday.\nSummary:\n",
+    {
+        "id": 441,
+        "document": "Irfan Wahid, also 16, was attacked in Harehills Lane, Leeds, on Friday afternoon. He later died from a single stab wound to the chest.\nThe suspect has been charged with murder and possession of a bladed article.\nWest Yorkshire Police said the boy, who cannot be named due to his age, will appear at Leeds Youth Court on Tuesday.",
+        "summary": "A 16-year-old boy has been charged with the murder of a teenager who was stabbed to death in the street.",
+        "label": "A 16-year-old boy has been charged with the murder of a teenager who was stabbed to death in the street."
+    }
+]

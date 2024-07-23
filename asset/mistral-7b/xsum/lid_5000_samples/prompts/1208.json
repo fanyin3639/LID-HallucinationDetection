@@ -1,0 +1,14 @@
+[
+    [
+        1208,
+        [],
+        "A 73-year old motorcyclist has died after a three vehicle crash in the Highlands, at Borlum Farm, Lewiston, on the A82 near Drumnadrochit."
+    ],
+    "Write a short summary for the following passage:\nThe collision happened at about 16:20 on Saturday afternoon.\nHis family have been informed but police have not yet named him.\nAnyone who witnessed the collision is asked to contact Police Scotland.\nSummary:\n",
+    {
+        "id": 1208,
+        "document": "The collision happened at about 16:20 on Saturday afternoon.\nHis family have been informed but police have not yet named him.\nAnyone who witnessed the collision is asked to contact Police Scotland.",
+        "summary": "A 73-year old motorcyclist has died after a three vehicle crash in the Highlands, at Borlum Farm, Lewiston, on the A82 near Drumnadrochit.",
+        "label": "A 73-year old motorcyclist has died after a three vehicle crash in the Highlands, at Borlum Farm, Lewiston, on the A82 near Drumnadrochit."
+    }
+]

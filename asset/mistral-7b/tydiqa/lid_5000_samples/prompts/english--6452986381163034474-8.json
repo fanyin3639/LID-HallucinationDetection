@@ -1,0 +1,15 @@
+[
+    [
+        3136,
+        [],
+        "Hans Christian \u00d8rsted"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Three discoveries challenged this foundation of magnetism, though. First, in 1819, Hans Christian \u00d8rsted discovered that an electric current generates a magnetic field encircling it. Then in 1820, Andr\u00e9-Marie Amp\u00e8re showed that parallel wires with currents attract one another if the currents are in the same direction and repel if they are in opposite directions.[7] Finally, Jean-Baptiste Biot and F\u00e9lix Savart discovered the Biot\u2013Savart law in 1820, which correctly predicts the magnetic field around any current-carrying wire. Question: Who first measured magnetic force? Answer:",
+    {
+        "id": "english--6452986381163034474-8",
+        "lang": "english",
+        "summary": "Three discoveries challenged this foundation of magnetism, though. First, in 1819, Hans Christian \u00d8rsted discovered that an electric current generates a magnetic field encircling it. Then in 1820, Andr\u00e9-Marie Amp\u00e8re showed that parallel wires with currents attract one another if the currents are in the same direction and repel if they are in opposite directions.[7] Finally, Jean-Baptiste Biot and F\u00e9lix Savart discovered the Biot\u2013Savart law in 1820, which correctly predicts the magnetic field around any current-carrying wire.",
+        "question": "Who first measured magnetic force?",
+        "label": "Hans Christian \u00d8rsted"
+    }
+]

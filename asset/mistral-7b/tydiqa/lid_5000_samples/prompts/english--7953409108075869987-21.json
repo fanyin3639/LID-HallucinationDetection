@@ -1,0 +1,15 @@
+[
+    [
+        1276,
+        [],
+        "795"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first recorded Viking raid in Irish history occurred in AD 795 when Vikings, possibly from Norway[10] looted the island of Lambay.[note 4] This was followed by a raid on the coast of Brega in 798, and raids on the coast of Connacht in 807.[11] These early Viking raids were generally small in scale and quick. Question: When did the Vikings arrive in Ireland? Answer:",
+    {
+        "id": "english--7953409108075869987-21",
+        "lang": "english",
+        "summary": "The first recorded Viking raid in Irish history occurred in AD 795 when Vikings, possibly from Norway[10] looted the island of Lambay.[note 4] This was followed by a raid on the coast of Brega in 798, and raids on the coast of Connacht in 807.[11] These early Viking raids were generally small in scale and quick.",
+        "question": "When did the Vikings arrive in Ireland?",
+        "label": "795"
+    }
+]

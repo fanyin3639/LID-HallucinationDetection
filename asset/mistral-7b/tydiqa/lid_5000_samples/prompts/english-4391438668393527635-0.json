@@ -1,0 +1,15 @@
+[
+    [
+        570,
+        [],
+        "M\u00e9xico"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Lucha libre (Spanish pronunciation:[\u02c8lut\u0361\u0283a \u02c8li\u03b2\u027ee], meaning \"freestyle wrestling\"[1] or literally translated as \"free fight\") is the term used in M\u00e9xico for professional wrestling. Since its introduction to Mexico in the early 20th century, it has developed into a unique form of the genre, characterized by colorful masks, rapid sequences of holds and maneuvers, as well as \"high-flying\" maneuvers, some of which have been adopted in the United States and elsewhere. The wearing of masks has developed special significance, and matches are sometimes contested in which the loser must permanently remove his mask, which is a wager with a high degree of weight attached. Tag team wrestling is especially prevalent in lucha libre, particularly matches with three-member teams, called trios. Question: Where did Lucha Libre come from? Answer:",
+    {
+        "id": "english-4391438668393527635-0",
+        "lang": "english",
+        "summary": "Lucha libre (Spanish pronunciation:[\u02c8lut\u0361\u0283a \u02c8li\u03b2\u027ee], meaning \"freestyle wrestling\"[1] or literally translated as \"free fight\") is the term used in M\u00e9xico for professional wrestling. Since its introduction to Mexico in the early 20th century, it has developed into a unique form of the genre, characterized by colorful masks, rapid sequences of holds and maneuvers, as well as \"high-flying\" maneuvers, some of which have been adopted in the United States and elsewhere. The wearing of masks has developed special significance, and matches are sometimes contested in which the loser must permanently remove his mask, which is a wager with a high degree of weight attached. Tag team wrestling is especially prevalent in lucha libre, particularly matches with three-member teams, called trios.",
+        "question": "Where did Lucha Libre come from?",
+        "label": "M\u00e9xico"
+    }
+]

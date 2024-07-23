@@ -1,0 +1,15 @@
+[
+    [
+        2277,
+        [],
+        "1934"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Abel Parentini Posse, best known as Abel Posse (C\u00f3rdoba, Argentina, January 7, 1934), is an Argentine novelist, essayist, poet, career diplomat and politician. Question: What year was Abel Posse born? Answer:",
+    {
+        "id": "english--2361194202944076447-0",
+        "lang": "english",
+        "summary": "Abel Parentini Posse, best known as Abel Posse (C\u00f3rdoba, Argentina, January 7, 1934), is an Argentine novelist, essayist, poet, career diplomat and politician.",
+        "question": "What year was Abel Posse born?",
+        "label": "1934"
+    }
+]

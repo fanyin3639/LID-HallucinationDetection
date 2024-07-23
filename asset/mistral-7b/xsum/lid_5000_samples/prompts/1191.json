@@ -1,0 +1,14 @@
+[
+    [
+        1191,
+        [],
+        "A man who went on the run for nearly three years and became one of Britain's most wanted fugitives has been jailed."
+    ],
+    "Write a short summary for the following passage:\nStephen Carruthers, from Bury, Greater Manchester, fled the UK but was later arrested after being admitted to a French hospital following a car crash.\nThe 43-year-old, of no fixed address, was convicted of 29 child sex charges including 21 counts of making indecent images of children.\nHe was jailed for three years and eight months at Carlisle Crown Court.\nCarruthers was originally arrested in March 2014 at an address in Ambleside in Cumbria.\nPolice said a computer recovered at the scene allegedly contained 5,332 indecent images of children.\nAfter being interviewed he was given bail to re-attend the police station but failed to return.\nHe was re-arrested in January and found guilty of 21 counts of making indecent images of children, seven counts of distribution of indecent images and one count of possession of indecent images of children which he admitted at a previous hearing.\nMr Carruthers was among 10 British fugitives named as the most wanted by the National Crime Agency as part of Operation Captura.\nSummary:\n",
+    {
+        "id": 1191,
+        "document": "Stephen Carruthers, from Bury, Greater Manchester, fled the UK but was later arrested after being admitted to a French hospital following a car crash.\nThe 43-year-old, of no fixed address, was convicted of 29 child sex charges including 21 counts of making indecent images of children.\nHe was jailed for three years and eight months at Carlisle Crown Court.\nCarruthers was originally arrested in March 2014 at an address in Ambleside in Cumbria.\nPolice said a computer recovered at the scene allegedly contained 5,332 indecent images of children.\nAfter being interviewed he was given bail to re-attend the police station but failed to return.\nHe was re-arrested in January and found guilty of 21 counts of making indecent images of children, seven counts of distribution of indecent images and one count of possession of indecent images of children which he admitted at a previous hearing.\nMr Carruthers was among 10 British fugitives named as the most wanted by the National Crime Agency as part of Operation Captura.",
+        "summary": "A man who went on the run for nearly three years and became one of Britain's most wanted fugitives has been jailed.",
+        "label": "A man who went on the run for nearly three years and became one of Britain's most wanted fugitives has been jailed."
+    }
+]

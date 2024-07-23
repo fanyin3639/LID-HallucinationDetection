@@ -1,0 +1,15 @@
+[
+    [
+        410,
+        [],
+        "2,996"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: During the September 11 attacks of 2001, 2,996 people were killed (including the 19 hijackers) and more than 6,000 others injured.[1][2] These immediate deaths included 265 on the four planes (including the terrorists), 2,606 in the World Trade Center and in the surrounding area, and 125 at the Pentagon.[3][4] The attacks were the deadliest terrorist act in world history, and the most devastating foreign attack on United States soil since the attack on Pearl Harbor on December 7, 1941.[5] Question: How many people died during 9/11? Answer:",
+    {
+        "id": "english--8886533596605904920-0",
+        "lang": "english",
+        "summary": "During the September 11 attacks of 2001, 2,996 people were killed (including the 19 hijackers) and more than 6,000 others injured.[1][2] These immediate deaths included 265 on the four planes (including the terrorists), 2,606 in the World Trade Center and in the surrounding area, and 125 at the Pentagon.[3][4] The attacks were the deadliest terrorist act in world history, and the most devastating foreign attack on United States soil since the attack on Pearl Harbor on December 7, 1941.[5]",
+        "question": "How many people died during 9/11?",
+        "label": "2,996"
+    }
+]

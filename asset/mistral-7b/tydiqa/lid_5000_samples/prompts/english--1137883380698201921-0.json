@@ -1,0 +1,15 @@
+[
+    [
+        638,
+        [],
+        "Gershwin Theatre"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Gershwin Theatre is a Broadway theatre located at 222 West 51st Street in midtown-Manhattan in the Paramount Plaza building. The theatre is named after brothers George Gershwin, a composer, and Ira Gershwin, a lyricist. It has the  largest seating capacity of any Broadway theatre with 1,933 seats, host to large musical productions.[2] The Gershwin has been home to the blockbuster musical Wicked since 2003. Question: What's the biggest theater in the United States? Answer:",
+    {
+        "id": "english--1137883380698201921-0",
+        "lang": "english",
+        "summary": "The Gershwin Theatre is a Broadway theatre located at 222 West 51st Street in midtown-Manhattan in the Paramount Plaza building. The theatre is named after brothers George Gershwin, a composer, and Ira Gershwin, a lyricist. It has the  largest seating capacity of any Broadway theatre with 1,933 seats, host to large musical productions.[2] The Gershwin has been home to the blockbuster musical Wicked since 2003.",
+        "question": "What's the biggest theater in the United States?",
+        "label": "Gershwin Theatre"
+    }
+]

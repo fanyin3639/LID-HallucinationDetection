@@ -1,0 +1,19 @@
+[
+    [
+        756,
+        [],
+        "Harry,"
+    ],
+    "Answer the following questions:\nContext: Chapter VIII \n\nThe House in Onslow Crescent \n\n\n\nHarry, as he walked away from the house in Bolton street, hardly knew whether he was on his heels or his head. Burton had told him not to dress--\"We don't give dress dinner parties, you know. It's all in the family way with us\"--and Harry, therefore, went direct from Bolton street to Onslow Crescent. But, though he managed to keep the proper course down Piccadilly, he was in such confusion of mind that he hardly knew whither he was going. It seemed as though a new form of life had been opened to him, and that it had been opened in such a way as almost necessarily to engulf him. It was not only that Lady Ongar's history was so terrible, and her life so strange, but that he himself was called upon to form a part of that history, and to join himself in some sort with that life. This countess, with her wealth, her rank, her beauty, and her bright intellect, had called him to her, and told him that he was her only friend. Of course he had promised his friendship. How could he have failed to give such a promise to one whom he had loved so well? But to what must such a promise lead, or rather to what must it not have led had it not been for Florence Burton? She was young, free, and rich. She made no pretence of regret for the husband she had lost, speaking of him as though in truth she hardly regarded herself as his wife. And she was the same Julia whom he had loved, who had loved him, who had jilted him, and in regret for whom he had once resolved to lead a wretched, lonely life! Of course she must expect that he would renew it all--unless, indeed, she knew of his engagement. But if she knew it, why had she not spoken of it? \n'Question': Who was walking somewhere?\n'Answer: '",
+    {
+        "id": "3rjsc4xj10uw0to3vq0v6l1927z50s_1",
+        "summary": "Chapter VIII \n\nThe House in Onslow Crescent \n\n\n\nHarry, as he walked away from the house in Bolton street, hardly knew whether he was on his heels or his head. Burton had told him not to dress--\"We don't give dress dinner parties, you know. It's all in the family way with us\"--and Harry, therefore, went direct from Bolton street to Onslow Crescent. But, though he managed to keep the proper course down Piccadilly, he was in such confusion of mind that he hardly knew whither he was going. It seemed as though a new form of life had been opened to him, and that it had been opened in such a way as almost necessarily to engulf him. It was not only that Lady Ongar's history was so terrible, and her life so strange, but that he himself was called upon to form a part of that history, and to join himself in some sort with that life. This countess, with her wealth, her rank, her beauty, and her bright intellect, had called him to her, and told him that he was her only friend. Of course he had promised his friendship. How could he have failed to give such a promise to one whom he had loved so well? But to what must such a promise lead, or rather to what must it not have led had it not been for Florence Burton? She was young, free, and rich. She made no pretence of regret for the husband she had lost, speaking of him as though in truth she hardly regarded herself as his wife. And she was the same Julia whom he had loved, who had loved him, who had jilted him, and in regret for whom he had once resolved to lead a wretched, lonely life! Of course she must expect that he would renew it all--unless, indeed, she knew of his engagement. But if she knew it, why had she not spoken of it? ",
+        "question": "Who was walking somewhere?",
+        "label": "Harry,",
+        "additional_answers": [
+            "Harry",
+            "Harry",
+            "Harry"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1047,
+        [],
+        "Guerrero to the west, Puebla to the northwest, Veracruz to the north, Chiapas to the east"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Oaxaca is located in Southeastern Mexico.[10] It is bordered by the states of Guerrero to the west, Puebla to the northwest, Veracruz to the north, Chiapas to the east. To the south, Oaxaca has a significant coastline on the Pacific Ocean. Question: What states border Oaxaca in Mexico? Answer:",
+    {
+        "id": "english--8044021069896175822-1",
+        "lang": "english",
+        "summary": "Oaxaca is located in Southeastern Mexico.[10] It is bordered by the states of Guerrero to the west, Puebla to the northwest, Veracruz to the north, Chiapas to the east. To the south, Oaxaca has a significant coastline on the Pacific Ocean.",
+        "question": "What states border Oaxaca in Mexico?",
+        "label": "Guerrero to the west, Puebla to the northwest, Veracruz to the north, Chiapas to the east"
+    }
+]

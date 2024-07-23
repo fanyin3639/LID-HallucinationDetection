@@ -1,0 +1,15 @@
+[
+    [
+        1849,
+        [],
+        "fermented juice of apples"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cider (/\u02c8sa\u026ad\u0259r/ SY-d\u0259r) is an alcoholic beverage made from the fermented juice of apples.[1] Cider is popular in the United Kingdom, especially in the West Country, and widely available. The UK has the world's highest per capita consumption, as well as its largest cider-producing companies.[2][3][4] Cider is also popular in many Commonwealth countries, such as India, Canada, Australia,[5][6] and New Zealand.[7] Aside from the UK and its former colonies, cider is popular in other European countries including Ireland, Portugal (mainly in Minho and Madeira), France (particularly Brittany and Normandy), northern Italy (Piedmont and Friuli), and Spain (especially Asturias and the Basque Country). Central Europe also has its own types of cider with Rhineland-Palatinate and Hesse producing a particularly tart version known as Apfelwein. In the U.S. and parts of Canada, varieties of fermented cider are often called hard cider to distinguish alcoholic cider from non-alcoholic  \"cider\" or \"sweet cider\", also made from apples. Question: What is cider made with? Answer:",
+    {
+        "id": "english-5741213322568232563-0",
+        "lang": "english",
+        "summary": "Cider (/\u02c8sa\u026ad\u0259r/ SY-d\u0259r) is an alcoholic beverage made from the fermented juice of apples.[1] Cider is popular in the United Kingdom, especially in the West Country, and widely available. The UK has the world's highest per capita consumption, as well as its largest cider-producing companies.[2][3][4] Cider is also popular in many Commonwealth countries, such as India, Canada, Australia,[5][6] and New Zealand.[7] Aside from the UK and its former colonies, cider is popular in other European countries including Ireland, Portugal (mainly in Minho and Madeira), France (particularly Brittany and Normandy), northern Italy (Piedmont and Friuli), and Spain (especially Asturias and the Basque Country). Central Europe also has its own types of cider with Rhineland-Palatinate and Hesse producing a particularly tart version known as Apfelwein. In the U.S. and parts of Canada, varieties of fermented cider are often called hard cider to distinguish alcoholic cider from non-alcoholic  \"cider\" or \"sweet cider\", also made from apples.",
+        "question": "What is cider made with?",
+        "label": "fermented juice of apples"
+    }
+]

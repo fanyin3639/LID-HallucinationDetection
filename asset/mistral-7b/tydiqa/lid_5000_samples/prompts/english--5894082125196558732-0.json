@@ -1,0 +1,15 @@
+[
+    [
+        548,
+        [],
+        "David Michael Solomon"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: David Michael Solomon (born c. 1962) is an American investment banker who has been the chief executive officer (CEO) of Goldman Sachs since October 2018 and chairman since January 2019.[5] Prior to this, he was president and chief operating officer from January 2017 to September 2018, and joint head of the investment banking division from July 2006 to December 2016. In July 2018, Solomon was named CEO, succeeding Lloyd Blankfein as of October 1, 2018 and will become chairman at the end of 2018.[6] Question: Who is CEO of Goldman Sachs? Answer:",
+    {
+        "id": "english--5894082125196558732-0",
+        "lang": "english",
+        "summary": "David Michael Solomon (born c. 1962) is an American investment banker who has been the chief executive officer (CEO) of Goldman Sachs since October 2018 and chairman since January 2019.[5] Prior to this, he was president and chief operating officer from January 2017 to September 2018, and joint head of the investment banking division from July 2006 to December 2016. In July 2018, Solomon was named CEO, succeeding Lloyd Blankfein as of October 1, 2018 and will become chairman at the end of 2018.[6]",
+        "question": "Who is CEO of Goldman Sachs?",
+        "label": "David Michael Solomon"
+    }
+]

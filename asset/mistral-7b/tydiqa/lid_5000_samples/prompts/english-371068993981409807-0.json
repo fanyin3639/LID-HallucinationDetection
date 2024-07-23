@@ -1,0 +1,15 @@
+[
+    [
+        1075,
+        [],
+        "1824"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Symphony No. 9 in D minor, Op. 125, is the final complete symphony by Ludwig van Beethoven, composed between 1822 and 1824. It was first performed in Vienna on 7 May 1824. One of the best-known works in common practice music,[1] it is regarded by many critics and musicologists as one of Beethoven's greatest works and one of the supreme achievements in the history of western music.[1][2] In the 2010s, it stands as one of the most performed symphonies in the world.[3][4] Question: When did Beethoven compose his 9th symphony? Answer:",
+    {
+        "id": "english-371068993981409807-0",
+        "lang": "english",
+        "summary": "The Symphony No. 9 in D minor, Op. 125, is the final complete symphony by Ludwig van Beethoven, composed between 1822 and 1824. It was first performed in Vienna on 7 May 1824. One of the best-known works in common practice music,[1] it is regarded by many critics and musicologists as one of Beethoven's greatest works and one of the supreme achievements in the history of western music.[1][2] In the 2010s, it stands as one of the most performed symphonies in the world.[3][4]",
+        "question": "When did Beethoven compose his 9th symphony?",
+        "label": "1824"
+    }
+]

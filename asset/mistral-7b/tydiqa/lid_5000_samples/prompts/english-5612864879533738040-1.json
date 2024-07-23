@@ -1,0 +1,15 @@
+[
+    [
+        953,
+        [],
+        "within the framework of a parliamentary democracy under a constitutional monarchy"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The United Kingdom is a unitary state with devolution that is governed within the framework of a parliamentary democracy under a constitutional monarchy in which the monarch, currently Queen Elizabeth II, is the head of state while the Prime Minister of the United Kingdom, currently Theresa May, is the head of government. Executive power is exercised by the British government, on behalf of and by the consent of the monarch, as well as by the devolved governments of Scotland and Wales and the Northern Ireland Executive. Legislative power is vested in the two chambers of the Parliament of the United Kingdom, the House of Commons and the House of Lords, as well as in the Scottish Parliament and Welsh and Northern Ireland assemblies. The judiciary is independent of the executive and the legislature. The highest court is the Supreme Court of the United Kingdom. Question: Is England a democracy or monarchy? Answer:",
+    {
+        "id": "english-5612864879533738040-1",
+        "lang": "english",
+        "summary": "The United Kingdom is a unitary state with devolution that is governed within the framework of a parliamentary democracy under a constitutional monarchy in which the monarch, currently Queen Elizabeth II, is the head of state while the Prime Minister of the United Kingdom, currently Theresa May, is the head of government. Executive power is exercised by the British government, on behalf of and by the consent of the monarch, as well as by the devolved governments of Scotland and Wales and the Northern Ireland Executive. Legislative power is vested in the two chambers of the Parliament of the United Kingdom, the House of Commons and the House of Lords, as well as in the Scottish Parliament and Welsh and Northern Ireland assemblies. The judiciary is independent of the executive and the legislature. The highest court is the Supreme Court of the United Kingdom.",
+        "question": "Is England a democracy or monarchy?",
+        "label": "within the framework of a parliamentary democracy under a constitutional monarchy"
+    }
+]

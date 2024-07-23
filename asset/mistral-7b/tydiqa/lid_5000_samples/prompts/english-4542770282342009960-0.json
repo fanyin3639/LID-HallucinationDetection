@@ -1,0 +1,15 @@
+[
+    [
+        1029,
+        [],
+        "rugby"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Canterbury-Bankstown Bulldogs are an Australian professional rugby league football club based in Belmore, a suburb in the Canterbury-Bankstown region of Sydney.  They compete in the National Rugby League (NRL) premiership, as well as the New South Wales Rugby League junior competitions. Question: What sport do the Canterbury-Bankstown Bulldogs play? Answer:",
+    {
+        "id": "english-4542770282342009960-0",
+        "lang": "english",
+        "summary": "The Canterbury-Bankstown Bulldogs are an Australian professional rugby league football club based in Belmore, a suburb in the Canterbury-Bankstown region of Sydney.  They compete in the National Rugby League (NRL) premiership, as well as the New South Wales Rugby League junior competitions.",
+        "question": "What sport do the Canterbury-Bankstown Bulldogs play?",
+        "label": "rugby"
+    }
+]

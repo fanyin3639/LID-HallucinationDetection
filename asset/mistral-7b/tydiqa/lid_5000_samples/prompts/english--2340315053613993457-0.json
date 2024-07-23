@@ -1,0 +1,15 @@
+[
+    [
+        2953,
+        [],
+        "the First Battle of Ypres"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Battle of Hill 60 (17 April \u2013 7 May 1915) took place near Hill 60 south of Ypres on the Western Front, during the First World War. Hill 60 had been captured by the German 30th Division on 11 November 1914, during the First Battle of Ypres (19 October \u2013 22 November 1914). Initial French preparations to raid the hill were continued by the British 28th Division, which took over the line in February 1915 and then by the 5th Division. The plan was expanded into an ambitious attempt to capture the hill, despite advice that Hill 60 could not be held unless the nearby Caterpillar ridge was also occupied. It was found that Hill 60 was the only place in the area not waterlogged and a French 3ft \u00d72ft (0.91m \u00d70.61m) mine gallery was extended. Question: What battle took place at Hill 60? Answer:",
+    {
+        "id": "english--2340315053613993457-0",
+        "lang": "english",
+        "summary": "The Battle of Hill 60 (17 April \u2013 7 May 1915) took place near Hill 60 south of Ypres on the Western Front, during the First World War. Hill 60 had been captured by the German 30th Division on 11 November 1914, during the First Battle of Ypres (19 October \u2013 22 November 1914). Initial French preparations to raid the hill were continued by the British 28th Division, which took over the line in February 1915 and then by the 5th Division. The plan was expanded into an ambitious attempt to capture the hill, despite advice that Hill 60 could not be held unless the nearby Caterpillar ridge was also occupied. It was found that Hill 60 was the only place in the area not waterlogged and a French 3ft \u00d72ft (0.91m \u00d70.61m) mine gallery was extended.",
+        "question": "What battle took place at Hill 60?",
+        "label": "the First Battle of Ypres"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        3127,
+        [],
+        "1848"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Morse code has been in use for more than 160 years\u2014longer than any other electrical coding system. What is called Morse code today is actually somewhat different from what was originally developed by Vail and Morse. The Modern International Morse code, or continental code, was created by Friedrich Clemens Gerke in 1848 and initially used for telegraphy between Hamburg and Cuxhaven in Germany. Gerke changed nearly half of the alphabet and all of the numerals, providing the foundation for the modern form of the code. After some minor changes, International Morse Code was standardized at the International Telegraphy Congress in 1865 in Paris and was later made the standard by the International Telecommunication Union (ITU). Morse's original code specification, largely limited to use in the United States and Canada, became known as American Morse code or railroad code. American Morse code is now seldom used except in historical re-enactments. Question: When was Morse Code created? Answer:",
+    {
+        "id": "english--7360500825074991099-23",
+        "lang": "english",
+        "summary": "Morse code has been in use for more than 160 years\u2014longer than any other electrical coding system. What is called Morse code today is actually somewhat different from what was originally developed by Vail and Morse. The Modern International Morse code, or continental code, was created by Friedrich Clemens Gerke in 1848 and initially used for telegraphy between Hamburg and Cuxhaven in Germany. Gerke changed nearly half of the alphabet and all of the numerals, providing the foundation for the modern form of the code. After some minor changes, International Morse Code was standardized at the International Telegraphy Congress in 1865 in Paris and was later made the standard by the International Telecommunication Union (ITU). Morse's original code specification, largely limited to use in the United States and Canada, became known as American Morse code or railroad code. American Morse code is now seldom used except in historical re-enactments.",
+        "question": "When was Morse Code created?",
+        "label": "1848"
+    }
+]

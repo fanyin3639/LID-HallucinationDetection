@@ -1,0 +1,15 @@
+[
+    [
+        822,
+        [],
+        "Dallas, Texas"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Dunham was born in Dallas, Texas on April 18, 1962.[9][10][11] When he was three months old, he was adopted by real estate appraiser Howard Dunham, and his homemaker wife Joyce, who raised him in a devoutly Presbyterian household[11] in an affluent Dallas neighborhood, as an only child.[12] Question: Where was Jeffrey Dunham born? Answer:",
+    {
+        "id": "english--7501370868798204034-3",
+        "lang": "english",
+        "summary": "Dunham was born in Dallas, Texas on April 18, 1962.[9][10][11] When he was three months old, he was adopted by real estate appraiser Howard Dunham, and his homemaker wife Joyce, who raised him in a devoutly Presbyterian household[11] in an affluent Dallas neighborhood, as an only child.[12]",
+        "question": "Where was Jeffrey Dunham born?",
+        "label": "Dallas, Texas"
+    }
+]

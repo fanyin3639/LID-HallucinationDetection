@@ -1,0 +1,15 @@
+[
+    [
+        1455,
+        [],
+        "William G. Morgan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In the winter of 1895[4], in Holyoke, Massachusetts (United States), William G. Morgan, a YMCA physical education director, created a new game called Mintonette, a name derived from the game of badminton,[5] as a pastime to be played (preferably) indoors and by any number of players. The game took some of its characteristics from other sports such as tennis and handball.[6] Another indoor sport, basketball, was catching on in the area, having been invented just ten miles (sixteen kilometers) away in the city of Springfield, Massachusetts, only four years before. Mintonette was designed to be an indoor sport, less rough than basketball, for older members of the YMCA, while still requiring a bit of athletic effort. Question: Who first played volleyball? Answer:",
+    {
+        "id": "english-8355871303345776001-6",
+        "lang": "english",
+        "summary": "In the winter of 1895[4], in Holyoke, Massachusetts (United States), William G. Morgan, a YMCA physical education director, created a new game called Mintonette, a name derived from the game of badminton,[5] as a pastime to be played (preferably) indoors and by any number of players. The game took some of its characteristics from other sports such as tennis and handball.[6] Another indoor sport, basketball, was catching on in the area, having been invented just ten miles (sixteen kilometers) away in the city of Springfield, Massachusetts, only four years before. Mintonette was designed to be an indoor sport, less rough than basketball, for older members of the YMCA, while still requiring a bit of athletic effort.",
+        "question": "Who first played volleyball?",
+        "label": "William G. Morgan"
+    }
+]

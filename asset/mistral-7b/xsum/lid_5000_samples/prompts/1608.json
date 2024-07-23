@@ -1,0 +1,14 @@
+[
+    [
+        1608,
+        [],
+        "A union will carry out a review of working conditions for 16,000 people employed by a north Wales health board."
+    ],
+    "Write a short summary for the following passage:\nUnison will look into Betsi Cadwaladr after the Welsh government put it into special measures over leadership concerns.\nIt has already received more than 1,000 questionnaire responses and will host meetings at three hospitals in August.\nThe health board said it is conducting a \"listening exercise\" with staff alongside Unison's survey.\nA spokesman said it is \"engaging with staff to get their views on the future direction for health and health care in north Wales\".\nSummary:\n",
+    {
+        "id": 1608,
+        "document": "Unison will look into Betsi Cadwaladr after the Welsh government put it into special measures over leadership concerns.\nIt has already received more than 1,000 questionnaire responses and will host meetings at three hospitals in August.\nThe health board said it is conducting a \"listening exercise\" with staff alongside Unison's survey.\nA spokesman said it is \"engaging with staff to get their views on the future direction for health and health care in north Wales\".",
+        "summary": "A union will carry out a review of working conditions for 16,000 people employed by a north Wales health board.",
+        "label": "A union will carry out a review of working conditions for 16,000 people employed by a north Wales health board."
+    }
+]

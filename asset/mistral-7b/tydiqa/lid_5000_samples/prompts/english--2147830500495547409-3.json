@@ -1,0 +1,15 @@
+[
+    [
+        2700,
+        [],
+        "1860"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The vacuum cleaner evolved from the carpet sweeper via manual vacuum cleaners. The first manual models, using bellows, were developed in the 1860s, and the first motorized designs appeared at the turn of the 20th century, with the first decade being the boom decade. Question: When were vacuums invented? Answer:",
+    {
+        "id": "english--2147830500495547409-3",
+        "lang": "english",
+        "summary": "The vacuum cleaner evolved from the carpet sweeper via manual vacuum cleaners. The first manual models, using bellows, were developed in the 1860s, and the first motorized designs appeared at the turn of the 20th century, with the first decade being the boom decade.",
+        "question": "When were vacuums invented?",
+        "label": "1860"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2538,
+        [],
+        "24 October 1945"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The UN officially came into existence on 24 October 1945 upon ratification of the Charter by the five then-permanent members of the Security Council and by a majority of the other 46 signatories.[19] On 17 January 1946, the Security Council met for the first time at Church House, Westminster, in London, United Kingdom.[22] Question: When was the United Nations Security Council formed? Answer:",
+    {
+        "id": "english-6804969664920772908-9",
+        "lang": "english",
+        "summary": "The UN officially came into existence on 24 October 1945 upon ratification of the Charter by the five then-permanent members of the Security Council and by a majority of the other 46 signatories.[19] On 17 January 1946, the Security Council met for the first time at Church House, Westminster, in London, United Kingdom.[22]",
+        "question": "When was the United Nations Security Council formed?",
+        "label": "24 October 1945"
+    }
+]

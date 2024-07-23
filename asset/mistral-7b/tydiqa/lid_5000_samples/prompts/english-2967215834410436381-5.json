@@ -1,0 +1,15 @@
+[
+    [
+        2877,
+        [],
+        "Montague Redgrave"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1869, British inventor Montague Redgrave settled in the United States and manufactured bagatelle tables in Cincinnati, Ohio. In 1871 Redgrave was granted U.S. Patent #115,357 for his \"Improvements in Bagatelle\",[1] another name for the spring launcher that was first introduced in Billard japonais. The game also shrank in size to fit atop a bar or counter. The balls became marbles and the wickets became small metal pins. Redgrave's popularization of the spring launcher and innovations in game design are acknowledged as the birth of pinball in its modern form. Question: Who invented pinball? Answer:",
+    {
+        "id": "english-2967215834410436381-5",
+        "lang": "english",
+        "summary": "In 1869, British inventor Montague Redgrave settled in the United States and manufactured bagatelle tables in Cincinnati, Ohio. In 1871 Redgrave was granted U.S. Patent #115,357 for his \"Improvements in Bagatelle\",[1] another name for the spring launcher that was first introduced in Billard japonais. The game also shrank in size to fit atop a bar or counter. The balls became marbles and the wickets became small metal pins. Redgrave's popularization of the spring launcher and innovations in game design are acknowledged as the birth of pinball in its modern form.",
+        "question": "Who invented pinball?",
+        "label": "Montague Redgrave"
+    }
+]

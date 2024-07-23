@@ -1,0 +1,15 @@
+[
+    [
+        1056,
+        [],
+        "November 24, 1988"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage:  Mystery Science Theater 3000 (MST3K) is an American television comedy series created by Joel Hodgson and produced by Best Brains, Inc. The show premiered on KTMA (now WUCW) in Minneapolis, Minnesota, on November 24, 1988. The next year, in 1989, the show began its national run on The Comedy Channel/Comedy Central, running for seven seasons on that channel until its cancellation in 1996. The following year, it was picked up by The Sci-Fi Channel and aired for three more seasons there until another cancellation in August 1999 (although repeats continued until 2004). A sixty-episode syndication package titled The Mystery Science Theater Hour was produced in 1995. [1] Question: When was the first episode of Mystery Science Theater 3000? Answer:",
+    {
+        "id": "english--844560409571392083-0",
+        "lang": "english",
+        "summary": " Mystery Science Theater 3000 (MST3K) is an American television comedy series created by Joel Hodgson and produced by Best Brains, Inc. The show premiered on KTMA (now WUCW) in Minneapolis, Minnesota, on November 24, 1988. The next year, in 1989, the show began its national run on The Comedy Channel/Comedy Central, running for seven seasons on that channel until its cancellation in 1996. The following year, it was picked up by The Sci-Fi Channel and aired for three more seasons there until another cancellation in August 1999 (although repeats continued until 2004). A sixty-episode syndication package titled The Mystery Science Theater Hour was produced in 1995. [1]",
+        "question": "When was the first episode of Mystery Science Theater 3000?",
+        "label": "November 24, 1988"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2131,
+        [],
+        "approximately 4,000 in summer to 1,000 in winter; in addition, approximately 1,000 personnel including ship's crew and scientists doing onboard research are present in the waters of the treaty region"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The population of persons doing and supporting scientific research on the continent and its nearby islands south of 60 degrees south latitude (the region covered by the Antarctic Treaty)[3] varies from approximately 4,000 in summer to 1,000 in winter; in addition, approximately 1,000 personnel including ship's crew and scientists doing onboard research are present in the waters of the treaty region. Question: How many people are in Antarctica? Answer:",
+    {
+        "id": "english--1856198750470862583-1",
+        "lang": "english",
+        "summary": "The population of persons doing and supporting scientific research on the continent and its nearby islands south of 60 degrees south latitude (the region covered by the Antarctic Treaty)[3] varies from approximately 4,000 in summer to 1,000 in winter; in addition, approximately 1,000 personnel including ship's crew and scientists doing onboard research are present in the waters of the treaty region.",
+        "question": "How many people are in Antarctica?",
+        "label": "approximately 4,000 in summer to 1,000 in winter; in addition, approximately 1,000 personnel including ship's crew and scientists doing onboard research are present in the waters of the treaty region"
+    }
+]

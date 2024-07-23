@@ -1,0 +1,14 @@
+[
+    [
+        68,
+        [],
+        "Mars Ireland has ordered the recall of seven products after bits of plastic were found in a chocolate bar in Germany."
+    ],
+    "Write a short summary for the following passage:\nIt was discovered by a customer in a Snickers bar in January.\nAs a result, Mars is recalling chocolate in 55 countries.\nMars Ireland described it as an \"isolated incident\" and said it had not received any complaints from consumers in the Republic of Ireland.\nThe following products in Ireland have been recalled:\nConsumers who have any of the above products are asked not to consume it and to contact Mars Ireland in the following ways:\nSummary:\n",
+    {
+        "id": 68,
+        "document": "It was discovered by a customer in a Snickers bar in January.\nAs a result, Mars is recalling chocolate in 55 countries.\nMars Ireland described it as an \"isolated incident\" and said it had not received any complaints from consumers in the Republic of Ireland.\nThe following products in Ireland have been recalled:\nConsumers who have any of the above products are asked not to consume it and to contact Mars Ireland in the following ways:",
+        "summary": "Mars Ireland has ordered the recall of seven products after bits of plastic were found in a chocolate bar in Germany.",
+        "label": "Mars Ireland has ordered the recall of seven products after bits of plastic were found in a chocolate bar in Germany."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2067,
+        [],
+        "The final offensive of the Spanish Civil War"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The final offensive of the Spanish Civil War took place between 26  March and 1 April 1939, towards the end of the Spanish Civil War. On 5 March 1939, the Republican Army led by Colonel Segismundo Casado and the politician Juli\u00e1n Besteiro rose against the Socialist prime minister Juan Negr\u00edn and formed a military junta, the National Defence Council (Consejo Nacional de Defensa or CND) in order to negotiate a peace deal. Negr\u00edn fled to France but the Communist troops around Madrid rose against the junta, starting a civil war within the civil war. Casado defeated them and started peace negotiations with the Nationalists. Francisco Franco, however, was prepared to accept only an unconditional surrender. On 26 March the Nationalists started a general offensive and by 31 March they controlled all Spanish territory. Hundreds of thousands of Republicans were arrested and interned in concentration camps. Question: What was the last battle in the Spanish Civil War? Answer:",
+    {
+        "id": "english-1914096296409570897-0",
+        "lang": "english",
+        "summary": "The final offensive of the Spanish Civil War took place between 26  March and 1 April 1939, towards the end of the Spanish Civil War. On 5 March 1939, the Republican Army led by Colonel Segismundo Casado and the politician Juli\u00e1n Besteiro rose against the Socialist prime minister Juan Negr\u00edn and formed a military junta, the National Defence Council (Consejo Nacional de Defensa or CND) in order to negotiate a peace deal. Negr\u00edn fled to France but the Communist troops around Madrid rose against the junta, starting a civil war within the civil war. Casado defeated them and started peace negotiations with the Nationalists. Francisco Franco, however, was prepared to accept only an unconditional surrender. On 26 March the Nationalists started a general offensive and by 31 March they controlled all Spanish territory. Hundreds of thousands of Republicans were arrested and interned in concentration camps.",
+        "question": "What was the last battle in the Spanish Civil War?",
+        "label": "The final offensive of the Spanish Civil War"
+    }
+]

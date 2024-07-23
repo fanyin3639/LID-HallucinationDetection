@@ -1,0 +1,15 @@
+[
+    [
+        1240,
+        [],
+        "Naypyidaw"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Naypyidaw, officially spelled Nay Pyi Taw (Burmese: \u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a; MLCTS: Nepranytau; pronounced[n\u00e8pj\u00ecd\u0254\u0300], formerly known as Kyetpyay, Pyinmana or Kyatpyay, Pyinmana), is the capital city of Myanmar and seat of the government of Myanmar. It is administered as the Naypyidaw Union Territory, as per the Constitution.[1] It is unusual among Myanmar's cities, being an entirely planned city outside of any state or region, similar to Canberra in Australia, Bras\u00edlia in Brazil, Washington, D.C. in the United States and Islamabad in Pakistan. Question: What is the capital of Myanmar? Answer:",
+    {
+        "id": "english-4010277033473386357-0",
+        "lang": "english",
+        "summary": "Naypyidaw, officially spelled Nay Pyi Taw (Burmese: \u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a; MLCTS: Nepranytau; pronounced[n\u00e8pj\u00ecd\u0254\u0300], formerly known as Kyetpyay, Pyinmana or Kyatpyay, Pyinmana), is the capital city of Myanmar and seat of the government of Myanmar. It is administered as the Naypyidaw Union Territory, as per the Constitution.[1] It is unusual among Myanmar's cities, being an entirely planned city outside of any state or region, similar to Canberra in Australia, Bras\u00edlia in Brazil, Washington, D.C. in the United States and Islamabad in Pakistan.",
+        "question": "What is the capital of Myanmar?",
+        "label": "Naypyidaw"
+    }
+]

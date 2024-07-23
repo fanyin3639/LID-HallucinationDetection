@@ -1,0 +1,15 @@
+[
+    [
+        2092,
+        [],
+        "Andreas Vesalius"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Andreas Vesalius (/v\u026a\u02c8se\u026ali\u0259s/;[1] 31 December 1514 \u2013 15 October 1564) was a 16th-century Flemish anatomist, physician, and author of one of the most influential books on human anatomy, De humani corporis fabrica (On the Fabric of the Human Body). Vesalius is often referred to as the founder of modern human anatomy. He was born in Brussels, which was then part of the Habsburg Netherlands. He was professor at the University of Padua and later became Imperial physician at the court of Emperor Charles V. Question: Who is the founder of modern anatomy? Answer:",
+    {
+        "id": "english--5489873084068010746-0",
+        "lang": "english",
+        "summary": "Andreas Vesalius (/v\u026a\u02c8se\u026ali\u0259s/;[1] 31 December 1514 \u2013 15 October 1564) was a 16th-century Flemish anatomist, physician, and author of one of the most influential books on human anatomy, De humani corporis fabrica (On the Fabric of the Human Body). Vesalius is often referred to as the founder of modern human anatomy. He was born in Brussels, which was then part of the Habsburg Netherlands. He was professor at the University of Padua and later became Imperial physician at the court of Emperor Charles V.",
+        "question": "Who is the founder of modern anatomy?",
+        "label": "Andreas Vesalius"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1604,
+        [],
+        "Tanzania"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Gombe National Park (often, but incorrectly, called \"Gombe Stream National Park\"), is located in western Kigoma Region, Tanzania, 10 miles (20km) north of Kigoma, the  capital of Kigoma Region.[2]  Established in 1968, Gombe is one of the smallest national parks in Tanzania, with only 13.5 square miles (35km2) of protected land along the hills of the eastern shore of Lake Tanganyika.[2][3]   The terrain is distinguished by steep valleys, and the forest vegetation ranges from grassland to woodland to tropical rainforest.[4] Accessible only by boat, the park is most famous as the location where Jane Goodall pioneered her behavioral research conducted on the chimpanzee populations.[2][3]  The Kasekela chimpanzee community, featured in several books and documentaries, lives in Gombe National Park.[5] Question: In what country is the gombe national park located? Answer:",
+    {
+        "id": "english--4868927497373730211-0",
+        "lang": "english",
+        "summary": "Gombe National Park (often, but incorrectly, called \"Gombe Stream National Park\"), is located in western Kigoma Region, Tanzania, 10 miles (20km) north of Kigoma, the  capital of Kigoma Region.[2]  Established in 1968, Gombe is one of the smallest national parks in Tanzania, with only 13.5 square miles (35km2) of protected land along the hills of the eastern shore of Lake Tanganyika.[2][3]   The terrain is distinguished by steep valleys, and the forest vegetation ranges from grassland to woodland to tropical rainforest.[4] Accessible only by boat, the park is most famous as the location where Jane Goodall pioneered her behavioral research conducted on the chimpanzee populations.[2][3]  The Kasekela chimpanzee community, featured in several books and documentaries, lives in Gombe National Park.[5]",
+        "question": "In what country is the gombe national park located?",
+        "label": "Tanzania"
+    }
+]

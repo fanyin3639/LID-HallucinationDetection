@@ -1,0 +1,15 @@
+[
+    [
+        1579,
+        [],
+        "Samuel F. B. Morse"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Morse code is a character encoding scheme used in telecommunication that encodes text characters as standardized sequences of two different signal durations called dots and dashes  or dits and dahs.[2][3] Morse code is named for Samuel F. B. Morse, an inventor of the telegraph. Question: Who invented Morse Code? Answer:",
+    {
+        "id": "english--4803773767703879396-0",
+        "lang": "english",
+        "summary": "Morse code is a character encoding scheme used in telecommunication that encodes text characters as standardized sequences of two different signal durations called dots and dashes  or dits and dahs.[2][3] Morse code is named for Samuel F. B. Morse, an inventor of the telegraph.",
+        "question": "Who invented Morse Code?",
+        "label": "Samuel F. B. Morse"
+    }
+]

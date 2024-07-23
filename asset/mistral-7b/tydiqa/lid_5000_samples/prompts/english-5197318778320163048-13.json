@@ -1,0 +1,15 @@
+[
+    [
+        1467,
+        [],
+        "Hans Krebs"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: One of the most prolific of these modern biochemists was Hans Krebs who made huge contributions to the study of metabolism.[27] Krebs was a student of extremely important Otto Warburg, and wrote a biography of Warburg by that title in which he presents Warburg as being educated to do for biological chemistry what Fischer did for organic chemistry.  Which he did. Krebs discovered the urea cycle and later, working with Hans Kornberg, the citric acid cycle and the glyoxylate cycle.[28][29][30] These discoveries led to Krebs being awarded the Nobel Prize in physiology in 1953,[31] which was shared with the German biochemist Fritz Albert Lipmann who also codiscovered the essential cofactor coenzyme A.  Question: Who first identified metabolism? Answer:",
+    {
+        "id": "english-5197318778320163048-13",
+        "lang": "english",
+        "summary": "One of the most prolific of these modern biochemists was Hans Krebs who made huge contributions to the study of metabolism.[27] Krebs was a student of extremely important Otto Warburg, and wrote a biography of Warburg by that title in which he presents Warburg as being educated to do for biological chemistry what Fischer did for organic chemistry.  Which he did. Krebs discovered the urea cycle and later, working with Hans Kornberg, the citric acid cycle and the glyoxylate cycle.[28][29][30] These discoveries led to Krebs being awarded the Nobel Prize in physiology in 1953,[31] which was shared with the German biochemist Fritz Albert Lipmann who also codiscovered the essential cofactor coenzyme A. ",
+        "question": "Who first identified metabolism?",
+        "label": "Hans Krebs"
+    }
+]

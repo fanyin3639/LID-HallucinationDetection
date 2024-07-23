@@ -1,0 +1,15 @@
+[
+    [
+        2971,
+        [],
+        "1918"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: By 1918, towards the end of the war, the composition and structure of the French army had changed. Forty percent of all French soldiers on the Western Front were operating artillery and 850,000 French troops were infantry in 1918, compared to 1.5 million in 1915. Causes for the drop in infantry include increased machine gun, armored car and tank usage, as well as the increasing significance of the French air force, the Service A\u00e9ronautique. At the end of the war on November 11, 1918, the French had called up 8,817,000 men, including 900,000 colonial troops. France suffered over 4.2 million casualties, with 1.3 million dead. Question: When did France get involved in World War I? Answer:",
+    {
+        "id": "english-833429810268366398-14",
+        "lang": "english",
+        "summary": "By 1918, towards the end of the war, the composition and structure of the French army had changed. Forty percent of all French soldiers on the Western Front were operating artillery and 850,000 French troops were infantry in 1918, compared to 1.5 million in 1915. Causes for the drop in infantry include increased machine gun, armored car and tank usage, as well as the increasing significance of the French air force, the Service A\u00e9ronautique. At the end of the war on November 11, 1918, the French had called up 8,817,000 men, including 900,000 colonial troops. France suffered over 4.2 million casualties, with 1.3 million dead.",
+        "question": "When did France get involved in World War I?",
+        "label": "1918"
+    }
+]

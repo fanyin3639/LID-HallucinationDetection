@@ -1,0 +1,15 @@
+[
+    [
+        264,
+        [],
+        "1900"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: From 1788 to 1900 Sydney was the capital of the British colony of New South Wales. An elected city council was established in 1840. In 1900, Sydney became a state capital, when New South Wales voted to join the Australian Federation. Sydney today is Australia's largest city and a major international capital of culture and finance. The city has played host to many international events, including the 2000 Summer Olympics. Question: When did Sydney become the capital of New South Wales? Answer:",
+    {
+        "id": "english--2166329328750115089-2",
+        "lang": "english",
+        "summary": "From 1788 to 1900 Sydney was the capital of the British colony of New South Wales. An elected city council was established in 1840. In 1900, Sydney became a state capital, when New South Wales voted to join the Australian Federation. Sydney today is Australia's largest city and a major international capital of culture and finance. The city has played host to many international events, including the 2000 Summer Olympics.",
+        "question": "When did Sydney become the capital of New South Wales?",
+        "label": "1900"
+    }
+]

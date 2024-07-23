@@ -1,0 +1,15 @@
+[
+    [
+        2303,
+        [],
+        "Rugby School, Rugby, Warwickshire, England"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Rugby refers to the team sports rugby league and rugby union. Legend claims that Rugby football was started around the time of 1845 in Rugby School, Rugby, Warwickshire, England, although forms of football in which the ball was carried and tossed date to medieval times. Rugby eventually split into two sports in 1895 when twenty one clubs split from the original Rugby Football Union, to form the Northern Union (later to be named rugby league in 1922) in the George Hotel, Huddersfield, Northern England over the issue of payment to players, thus making rugby league the first code to turn professional and pay its players, rugby union turned fully professional in 1995. Both sports are run by their respective world governing bodies World Rugby (rugby union) and the Rugby League International Federation (rugby league). Rugby football was one of many versions of football played at English public schools in the 19th century.[1][2] Although rugby league initially used rugby union rules, they are now wholly separate sports. In addition to these two codes, both American and Canadian football evolved from rugby football. Question: Where did Rugby originate? Answer:",
+    {
+        "id": "english-157400356256198090-0",
+        "lang": "english",
+        "summary": "Rugby refers to the team sports rugby league and rugby union. Legend claims that Rugby football was started around the time of 1845 in Rugby School, Rugby, Warwickshire, England, although forms of football in which the ball was carried and tossed date to medieval times. Rugby eventually split into two sports in 1895 when twenty one clubs split from the original Rugby Football Union, to form the Northern Union (later to be named rugby league in 1922) in the George Hotel, Huddersfield, Northern England over the issue of payment to players, thus making rugby league the first code to turn professional and pay its players, rugby union turned fully professional in 1995. Both sports are run by their respective world governing bodies World Rugby (rugby union) and the Rugby League International Federation (rugby league). Rugby football was one of many versions of football played at English public schools in the 19th century.[1][2] Although rugby league initially used rugby union rules, they are now wholly separate sports. In addition to these two codes, both American and Canadian football evolved from rugby football.",
+        "question": "Where did Rugby originate?",
+        "label": "Rugby School, Rugby, Warwickshire, England"
+    }
+]

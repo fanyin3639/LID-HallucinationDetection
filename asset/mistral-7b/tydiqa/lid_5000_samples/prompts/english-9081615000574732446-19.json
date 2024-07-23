@@ -1,0 +1,15 @@
+[
+    [
+        218,
+        [],
+        "in a chariot crash"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In late 2013, Egyptologist Dr. Chris Naunton and scientists from the Cranfield Institute performed a \"virtual autopsy\" of Tutankhamun, revealing a pattern of injuries down one side of his body. Car-crash investigators then created computer simulations of chariot accidents. Naunton concluded that Tutankhamun was killed in a chariot crash: a chariot smashed into him while he was on his knees, shattering his ribs and pelvis. Naunton also referenced Howard Carter's records of the body having been burnt. Working with anthropologist Dr. Robert Connolly and forensic archaeologist Dr. Matthew Ponting, Naunton produced evidence that Tutankhamun's body was burnt while sealed inside his coffin. Embalming oils combined with oxygen and linen had caused a chemical reaction, creating temperatures of more than 200\u00b0C. Naunton said, \"The charring and possibility that a botched mummification led to the body spontaneously combusting shortly after burial was entirely unexpected.\"[41][42] Question: How did Tutankhamun die? Answer:",
+    {
+        "id": "english-9081615000574732446-19",
+        "lang": "english",
+        "summary": "In late 2013, Egyptologist Dr. Chris Naunton and scientists from the Cranfield Institute performed a \"virtual autopsy\" of Tutankhamun, revealing a pattern of injuries down one side of his body. Car-crash investigators then created computer simulations of chariot accidents. Naunton concluded that Tutankhamun was killed in a chariot crash: a chariot smashed into him while he was on his knees, shattering his ribs and pelvis. Naunton also referenced Howard Carter's records of the body having been burnt. Working with anthropologist Dr. Robert Connolly and forensic archaeologist Dr. Matthew Ponting, Naunton produced evidence that Tutankhamun's body was burnt while sealed inside his coffin. Embalming oils combined with oxygen and linen had caused a chemical reaction, creating temperatures of more than 200\u00b0C. Naunton said, \"The charring and possibility that a botched mummification led to the body spontaneously combusting shortly after burial was entirely unexpected.\"[41][42]",
+        "question": "How did Tutankhamun die?",
+        "label": "in a chariot crash"
+    }
+]

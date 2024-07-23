@@ -1,0 +1,15 @@
+[
+    [
+        2552,
+        [],
+        "Riddarholmen Church"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The buildings that survive from this period are mostly churches and royal buildings, since these were built from more durable materials than most other buildings from that period. Birger Jarls torn (The Tower Of Birger Jarl) was considered the oldest building in the entire city, however, it is now known to have been erected by Gustav Vasa in the 16th century. The Riddarholmen Church from the late 13th century is considered to be the oldest surviving building in Stockholm. While it came to serve as the church of choice for royal burials, another church, the Storkyrkan (Great Church) came to be used for coronations. Both of the churches have been redesign several times since their erection. Question: What is the oldest building in Stockholm? Answer:",
+    {
+        "id": "english--8728990405145455784-4",
+        "lang": "english",
+        "summary": "The buildings that survive from this period are mostly churches and royal buildings, since these were built from more durable materials than most other buildings from that period. Birger Jarls torn (The Tower Of Birger Jarl) was considered the oldest building in the entire city, however, it is now known to have been erected by Gustav Vasa in the 16th century. The Riddarholmen Church from the late 13th century is considered to be the oldest surviving building in Stockholm. While it came to serve as the church of choice for royal burials, another church, the Storkyrkan (Great Church) came to be used for coronations. Both of the churches have been redesign several times since their erection.",
+        "question": "What is the oldest building in Stockholm?",
+        "label": "Riddarholmen Church"
+    }
+]

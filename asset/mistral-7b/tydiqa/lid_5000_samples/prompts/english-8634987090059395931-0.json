@@ -1,0 +1,15 @@
+[
+    [
+        2168,
+        [],
+        "Stephen Amell"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Arrow is an American superhero television series developed by writer/producers Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg that is based on the DC Comics character Green Arrow. The series premiered in the United States on The CW on October 10, 2012, with international broadcasting taking place in late 2012. Primarily filmed in Vancouver, British Columbia, Canada, Arrow follows billionaire playboy Oliver Queen (Stephen Amell), who, five years after being stranded on a hostile island, returns home to fight crime and corruption as a secret vigilante whose weapon of choice is a bow and arrow. Question: Who is Arrow? Answer:",
+    {
+        "id": "english-8634987090059395931-0",
+        "lang": "english",
+        "summary": "Arrow is an American superhero television series developed by writer/producers Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg that is based on the DC Comics character Green Arrow. The series premiered in the United States on The CW on October 10, 2012, with international broadcasting taking place in late 2012. Primarily filmed in Vancouver, British Columbia, Canada, Arrow follows billionaire playboy Oliver Queen (Stephen Amell), who, five years after being stranded on a hostile island, returns home to fight crime and corruption as a secret vigilante whose weapon of choice is a bow and arrow.",
+        "question": "Who is Arrow?",
+        "label": "Stephen Amell"
+    }
+]

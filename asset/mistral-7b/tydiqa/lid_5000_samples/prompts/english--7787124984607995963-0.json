@@ -1,0 +1,15 @@
+[
+    [
+        428,
+        [],
+        "Garry Marshall"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Happy Days is an American television sitcom that aired first-run from January 15, 1974, to September 24, 1984 on ABC, with a total of 255 half-hour episodes spanning eleven seasons. Created by Garry Marshall, the series presented one of the most successful series of the 1970s, an idealized vision of life in the mid-1950s to mid-1960s Midwestern United States, and starred Ron Howard as teenager Richie Cunningham, Henry Winkler as his friend Arthur \"Fonzie\"/\"The Fonz\" Fonzarelli, and Tom Bosley and Marion Ross as Richie's parents, Howard and Marion Cunningham.[1] Happy Days became one of the biggest hits in television history and heavily influenced the television style of its time.[2] Question: Who created the show Happy Days? Answer:",
+    {
+        "id": "english--7787124984607995963-0",
+        "lang": "english",
+        "summary": "Happy Days is an American television sitcom that aired first-run from January 15, 1974, to September 24, 1984 on ABC, with a total of 255 half-hour episodes spanning eleven seasons. Created by Garry Marshall, the series presented one of the most successful series of the 1970s, an idealized vision of life in the mid-1950s to mid-1960s Midwestern United States, and starred Ron Howard as teenager Richie Cunningham, Henry Winkler as his friend Arthur \"Fonzie\"/\"The Fonz\" Fonzarelli, and Tom Bosley and Marion Ross as Richie's parents, Howard and Marion Cunningham.[1] Happy Days became one of the biggest hits in television history and heavily influenced the television style of its time.[2]",
+        "question": "Who created the show Happy Days?",
+        "label": "Garry Marshall"
+    }
+]

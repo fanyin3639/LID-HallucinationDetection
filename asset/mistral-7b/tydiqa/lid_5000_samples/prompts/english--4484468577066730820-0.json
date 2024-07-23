@@ -1,0 +1,15 @@
+[
+    [
+        590,
+        [],
+        "May 17, 1900"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Wonderful Wizard of Oz (/\u0252z/) is an American children's novel written by author L. Frank Baum and illustrated by W. W. Denslow, originally published by the George M. Hill Company in Chicago on May 17, 1900.[1] It has since seen several reprints, most often under the title The Wizard of Oz, which is the title of the popular 1902 Broadway musical adaptation as well as the iconic 1939 musical film adaptation. Question: When was The Wizard of Oz first published? Answer:",
+    {
+        "id": "english--4484468577066730820-0",
+        "lang": "english",
+        "summary": "The Wonderful Wizard of Oz (/\u0252z/) is an American children's novel written by author L. Frank Baum and illustrated by W. W. Denslow, originally published by the George M. Hill Company in Chicago on May 17, 1900.[1] It has since seen several reprints, most often under the title The Wizard of Oz, which is the title of the popular 1902 Broadway musical adaptation as well as the iconic 1939 musical film adaptation.",
+        "question": "When was The Wizard of Oz first published?",
+        "label": "May 17, 1900"
+    }
+]

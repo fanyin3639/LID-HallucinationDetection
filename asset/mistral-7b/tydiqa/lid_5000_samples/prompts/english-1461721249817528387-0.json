@@ -1,0 +1,15 @@
+[
+    [
+        547,
+        [],
+        "1895"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of the London School of Economics dates from 1895, when the School was founded by Fabian Society members Sidney and Beatrice Webb, Graham Wallas, and George Bernard Shaw, with funding provided by private philanthropy, including a bequest of \u00a320,000 from Henry Hunt Hutchinson to the Fabian Society. Question: When was The London School of Economics founded? Answer:",
+    {
+        "id": "english-1461721249817528387-0",
+        "lang": "english",
+        "summary": "The history of the London School of Economics dates from 1895, when the School was founded by Fabian Society members Sidney and Beatrice Webb, Graham Wallas, and George Bernard Shaw, with funding provided by private philanthropy, including a bequest of \u00a320,000 from Henry Hunt Hutchinson to the Fabian Society.",
+        "question": "When was The London School of Economics founded?",
+        "label": "1895"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        424,
+        [],
+        "Niger"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the CIA's The World Factbook,[26] the country with the highest birth rate is Niger at 6.49 children born per woman and the country with the lowest birth rate is Taiwan, at 1.13 children born per woman. Question: What country has the highest birth rate? Answer:",
+    {
+        "id": "english--7492165012872274969-17",
+        "lang": "english",
+        "summary": "According to the CIA's The World Factbook,[26] the country with the highest birth rate is Niger at 6.49 children born per woman and the country with the lowest birth rate is Taiwan, at 1.13 children born per woman.",
+        "question": "What country has the highest birth rate?",
+        "label": "Niger"
+    }
+]

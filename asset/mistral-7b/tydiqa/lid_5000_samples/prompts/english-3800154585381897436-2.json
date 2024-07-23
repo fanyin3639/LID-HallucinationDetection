@@ -1,0 +1,15 @@
+[
+    [
+        3143,
+        [],
+        "eight weeks"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Running at approximately eight weeks long, all enlistees into the U.S. Navy commence their enlistments at this command. Some recruits may take longer than eight weeks if they do not pass certain tests. Upon successful completion of basic training, qualifying sailors are sent to various apprenticeship, or \"A schools\", located across the United States for training in their occupational speciality, or ratings. Those who have not yet received a specific rating enter the fleet with a general designation of airman, fireman, or seaman. Recruit Training Command is located at Naval Station Great Lakes in the city of North Chicago, Illinois in Lake County, north of Chicago. It is a tenant command, meaning that although it is located on the base, it has a separate chain of command. Question: How long is Navy boot camp? Answer:",
+    {
+        "id": "english-3800154585381897436-2",
+        "lang": "english",
+        "summary": "Running at approximately eight weeks long, all enlistees into the U.S. Navy commence their enlistments at this command. Some recruits may take longer than eight weeks if they do not pass certain tests. Upon successful completion of basic training, qualifying sailors are sent to various apprenticeship, or \"A schools\", located across the United States for training in their occupational speciality, or ratings. Those who have not yet received a specific rating enter the fleet with a general designation of airman, fireman, or seaman. Recruit Training Command is located at Naval Station Great Lakes in the city of North Chicago, Illinois in Lake County, north of Chicago. It is a tenant command, meaning that although it is located on the base, it has a separate chain of command.",
+        "question": "How long is Navy boot camp?",
+        "label": "eight weeks"
+    }
+]

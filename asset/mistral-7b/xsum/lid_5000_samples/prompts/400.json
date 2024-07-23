@@ -1,0 +1,14 @@
+[
+    [
+        400,
+        [],
+        "Republican Donald Trump will become the 45th US president after a convincing victory over his Democrat rival Hillary Clinton."
+    ],
+    "Write a short summary for the following passage:\n9 November 2016 Last updated at 18:40 GMT\nAfricans in South Africa, Kenya, Senegal and Nigeria have been giving their reaction.\nSummary:\n",
+    {
+        "id": 400,
+        "document": "9 November 2016 Last updated at 18:40 GMT\nAfricans in South Africa, Kenya, Senegal and Nigeria have been giving their reaction.",
+        "summary": "Republican Donald Trump will become the 45th US president after a convincing victory over his Democrat rival Hillary Clinton.",
+        "label": "Republican Donald Trump will become the 45th US president after a convincing victory over his Democrat rival Hillary Clinton."
+    }
+]

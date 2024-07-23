@@ -1,0 +1,15 @@
+[
+    [
+        2543,
+        [],
+        "nearly 1,550-mile"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The nearly 1,550-mile-long (2,500km) highway's northern terminus is in Tumwater, Washington: the route remains along the Olympic Peninsula's coastal perimeter west, north, and east; the northernmost point on the highway is in Port Angeles. The southern terminus of US101 is in Los Angeles at the East Los Angeles Interchange, the world's busiest freeway interchange.[2] Question: How long is U.S. Route 101? Answer:",
+    {
+        "id": "english--5971112952197356667-2",
+        "lang": "english",
+        "summary": "The nearly 1,550-mile-long (2,500km) highway's northern terminus is in Tumwater, Washington: the route remains along the Olympic Peninsula's coastal perimeter west, north, and east; the northernmost point on the highway is in Port Angeles. The southern terminus of US101 is in Los Angeles at the East Los Angeles Interchange, the world's busiest freeway interchange.[2]",
+        "question": "How long is U.S. Route 101?",
+        "label": "nearly 1,550-mile"
+    }
+]

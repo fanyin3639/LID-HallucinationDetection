@@ -1,0 +1,15 @@
+[
+    [
+        839,
+        [],
+        "14th century"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Written sources about Sweden before 1000 AD are rare and short, usually written by outsiders, and not until the 14th century are there any longer historical texts produced in Sweden. Swedish history, in contrast with pre-history, is thus usually taken to start in the 11th century, when the sources are common enough that they are possible to be contrasted with each other. Question: When was Sweden founded? Answer:",
+    {
+        "id": "english-6236030813618718137-2",
+        "lang": "english",
+        "summary": "Written sources about Sweden before 1000 AD are rare and short, usually written by outsiders, and not until the 14th century are there any longer historical texts produced in Sweden. Swedish history, in contrast with pre-history, is thus usually taken to start in the 11th century, when the sources are common enough that they are possible to be contrasted with each other.",
+        "question": "When was Sweden founded?",
+        "label": "14th century"
+    }
+]

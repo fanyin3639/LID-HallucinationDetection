@@ -1,0 +1,15 @@
+[
+    [
+        2986,
+        [],
+        "1886"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The event's roots are traced to 1886 when the Calgary and District Agricultural Society held its first fair. In 1912, American promoter Guy Weadick organized his first rodeo and festival, known as the Stampede. He returned to Calgary in 1919 to organize the Victory Stampede in honour of soldiers returning from World War I.  Weadick's festival became an annual event in 1923 when it merged with the Calgary Industrial Exhibition to create the Calgary Exhibition and Stampede. Question: When was the first Calgary Rodeo? Answer:",
+    {
+        "id": "english-2210893298653150315-1",
+        "lang": "english",
+        "summary": "The event's roots are traced to 1886 when the Calgary and District Agricultural Society held its first fair. In 1912, American promoter Guy Weadick organized his first rodeo and festival, known as the Stampede. He returned to Calgary in 1919 to organize the Victory Stampede in honour of soldiers returning from World War I.  Weadick's festival became an annual event in 1923 when it merged with the Calgary Industrial Exhibition to create the Calgary Exhibition and Stampede.",
+        "question": "When was the first Calgary Rodeo?",
+        "label": "1886"
+    }
+]

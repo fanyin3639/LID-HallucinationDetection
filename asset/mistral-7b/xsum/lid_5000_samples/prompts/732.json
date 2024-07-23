@@ -1,0 +1,14 @@
+[
+    [
+        732,
+        [],
+        "The Harry Potter franchise is worth about \u00a34bn to the London's economy, according to the London School of Economics (LSE)."
+    ],
+    "Write a short summary for the following passage:\n28 September 2016 Last updated at 21:53 BST\nLeadenhall Market and King's Cross station routinely attract fans looking to reminisce over scenes from the films.\nLSE Professor Amitav Chakravarti said he did not see the strength of the Potter pound dwindling any time soon due to the popularity of tourist attractions such as the West End play, Harry Potter and the Cursed Child.\nSummary:\n",
+    {
+        "id": 732,
+        "document": "28 September 2016 Last updated at 21:53 BST\nLeadenhall Market and King's Cross station routinely attract fans looking to reminisce over scenes from the films.\nLSE Professor Amitav Chakravarti said he did not see the strength of the Potter pound dwindling any time soon due to the popularity of tourist attractions such as the West End play, Harry Potter and the Cursed Child.",
+        "summary": "The Harry Potter franchise is worth about \u00a34bn to the London's economy, according to the London School of Economics (LSE).",
+        "label": "The Harry Potter franchise is worth about \u00a34bn to the London's economy, according to the London School of Economics (LSE)."
+    }
+]

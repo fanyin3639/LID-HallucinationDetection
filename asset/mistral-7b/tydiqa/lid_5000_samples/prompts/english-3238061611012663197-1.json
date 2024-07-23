@@ -1,0 +1,15 @@
+[
+    [
+        1333,
+        [],
+        "1848"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The July Monarchy (French: Monarchie de Juillet) was a liberal constitutional monarchy in France under Louis Philippe I, starting with the July Revolution of 1830 and ending with the Revolution of 1848.    It marks the end of the Bourbon Restoration (1814\u20131830). It began with the overthrow of the conservative government of Charles X, the last king of the House of Bourbon. Question: When did the July Monarchy end? Answer:",
+    {
+        "id": "english-3238061611012663197-1",
+        "lang": "english",
+        "summary": "The July Monarchy (French: Monarchie de Juillet) was a liberal constitutional monarchy in France under Louis Philippe I, starting with the July Revolution of 1830 and ending with the Revolution of 1848.    It marks the end of the Bourbon Restoration (1814\u20131830). It began with the overthrow of the conservative government of Charles X, the last king of the House of Bourbon.",
+        "question": "When did the July Monarchy end?",
+        "label": "1848"
+    }
+]

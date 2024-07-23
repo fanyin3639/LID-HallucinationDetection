@@ -1,0 +1,14 @@
+[
+    [
+        1535,
+        [],
+        "A woman was hurt when she fell from one of the bronze lion sculptures in Trafalgar Square, police said."
+    ],
+    "Write a short summary for the following passage:\nThe woman, in her 20s, suffered head injuries following the fall from the 11ft (3.3m) sculpture.\nThe London Air Ambulance was called on Saturday evening and she was treated for 30 minutes before being taken to hospital.\nHer injuries are no longer life-threatening and police are not treating the incident as suspicious.\nIn past years, the Greater London Authority has called for people to be banned from climbing on the lion statues, to protect them from being damaged.\nIt said tourists had damaged the 148-year-old lions and this damage would worsen without intervention.\nBut English Heritage is against a ban and said it would prove \"deeply unpopular\".\nTrafalgar Square lion facts\nSummary:\n",
+    {
+        "id": 1535,
+        "document": "The woman, in her 20s, suffered head injuries following the fall from the 11ft (3.3m) sculpture.\nThe London Air Ambulance was called on Saturday evening and she was treated for 30 minutes before being taken to hospital.\nHer injuries are no longer life-threatening and police are not treating the incident as suspicious.\nIn past years, the Greater London Authority has called for people to be banned from climbing on the lion statues, to protect them from being damaged.\nIt said tourists had damaged the 148-year-old lions and this damage would worsen without intervention.\nBut English Heritage is against a ban and said it would prove \"deeply unpopular\".\nTrafalgar Square lion facts",
+        "summary": "A woman was hurt when she fell from one of the bronze lion sculptures in Trafalgar Square, police said.",
+        "label": "A woman was hurt when she fell from one of the bronze lion sculptures in Trafalgar Square, police said."
+    }
+]

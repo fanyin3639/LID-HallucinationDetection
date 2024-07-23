@@ -1,0 +1,19 @@
+[
+    [
+        1027,
+        [],
+        "Neighbouring lords"
+    ],
+    "Answer the following questions:\nContext: Cork was originally a monastic settlement, reputedly founded by Saint Finbarr in the 6th century. Cork achieved an urban character at some point between 915 and 922 when Norseman (Viking) settlers founded a trading port. It has been proposed that, like Dublin, Cork was an important trading centre in the global Scandinavian trade network. The ecclesiastical settlement continued alongside the Viking longphort, with the two developing a type of symbiotic relationship; the Norsemen providing otherwise unobtainable trade goods for the monastery, and perhaps also military aid. \n\nThe city's charter was granted by Prince John, as Lord of Ireland, in 1185. The city was once fully walled, and some wall sections and gates remain today. For much of the Middle Ages, Cork city was an outpost of Old English culture in the midst of a predominantly hostile Gaelic countryside and cut off from the English government in the Pale around Dublin. Neighbouring Gaelic and Hiberno-Norman lords extorted \"Black Rent\" from the citizens to keep them from attacking the city. The present extent of the city has exceeded the medieval boundaries of the Barony of Cork City; it now takes in much of the neighbouring Barony of Cork. Together, these baronies are located between the Barony of Barrymore to the east, Muskerry East to the west and Kerrycurrihy to the south.\n'Question': Who extorted black rent?\n'Answer: '",
+    {
+        "id": "3e47sobeyqws69eyeqc9qv7fg5kic0_9",
+        "summary": "Cork was originally a monastic settlement, reputedly founded by Saint Finbarr in the 6th century. Cork achieved an urban character at some point between 915 and 922 when Norseman (Viking) settlers founded a trading port. It has been proposed that, like Dublin, Cork was an important trading centre in the global Scandinavian trade network. The ecclesiastical settlement continued alongside the Viking longphort, with the two developing a type of symbiotic relationship; the Norsemen providing otherwise unobtainable trade goods for the monastery, and perhaps also military aid. \n\nThe city's charter was granted by Prince John, as Lord of Ireland, in 1185. The city was once fully walled, and some wall sections and gates remain today. For much of the Middle Ages, Cork city was an outpost of Old English culture in the midst of a predominantly hostile Gaelic countryside and cut off from the English government in the Pale around Dublin. Neighbouring Gaelic and Hiberno-Norman lords extorted \"Black Rent\" from the citizens to keep them from attacking the city. The present extent of the city has exceeded the medieval boundaries of the Barony of Cork City; it now takes in much of the neighbouring Barony of Cork. Together, these baronies are located between the Barony of Barrymore to the east, Muskerry East to the west and Kerrycurrihy to the south.",
+        "question": "Who extorted black rent?",
+        "label": "Neighbouring lords",
+        "additional_answers": [
+            "Neighbouring Gaelic and Hiberno-Norman lords",
+            "Norman lords",
+            "Gaelic and Hiberno-Norman lords"
+        ]
+    }
+]

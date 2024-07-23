@@ -1,0 +1,15 @@
+[
+    [
+        1223,
+        [],
+        "1.6 million square kilometers"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The patch is not easily seen from the sky, because the plastic is dispersed over a large area. Researchers from The Ocean Cleanup project claimed that the patch covers 1.6 million square kilometers. The plastic concentration is estimated to be up to 100 kilograms per square kilometer in the center, going down to 10 kilograms per square kilometer in the outer parts of the patch. An estimated 80,000 metric tons of plastic inhabit the patch, totaling 1.8 trillion pieces. 92% of the mass in the patch comes from objects larger than 0.5 centimeters.[4] Question: How large is the plastic island in the Pacific Ocean? Answer:",
+    {
+        "id": "english--7600853355991562926-2",
+        "lang": "english",
+        "summary": "The patch is not easily seen from the sky, because the plastic is dispersed over a large area. Researchers from The Ocean Cleanup project claimed that the patch covers 1.6 million square kilometers. The plastic concentration is estimated to be up to 100 kilograms per square kilometer in the center, going down to 10 kilograms per square kilometer in the outer parts of the patch. An estimated 80,000 metric tons of plastic inhabit the patch, totaling 1.8 trillion pieces. 92% of the mass in the patch comes from objects larger than 0.5 centimeters.[4]",
+        "question": "How large is the plastic island in the Pacific Ocean?",
+        "label": "1.6 million square kilometers"
+    }
+]

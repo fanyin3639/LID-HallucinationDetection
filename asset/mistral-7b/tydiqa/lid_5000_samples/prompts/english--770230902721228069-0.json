@@ -1,0 +1,15 @@
+[
+    [
+        2619,
+        [],
+        "until 1995"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Follow Through was the largest and most expensive experimental project in education funded by the U.S. federal government that has ever been conducted. The most extensive evaluation of Follow Through data covers the years 1968\u20131977; however, the program continued to receive funding from the government until 1995.[1]:7 Follow Through was originally intended to be an extension of the federal Head Start program, which delivered educational, health, and social services to typically disadvantaged preschool children and their families. The function of Follow Through, therefore, was to provide a continuation of these services to students in their early elementary years. Question: How long did the Follow Through educational program last? Answer:",
+    {
+        "id": "english--770230902721228069-0",
+        "lang": "english",
+        "summary": "Follow Through was the largest and most expensive experimental project in education funded by the U.S. federal government that has ever been conducted. The most extensive evaluation of Follow Through data covers the years 1968\u20131977; however, the program continued to receive funding from the government until 1995.[1]:7 Follow Through was originally intended to be an extension of the federal Head Start program, which delivered educational, health, and social services to typically disadvantaged preschool children and their families. The function of Follow Through, therefore, was to provide a continuation of these services to students in their early elementary years.",
+        "question": "How long did the Follow Through educational program last?",
+        "label": "until 1995"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2956,
+        [],
+        "Burgundy, France"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Gustave Eiffel was born in Burgundy, France, in the city of Dijon, C\u00f4te-d'Or, the first child of Catherine-M\u00e9lanie (n\u00e9e Moneuse) and Alexandre B\u00f6nickhausen (French pronunciation:\u200b[b\u0254nikoz\u0251\u0303]).[4] He was a descendant of Jean-Ren\u00e9 B\u00f6nickhausen, who had emigrated from the German town of Marmagen and settled in Paris at the beginning of the 18th century.[5] The family adopted the name Eiffel as a reference to the Eifel mountains in the region from which they had come. Although the family always used the name Eiffel, Gustave's name was registered at birth as Bonickhausen dit Eiffel,[1]  and was not officially changed to Eiffel until 1880.[2][6] Question: Where was Gustave Eiffel born? Answer:",
+    {
+        "id": "english-7232400704920944437-1",
+        "lang": "english",
+        "summary": "Gustave Eiffel was born in Burgundy, France, in the city of Dijon, C\u00f4te-d'Or, the first child of Catherine-M\u00e9lanie (n\u00e9e Moneuse) and Alexandre B\u00f6nickhausen (French pronunciation:\u200b[b\u0254nikoz\u0251\u0303]).[4] He was a descendant of Jean-Ren\u00e9 B\u00f6nickhausen, who had emigrated from the German town of Marmagen and settled in Paris at the beginning of the 18th century.[5] The family adopted the name Eiffel as a reference to the Eifel mountains in the region from which they had come. Although the family always used the name Eiffel, Gustave's name was registered at birth as Bonickhausen dit Eiffel,[1]  and was not officially changed to Eiffel until 1880.[2][6]",
+        "question": "Where was Gustave Eiffel born?",
+        "label": "Burgundy, France"
+    }
+]

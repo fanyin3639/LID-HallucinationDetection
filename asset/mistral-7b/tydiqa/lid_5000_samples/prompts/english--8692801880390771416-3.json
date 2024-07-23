@@ -1,0 +1,15 @@
+[
+    [
+        1051,
+        [],
+        "Edward Durell Stone"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The building, designed by architect Edward Durell Stone,[1] was constructed by Philadelphia contractor John McShain, and is administered as a bureau of the Smithsonian Institution. It receives annual federal funding to pay for its maintenance and operation. Question: Who designed the John F. Kennedy Center for the Performing Arts? Answer:",
+    {
+        "id": "english--8692801880390771416-3",
+        "lang": "english",
+        "summary": "The building, designed by architect Edward Durell Stone,[1] was constructed by Philadelphia contractor John McShain, and is administered as a bureau of the Smithsonian Institution. It receives annual federal funding to pay for its maintenance and operation.",
+        "question": "Who designed the John F. Kennedy Center for the Performing Arts?",
+        "label": "Edward Durell Stone"
+    }
+]

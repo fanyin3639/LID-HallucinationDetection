@@ -1,0 +1,15 @@
+[
+    [
+        1140,
+        [],
+        "Imag"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Walking Dead debuted in 2003, published by Image Comics, with art by Tony Moore for the first six issues and Cliff Rathburn shading the art after issue five. Charlie Adlard took over as artist on issue #7, after he was approached by Kirkman.[5] Moore also did the cover art for the first twenty-four issues and the first four trade paperbacks.  The remainder were done by Adlard. Question: When was the comic book series The Walking Dead introduced? Answer:",
+    {
+        "id": "english--5350296537530329816-4",
+        "lang": "english",
+        "summary": "The Walking Dead debuted in 2003, published by Image Comics, with art by Tony Moore for the first six issues and Cliff Rathburn shading the art after issue five. Charlie Adlard took over as artist on issue #7, after he was approached by Kirkman.[5] Moore also did the cover art for the first twenty-four issues and the first four trade paperbacks.  The remainder were done by Adlard.",
+        "question": "When was the comic book series The Walking Dead introduced?",
+        "label": "Imag"
+    }
+]

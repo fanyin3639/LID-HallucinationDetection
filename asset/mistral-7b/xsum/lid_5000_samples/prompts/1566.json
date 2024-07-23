@@ -1,0 +1,14 @@
+[
+    [
+        1566,
+        [],
+        "Photographic slides of Captain Scott's doomed 1910-13 Antarctic expedition have failed to sell at auction."
+    ],
+    "Write a short summary for the following passage:\nThe 38 images, which include Scott's last birthday, killer whales and frost-bitten hands, were taken by expedition photographer Herbert Ponting.\nCapt Robert Scott and his five-man team died in 1912 after being beaten to the south pole by a Norwegian team.\nWiltshire auctioneers Henry Aldridge expected the lot to fetch between \u00a3400-\u00a3600 but said it would be re-auctioned.\nPonting was not part of the team to push to the south pole.\nHe survived an attack by killer whales that almost cost him his life and returned to civilisation. He died in 1935.\nSummary:\n",
+    {
+        "id": 1566,
+        "document": "The 38 images, which include Scott's last birthday, killer whales and frost-bitten hands, were taken by expedition photographer Herbert Ponting.\nCapt Robert Scott and his five-man team died in 1912 after being beaten to the south pole by a Norwegian team.\nWiltshire auctioneers Henry Aldridge expected the lot to fetch between \u00a3400-\u00a3600 but said it would be re-auctioned.\nPonting was not part of the team to push to the south pole.\nHe survived an attack by killer whales that almost cost him his life and returned to civilisation. He died in 1935.",
+        "summary": "Photographic slides of Captain Scott's doomed 1910-13 Antarctic expedition have failed to sell at auction.",
+        "label": "Photographic slides of Captain Scott's doomed 1910-13 Antarctic expedition have failed to sell at auction."
+    }
+]

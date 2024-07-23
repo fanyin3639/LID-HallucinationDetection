@@ -1,0 +1,15 @@
+[
+    [
+        1256,
+        [],
+        "Katherine Coleman Goble Johnson"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Katherine Coleman Goble Johnson (born August 26, 1918) is an African-American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. manned spaceflights.[2] During her 35-year career at NASA and its predecessor, she earned a reputation for mastering complex manual calculations and helped the space agency pioneer the use of computers to perform the tasks. Question: Who was the one that computed the math to get the lander to the moon? Answer:",
+    {
+        "id": "english--4072005447587041008-0",
+        "lang": "english",
+        "summary": "Katherine Coleman Goble Johnson (born August 26, 1918) is an African-American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. manned spaceflights.[2] During her 35-year career at NASA and its predecessor, she earned a reputation for mastering complex manual calculations and helped the space agency pioneer the use of computers to perform the tasks.",
+        "question": "Who was the one that computed the math to get the lander to the moon?",
+        "label": "Katherine Coleman Goble Johnson"
+    }
+]

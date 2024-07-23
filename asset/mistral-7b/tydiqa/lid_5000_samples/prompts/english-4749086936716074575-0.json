@@ -1,0 +1,15 @@
+[
+    [
+        3148,
+        [],
+        "neutralize a specific toxin"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: An antitoxin is an antibody with the ability to neutralize a specific toxin. Antitoxins are produced by certain animals, plants, and bacteria. Although they are most effective in neutralizing toxins, they can kill bacteria and other microorganisms. Antitoxins are made within organisms, but can be injected into other organisms, including humans. This procedure involves injecting an animal with a safe amount of a particular toxin. Then, the animal\u2019s body makes the antitoxin needed to neutralize the toxin. Later, the blood is withdrawn from the animal. When the antitoxin is obtained from the blood, it is purified and injected into a human or other animal, inducing passive immunity.  To prevent serum sickness, it is often best to use antitoxin generated from the same species (e.g. use human antitoxin to treat humans). Question: How do anti toxins work? Answer:",
+    {
+        "id": "english-4749086936716074575-0",
+        "lang": "english",
+        "summary": "An antitoxin is an antibody with the ability to neutralize a specific toxin. Antitoxins are produced by certain animals, plants, and bacteria. Although they are most effective in neutralizing toxins, they can kill bacteria and other microorganisms. Antitoxins are made within organisms, but can be injected into other organisms, including humans. This procedure involves injecting an animal with a safe amount of a particular toxin. Then, the animal\u2019s body makes the antitoxin needed to neutralize the toxin. Later, the blood is withdrawn from the animal. When the antitoxin is obtained from the blood, it is purified and injected into a human or other animal, inducing passive immunity.  To prevent serum sickness, it is often best to use antitoxin generated from the same species (e.g. use human antitoxin to treat humans).",
+        "question": "How do anti toxins work?",
+        "label": "neutralize a specific toxin"
+    }
+]

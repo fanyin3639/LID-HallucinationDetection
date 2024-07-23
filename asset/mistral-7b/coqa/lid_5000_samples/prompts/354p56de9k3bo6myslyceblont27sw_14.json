@@ -1,0 +1,19 @@
+[
+    [
+        1571,
+        [],
+        "He barked."
+    ],
+    "Answer the following questions:\nContext: There once was a big black and white dog named Forrest. His owner's name was Jeff. Jeff thought he was the best dog in the whole world. \n\nOne night, when Forrest and Jeff were taking a walk in the park, they saw two men walking down the path. Both men were dressed in very nice suits. \n\nJeff waved at the men. \n\n\"Good evening,\" he said. \"How are you tonight?\" \n\n\"Hello,\" one of the men said. \"It is such a great night for walking.\" \n\nJeff and Forrest kept walking down the path. It was a very dark night, but the moon was shining bright. When Jeff turned around to look for the two men, he could not see them at all. They were nowhere to be seen. \n\nLater that night, when their walk was over, Jeff and Forrest were lying on the bed. They were watching a television show about ghosts. \n\n\"Do you think maybe those two men were ghosts?\" Jeff said out loud. \"They did not leave a trace.\" \n\nForrest was a dog, but he acted like he understood. He barked. \n\nJeff smiled. He liked that his dog always saw things the same way he did.\n'Question': Did Forrest have any reaction?\n'Answer: '",
+    {
+        "id": "354p56de9k3bo6myslyceblont27sw_14",
+        "summary": "There once was a big black and white dog named Forrest. His owner's name was Jeff. Jeff thought he was the best dog in the whole world. \n\nOne night, when Forrest and Jeff were taking a walk in the park, they saw two men walking down the path. Both men were dressed in very nice suits. \n\nJeff waved at the men. \n\n\"Good evening,\" he said. \"How are you tonight?\" \n\n\"Hello,\" one of the men said. \"It is such a great night for walking.\" \n\nJeff and Forrest kept walking down the path. It was a very dark night, but the moon was shining bright. When Jeff turned around to look for the two men, he could not see them at all. They were nowhere to be seen. \n\nLater that night, when their walk was over, Jeff and Forrest were lying on the bed. They were watching a television show about ghosts. \n\n\"Do you think maybe those two men were ghosts?\" Jeff said out loud. \"They did not leave a trace.\" \n\nForrest was a dog, but he acted like he understood. He barked. \n\nJeff smiled. He liked that his dog always saw things the same way he did.",
+        "question": "Did Forrest have any reaction?",
+        "label": "He barked.",
+        "additional_answers": [
+            "yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

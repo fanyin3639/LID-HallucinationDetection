@@ -1,0 +1,14 @@
+[
+    [
+        700,
+        [],
+        "The number of new car registrations in Scotland in August grew slightly when compared to the same month last year, new figures have revealed."
+    ],
+    "Write a short summary for the following passage:\nA total of 6,687 cars were registered, a 3.67% rise on August 2014.\nSandy Burgess, chief Executive of the Scottish Motor Trade Association, said the figures maintained Scotland's year-on-year growth at 1.12% .\nAcross the UK registrations increased 9.6% for the month and 6.7% for the year to-date.\nAccording to the Society of Motor Manufacturers and Traders, the August registrations in Scotland included two Lamborghinis, one Rolls-Royce and 1,006 Vauxhalls.\nThe top 10 best-selling cars in Scotland in August were:\nSummary:\n",
+    {
+        "id": 700,
+        "document": "A total of 6,687 cars were registered, a 3.67% rise on August 2014.\nSandy Burgess, chief Executive of the Scottish Motor Trade Association, said the figures maintained Scotland's year-on-year growth at 1.12% .\nAcross the UK registrations increased 9.6% for the month and 6.7% for the year to-date.\nAccording to the Society of Motor Manufacturers and Traders, the August registrations in Scotland included two Lamborghinis, one Rolls-Royce and 1,006 Vauxhalls.\nThe top 10 best-selling cars in Scotland in August were:",
+        "summary": "The number of new car registrations in Scotland in August grew slightly when compared to the same month last year, new figures have revealed.",
+        "label": "The number of new car registrations in Scotland in August grew slightly when compared to the same month last year, new figures have revealed."
+    }
+]

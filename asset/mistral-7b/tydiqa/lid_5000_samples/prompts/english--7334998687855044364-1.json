@@ -1,0 +1,15 @@
+[
+    [
+        1523,
+        [],
+        "Pasadena, California"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Butler was born in Pasadena, California. After her father died, she was raised by her widowed mother. Extremely shy as a child, Octavia found an outlet at the library reading fantasy, and in writing.  As a teen she began writing science fiction.  She attended community college during the Black Power movement, and while participating in a local writer's workshop was encouraged to attend the Clarion Workshop, which focused on science fiction. Question: Where was author Octavia E. Butler born? Answer:",
+    {
+        "id": "english--7334998687855044364-1",
+        "lang": "english",
+        "summary": "Butler was born in Pasadena, California. After her father died, she was raised by her widowed mother. Extremely shy as a child, Octavia found an outlet at the library reading fantasy, and in writing.  As a teen she began writing science fiction.  She attended community college during the Black Power movement, and while participating in a local writer's workshop was encouraged to attend the Clarion Workshop, which focused on science fiction.",
+        "question": "Where was author Octavia E. Butler born?",
+        "label": "Pasadena, California"
+    }
+]

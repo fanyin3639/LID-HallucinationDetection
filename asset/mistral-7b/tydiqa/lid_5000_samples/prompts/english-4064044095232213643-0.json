@@ -1,0 +1,15 @@
+[
+    [
+        1116,
+        [],
+        "26,271"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 2003 Bam earthquake struck the Kerman province of southeastern Iran at 01:56UTC (5:26AM Iran Standard Time) on December 26. The shock had a moment magnitude of 6.6 and a maximum Mercalli intensity of IX (Violent). The earthquake was particularly destructive in Bam, with the death toll amounting to at least 26,271 people and injuring up to 30,000. The effects of the earthquake were exacerbated by the use of mud brick as the standard construction medium; many of the area's structures did not comply with earthquake regulations set in 1989. Question: How many died in the 2003 Bam earthquake in Iran? Answer:",
+    {
+        "id": "english-4064044095232213643-0",
+        "lang": "english",
+        "summary": "The 2003 Bam earthquake struck the Kerman province of southeastern Iran at 01:56UTC (5:26AM Iran Standard Time) on December 26. The shock had a moment magnitude of 6.6 and a maximum Mercalli intensity of IX (Violent). The earthquake was particularly destructive in Bam, with the death toll amounting to at least 26,271 people and injuring up to 30,000. The effects of the earthquake were exacerbated by the use of mud brick as the standard construction medium; many of the area's structures did not comply with earthquake regulations set in 1989.",
+        "question": "How many died in the 2003 Bam earthquake in Iran?",
+        "label": "26,271"
+    }
+]

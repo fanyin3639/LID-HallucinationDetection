@@ -1,0 +1,14 @@
+[
+    [
+        3,
+        [],
+        "A man has been charged with assaulting Chesterfield FC captain Ian Evatt after the club's League One play-off defeat at Preston."
+    ],
+    "Write a short summary for the following passage:\nMatthew Edwards, 20, of Southern Avenue, Preston, is due before Preston Magistrates' Court on 28 May.\nEvatt, 33, alleged he was \"punched, kicked and spat on\" by rival fans after his team lost 3-0 in the second leg of their play-off semi-final at Deepdale.\nThe player previously played for Preston's Lancashire rivals Blackpool.\nLancashire Police said it was continuing to investigate the incident, which followed \"an otherwise largely peaceful incursion on to the pitch\" at the end of the match on Sunday.\nThe 3-0 win provided Preston North End with a 4-0 aggregate victory to book their place in the League One play-off final at Wembley, where they will play Swindon.\nSummary:\n",
+    {
+        "id": 3,
+        "document": "Matthew Edwards, 20, of Southern Avenue, Preston, is due before Preston Magistrates' Court on 28 May.\nEvatt, 33, alleged he was \"punched, kicked and spat on\" by rival fans after his team lost 3-0 in the second leg of their play-off semi-final at Deepdale.\nThe player previously played for Preston's Lancashire rivals Blackpool.\nLancashire Police said it was continuing to investigate the incident, which followed \"an otherwise largely peaceful incursion on to the pitch\" at the end of the match on Sunday.\nThe 3-0 win provided Preston North End with a 4-0 aggregate victory to book their place in the League One play-off final at Wembley, where they will play Swindon.",
+        "summary": "A man has been charged with assaulting Chesterfield FC captain Ian Evatt after the club's League One play-off defeat at Preston.",
+        "label": "A man has been charged with assaulting Chesterfield FC captain Ian Evatt after the club's League One play-off defeat at Preston."
+    }
+]

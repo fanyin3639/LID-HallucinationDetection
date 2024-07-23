@@ -1,0 +1,15 @@
+[
+    [
+        2693,
+        [],
+        "Euclid"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Classic geometry was focused in compass and straightedge constructions. Geometry was revolutionized by Euclid, who introduced mathematical rigor and the axiomatic method still in use today. His book, The Elements is widely considered the most influential textbook of all time, and was known to all educated people in the West until the middle of the 20th century.[1] Question: Who is considered the founder of geometry? Answer:",
+    {
+        "id": "english--5616284759512305262-2",
+        "lang": "english",
+        "summary": "Classic geometry was focused in compass and straightedge constructions. Geometry was revolutionized by Euclid, who introduced mathematical rigor and the axiomatic method still in use today. His book, The Elements is widely considered the most influential textbook of all time, and was known to all educated people in the West until the middle of the 20th century.[1]",
+        "question": "Who is considered the founder of geometry?",
+        "label": "Euclid"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1151,
+        [],
+        "1,082 square miles"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the U.S. Census Bureau, the county has a total area of 1,082 square miles (2,800km2), of which 1,081 square miles (2,800km2) is land and 0.2 square miles (0.52km2) (0.02%) is water.[4] Question: How large is Potter County in Pennsylvania? Answer:",
+    {
+        "id": "english--3027681046603530280-4",
+        "lang": "english",
+        "summary": "According to the U.S. Census Bureau, the county has a total area of 1,082 square miles (2,800km2), of which 1,081 square miles (2,800km2) is land and 0.2 square miles (0.52km2) (0.02%) is water.[4]",
+        "question": "How large is Potter County in Pennsylvania?",
+        "label": "1,082 square miles"
+    }
+]

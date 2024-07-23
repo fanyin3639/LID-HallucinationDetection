@@ -1,0 +1,19 @@
+[
+    [
+        971,
+        [],
+        "Yes"
+    ],
+    "Answer the following questions:\nContext: (CNN) -- The United States is deeply concerned about the well-being of Eman al-Obeidy, according to a State Department source, and worked closely with officials in Europe and Libya to get her safely out of the country. The same source said the U.S. is \"prepared to provide whatever help and support Eman may need.\" \n\nAl-Obeidy grabbed the world's attention this spring when she accused Libyan leader Moammar Gadhafi's security forces of gang-raping her. \n\nShe is now on the way to Malta with her father, according to another high-level U.S. State Department source. She will eventually head to a processing center in Europe before leaving for a final destination. \n\nShe has told CNN on repeated occasions that she wants to go to the United States. \n\nOne of the State Department sources told CNN that Secretary of State Hillary Clinton \"has been deeply interested in the case and has followed it throughout.\" \n\nAl-Obeidy was in Qatar awaiting resettlement as a refugee when she was deported Thursday and sent back to Libya. She was reportedly beaten before being deported. \n\nNajah Dawaji, a U.S.-based Libyan pro-freedom activist, said she was with three key members of Libya's Transitional National Council when they first learned that al-Obeidy was forced from Doha and arrived in Benghazi, Libya, on Thursday. She said al-Obeidy had a black eye, bruises on her legs and scratches on her arms. \n\nAl-Obeidy told a journalist that officials in the Transitional National Council had pressured the Qataris to expel her. But, according to Dawaji, she did not blame the rebel group for the beating itself. \n'Question': Does any country care about her well-being?\n'Answer: '",
+    {
+        "id": "37td41k0ah9h0nhuj26nuxd2pc0scy_4",
+        "summary": "(CNN) -- The United States is deeply concerned about the well-being of Eman al-Obeidy, according to a State Department source, and worked closely with officials in Europe and Libya to get her safely out of the country. The same source said the U.S. is \"prepared to provide whatever help and support Eman may need.\" \n\nAl-Obeidy grabbed the world's attention this spring when she accused Libyan leader Moammar Gadhafi's security forces of gang-raping her. \n\nShe is now on the way to Malta with her father, according to another high-level U.S. State Department source. She will eventually head to a processing center in Europe before leaving for a final destination. \n\nShe has told CNN on repeated occasions that she wants to go to the United States. \n\nOne of the State Department sources told CNN that Secretary of State Hillary Clinton \"has been deeply interested in the case and has followed it throughout.\" \n\nAl-Obeidy was in Qatar awaiting resettlement as a refugee when she was deported Thursday and sent back to Libya. She was reportedly beaten before being deported. \n\nNajah Dawaji, a U.S.-based Libyan pro-freedom activist, said she was with three key members of Libya's Transitional National Council when they first learned that al-Obeidy was forced from Doha and arrived in Benghazi, Libya, on Thursday. She said al-Obeidy had a black eye, bruises on her legs and scratches on her arms. \n\nAl-Obeidy told a journalist that officials in the Transitional National Council had pressured the Qataris to expel her. But, according to Dawaji, she did not blame the rebel group for the beating itself. ",
+        "question": "Does any country care about her well-being?",
+        "label": "Yes",
+        "additional_answers": [
+            "Yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

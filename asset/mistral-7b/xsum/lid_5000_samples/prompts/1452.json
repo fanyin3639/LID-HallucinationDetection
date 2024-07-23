@@ -1,0 +1,14 @@
+[
+    [
+        1452,
+        [],
+        "A plan for three wind turbines looks set to be refused permission because the project has been deemed a risk to the operation of military radar."
+    ],
+    "Write a short summary for the following passage:\nWind Harvest Ltd has proposed the small wind farm for land at Hill of Lychrobbie, near Dunbeath in Caithness.\nThe Ministry of Defence (MoD) has objected because the turbines could interfere with radar at RAF Lossiemouth in Moray.\nHighland councillors have been asked to refuse the farm planning permission.\nPlanning officers at Highland Council said that, while it was recognised the renewable energy project would benefit nearby communities, the MoD's objection could not be ignored.\nThe officials noted that the developer had sought to resolve the problem with the MoD.\nCouncillors will consider the officers' recommendation that planning permission be refused at a meeting next week.\nRAF Lossiemouth, which is located across the Moray Firth from Dunbeath, is a base for Typhoon and Tornado jets squadrons.\nSummary:\n",
+    {
+        "id": 1452,
+        "document": "Wind Harvest Ltd has proposed the small wind farm for land at Hill of Lychrobbie, near Dunbeath in Caithness.\nThe Ministry of Defence (MoD) has objected because the turbines could interfere with radar at RAF Lossiemouth in Moray.\nHighland councillors have been asked to refuse the farm planning permission.\nPlanning officers at Highland Council said that, while it was recognised the renewable energy project would benefit nearby communities, the MoD's objection could not be ignored.\nThe officials noted that the developer had sought to resolve the problem with the MoD.\nCouncillors will consider the officers' recommendation that planning permission be refused at a meeting next week.\nRAF Lossiemouth, which is located across the Moray Firth from Dunbeath, is a base for Typhoon and Tornado jets squadrons.",
+        "summary": "A plan for three wind turbines looks set to be refused permission because the project has been deemed a risk to the operation of military radar.",
+        "label": "A plan for three wind turbines looks set to be refused permission because the project has been deemed a risk to the operation of military radar."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        1020,
+        [],
+        "A car has overturned near the entrance to a busy play park in Glasgow."
+    ],
+    "Write a short summary for the following passage:\nThe accident happened near Rouken Glen Park in Giffnock, East Renfrewshire.\nThe driver of the Hyundai lost control on Rouken Glen Road, with the car coming to rest on its roof in the middle of the dual carriageway.\nPolice closed the road to allow the car to be removed. No-one was injured.\nSummary:\n",
+    {
+        "id": 1020,
+        "document": "The accident happened near Rouken Glen Park in Giffnock, East Renfrewshire.\nThe driver of the Hyundai lost control on Rouken Glen Road, with the car coming to rest on its roof in the middle of the dual carriageway.\nPolice closed the road to allow the car to be removed. No-one was injured.",
+        "summary": "A car has overturned near the entrance to a busy play park in Glasgow.",
+        "label": "A car has overturned near the entrance to a busy play park in Glasgow."
+    }
+]

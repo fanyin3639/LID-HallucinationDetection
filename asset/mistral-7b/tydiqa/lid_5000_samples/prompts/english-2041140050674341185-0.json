@@ -1,0 +1,15 @@
+[
+    [
+        618,
+        [],
+        "between 1705 and 1722"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: BlenheimPalace (pronounced  /\u02c8bl\u025bn\u026am/ BLEN-im[1]) is a monumental country house in Blenheim, Oxfordshire, England. It is the principal residence of the Dukes of Marlborough, and the only non-royal, non-episcopal country house in England to hold the title of palace. The palace, one of England's largest houses, was built between 1705 and 1722, and designated a UNESCO World Heritage Site in 1987.[2] Question: When was Blenheim Palace built? Answer:",
+    {
+        "id": "english-2041140050674341185-0",
+        "lang": "english",
+        "summary": "BlenheimPalace (pronounced  /\u02c8bl\u025bn\u026am/ BLEN-im[1]) is a monumental country house in Blenheim, Oxfordshire, England. It is the principal residence of the Dukes of Marlborough, and the only non-royal, non-episcopal country house in England to hold the title of palace. The palace, one of England's largest houses, was built between 1705 and 1722, and designated a UNESCO World Heritage Site in 1987.[2]",
+        "question": "When was Blenheim Palace built?",
+        "label": "between 1705 and 1722"
+    }
+]

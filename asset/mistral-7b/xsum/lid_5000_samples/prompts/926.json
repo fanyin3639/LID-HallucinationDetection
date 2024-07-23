@@ -1,0 +1,14 @@
+[
+    [
+        926,
+        [],
+        "Newcastle Falcons have signed flanker Todd Clever following his departure from Japanese side NTT Shining Arcs earlier this year."
+    ],
+    "Write a short summary for the following passage:\nThe USA international, and former national team captain, played Super 14s in South Africa with the Lions and at North Harbour in New Zealand.\n\"He is a physical defender and a powerful attacker,\" director of rugby Dean Richards said.\nDespite featuring in three World Cups, Clever was omitted from the 2015 squad.\nHe said: \"The club is expecting big things in the next few years and I'm looking forward to it.\n\"It's good to be in the situation as a new player coming in where people expect big things.\"\nSummary:\n",
+    {
+        "id": 926,
+        "document": "The USA international, and former national team captain, played Super 14s in South Africa with the Lions and at North Harbour in New Zealand.\n\"He is a physical defender and a powerful attacker,\" director of rugby Dean Richards said.\nDespite featuring in three World Cups, Clever was omitted from the 2015 squad.\nHe said: \"The club is expecting big things in the next few years and I'm looking forward to it.\n\"It's good to be in the situation as a new player coming in where people expect big things.\"",
+        "summary": "Newcastle Falcons have signed flanker Todd Clever following his departure from Japanese side NTT Shining Arcs earlier this year.",
+        "label": "Newcastle Falcons have signed flanker Todd Clever following his departure from Japanese side NTT Shining Arcs earlier this year."
+    }
+]

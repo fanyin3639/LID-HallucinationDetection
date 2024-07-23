@@ -1,0 +1,15 @@
+[
+    [
+        2871,
+        [],
+        "between 1857 and 1859"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Tristan und Isolde (Tristan and Isolde, or Tristan and Isolda, or Tristran and Ysolt) is an opera, or music drama, in three acts by Richard Wagner to a German libretto by the composer, based largely on the 12th-century romance Tristan by Gottfried von Strassburg. It was composed between 1857 and 1859 and premiered at the K\u00f6nigliches Hof- und Nationaltheater in Munich on 10June 1865 with Hans von B\u00fclow conducting. Wagner referred to the work not as an opera, but called it \"eine Handlung\" (literally a drama, a plot or an action), which was the equivalent of the term used by the Spanish playwright Calder\u00f3n for his dramas. Question: When did Wagner compose Tristan und Isolde? Answer:",
+    {
+        "id": "english--6467354571437330856-0",
+        "lang": "english",
+        "summary": "Tristan und Isolde (Tristan and Isolde, or Tristan and Isolda, or Tristran and Ysolt) is an opera, or music drama, in three acts by Richard Wagner to a German libretto by the composer, based largely on the 12th-century romance Tristan by Gottfried von Strassburg. It was composed between 1857 and 1859 and premiered at the K\u00f6nigliches Hof- und Nationaltheater in Munich on 10June 1865 with Hans von B\u00fclow conducting. Wagner referred to the work not as an opera, but called it \"eine Handlung\" (literally a drama, a plot or an action), which was the equivalent of the term used by the Spanish playwright Calder\u00f3n for his dramas.",
+        "question": "When did Wagner compose Tristan und Isolde?",
+        "label": "between 1857 and 1859"
+    }
+]

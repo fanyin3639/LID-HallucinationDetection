@@ -1,0 +1,15 @@
+[
+    [
+        1949,
+        [],
+        "1954"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Following the recommendation of the Board, Congress passed legislation in 1954 to begin the construction of the Air Force Academy, and President Eisenhower signed it into law on 1 April of that year.[14] The legislation established an advisory commission to determine the site of the new school. Among the panel members were Charles Lindbergh, General Carl Spaatz, and Lieutenant General Hubert R. Harmon, who later became the Academy's first superintendent. The original 582 sites considered were winnowed to three: Alton, Illinois; Lake Geneva, Wisconsin; and the ultimate site at Colorado Springs, Colorado. The Secretary of the Air Force, Harold E. Talbott, announced the winning site on 24 June 1954.[15][16] Meanwhile, Air Training Command (ATC) began developing a detailed curriculum for the Academy program.[12] Question: When was the U.S. Air Force Academy established? Answer:",
+    {
+        "id": "english-480800870894030906-6",
+        "lang": "english",
+        "summary": "Following the recommendation of the Board, Congress passed legislation in 1954 to begin the construction of the Air Force Academy, and President Eisenhower signed it into law on 1 April of that year.[14] The legislation established an advisory commission to determine the site of the new school. Among the panel members were Charles Lindbergh, General Carl Spaatz, and Lieutenant General Hubert R. Harmon, who later became the Academy's first superintendent. The original 582 sites considered were winnowed to three: Alton, Illinois; Lake Geneva, Wisconsin; and the ultimate site at Colorado Springs, Colorado. The Secretary of the Air Force, Harold E. Talbott, announced the winning site on 24 June 1954.[15][16] Meanwhile, Air Training Command (ATC) began developing a detailed curriculum for the Academy program.[12]",
+        "question": "When was the U.S. Air Force Academy established?",
+        "label": "1954"
+    }
+]

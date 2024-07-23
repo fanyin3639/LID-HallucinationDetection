@@ -1,0 +1,15 @@
+[
+    [
+        3173,
+        [],
+        "1791"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The short-lived French Constitution of 1791 was the first written constitution in France, created after the collapse of the absolute monarchy of the Ancien R\u00e9gime. One of the basic precepts of the revolution was adopting constitutionality and establishing popular sovereignty. Question: When was the French Constitution first written? Answer:",
+    {
+        "id": "english-157644723258686187-0",
+        "lang": "english",
+        "summary": "The short-lived French Constitution of 1791 was the first written constitution in France, created after the collapse of the absolute monarchy of the Ancien R\u00e9gime. One of the basic precepts of the revolution was adopting constitutionality and establishing popular sovereignty.",
+        "question": "When was the French Constitution first written?",
+        "label": "1791"
+    }
+]

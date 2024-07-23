@@ -1,0 +1,15 @@
+[
+    [
+        2822,
+        [],
+        "1852"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Marshall Field & Company traces its antecedents to a dry goods store opened at 137 Lake Street[1] in Chicago, Illinois in 1852 by Potter Palmer, (1826\u20131902), eponymously named P. Palmer & Company. In 1856, 21-year-old Marshall Field (1834\u20131906) moved to the booming midwestern city of Chicago on the southwest shores of Lake Michigan from Pittsfield, Massachusetts and found work at the city's then-largest dry goods firm \u2013 Cooley, Wadsworth & Company. Just prior to the American Civil War, in 1860, Field and bookkeeper Levi Z. Leiter, (1834\u20131904), became junior partners in the firm, then known as Cooley, Farwell & Company. In 1864, the firm, then led by senior partner John V. Farwell, Sr., (1825\u20131908), was renamed Farwell, Field & Company.[2] only for Field and Leiter to soon withdraw from the partnership with Farwell when presented with the opportunity of a lifetime.[3] Question: When was the department store Marshall Field's first opened? Answer:",
+    {
+        "id": "english-291343079584887240-2",
+        "lang": "english",
+        "summary": "Marshall Field & Company traces its antecedents to a dry goods store opened at 137 Lake Street[1] in Chicago, Illinois in 1852 by Potter Palmer, (1826\u20131902), eponymously named P. Palmer & Company. In 1856, 21-year-old Marshall Field (1834\u20131906) moved to the booming midwestern city of Chicago on the southwest shores of Lake Michigan from Pittsfield, Massachusetts and found work at the city's then-largest dry goods firm \u2013 Cooley, Wadsworth & Company. Just prior to the American Civil War, in 1860, Field and bookkeeper Levi Z. Leiter, (1834\u20131904), became junior partners in the firm, then known as Cooley, Farwell & Company. In 1864, the firm, then led by senior partner John V. Farwell, Sr., (1825\u20131908), was renamed Farwell, Field & Company.[2] only for Field and Leiter to soon withdraw from the partnership with Farwell when presented with the opportunity of a lifetime.[3]",
+        "question": "When was the department store Marshall Field's first opened?",
+        "label": "1852"
+    }
+]

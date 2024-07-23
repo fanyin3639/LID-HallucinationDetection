@@ -1,0 +1,15 @@
+[
+    [
+        1449,
+        [],
+        "780,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: By March 2004, sales of the .hack games exceeded 1.73million, with 780,000copies sold in Japan.[47] Critics gave the series mixed reviews. .hack//Infection received the most positive reviews of the series; critics were intrigued by the games' unique premise. Jeremy Dunham of IGN was impressed by the game's commitment to preserve the illusion of online and praised the character designs and the inclusion of the Japanese voice track, but criticized the camera manipulation and the game's shortness and lack of difficulty.[3] A Game Informer reviewer praised the way it captures the sense of community that a real MMORPG offers.[48] Question: How many copies did .hack//G.U. sale? Answer:",
+    {
+        "id": "english--9030070966938185500-15",
+        "lang": "english",
+        "summary": "By March 2004, sales of the .hack games exceeded 1.73million, with 780,000copies sold in Japan.[47] Critics gave the series mixed reviews. .hack//Infection received the most positive reviews of the series; critics were intrigued by the games' unique premise. Jeremy Dunham of IGN was impressed by the game's commitment to preserve the illusion of online and praised the character designs and the inclusion of the Japanese voice track, but criticized the camera manipulation and the game's shortness and lack of difficulty.[3] A Game Informer reviewer praised the way it captures the sense of community that a real MMORPG offers.[48]",
+        "question": "How many copies did .hack//G.U. sale?",
+        "label": "780,000"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1360,
+        [],
+        "1950s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Simply put: Cognitive Science is the interdisciplinary study of cognition in humans, animals, and machines. It encompasses the traditional disciplines of psychology, computer science, neuroscience, anthropology, linguistics and philosophy. The goal of cognitive science is to understand the principles of intelligence with the hope that this will lead to better comprehension of the mind and of learning and to develop intelligent devices. The cognitive sciences began as an intellectual movement in the 1950s often referred to as the cognitive revolution. Question: When was the field of Cognitive Science develop? Answer:",
+    {
+        "id": "english--560689536082736713-1",
+        "lang": "english",
+        "summary": "Simply put: Cognitive Science is the interdisciplinary study of cognition in humans, animals, and machines. It encompasses the traditional disciplines of psychology, computer science, neuroscience, anthropology, linguistics and philosophy. The goal of cognitive science is to understand the principles of intelligence with the hope that this will lead to better comprehension of the mind and of learning and to develop intelligent devices. The cognitive sciences began as an intellectual movement in the 1950s often referred to as the cognitive revolution.",
+        "question": "When was the field of Cognitive Science develop?",
+        "label": "1950s"
+    }
+]

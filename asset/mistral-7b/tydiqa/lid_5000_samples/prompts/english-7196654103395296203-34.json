@@ -1,0 +1,15 @@
+[
+    [
+        1203,
+        [],
+        "suicide"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The play arguably equates love and sex with death. Throughout the story, both Romeo and Juliet, along with the other characters, fantasise about it as a dark being, often equating it with a lover. Capulet, for example, when he first discovers Juliet's (faked) death, describes it as having deflowered his daughter.[42] Juliet later erotically compares Romeo and death. Right before her suicide, she grabs Romeo's dagger, saying \"O happy dagger! This is thy sheath. There rust, and let me die.\"[43][44] Question: How did Juliet die? Answer:",
+    {
+        "id": "english-7196654103395296203-34",
+        "lang": "english",
+        "summary": "The play arguably equates love and sex with death. Throughout the story, both Romeo and Juliet, along with the other characters, fantasise about it as a dark being, often equating it with a lover. Capulet, for example, when he first discovers Juliet's (faked) death, describes it as having deflowered his daughter.[42] Juliet later erotically compares Romeo and death. Right before her suicide, she grabs Romeo's dagger, saying \"O happy dagger! This is thy sheath. There rust, and let me die.\"[43][44]",
+        "question": "How did Juliet die?",
+        "label": "suicide"
+    }
+]

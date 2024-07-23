@@ -1,0 +1,15 @@
+[
+    [
+        375,
+        [],
+        "more than 140"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The English football league system, also known as the football pyramid, is a series of interconnected leagues for men's association football clubs in England, with six teams from Wales and one from Guernsey also competing.  The system has a hierarchical format with promotion and relegation between leagues at different levels, allowing even the smallest club the theoretical possibility of ultimately rising to the very top of the system, although in practice it would take a team at the bottom levels at least two decades of consistently finishing at or near the top of each successive league to reach the top level, and even then additional restrictions, particularly in regard to stadium facilities, would then come into effect at the highest levels that could prevent a club from being allowed access to the top levels.  There are more than 140 individual leagues, containing more than 480 divisions.[1] Question: How many professional football leagues are there in the U.K.? Answer:",
+    {
+        "id": "english--7258587275801812350-0",
+        "lang": "english",
+        "summary": "The English football league system, also known as the football pyramid, is a series of interconnected leagues for men's association football clubs in England, with six teams from Wales and one from Guernsey also competing.  The system has a hierarchical format with promotion and relegation between leagues at different levels, allowing even the smallest club the theoretical possibility of ultimately rising to the very top of the system, although in practice it would take a team at the bottom levels at least two decades of consistently finishing at or near the top of each successive league to reach the top level, and even then additional restrictions, particularly in regard to stadium facilities, would then come into effect at the highest levels that could prevent a club from being allowed access to the top levels.  There are more than 140 individual leagues, containing more than 480 divisions.[1]",
+        "question": "How many professional football leagues are there in the U.K.?",
+        "label": "more than 140"
+    }
+]

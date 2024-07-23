@@ -1,0 +1,15 @@
+[
+    [
+        2710,
+        [],
+        "790"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: While the House of Commons has a defined 650-seat membership, the number of members in the House of Lords is not fixed. There are currently 790 sitting Lords. The House of Lords is the only upper house of any bicameral parliament to be larger than its lower house.[8] Question: How many members are there of the UK House of Lords? Answer:",
+    {
+        "id": "english--1480255015784478263-3",
+        "lang": "english",
+        "summary": "While the House of Commons has a defined 650-seat membership, the number of members in the House of Lords is not fixed. There are currently 790 sitting Lords. The House of Lords is the only upper house of any bicameral parliament to be larger than its lower house.[8]",
+        "question": "How many members are there of the UK House of Lords?",
+        "label": "790"
+    }
+]

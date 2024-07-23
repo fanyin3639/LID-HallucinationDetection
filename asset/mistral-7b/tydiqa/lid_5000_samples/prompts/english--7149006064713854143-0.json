@@ -1,0 +1,15 @@
+[
+    [
+        512,
+        [],
+        "believed to have been written in or before 1597"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Merry Wives of Windsor is a comedy by William Shakespeare first published in 1602, though believed to have been written in or before 1597. The Windsor of the play's title is a reference to the town of Windsor, also the location of Windsor Castle, in Berkshire, England. Though nominally set in the reign of Henry IV, the play makes no pretense to exist outside contemporary Elizabethan era English middle class life. It features the character Sir John Falstaff, the fat knight who had previously been featured in Henry IV, Part 1 and Part 2. It has been adapted for the opera on several occasions. The play is one of Shakespeare's lesser-regarded works among literary critics. Question: When did Shakespeare write The Merry Wives of Windsor? Answer:",
+    {
+        "id": "english--7149006064713854143-0",
+        "lang": "english",
+        "summary": "The Merry Wives of Windsor is a comedy by William Shakespeare first published in 1602, though believed to have been written in or before 1597. The Windsor of the play's title is a reference to the town of Windsor, also the location of Windsor Castle, in Berkshire, England. Though nominally set in the reign of Henry IV, the play makes no pretense to exist outside contemporary Elizabethan era English middle class life. It features the character Sir John Falstaff, the fat knight who had previously been featured in Henry IV, Part 1 and Part 2. It has been adapted for the opera on several occasions. The play is one of Shakespeare's lesser-regarded works among literary critics.",
+        "question": "When did Shakespeare write The Merry Wives of Windsor?",
+        "label": "believed to have been written in or before 1597"
+    }
+]

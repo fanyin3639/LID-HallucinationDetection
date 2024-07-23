@@ -1,0 +1,15 @@
+[
+    [
+        1254,
+        [],
+        "1928"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Finally in 1918, Parliament passed an act granting the vote to women over the age of 30 who were householders, the wives of householders, occupiers of property with an annual rent of \u00a35, and graduates of British universities. About 8.4 million women gained the vote.[22] In November 1918, the Parliament (Qualification of Women) Act 1918 was passed, allowing women to be elected into the House of Commons.[22] By 1928 the consensus was that votes for women had been successful. With the Conservative Party in full control in 1928, it passed the Representation of the People (Equal Franchise) Act that extended the voting franchise to all women over the age of 21, granting women the vote on the same terms as men,[23][24] although one Conservative opponent of the bill warned that it risked splitting the party for years to come.[25] Question: When did women gain the right to vote in England? Answer:",
+    {
+        "id": "english--2979765921693699112-30",
+        "lang": "english",
+        "summary": "Finally in 1918, Parliament passed an act granting the vote to women over the age of 30 who were householders, the wives of householders, occupiers of property with an annual rent of \u00a35, and graduates of British universities. About 8.4 million women gained the vote.[22] In November 1918, the Parliament (Qualification of Women) Act 1918 was passed, allowing women to be elected into the House of Commons.[22] By 1928 the consensus was that votes for women had been successful. With the Conservative Party in full control in 1928, it passed the Representation of the People (Equal Franchise) Act that extended the voting franchise to all women over the age of 21, granting women the vote on the same terms as men,[23][24] although one Conservative opponent of the bill warned that it risked splitting the party for years to come.[25]",
+        "question": "When did women gain the right to vote in England?",
+        "label": "1928"
+    }
+]

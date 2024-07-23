@@ -1,0 +1,14 @@
+[
+    [
+        986,
+        [],
+        "Chesterfield have signed goalkeeper Ryan Fulton on a season-long loan deal from Premier League side Liverpool."
+    ],
+    "Write a short summary for the following passage:\nThe 20-year-old, who has yet to make a first team appearance for the Reds, played 13 times during a loan spell with Portsmouth in 2015-16.\nFulton could start the season as Spireites number one, with Tommy Lee due to undergo shoulder surgery.\nThe Scotland youth international has travelled to Hungary to join up with the club's pre-season training camp.\nFind all the latest football transfers on our dedicated page.\nSummary:\n",
+    {
+        "id": 986,
+        "document": "The 20-year-old, who has yet to make a first team appearance for the Reds, played 13 times during a loan spell with Portsmouth in 2015-16.\nFulton could start the season as Spireites number one, with Tommy Lee due to undergo shoulder surgery.\nThe Scotland youth international has travelled to Hungary to join up with the club's pre-season training camp.\nFind all the latest football transfers on our dedicated page.",
+        "summary": "Chesterfield have signed goalkeeper Ryan Fulton on a season-long loan deal from Premier League side Liverpool.",
+        "label": "Chesterfield have signed goalkeeper Ryan Fulton on a season-long loan deal from Premier League side Liverpool."
+    }
+]

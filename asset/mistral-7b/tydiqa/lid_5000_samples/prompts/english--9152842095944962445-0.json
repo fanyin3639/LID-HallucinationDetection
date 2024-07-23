@@ -1,0 +1,15 @@
+[
+    [
+        2731,
+        [],
+        "a plant that has leaves throughout the year, always green"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In botany, an evergreen is a plant that has leaves throughout the year, always green. This is true even if the plant retains its foliage only in warm climates, and contrasts with deciduous plants, which completely lose their foliage during the winter or dry season. There are many different kinds of evergreen plants, both trees and shrubs. Evergreens include: Question: What does it mean to be an evergreen tree? Answer:",
+    {
+        "id": "english--9152842095944962445-0",
+        "lang": "english",
+        "summary": "In botany, an evergreen is a plant that has leaves throughout the year, always green. This is true even if the plant retains its foliage only in warm climates, and contrasts with deciduous plants, which completely lose their foliage during the winter or dry season. There are many different kinds of evergreen plants, both trees and shrubs. Evergreens include:",
+        "question": "What does it mean to be an evergreen tree?",
+        "label": "a plant that has leaves throughout the year, always green"
+    }
+]

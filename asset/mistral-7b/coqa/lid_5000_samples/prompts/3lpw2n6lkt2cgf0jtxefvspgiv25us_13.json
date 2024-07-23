@@ -1,0 +1,19 @@
+[
+    [
+        546,
+        [],
+        "due to the vast stretches of unspoilt countryside"
+    ],
+    "Answer the following questions:\nContext: Yorkshire ( or ; abbreviated Yorks), formally known as the County of York, is a historic county of Northern England and the largest in the United Kingdom. Due to its great size in comparison to other English counties, functions have been undertaken over time by its subdivisions, which have also been subject to periodic reform. Throughout these changes, Yorkshire has continued to be recognised as a geographical territory and cultural region. The name is familiar and well understood across the United Kingdom and is in common use in the media and the military, and also features in the titles of current areas of civil administration such as North Yorkshire, South Yorkshire, West Yorkshire and East Riding of Yorkshire. \n\nWithin the borders of the historic county of Yorkshire are areas which are widely considered to be among the greenest in England, due to the vast stretches of unspoilt countryside in the Yorkshire Dales and North York Moors and to the open aspect of some of the major cities. Yorkshire has sometimes been nicknamed \"God's Own County\" or \"God's Own Country\". \n\nThe emblem of Yorkshire is the White Rose of the English royal House of York, and the most commonly used flag representative of Yorkshire is the White Rose on a blue background, which after nearly fifty years of use, was recognised by the Flag Institute on 29 July 2008. Yorkshire Day, held annually on 1 August, is a celebration of the general culture of Yorkshire, ranging from its history to its own dialect.\n'Question': why is this\n'Answer: '",
+    {
+        "id": "3lpw2n6lkt2cgf0jtxefvspgiv25us_13",
+        "summary": "Yorkshire ( or ; abbreviated Yorks), formally known as the County of York, is a historic county of Northern England and the largest in the United Kingdom. Due to its great size in comparison to other English counties, functions have been undertaken over time by its subdivisions, which have also been subject to periodic reform. Throughout these changes, Yorkshire has continued to be recognised as a geographical territory and cultural region. The name is familiar and well understood across the United Kingdom and is in common use in the media and the military, and also features in the titles of current areas of civil administration such as North Yorkshire, South Yorkshire, West Yorkshire and East Riding of Yorkshire. \n\nWithin the borders of the historic county of Yorkshire are areas which are widely considered to be among the greenest in England, due to the vast stretches of unspoilt countryside in the Yorkshire Dales and North York Moors and to the open aspect of some of the major cities. Yorkshire has sometimes been nicknamed \"God's Own County\" or \"God's Own Country\". \n\nThe emblem of Yorkshire is the White Rose of the English royal House of York, and the most commonly used flag representative of Yorkshire is the White Rose on a blue background, which after nearly fifty years of use, was recognised by the Flag Institute on 29 July 2008. Yorkshire Day, held annually on 1 August, is a celebration of the general culture of Yorkshire, ranging from its history to its own dialect.",
+        "question": "why is this",
+        "label": "due to the vast stretches of unspoilt countryside",
+        "additional_answers": [
+            "Due to the vast stretches of unspoilt countryside in the Yorkshire Dales and North York Moors and to the open aspect of some of the major cities.",
+            "vast stretches of unspoilt countryside",
+            "due to the vast stretches of unspoilt countryside"
+        ]
+    }
+]

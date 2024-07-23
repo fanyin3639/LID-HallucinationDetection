@@ -1,0 +1,15 @@
+[
+    [
+        22,
+        [],
+        "1905"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Albert Einstein published the theory of special relativity in 1905, building on many theoretical results and empirical findings obtained by Albert A. Michelson, Hendrik Lorentz, Henri Poincar\u00e9 and others. Max Planck, Hermann Minkowski and others did subsequent work. Question: When was special relativity developed? Answer:",
+    {
+        "id": "english--470102827213144267-2",
+        "lang": "english",
+        "summary": "Albert Einstein published the theory of special relativity in 1905, building on many theoretical results and empirical findings obtained by Albert A. Michelson, Hendrik Lorentz, Henri Poincar\u00e9 and others. Max Planck, Hermann Minkowski and others did subsequent work.",
+        "question": "When was special relativity developed?",
+        "label": "1905"
+    }
+]

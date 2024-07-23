@@ -1,0 +1,19 @@
+[
+    [
+        1403,
+        [],
+        "yes"
+    ],
+    "Answer the following questions:\nContext: \"Everything happens for the best,\" my mother said whenever I was disappointed. \"If you go on, one day something good will happen.\" When I graduated from college, I decided to try for a job in a radio station and then work hard to become a sports announcer . I took a taxi to Chicago and knocked on the door of every station, but I was t _ every time because I didn't have any working experience. Then, I went back home. My father said Montgomery Ward wanted a sports-man to help them. I applied , but I didn't get the job, either. I was very disappointed.\"Everything happens for the best,\" Mom reminded me. Dad let me drive his car to look for jobs. I tried WOC Radio in Davenport, Iowa. The program director, Peter MacArthur, told me they had already had an announcer. His words made me disappointed again. After leaving his office, I was waiting for the elevator when I heard MacArthur calling after me, \"What did you say about sports? Do you know anything about football?\" Then he asked me to broadcast an imaginary game. I did so and Peter told me that I would be broadcasting Saturday's game! On my way home, I thought of my mother's words again:\"If you go on, one day something good will happen.\"\n'Question': Was he disappointed yet again?\n'Answer: '",
+    {
+        "id": "3ywrv122cszv3xjlrvli7cz7kmh8ud_12",
+        "summary": "\"Everything happens for the best,\" my mother said whenever I was disappointed. \"If you go on, one day something good will happen.\" When I graduated from college, I decided to try for a job in a radio station and then work hard to become a sports announcer . I took a taxi to Chicago and knocked on the door of every station, but I was t _ every time because I didn't have any working experience. Then, I went back home. My father said Montgomery Ward wanted a sports-man to help them. I applied , but I didn't get the job, either. I was very disappointed.\"Everything happens for the best,\" Mom reminded me. Dad let me drive his car to look for jobs. I tried WOC Radio in Davenport, Iowa. The program director, Peter MacArthur, told me they had already had an announcer. His words made me disappointed again. After leaving his office, I was waiting for the elevator when I heard MacArthur calling after me, \"What did you say about sports? Do you know anything about football?\" Then he asked me to broadcast an imaginary game. I did so and Peter told me that I would be broadcasting Saturday's game! On my way home, I thought of my mother's words again:\"If you go on, one day something good will happen.\"",
+        "question": "Was he disappointed yet again?",
+        "label": "yes",
+        "additional_answers": [
+            "disappointed again",
+            "yes",
+            "Yes"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        1603,
+        [],
+        "the soup"
+    ],
+    "Answer the following questions:\nContext: We were standing at the top of a church not far from my home. I didn't know why. \"Look down,\" Father said. I tried and saw the square in the center of the village. And I saw the streets to the square. \"See, Elsa,\" Father said. \"There is more than one way to the square. If you can't get where you want to go by one road, try another.\" Earlier that day, I asked Mother to do something about what we had for lunch at school. But she didn't think the food was as bad as I said. When I turned to Father for help, he brought me to the church. At school the next day, I filled a bottle with the soup for our lunch and took it home. I told the cook to pour the soup in a plate and bring it to Mother. She drank it and cried out, \"What's the matter with the soup today?\" I at once told her what I had done , and Mother said that she would take up the matter of lunches at school the next day . Now I really understood why Father had taken me to the church. I began to work as a fashion designer two years ago. I wouldn't stop working until I tried every way to my goal.\n'Question': What did I put in the bottle?\n'Answer: '",
+    {
+        "id": "3ymtujh0dsgfkjhufn5vl4x0y5wt4j_4",
+        "summary": "We were standing at the top of a church not far from my home. I didn't know why. \"Look down,\" Father said. I tried and saw the square in the center of the village. And I saw the streets to the square. \"See, Elsa,\" Father said. \"There is more than one way to the square. If you can't get where you want to go by one road, try another.\" Earlier that day, I asked Mother to do something about what we had for lunch at school. But she didn't think the food was as bad as I said. When I turned to Father for help, he brought me to the church. At school the next day, I filled a bottle with the soup for our lunch and took it home. I told the cook to pour the soup in a plate and bring it to Mother. She drank it and cried out, \"What's the matter with the soup today?\" I at once told her what I had done , and Mother said that she would take up the matter of lunches at school the next day . Now I really understood why Father had taken me to the church. I began to work as a fashion designer two years ago. I wouldn't stop working until I tried every way to my goal.",
+        "question": "What did I put in the bottle?",
+        "label": "the soup",
+        "additional_answers": [
+            "soup",
+            "soup",
+            "soup"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2316,
+        [],
+        "12-Field theory and polynomials, 13-Commutative algebra, 15-Linear and multilinear algebra; matrix theory, 16-Associative rings and algebras, 17-Nonassociative rings and algebras, 18-Category theory; homological algebra, 19-K-theory and 20-Group theory. Algebra is also used extensively in 11-Number theory and 14-Algebraic geometry"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Today, algebra has grown until it includes many branches of mathematics, as can be seen in the Mathematics Subject Classification[6] where none of the first level areas (two digit entries) is called algebra. Today algebra includes section 08-General algebraic systems, 12-Field theory and polynomials, 13-Commutative algebra, 15-Linear and multilinear algebra; matrix theory, 16-Associative rings and algebras, 17-Nonassociative rings and algebras, 18-Category theory; homological algebra, 19-K-theory and 20-Group theory. Algebra is also used extensively in 11-Number theory and 14-Algebraic geometry. Question: What are the main types of algebra? Answer:",
+    {
+        "id": "english-982151245211001624-12",
+        "lang": "english",
+        "summary": "Today, algebra has grown until it includes many branches of mathematics, as can be seen in the Mathematics Subject Classification[6] where none of the first level areas (two digit entries) is called algebra. Today algebra includes section 08-General algebraic systems, 12-Field theory and polynomials, 13-Commutative algebra, 15-Linear and multilinear algebra; matrix theory, 16-Associative rings and algebras, 17-Nonassociative rings and algebras, 18-Category theory; homological algebra, 19-K-theory and 20-Group theory. Algebra is also used extensively in 11-Number theory and 14-Algebraic geometry.",
+        "question": "What are the main types of algebra?",
+        "label": "12-Field theory and polynomials, 13-Commutative algebra, 15-Linear and multilinear algebra; matrix theory, 16-Associative rings and algebras, 17-Nonassociative rings and algebras, 18-Category theory; homological algebra, 19-K-theory and 20-Group theory. Algebra is also used extensively in 11-Number theory and 14-Algebraic geometry"
+    }
+]

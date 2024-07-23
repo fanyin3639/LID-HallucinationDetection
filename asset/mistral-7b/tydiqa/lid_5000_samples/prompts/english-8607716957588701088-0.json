@@ -1,0 +1,15 @@
+[
+    [
+        1664,
+        [],
+        "is the time in most women's lives when menstrual periods stop permanently, and they are no longer able to bear children"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Menopause, also known as the climacteric, is the time in most women's lives when menstrual periods stop permanently, and they are no longer able to bear children.[2][8] Menopause typically occurs between 49 and 52 years of age.[3] Medical professionals often define menopause as having occurred when a woman has not had any vaginal bleeding for a year.[4] It may also be defined by a decrease in hormone production by the ovaries.[9] In those who have had surgery to remove their uterus but still have ovaries, menopause may be viewed to have occurred at the time of the surgery or when their hormone levels fell.[9] Following the removal of the uterus, symptoms typically occur earlier, at an average of 45 years of age.[10] Question: Why is Menopause important? Answer:",
+    {
+        "id": "english-8607716957588701088-0",
+        "lang": "english",
+        "summary": "Menopause, also known as the climacteric, is the time in most women's lives when menstrual periods stop permanently, and they are no longer able to bear children.[2][8] Menopause typically occurs between 49 and 52 years of age.[3] Medical professionals often define menopause as having occurred when a woman has not had any vaginal bleeding for a year.[4] It may also be defined by a decrease in hormone production by the ovaries.[9] In those who have had surgery to remove their uterus but still have ovaries, menopause may be viewed to have occurred at the time of the surgery or when their hormone levels fell.[9] Following the removal of the uterus, symptoms typically occur earlier, at an average of 45 years of age.[10]",
+        "question": "Why is Menopause important?",
+        "label": "is the time in most women's lives when menstrual periods stop permanently, and they are no longer able to bear children"
+    }
+]

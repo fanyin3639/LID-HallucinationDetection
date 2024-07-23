@@ -1,0 +1,15 @@
+[
+    [
+        605,
+        [],
+        "It was first published in the United Kingdom by the Collins Crime Club on 1 January 1934. In the United States, it was published on 28 February 1934"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Murder on the Orient Express is a detective novel by British writer Agatha Christie featuring the Belgian detective Hercule Poirot. It was first published in the United Kingdom by the Collins Crime Club on 1 January 1934. In the United States, it was published on 28 February 1934,[1][2] under the title of Murder in the Calais Coach, by Dodd, Mead and Company.[3][4] The UK edition retailed at seven shillings and sixpence (7/6)[5] and the U.S. edition at $2.00.[4] Question: When was the book Murder on the Orient Express released? Answer:",
+    {
+        "id": "english-1223266733586738813-0",
+        "lang": "english",
+        "summary": "Murder on the Orient Express is a detective novel by British writer Agatha Christie featuring the Belgian detective Hercule Poirot. It was first published in the United Kingdom by the Collins Crime Club on 1 January 1934. In the United States, it was published on 28 February 1934,[1][2] under the title of Murder in the Calais Coach, by Dodd, Mead and Company.[3][4] The UK edition retailed at seven shillings and sixpence (7/6)[5] and the U.S. edition at $2.00.[4]",
+        "question": "When was the book Murder on the Orient Express released?",
+        "label": "It was first published in the United Kingdom by the Collins Crime Club on 1 January 1934. In the United States, it was published on 28 February 1934"
+    }
+]

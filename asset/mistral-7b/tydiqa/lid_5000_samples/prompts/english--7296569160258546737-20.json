@@ -1,0 +1,15 @@
+[
+    [
+        1718,
+        [],
+        "0.65 hectares"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Although China's agricultural output is the largest in the world, only about 15% of its total land area can be cultivated. China's arable land, which represents 10% of the total arable land in the world, supports over 20% of the world's population. Of this approximately 1.4 million square kilometers of arable land, only about 1.2% (116,580 square kilometers) permanently supports crops and 525,800 square kilometers are irrigated. The land is divided into approximately 200 million households, with an average land allocation of just 0.65 hectares (1.6 acres). Question: What is the average farm size in China? Answer:",
+    {
+        "id": "english--7296569160258546737-20",
+        "lang": "english",
+        "summary": "Although China's agricultural output is the largest in the world, only about 15% of its total land area can be cultivated. China's arable land, which represents 10% of the total arable land in the world, supports over 20% of the world's population. Of this approximately 1.4 million square kilometers of arable land, only about 1.2% (116,580 square kilometers) permanently supports crops and 525,800 square kilometers are irrigated. The land is divided into approximately 200 million households, with an average land allocation of just 0.65 hectares (1.6 acres).",
+        "question": "What is the average farm size in China?",
+        "label": "0.65 hectares"
+    }
+]

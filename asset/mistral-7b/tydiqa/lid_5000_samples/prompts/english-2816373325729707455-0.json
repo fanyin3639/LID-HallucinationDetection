@@ -1,0 +1,15 @@
+[
+    [
+        607,
+        [],
+        "basic, ionic salt of an alkali metal or alkaline earth metal chemical element"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In chemistry, an alkali (/\u02c8\u00e6lk\u0259la\u026a/; from Arabic: al-qaly \"ashes of the saltwort\") is a basic, ionic salt of an alkali metal or alkaline earth metal chemical element. An alkali also can be defined as a base that dissolves in water. A solution of a soluble base has a pH greater than 7.0. The adjective alkaline is commonly, and  alkalescent less often, used in English as a synonym for basic, especially for bases soluble in water. This broad use of the term is likely to have come about because alkalis were the first bases known to obey the Arrhenius definition of a base, and they are still among the most common bases. Question: What is an alkali? Answer:",
+    {
+        "id": "english-2816373325729707455-0",
+        "lang": "english",
+        "summary": "In chemistry, an alkali (/\u02c8\u00e6lk\u0259la\u026a/; from Arabic: al-qaly \"ashes of the saltwort\") is a basic, ionic salt of an alkali metal or alkaline earth metal chemical element. An alkali also can be defined as a base that dissolves in water. A solution of a soluble base has a pH greater than 7.0. The adjective alkaline is commonly, and  alkalescent less often, used in English as a synonym for basic, especially for bases soluble in water. This broad use of the term is likely to have come about because alkalis were the first bases known to obey the Arrhenius definition of a base, and they are still among the most common bases.",
+        "question": "What is an alkali?",
+        "label": "basic, ionic salt of an alkali metal or alkaline earth metal chemical element"
+    }
+]

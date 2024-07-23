@@ -1,0 +1,15 @@
+[
+    [
+        2197,
+        [],
+        "18 June 1953"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On 22\u201326 July 1952, the Free Officers, a group of disaffected officers in the Egyptian army founded by Gamal Abdel Nasser, and headed by General Muhammad Naguib, initiated the Egyptian Revolution of 1952 with the overthrowing King Farouk, whom the military blamed for Egypt's poor performance in the 1948 war with Israel and lack of progress in fighting poverty, disease, and illiteracy in Egypt.[1] In the following two years, the Free Officers consolidated power, and, following a brief experiment with civilian rule, abrogated the 1953 constitution, and declared Egypt a republic on 18 June 1953, Muhammad Naguib as Egypt's first President. Question: When was the Arab Republic of Egypt founded? Answer:",
+    {
+        "id": "english-327141162705040965-3",
+        "lang": "english",
+        "summary": "On 22\u201326 July 1952, the Free Officers, a group of disaffected officers in the Egyptian army founded by Gamal Abdel Nasser, and headed by General Muhammad Naguib, initiated the Egyptian Revolution of 1952 with the overthrowing King Farouk, whom the military blamed for Egypt's poor performance in the 1948 war with Israel and lack of progress in fighting poverty, disease, and illiteracy in Egypt.[1] In the following two years, the Free Officers consolidated power, and, following a brief experiment with civilian rule, abrogated the 1953 constitution, and declared Egypt a republic on 18 June 1953, Muhammad Naguib as Egypt's first President.",
+        "question": "When was the Arab Republic of Egypt founded?",
+        "label": "18 June 1953"
+    }
+]

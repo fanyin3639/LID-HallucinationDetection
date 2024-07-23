@@ -1,0 +1,14 @@
+[
+    [
+        1364,
+        [],
+        "Plans for a new 200-bed boutique hotel in Belfast have been granted planning permission by the city's council."
+    ],
+    "Write a short summary for the following passage:\nHasting Hotels bought Windsor House, Ireland's tallest office block, in the city centre in May for \u00a36m.\nThe company announced its intention to convert the building into a hotel, named the Belfast Grand Central Hotel, that would eventually create 150 jobs.\nBelfast City Council's planning committee met on Tuesday night and its members approved the \u00a330m project.\nMeanwhile, US insurance company Allstate's plans for a new office development near the former Maysfield Leisure Centre in Belfast were also given the go-ahead.\nConcentrix, an American software company, had objected to the plans as it hopes to redevelop a neighbouring site.\nAllstate's development is expected to create 200 jobs, as well as provide more than \u00a3100,000 worth of community benefits, according to council documents.\nPlans from Queen's University for new student accommodation at Lennoxvale in south Belfast were withdrawn on Tuesday morning ahead of the meeting.\nSummary:\n",
+    {
+        "id": 1364,
+        "document": "Hasting Hotels bought Windsor House, Ireland's tallest office block, in the city centre in May for \u00a36m.\nThe company announced its intention to convert the building into a hotel, named the Belfast Grand Central Hotel, that would eventually create 150 jobs.\nBelfast City Council's planning committee met on Tuesday night and its members approved the \u00a330m project.\nMeanwhile, US insurance company Allstate's plans for a new office development near the former Maysfield Leisure Centre in Belfast were also given the go-ahead.\nConcentrix, an American software company, had objected to the plans as it hopes to redevelop a neighbouring site.\nAllstate's development is expected to create 200 jobs, as well as provide more than \u00a3100,000 worth of community benefits, according to council documents.\nPlans from Queen's University for new student accommodation at Lennoxvale in south Belfast were withdrawn on Tuesday morning ahead of the meeting.",
+        "summary": "Plans for a new 200-bed boutique hotel in Belfast have been granted planning permission by the city's council.",
+        "label": "Plans for a new 200-bed boutique hotel in Belfast have been granted planning permission by the city's council."
+    }
+]

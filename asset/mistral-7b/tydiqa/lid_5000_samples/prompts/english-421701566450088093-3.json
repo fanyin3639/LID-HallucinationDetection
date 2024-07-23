@@ -1,0 +1,15 @@
+[
+    [
+        2860,
+        [],
+        "A two-thirds supermajority vote"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Since the Apostolic Age, the Bishop of Rome, like other bishops, was chosen by the consensus of the clergy and laity of the diocese.[4] The body of electors was more precisely defined when, in 1059, the College of Cardinals was designated the sole body of electors.[5] Since then, other details of the process have developed. In 1970, Pope Paul VI limited the electors to cardinals under 80 years of age in Ingravescentem aetatem. The current procedures were established by Pope John Paul II in his apostolic constitution Universi Dominici gregis[3] as amended by Pope Benedict XVI in 2007 and 2013.[6] A two-thirds supermajority vote is required to elect the new pope.[7][8] Question: How many votes does it take to elect a pope? Answer:",
+    {
+        "id": "english-421701566450088093-3",
+        "lang": "english",
+        "summary": "Since the Apostolic Age, the Bishop of Rome, like other bishops, was chosen by the consensus of the clergy and laity of the diocese.[4] The body of electors was more precisely defined when, in 1059, the College of Cardinals was designated the sole body of electors.[5] Since then, other details of the process have developed. In 1970, Pope Paul VI limited the electors to cardinals under 80 years of age in Ingravescentem aetatem. The current procedures were established by Pope John Paul II in his apostolic constitution Universi Dominici gregis[3] as amended by Pope Benedict XVI in 2007 and 2013.[6] A two-thirds supermajority vote is required to elect the new pope.[7][8]",
+        "question": "How many votes does it take to elect a pope?",
+        "label": "A two-thirds supermajority vote"
+    }
+]

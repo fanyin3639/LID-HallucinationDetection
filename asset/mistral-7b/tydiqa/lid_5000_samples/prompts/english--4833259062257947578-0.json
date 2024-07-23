@@ -1,0 +1,15 @@
+[
+    [
+        55,
+        [],
+        "hot"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The desert climate (in the K\u00f6ppen climate classification BWh and BWk), is a climate in which there is an excess of evaporation over precipitation. The typically bald, rocky, or sandy surfaces in desert climates hold little moisture and evaporate the little rainfall they receive. Covering 14.2% of earth's land area, hot deserts may be the most common type of climate on earth.[1] Question: What is the most common type of desert? Answer:",
+    {
+        "id": "english--4833259062257947578-0",
+        "lang": "english",
+        "summary": "The desert climate (in the K\u00f6ppen climate classification BWh and BWk), is a climate in which there is an excess of evaporation over precipitation. The typically bald, rocky, or sandy surfaces in desert climates hold little moisture and evaporate the little rainfall they receive. Covering 14.2% of earth's land area, hot deserts may be the most common type of climate on earth.[1]",
+        "question": "What is the most common type of desert?",
+        "label": "hot"
+    }
+]

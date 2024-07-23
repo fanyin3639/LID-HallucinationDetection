@@ -1,0 +1,15 @@
+[
+    [
+        670,
+        [],
+        "The Equal Pay Act"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Equal Pay Act amended the Fair Labor Standards Act in 1963. It is enforced by the Wage and Hour Division of the Department of Labor. [12] The Equal Pay Act prohibits employers and unions from paying different wages based on sex. It does not prohibit other discriminatory practices in hiring. It provides that where workers perform equal work in the corner requiring \"equal skill, effort, and responsibility and performed under similar working conditions,\" they should be provided equal pay.[2] The Fair Labor Standards Act applies to employers engaged in some aspect of interstate commerce, or all of an employer's workers if the enterprise is engaged as a whole in a significant amount of interstate commerce. Question: What was the first US law concerning employment discrimination? Answer:",
+    {
+        "id": "english-3743501979291872355-10",
+        "lang": "english",
+        "summary": "The Equal Pay Act amended the Fair Labor Standards Act in 1963. It is enforced by the Wage and Hour Division of the Department of Labor. [12] The Equal Pay Act prohibits employers and unions from paying different wages based on sex. It does not prohibit other discriminatory practices in hiring. It provides that where workers perform equal work in the corner requiring \"equal skill, effort, and responsibility and performed under similar working conditions,\" they should be provided equal pay.[2] The Fair Labor Standards Act applies to employers engaged in some aspect of interstate commerce, or all of an employer's workers if the enterprise is engaged as a whole in a significant amount of interstate commerce.",
+        "question": "What was the first US law concerning employment discrimination?",
+        "label": "The Equal Pay Act"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        514,
+        [],
+        "Call centre firm Ascensos has announced plans to double its workforce by creating 200 new jobs at its base in Motherwell."
+    ],
+    "Write a short summary for the following passage:\nThe jobs will be phased in over the next six months, following the launch of a recruitment drive.\nAscensos, which currently employs 200 people from the local area, was established in 2013.\nIt has since won a number of contracts with major brands such as B&Q, Wickes and Scottish Power.\nThe business was awarded a \u00c2\u00a31.8m grant from Scottish Enterprise when it was established.\nThe company said it expected to create more than 500 jobs within its first five years.\nIn a separate development, Glasgow-based call centre specialist Response announced it had changed its name to Kura, following a successful management buy-out last year.\nThe company said the rebrand reflected \"the culture that the business is working hard to build\".\nIn the year to June, the business reported sales growth of more than 30%, to \u00c2\u00a333m.\nIt said growth was driven by contact centre operations and its software business Inisoft.\nExisting clients include Scottish Power, Bank of America and esure.\nSummary:\n",
+    {
+        "id": 514,
+        "document": "The jobs will be phased in over the next six months, following the launch of a recruitment drive.\nAscensos, which currently employs 200 people from the local area, was established in 2013.\nIt has since won a number of contracts with major brands such as B&Q, Wickes and Scottish Power.\nThe business was awarded a \u00c2\u00a31.8m grant from Scottish Enterprise when it was established.\nThe company said it expected to create more than 500 jobs within its first five years.\nIn a separate development, Glasgow-based call centre specialist Response announced it had changed its name to Kura, following a successful management buy-out last year.\nThe company said the rebrand reflected \"the culture that the business is working hard to build\".\nIn the year to June, the business reported sales growth of more than 30%, to \u00c2\u00a333m.\nIt said growth was driven by contact centre operations and its software business Inisoft.\nExisting clients include Scottish Power, Bank of America and esure.",
+        "summary": "Call centre firm Ascensos has announced plans to double its workforce by creating 200 new jobs at its base in Motherwell.",
+        "label": "Call centre firm Ascensos has announced plans to double its workforce by creating 200 new jobs at its base in Motherwell."
+    }
+]

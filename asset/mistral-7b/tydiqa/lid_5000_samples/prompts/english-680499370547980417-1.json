@@ -1,0 +1,15 @@
+[
+    [
+        459,
+        [],
+        "acquired damage to the anterior regions of the brain"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: It is caused by acquired damage to the anterior regions of the brain, such as the left posterior inferior frontal gyrus or inferior frontal operculum, also described as Broca's area (Brodmann area 44 and Brodmann area 45).[6] It is one subset of a larger family of disorders known collectively as aphasia. Expressive aphasia contrasts with receptive aphasia, in which patients are able to speak in grammatical sentences that lack semantic significance, and generally also have trouble with comprehension.[3][7] Expressive aphasia differs from dysarthria, which is typified by a patient's inability to properly move the muscles of the tongue and mouth to produce speech. Expressive aphasia also differs from apraxia of speech which is a motor disorder characterized by an inability to create and sequence motor plans for speech.[8] Question: What is the number one cause of Broca's aphasia? Answer:",
+    {
+        "id": "english-680499370547980417-1",
+        "lang": "english",
+        "summary": "It is caused by acquired damage to the anterior regions of the brain, such as the left posterior inferior frontal gyrus or inferior frontal operculum, also described as Broca's area (Brodmann area 44 and Brodmann area 45).[6] It is one subset of a larger family of disorders known collectively as aphasia. Expressive aphasia contrasts with receptive aphasia, in which patients are able to speak in grammatical sentences that lack semantic significance, and generally also have trouble with comprehension.[3][7] Expressive aphasia differs from dysarthria, which is typified by a patient's inability to properly move the muscles of the tongue and mouth to produce speech. Expressive aphasia also differs from apraxia of speech which is a motor disorder characterized by an inability to create and sequence motor plans for speech.[8]",
+        "question": "What is the number one cause of Broca's aphasia?",
+        "label": "acquired damage to the anterior regions of the brain"
+    }
+]

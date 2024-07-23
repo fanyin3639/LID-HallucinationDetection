@@ -1,0 +1,15 @@
+[
+    [
+        2374,
+        [],
+        "Artam\u00e8ne ou le Grand Cyrus"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: This is a list of the longest novels over 500,000 words published through a mainstream publisher. The longest novel is Artam\u00e8ne ou le Grand Cyrus, originally published (1649\u201354) in ten parts, each part in three volumes. Artam\u00e8ne is generally attributed to Madeleine de Scud\u00e9ry.[1] Question: What is the longest novel ever written? Answer:",
+    {
+        "id": "english--2158034087246601870-0",
+        "lang": "english",
+        "summary": "This is a list of the longest novels over 500,000 words published through a mainstream publisher. The longest novel is Artam\u00e8ne ou le Grand Cyrus, originally published (1649\u201354) in ten parts, each part in three volumes. Artam\u00e8ne is generally attributed to Madeleine de Scud\u00e9ry.[1]",
+        "question": "What is the longest novel ever written?",
+        "label": "Artam\u00e8ne ou le Grand Cyrus"
+    }
+]

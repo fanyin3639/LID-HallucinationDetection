@@ -1,0 +1,15 @@
+[
+    [
+        2654,
+        [],
+        "3m-5m"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The length of the small intestine can vary greatly, from as short as 2.75m (9.0ft) to as long as 10.49m (34.4ft), also depending on the measuring technique used.[3] The typical length in a living person is 3m-5m.[4][5] The length depends both on how tall the person is and how the length is measured.[3] Taller people generally have a longer small intestine and measurements are generally longer after death and when the bowel is empty.[3] Question: How long is the human small intestine? Answer:",
+    {
+        "id": "english--8286279381249878017-1",
+        "lang": "english",
+        "summary": "The length of the small intestine can vary greatly, from as short as 2.75m (9.0ft) to as long as 10.49m (34.4ft), also depending on the measuring technique used.[3] The typical length in a living person is 3m-5m.[4][5] The length depends both on how tall the person is and how the length is measured.[3] Taller people generally have a longer small intestine and measurements are generally longer after death and when the bowel is empty.[3]",
+        "question": "How long is the human small intestine?",
+        "label": "3m-5m"
+    }
+]

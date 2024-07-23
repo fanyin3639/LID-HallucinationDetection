@@ -1,0 +1,15 @@
+[
+    [
+        1699,
+        [],
+        "247 acres"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: John Dawes, a wealthy stockbroker, acquired the site of Jack Straw\u2019s Castle together with 247 acres (1.00km2) of surrounding land. In 1781 he built Highbury House at a cost of \u00a310,000 on the spot where Highbury Manor had stood. Over the next 30 years the house was extended by new owners, firstly Alexander Aubert and then John Bentley, to include a large observatory and lavish gardens. Question: How big is the Highbury residence? Answer:",
+    {
+        "id": "english-7348717499002935773-6",
+        "lang": "english",
+        "summary": "John Dawes, a wealthy stockbroker, acquired the site of Jack Straw\u2019s Castle together with 247 acres (1.00km2) of surrounding land. In 1781 he built Highbury House at a cost of \u00a310,000 on the spot where Highbury Manor had stood. Over the next 30 years the house was extended by new owners, firstly Alexander Aubert and then John Bentley, to include a large observatory and lavish gardens.",
+        "question": "How big is the Highbury residence?",
+        "label": "247 acres"
+    }
+]

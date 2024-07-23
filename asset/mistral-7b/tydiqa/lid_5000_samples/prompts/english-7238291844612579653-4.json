@@ -1,0 +1,15 @@
+[
+    [
+        168,
+        [],
+        "exerts control by switching heating or cooling devices on or off, or by regulating the flow of a heat transfer fluid as needed, to maintain the correct temperature"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A thermostat exerts control by switching heating or cooling devices on or off, or by regulating the flow of a heat transfer fluid as needed, to maintain the correct temperature. A thermostat can often be the main control unit for a heating or cooling system, in applications ranging from ambient air control, to such as automotive coolant control. Thermostats are used in any device or system that heats or cools to a setpoint temperature, examples include building heating, central heating, air conditioners, as well as kitchen equipment including ovens and refrigerators and medical and scientific incubators. Question: How do thermostats work? Answer:",
+    {
+        "id": "english-7238291844612579653-4",
+        "lang": "english",
+        "summary": "A thermostat exerts control by switching heating or cooling devices on or off, or by regulating the flow of a heat transfer fluid as needed, to maintain the correct temperature. A thermostat can often be the main control unit for a heating or cooling system, in applications ranging from ambient air control, to such as automotive coolant control. Thermostats are used in any device or system that heats or cools to a setpoint temperature, examples include building heating, central heating, air conditioners, as well as kitchen equipment including ovens and refrigerators and medical and scientific incubators.",
+        "question": "How do thermostats work?",
+        "label": "exerts control by switching heating or cooling devices on or off, or by regulating the flow of a heat transfer fluid as needed, to maintain the correct temperature"
+    }
+]

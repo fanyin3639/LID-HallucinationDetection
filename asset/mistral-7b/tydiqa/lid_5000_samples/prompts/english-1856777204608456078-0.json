@@ -1,0 +1,15 @@
+[
+    [
+        2001,
+        [],
+        "2005"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Uglies is a 2005 science fiction novel by Scott Westerfeld. It is set in a future post scarcity dystopian world in which everyone is considered an \"ugly\", but then turned \"Pretty\" by extreme cosmetic surgery when they reach the age 16. It tells the story of teenager Tally Youngblood who rebels against society's enforced conformity, after her newfound friends Shay and David show her the downsides to becoming a \"Pretty\". Question: When did Scott Westerfeld create Uglies? Answer:",
+    {
+        "id": "english-1856777204608456078-0",
+        "lang": "english",
+        "summary": "Uglies is a 2005 science fiction novel by Scott Westerfeld. It is set in a future post scarcity dystopian world in which everyone is considered an \"ugly\", but then turned \"Pretty\" by extreme cosmetic surgery when they reach the age 16. It tells the story of teenager Tally Youngblood who rebels against society's enforced conformity, after her newfound friends Shay and David show her the downsides to becoming a \"Pretty\".",
+        "question": "When did Scott Westerfeld create Uglies?",
+        "label": "2005"
+    }
+]

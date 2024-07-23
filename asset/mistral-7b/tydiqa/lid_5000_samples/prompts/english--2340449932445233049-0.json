@@ -1,0 +1,15 @@
+[
+    [
+        1866,
+        [],
+        "mathematical methods for application to problems in physics"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mathematical physics refers to the development of mathematical methods for application to problems in physics. The Journal of Mathematical Physics defines the field as \"the application of mathematics to problems in physics and the development of mathematical methods suitable for such applications and for the formulation of physical theories\".[1] It is a branch of applied mathematics, but deals with physical problems. Question: What is Mathematical physics used for? Answer:",
+    {
+        "id": "english--2340449932445233049-0",
+        "lang": "english",
+        "summary": "Mathematical physics refers to the development of mathematical methods for application to problems in physics. The Journal of Mathematical Physics defines the field as \"the application of mathematics to problems in physics and the development of mathematical methods suitable for such applications and for the formulation of physical theories\".[1] It is a branch of applied mathematics, but deals with physical problems.",
+        "question": "What is Mathematical physics used for?",
+        "label": "mathematical methods for application to problems in physics"
+    }
+]

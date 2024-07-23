@@ -1,0 +1,14 @@
+[
+    [
+        1096,
+        [],
+        "An air ambulance service is marking its silver jubilee year with a cathedral service and a fund-raising drive."
+    ],
+    "Write a short summary for the following passage:\nCelebrations are being held throughout the year by Kent, Surrey and Sussex Air Ambulance, which launched its first helicopter in December 1989.\nA service of thanksgiving will be held on Wednesday at Canterbury Cathedral.\nFounder Kate Chivers said the support of crews, volunteers and the community had made it possible to develop \"an exceptional lifesaving service\".\nThe service now has two helicopters, based at Marden in Kent and Redhill in Surrey, and costs about \u00a36.5m a year to stay airborne.\nA \u00a315,000 car was also being raffled at Hempstead Valley Shopping Centre to raise funds.\nSummary:\n",
+    {
+        "id": 1096,
+        "document": "Celebrations are being held throughout the year by Kent, Surrey and Sussex Air Ambulance, which launched its first helicopter in December 1989.\nA service of thanksgiving will be held on Wednesday at Canterbury Cathedral.\nFounder Kate Chivers said the support of crews, volunteers and the community had made it possible to develop \"an exceptional lifesaving service\".\nThe service now has two helicopters, based at Marden in Kent and Redhill in Surrey, and costs about \u00a36.5m a year to stay airborne.\nA \u00a315,000 car was also being raffled at Hempstead Valley Shopping Centre to raise funds.",
+        "summary": "An air ambulance service is marking its silver jubilee year with a cathedral service and a fund-raising drive.",
+        "label": "An air ambulance service is marking its silver jubilee year with a cathedral service and a fund-raising drive."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        693,
+        [],
+        "Security and safety concerns have led to 6,000 Airbus employees being banned from playing augmented reality game Pokemon Go at work."
+    ],
+    "Write a short summary for the following passage:\nAn email was sent to staff at the wing-making factory in Broughton, Flintshire, after a worker played it.\nThe gaming app allows users walking around the real world to catch virtual Pokemon animals using a map on their phone.\nA spokesman said confidentiality meant camera phones were banned at the site.\nHe added: \"It's a serious point - working factories are not places where people should be distracted by playing games.\n\"They can be hazardous places if not treated with respect.\"\nLast month, it was reported fans of the game had been trying to enter the Airbus plant at Filton, Bristol, which is featured as a place where players can battle or train Pokemon.\nSummary:\n",
+    {
+        "id": 693,
+        "document": "An email was sent to staff at the wing-making factory in Broughton, Flintshire, after a worker played it.\nThe gaming app allows users walking around the real world to catch virtual Pokemon animals using a map on their phone.\nA spokesman said confidentiality meant camera phones were banned at the site.\nHe added: \"It's a serious point - working factories are not places where people should be distracted by playing games.\n\"They can be hazardous places if not treated with respect.\"\nLast month, it was reported fans of the game had been trying to enter the Airbus plant at Filton, Bristol, which is featured as a place where players can battle or train Pokemon.",
+        "summary": "Security and safety concerns have led to 6,000 Airbus employees being banned from playing augmented reality game Pokemon Go at work.",
+        "label": "Security and safety concerns have led to 6,000 Airbus employees being banned from playing augmented reality game Pokemon Go at work."
+    }
+]

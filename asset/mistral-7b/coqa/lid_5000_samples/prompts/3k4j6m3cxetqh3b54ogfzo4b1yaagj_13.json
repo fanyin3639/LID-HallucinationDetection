@@ -1,0 +1,19 @@
+[
+    [
+        1955,
+        [],
+        "pre-Roman"
+    ],
+    "Answer the following questions:\nContext: Wiltshire ( or ) is a county in South West England with an area of . It is landlocked and borders the counties of Dorset, Somerset, Hampshire, Gloucestershire, Oxfordshire and Berkshire. The county town was originally Wilton, after which the county is named, but Wiltshire Council is now based in the county town of Trowbridge. \n\nWiltshire is characterised by its high downland and wide valleys. Salisbury Plain is noted for being the location of the Stonehenge and Avebury stone circles and other ancient landmarks, and as a training area for the British Army. The city of Salisbury is notable for its mediaeval cathedral. Important country houses open to the public include Longleat, near Warminster, and the National Trust's Stourhead, near Mere. \n\nThe county, in the 9th century written as \"Wiltunscir\", later \"Wiltonshire\", is named after the former county town of Wilton. \n\nWiltshire is notable for its pre-Roman archaeology. The Mesolithic, Neolithic and Bronze Age people that occupied southern Britain built settlements on the hills and downland that cover Wiltshire. Stonehenge and Avebury are perhaps the most famous Neolithic sites in the UK. \n\nIn the 6th and 7th centuries Wiltshire was at the western edge of Saxon Britain, as Cranborne Chase and the Somerset Levels prevented the advance to the west. The Battle of Bedwyn was fought in 675 between Escuin, a West Saxon nobleman who had seized the throne of Queen Saxburga, and King Wulfhere of Mercia. In 878 the Danes invaded the county. Following the Norman Conquest, large areas of the country came into the possession of the crown and the church.\n'Question': What archaeology is it known for?\n'Answer: '",
+    {
+        "id": "3k4j6m3cxetqh3b54ogfzo4b1yaagj_13",
+        "summary": "Wiltshire ( or ) is a county in South West England with an area of . It is landlocked and borders the counties of Dorset, Somerset, Hampshire, Gloucestershire, Oxfordshire and Berkshire. The county town was originally Wilton, after which the county is named, but Wiltshire Council is now based in the county town of Trowbridge. \n\nWiltshire is characterised by its high downland and wide valleys. Salisbury Plain is noted for being the location of the Stonehenge and Avebury stone circles and other ancient landmarks, and as a training area for the British Army. The city of Salisbury is notable for its mediaeval cathedral. Important country houses open to the public include Longleat, near Warminster, and the National Trust's Stourhead, near Mere. \n\nThe county, in the 9th century written as \"Wiltunscir\", later \"Wiltonshire\", is named after the former county town of Wilton. \n\nWiltshire is notable for its pre-Roman archaeology. The Mesolithic, Neolithic and Bronze Age people that occupied southern Britain built settlements on the hills and downland that cover Wiltshire. Stonehenge and Avebury are perhaps the most famous Neolithic sites in the UK. \n\nIn the 6th and 7th centuries Wiltshire was at the western edge of Saxon Britain, as Cranborne Chase and the Somerset Levels prevented the advance to the west. The Battle of Bedwyn was fought in 675 between Escuin, a West Saxon nobleman who had seized the throne of Queen Saxburga, and King Wulfhere of Mercia. In 878 the Danes invaded the county. Following the Norman Conquest, large areas of the country came into the possession of the crown and the church.",
+        "question": "What archaeology is it known for?",
+        "label": "pre-Roman",
+        "additional_answers": [
+            "pre-Roman archaeology",
+            "pre-Roman",
+            "pre-Roman archaeology"
+        ]
+    }
+]

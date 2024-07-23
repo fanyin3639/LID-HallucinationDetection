@@ -1,0 +1,14 @@
+[
+    [
+        1040,
+        [],
+        "A rare restored Russian chimneypiece, said to be one of only two of its kind in the world, has been returned to its grand former home."
+    ],
+    "Write a short summary for the following passage:\nCliffe Castle Museum now houses the object that was displayed at London's Crystal Palace Exhibition in 1851.\nIt was acquired by millionaire textile manufacturer Henry Isaac Butterfield when he created Cliffe Castle in Keighley in the late 19th Century.\nThe piece was made in St Petersburg from malachite a green, copper mineral.\nThe ornate fire surround was bought at auction by Mr Butterfield in 1880. In the 1950s it was removed to another house and Cliffe Castle was turned into a museum. When the chimneypiece's latest owner died, it was bequeathed back to the museum.\nOne similar piece survives at the Kremlin Palace in Moscow, according to Cliffe Castle.\nSummary:\n",
+    {
+        "id": 1040,
+        "document": "Cliffe Castle Museum now houses the object that was displayed at London's Crystal Palace Exhibition in 1851.\nIt was acquired by millionaire textile manufacturer Henry Isaac Butterfield when he created Cliffe Castle in Keighley in the late 19th Century.\nThe piece was made in St Petersburg from malachite a green, copper mineral.\nThe ornate fire surround was bought at auction by Mr Butterfield in 1880. In the 1950s it was removed to another house and Cliffe Castle was turned into a museum. When the chimneypiece's latest owner died, it was bequeathed back to the museum.\nOne similar piece survives at the Kremlin Palace in Moscow, according to Cliffe Castle.",
+        "summary": "A rare restored Russian chimneypiece, said to be one of only two of its kind in the world, has been returned to its grand former home.",
+        "label": "A rare restored Russian chimneypiece, said to be one of only two of its kind in the world, has been returned to its grand former home."
+    }
+]

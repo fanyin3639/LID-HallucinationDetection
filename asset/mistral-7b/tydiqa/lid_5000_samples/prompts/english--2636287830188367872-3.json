@@ -1,0 +1,15 @@
+[
+    [
+        77,
+        [],
+        "1892"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1892, the school then known as the Maryland Agricultural College fielded its first officially-sanctioned college football team. They went scoreless in all three of that season's games, but the following year, posted a perfect record of 6\u20130. For the first two decades of the program, the team primarily competed against local universities and high schools due to the prohibitive nature of long-distance travel at the time.[4] Question: When was the University of Maryland football team established? Answer:",
+    {
+        "id": "english--2636287830188367872-3",
+        "lang": "english",
+        "summary": "In 1892, the school then known as the Maryland Agricultural College fielded its first officially-sanctioned college football team. They went scoreless in all three of that season's games, but the following year, posted a perfect record of 6\u20130. For the first two decades of the program, the team primarily competed against local universities and high schools due to the prohibitive nature of long-distance travel at the time.[4]",
+        "question": "When was the University of Maryland football team established?",
+        "label": "1892"
+    }
+]

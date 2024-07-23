@@ -1,0 +1,15 @@
+[
+    [
+        1843,
+        [],
+        "in West Africa"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Burkina Faso (UK: /b\u025c\u02d0r\u02ccki\u02d0n\u0259\u02c8f\u00e6so\u028a/, US: /-\u02c8f\u0251\u02d0so\u028a/(listen);[7] French:[bu\u0281kina faso]) is a landlocked country in West Africa. It covers an area of around 274,200 square kilometres (105,900sqmi) and is surrounded by six countries: Mali to the north; Niger to the east; Benin to the southeast; Togo and Ghana to the south; and Ivory Coast to the southwest. The July 2018 population estimate by the United Nations was 19,751,651.[8] Burkina Faso is a francophone country, with French as the official language of government and business. Roughly 40% of the population speaks the Mossi language.[9] Formerly called the Republic of Upper Volta (1958\u20131984), the country was renamed \"Burkina Faso\" on 4August 1984 by then-President Thomas Sankara. Its citizens are known as Burkinab\u00e9 (/b\u025c\u02d0r\u02c8ki\u02d0n\u0259be\u026a/ bur-KEE-n\u0259-bay). Its capital is Ouagadougou. Question: Where is Burkina Faso? Answer:",
+    {
+        "id": "english-6800199147834164568-0",
+        "lang": "english",
+        "summary": "Burkina Faso (UK: /b\u025c\u02d0r\u02ccki\u02d0n\u0259\u02c8f\u00e6so\u028a/, US: /-\u02c8f\u0251\u02d0so\u028a/(listen);[7] French:[bu\u0281kina faso]) is a landlocked country in West Africa. It covers an area of around 274,200 square kilometres (105,900sqmi) and is surrounded by six countries: Mali to the north; Niger to the east; Benin to the southeast; Togo and Ghana to the south; and Ivory Coast to the southwest. The July 2018 population estimate by the United Nations was 19,751,651.[8] Burkina Faso is a francophone country, with French as the official language of government and business. Roughly 40% of the population speaks the Mossi language.[9] Formerly called the Republic of Upper Volta (1958\u20131984), the country was renamed \"Burkina Faso\" on 4August 1984 by then-President Thomas Sankara. Its citizens are known as Burkinab\u00e9 (/b\u025c\u02d0r\u02c8ki\u02d0n\u0259be\u026a/ bur-KEE-n\u0259-bay). Its capital is Ouagadougou.",
+        "question": "Where is Burkina Faso?",
+        "label": "in West Africa"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2094,
+        [],
+        "large villages centered on ceremonial platform mounds"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Taensa and the closely related Natchez are descendants of the late prehistoric Plaquemine culture (1200-1700 CE). The Plaquemine culture was a Mississippian culture variant centered on the Lower Mississippi River valley. They had complex political and religious institutions and lived in large villages centered on ceremonial platform mounds. They were primarily agriculturists who grew maize, pumpkins, squash, beans and tobacco.[7][5][8] They had a deep history in the area stretching back through the earlier Coles Creek (700-1200 CE) and Troyville cultures (400-700 CE)[9] to the Marksville culture (100 BCE to 400 CE), which was contemporaneous with the Hopewell cultures of present-day Ohio and Illinois.[10] Question: What kind of housing did the Taensa live in? Answer:",
+    {
+        "id": "english-8694149746038813641-2",
+        "lang": "english",
+        "summary": "The Taensa and the closely related Natchez are descendants of the late prehistoric Plaquemine culture (1200-1700 CE). The Plaquemine culture was a Mississippian culture variant centered on the Lower Mississippi River valley. They had complex political and religious institutions and lived in large villages centered on ceremonial platform mounds. They were primarily agriculturists who grew maize, pumpkins, squash, beans and tobacco.[7][5][8] They had a deep history in the area stretching back through the earlier Coles Creek (700-1200 CE) and Troyville cultures (400-700 CE)[9] to the Marksville culture (100 BCE to 400 CE), which was contemporaneous with the Hopewell cultures of present-day Ohio and Illinois.[10]",
+        "question": "What kind of housing did the Taensa live in?",
+        "label": "large villages centered on ceremonial platform mounds"
+    }
+]

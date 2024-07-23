@@ -1,0 +1,15 @@
+[
+    [
+        2950,
+        [],
+        "Buenos Aires"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage:  Largest cities in Argentina Buenos Aires  C\u00f3rdoba  Rosario  Mendoza  Tucum\u00e1n  La Plata  Mar del Plata  Salta  Resistencia  Santiago del Estero  Question: What is the largest city in Argentina? Answer:",
+    {
+        "id": "english--1646160888153122437-3",
+        "lang": "english",
+        "summary": " Largest cities in Argentina Buenos Aires  C\u00f3rdoba  Rosario  Mendoza  Tucum\u00e1n  La Plata  Mar del Plata  Salta  Resistencia  Santiago del Estero ",
+        "question": "What is the largest city in Argentina?",
+        "label": "Buenos Aires"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1987,
+        [],
+        "someone who researches and studies jurisprudence (theory of law)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A jurist (from medieval Latin) is someone who researches and studies jurisprudence (theory of law).[1] Such a person can work as an academic, legal writer or law lecturer.  In the United Kingdom, Australia, New Zealand, South Africa, and in many other Commonwealth countries, the word jurist sometimes refers to a barrister, whereas in the United States of America and Canada it often refers to a judge.[2] Question: What is a jurist? Answer:",
+    {
+        "id": "english--3664414476647521970-0",
+        "lang": "english",
+        "summary": "A jurist (from medieval Latin) is someone who researches and studies jurisprudence (theory of law).[1] Such a person can work as an academic, legal writer or law lecturer.  In the United Kingdom, Australia, New Zealand, South Africa, and in many other Commonwealth countries, the word jurist sometimes refers to a barrister, whereas in the United States of America and Canada it often refers to a judge.[2]",
+        "question": "What is a jurist?",
+        "label": "someone who researches and studies jurisprudence (theory of law)"
+    }
+]

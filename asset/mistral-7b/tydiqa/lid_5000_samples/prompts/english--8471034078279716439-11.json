@@ -1,0 +1,15 @@
+[
+    [
+        2966,
+        [],
+        "June 15, 1953"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In March 1953, the Board of Transportation was abolished, and was replaced by the New York City Transit Authority (NYCTA). The NYCTA formally succeeded the BOT on June 15, 1953, being composed of five unsalaried members. Hugh Casey was elected as the agency's chairman at the authority's first meeting.[8][11][12][13] The new Transit Authority was modeled after the existing Port of New York Authority which now calls itself the Port Authority of New York and New Jersey and Triborough Bridge and Tunnel Authority, the latter of which is also now part of the MTA.[8][11][14] At this time, the city government leased the IRT, BMT, and IND subway lines and the surface system (buses and, until 1956 street cars). A major goal of the formation of the NYCTA was to remove transit policy, and especially the setting of the transit fare, from City politics. The fare was increased to fifteen cents on July 25, 1953, and a token was introduced for paying subway and elevated fares. Bus and trolley fares continued to be paid by cash only.[8] Question: When was the New York City Transit Authority established? Answer:",
+    {
+        "id": "english--8471034078279716439-11",
+        "lang": "english",
+        "summary": "In March 1953, the Board of Transportation was abolished, and was replaced by the New York City Transit Authority (NYCTA). The NYCTA formally succeeded the BOT on June 15, 1953, being composed of five unsalaried members. Hugh Casey was elected as the agency's chairman at the authority's first meeting.[8][11][12][13] The new Transit Authority was modeled after the existing Port of New York Authority which now calls itself the Port Authority of New York and New Jersey and Triborough Bridge and Tunnel Authority, the latter of which is also now part of the MTA.[8][11][14] At this time, the city government leased the IRT, BMT, and IND subway lines and the surface system (buses and, until 1956 street cars). A major goal of the formation of the NYCTA was to remove transit policy, and especially the setting of the transit fare, from City politics. The fare was increased to fifteen cents on July 25, 1953, and a token was introduced for paying subway and elevated fares. Bus and trolley fares continued to be paid by cash only.[8]",
+        "question": "When was the New York City Transit Authority established?",
+        "label": "June 15, 1953"
+    }
+]

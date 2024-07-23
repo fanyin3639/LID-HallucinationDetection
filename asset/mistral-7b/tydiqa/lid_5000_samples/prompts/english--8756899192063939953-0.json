@@ -1,0 +1,15 @@
+[
+    [
+        3195,
+        [],
+        "every four years"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The UEFA European Championship (known informally as the Euros) is the primary association football competition contested by the senior men's national teams of the members of the Union of European Football Associations (UEFA), determining the continental champion of Europe. Held every four years since 1960, in the even-numbered year between World Cup tournaments, it was originally called the UEFA European Nations' Cup, changing to the current name in 1968. Starting with the 1996 tournament, specific championships are often referred to in the form \"UEFA Euro [year]\"; this format has since been retroactively applied to earlier tournaments. Question: How often does the UEFA Champions League occur? Answer:",
+    {
+        "id": "english--8756899192063939953-0",
+        "lang": "english",
+        "summary": "The UEFA European Championship (known informally as the Euros) is the primary association football competition contested by the senior men's national teams of the members of the Union of European Football Associations (UEFA), determining the continental champion of Europe. Held every four years since 1960, in the even-numbered year between World Cup tournaments, it was originally called the UEFA European Nations' Cup, changing to the current name in 1968. Starting with the 1996 tournament, specific championships are often referred to in the form \"UEFA Euro [year]\"; this format has since been retroactively applied to earlier tournaments.",
+        "question": "How often does the UEFA Champions League occur?",
+        "label": "every four years"
+    }
+]

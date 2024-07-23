@@ -1,0 +1,15 @@
+[
+    [
+        3158,
+        [],
+        "400,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Dopaminergic neurons (dopamine-producing nerve cells) are comparatively few in number\u2014a total of around 400,000 in the human brain[33]\u2014and their cell bodies are confined in groups to a few relatively small brain areas.[34]  However their axons project to many other brain areas, and they exert powerful effects on their targets.[34]  These dopaminergic cell groups were first mapped in 1964 by Annica Dahlstr\u00f6m and Kjell Fuxe, who assigned them labels starting with the letter \"A\" (for \"aminergic\").[35]  In their scheme, areas A1 through A7 contain the neurotransmitter norepinephrine, whereas A8 through A14 contain dopamine. The dopaminergic areas they identified are the substantia nigra (groups 8 and 9); the ventral tegmental area (group 10); the posterior hypothalamus (group 11); the arcuate nucleus (group 12); the zona incerta (group 13) and the periventricular nucleus (group 14).[35] Question: How much dopamine is in the human brain? Answer:",
+    {
+        "id": "english--9006040310097840163-21",
+        "lang": "english",
+        "summary": "Dopaminergic neurons (dopamine-producing nerve cells) are comparatively few in number\u2014a total of around 400,000 in the human brain[33]\u2014and their cell bodies are confined in groups to a few relatively small brain areas.[34]  However their axons project to many other brain areas, and they exert powerful effects on their targets.[34]  These dopaminergic cell groups were first mapped in 1964 by Annica Dahlstr\u00f6m and Kjell Fuxe, who assigned them labels starting with the letter \"A\" (for \"aminergic\").[35]  In their scheme, areas A1 through A7 contain the neurotransmitter norepinephrine, whereas A8 through A14 contain dopamine. The dopaminergic areas they identified are the substantia nigra (groups 8 and 9); the ventral tegmental area (group 10); the posterior hypothalamus (group 11); the arcuate nucleus (group 12); the zona incerta (group 13) and the periventricular nucleus (group 14).[35]",
+        "question": "How much dopamine is in the human brain?",
+        "label": "400,000"
+    }
+]

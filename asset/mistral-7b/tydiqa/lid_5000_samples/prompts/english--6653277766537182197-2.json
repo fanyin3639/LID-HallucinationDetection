@@ -1,0 +1,15 @@
+[
+    [
+        1319,
+        [],
+        "6,000 years ago"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The  Karaba\u015f (Blackhead) is descended from ancient livestock guardian dog types that migrated with the transhumance, guarding flocks of sheep from wolves and cheetahs.[8] It is probable that dogs of this type existed 6,000 years ago in what is now Turkey.[9] Anatolian Shepherd Dogs are members of a very old breed, probably descended from powerful hunting dogs from Mesopotamia.[10] This mountain dog breed was developed over time to meet a specific set of circumstances. The most formative were climate (very hot, dry summers and very cold winters), lifestyle (sedentary, semi-nomadic and nomadic) and duties (guarding flocks moving great distances on the Central Anatolian Plateau). Question: When were Anatolian shepherds first bred? Answer:",
+    {
+        "id": "english--6653277766537182197-2",
+        "lang": "english",
+        "summary": "The  Karaba\u015f (Blackhead) is descended from ancient livestock guardian dog types that migrated with the transhumance, guarding flocks of sheep from wolves and cheetahs.[8] It is probable that dogs of this type existed 6,000 years ago in what is now Turkey.[9] Anatolian Shepherd Dogs are members of a very old breed, probably descended from powerful hunting dogs from Mesopotamia.[10] This mountain dog breed was developed over time to meet a specific set of circumstances. The most formative were climate (very hot, dry summers and very cold winters), lifestyle (sedentary, semi-nomadic and nomadic) and duties (guarding flocks moving great distances on the Central Anatolian Plateau).",
+        "question": "When were Anatolian shepherds first bred?",
+        "label": "6,000 years ago"
+    }
+]

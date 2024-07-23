@@ -1,0 +1,15 @@
+[
+    [
+        353,
+        [],
+        "Winters are relatively dry and very cold with average temperatures at about freezing point"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Vienna has a oceanic climate bordering a humid subtropical climate (hovering just below 22\u00b0C in July and August), and features, according to the K\u00f6ppen classification, a Cfb (oceanic) -climate. The city has relatively warm summers, however with periodical precipitations that can reach its most in June and July and average high temperatures of 21 to 27\u00b0C (70 to 81\u00b0F), with a record maximum exceeding 38\u00b0C (100\u00b0F) and a record low of around 7\u00b0C (45\u00b0F). Winters are relatively dry and very cold with average temperatures at about freezing point. Spring is variable and autumn usually cold, with possible snowfalls already in November. Precipitation is generally moderate throughout the year, averaging 550mm (21.7in) annually, with considerable local variations, the Vienna Woods region in the west being the wettest part (700 to 800mm (28 to 31in) annually) and the flat plains in the east being the driest part (500 to 550mm (20 to 22in) annually). Snow in the winter is common, even if rare compared to Western and Southern regions in Austria. Question: How cold does it get in Vienna? Answer:",
+    {
+        "id": "english--3833076983309585070-34",
+        "lang": "english",
+        "summary": "Vienna has a oceanic climate bordering a humid subtropical climate (hovering just below 22\u00b0C in July and August), and features, according to the K\u00f6ppen classification, a Cfb (oceanic) -climate. The city has relatively warm summers, however with periodical precipitations that can reach its most in June and July and average high temperatures of 21 to 27\u00b0C (70 to 81\u00b0F), with a record maximum exceeding 38\u00b0C (100\u00b0F) and a record low of around 7\u00b0C (45\u00b0F). Winters are relatively dry and very cold with average temperatures at about freezing point. Spring is variable and autumn usually cold, with possible snowfalls already in November. Precipitation is generally moderate throughout the year, averaging 550mm (21.7in) annually, with considerable local variations, the Vienna Woods region in the west being the wettest part (700 to 800mm (28 to 31in) annually) and the flat plains in the east being the driest part (500 to 550mm (20 to 22in) annually). Snow in the winter is common, even if rare compared to Western and Southern regions in Austria.",
+        "question": "How cold does it get in Vienna?",
+        "label": "Winters are relatively dry and very cold with average temperatures at about freezing point"
+    }
+]

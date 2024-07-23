@@ -1,0 +1,15 @@
+[
+    [
+        331,
+        [],
+        "5.8"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On August 23, 2011, a magnitude 5.8 earthquake hit the Piedmont region of the Commonwealth of Virginia, United States, at 1:51:04p.m. local time. The epicenter, in Louisa County, was 38mi (61km) northwest of Richmond and 5mi (8km) south-southwest of the town of Mineral. It was an intraplate earthquake with a maximum perceived intensity of VII (Very strong) on the Mercalli intensity scale. Several aftershocks, ranging up to 4.5 Mw in magnitude, occurred after the main tremor. Question: What was the magnitude of the last earthquake to hit the East Coast? Answer:",
+    {
+        "id": "english-5559424265618547881-0",
+        "lang": "english",
+        "summary": "On August 23, 2011, a magnitude 5.8 earthquake hit the Piedmont region of the Commonwealth of Virginia, United States, at 1:51:04p.m. local time. The epicenter, in Louisa County, was 38mi (61km) northwest of Richmond and 5mi (8km) south-southwest of the town of Mineral. It was an intraplate earthquake with a maximum perceived intensity of VII (Very strong) on the Mercalli intensity scale. Several aftershocks, ranging up to 4.5 Mw in magnitude, occurred after the main tremor.",
+        "question": "What was the magnitude of the last earthquake to hit the East Coast?",
+        "label": "5.8"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        516,
+        [],
+        "He was a professor"
+    ],
+    "Answer the following questions:\nContext: (CNN) -- Kenyan actress Lupita Nyong'o has become a new critics' darling after her breakout role in last year's hit movie \"12 Years A Slave.\" \n\nSince then, the award ceremonies and opportunities to dazzle photographers have been plentiful for Nyong'o, whose mesmerizing performance as Patsey earned her numerous accolades and recognition, including an Oscar nomination for Best Actress in a Supporting Role. \n\nThough all this attention is new to Nyong'o, who was born in Mexico to Kenyan parents, the young actress seems to enjoy all the hype around her. But there is much more to her story than how she captivates the cameras on the red carpet. \n\nCNN's Stephanie Elam caught up with Nyong'o to speak about her journey from Kenya to Hollywood. An edited version of the interview follows. \n\nCNN: How did you end up being born in Mexico? \n\nLupita Nyong'o: My father is a politician. At the time he was also a professor of political science and he was organizing for democracy in Kenya. We were under an autocratic regime and after a series of unfortunate events, including the disappearance of his brother, he went into political exile in Mexico. I was born in his last year there. \n\nRead more: 10 things to know about Lupita Nyong'o \n\nCNN: So you were born in Mexico but grew up in Kenya. \n\nLN: Yes, all my conscious memories are in Kenya until when I was 16 my parents sent me back to Mexico to learn Spanish. I grew up in Nairobi, which is the capital of Kenya, so it's hustle and bustle and there's always something going on. I come from a very big family and we're very close knit so I had lots of time with me family. \n'Question': What else did he do?\n'Answer: '",
+    {
+        "id": "3bv8hq2zzw1okamzsb7tnxrm7kfa6p_4",
+        "summary": "(CNN) -- Kenyan actress Lupita Nyong'o has become a new critics' darling after her breakout role in last year's hit movie \"12 Years A Slave.\" \n\nSince then, the award ceremonies and opportunities to dazzle photographers have been plentiful for Nyong'o, whose mesmerizing performance as Patsey earned her numerous accolades and recognition, including an Oscar nomination for Best Actress in a Supporting Role. \n\nThough all this attention is new to Nyong'o, who was born in Mexico to Kenyan parents, the young actress seems to enjoy all the hype around her. But there is much more to her story than how she captivates the cameras on the red carpet. \n\nCNN's Stephanie Elam caught up with Nyong'o to speak about her journey from Kenya to Hollywood. An edited version of the interview follows. \n\nCNN: How did you end up being born in Mexico? \n\nLupita Nyong'o: My father is a politician. At the time he was also a professor of political science and he was organizing for democracy in Kenya. We were under an autocratic regime and after a series of unfortunate events, including the disappearance of his brother, he went into political exile in Mexico. I was born in his last year there. \n\nRead more: 10 things to know about Lupita Nyong'o \n\nCNN: So you were born in Mexico but grew up in Kenya. \n\nLN: Yes, all my conscious memories are in Kenya until when I was 16 my parents sent me back to Mexico to learn Spanish. I grew up in Nairobi, which is the capital of Kenya, so it's hustle and bustle and there's always something going on. I come from a very big family and we're very close knit so I had lots of time with me family. ",
+        "question": "What else did he do?",
+        "label": "He was a professor",
+        "additional_answers": [
+            "was a professor of political science",
+            "a professor of political science",
+            "he was also a professor of political science"
+        ]
+    }
+]

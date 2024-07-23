@@ -1,0 +1,15 @@
+[
+    [
+        2542,
+        [],
+        "1795"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Simcoe was founded in 1795 by Lieutenant Governor John Graves Simcoe.[3] Initially, the settlement consisted of two distinct areas, Birdtown, named by William Bird who arrived in the early 1800s and the Queensway which grew up around Aron Culver's sawmill and grist mill in the 1820s. The post office opened in 1829 and was called Simcoe. In 1837, the village became the seat of government of the then Talbot District.[4] Question: When was the town of Simcoe, Ontario founded? Answer:",
+    {
+        "id": "english--402150971362170521-1",
+        "lang": "english",
+        "summary": "Simcoe was founded in 1795 by Lieutenant Governor John Graves Simcoe.[3] Initially, the settlement consisted of two distinct areas, Birdtown, named by William Bird who arrived in the early 1800s and the Queensway which grew up around Aron Culver's sawmill and grist mill in the 1820s. The post office opened in 1829 and was called Simcoe. In 1837, the village became the seat of government of the then Talbot District.[4]",
+        "question": "When was the town of Simcoe, Ontario founded?",
+        "label": "1795"
+    }
+]

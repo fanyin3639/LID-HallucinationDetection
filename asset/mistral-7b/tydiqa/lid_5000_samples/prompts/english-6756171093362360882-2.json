@@ -1,0 +1,15 @@
+[
+    [
+        2273,
+        [],
+        "23 October until 10 November 1956"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Hungarian Revolution of 1956, or Hungarian Uprising of 1956[5] (Hungarian: 1956-os forradalom or 1956-os felkel\u00e9s), was a nationwide revolution against the Hungarian People's Republic and its Soviet-imposed policies, lasting from 23 October until 10 November 1956. Though leaderless when it first began, it was the first major threat to Soviet control since the USSR's forces drove Nazi Germany from its territory at the end of World War II. Question: When was the Hungarian Revolution? Answer:",
+    {
+        "id": "english-6756171093362360882-2",
+        "lang": "english",
+        "summary": "The Hungarian Revolution of 1956, or Hungarian Uprising of 1956[5] (Hungarian: 1956-os forradalom or 1956-os felkel\u00e9s), was a nationwide revolution against the Hungarian People's Republic and its Soviet-imposed policies, lasting from 23 October until 10 November 1956. Though leaderless when it first began, it was the first major threat to Soviet control since the USSR's forces drove Nazi Germany from its territory at the end of World War II.",
+        "question": "When was the Hungarian Revolution?",
+        "label": "23 October until 10 November 1956"
+    }
+]

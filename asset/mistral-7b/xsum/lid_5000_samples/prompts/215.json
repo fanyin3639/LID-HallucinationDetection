@@ -1,0 +1,14 @@
+[
+    [
+        215,
+        [],
+        "Leonid Slutsky has stepped down as head coach of Russia after the 2018 World Cup hosts were knocked out at the group stage of Euro 2016."
+    ],
+    "Write a short summary for the following passage:\nSlutsky, who also manages CSKA Moscow, succeeded Fabio Capello in charge of the national team in August 2015.\nRussia finished bottom of Group B at the European Championship with only one point from three games.\nIn a statement, the Russian Football Union said: \"We wish him all the success in his coaching career.\"\nSummary:\n",
+    {
+        "id": 215,
+        "document": "Slutsky, who also manages CSKA Moscow, succeeded Fabio Capello in charge of the national team in August 2015.\nRussia finished bottom of Group B at the European Championship with only one point from three games.\nIn a statement, the Russian Football Union said: \"We wish him all the success in his coaching career.\"",
+        "summary": "Leonid Slutsky has stepped down as head coach of Russia after the 2018 World Cup hosts were knocked out at the group stage of Euro 2016.",
+        "label": "Leonid Slutsky has stepped down as head coach of Russia after the 2018 World Cup hosts were knocked out at the group stage of Euro 2016."
+    }
+]

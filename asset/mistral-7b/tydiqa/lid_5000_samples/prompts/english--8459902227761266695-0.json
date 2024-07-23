@@ -1,0 +1,15 @@
+[
+    [
+        1420,
+        [],
+        "Selenarctos thibetanus"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Asian black bear (Ursus thibetanus, previously known as Selenarctos thibetanus), also known as the moon bear  and the white-chested bear, is a medium-sized bear species native to Asia and largely adapted to arboreal life.[2][3] It lives in the Himalayas, in the northern parts of the Indian subcontinent, Korea, northeastern China, the Russian Far East, the Honsh\u016b and Shikoku islands of Japan, and Taiwan. It is classified as vulnerable by the International Union for Conservation of Nature (IUCN), mostly because of deforestation and hunting for its body parts.[1] Question: What scientific name does the Asian Black bear have? Answer:",
+    {
+        "id": "english--8459902227761266695-0",
+        "lang": "english",
+        "summary": "The Asian black bear (Ursus thibetanus, previously known as Selenarctos thibetanus), also known as the moon bear  and the white-chested bear, is a medium-sized bear species native to Asia and largely adapted to arboreal life.[2][3] It lives in the Himalayas, in the northern parts of the Indian subcontinent, Korea, northeastern China, the Russian Far East, the Honsh\u016b and Shikoku islands of Japan, and Taiwan. It is classified as vulnerable by the International Union for Conservation of Nature (IUCN), mostly because of deforestation and hunting for its body parts.[1]",
+        "question": "What scientific name does the Asian Black bear have?",
+        "label": "Selenarctos thibetanus"
+    }
+]

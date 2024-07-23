@@ -1,0 +1,15 @@
+[
+    [
+        2685,
+        [],
+        "1647\u201313 January 1717"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Maria Sibylla Merian (2 April 1647\u201313 January 1717[1]) was a German-born naturalist and scientific illustrator, a descendant of the Frankfurt branch of the Swiss Merian family. Merian was one of the first naturalists to observe insects directly. Question: What years did Maria Sibylla Merian live? Answer:",
+    {
+        "id": "english--4084091265465925541-0",
+        "lang": "english",
+        "summary": "Maria Sibylla Merian (2 April 1647\u201313 January 1717[1]) was a German-born naturalist and scientific illustrator, a descendant of the Frankfurt branch of the Swiss Merian family. Merian was one of the first naturalists to observe insects directly.",
+        "question": "What years did Maria Sibylla Merian live?",
+        "label": "1647\u201313 January 1717"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1004,
+        [],
+        "\"around\" 5,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The United States is the largest operator of military bases abroad, with 38 \"named bases\"[note 1] having active-duty, National Guard, reserve, or civilian personnel as of September 30, 2014. Its largest, in terms of personnel, was Ramstein AB, in Germany, with almost 9,200 personnel.[1][note 2] The Pentagon stated in 2013 that there are \"around\" 5,000 bases total, with \"around\" 600 of them overseas.[2] Question: How many bases does the USA Military have? Answer:",
+    {
+        "id": "english--6218938712942529890-3",
+        "lang": "english",
+        "summary": "The United States is the largest operator of military bases abroad, with 38 \"named bases\"[note 1] having active-duty, National Guard, reserve, or civilian personnel as of September 30, 2014. Its largest, in terms of personnel, was Ramstein AB, in Germany, with almost 9,200 personnel.[1][note 2] The Pentagon stated in 2013 that there are \"around\" 5,000 bases total, with \"around\" 600 of them overseas.[2]",
+        "question": "How many bases does the USA Military have?",
+        "label": "\"around\" 5,000"
+    }
+]

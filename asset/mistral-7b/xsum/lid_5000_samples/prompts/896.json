@@ -1,0 +1,14 @@
+[
+    [
+        896,
+        [],
+        "A drug driver has been warned \"custody is almost inevitable\" after admitting causing the death of a motorcyclist by careless driving in Flintshire."
+    ],
+    "Write a short summary for the following passage:\nLee Bennison, 33, had only recently become a father when he was hit by Paul Mayor's car on the A541 between Mold and Pontblyddin on 5 September 2016.\nMold Crown Court heard that Mayor, 45, from Liverpool, had failed a drugs test with traces of cocaine in his blood.\nJudge Rhys Rowlands adjourned sentencing until 22 June.\nHe told Mayor that he had pleaded guilty to a \"very serious matter\" and \"there could only be one judgement for this sort of offence\".\nThe family of Mr Bennison, who lived in Leeswood, near Mold, was present at Friday's hearing.\nIn a statement at the time of his death, they said \"life will never be the same without him\".\nSummary:\n",
+    {
+        "id": 896,
+        "document": "Lee Bennison, 33, had only recently become a father when he was hit by Paul Mayor's car on the A541 between Mold and Pontblyddin on 5 September 2016.\nMold Crown Court heard that Mayor, 45, from Liverpool, had failed a drugs test with traces of cocaine in his blood.\nJudge Rhys Rowlands adjourned sentencing until 22 June.\nHe told Mayor that he had pleaded guilty to a \"very serious matter\" and \"there could only be one judgement for this sort of offence\".\nThe family of Mr Bennison, who lived in Leeswood, near Mold, was present at Friday's hearing.\nIn a statement at the time of his death, they said \"life will never be the same without him\".",
+        "summary": "A drug driver has been warned \"custody is almost inevitable\" after admitting causing the death of a motorcyclist by careless driving in Flintshire.",
+        "label": "A drug driver has been warned \"custody is almost inevitable\" after admitting causing the death of a motorcyclist by careless driving in Flintshire."
+    }
+]

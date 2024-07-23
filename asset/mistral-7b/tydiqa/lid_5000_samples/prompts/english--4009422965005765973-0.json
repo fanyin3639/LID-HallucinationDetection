@@ -1,0 +1,15 @@
+[
+    [
+        1362,
+        [],
+        "28 May 2023"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The next Italian general election is due to be held no later than 28 May 2023. Question: When are the next national elections in Italy? Answer:",
+    {
+        "id": "english--4009422965005765973-0",
+        "lang": "english",
+        "summary": "The next Italian general election is due to be held no later than 28 May 2023.",
+        "question": "When are the next national elections in Italy?",
+        "label": "28 May 2023"
+    }
+]

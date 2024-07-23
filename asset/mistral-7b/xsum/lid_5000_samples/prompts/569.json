@@ -1,0 +1,14 @@
+[
+    [
+        569,
+        [],
+        "Sir David Attenborough is urging people to plant butterfly-friendly flowers in their garden to help reverse declining numbers of the insects."
+    ],
+    "Write a short summary for the following passage:\n17 July 2015 Last updated at 08:41 BST\nThe nature legend made the call as he launched the annual Big Butterfly Count, in which people are asked to spot and record 18 species of common butterflies and two day-flying moths over three weeks of the summer.\nThe citizen science project, the world's largest butterfly survey, aims to help wildlife charity Butterfly Conservation find out how common butterfly species are faring and how to protect them in the future.\nPeople are also being asked to look out for painted ladies, with the biggest immigration of the butterfly into the UK since 2009, when millions came over from the continent.\nSir David, who is Butterfly Conservation president, said everyone could play a part in reversing declines in butterflies, insects and other wildlife.\nSummary:\n",
+    {
+        "id": 569,
+        "document": "17 July 2015 Last updated at 08:41 BST\nThe nature legend made the call as he launched the annual Big Butterfly Count, in which people are asked to spot and record 18 species of common butterflies and two day-flying moths over three weeks of the summer.\nThe citizen science project, the world's largest butterfly survey, aims to help wildlife charity Butterfly Conservation find out how common butterfly species are faring and how to protect them in the future.\nPeople are also being asked to look out for painted ladies, with the biggest immigration of the butterfly into the UK since 2009, when millions came over from the continent.\nSir David, who is Butterfly Conservation president, said everyone could play a part in reversing declines in butterflies, insects and other wildlife.",
+        "summary": "Sir David Attenborough is urging people to plant butterfly-friendly flowers in their garden to help reverse declining numbers of the insects.",
+        "label": "Sir David Attenborough is urging people to plant butterfly-friendly flowers in their garden to help reverse declining numbers of the insects."
+    }
+]

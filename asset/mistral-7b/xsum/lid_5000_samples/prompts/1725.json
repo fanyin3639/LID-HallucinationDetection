@@ -1,0 +1,14 @@
+[
+    [
+        1725,
+        [],
+        "A man has been arrested following an eight-hour stand-off with police at a house in Bournemouth."
+    ],
+    "Write a short summary for the following passage:\nPolice sealed off Mountbatten Gardens at 06:30 BST after reports that a man threatened two people with a machete.\nAn earlier assault at Mallard Road in which a woman was injured is believed to be connected to the incident.\nPolice said a 34-year-old Bournemouth man has been arrested on suspicion of assault and possession of an offensive weapon.\nSummary:\n",
+    {
+        "id": 1725,
+        "document": "Police sealed off Mountbatten Gardens at 06:30 BST after reports that a man threatened two people with a machete.\nAn earlier assault at Mallard Road in which a woman was injured is believed to be connected to the incident.\nPolice said a 34-year-old Bournemouth man has been arrested on suspicion of assault and possession of an offensive weapon.",
+        "summary": "A man has been arrested following an eight-hour stand-off with police at a house in Bournemouth.",
+        "label": "A man has been arrested following an eight-hour stand-off with police at a house in Bournemouth."
+    }
+]

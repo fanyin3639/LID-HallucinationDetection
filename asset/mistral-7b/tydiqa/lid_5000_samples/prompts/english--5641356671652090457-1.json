@@ -1,0 +1,15 @@
+[
+    [
+        720,
+        [],
+        "164"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In Cuba, the storm caused hundreds of deaths, capsized dozens of ships, obliterated buildings, uprooted trees, and ruined crops. Many towns were wholly destroyed or flattened and never recovered, while others disappeared entirely. Damage in the United States was considerably better-chronicled despite being less severe. In Key West, widespread destruction was noted, with 40deaths, many vessels rendered unfit, and widespread structural damage, with several buildings swept off of their foundations and hundreds of others flattened. Few supplies arrived in the following days and relief efforts were gradual, with few resources within the town's vicinity. Along other sections of the Southeastern U.S. coast, copious rainfall and moderate winds impacted agriculture, shipping, and residences. As the storm tracked along the Middle-Atlantic coast, similar effects were reported: there, the gale inundated many areas, impeded communications, destroyed railroads and canals, and flattened structures. Despite extensive damage, only two deaths were recorded outside Cuba and Florida. Along its entire track, the hurricane caused $338,000 in losses and at least 164deaths.[nb 2][nb 3] Question: How many died due to the Havana hurricane? Answer:",
+    {
+        "id": "english--5641356671652090457-1",
+        "lang": "english",
+        "summary": "In Cuba, the storm caused hundreds of deaths, capsized dozens of ships, obliterated buildings, uprooted trees, and ruined crops. Many towns were wholly destroyed or flattened and never recovered, while others disappeared entirely. Damage in the United States was considerably better-chronicled despite being less severe. In Key West, widespread destruction was noted, with 40deaths, many vessels rendered unfit, and widespread structural damage, with several buildings swept off of their foundations and hundreds of others flattened. Few supplies arrived in the following days and relief efforts were gradual, with few resources within the town's vicinity. Along other sections of the Southeastern U.S. coast, copious rainfall and moderate winds impacted agriculture, shipping, and residences. As the storm tracked along the Middle-Atlantic coast, similar effects were reported: there, the gale inundated many areas, impeded communications, destroyed railroads and canals, and flattened structures. Despite extensive damage, only two deaths were recorded outside Cuba and Florida. Along its entire track, the hurricane caused $338,000 in losses and at least 164deaths.[nb 2][nb 3]",
+        "question": "How many died due to the Havana hurricane?",
+        "label": "164"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        365,
+        [],
+        "Ministry of Justice"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Ministry of Justice (Minist\u00e9rio da Justi\u00e7a) is the department of the Government of Portugal responsible to conceive, conduct, execute and assess the Justice policy defined by the Assembly of the Republic and by the Government and to assure the relationship of the Government with the courts, the Public Ministry, the Higher Council of Magistrates and the Higher Council of the Administrative and Tax Courts. As part of its responsibilities, it administers the judiciary system, with functions that include the payment of salaries and the construction of courthouses. Question: Who is head of the judicial system in Portugal? Answer:",
+    {
+        "id": "english--858666257403282211-28",
+        "lang": "english",
+        "summary": "The Ministry of Justice (Minist\u00e9rio da Justi\u00e7a) is the department of the Government of Portugal responsible to conceive, conduct, execute and assess the Justice policy defined by the Assembly of the Republic and by the Government and to assure the relationship of the Government with the courts, the Public Ministry, the Higher Council of Magistrates and the Higher Council of the Administrative and Tax Courts. As part of its responsibilities, it administers the judiciary system, with functions that include the payment of salaries and the construction of courthouses.",
+        "question": "Who is head of the judicial system in Portugal?",
+        "label": "Ministry of Justice"
+    }
+]

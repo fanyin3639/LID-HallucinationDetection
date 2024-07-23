@@ -1,0 +1,14 @@
+[
+    [
+        1815,
+        [],
+        "Two men wearing decorating suits and armed with a knife and a hammer have robbed a bookmakers in South Shields."
+    ],
+    "Write a short summary for the following passage:\nThe raid happened just after 21:00 GMT on Saturday at Chisholm Bookmakers on Fielding Court, Biddick Hall.\nNorthumbria Police said both the men were wearing paper decorating suits, one white and one blue, and they were armed with a knife and a hammer.\nThey demanded cash and made off with it in the direction of Biddick Hall School. No-one was injured.\nSummary:\n",
+    {
+        "id": 1815,
+        "document": "The raid happened just after 21:00 GMT on Saturday at Chisholm Bookmakers on Fielding Court, Biddick Hall.\nNorthumbria Police said both the men were wearing paper decorating suits, one white and one blue, and they were armed with a knife and a hammer.\nThey demanded cash and made off with it in the direction of Biddick Hall School. No-one was injured.",
+        "summary": "Two men wearing decorating suits and armed with a knife and a hammer have robbed a bookmakers in South Shields.",
+        "label": "Two men wearing decorating suits and armed with a knife and a hammer have robbed a bookmakers in South Shields."
+    }
+]

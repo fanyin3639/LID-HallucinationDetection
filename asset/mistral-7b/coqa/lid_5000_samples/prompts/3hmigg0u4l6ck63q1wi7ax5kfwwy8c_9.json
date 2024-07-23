@@ -1,0 +1,19 @@
+[
+    [
+        1926,
+        [],
+        "Sudharma"
+    ],
+    "Answer the following questions:\nContext: Sanskrit (/\u02c8s\u00e6nskr\u026at/; Sanskrit: sa\u1e43sk\u1e5btam [s\u0259mskr\u0329t\u032a\u0259m] or sa\u1e43sk\u1e5bta, originally sa\u1e43sk\u1e5bt\u0101 v\u0101k, \"refined speech\") is the primary sacred language of Hinduism, a philosophical language in Buddhism, Hinduism, Sikhism and Jainism, and a literary language that was in use as a lingua franca in Greater India. It is a standardised dialect of Old Indo-Aryan, originating as Vedic Sanskrit and tracing its linguistic ancestry back to Proto-Indo-Iranian and Proto-Indo-European. Today it is listed as one of the 22 scheduled languages of India and is an official language of the state of Uttarakhand. As one of the oldest Indo-European languages for which substantial written documentation exists, Sanskrit holds a prominent position in Indo-European studies. \n\nOver 90 weeklies, fortnightlies and quarterlies are published in Sanskrit. Sudharma, a daily newspaper in Sanskrit, has been published out of Mysore, India, since 1970, while Sanskrit Vartman Patram and Vishwasya Vrittantam started in Gujarat during the last five years. Since 1974, there has been a short daily news broadcast on state-run All India Radio. These broadcasts are also made available on the internet on AIR's website. Sanskrit news is broadcast on TV and on the internet through the DD National channel at 6:55 AM IST.\n'Question': What paper uses it?\n'Answer: '",
+    {
+        "id": "3hmigg0u4l6ck63q1wi7ax5kfwwy8c_9",
+        "summary": "Sanskrit (/\u02c8s\u00e6nskr\u026at/; Sanskrit: sa\u1e43sk\u1e5btam [s\u0259mskr\u0329t\u032a\u0259m] or sa\u1e43sk\u1e5bta, originally sa\u1e43sk\u1e5bt\u0101 v\u0101k, \"refined speech\") is the primary sacred language of Hinduism, a philosophical language in Buddhism, Hinduism, Sikhism and Jainism, and a literary language that was in use as a lingua franca in Greater India. It is a standardised dialect of Old Indo-Aryan, originating as Vedic Sanskrit and tracing its linguistic ancestry back to Proto-Indo-Iranian and Proto-Indo-European. Today it is listed as one of the 22 scheduled languages of India and is an official language of the state of Uttarakhand. As one of the oldest Indo-European languages for which substantial written documentation exists, Sanskrit holds a prominent position in Indo-European studies. \n\nOver 90 weeklies, fortnightlies and quarterlies are published in Sanskrit. Sudharma, a daily newspaper in Sanskrit, has been published out of Mysore, India, since 1970, while Sanskrit Vartman Patram and Vishwasya Vrittantam started in Gujarat during the last five years. Since 1974, there has been a short daily news broadcast on state-run All India Radio. These broadcasts are also made available on the internet on AIR's website. Sanskrit news is broadcast on TV and on the internet through the DD National channel at 6:55 AM IST.",
+        "question": "What paper uses it?",
+        "label": "Sudharma",
+        "additional_answers": [
+            "Sudharma",
+            "Sudharma",
+            "Sudharma"
+        ]
+    }
+]

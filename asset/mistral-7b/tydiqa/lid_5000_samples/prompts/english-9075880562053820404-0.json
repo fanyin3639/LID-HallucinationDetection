@@ -1,0 +1,15 @@
+[
+    [
+        1943,
+        [],
+        "50 kilograms"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A giant dog breed has no universal height or weight classification, although some groups define \"giant breeds\" as those heavier than 50 kilograms (110lb). Giant breeds grow rapidly, but take longer to mature into their full adult sizes than smaller dogs.[1] Question: How big does a dog need to be to be considered a giant breed? Answer:",
+    {
+        "id": "english-9075880562053820404-0",
+        "lang": "english",
+        "summary": "A giant dog breed has no universal height or weight classification, although some groups define \"giant breeds\" as those heavier than 50 kilograms (110lb). Giant breeds grow rapidly, but take longer to mature into their full adult sizes than smaller dogs.[1]",
+        "question": "How big does a dog need to be to be considered a giant breed?",
+        "label": "50 kilograms"
+    }
+]

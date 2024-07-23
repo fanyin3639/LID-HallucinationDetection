@@ -1,0 +1,19 @@
+[
+    [
+        371,
+        [],
+        "Nancy Grace"
+    ],
+    "Answer the following questions:\nContext: Los Angeles (CNN) -- A man convicted of stalking singer Madonna, and who once threatened to knife her, was arrested Friday, a week after he escaped from a Southern California mental hospital, police said. \n\nRobert Dewey Hoskins, 54, had walked away from Metropolitan State Hospital in the Los Angeles suburb of Norwalk on February 3, police said. \n\nHe had served a 10-year prison sentence for stalking the \"Material Girl,\" police said, and a court order requires him to be in a facility receiving mental health treatment until the end of August 2012. \n\nLos Angeles Police Sgt. Mitzi Fierro told HLN's Nancy Grace that she hadn't been told whether any new charges will be filed against Hoskins. \n\n\"At this point they are returning him to the facility, and I believe that will be determined by the detectives who will investigate -- number one, his ability to walk away from the facility and, number two, if he violated anything from that point on,\" Fierro said. \n\nThe facility he was in is not secured, and it was unclear Friday whether Hoskins escaped or walked out on his own, investigators told CNN. \n\nHe was receiving treatment to get acclimated to society again and was supervised by a civilian staff and not officers, detectives said. \n\nBecause of the court order, Hoskins was deemed an \"escapee,\" detectives said. \n\nInvestigators had been looking for him in the Long Beach area because some of his arrest records come from that community, detectives said. \n\nPrior to his arrest Friday, Los Angeles police issued a warning to the public saying Hoskins \"is highly psychotic when not taking his medication and has very violent tendencies.\" \n'Question': Which tv anchor was Fierro speaking too?\n'Answer: '",
+    {
+        "id": "33lk57mylt5u8gs4bgqv5venyuqsz1_14",
+        "summary": "Los Angeles (CNN) -- A man convicted of stalking singer Madonna, and who once threatened to knife her, was arrested Friday, a week after he escaped from a Southern California mental hospital, police said. \n\nRobert Dewey Hoskins, 54, had walked away from Metropolitan State Hospital in the Los Angeles suburb of Norwalk on February 3, police said. \n\nHe had served a 10-year prison sentence for stalking the \"Material Girl,\" police said, and a court order requires him to be in a facility receiving mental health treatment until the end of August 2012. \n\nLos Angeles Police Sgt. Mitzi Fierro told HLN's Nancy Grace that she hadn't been told whether any new charges will be filed against Hoskins. \n\n\"At this point they are returning him to the facility, and I believe that will be determined by the detectives who will investigate -- number one, his ability to walk away from the facility and, number two, if he violated anything from that point on,\" Fierro said. \n\nThe facility he was in is not secured, and it was unclear Friday whether Hoskins escaped or walked out on his own, investigators told CNN. \n\nHe was receiving treatment to get acclimated to society again and was supervised by a civilian staff and not officers, detectives said. \n\nBecause of the court order, Hoskins was deemed an \"escapee,\" detectives said. \n\nInvestigators had been looking for him in the Long Beach area because some of his arrest records come from that community, detectives said. \n\nPrior to his arrest Friday, Los Angeles police issued a warning to the public saying Hoskins \"is highly psychotic when not taking his medication and has very violent tendencies.\" ",
+        "question": "Which tv anchor was Fierro speaking too?",
+        "label": "Nancy Grace",
+        "additional_answers": [
+            "Nancy Grace",
+            "Nancy Grace",
+            "Nancy Grace"
+        ]
+    }
+]

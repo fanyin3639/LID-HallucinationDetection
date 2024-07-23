@@ -1,0 +1,15 @@
+[
+    [
+        819,
+        [],
+        "USS Langley (CV-1/AV-3)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: USS Langley (CV-1/AV-3) was the United States Navy's first aircraft carrier, converted in 1920 from the collier USS Jupiter (AC-3), and also the US Navy's first turbo-electric-powered ship. Conversion of another collier was planned but canceled when the Washington Naval Treaty required the cancellation of the partially built Lexington-classbattlecruisers Lexington and Saratoga, freeing up their hulls for conversion to the aircraft carriers Lexington and Saratoga. Langley was named after Samuel Pierpont Langley, an American aviation pioneer. Following another conversion to a seaplane tender, Langley fought in World War II. On 27 February 1942, she was attacked by nine twin-engine Japanese bombers[3] of the Japanese 21st and 23rd Naval Air Flotillas[2] and so badly damaged that she had to be scuttled by her escorts. Question: What was the first U.S. aircraft carrier? Answer:",
+    {
+        "id": "english--4071303461710844424-0",
+        "lang": "english",
+        "summary": "USS Langley (CV-1/AV-3) was the United States Navy's first aircraft carrier, converted in 1920 from the collier USS Jupiter (AC-3), and also the US Navy's first turbo-electric-powered ship. Conversion of another collier was planned but canceled when the Washington Naval Treaty required the cancellation of the partially built Lexington-classbattlecruisers Lexington and Saratoga, freeing up their hulls for conversion to the aircraft carriers Lexington and Saratoga. Langley was named after Samuel Pierpont Langley, an American aviation pioneer. Following another conversion to a seaplane tender, Langley fought in World War II. On 27 February 1942, she was attacked by nine twin-engine Japanese bombers[3] of the Japanese 21st and 23rd Naval Air Flotillas[2] and so badly damaged that she had to be scuttled by her escorts.",
+        "question": "What was the first U.S. aircraft carrier?",
+        "label": "USS Langley (CV-1/AV-3)"
+    }
+]

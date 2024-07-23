@@ -1,0 +1,15 @@
+[
+    [
+        2021,
+        [],
+        "800 to 930 thousand km2"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1260 the Grand Duchy of Lithuania was the land of Lithuania, and ethnic Lithuanians formed majority (67.5%) of its 400,000 people.[52] With the acquisition of new Ruthenian territories, in 1340 this portion decreased to 30%[53] By the time of the largest expansion towards Rus' lands, which came at the end of the 13th and during the 14th century, the territory of the Grand Duchy of Lithuania was 800 to 930 thousand km2, just 10% to 14% of which was ethnically Lithuanian.[52][54] Question: How large is Lithuania? Answer:",
+    {
+        "id": "english--1678199803138781882-42",
+        "lang": "english",
+        "summary": "In 1260 the Grand Duchy of Lithuania was the land of Lithuania, and ethnic Lithuanians formed majority (67.5%) of its 400,000 people.[52] With the acquisition of new Ruthenian territories, in 1340 this portion decreased to 30%[53] By the time of the largest expansion towards Rus' lands, which came at the end of the 13th and during the 14th century, the territory of the Grand Duchy of Lithuania was 800 to 930 thousand km2, just 10% to 14% of which was ethnically Lithuanian.[52][54]",
+        "question": "How large is Lithuania?",
+        "label": "800 to 930 thousand km2"
+    }
+]

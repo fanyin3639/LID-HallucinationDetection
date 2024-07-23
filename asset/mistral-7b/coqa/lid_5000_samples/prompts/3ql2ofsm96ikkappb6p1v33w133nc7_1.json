@@ -1,0 +1,19 @@
+[
+    [
+        1394,
+        [],
+        "Agatha"
+    ],
+    "Answer the following questions:\nContext: CHAPTER IX--GONE OVER TO THE ENEMY \n\n\n\n\"Can I teach thee, my beloved? can I teach thee?\" E. B. BROWNING. \n\nAgatha came home in due time, and Magdalen sent her sister to meet her at the station, where they found a merry Clipstone party in the waggonette waiting for Gillian, who was to come home at the same time. There was so much discussion of the new golf ground, that Vera had hardly a hand or a glance to bestow on Mr. Delrio, who jumped out of the same train, shook hands with Agatha, and bestirred himself in finding her luggage and calling a cab. \n\n\"How he is improved! What a pleasing, gentlemanly fellow he looks!\" she exclaimed, as she waved her thanks, while driving off in the cab. \n\n\"Is he not?\" said Paula, while Vera bridled and blushed. \"You will be delighted with his work. I never saw anything more lovely than little St. Cyriac the martyr.\" \n\n\"He is taken from Mrs. Henderson's little boy,\" added Vera; \"such a dear little darling.\" \n\n\"And his mother is to be done; indeed, he has sketched her for St. Juliet.\" \n\n\"Flapsy! St. Romeo, too, I suppose?\" \n\n\"Nonsense, Nag! There really was a St. Juliet or Julitta, and she was his mother, and they both were martyrs. I will tell you all the history,\" began Paula; but Agatha interposed. \n\n\"You must like having him down here. Sister must be much pleased with him. She used to like old Mr. Delrio.\" \n\n\"Well, we have not said much about him,\" owned Paula. \"He does not seem to wish it, or expect to be in with swells.\" \n'Question': Who arrived just in time?\n'Answer: '",
+    {
+        "id": "3ql2ofsm96ikkappb6p1v33w133nc7_1",
+        "summary": "CHAPTER IX--GONE OVER TO THE ENEMY \n\n\n\n\"Can I teach thee, my beloved? can I teach thee?\" E. B. BROWNING. \n\nAgatha came home in due time, and Magdalen sent her sister to meet her at the station, where they found a merry Clipstone party in the waggonette waiting for Gillian, who was to come home at the same time. There was so much discussion of the new golf ground, that Vera had hardly a hand or a glance to bestow on Mr. Delrio, who jumped out of the same train, shook hands with Agatha, and bestirred himself in finding her luggage and calling a cab. \n\n\"How he is improved! What a pleasing, gentlemanly fellow he looks!\" she exclaimed, as she waved her thanks, while driving off in the cab. \n\n\"Is he not?\" said Paula, while Vera bridled and blushed. \"You will be delighted with his work. I never saw anything more lovely than little St. Cyriac the martyr.\" \n\n\"He is taken from Mrs. Henderson's little boy,\" added Vera; \"such a dear little darling.\" \n\n\"And his mother is to be done; indeed, he has sketched her for St. Juliet.\" \n\n\"Flapsy! St. Romeo, too, I suppose?\" \n\n\"Nonsense, Nag! There really was a St. Juliet or Julitta, and she was his mother, and they both were martyrs. I will tell you all the history,\" began Paula; but Agatha interposed. \n\n\"You must like having him down here. Sister must be much pleased with him. She used to like old Mr. Delrio.\" \n\n\"Well, we have not said much about him,\" owned Paula. \"He does not seem to wish it, or expect to be in with swells.\" ",
+        "question": "Who arrived just in time?",
+        "label": "Agatha",
+        "additional_answers": [
+            "Agatha",
+            "Agatha",
+            "Agatha"
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        197,
+        [],
+        "Lincoln City ended a three-match losing streak with a 1-1 draw at home to Gateshead in the National League."
+    ],
+    "Write a short summary for the following passage:\nGateshead goalkeeper Sam Russell made saves from Alex Simmons and Jack Muldoon before Luke Waterfall headed in eight minutes before half-time.\nThe Tynesiders equalised on 78 minutes when substitute Danny Johnson ran onto a long ball to slot past Paul Farman.\nThe Imps almost won the game at the death when Alan Power's effort from 30 yards just missed.\nLincoln City manager Chris Moyses told BBC Radio Lincolnshire:\nMedia playback is not supported on this device\n\"I was pleased with the whole performance, bar a bit of naivety. I thought we passed the ball really well for the whole of the game but we just need to be ruthless.\n\"The way we played today was a lot of energy, a lot of running and a lot of balls down the sides and I thought we played very well.\n\"You look at the stats and they say we got one point over Easter which isn't great but you look at the performances and it's something to work on.\"\nSummary:\n",
+    {
+        "id": 197,
+        "document": "Gateshead goalkeeper Sam Russell made saves from Alex Simmons and Jack Muldoon before Luke Waterfall headed in eight minutes before half-time.\nThe Tynesiders equalised on 78 minutes when substitute Danny Johnson ran onto a long ball to slot past Paul Farman.\nThe Imps almost won the game at the death when Alan Power's effort from 30 yards just missed.\nLincoln City manager Chris Moyses told BBC Radio Lincolnshire:\nMedia playback is not supported on this device\n\"I was pleased with the whole performance, bar a bit of naivety. I thought we passed the ball really well for the whole of the game but we just need to be ruthless.\n\"The way we played today was a lot of energy, a lot of running and a lot of balls down the sides and I thought we played very well.\n\"You look at the stats and they say we got one point over Easter which isn't great but you look at the performances and it's something to work on.\"",
+        "summary": "Lincoln City ended a three-match losing streak with a 1-1 draw at home to Gateshead in the National League.",
+        "label": "Lincoln City ended a three-match losing streak with a 1-1 draw at home to Gateshead in the National League."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        205,
+        [],
+        "Eastern Zhou Dynasty"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Reigning over 55 years, he was one of the longest-serving rulers during the Eastern Zhou Dynasty.  Although making numerous policy mistakes during his later years, his aggressive territorial expansions were pivotal in consolidating the state of Qin as the dominant military powerhouse in the late Warring States period.  It was the strategic dominance established during his reign that paved the way to Qin's eventual successful unification of China under his great-grandson, Ying Zheng. Question: What dynasty was King Zhaoxiang of Qin? Answer:",
+    {
+        "id": "english-7506525351330766349-46",
+        "lang": "english",
+        "summary": "Reigning over 55 years, he was one of the longest-serving rulers during the Eastern Zhou Dynasty.  Although making numerous policy mistakes during his later years, his aggressive territorial expansions were pivotal in consolidating the state of Qin as the dominant military powerhouse in the late Warring States period.  It was the strategic dominance established during his reign that paved the way to Qin's eventual successful unification of China under his great-grandson, Ying Zheng.",
+        "question": "What dynasty was King Zhaoxiang of Qin?",
+        "label": "Eastern Zhou Dynasty"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        3081,
+        [],
+        "13 March 1881"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Alexander II (Russian:\u0410\u043b\u0435\u043a\u0441\u0430\u0301\u043d\u0434\u0440 II \u041d\u0438\u043a\u043e\u043b\u0430\u0301\u0435\u0432\u0438\u0447, tr.Aleksandr II Nikolayevich,IPA:[\u0250l\u02b2\u026a\u02c8ksandr ft\u0250\u02c8roj n\u02b2\u026ak\u0250\u02c8laj\u026av\u02b2\u026at\u0255]; 29 April 1818 \u2013 13 March 1881)[1] was the Emperor of Russia from 2 March 1855 until his assassination on 13 March 1881. He was also the King of Poland and the Grand Duke of Finland.[2] Question: When did Alexander II die? Answer:",
+    {
+        "id": "english--90431337940647989-0",
+        "lang": "english",
+        "summary": "Alexander II (Russian:\u0410\u043b\u0435\u043a\u0441\u0430\u0301\u043d\u0434\u0440 II \u041d\u0438\u043a\u043e\u043b\u0430\u0301\u0435\u0432\u0438\u0447, tr.Aleksandr II Nikolayevich,IPA:[\u0250l\u02b2\u026a\u02c8ksandr ft\u0250\u02c8roj n\u02b2\u026ak\u0250\u02c8laj\u026av\u02b2\u026at\u0255]; 29 April 1818 \u2013 13 March 1881)[1] was the Emperor of Russia from 2 March 1855 until his assassination on 13 March 1881. He was also the King of Poland and the Grand Duke of Finland.[2]",
+        "question": "When did Alexander II die?",
+        "label": "13 March 1881"
+    }
+]

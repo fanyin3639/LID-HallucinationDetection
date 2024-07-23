@@ -1,0 +1,15 @@
+[
+    [
+        2577,
+        [],
+        "1990"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: GMT Games is a California-based wargaming publisher founded in 1990. The current management and creative team includes Tony Curtis, Rodger MacGowan, Mark Simonitch, and Andy Lewis.  The company has become well known for graphically attractive games that range from \"monster games\", of many maps and counters, to quite simple games suitable for introducing new players to wargaming.  They also produce card games and family games. The Washington Post called GMT \"the modern hobby's highest-profile wargame publisher\".[1] Question: When was GMT Games first established? Answer:",
+    {
+        "id": "english--2582986759177567682-0",
+        "lang": "english",
+        "summary": "GMT Games is a California-based wargaming publisher founded in 1990. The current management and creative team includes Tony Curtis, Rodger MacGowan, Mark Simonitch, and Andy Lewis.  The company has become well known for graphically attractive games that range from \"monster games\", of many maps and counters, to quite simple games suitable for introducing new players to wargaming.  They also produce card games and family games. The Washington Post called GMT \"the modern hobby's highest-profile wargame publisher\".[1]",
+        "question": "When was GMT Games first established?",
+        "label": "1990"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2578,
+        [],
+        "Naoki Yoshida"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Naoki Yoshida(\u5409\u7530 \u76f4\u6a39,Yoshida Naoki, born May 1, 1973),[1] also known by the nickname Yoshi-P,[2] is a Japanese video game producer, director and designer working for Square Enix. He is known primarily for his work on massively multiplayer online role-playing games (MMORPGs), as chief planner on Dragon Quest X, and as director and producer of Final Fantasy XIV: A Realm Reborn. He is credited with rescuing the original Final Fantasy XIV project from its disastrous launch. Yoshida is an Executive Officer at Square Enix,[3] the Head of Square Enix's Business Division 5[4] and part of the Final Fantasy Committee that is tasked with keeping the franchise's releases and content consistent.[5] Question: Who is the lead designer on FF14? Answer:",
+    {
+        "id": "english-7651898219119027816-0",
+        "lang": "english",
+        "summary": "Naoki Yoshida(\u5409\u7530 \u76f4\u6a39,Yoshida Naoki, born May 1, 1973),[1] also known by the nickname Yoshi-P,[2] is a Japanese video game producer, director and designer working for Square Enix. He is known primarily for his work on massively multiplayer online role-playing games (MMORPGs), as chief planner on Dragon Quest X, and as director and producer of Final Fantasy XIV: A Realm Reborn. He is credited with rescuing the original Final Fantasy XIV project from its disastrous launch. Yoshida is an Executive Officer at Square Enix,[3] the Head of Square Enix's Business Division 5[4] and part of the Final Fantasy Committee that is tasked with keeping the franchise's releases and content consistent.[5]",
+        "question": "Who is the lead designer on FF14?",
+        "label": "Naoki Yoshida"
+    }
+]

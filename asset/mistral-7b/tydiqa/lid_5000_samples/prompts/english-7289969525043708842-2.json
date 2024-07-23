@@ -1,0 +1,15 @@
+[
+    [
+        524,
+        [],
+        "October 1, 1984"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: American Movie Classics, as AMC was originally known, debuted on October 1, 1984, as a premium channel. Its original format focused on classic movies \u2013 largely those made prior to the 1950s \u2013 that aired during the afternoon and early evening hours in a commercial-free, generally unedited, uncut and uncolorized format.[7] AMC was originally operated as a joint venture between Rainbow Media and cable television provider Tele-Communications Inc. (John Malone, who owned TCI and its parent Liberty Media, would launch another premium service\u2014Encore, which also originally focused on older films, mainly from the 1960s to the 1980s \u2013 seven years later in April 1991). During its early years, it was not uncommon for AMC to host a marathon of Marx Brothers films, or show classics such as the original 1925 release of The Phantom of the Opera. In 1987, the channel began to be carried on the basic cable tiers of many cable providers.[7][8] By 1989, AMC was available to 39 million subscribers in the U.S.[8] Question: When was the AMC network created? Answer:",
+    {
+        "id": "english-7289969525043708842-2",
+        "lang": "english",
+        "summary": "American Movie Classics, as AMC was originally known, debuted on October 1, 1984, as a premium channel. Its original format focused on classic movies \u2013 largely those made prior to the 1950s \u2013 that aired during the afternoon and early evening hours in a commercial-free, generally unedited, uncut and uncolorized format.[7] AMC was originally operated as a joint venture between Rainbow Media and cable television provider Tele-Communications Inc. (John Malone, who owned TCI and its parent Liberty Media, would launch another premium service\u2014Encore, which also originally focused on older films, mainly from the 1960s to the 1980s \u2013 seven years later in April 1991). During its early years, it was not uncommon for AMC to host a marathon of Marx Brothers films, or show classics such as the original 1925 release of The Phantom of the Opera. In 1987, the channel began to be carried on the basic cable tiers of many cable providers.[7][8] By 1989, AMC was available to 39 million subscribers in the U.S.[8]",
+        "question": "When was the AMC network created?",
+        "label": "October 1, 1984"
+    }
+]

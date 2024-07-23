@@ -1,0 +1,15 @@
+[
+    [
+        3016,
+        [],
+        "Home Box Office"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Home Box Office (HBO) is an American premium cable and satellite television network that is owned by the namesake unit Home Box Office, Inc., a division of AT&T's WarnerMedia. The program which featured on the network consists primarily of theatrically released motion pictures and original television shows, along with made-for-cable movies, documentaries and occasional comedy and concert specials. Question: Who owns HBO? Answer:",
+    {
+        "id": "english--2241320068429927714-0",
+        "lang": "english",
+        "summary": "Home Box Office (HBO) is an American premium cable and satellite television network that is owned by the namesake unit Home Box Office, Inc., a division of AT&T's WarnerMedia. The program which featured on the network consists primarily of theatrically released motion pictures and original television shows, along with made-for-cable movies, documentaries and occasional comedy and concert specials.",
+        "question": "Who owns HBO?",
+        "label": "Home Box Office"
+    }
+]

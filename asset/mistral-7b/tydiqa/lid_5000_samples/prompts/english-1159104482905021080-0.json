@@ -1,0 +1,15 @@
+[
+    [
+        2425,
+        [],
+        "Nasi lemak"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Nasi lemak is a Malay fragrant rice dish cooked in coconut milk and pandan leaf. It is commonly found in Malaysia, where it is considered the national dish;[6] it is also the native dish in neighbouring areas with significant Malay populations such as Singapore;[7] Brunei, and Southern Thailand. In Indonesia it can be found in several parts of Sumatra; especially Malay realm of Riau, Riau Islands and Medan.[8] Nasi lemak can also be found in the Bangsamoro region of Mindanao prepared by Filipino Moro. It is considered one of the most famous dishes for a Malay-style breakfast. It is not to be confused with nasi dagang, sold in the Malaysian east coast states of Terengganu and Kelantan (and its kindred region in Pattani, Yala and Narathiwat in Thailand and Natuna in Indonesia), although both dishes are often served for breakfast. However, because nasi lemak can be served in a variety of ways, it is often eaten throughout the day. Question: What is the national dish of Malaysia? Answer:",
+    {
+        "id": "english-1159104482905021080-0",
+        "lang": "english",
+        "summary": "Nasi lemak is a Malay fragrant rice dish cooked in coconut milk and pandan leaf. It is commonly found in Malaysia, where it is considered the national dish;[6] it is also the native dish in neighbouring areas with significant Malay populations such as Singapore;[7] Brunei, and Southern Thailand. In Indonesia it can be found in several parts of Sumatra; especially Malay realm of Riau, Riau Islands and Medan.[8] Nasi lemak can also be found in the Bangsamoro region of Mindanao prepared by Filipino Moro. It is considered one of the most famous dishes for a Malay-style breakfast. It is not to be confused with nasi dagang, sold in the Malaysian east coast states of Terengganu and Kelantan (and its kindred region in Pattani, Yala and Narathiwat in Thailand and Natuna in Indonesia), although both dishes are often served for breakfast. However, because nasi lemak can be served in a variety of ways, it is often eaten throughout the day.",
+        "question": "What is the national dish of Malaysia?",
+        "label": "Nasi lemak"
+    }
+]

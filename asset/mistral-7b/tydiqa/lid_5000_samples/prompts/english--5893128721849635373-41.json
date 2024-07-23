@@ -1,0 +1,15 @@
+[
+    [
+        2242,
+        [],
+        "Alfred Whitmore and assistant Krishnaswami"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pathologist Alfred Whitmore and assistant Krishnaswami first reported the disease among beggars and morphine addicts at autopsy in Rangoon, present-day Myanmar, in a report published in 1912.[122] They distinguished it from glanders, a disease of humans and animals that is similar in presentation, but caused by a different micro-organism. B.pseudomallei, also known as the Whitmore bacillus, was identified in 1917 in Kuala Lumpur.[123] Arthur Conan Doyle may have read the 1912 report before writing a short story that involved the fictitious tropical disease \"tapanuli fever\" in a Sherlock Holmes adventure.[124] Question: Who identified melioidosis? Answer:",
+    {
+        "id": "english--5893128721849635373-41",
+        "lang": "english",
+        "summary": "Pathologist Alfred Whitmore and assistant Krishnaswami first reported the disease among beggars and morphine addicts at autopsy in Rangoon, present-day Myanmar, in a report published in 1912.[122] They distinguished it from glanders, a disease of humans and animals that is similar in presentation, but caused by a different micro-organism. B.pseudomallei, also known as the Whitmore bacillus, was identified in 1917 in Kuala Lumpur.[123] Arthur Conan Doyle may have read the 1912 report before writing a short story that involved the fictitious tropical disease \"tapanuli fever\" in a Sherlock Holmes adventure.[124]",
+        "question": "Who identified melioidosis?",
+        "label": "Alfred Whitmore and assistant Krishnaswami"
+    }
+]

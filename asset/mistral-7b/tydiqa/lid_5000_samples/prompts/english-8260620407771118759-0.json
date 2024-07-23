@@ -1,0 +1,15 @@
+[
+    [
+        2091,
+        [],
+        "$777,000 ($2.36million present day amount)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: William Lee Bergstrom (1951\u2013 February 4, 1985 born in Austin, Texas) commonly known as The Suitcase Man or Phantom Gambler, was a gambler and high roller known for placing the largest bet in casino gambling history at the time amounting to $777,000 ($2.36million present day amount) at the Horseshoe Casino, which he won.[1] Bergstrom returned to the Horseshoe three years later in 1984 and placed several additional bets, including a $1 million bet ($2.41million present day value) which he lost.[1] This bet remains as one of the largest bets ever placed against a casino.[2] Question: What is the largest amount of money ever won at a casino? Answer:",
+    {
+        "id": "english-8260620407771118759-0",
+        "lang": "english",
+        "summary": "William Lee Bergstrom (1951\u2013 February 4, 1985 born in Austin, Texas) commonly known as The Suitcase Man or Phantom Gambler, was a gambler and high roller known for placing the largest bet in casino gambling history at the time amounting to $777,000 ($2.36million present day amount) at the Horseshoe Casino, which he won.[1] Bergstrom returned to the Horseshoe three years later in 1984 and placed several additional bets, including a $1 million bet ($2.41million present day value) which he lost.[1] This bet remains as one of the largest bets ever placed against a casino.[2]",
+        "question": "What is the largest amount of money ever won at a casino?",
+        "label": "$777,000 ($2.36million present day amount)"
+    }
+]

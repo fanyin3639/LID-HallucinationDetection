@@ -1,0 +1,15 @@
+[
+    [
+        855,
+        [],
+        "Four Corners region and covers more than 27,000 square miles of land in Arizona, Utah and New Mexico"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: At more than 300,000 enrolled tribal members as of 2015,[1][2] the Navajo Nation is the second largest federally recognized tribe in the U.S. (the Cherokee Nation being the largest) and has the largest reservation in the country. The reservation straddles the Four Corners region and covers more than 27,000 square miles of land in Arizona, Utah and New Mexico. The Navajo language is spoken throughout the region, with most Navajos speaking English, as well. Question: Where is the most Navajo at? Answer:",
+    {
+        "id": "english-7944270414296443558-1",
+        "lang": "english",
+        "summary": "At more than 300,000 enrolled tribal members as of 2015,[1][2] the Navajo Nation is the second largest federally recognized tribe in the U.S. (the Cherokee Nation being the largest) and has the largest reservation in the country. The reservation straddles the Four Corners region and covers more than 27,000 square miles of land in Arizona, Utah and New Mexico. The Navajo language is spoken throughout the region, with most Navajos speaking English, as well.",
+        "question": "Where is the most Navajo at?",
+        "label": "Four Corners region and covers more than 27,000 square miles of land in Arizona, Utah and New Mexico"
+    }
+]

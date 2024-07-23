@@ -1,0 +1,15 @@
+[
+    [
+        675,
+        [],
+        "September 18, 2017"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The company's North American operations filed for Chapter 11 bankruptcy protection on September 18, 2017, and its British operations entered administration in February 2018. In March 2018, the company announced that it would close all of its U.S. and British stores. The British locations closed in April and the U.S. locations in June. Its operations in international markets such as Asia and Africa were not affected, while its operations in Canada, parts of Europe and Asia were sold to third-parties. The Australian wing of Toys \"R\" Us entered voluntary administration on May 22 and closed all of its stores on August 5, 2018. Question: When did Toys R Us file for bankruptcy? Answer:",
+    {
+        "id": "english--2911227977720016887-2",
+        "lang": "english",
+        "summary": "The company's North American operations filed for Chapter 11 bankruptcy protection on September 18, 2017, and its British operations entered administration in February 2018. In March 2018, the company announced that it would close all of its U.S. and British stores. The British locations closed in April and the U.S. locations in June. Its operations in international markets such as Asia and Africa were not affected, while its operations in Canada, parts of Europe and Asia were sold to third-parties. The Australian wing of Toys \"R\" Us entered voluntary administration on May 22 and closed all of its stores on August 5, 2018.",
+        "question": "When did Toys R Us file for bankruptcy?",
+        "label": "September 18, 2017"
+    }
+]

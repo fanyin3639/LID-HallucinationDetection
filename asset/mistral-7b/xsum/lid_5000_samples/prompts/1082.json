@@ -1,0 +1,14 @@
+[
+    [
+        1082,
+        [],
+        "The Campsfield House immigration removal centre in Kidlington near Oxford has been damaged by fire, the Home Office has said."
+    ],
+    "Write a short summary for the following passage:\nTwo detainees have been taken to hospital as a result of the blaze.\nIt happened at about 21:00 BST on Friday with 10 fire engines being called to the scene.\nAbout half of the detainees are being relocated to other centres because of damage to the building, a Home Office spokesman said.\nThe cause of the fire, which broke out in one of the centre's three blocks, is being investigated by police and the fire service.\nCampsfield House is a long-term centre, privately run by MITIE, where men are detained under immigration laws.\nAccording to the UK Border Agency, the centre has bed spaces for 216 male detainees.\nSummary:\n",
+    {
+        "id": 1082,
+        "document": "Two detainees have been taken to hospital as a result of the blaze.\nIt happened at about 21:00 BST on Friday with 10 fire engines being called to the scene.\nAbout half of the detainees are being relocated to other centres because of damage to the building, a Home Office spokesman said.\nThe cause of the fire, which broke out in one of the centre's three blocks, is being investigated by police and the fire service.\nCampsfield House is a long-term centre, privately run by MITIE, where men are detained under immigration laws.\nAccording to the UK Border Agency, the centre has bed spaces for 216 male detainees.",
+        "summary": "The Campsfield House immigration removal centre in Kidlington near Oxford has been damaged by fire, the Home Office has said.",
+        "label": "The Campsfield House immigration removal centre in Kidlington near Oxford has been damaged by fire, the Home Office has said."
+    }
+]

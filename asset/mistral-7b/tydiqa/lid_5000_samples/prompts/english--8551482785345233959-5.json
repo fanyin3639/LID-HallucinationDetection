@@ -1,0 +1,15 @@
+[
+    [
+        130,
+        [],
+        "Speed describes only how fast an object is moving, whereas velocity gives both how fast it is and in which direction the object is moving"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Speed describes only how fast an object is moving, whereas velocity gives both how fast it is and in which direction the object is moving.[1] If a car is said to travel at 60km/h, its speed has been specified. However, if the car is said to move at 60km/h to the north, its velocity has now been specified. Question: What is the difference between speed and velocity? Answer:",
+    {
+        "id": "english--8551482785345233959-5",
+        "lang": "english",
+        "summary": "Speed describes only how fast an object is moving, whereas velocity gives both how fast it is and in which direction the object is moving.[1] If a car is said to travel at 60km/h, its speed has been specified. However, if the car is said to move at 60km/h to the north, its velocity has now been specified.",
+        "question": "What is the difference between speed and velocity?",
+        "label": "Speed describes only how fast an object is moving, whereas velocity gives both how fast it is and in which direction the object is moving"
+    }
+]

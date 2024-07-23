@@ -1,0 +1,15 @@
+[
+    [
+        273,
+        [],
+        "1850 to 1853"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Yuma War was the name given to a series of United States military operations conducted in southern California and what is today southwestern Arizona from 1850 to 1853. The Yumans were the primary opponent of the United States Army, though engagements were fought between the Americans and other native groups in the region. Conflict generally took the form of guerrilla warfare, and, over the course of three years, the army engaged in pursuing unfriendly natives, protecting American settlers crossing the Colorado River and preventing conflict between the native tribes. A peace treaty in summer of 1853 was signed, ending hostilities between the Yuma and the United States, but it sparked a short war between the Yuma and the Cocopah. During the conflict, the historic Fort Yuma was constructed and became an important outpost on the frontier. Question: How long did The Yuma War go on for? Answer:",
+    {
+        "id": "english--2925579256646993175-0",
+        "lang": "english",
+        "summary": "The Yuma War was the name given to a series of United States military operations conducted in southern California and what is today southwestern Arizona from 1850 to 1853. The Yumans were the primary opponent of the United States Army, though engagements were fought between the Americans and other native groups in the region. Conflict generally took the form of guerrilla warfare, and, over the course of three years, the army engaged in pursuing unfriendly natives, protecting American settlers crossing the Colorado River and preventing conflict between the native tribes. A peace treaty in summer of 1853 was signed, ending hostilities between the Yuma and the United States, but it sparked a short war between the Yuma and the Cocopah. During the conflict, the historic Fort Yuma was constructed and became an important outpost on the frontier.",
+        "question": "How long did The Yuma War go on for?",
+        "label": "1850 to 1853"
+    }
+]

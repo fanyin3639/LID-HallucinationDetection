@@ -1,0 +1,15 @@
+[
+    [
+        2369,
+        [],
+        "Debra Morgan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Jennifer Leann Carpenter (born December 7, 1979) is an American actress. She is known for playing Debra Morgan, the adoptive sister of the title character of the Showtime series Dexter, for which she earned a Saturn Award in 2009, and also for playing Rebecca Harris in the CBS television series Limitless. Question: Who is Dexter's sister? Answer:",
+    {
+        "id": "english--6227026428531932726-0",
+        "lang": "english",
+        "summary": "Jennifer Leann Carpenter (born December 7, 1979) is an American actress. She is known for playing Debra Morgan, the adoptive sister of the title character of the Showtime series Dexter, for which she earned a Saturn Award in 2009, and also for playing Rebecca Harris in the CBS television series Limitless.",
+        "question": "Who is Dexter's sister?",
+        "label": "Debra Morgan"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1076,
+        [],
+        "AMC Networks Inc"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: AMC Networks Inc. is an American entertainment company headquartered in 11 Penn Plaza, New York, that owns and operates the cable channels AMC (its eponymous brand), IFC, WE tv, BBC America (through a joint venture with BBC Studios), and SundanceTV; the art house movie theater IFC Center in New York City; the independent film company IFC Films; and premium streaming services Sundance Now and Shudder. In addition, the company operates AMC Networks International, its global division. Question: Who owns the AMC network? Answer:",
+    {
+        "id": "english-6666629481000875286-0",
+        "lang": "english",
+        "summary": "AMC Networks Inc. is an American entertainment company headquartered in 11 Penn Plaza, New York, that owns and operates the cable channels AMC (its eponymous brand), IFC, WE tv, BBC America (through a joint venture with BBC Studios), and SundanceTV; the art house movie theater IFC Center in New York City; the independent film company IFC Films; and premium streaming services Sundance Now and Shudder. In addition, the company operates AMC Networks International, its global division.",
+        "question": "Who owns the AMC network?",
+        "label": "AMC Networks Inc"
+    }
+]

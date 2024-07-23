@@ -1,0 +1,15 @@
+[
+    [
+        2931,
+        [],
+        "a limited  drainage basin that normally retains water and allows no outflow to other external bodies of water, such as rivers or oceans, but converges instead into lakes or swamps, permanent or seasonal, that equilibrate through evaporation"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: An endorheic basin (also endoreic basin or endorreic basin) (from the Ancient Greek: \u1f14\u03bd\u03b4\u03bf\u03bd, \u00e9ndon, \"within\" and \u1fe5\u03b5\u1fd6\u03bd, rhe\u00een, \"to flow\") is a limited  drainage basin that normally retains water and allows no outflow to other external bodies of water, such as rivers or oceans, but converges instead into lakes or swamps, permanent or seasonal, that equilibrate through evaporation. Such a basin may also be referred to as a closed or terminal basin or as an internal drainage system or interior drainage basin. Question: What does endorheic mean? Answer:",
+    {
+        "id": "english--2952063103393053447-0",
+        "lang": "english",
+        "summary": "An endorheic basin (also endoreic basin or endorreic basin) (from the Ancient Greek: \u1f14\u03bd\u03b4\u03bf\u03bd, \u00e9ndon, \"within\" and \u1fe5\u03b5\u1fd6\u03bd, rhe\u00een, \"to flow\") is a limited  drainage basin that normally retains water and allows no outflow to other external bodies of water, such as rivers or oceans, but converges instead into lakes or swamps, permanent or seasonal, that equilibrate through evaporation. Such a basin may also be referred to as a closed or terminal basin or as an internal drainage system or interior drainage basin.",
+        "question": "What does endorheic mean?",
+        "label": "a limited  drainage basin that normally retains water and allows no outflow to other external bodies of water, such as rivers or oceans, but converges instead into lakes or swamps, permanent or seasonal, that equilibrate through evaporation"
+    }
+]

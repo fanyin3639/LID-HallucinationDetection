@@ -1,0 +1,15 @@
+[
+    [
+        2974,
+        [],
+        "\"Northern Capital\""
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Chinese characters \u5317 (\"north\") and \u4eac (\"capital\") together mean the \"Northern Capital\". The name was first used during the reign of the Ming dynasty's Yongle Emperor, who made his northern fief a second capital along with Nanjing (\u5357\u4eac, the \"Southern Capital\") in 1403 after successfully dethroning his nephew during the Jingnan Campaign. The name was restored in 1949 at the founding of the People's Republic of China. Question: What does the name Beijing mean? Answer:",
+    {
+        "id": "english-7004245996418853971-2",
+        "lang": "english",
+        "summary": "The Chinese characters \u5317 (\"north\") and \u4eac (\"capital\") together mean the \"Northern Capital\". The name was first used during the reign of the Ming dynasty's Yongle Emperor, who made his northern fief a second capital along with Nanjing (\u5357\u4eac, the \"Southern Capital\") in 1403 after successfully dethroning his nephew during the Jingnan Campaign. The name was restored in 1949 at the founding of the People's Republic of China.",
+        "question": "What does the name Beijing mean?",
+        "label": "\"Northern Capital\""
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        156,
+        [],
+        "24 January 2019"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Hottest temperature: 46.6\u00b0C (115.9\u00b0F), 24 January 2019 [9] [nb 1] Coldest temperature: \u22120.4\u00b0C (31.3\u00b0F), 8 June 1982 Hottest Minimum: 33.9\u00b0C (93.0\u00b0F), 29 January 2009 Coldest Maximum: 8.3\u00b0C (46.9\u00b0F), 29 June 1922 Wettest month: 217.9mm (8.58in), June 1916 Wettest 24 hours: 141.5mm (5.57in), 7 February 1925 Question: What is the hottest day on record in Adelaide? Answer:",
+    {
+        "id": "english--942827082784994750-4",
+        "lang": "english",
+        "summary": "Hottest temperature: 46.6\u00b0C (115.9\u00b0F), 24 January 2019 [9] [nb 1] Coldest temperature: \u22120.4\u00b0C (31.3\u00b0F), 8 June 1982 Hottest Minimum: 33.9\u00b0C (93.0\u00b0F), 29 January 2009 Coldest Maximum: 8.3\u00b0C (46.9\u00b0F), 29 June 1922 Wettest month: 217.9mm (8.58in), June 1916 Wettest 24 hours: 141.5mm (5.57in), 7 February 1925",
+        "question": "What is the hottest day on record in Adelaide?",
+        "label": "24 January 2019"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1894,
+        [],
+        "3,800 square kilometres"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Hainaut province is divided into 7 administrative districts (arrondissements), subdivided into a total of 69 municipalities. It has an area of 3,800 square kilometres (1,500sqmi). Question: How large is the Hainaut province in France? Answer:",
+    {
+        "id": "english--8292276647253952634-4",
+        "lang": "english",
+        "summary": "Hainaut province is divided into 7 administrative districts (arrondissements), subdivided into a total of 69 municipalities. It has an area of 3,800 square kilometres (1,500sqmi).",
+        "question": "How large is the Hainaut province in France?",
+        "label": "3,800 square kilometres"
+    }
+]

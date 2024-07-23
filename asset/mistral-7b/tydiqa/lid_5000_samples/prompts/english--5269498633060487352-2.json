@@ -1,0 +1,15 @@
+[
+    [
+        1371,
+        [],
+        "cyber attacks on the German parliament, the French television station TV5Monde, the White House, NATO, the Democratic National Committee, Organization for Security and Co-operation in Europe and the campaign of French presidential candidate Emmanuel Macron"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Likely operating since the mid-2000s, Fancy Bear's methods are consistent with the capabilities of state actors. The group targets government, military, and security organizations, especially Transcaucasian and NATO-aligned states. Fancy Bear is thought to be responsible for cyber attacks on the German parliament, the French television station TV5Monde, the White House, NATO, the Democratic National Committee, Organization for Security and Co-operation in Europe and the campaign of French presidential candidate Emmanuel Macron.[11] Question: What has Fancy Bear done? Answer:",
+    {
+        "id": "english--5269498633060487352-2",
+        "lang": "english",
+        "summary": "Likely operating since the mid-2000s, Fancy Bear's methods are consistent with the capabilities of state actors. The group targets government, military, and security organizations, especially Transcaucasian and NATO-aligned states. Fancy Bear is thought to be responsible for cyber attacks on the German parliament, the French television station TV5Monde, the White House, NATO, the Democratic National Committee, Organization for Security and Co-operation in Europe and the campaign of French presidential candidate Emmanuel Macron.[11]",
+        "question": "What has Fancy Bear done?",
+        "label": "cyber attacks on the German parliament, the French television station TV5Monde, the White House, NATO, the Democratic National Committee, Organization for Security and Co-operation in Europe and the campaign of French presidential candidate Emmanuel Macron"
+    }
+]

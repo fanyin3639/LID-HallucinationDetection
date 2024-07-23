@@ -1,0 +1,15 @@
+[
+    [
+        2602,
+        [],
+        "ranging from 0.01 to 10 nanometers"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: X-rays make up X-radiation, a form of electromagnetic radiation. Most X-rays have a wavelength ranging from 0.01 to 10 nanometers, corresponding to frequencies in the range 30 petahertz to 30 exahertz (3\u00d71016 Hz to 3\u00d71019 Hz) and energies in the range 100 eV to 100 keV. X-ray wavelengths are shorter than those of UV rays and typically longer than those of gamma rays. In many languages, X-radiation is referred to with terms meaning R\u00f6ntgen radiation, after the German scientist Wilhelm R\u00f6ntgen who discovered these on November 8, 1895,[1] who usually is credited as its discoverer, and who named it X-radiation to signify an unknown type of radiation.[2] Spelling of X-ray(s) in the English language includes the variants x-ray(s), xray(s), and X ray(s).[3] Question: What is the wavelength of X-rays? Answer:",
+    {
+        "id": "english-6700668853947933710-0",
+        "lang": "english",
+        "summary": "X-rays make up X-radiation, a form of electromagnetic radiation. Most X-rays have a wavelength ranging from 0.01 to 10 nanometers, corresponding to frequencies in the range 30 petahertz to 30 exahertz (3\u00d71016 Hz to 3\u00d71019 Hz) and energies in the range 100 eV to 100 keV. X-ray wavelengths are shorter than those of UV rays and typically longer than those of gamma rays. In many languages, X-radiation is referred to with terms meaning R\u00f6ntgen radiation, after the German scientist Wilhelm R\u00f6ntgen who discovered these on November 8, 1895,[1] who usually is credited as its discoverer, and who named it X-radiation to signify an unknown type of radiation.[2] Spelling of X-ray(s) in the English language includes the variants x-ray(s), xray(s), and X ray(s).[3]",
+        "question": "What is the wavelength of X-rays?",
+        "label": "ranging from 0.01 to 10 nanometers"
+    }
+]

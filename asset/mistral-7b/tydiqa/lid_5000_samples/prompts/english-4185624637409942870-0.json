@@ -1,0 +1,15 @@
+[
+    [
+        1008,
+        [],
+        "1986"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pixar Animation Studios, commonly referred to as Pixar (/\u02c8p\u026aks\u0251\u02d0r/), is an American computer animation film studio based in Emeryville, California, that is a subsidiary of Walt Disney Studios, owned by the Walt Disney Company. Pixar began in 1979 as the Graphics Group, part of the Lucasfilm computer division, before its spin-out as a corporation in 1986, with funding by Apple Inc. co-founder Steve Jobs, who became the majority shareholder.[2] Disney purchased Pixar in 2006 at a valuation of $7.4 billion by converting each share of Pixar stock to 2.3 shares of Disney stock,[4][5] a transaction that resulted in Jobs becoming Disney's largest single shareholder at the time. Pixar is best known for CGI-animated feature films created with RenderMan, Pixar's own implementation of the industry-standard RenderMan image-rendering application programming interface, used to generate high-quality images. Question: When was Pixar founded? Answer:",
+    {
+        "id": "english-4185624637409942870-0",
+        "lang": "english",
+        "summary": "Pixar Animation Studios, commonly referred to as Pixar (/\u02c8p\u026aks\u0251\u02d0r/), is an American computer animation film studio based in Emeryville, California, that is a subsidiary of Walt Disney Studios, owned by the Walt Disney Company. Pixar began in 1979 as the Graphics Group, part of the Lucasfilm computer division, before its spin-out as a corporation in 1986, with funding by Apple Inc. co-founder Steve Jobs, who became the majority shareholder.[2] Disney purchased Pixar in 2006 at a valuation of $7.4 billion by converting each share of Pixar stock to 2.3 shares of Disney stock,[4][5] a transaction that resulted in Jobs becoming Disney's largest single shareholder at the time. Pixar is best known for CGI-animated feature films created with RenderMan, Pixar's own implementation of the industry-standard RenderMan image-rendering application programming interface, used to generate high-quality images.",
+        "question": "When was Pixar founded?",
+        "label": "1986"
+    }
+]

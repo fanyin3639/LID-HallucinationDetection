@@ -1,0 +1,14 @@
+[
+    [
+        1627,
+        [],
+        "Coventry City's Andy Rose has been released from hospital after being hurt in a clash of heads against Shrewsbury."
+    ],
+    "Write a short summary for the following passage:\nRose collided with team-mate Nathan Clarke soon after kick-off, causing a 19-minute delay at Greenhous Meadow.\nThe midfielder was stretchered off in a neck brace and taken to hospital for assessment, but returned for the closing stages of the 0-0 draw.\nAfter the game, Coventry confirmed that Rose had re-joined the Sky Blues' squad and was suffering from concussion.\nSummary:\n",
+    {
+        "id": 1627,
+        "document": "Rose collided with team-mate Nathan Clarke soon after kick-off, causing a 19-minute delay at Greenhous Meadow.\nThe midfielder was stretchered off in a neck brace and taken to hospital for assessment, but returned for the closing stages of the 0-0 draw.\nAfter the game, Coventry confirmed that Rose had re-joined the Sky Blues' squad and was suffering from concussion.",
+        "summary": "Coventry City's Andy Rose has been released from hospital after being hurt in a clash of heads against Shrewsbury.",
+        "label": "Coventry City's Andy Rose has been released from hospital after being hurt in a clash of heads against Shrewsbury."
+    }
+]

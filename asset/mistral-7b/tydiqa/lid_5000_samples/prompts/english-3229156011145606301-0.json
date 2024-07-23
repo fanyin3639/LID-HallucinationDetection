@@ -1,0 +1,15 @@
+[
+    [
+        1328,
+        [],
+        "twenty-seven"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: This is a list of episodes of Gurren Lagann, a Japanese anime series produced by Gainax and directed by Hiroyuki Imaishi. The anime premiered on the TV Tokyo and other TXN stations on April 1, 2007 containing twenty-seven episodes. The English version began to air on Sci-Fi's Ani-Monday block, airing two episodes a week, starting July 28, 2008. The English version also began airing on Animax across its English-language networks in Southeast Asia and South Asia, starting on May 22, 2009. In Canada, it airs on Super Channel. Question: How many episodes did Tengen Toppa Gurren Lagann have? Answer:",
+    {
+        "id": "english-3229156011145606301-0",
+        "lang": "english",
+        "summary": "This is a list of episodes of Gurren Lagann, a Japanese anime series produced by Gainax and directed by Hiroyuki Imaishi. The anime premiered on the TV Tokyo and other TXN stations on April 1, 2007 containing twenty-seven episodes. The English version began to air on Sci-Fi's Ani-Monday block, airing two episodes a week, starting July 28, 2008. The English version also began airing on Animax across its English-language networks in Southeast Asia and South Asia, starting on May 22, 2009. In Canada, it airs on Super Channel.",
+        "question": "How many episodes did Tengen Toppa Gurren Lagann have?",
+        "label": "twenty-seven"
+    }
+]

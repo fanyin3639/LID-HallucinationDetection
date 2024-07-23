@@ -1,0 +1,15 @@
+[
+    [
+        3038,
+        [],
+        "1956"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The National Broadcasting Company (NBC) is an American English-language commercial terrestrial television network that is a flagship property of NBCUniversal, a subsidiary of Comcast. The network is headquartered at 30 Rockefeller Plaza in New York City, with additional major offices near Los Angeles (at 10 Universal City Plaza), Chicago (at the NBC Tower) and Philadelphia (at the Comcast Technology Center). The network is one of the Big Three television networks. NBC is sometimes referred to as the \"Peacock Network\", in reference to its stylized peacock logo, introduced in 1956 to promote the company's innovations in early color broadcasting. It became the network's official emblem in 1979. Question: When did NBC begin? Answer:",
+    {
+        "id": "english-599343746506234988-0",
+        "lang": "english",
+        "summary": "The National Broadcasting Company (NBC) is an American English-language commercial terrestrial television network that is a flagship property of NBCUniversal, a subsidiary of Comcast. The network is headquartered at 30 Rockefeller Plaza in New York City, with additional major offices near Los Angeles (at 10 Universal City Plaza), Chicago (at the NBC Tower) and Philadelphia (at the Comcast Technology Center). The network is one of the Big Three television networks. NBC is sometimes referred to as the \"Peacock Network\", in reference to its stylized peacock logo, introduced in 1956 to promote the company's innovations in early color broadcasting. It became the network's official emblem in 1979.",
+        "question": "When did NBC begin?",
+        "label": "1956"
+    }
+]

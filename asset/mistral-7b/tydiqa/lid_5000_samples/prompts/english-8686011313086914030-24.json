@@ -1,0 +1,15 @@
+[
+    [
+        2355,
+        [],
+        "1984 Jeep Cherokee (XJ)"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to Robert Casey, the transportation curator at the Henry Ford Museum, the 1984 Jeep Cherokee (XJ) was the first true sport utility vehicle in the modern understanding of the term,[44] although Jeep already used the term literally in their 1974 brochures, for the original SJ Cherokee.[30][31] Developed under the leadership of AMC's Fran\u00e7ois Castaing and marketed to urban families as a substitute for a traditional car (and especially station wagons, which were still fairly popular at the time), the Cherokee had four-wheel drive in a more manageable size (compared to the full-size Wagoneer) as well as a plush interior resembling a station wagon.[44] With the introduction of more luxurious models and a much more powerful 4-liter engine, sales of the Cherokee increased even higher as the price of gasoline fell, and the term \"sport utility vehicle\" began to be used in the national press for the first time.[44] \"The advent and immediate success of AMC/Jeep's compact four-door Cherokee turned the truck industry upside down.\"[45] Question: What was the first car classified as an SUV? Answer:",
+    {
+        "id": "english-8686011313086914030-24",
+        "lang": "english",
+        "summary": "According to Robert Casey, the transportation curator at the Henry Ford Museum, the 1984 Jeep Cherokee (XJ) was the first true sport utility vehicle in the modern understanding of the term,[44] although Jeep already used the term literally in their 1974 brochures, for the original SJ Cherokee.[30][31] Developed under the leadership of AMC's Fran\u00e7ois Castaing and marketed to urban families as a substitute for a traditional car (and especially station wagons, which were still fairly popular at the time), the Cherokee had four-wheel drive in a more manageable size (compared to the full-size Wagoneer) as well as a plush interior resembling a station wagon.[44] With the introduction of more luxurious models and a much more powerful 4-liter engine, sales of the Cherokee increased even higher as the price of gasoline fell, and the term \"sport utility vehicle\" began to be used in the national press for the first time.[44] \"The advent and immediate success of AMC/Jeep's compact four-door Cherokee turned the truck industry upside down.\"[45]",
+        "question": "What was the first car classified as an SUV?",
+        "label": "1984 Jeep Cherokee (XJ)"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        1844,
+        [],
+        "(Close): Wall Street stocks had a second day of gains spurred by comments from US Federal Reserve chair Janet Yellen."
+    ],
+    "Write a short summary for the following passage:\nThe Dow Industrials climbed 83.55 points to 17,716.66.\nThe S&P 500 index rose 8.94 points to 2,063.95, while the Nasdaq index was up 22.67 to 4,869.29.\nOn Tuesday, Fed chair Janet Yellen said the central bank should \"proceed cautiously\" when it came to raising interest rates.\n\"Yellen's comments allowed investors to breathe a sigh of relief that the Fed will not be raising rates in April,\" said Sam Stovall, US equity strategist at S&P Global Market Intelligence in New York.\nShares in Apple rose 1.8% after analysts at Cowen raised their target price for the company's shares.\nYoga-wear maker Lululemon jumped 10.7% after it reported better than expected profits.\nUS insurer MetLife rose 5.2% after a court ruled that regulators could not label it \"too big to fail\".\nThe decision also boosted the shares of AIG 2.1% and Prudential Financial 2%.\nShares in Boeing fell 1.8% after it announced that 4,500 jobs would be cut.\nSummary:\n",
+    {
+        "id": 1844,
+        "document": "The Dow Industrials climbed 83.55 points to 17,716.66.\nThe S&P 500 index rose 8.94 points to 2,063.95, while the Nasdaq index was up 22.67 to 4,869.29.\nOn Tuesday, Fed chair Janet Yellen said the central bank should \"proceed cautiously\" when it came to raising interest rates.\n\"Yellen's comments allowed investors to breathe a sigh of relief that the Fed will not be raising rates in April,\" said Sam Stovall, US equity strategist at S&P Global Market Intelligence in New York.\nShares in Apple rose 1.8% after analysts at Cowen raised their target price for the company's shares.\nYoga-wear maker Lululemon jumped 10.7% after it reported better than expected profits.\nUS insurer MetLife rose 5.2% after a court ruled that regulators could not label it \"too big to fail\".\nThe decision also boosted the shares of AIG 2.1% and Prudential Financial 2%.\nShares in Boeing fell 1.8% after it announced that 4,500 jobs would be cut.",
+        "summary": "(Close): Wall Street stocks had a second day of gains spurred by comments from US Federal Reserve chair Janet Yellen.",
+        "label": "(Close): Wall Street stocks had a second day of gains spurred by comments from US Federal Reserve chair Janet Yellen."
+    }
+]

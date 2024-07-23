@@ -1,0 +1,15 @@
+[
+    [
+        1802,
+        [],
+        "unknown"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The cause of fibromyalgia is unknown; however, it is believed to involve a combination of genetic and environmental factors, with each playing a substantial role.[4][5] The condition runs in families and many genes are believed to be involved.[8] Environmental factors may include psychological stress, trauma and certain infections.[4] The pain appears to result from processes in the central nervous system and the condition is referred to as a \"central sensitization syndrome\".[3][4] Fibromyalgia is recognized as a disorder by the US National Institutes of Health and the American College of Rheumatology.[5][9] There is no specific diagnostic test.[5] Diagnosis involves first ruling out other potential causes and verifying that a set number of symptoms are present.[4][5] Question: How is Fibromyalgia caused? Answer:",
+    {
+        "id": "english-3615403744119073271-1",
+        "lang": "english",
+        "summary": "The cause of fibromyalgia is unknown; however, it is believed to involve a combination of genetic and environmental factors, with each playing a substantial role.[4][5] The condition runs in families and many genes are believed to be involved.[8] Environmental factors may include psychological stress, trauma and certain infections.[4] The pain appears to result from processes in the central nervous system and the condition is referred to as a \"central sensitization syndrome\".[3][4] Fibromyalgia is recognized as a disorder by the US National Institutes of Health and the American College of Rheumatology.[5][9] There is no specific diagnostic test.[5] Diagnosis involves first ruling out other potential causes and verifying that a set number of symptoms are present.[4][5]",
+        "question": "How is Fibromyalgia caused?",
+        "label": "unknown"
+    }
+]

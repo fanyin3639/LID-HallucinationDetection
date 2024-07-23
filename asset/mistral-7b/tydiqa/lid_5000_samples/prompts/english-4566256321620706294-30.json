@@ -1,0 +1,15 @@
+[
+    [
+        321,
+        [],
+        "early 1967"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: After their tour with the Beatles ended, and \"I Can Hear Music\" failed to make an impact, the Ronettes left for a tour in Germany in early 1967, after which they agreed to break up and go their separate ways. Soon afterward, Nedra Talley married her boyfriend Scott Ross, Ronnie Bennett married Phil Spector, and Estelle Bennett settled down with Joe Dong, a long-time boyfriend. Question: When did the The Ronettes break up? Answer:",
+    {
+        "id": "english-4566256321620706294-30",
+        "lang": "english",
+        "summary": "After their tour with the Beatles ended, and \"I Can Hear Music\" failed to make an impact, the Ronettes left for a tour in Germany in early 1967, after which they agreed to break up and go their separate ways. Soon afterward, Nedra Talley married her boyfriend Scott Ross, Ronnie Bennett married Phil Spector, and Estelle Bennett settled down with Joe Dong, a long-time boyfriend.",
+        "question": "When did the The Ronettes break up?",
+        "label": "early 1967"
+    }
+]

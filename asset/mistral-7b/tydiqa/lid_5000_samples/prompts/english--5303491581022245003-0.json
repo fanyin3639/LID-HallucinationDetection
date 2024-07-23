@@ -1,0 +1,15 @@
+[
+    [
+        1197,
+        [],
+        "Robert Kirkman"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Walking Dead [1]is a black-and-white comic book series created by writer Robert Kirkman with art by Tony Moore.[2][3] It focuses on Rick Grimes, a Kentucky deputy who is shot in the line of duty and awakens from a coma in a zombie apocalypse that has resulted in a state-wide quarantine. After joining with other ones, he gradually takes on the role of leader of a community as it struggles to survive the zombie apocalypse. Question: Who created The Walking Dead comic books? Answer:",
+    {
+        "id": "english--5303491581022245003-0",
+        "lang": "english",
+        "summary": "The Walking Dead [1]is a black-and-white comic book series created by writer Robert Kirkman with art by Tony Moore.[2][3] It focuses on Rick Grimes, a Kentucky deputy who is shot in the line of duty and awakens from a coma in a zombie apocalypse that has resulted in a state-wide quarantine. After joining with other ones, he gradually takes on the role of leader of a community as it struggles to survive the zombie apocalypse.",
+        "question": "Who created The Walking Dead comic books?",
+        "label": "Robert Kirkman"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1000,
+        [],
+        "Koji Kondo"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Koji Kondo(\u8fd1\u85e4 \u6d69\u6cbb,Kond\u014d K\u014dji, born August 13, 1961) is a Japanese music composer, pianist, and sound director who works for the video game company Nintendo. He is best known for his involvement in numerous contributions in the Mario and The Legend of Zelda series of video games, among others produced by the company. Kondo was originally hired by Nintendo in 1984, becoming the first person hired by them to specialize in musical composition for games. Shortly after, Kondo was assigned as the sound designer on the 1985 game Super Mario Bros. His sound design for the game, more specifically the musical theme for the overworld, have often been cited as among the most memorable in video games. Question: Who wrote the Zelda theme song? Answer:",
+    {
+        "id": "english-4684701369318366401-0",
+        "lang": "english",
+        "summary": "Koji Kondo(\u8fd1\u85e4 \u6d69\u6cbb,Kond\u014d K\u014dji, born August 13, 1961) is a Japanese music composer, pianist, and sound director who works for the video game company Nintendo. He is best known for his involvement in numerous contributions in the Mario and The Legend of Zelda series of video games, among others produced by the company. Kondo was originally hired by Nintendo in 1984, becoming the first person hired by them to specialize in musical composition for games. Shortly after, Kondo was assigned as the sound designer on the 1985 game Super Mario Bros. His sound design for the game, more specifically the musical theme for the overworld, have often been cited as among the most memorable in video games.",
+        "question": "Who wrote the Zelda theme song?",
+        "label": "Koji Kondo"
+    }
+]

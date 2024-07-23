@@ -1,0 +1,15 @@
+[
+    [
+        798,
+        [],
+        "2001"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Big Brother was the Australian version of the international Big Brother reality television series. Big Brother was produced from 2001 and ran for eight seasons on Network Ten before the network cancelled it in July 2008 after experiencing audience erosion and controversy. Big Brother returned on 13 August 2012 with a ninth season on the Nine Network with repeats on GO!.[1] The tenth season aired on Nine from 29 July 2013 to 6 November 2013 and the eleventh season ran from 8 September 2014 to 26 November 2014. All eleven previous seasons were produced by Endemol Australia and Endemol Southern Star. Question: When did the first episode of Big Brother Australia air? Answer:",
+    {
+        "id": "english--7829994312802576773-0",
+        "lang": "english",
+        "summary": "Big Brother was the Australian version of the international Big Brother reality television series. Big Brother was produced from 2001 and ran for eight seasons on Network Ten before the network cancelled it in July 2008 after experiencing audience erosion and controversy. Big Brother returned on 13 August 2012 with a ninth season on the Nine Network with repeats on GO!.[1] The tenth season aired on Nine from 29 July 2013 to 6 November 2013 and the eleventh season ran from 8 September 2014 to 26 November 2014. All eleven previous seasons were produced by Endemol Australia and Endemol Southern Star.",
+        "question": "When did the first episode of Big Brother Australia air?",
+        "label": "2001"
+    }
+]

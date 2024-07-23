@@ -1,0 +1,15 @@
+[
+    [
+        2574,
+        [],
+        "machine industry or machinery industry"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The machine industry or machinery industry is a subsector of the industry, that produces and maintains machines for consumers, the industry, and most other companies in the economy. Question: Where does the majority of machines come from? Answer:",
+    {
+        "id": "english--3823029043254404888-0",
+        "lang": "english",
+        "summary": "The machine industry or machinery industry is a subsector of the industry, that produces and maintains machines for consumers, the industry, and most other companies in the economy.",
+        "question": "Where does the majority of machines come from?",
+        "label": "machine industry or machinery industry"
+    }
+]

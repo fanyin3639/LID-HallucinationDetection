@@ -1,0 +1,15 @@
+[
+    [
+        924,
+        [],
+        "Pt"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Platinum is a chemical element with symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. Its name is derived from the Spanish term platino, meaning \"little silver\".[3][4] Question: What is the symbol for platinum? Answer:",
+    {
+        "id": "english-6903215309307958171-0",
+        "lang": "english",
+        "summary": "Platinum is a chemical element with symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. Its name is derived from the Spanish term platino, meaning \"little silver\".[3][4]",
+        "question": "What is the symbol for platinum?",
+        "label": "Pt"
+    }
+]

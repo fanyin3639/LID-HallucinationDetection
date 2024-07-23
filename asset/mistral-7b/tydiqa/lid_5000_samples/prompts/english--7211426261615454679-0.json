@@ -1,0 +1,15 @@
+[
+    [
+        62,
+        [],
+        "14"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The minimum driving age is the minimum age at which a person may obtain a driver's licence to lawfully drive a motor vehicle on public roads. That age is determined by and for each jurisdiction and is most commonly set at 18 years of age, but learner drivers may be permitted on the road at an earlier age under supervision. Before reaching the minimum age for a driver's licence or anytime afterwards, the person wanting the licence would normally be tested for driving ability and knowledge of road rules before being issued with a licence, provided he or she is above the minimum driving age. Countries with the lowest driving ages (17 and below) are Canada, El Salvador, Iceland, Israel, Malaysia, Australia, New Zealand, the Philippines, the United Kingdom (Mainland), United States and Zimbabwe. In several jurisdictions in the United States and Canada, drivers can be as young as 14. Question: What's the minimum age for driving? Answer:",
+    {
+        "id": "english--7211426261615454679-0",
+        "lang": "english",
+        "summary": "The minimum driving age is the minimum age at which a person may obtain a driver's licence to lawfully drive a motor vehicle on public roads. That age is determined by and for each jurisdiction and is most commonly set at 18 years of age, but learner drivers may be permitted on the road at an earlier age under supervision. Before reaching the minimum age for a driver's licence or anytime afterwards, the person wanting the licence would normally be tested for driving ability and knowledge of road rules before being issued with a licence, provided he or she is above the minimum driving age. Countries with the lowest driving ages (17 and below) are Canada, El Salvador, Iceland, Israel, Malaysia, Australia, New Zealand, the Philippines, the United Kingdom (Mainland), United States and Zimbabwe. In several jurisdictions in the United States and Canada, drivers can be as young as 14.",
+        "question": "What's the minimum age for driving?",
+        "label": "14"
+    }
+]

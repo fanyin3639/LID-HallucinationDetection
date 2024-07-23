@@ -1,0 +1,15 @@
+[
+    [
+        2016,
+        [],
+        "23-stop"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Dulwich Hill Line (numbered L1 and also known as the Inner West Light Rail) is a light rail line in Sydney, New South Wales, Australia running from Central railway station through the Inner West to Dulwich Hill. The 23-stop, 12.8-kilometre route is currently the only operational line on the Sydney light rail network. Question: How many stops are on the Dulwich Hill Line? Answer:",
+    {
+        "id": "english-7476587314572026532-0",
+        "lang": "english",
+        "summary": "The Dulwich Hill Line (numbered L1 and also known as the Inner West Light Rail) is a light rail line in Sydney, New South Wales, Australia running from Central railway station through the Inner West to Dulwich Hill. The 23-stop, 12.8-kilometre route is currently the only operational line on the Sydney light rail network.",
+        "question": "How many stops are on the Dulwich Hill Line?",
+        "label": "23-stop"
+    }
+]

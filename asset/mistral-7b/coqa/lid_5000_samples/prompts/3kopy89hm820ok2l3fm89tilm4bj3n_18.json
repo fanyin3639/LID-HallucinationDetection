@@ -1,0 +1,19 @@
+[
+    [
+        1710,
+        [],
+        "2008."
+    ],
+    "Answer the following questions:\nContext: Can you imagine keeping an alien dog as a pet? This is what happens in CJ7--a wonderful movie made in China. Maybe some of you saw it. It came out in January, 2008. The movie is about a poor man Ti, his son Dicky and their alien dog CJ7. Dicky, a 10-year-old boy, lives a poor life with his father Ti, a worker. One day,his father finds a ball in the trash and he gives it to Dicky. The ball becomes a cute alien dog. It's a small dog with big eyes and green hair. It can talk and do magic . Soon the dog comes to love Ti and his son. It goes to school with Dicky. It makes him laugh, but it makes trouble, too. When Ti falls off a building and dies, CJ7 saves his life. Because the dog loses all its power , it becomes a doll. But Dicky still wears the dog around his neck. He hopes that CJ7 will come back to life one day.\n'Question': And the year?\n'Answer: '",
+    {
+        "id": "3kopy89hm820ok2l3fm89tilm4bj3n_18",
+        "summary": "Can you imagine keeping an alien dog as a pet? This is what happens in CJ7--a wonderful movie made in China. Maybe some of you saw it. It came out in January, 2008. The movie is about a poor man Ti, his son Dicky and their alien dog CJ7. Dicky, a 10-year-old boy, lives a poor life with his father Ti, a worker. One day,his father finds a ball in the trash and he gives it to Dicky. The ball becomes a cute alien dog. It's a small dog with big eyes and green hair. It can talk and do magic . Soon the dog comes to love Ti and his son. It goes to school with Dicky. It makes him laugh, but it makes trouble, too. When Ti falls off a building and dies, CJ7 saves his life. Because the dog loses all its power , it becomes a doll. But Dicky still wears the dog around his neck. He hopes that CJ7 will come back to life one day.",
+        "question": "And the year?",
+        "label": "2008.",
+        "additional_answers": [
+            "2008",
+            "2008.",
+            "2008"
+        ]
+    }
+]

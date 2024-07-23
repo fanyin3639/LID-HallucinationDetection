@@ -1,0 +1,15 @@
+[
+    [
+        707,
+        [],
+        "Bill de Blasio"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Mayor of New York City is the chief executive of New York City's government, as stipulated by New York City's charter. The current mayor, the 109th in the sequence of regular mayors, is Bill de Blasio, a Democrat. Question: Who is the mayor of NYC? Answer:",
+    {
+        "id": "english-403411122681133670-0",
+        "lang": "english",
+        "summary": "The Mayor of New York City is the chief executive of New York City's government, as stipulated by New York City's charter. The current mayor, the 109th in the sequence of regular mayors, is Bill de Blasio, a Democrat.",
+        "question": "Who is the mayor of NYC?",
+        "label": "Bill de Blasio"
+    }
+]

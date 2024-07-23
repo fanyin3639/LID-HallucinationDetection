@@ -1,0 +1,15 @@
+[
+    [
+        2204,
+        [],
+        "group of provincial English Catholics"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Guy Fawkes (/f\u0254\u02d0ks/; 13 April 1570\u2013 31 January 1606),[lower-alpha 1] also known as Guido Fawkes while fighting for the Spanish, was a member of a group of provincial English Catholics who planned the failed Gunpowder Plot of 1605. He was born and educated in York, England; his father died when Fawkes was eight years old, after which his mother married a recusant Catholic. Question: Who is Guy Fox? Answer:",
+    {
+        "id": "english-1778135190240854955-0",
+        "lang": "english",
+        "summary": "Guy Fawkes (/f\u0254\u02d0ks/; 13 April 1570\u2013 31 January 1606),[lower-alpha 1] also known as Guido Fawkes while fighting for the Spanish, was a member of a group of provincial English Catholics who planned the failed Gunpowder Plot of 1605. He was born and educated in York, England; his father died when Fawkes was eight years old, after which his mother married a recusant Catholic.",
+        "question": "Who is Guy Fox?",
+        "label": "group of provincial English Catholics"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1606,
+        [],
+        "10,994 metres (36,070ft) (\u00b1 40 metres [130ft]"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Mariana Trench or Marianas Trench[1] is located in the western Pacific Ocean approximately 200 kilometres (124mi) east of the Mariana Islands, and has the deepest natural trench in the world. It is a crescent-shaped trough in the Earth's crust averaging about 2,550km (1,580mi) long and 69km (43mi) wide. The maximum known depth is 10,994 metres (36,070ft) (\u00b1 40 metres [130ft]) at the southern end of a small slot-shaped valley in its floor known as the Challenger Deep.[2] However, some unrepeated measurements place the deepest portion at 11,034 metres (36,201ft).[3] For comparison: if Mount Everest were dropped into the trench at this point, its peak would still be over two kilometres (1.2mi) under water.[lower-alpha 1] Question: What is the deepest point in the Pacific Ocean? Answer:",
+    {
+        "id": "english-5168951712371443073-0",
+        "lang": "english",
+        "summary": "The Mariana Trench or Marianas Trench[1] is located in the western Pacific Ocean approximately 200 kilometres (124mi) east of the Mariana Islands, and has the deepest natural trench in the world. It is a crescent-shaped trough in the Earth's crust averaging about 2,550km (1,580mi) long and 69km (43mi) wide. The maximum known depth is 10,994 metres (36,070ft) (\u00b1 40 metres [130ft]) at the southern end of a small slot-shaped valley in its floor known as the Challenger Deep.[2] However, some unrepeated measurements place the deepest portion at 11,034 metres (36,201ft).[3] For comparison: if Mount Everest were dropped into the trench at this point, its peak would still be over two kilometres (1.2mi) under water.[lower-alpha 1]",
+        "question": "What is the deepest point in the Pacific Ocean?",
+        "label": "10,994 metres (36,070ft) (\u00b1 40 metres [130ft]"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    [
+        637,
+        [],
+        "Disturbing happenings."
+    ],
+    "Answer the following questions:\nContext: CHAPTER XVII \n\nTHE MAN AT THE ASTOR \n\nRefraining from discussing with Master Maloney the alleged bone-headedness of girls, Smith went through into the inner room, and found John sitting in the editorial chair, glancing through the latest number of _Peaceful Moments_. \n\n\"Why, John, friend of my youth,\" he said, \"where have you been hiding all this time? I called you up at your office weeks ago, and an acid voice informed me that you were no longer there. Have you been fired?\" \n\n\"Yes,\" said John. \"Why aren't you on the _News_ any more? Nobody seemed to know where you were, till I met Faraday this morning, who told me you were here.\" \n\nSmith was conscious of an impression that in some subtle way John had changed since their last meeting. For a moment he could not have said what had given him this impression. Then it flashed upon him. Before, John had always been, like Mrs. Fezziwig in \"The Christmas Carol,\" one vast substantial smile. He had beamed cheerfully on what to him was evidently the best of all possible worlds. Now, however, it would seem that doubts had occurred to him as to the universal perfection of things. His face was graver. His eyes and his mouth alike gave evidence of disturbing happenings. \n\nIn the matter of confidences, Smith was not a believer in spade-work. If they were offered to him, he was invariably sympathetic, but he never dug for them. That John had something on his mind was obvious, but he intended to allow him, if he wished to reveal it, to select his own time for the revelation. \n'Question': What tidings does he likely bring news of?\n'Answer: '",
+    {
+        "id": "38jbbyetqoadv0zxpsg0mixzwcg4ea_7",
+        "summary": "CHAPTER XVII \n\nTHE MAN AT THE ASTOR \n\nRefraining from discussing with Master Maloney the alleged bone-headedness of girls, Smith went through into the inner room, and found John sitting in the editorial chair, glancing through the latest number of _Peaceful Moments_. \n\n\"Why, John, friend of my youth,\" he said, \"where have you been hiding all this time? I called you up at your office weeks ago, and an acid voice informed me that you were no longer there. Have you been fired?\" \n\n\"Yes,\" said John. \"Why aren't you on the _News_ any more? Nobody seemed to know where you were, till I met Faraday this morning, who told me you were here.\" \n\nSmith was conscious of an impression that in some subtle way John had changed since their last meeting. For a moment he could not have said what had given him this impression. Then it flashed upon him. Before, John had always been, like Mrs. Fezziwig in \"The Christmas Carol,\" one vast substantial smile. He had beamed cheerfully on what to him was evidently the best of all possible worlds. Now, however, it would seem that doubts had occurred to him as to the universal perfection of things. His face was graver. His eyes and his mouth alike gave evidence of disturbing happenings. \n\nIn the matter of confidences, Smith was not a believer in spade-work. If they were offered to him, he was invariably sympathetic, but he never dug for them. That John had something on his mind was obvious, but he intended to allow him, if he wished to reveal it, to select his own time for the revelation. ",
+        "question": "What tidings does he likely bring news of?",
+        "label": "Disturbing happenings.",
+        "additional_answers": [
+            "disturbing",
+            "disturbing happenings.",
+            "unknown"
+        ]
+    }
+]

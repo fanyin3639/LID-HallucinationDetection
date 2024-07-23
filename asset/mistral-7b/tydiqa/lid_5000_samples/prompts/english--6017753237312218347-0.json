@@ -1,0 +1,15 @@
+[
+    [
+        1766,
+        [],
+        "three times"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The history of the Philadelphia Eagles begins in 1933. In their history, the Eagles have appeared in the Super Bowl three times, losing in their first two appearances but winning the third, in 2018. They won three NFL Championships, the precursor to the Super Bowl, in four appearances. Question: How many times have the Philadelphia Eagles played in the Super Bowl? Answer:",
+    {
+        "id": "english--6017753237312218347-0",
+        "lang": "english",
+        "summary": "The history of the Philadelphia Eagles begins in 1933. In their history, the Eagles have appeared in the Super Bowl three times, losing in their first two appearances but winning the third, in 2018. They won three NFL Championships, the precursor to the Super Bowl, in four appearances.",
+        "question": "How many times have the Philadelphia Eagles played in the Super Bowl?",
+        "label": "three times"
+    }
+]

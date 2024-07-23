@@ -1,0 +1,15 @@
+[
+    [
+        13,
+        [],
+        "2007"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The video game series took inspiration from the novel Alamut by the Slovenian writer Vladimir Bartol,[1] while building upon concepts from the Prince of Persia series.[2] It begins with the self-titled game in 2007, and has featured eleven main games. The most recent released game is 2018's Assassin's Creed Odyssey. Question: When was the first Assassin's Creed released? Answer:",
+    {
+        "id": "english-1057178719854760261-1",
+        "lang": "english",
+        "summary": "The video game series took inspiration from the novel Alamut by the Slovenian writer Vladimir Bartol,[1] while building upon concepts from the Prince of Persia series.[2] It begins with the self-titled game in 2007, and has featured eleven main games. The most recent released game is 2018's Assassin's Creed Odyssey.",
+        "question": "When was the first Assassin's Creed released?",
+        "label": "2007"
+    }
+]

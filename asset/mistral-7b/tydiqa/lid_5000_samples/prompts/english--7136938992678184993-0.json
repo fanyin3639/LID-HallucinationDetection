@@ -1,0 +1,15 @@
+[
+    [
+        1027,
+        [],
+        "Luc Antoine Montagnier"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Luc Antoine Montagnier (French:[m\u0254\u0303ta\u0272e]; born 18 August 1932) is a French virologist and joint recipient with Fran\u00e7oise Barr\u00e9-Sinoussi and Harald zur Hausen of the 2008 Nobel Prize in Physiology or Medicine for his discovery of the human immunodeficiency virus (HIV).[2] A long-time researcher at the Pasteur Institute in Paris, he currently works as a full-time professor at Shanghai Jiao Tong University in China.[3] Question: Who discovered the HIV virus? Answer:",
+    {
+        "id": "english--7136938992678184993-0",
+        "lang": "english",
+        "summary": "Luc Antoine Montagnier (French:[m\u0254\u0303ta\u0272e]; born 18 August 1932) is a French virologist and joint recipient with Fran\u00e7oise Barr\u00e9-Sinoussi and Harald zur Hausen of the 2008 Nobel Prize in Physiology or Medicine for his discovery of the human immunodeficiency virus (HIV).[2] A long-time researcher at the Pasteur Institute in Paris, he currently works as a full-time professor at Shanghai Jiao Tong University in China.[3]",
+        "question": "Who discovered the HIV virus?",
+        "label": "Luc Antoine Montagnier"
+    }
+]

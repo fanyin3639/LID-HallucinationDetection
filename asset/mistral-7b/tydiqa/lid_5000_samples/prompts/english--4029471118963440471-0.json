@@ -1,0 +1,15 @@
+[
+    [
+        6,
+        [],
+        "October 2015"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Guitar Hero Live is a music video game developed by FreeStyleGames and published by Activision. It was released for PlayStation 3, PlayStation 4, Wii U, Xbox 360, and Xbox One in October 2015 and to iOS devices including Apple TV in November 2015. As with previous games in the series, the goal is to use a special guitar controller to match fret patterns displayed on a scrolling note pattern on screen in time with the music. Question: When was Guitar Hero Live first released? Answer:",
+    {
+        "id": "english--4029471118963440471-0",
+        "lang": "english",
+        "summary": "Guitar Hero Live is a music video game developed by FreeStyleGames and published by Activision. It was released for PlayStation 3, PlayStation 4, Wii U, Xbox 360, and Xbox One in October 2015 and to iOS devices including Apple TV in November 2015. As with previous games in the series, the goal is to use a special guitar controller to match fret patterns displayed on a scrolling note pattern on screen in time with the music.",
+        "question": "When was Guitar Hero Live first released?",
+        "label": "October 2015"
+    }
+]

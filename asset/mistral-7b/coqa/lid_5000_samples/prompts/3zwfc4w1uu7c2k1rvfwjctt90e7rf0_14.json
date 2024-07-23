@@ -1,0 +1,19 @@
+[
+    [
+        1702,
+        [],
+        "yes"
+    ],
+    "Answer the following questions:\nContext: Myocardial infarction (MI) or acute myocardial infarction (AMI), commonly known as a heart attack, occurs when blood flow stops to a part of the heart causing damage to the heart muscle. The most common symptom is chest pain or discomfort which may travel into the shoulder, arm, back, neck, or jaw. Often it is in the center or left side of the chest and lasts for more than a few minutes. The discomfort may occasionally feel like heartburn. Other symptoms may include shortness of breath, nausea, feeling faint, a cold sweat, or feeling tired. About 30% of people have atypical symptoms, with women more likely than men to present atypically. Among those over 75 years old, about 5% have had an MI with little or no history of symptoms. An MI may cause heart failure, an irregular heartbeat, or cardiac arrest. \n\nMost MIs occur due to coronary artery disease. Risk factors include high blood pressure, smoking, diabetes, lack of exercise, obesity, high blood cholesterol, poor diet, and excessive alcohol intake, among others. The mechanism of an MI often involves the complete blockage of a coronary artery caused by a rupture of an atherosclerotic plaque. MIs are less commonly caused by coronary artery spasms, which may be due to cocaine, significant emotional stress, and extreme cold, among others. A number of tests are useful to help with diagnosis, including electrocardiograms (ECGs), blood tests, and coronary angiography. An ECG may confirm an ST elevation MI if ST elevation is present. Commonly used blood tests include troponin and less often creatine kinase MB.\n'Question': Are there tests around for diagnosis?\n'Answer: '",
+    {
+        "id": "3zwfc4w1uu7c2k1rvfwjctt90e7rf0_14",
+        "summary": "Myocardial infarction (MI) or acute myocardial infarction (AMI), commonly known as a heart attack, occurs when blood flow stops to a part of the heart causing damage to the heart muscle. The most common symptom is chest pain or discomfort which may travel into the shoulder, arm, back, neck, or jaw. Often it is in the center or left side of the chest and lasts for more than a few minutes. The discomfort may occasionally feel like heartburn. Other symptoms may include shortness of breath, nausea, feeling faint, a cold sweat, or feeling tired. About 30% of people have atypical symptoms, with women more likely than men to present atypically. Among those over 75 years old, about 5% have had an MI with little or no history of symptoms. An MI may cause heart failure, an irregular heartbeat, or cardiac arrest. \n\nMost MIs occur due to coronary artery disease. Risk factors include high blood pressure, smoking, diabetes, lack of exercise, obesity, high blood cholesterol, poor diet, and excessive alcohol intake, among others. The mechanism of an MI often involves the complete blockage of a coronary artery caused by a rupture of an atherosclerotic plaque. MIs are less commonly caused by coronary artery spasms, which may be due to cocaine, significant emotional stress, and extreme cold, among others. A number of tests are useful to help with diagnosis, including electrocardiograms (ECGs), blood tests, and coronary angiography. An ECG may confirm an ST elevation MI if ST elevation is present. Commonly used blood tests include troponin and less often creatine kinase MB.",
+        "question": "Are there tests around for diagnosis?",
+        "label": "yes",
+        "additional_answers": [
+            "Yes",
+            "yes",
+            "yes"
+        ]
+    }
+]

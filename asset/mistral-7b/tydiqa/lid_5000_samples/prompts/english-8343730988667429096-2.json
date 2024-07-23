@@ -1,0 +1,15 @@
+[
+    [
+        2947,
+        [],
+        "West Germanic languages"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The West Germanic languages include the three most widely spoken Germanic languages: English with around 360-400 million native speakers;[3][nb 2] German, with over 100 million native speakers;[4] and Dutch, with 24 million native speakers. Other West Germanic languages include Afrikaans, an offshoot of Dutch, with over 7.1 million native speakers;[5] Low German, considered a separate collection of unstandardized dialects, with roughly 0.3 million native speakers and probably 6.7\u201310 million people who can understand it[6][7][8] (at least 5 million in Germany[6] and 1.7 million in the Netherlands);[9] Yiddish, once used by approximately 13 million Jews in pre-World War II Europe[10] and Scots, both with 1.5 million native speakers; Limburgish varieties with roughly 1.3 million speakers along the Dutch\u2013Belgian\u2013German border; and the Frisian languages with over 0.5 million native speakers in the Netherlands and Germany. Question: What language group is German? Answer:",
+    {
+        "id": "english-8343730988667429096-2",
+        "lang": "english",
+        "summary": "The West Germanic languages include the three most widely spoken Germanic languages: English with around 360-400 million native speakers;[3][nb 2] German, with over 100 million native speakers;[4] and Dutch, with 24 million native speakers. Other West Germanic languages include Afrikaans, an offshoot of Dutch, with over 7.1 million native speakers;[5] Low German, considered a separate collection of unstandardized dialects, with roughly 0.3 million native speakers and probably 6.7\u201310 million people who can understand it[6][7][8] (at least 5 million in Germany[6] and 1.7 million in the Netherlands);[9] Yiddish, once used by approximately 13 million Jews in pre-World War II Europe[10] and Scots, both with 1.5 million native speakers; Limburgish varieties with roughly 1.3 million speakers along the Dutch\u2013Belgian\u2013German border; and the Frisian languages with over 0.5 million native speakers in the Netherlands and Germany.",
+        "question": "What language group is German?",
+        "label": "West Germanic languages"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2035,
+        [],
+        "1980"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Following the Lancaster House Agreement of 1979 there was a transition to internationally recognized majority rule in 1980; the United Kingdom ceremonially granted Zimbabwe independence on 18 April that year. In the 2000s Zimbabwe's economy began to deteriorate due to various factors, including, the imposition of economic sanctions by western countries led by the United Kingdom, and also due to wide spread corruption in government. Economic instability caused a lot of Zimbabweans to move overseas or to neighboring countries. Prior to its recognized independence as Zimbabwe in 1980, the nation had been known by several names: Rhodesia, Southern Rhodesia and Zimbabwe Rhodesia. Question: When was Zimbabwe founded? Answer:",
+    {
+        "id": "english-1855414527639191480-1",
+        "lang": "english",
+        "summary": "Following the Lancaster House Agreement of 1979 there was a transition to internationally recognized majority rule in 1980; the United Kingdom ceremonially granted Zimbabwe independence on 18 April that year. In the 2000s Zimbabwe's economy began to deteriorate due to various factors, including, the imposition of economic sanctions by western countries led by the United Kingdom, and also due to wide spread corruption in government. Economic instability caused a lot of Zimbabweans to move overseas or to neighboring countries. Prior to its recognized independence as Zimbabwe in 1980, the nation had been known by several names: Rhodesia, Southern Rhodesia and Zimbabwe Rhodesia.",
+        "question": "When was Zimbabwe founded?",
+        "label": "1980"
+    }
+]

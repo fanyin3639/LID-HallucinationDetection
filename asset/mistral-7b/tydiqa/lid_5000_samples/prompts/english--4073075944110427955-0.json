@@ -1,0 +1,15 @@
+[
+    [
+        2437,
+        [],
+        "a mythical man-eating monster or evil spirit native to the northern forests of the Atlantic Coast and Great Lakes Region of the United States and Canada"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In Algonquian folklore, the wendigo (/\u02c8w\u025bnd\u026a\u0261o\u028a/) or windigo is a mythical man-eating monster or evil spirit native to the northern forests of the Atlantic Coast and Great Lakes Region of the United States and Canada.[1] The wendigo may appear as a monster with some characteristics of a human or as a spirit who has possessed a human being and made them become monstrous. It is historically associated with murder, insatiable greed, and the cultural taboos against such behaviours.[2] Question: What is a Wendigo? Answer:",
+    {
+        "id": "english--4073075944110427955-0",
+        "lang": "english",
+        "summary": "In Algonquian folklore, the wendigo (/\u02c8w\u025bnd\u026a\u0261o\u028a/) or windigo is a mythical man-eating monster or evil spirit native to the northern forests of the Atlantic Coast and Great Lakes Region of the United States and Canada.[1] The wendigo may appear as a monster with some characteristics of a human or as a spirit who has possessed a human being and made them become monstrous. It is historically associated with murder, insatiable greed, and the cultural taboos against such behaviours.[2]",
+        "question": "What is a Wendigo?",
+        "label": "a mythical man-eating monster or evil spirit native to the northern forests of the Atlantic Coast and Great Lakes Region of the United States and Canada"
+    }
+]

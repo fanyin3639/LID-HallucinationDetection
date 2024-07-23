@@ -1,0 +1,14 @@
+[
+    [
+        1277,
+        [],
+        "Customers of Lloyds Banking Group have expressed frustration at a second day of problems with online and app banking."
+    ],
+    "Write a short summary for the following passage:\nThe group. which includes Lloyds Bank, the Halifax and Bank of Scotland, said it had suffered problems across all its brands on Wednesday.\nAt one point the bank assured customers that the glitch had been resolved.\nHowever, customers are reporting that they are unable to access online and app banking on Thursday morning.\nOne customer tweeted: \"Haven't been able to access the site or app for over 36 hours now - is anything being done about this?\"\nThe banking group has not revealed what has caused the problems, but did say it was not the result of a cyber attack.\n\"We're aware of intermittent errors and are looking to resolve ASAP. Apologies for any inconvenience caused,\" it has tweeted.\nLloyds Banking Group has 22 million current account customers. Nearly six million actively used Lloyds Bank digital services, the bank said, with 2.5 million log ons per day, including 75% from a mobile or tablet, at Lloyds Bank specifically.\nSummary:\n",
+    {
+        "id": 1277,
+        "document": "The group. which includes Lloyds Bank, the Halifax and Bank of Scotland, said it had suffered problems across all its brands on Wednesday.\nAt one point the bank assured customers that the glitch had been resolved.\nHowever, customers are reporting that they are unable to access online and app banking on Thursday morning.\nOne customer tweeted: \"Haven't been able to access the site or app for over 36 hours now - is anything being done about this?\"\nThe banking group has not revealed what has caused the problems, but did say it was not the result of a cyber attack.\n\"We're aware of intermittent errors and are looking to resolve ASAP. Apologies for any inconvenience caused,\" it has tweeted.\nLloyds Banking Group has 22 million current account customers. Nearly six million actively used Lloyds Bank digital services, the bank said, with 2.5 million log ons per day, including 75% from a mobile or tablet, at Lloyds Bank specifically.",
+        "summary": "Customers of Lloyds Banking Group have expressed frustration at a second day of problems with online and app banking.",
+        "label": "Customers of Lloyds Banking Group have expressed frustration at a second day of problems with online and app banking."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1103,
+        [],
+        "February 1652"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Scotland under the Commonwealth is the history of the Kingdom of Scotland between the declaration that the kingdom was part of the Commonwealth of England in February 1652, and the Restoration of the monarchy with Scotland regaining its position as an independent kingdom, in June 1660. Question: When did Scotland become part of the Commonwealth? Answer:",
+    {
+        "id": "english-6851493929601471851-0",
+        "lang": "english",
+        "summary": "Scotland under the Commonwealth is the history of the Kingdom of Scotland between the declaration that the kingdom was part of the Commonwealth of England in February 1652, and the Restoration of the monarchy with Scotland regaining its position as an independent kingdom, in June 1660.",
+        "question": "When did Scotland become part of the Commonwealth?",
+        "label": "February 1652"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1460,
+        [],
+        "period between 1991 and 1999"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Serbia was involved in the Yugoslav Wars in the period between 1991 and 1999 - the war in Slovenia, the war in Croatia, the war in Bosnia and the war in Kosovo. During this period from 1991 to 1997, Slobodan Milo\u0161evi\u0107 was the President of Serbia, Serbia was part of the Federal Republic of Yugoslavia, the International Criminal Tribunal for the Former Yugoslavia (ICTY) has established that Milo\u0161evi\u0107 was in control of Serb forces in Bosnia and Herzegovina and Croatia during the wars there from 1991 to 1995.[1][2][3][4][5][6] Question: When was the Serbian War? Answer:",
+    {
+        "id": "english-1719687443208661992-0",
+        "lang": "english",
+        "summary": "Serbia was involved in the Yugoslav Wars in the period between 1991 and 1999 - the war in Slovenia, the war in Croatia, the war in Bosnia and the war in Kosovo. During this period from 1991 to 1997, Slobodan Milo\u0161evi\u0107 was the President of Serbia, Serbia was part of the Federal Republic of Yugoslavia, the International Criminal Tribunal for the Former Yugoslavia (ICTY) has established that Milo\u0161evi\u0107 was in control of Serb forces in Bosnia and Herzegovina and Croatia during the wars there from 1991 to 1995.[1][2][3][4][5][6]",
+        "question": "When was the Serbian War?",
+        "label": "period between 1991 and 1999"
+    }
+]

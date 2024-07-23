@@ -1,0 +1,15 @@
+[
+    [
+        1364,
+        [],
+        "1970"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The collieries were nationalised in 1947 and the sidings connections at the pits followed; the main line railways of Great Britain were nationalised in 1948, but the central section, now known as the Wemyss Private Railway remained in private hands. However the mineral activity in East Fife declined and in 1970 the Wemyss Private Railway closed down. Question: When did the Wemyss Private Railway shut down? Answer:",
+    {
+        "id": "english--7463554504094208838-2",
+        "lang": "english",
+        "summary": "The collieries were nationalised in 1947 and the sidings connections at the pits followed; the main line railways of Great Britain were nationalised in 1948, but the central section, now known as the Wemyss Private Railway remained in private hands. However the mineral activity in East Fife declined and in 1970 the Wemyss Private Railway closed down.",
+        "question": "When did the Wemyss Private Railway shut down?",
+        "label": "1970"
+    }
+]

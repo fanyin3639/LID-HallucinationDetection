@@ -1,0 +1,15 @@
+[
+    [
+        1512,
+        [],
+        "Guildford"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Linnwood is an heritage-listed former residence, school, local history museum and children's home and now historical society located at 11-35 Byron Road, Guildford in the Cumberland Council local government area of New South Wales, Australia. It was designed and built by George McCredie during 1891. It is also known as Linwood Hall, Lynwood Hall and Guildford Truant School. The property is owned by the Cumberland Council and the NSW Office of Environment and Heritage. It was added to the New South Wales State Heritage Register on 21 February 2003.[2] Question: In what city is the Linnwood historical society located? Answer:",
+    {
+        "id": "english-4768771114719623074-0",
+        "lang": "english",
+        "summary": "Linnwood is an heritage-listed former residence, school, local history museum and children's home and now historical society located at 11-35 Byron Road, Guildford in the Cumberland Council local government area of New South Wales, Australia. It was designed and built by George McCredie during 1891. It is also known as Linwood Hall, Lynwood Hall and Guildford Truant School. The property is owned by the Cumberland Council and the NSW Office of Environment and Heritage. It was added to the New South Wales State Heritage Register on 21 February 2003.[2]",
+        "question": "In what city is the Linnwood historical society located?",
+        "label": "Guildford"
+    }
+]

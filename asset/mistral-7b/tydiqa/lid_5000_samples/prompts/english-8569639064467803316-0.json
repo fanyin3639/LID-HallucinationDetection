@@ -1,0 +1,15 @@
+[
+    [
+        1253,
+        [],
+        "The Hongwu Emperor (21 October 1328\u2013 24 June 1398), personal name Zhu Yuanzhang"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Hongwu Emperor (21 October 1328\u2013 24 June 1398), personal name Zhu Yuanzhang (Chinese:\u6731\u5143\u748b; Wade\u2013Giles:Chu Yuan-chang), was the founding emperor of China's Ming dynasty. Question: Who was the first emperor of the Ming Dynasty? Answer:",
+    {
+        "id": "english-8569639064467803316-0",
+        "lang": "english",
+        "summary": "The Hongwu Emperor (21 October 1328\u2013 24 June 1398), personal name Zhu Yuanzhang (Chinese:\u6731\u5143\u748b; Wade\u2013Giles:Chu Yuan-chang), was the founding emperor of China's Ming dynasty.",
+        "question": "Who was the first emperor of the Ming Dynasty?",
+        "label": "The Hongwu Emperor (21 October 1328\u2013 24 June 1398), personal name Zhu Yuanzhang"
+    }
+]

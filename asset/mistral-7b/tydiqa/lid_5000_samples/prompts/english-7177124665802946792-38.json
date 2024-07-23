@@ -1,0 +1,15 @@
+[
+    [
+        344,
+        [],
+        "Thomas Bach"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Thomas Bach was elected President of the IOC on 10 September 2013, as the successor to Jacques Rogge, at the 125th IOC Session in Buenos Aires. Question: Who currently heads the Olympic Committee? Answer:",
+    {
+        "id": "english-7177124665802946792-38",
+        "lang": "english",
+        "summary": "Thomas Bach was elected President of the IOC on 10 September 2013, as the successor to Jacques Rogge, at the 125th IOC Session in Buenos Aires.",
+        "question": "Who currently heads the Olympic Committee?",
+        "label": "Thomas Bach"
+    }
+]

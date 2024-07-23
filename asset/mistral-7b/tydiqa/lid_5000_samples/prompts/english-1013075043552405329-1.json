@@ -1,0 +1,15 @@
+[
+    [
+        1053,
+        [],
+        "a thesis or statement of an idea"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Within Hegelianism, the word dialectic has the specialised meaning of a contradiction between ideas that serves as the determining factor in their relationship. Dialectic comprises three stages of development: first, a thesis or statement of an idea, which gives rise to a second step, a reaction or antithesis that contradicts or negates the thesis, and third, the synthesis, a statement through which the differences between the two points are resolved. Dialectical materialism, a theory or set of theories produced mainly by Karl Marx and Friedrich Engels, adapted the Hegelian dialectic into arguments regarding traditional materialism. Question: What is the first step in the dialectical method? Answer:",
+    {
+        "id": "english-1013075043552405329-1",
+        "lang": "english",
+        "summary": "Within Hegelianism, the word dialectic has the specialised meaning of a contradiction between ideas that serves as the determining factor in their relationship. Dialectic comprises three stages of development: first, a thesis or statement of an idea, which gives rise to a second step, a reaction or antithesis that contradicts or negates the thesis, and third, the synthesis, a statement through which the differences between the two points are resolved. Dialectical materialism, a theory or set of theories produced mainly by Karl Marx and Friedrich Engels, adapted the Hegelian dialectic into arguments regarding traditional materialism.",
+        "question": "What is the first step in the dialectical method?",
+        "label": "a thesis or statement of an idea"
+    }
+]

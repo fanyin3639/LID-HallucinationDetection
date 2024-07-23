@@ -1,0 +1,15 @@
+[
+    [
+        2156,
+        [],
+        "Leif Erikson or Leif Ericson"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Leif Erikson or Leif Ericson[6] (c. 970 \u2013 c. 1020) was a Norse explorer from Iceland.[7] He was the first known European to have set foot on continental North America (excluding Greenland), before Christopher Columbus.[8][9] According to the Sagas of Icelanders, he established a Norse settlement at Vinland, tentatively identified with the Norse L'Anse aux Meadows on the northern tip of Newfoundland in modern-day Canada. Later archaeological evidence suggests that Vinland may have been the areas around the Gulf of St. Lawrence and that the L'Anse aux Meadows site was a ship repair station. Question: Who actually discovered America? Answer:",
+    {
+        "id": "english-717145007593828957-0",
+        "lang": "english",
+        "summary": "Leif Erikson or Leif Ericson[6] (c. 970 \u2013 c. 1020) was a Norse explorer from Iceland.[7] He was the first known European to have set foot on continental North America (excluding Greenland), before Christopher Columbus.[8][9] According to the Sagas of Icelanders, he established a Norse settlement at Vinland, tentatively identified with the Norse L'Anse aux Meadows on the northern tip of Newfoundland in modern-day Canada. Later archaeological evidence suggests that Vinland may have been the areas around the Gulf of St. Lawrence and that the L'Anse aux Meadows site was a ship repair station.",
+        "question": "Who actually discovered America?",
+        "label": "Leif Erikson or Leif Ericson"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        856,
+        [],
+        "Cornelis Drebbel"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Possibly the earliest recorded examples of thermostat control were built by the Dutch innovator Cornelis Drebbel (1572\u20131633) around 1620 in England. He invented a mercury thermostat to regulate the temperature of a chicken incubator.[3] This is one of the first recorded feedback-controlled devices. Question: When were thermostats invented? Answer:",
+    {
+        "id": "english-7085503698037345596-13",
+        "lang": "english",
+        "summary": "Possibly the earliest recorded examples of thermostat control were built by the Dutch innovator Cornelis Drebbel (1572\u20131633) around 1620 in England. He invented a mercury thermostat to regulate the temperature of a chicken incubator.[3] This is one of the first recorded feedback-controlled devices.",
+        "question": "When were thermostats invented?",
+        "label": "Cornelis Drebbel"
+    }
+]

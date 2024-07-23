@@ -1,0 +1,15 @@
+[
+    [
+        1912,
+        [],
+        "70"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: There are 70 primary Interstate Highways in the Interstate Highway System, a network of controlled-access freeways in the United States. They are assigned one- or two-digit route numbers, whereas their associated \"auxiliary\" Interstate Highways receive three-digit route numbers. Typically, odd-numbered Interstates run south-north, with lower numbers in the west and higher numbers in the east; even-numbered Interstates run west-east, with lower numbers in the south and higher numbers in the north. Highways whose route numbers are divisible by \"5\" usually represent major coast-to-coast or border-to-border routes (ex. I-10 travels from Santa Monica, California, to Jacksonville, Florida, traveling from the Pacific to Atlantic oceans). Additionally, auxiliary highways have their numbering system where a different number prefixes the number of its parent highway. Question: How many interstates are there in the USA? Answer:",
+    {
+        "id": "english-6661685060670756078-0",
+        "lang": "english",
+        "summary": "There are 70 primary Interstate Highways in the Interstate Highway System, a network of controlled-access freeways in the United States. They are assigned one- or two-digit route numbers, whereas their associated \"auxiliary\" Interstate Highways receive three-digit route numbers. Typically, odd-numbered Interstates run south-north, with lower numbers in the west and higher numbers in the east; even-numbered Interstates run west-east, with lower numbers in the south and higher numbers in the north. Highways whose route numbers are divisible by \"5\" usually represent major coast-to-coast or border-to-border routes (ex. I-10 travels from Santa Monica, California, to Jacksonville, Florida, traveling from the Pacific to Atlantic oceans). Additionally, auxiliary highways have their numbering system where a different number prefixes the number of its parent highway.",
+        "question": "How many interstates are there in the USA?",
+        "label": "70"
+    }
+]

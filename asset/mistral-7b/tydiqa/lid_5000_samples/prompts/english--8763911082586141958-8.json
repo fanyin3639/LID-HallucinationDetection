@@ -1,0 +1,15 @@
+[
+    [
+        1601,
+        [],
+        "approximately 400"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: There are a large number of different odor receptors, with as many as 1,000 in the mammalian genome which represents approximately 3% of the genes in the genome.  However, not all of these potential odor receptor genes are expressed and functional.  According to an analysis of data derived from the Human Genome Project, humans have approximately 400 functional genes coding for olfactory receptors, and the remaining 600 candidates are pseudogenes.[26] Question: How many olfactory sensors do humans have? Answer:",
+    {
+        "id": "english--8763911082586141958-8",
+        "lang": "english",
+        "summary": "There are a large number of different odor receptors, with as many as 1,000 in the mammalian genome which represents approximately 3% of the genes in the genome.  However, not all of these potential odor receptor genes are expressed and functional.  According to an analysis of data derived from the Human Genome Project, humans have approximately 400 functional genes coding for olfactory receptors, and the remaining 600 candidates are pseudogenes.[26]",
+        "question": "How many olfactory sensors do humans have?",
+        "label": "approximately 400"
+    }
+]

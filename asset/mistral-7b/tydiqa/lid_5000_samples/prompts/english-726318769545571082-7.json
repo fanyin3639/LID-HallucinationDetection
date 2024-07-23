@@ -1,0 +1,15 @@
+[
+    [
+        1219,
+        [],
+        "1963"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Within the Marvel Universe, the X-Men are widely regarded to have been named after Professor Xavier himself. The original explanation for the name, as provided by Xavier in The X-Men #1 (1963), is that mutants \"possess an extra power ... one which ordinary humans do not!! That is why I call my students ... X-Men, for EX-tra power!\"[4] Question: When were the X-Men first introduced by Marvel? Answer:",
+    {
+        "id": "english-726318769545571082-7",
+        "lang": "english",
+        "summary": "Within the Marvel Universe, the X-Men are widely regarded to have been named after Professor Xavier himself. The original explanation for the name, as provided by Xavier in The X-Men #1 (1963), is that mutants \"possess an extra power ... one which ordinary humans do not!! That is why I call my students ... X-Men, for EX-tra power!\"[4]",
+        "question": "When were the X-Men first introduced by Marvel?",
+        "label": "1963"
+    }
+]

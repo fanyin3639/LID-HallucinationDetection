@@ -1,0 +1,15 @@
+[
+    [
+        999,
+        [],
+        "George W. Mason"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The 1954 merger of Nash-Kelvinator Corporation and Hudson Motor Car Company, and the creation of American Motors, was led by George W. Mason to reap benefits from the strengths of the two firms to battle the much larger \"Big Three\" automakers (General Motors, Ford, and Chrysler). Question: Who founded the American Motors Corporation? Answer:",
+    {
+        "id": "english-1915275030287501071-4",
+        "lang": "english",
+        "summary": "The 1954 merger of Nash-Kelvinator Corporation and Hudson Motor Car Company, and the creation of American Motors, was led by George W. Mason to reap benefits from the strengths of the two firms to battle the much larger \"Big Three\" automakers (General Motors, Ford, and Chrysler).",
+        "question": "Who founded the American Motors Corporation?",
+        "label": "George W. Mason"
+    }
+]

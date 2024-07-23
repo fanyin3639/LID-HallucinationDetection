@@ -1,0 +1,15 @@
+[
+    [
+        2763,
+        [],
+        " (481,321"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: At 1,246,620km2 (481,321sqmi),[38] Angola is the world's twenty-third largest country - comparable in size to Mali, or twice the size of France or of Texas. It lies mostly between latitudes 4\u00b0 and 18\u00b0S, and longitudes 12\u00b0 and 24\u00b0E. Question: How large is Angola? Answer:",
+    {
+        "id": "english--6662963811170119120-27",
+        "lang": "english",
+        "summary": "At 1,246,620km2 (481,321sqmi),[38] Angola is the world's twenty-third largest country - comparable in size to Mali, or twice the size of France or of Texas. It lies mostly between latitudes 4\u00b0 and 18\u00b0S, and longitudes 12\u00b0 and 24\u00b0E.",
+        "question": "How large is Angola?",
+        "label": " (481,321"
+    }
+]

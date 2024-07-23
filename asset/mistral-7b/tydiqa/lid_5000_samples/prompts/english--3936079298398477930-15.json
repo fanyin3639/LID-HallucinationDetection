@@ -1,0 +1,15 @@
+[
+    [
+        291,
+        [],
+        "1928"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal. The cartoon was co-directed by Walt Disney and Ub Iwerks. Iwerks was the main animator for the short and reportedly spent six weeks working on it. In fact, Iwerks was the main animator for every Disney short released in 1928 and 1929. Hugh Harman and Rudolf Ising also assisted Disney during those years. They had already signed their contracts with Charles Mintz, but he was still in the process of forming his new studio and so for the time being they were still employed by Disney. This short would be the last they animated under this somewhat awkward situation.[1] Question: When did Disney introduce Mickey Mouse? Answer:",
+    {
+        "id": "english--3936079298398477930-15",
+        "lang": "english",
+        "summary": "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal. The cartoon was co-directed by Walt Disney and Ub Iwerks. Iwerks was the main animator for the short and reportedly spent six weeks working on it. In fact, Iwerks was the main animator for every Disney short released in 1928 and 1929. Hugh Harman and Rudolf Ising also assisted Disney during those years. They had already signed their contracts with Charles Mintz, but he was still in the process of forming his new studio and so for the time being they were still employed by Disney. This short would be the last they animated under this somewhat awkward situation.[1]",
+        "question": "When did Disney introduce Mickey Mouse?",
+        "label": "1928"
+    }
+]

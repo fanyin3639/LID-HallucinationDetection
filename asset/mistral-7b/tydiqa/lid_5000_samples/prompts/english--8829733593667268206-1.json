@@ -1,0 +1,15 @@
+[
+    [
+        2782,
+        [],
+        "John Bowlby and Mary Ainsworth"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: John Bowlby and Mary Ainsworth developed attachment theory in the 1960s while investigating the effects of maternal separation on infant development.[4] The development of the Strange Situation task in 1965 by Ainsworth and Wittig allowed researchers to systematically investigate the attachment system operating between children and their parents.[5] The Strange Situation involves separating infant-parent dyads and observing infant behaviours upon reunion. Infant behaviour tended to follow patterns, leading to the development of three attachment categories: Secure, Anxious-Avoidant, and Anxious-Resistant. In 1990, Ainsworth added a new category, championed by Mary Main, called Disorganized/Disoriented attachment, characterized by its less reliable pattern of behaviour.[6] Question: Who developed the Attachment and Health psychological model? Answer:",
+    {
+        "id": "english--8829733593667268206-1",
+        "lang": "english",
+        "summary": "John Bowlby and Mary Ainsworth developed attachment theory in the 1960s while investigating the effects of maternal separation on infant development.[4] The development of the Strange Situation task in 1965 by Ainsworth and Wittig allowed researchers to systematically investigate the attachment system operating between children and their parents.[5] The Strange Situation involves separating infant-parent dyads and observing infant behaviours upon reunion. Infant behaviour tended to follow patterns, leading to the development of three attachment categories: Secure, Anxious-Avoidant, and Anxious-Resistant. In 1990, Ainsworth added a new category, championed by Mary Main, called Disorganized/Disoriented attachment, characterized by its less reliable pattern of behaviour.[6]",
+        "question": "Who developed the Attachment and Health psychological model?",
+        "label": "John Bowlby and Mary Ainsworth"
+    }
+]

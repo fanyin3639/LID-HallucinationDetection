@@ -1,0 +1,15 @@
+[
+    [
+        1152,
+        [],
+        "Belgium"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The North Atlantic Treaty Organization is headquartered in a complex in Haren, part of the City of Brussels municipality of Belgium.[1] The staff at the Headquarters is composed of national delegations of member countries and includes civilian and military liaison offices and officers or diplomatic missions and diplomats of partner countries, as well as the International Staff and International Military Staff (IMS) filled from serving members of the armed forces of member states.[2] Non-governmental citizens' groups have also grown up in support of NATO, broadly under the banner of the Atlantic Council/Atlantic Treaty Association movement. Question: Where are NATO's headquarters? Answer:",
+    {
+        "id": "english-4089658515661586714-0",
+        "lang": "english",
+        "summary": "The North Atlantic Treaty Organization is headquartered in a complex in Haren, part of the City of Brussels municipality of Belgium.[1] The staff at the Headquarters is composed of national delegations of member countries and includes civilian and military liaison offices and officers or diplomatic missions and diplomats of partner countries, as well as the International Staff and International Military Staff (IMS) filled from serving members of the armed forces of member states.[2] Non-governmental citizens' groups have also grown up in support of NATO, broadly under the banner of the Atlantic Council/Atlantic Treaty Association movement.",
+        "question": "Where are NATO's headquarters?",
+        "label": "Belgium"
+    }
+]

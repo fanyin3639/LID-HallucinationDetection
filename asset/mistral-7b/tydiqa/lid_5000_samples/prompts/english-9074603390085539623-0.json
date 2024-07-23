@@ -1,0 +1,15 @@
+[
+    [
+        2326,
+        [],
+        "26 pounds"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Commercial banana production in the United States is relatively limited in scale and economic impact. While Americans eat 26 pounds (12kg) of bananas per person per year, the vast majority of the fruit is imported from other countries, chiefly Central and South America, where the US has previously occupied areas containing banana plantations, and controlled the importation of bananas via various fruit companies, such as Dole and Chiquita. [1] Question: How many bananas do Americans consume each year? Answer:",
+    {
+        "id": "english-9074603390085539623-0",
+        "lang": "english",
+        "summary": "Commercial banana production in the United States is relatively limited in scale and economic impact. While Americans eat 26 pounds (12kg) of bananas per person per year, the vast majority of the fruit is imported from other countries, chiefly Central and South America, where the US has previously occupied areas containing banana plantations, and controlled the importation of bananas via various fruit companies, such as Dole and Chiquita. [1]",
+        "question": "How many bananas do Americans consume each year?",
+        "label": "26 pounds"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2783,
+        [],
+        "Jon Brower Minnoch"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Jon Brower Minnoch (September 30, 1941 \u2013 September 10, 1983) was an American man who, at his peak weight, was the heaviest human being ever recorded, weighing approximately 1,400lb (635 kilograms; 100 stone). This figure was only a close estimation because his extreme size, declining health, and lack of mobility prevented use of a scale. Question: Who is the heaviest human? Answer:",
+    {
+        "id": "english--660322627841846788-0",
+        "lang": "english",
+        "summary": "Jon Brower Minnoch (September 30, 1941 \u2013 September 10, 1983) was an American man who, at his peak weight, was the heaviest human being ever recorded, weighing approximately 1,400lb (635 kilograms; 100 stone). This figure was only a close estimation because his extreme size, declining health, and lack of mobility prevented use of a scale.",
+        "question": "Who is the heaviest human?",
+        "label": "Jon Brower Minnoch"
+    }
+]

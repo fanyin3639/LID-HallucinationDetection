@@ -1,0 +1,15 @@
+[
+    [
+        983,
+        [],
+        "Between August 2017 and July 2018"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Fall Line Freeway (FLF; also signed as State Route540 (SR540)) is a 215-mile-long (346km) highway designed to span the width of the U.S. state of Georgia from the Alabama state line, in Columbus to Augusta, traveling through several cities including Macon, Milledgeville, and Sandersville. It is composed of both limited-access and high-speed divided highway portions. It is planned to become part of the proposed eastern extension of Interstate 14. As of August 2018, the Fall Line Freeway is 100% open to traffic.[1] Between August 2017 and July 2018, the highway was completed. The Georgia Department of Transportation (GDOT) announced that the highway was officially signed as SR540 on September 24, 2018. Question: When was the Fall Line Freeway constructed? Answer:",
+    {
+        "id": "english-4137174560665849845-0",
+        "lang": "english",
+        "summary": "The Fall Line Freeway (FLF; also signed as State Route540 (SR540)) is a 215-mile-long (346km) highway designed to span the width of the U.S. state of Georgia from the Alabama state line, in Columbus to Augusta, traveling through several cities including Macon, Milledgeville, and Sandersville. It is composed of both limited-access and high-speed divided highway portions. It is planned to become part of the proposed eastern extension of Interstate 14. As of August 2018, the Fall Line Freeway is 100% open to traffic.[1] Between August 2017 and July 2018, the highway was completed. The Georgia Department of Transportation (GDOT) announced that the highway was officially signed as SR540 on September 24, 2018.",
+        "question": "When was the Fall Line Freeway constructed?",
+        "label": "Between August 2017 and July 2018"
+    }
+]

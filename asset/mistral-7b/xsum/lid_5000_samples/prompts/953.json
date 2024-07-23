@@ -1,0 +1,14 @@
+[
+    [
+        953,
+        [],
+        "Jose Reyes has become the first player to be suspended under new Major League Baseball rules brought in to address domestic violence issues."
+    ],
+    "Write a short summary for the following passage:\nThe Colorado Rockies shortstop, a four-time All-Star player who earns $22m (\u00a315.7m) a year, has been placed on paid leave while he faces criminal proceedings.\nReyes, 32, who was arrested at a Hawaii resort in October following an argument with his wife, has pleaded not guilty to an abuse charge.\nHis trial is due to start on 4 April.\nThe date coincides with the start of the new MLB season, when the Rockies play at Arizona.\nThe new policy was agreed in August following a number of high-profile domestic violence cases in a number of US sports, including baseball, American football and basketball.\nSummary:\n",
+    {
+        "id": 953,
+        "document": "The Colorado Rockies shortstop, a four-time All-Star player who earns $22m (\u00a315.7m) a year, has been placed on paid leave while he faces criminal proceedings.\nReyes, 32, who was arrested at a Hawaii resort in October following an argument with his wife, has pleaded not guilty to an abuse charge.\nHis trial is due to start on 4 April.\nThe date coincides with the start of the new MLB season, when the Rockies play at Arizona.\nThe new policy was agreed in August following a number of high-profile domestic violence cases in a number of US sports, including baseball, American football and basketball.",
+        "summary": "Jose Reyes has become the first player to be suspended under new Major League Baseball rules brought in to address domestic violence issues.",
+        "label": "Jose Reyes has become the first player to be suspended under new Major League Baseball rules brought in to address domestic violence issues."
+    }
+]

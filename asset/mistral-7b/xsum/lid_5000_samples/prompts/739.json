@@ -1,0 +1,14 @@
+[
+    [
+        739,
+        [],
+        "Cornish Pirates coach Alan Paver admitted his team were well below par in their dramatic home win against London Scottish in the Championship."
+    ],
+    "Write a short summary for the following passage:\nLaurence May converted a 78th-minute penalty try to secure a 25-24 victory.\n\"We looked pretty sluggish. The areas we normally get energy - the tackling and the kick chase - just weren't quite there,\" Paver told BBC Radio Cornwall.\n\"I'm super-pleased we sneaked it in the end, but I felt we shouldn't have been in that position.\"\nThe Pirates were struggling before tries from Alex Cheesman and Toby May set up a nail-biting finale.\n\"All credit to Scottish. They came out there and gave us a good arm-wrestle,\" said Paver.\n\"A couple of the guys will have some serious conversations. I want to know where our physicality went. It's something I demand.\n\"All that said, the character to come back [was there]. I'm disappointed with the performance, but the result has put a cherry on the top.\"\nSummary:\n",
+    {
+        "id": 739,
+        "document": "Laurence May converted a 78th-minute penalty try to secure a 25-24 victory.\n\"We looked pretty sluggish. The areas we normally get energy - the tackling and the kick chase - just weren't quite there,\" Paver told BBC Radio Cornwall.\n\"I'm super-pleased we sneaked it in the end, but I felt we shouldn't have been in that position.\"\nThe Pirates were struggling before tries from Alex Cheesman and Toby May set up a nail-biting finale.\n\"All credit to Scottish. They came out there and gave us a good arm-wrestle,\" said Paver.\n\"A couple of the guys will have some serious conversations. I want to know where our physicality went. It's something I demand.\n\"All that said, the character to come back [was there]. I'm disappointed with the performance, but the result has put a cherry on the top.\"",
+        "summary": "Cornish Pirates coach Alan Paver admitted his team were well below par in their dramatic home win against London Scottish in the Championship.",
+        "label": "Cornish Pirates coach Alan Paver admitted his team were well below par in their dramatic home win against London Scottish in the Championship."
+    }
+]

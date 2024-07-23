@@ -1,0 +1,15 @@
+[
+    [
+        2773,
+        [],
+        "gold"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ductility can be quantified by the fracture strain      \u03b5  f     {\\displaystyle \\varepsilon _{f}}  , which is the engineering strain at which a test specimen fractures during a uniaxial tensile test. Another commonly used measure is the reduction of area at fracture     q   {\\displaystyle q}  .[5] The ductility of steel varies depending on the alloying constituents. Increasing the levels of carbon decreases ductility. Many plastics and amorphous solids, such as Play-Doh, are also malleable. The most ductile metal is platinum and the most malleable metal is gold.[6][7] Question: What's the most malleable metal? Answer:",
+    {
+        "id": "english-4913364017202121197-6",
+        "lang": "english",
+        "summary": "Ductility can be quantified by the fracture strain      \u03b5  f     {\\displaystyle \\varepsilon _{f}}  , which is the engineering strain at which a test specimen fractures during a uniaxial tensile test. Another commonly used measure is the reduction of area at fracture     q   {\\displaystyle q}  .[5] The ductility of steel varies depending on the alloying constituents. Increasing the levels of carbon decreases ductility. Many plastics and amorphous solids, such as Play-Doh, are also malleable. The most ductile metal is platinum and the most malleable metal is gold.[6][7]",
+        "question": "What's the most malleable metal?",
+        "label": "gold"
+    }
+]

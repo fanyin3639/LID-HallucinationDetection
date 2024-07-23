@@ -1,0 +1,14 @@
+[
+    [
+        942,
+        [],
+        "More than 40 birdwatchers turned up in a Pembrokeshire village for the first recorded visit of a masked wagtail in Britain."
+    ],
+    "Write a short summary for the following passage:\nThe bird, usually found in Kazakhstan, Iran and Afghanistan, was spotted in Camrose, near Haverfordwest on Tuesday.\nExperts have confirmed the sighting.\nTwitchers travelled from as far as Derbyshire to catch a glimpse of the masked wagtail and the police had to be called as their parked cars blocked narrow country lanes.\nJulian Thomas, 51, who drove from Somerset to see the bird, said: \"It's a sub-species of our dear old pied wagtail. Birdwatchers will want to see it in case it is declared a separate species some time in the future.\n\"I would expect a few hundred here by the weekend and the signs are that it will stick around.\"\nBecky Evans lives on the street where the bird was found.\nShe said: \"I couldn't believe it when I found out there was rare bird in the village, I thought it was a bit of a joke, but when I looked outside there was a group of people looking for it.\"\nDan Morgan, 19, who works at Camrose Stores, said: \"There's a great deal of excitement now that it's a confirmed sighting.\"\nDyfed-Powys Police confirmed they were called to the village after local reported seeing dozens of cars parked on the roadside.\nSummary:\n",
+    {
+        "id": 942,
+        "document": "The bird, usually found in Kazakhstan, Iran and Afghanistan, was spotted in Camrose, near Haverfordwest on Tuesday.\nExperts have confirmed the sighting.\nTwitchers travelled from as far as Derbyshire to catch a glimpse of the masked wagtail and the police had to be called as their parked cars blocked narrow country lanes.\nJulian Thomas, 51, who drove from Somerset to see the bird, said: \"It's a sub-species of our dear old pied wagtail. Birdwatchers will want to see it in case it is declared a separate species some time in the future.\n\"I would expect a few hundred here by the weekend and the signs are that it will stick around.\"\nBecky Evans lives on the street where the bird was found.\nShe said: \"I couldn't believe it when I found out there was rare bird in the village, I thought it was a bit of a joke, but when I looked outside there was a group of people looking for it.\"\nDan Morgan, 19, who works at Camrose Stores, said: \"There's a great deal of excitement now that it's a confirmed sighting.\"\nDyfed-Powys Police confirmed they were called to the village after local reported seeing dozens of cars parked on the roadside.",
+        "summary": "More than 40 birdwatchers turned up in a Pembrokeshire village for the first recorded visit of a masked wagtail in Britain.",
+        "label": "More than 40 birdwatchers turned up in a Pembrokeshire village for the first recorded visit of a masked wagtail in Britain."
+    }
+]

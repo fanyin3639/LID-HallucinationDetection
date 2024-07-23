@@ -1,0 +1,19 @@
+[
+    [
+        555,
+        [],
+        "text, audio, images, animations, video and interactive content."
+    ],
+    "Answer the following questions:\nContext: Multimedia is content that uses a combination of different content forms such as text, audio, images, animations, video and interactive content. Multimedia contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material. \n\nMultimedia can be recorded and played, displayed, interacted with or accessed by information content processing devices, such as computerized and electronic devices, but can also be part of a live performance. Multimedia devices are electronic media devices used to store and experience multimedia content. Multimedia is distinguished from mixed media in fine art; for example, by including audio it has a broader scope. The term \"rich media\" is synonymous with interactive multimedia. \n\nThe term \"multimedia\" was coined by singer and artist Bob Goldstein (later 'Bobb Goldsteinn') to promote the July 1966 opening of his \"LightWorks at L'Oursin\" show at Southampton, Long Island. Goldstein was perhaps aware of an American artist named Dick Higgins, who had two years previously discussed a new approach to art-making he called \"intermedia\". \n\nOn August 10, 1966, Richard Albarino of \"Variety\" borrowed the terminology, reporting: \"Brainchild of songscribe-comic Bob ('Washington Square') Goldstein, the 'Lightworks' is the latest \"multi-media\" music-cum-visuals to debut as discoth\u00e8que fare.\" Two years later, in 1968, the term \"multimedia\" was re-appropriated to describe the work of a political consultant, David Sawyer, the husband of Iris Sawyer\u2014one of Goldstein's producers at L'Oursin.\n'Question': What kinds of forms?\n'Answer: '",
+    {
+        "id": "3ydtzai2wxgebz5ld4llfye57zv14z_9",
+        "summary": "Multimedia is content that uses a combination of different content forms such as text, audio, images, animations, video and interactive content. Multimedia contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material. \n\nMultimedia can be recorded and played, displayed, interacted with or accessed by information content processing devices, such as computerized and electronic devices, but can also be part of a live performance. Multimedia devices are electronic media devices used to store and experience multimedia content. Multimedia is distinguished from mixed media in fine art; for example, by including audio it has a broader scope. The term \"rich media\" is synonymous with interactive multimedia. \n\nThe term \"multimedia\" was coined by singer and artist Bob Goldstein (later 'Bobb Goldsteinn') to promote the July 1966 opening of his \"LightWorks at L'Oursin\" show at Southampton, Long Island. Goldstein was perhaps aware of an American artist named Dick Higgins, who had two years previously discussed a new approach to art-making he called \"intermedia\". \n\nOn August 10, 1966, Richard Albarino of \"Variety\" borrowed the terminology, reporting: \"Brainchild of songscribe-comic Bob ('Washington Square') Goldstein, the 'Lightworks' is the latest \"multi-media\" music-cum-visuals to debut as discoth\u00e8que fare.\" Two years later, in 1968, the term \"multimedia\" was re-appropriated to describe the work of a political consultant, David Sawyer, the husband of Iris Sawyer\u2014one of Goldstein's producers at L'Oursin.",
+        "question": "What kinds of forms?",
+        "label": "text, audio, images, animations, video and interactive content.",
+        "additional_answers": [
+            "text, audio, images, animations, video and interactive content",
+            "text, audio, images, animations, video and interactive content",
+            "Text, audio, images, animations, video and interactive content"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        858,
+        [],
+        "Quito"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Quito (/\u02c8ki\u02d0to\u028a/; Spanish pronunciation:[\u02c8kito]; Quechua: Kitu; formally San Francisco de Quito) is the capital and the largest city of Ecuador[2], and at an elevation of 2,850 metres (9,350ft) above sea level, it is the second-highest official capital city in the world, after La Paz, and the one which is closest to the equator.[3] It is located in the Guayllabamba river basin, on the eastern slopes of Pichincha,[4] an active stratovolcano in the Andes Mountains. With a population of 2,671,191 according to statistical projections (2019), Quito is the most populous city in Ecuador.[5] It is also the capital of the Pichincha province and the seat of the Metropolitan District of Quito. The canton recorded a population of 2,239,191 residents in the 2010 national census. In 2008, the city was designated as the headquarters of the Union of South American Nations.[6] Question: What is the capital of Ecuador? Answer:",
+    {
+        "id": "english-7073808648029777349-0",
+        "lang": "english",
+        "summary": "Quito (/\u02c8ki\u02d0to\u028a/; Spanish pronunciation:[\u02c8kito]; Quechua: Kitu; formally San Francisco de Quito) is the capital and the largest city of Ecuador[2], and at an elevation of 2,850 metres (9,350ft) above sea level, it is the second-highest official capital city in the world, after La Paz, and the one which is closest to the equator.[3] It is located in the Guayllabamba river basin, on the eastern slopes of Pichincha,[4] an active stratovolcano in the Andes Mountains. With a population of 2,671,191 according to statistical projections (2019), Quito is the most populous city in Ecuador.[5] It is also the capital of the Pichincha province and the seat of the Metropolitan District of Quito. The canton recorded a population of 2,239,191 residents in the 2010 national census. In 2008, the city was designated as the headquarters of the Union of South American Nations.[6]",
+        "question": "What is the capital of Ecuador?",
+        "label": "Quito"
+    }
+]

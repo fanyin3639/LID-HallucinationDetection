@@ -1,0 +1,19 @@
+[
+    [
+        638,
+        [],
+        "his  face darkened."
+    ],
+    "Answer the following questions:\nContext: CHAPTER IV \n\nThe Princess looked up with ill-concealed eagerness as Forrest entered. \n\n\"Well,\" she asked, \"have you any news?\" \n\nForrest shook his head. \n\n\"None,\" he answered. \"I am up for the day only. Cecil will not let me stay any longer. He was here himself the day before yesterday. We take it by turns to come away.\" \n\n\"And there is nothing to tell me?\" the Princess asked. \"No change of any sort?\" \n\n\"None,\" Forrest answered. \"It is no good attempting to persuade ourselves that there is any.\" \n\n\"What are you up for, then?\" she asked. \n\nHe laughed hardly. \n\n\"I am like a diver,\" he answered, \"who has to come to the surface every now and then for fresh air. Life down at Salthouse is very nearly the acme of stagnation. Our only excitement day by day is the danger--and the hope.\" \n\n\"Is Cecil getting braver?\" the Princess asked. \n\n\"I think that he is, a little,\" Forrest answered. \n\nThe Princess nodded. \n\n\"We met him at the Bellamy Smiths',\" she said. \"It was quite a reunion. Andrew was there, and the Duke.\" \n\nForrest's face darkened. \n\n\"Meddling fool,\" he muttered. \"Do you know that there are two detectives now in Salthouse? They come and go and ask all manner of questions. One of them pretends that he believes Engleton was drowned, and walks always on the beach and hires boatmen to explore the creeks. The other sits in the inn and bribes the servants with drinks to talk. But don't let's talk about this any longer. How is Jeanne?\" \n'Question': How was Forest's response to that?\n'Answer: '",
+    {
+        "id": "3kibxj1wd5uklt1p4y6cybg9wmhok0_15",
+        "summary": "CHAPTER IV \n\nThe Princess looked up with ill-concealed eagerness as Forrest entered. \n\n\"Well,\" she asked, \"have you any news?\" \n\nForrest shook his head. \n\n\"None,\" he answered. \"I am up for the day only. Cecil will not let me stay any longer. He was here himself the day before yesterday. We take it by turns to come away.\" \n\n\"And there is nothing to tell me?\" the Princess asked. \"No change of any sort?\" \n\n\"None,\" Forrest answered. \"It is no good attempting to persuade ourselves that there is any.\" \n\n\"What are you up for, then?\" she asked. \n\nHe laughed hardly. \n\n\"I am like a diver,\" he answered, \"who has to come to the surface every now and then for fresh air. Life down at Salthouse is very nearly the acme of stagnation. Our only excitement day by day is the danger--and the hope.\" \n\n\"Is Cecil getting braver?\" the Princess asked. \n\n\"I think that he is, a little,\" Forrest answered. \n\nThe Princess nodded. \n\n\"We met him at the Bellamy Smiths',\" she said. \"It was quite a reunion. Andrew was there, and the Duke.\" \n\nForrest's face darkened. \n\n\"Meddling fool,\" he muttered. \"Do you know that there are two detectives now in Salthouse? They come and go and ask all manner of questions. One of them pretends that he believes Engleton was drowned, and walks always on the beach and hires boatmen to explore the creeks. The other sits in the inn and bribes the servants with drinks to talk. But don't let's talk about this any longer. How is Jeanne?\" ",
+        "question": "How was Forest's response to that?",
+        "label": "his  face darkened.",
+        "additional_answers": [
+            "his face darkened",
+            "his face darkened",
+            "his face darkened"
+        ]
+    }
+]

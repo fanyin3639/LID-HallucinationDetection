@@ -1,0 +1,15 @@
+[
+    [
+        2523,
+        [],
+        "Andrzej Sebastian Duda"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Andrzej Sebastian Duda (Polish pronunciation: [\u02c8and\u0290\u025bj\u02c8duda](listen); born 16 May 1972) is a Polish politician who serves as the sixth and current President of Poland, holding the office since 6 August 2015.[3] Before his tenure as President, Duda was a member of Polish Lower House (Sejm) from 2011 to 2014 and the European Parliament from 2014 to 2015.[4] Question: Who is the current president of Poland? Answer:",
+    {
+        "id": "english--6350617953725889600-0",
+        "lang": "english",
+        "summary": "Andrzej Sebastian Duda (Polish pronunciation: [\u02c8and\u0290\u025bj\u02c8duda](listen); born 16 May 1972) is a Polish politician who serves as the sixth and current President of Poland, holding the office since 6 August 2015.[3] Before his tenure as President, Duda was a member of Polish Lower House (Sejm) from 2011 to 2014 and the European Parliament from 2014 to 2015.[4]",
+        "question": "Who is the current president of Poland?",
+        "label": "Andrzej Sebastian Duda"
+    }
+]

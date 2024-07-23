@@ -1,0 +1,15 @@
+[
+    [
+        1682,
+        [],
+        "Yang di-Pertuan Agong"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Politics of Malaysia takes place in the framework of a federal representative democratic constitutional monarchy, in which the Yang di-Pertuan Agong is head of state and the Prime Minister of Malaysia is the head of government. Executive power is exercised by the federal government and the 13 state governments. Federal legislative power is vested in the federal parliament and the 13 state assemblies. The judiciary is independent of the executive and the legislature, though the executive maintains a certain level of influence in the appointment of judges to the courts. Question: Who rules Malaysia? Answer:",
+    {
+        "id": "english--6825103586737457534-1",
+        "lang": "english",
+        "summary": "Politics of Malaysia takes place in the framework of a federal representative democratic constitutional monarchy, in which the Yang di-Pertuan Agong is head of state and the Prime Minister of Malaysia is the head of government. Executive power is exercised by the federal government and the 13 state governments. Federal legislative power is vested in the federal parliament and the 13 state assemblies. The judiciary is independent of the executive and the legislature, though the executive maintains a certain level of influence in the appointment of judges to the courts.",
+        "question": "Who rules Malaysia?",
+        "label": "Yang di-Pertuan Agong"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2652,
+        [],
+        "Suncorp Stadium"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In the same year, construction begins on the Suncorp Stadium redevelopment in Brisbane.[4] The redevelopment of Suncorp Stadium was the biggest and most ambitious project of its kind ever undertaken by the Department of Public Works. It involved a significant expansion of the stadium and the implementation of extensive built infrastructure and technologically advanced building systems.[16] Question: What is the largest project completed by the Queensland Department of Public Works? Answer:",
+    {
+        "id": "english-4939532048283673281-108",
+        "lang": "english",
+        "summary": "In the same year, construction begins on the Suncorp Stadium redevelopment in Brisbane.[4] The redevelopment of Suncorp Stadium was the biggest and most ambitious project of its kind ever undertaken by the Department of Public Works. It involved a significant expansion of the stadium and the implementation of extensive built infrastructure and technologically advanced building systems.[16]",
+        "question": "What is the largest project completed by the Queensland Department of Public Works?",
+        "label": "Suncorp Stadium"
+    }
+]

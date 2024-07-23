@@ -1,0 +1,14 @@
+[
+    [
+        548,
+        [],
+        "Conservative MP Dan Byles is to stand down at the next election."
+    ],
+    "Write a short summary for the following passage:\nMr Byles, who holds his party's most marginal seat with a majority of just 54, won the North Warwickshire constituency in 2010.\nIn a statement on his personal website he said it was time to pursue \"new challenges\".\nThe 40-year-old MP served in the Army for nine years, including tours of duty in Kosovo and Bosnia, before entering the Commons.\nHe becomes the 23rd Conservative MP this parliament to announce they will step aside in 2015.\nBy the time of the next election, \"serving my country will have been the primary focus of my professional life for some 14 years\", Mr Byles said.\nHe added: \"As I hoped it would be, my time in Parliament has been hard work but uniquely rewarding.\n\"I am proud of what we have achieved as a government - putting Britain back on the road to recovery following the worst economic collapse the country has ever faced.\"\nLater he wrote on Twitter: \"My wife Prash and I have taken the difficult decision that I will not be fighting the 2015 general election.\"\nMr Byles, who won his seat with an 8.1% swing from Labour in 2010, serves on the Energy and Climate Change Select Committee.\nAn opponent of the HS2 rail link, he pledged to continue tackling local issues for his final year in Parliament.\nSummary:\n",
+    {
+        "id": 548,
+        "document": "Mr Byles, who holds his party's most marginal seat with a majority of just 54, won the North Warwickshire constituency in 2010.\nIn a statement on his personal website he said it was time to pursue \"new challenges\".\nThe 40-year-old MP served in the Army for nine years, including tours of duty in Kosovo and Bosnia, before entering the Commons.\nHe becomes the 23rd Conservative MP this parliament to announce they will step aside in 2015.\nBy the time of the next election, \"serving my country will have been the primary focus of my professional life for some 14 years\", Mr Byles said.\nHe added: \"As I hoped it would be, my time in Parliament has been hard work but uniquely rewarding.\n\"I am proud of what we have achieved as a government - putting Britain back on the road to recovery following the worst economic collapse the country has ever faced.\"\nLater he wrote on Twitter: \"My wife Prash and I have taken the difficult decision that I will not be fighting the 2015 general election.\"\nMr Byles, who won his seat with an 8.1% swing from Labour in 2010, serves on the Energy and Climate Change Select Committee.\nAn opponent of the HS2 rail link, he pledged to continue tackling local issues for his final year in Parliament.",
+        "summary": "Conservative MP Dan Byles is to stand down at the next election.",
+        "label": "Conservative MP Dan Byles is to stand down at the next election."
+    }
+]

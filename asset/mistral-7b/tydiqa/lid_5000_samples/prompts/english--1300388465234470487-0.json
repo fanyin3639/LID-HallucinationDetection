@@ -1,0 +1,15 @@
+[
+    [
+        1336,
+        [],
+        "Collis P. Huntington"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Chesapeake and Ohio Railway (reporting marks C&O, CO) was a Class I railroad formed in 1869 in Virginia from several smaller Virginia railroads begun in the 19th century. Led by industrialist Collis P. Huntington, it reached from Virginia's capital city of Richmond to the Ohio River by 1873, where the railroad town (and later city) of Huntington, West Virginia was named for him. Question: Who started the Chesapeake and Ohio Railway? Answer:",
+    {
+        "id": "english--1300388465234470487-0",
+        "lang": "english",
+        "summary": "The Chesapeake and Ohio Railway (reporting marks C&O, CO) was a Class I railroad formed in 1869 in Virginia from several smaller Virginia railroads begun in the 19th century. Led by industrialist Collis P. Huntington, it reached from Virginia's capital city of Richmond to the Ohio River by 1873, where the railroad town (and later city) of Huntington, West Virginia was named for him.",
+        "question": "Who started the Chesapeake and Ohio Railway?",
+        "label": "Collis P. Huntington"
+    }
+]

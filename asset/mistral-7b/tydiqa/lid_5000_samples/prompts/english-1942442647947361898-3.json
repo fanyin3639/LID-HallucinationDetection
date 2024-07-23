@@ -1,0 +1,15 @@
+[
+    [
+        1715,
+        [],
+        "Gavilan College"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Garcia attended Gilroy High School in Gilroy, California, and was a letterman in football and basketball. As a senior at Gilroy High, Garcia was a South Santa Clara County selection for the Charlie Wedemeyer All-Star Football Game and played defensive back in the game.[3]  After graduating from Gilroy in 1988, Garcia attended Gavilan College, a local junior college. He was the starting quarterback on the football team for the 1989 season, in which he passed 2,038 yards for 18 touchdowns and rushed 584 yards for four touchdowns. After the season, Garcia earned  junior college honorable mention All-America honors.[4] Question: What college did Jerry Alan Fodor attend? Answer:",
+    {
+        "id": "english-1942442647947361898-3",
+        "lang": "english",
+        "summary": "Garcia attended Gilroy High School in Gilroy, California, and was a letterman in football and basketball. As a senior at Gilroy High, Garcia was a South Santa Clara County selection for the Charlie Wedemeyer All-Star Football Game and played defensive back in the game.[3]  After graduating from Gilroy in 1988, Garcia attended Gavilan College, a local junior college. He was the starting quarterback on the football team for the 1989 season, in which he passed 2,038 yards for 18 touchdowns and rushed 584 yards for four touchdowns. After the season, Garcia earned  junior college honorable mention All-America honors.[4]",
+        "question": "What college did Jerry Alan Fodor attend?",
+        "label": "Gavilan College"
+    }
+]

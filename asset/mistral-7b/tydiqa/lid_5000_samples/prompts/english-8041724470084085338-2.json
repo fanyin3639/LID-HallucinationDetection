@@ -1,0 +1,15 @@
+[
+    [
+        3020,
+        [],
+        "unknown"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The University admits that the precise origin of the term \"Hoya\" is unknown.[3] At some point before 1893, and likely before 1891, students versed in classical languages combined the Greek hoia or hoya, meaning \"what\" or \"such\", and the Latin saxa to form Hoya Saxa!, or \"What Rocks!\"[4][5] This cheer may either refer to the stalwart defense of the football team, or to the baseball team, which was nicknamed the \"Stonewalls\", or to the actual stone wall that surrounds the campus.[6] Father William McFadden, S.J., campus Jesuit and the team's in-house announcer at the Capital One Arena, has disputed the Greek and Latin origin, suggesting the classical words were retroactively applied to a nonsensical cheer.[5] Question: What is the origin of the \"Hoyas\" of Georgetown University? Answer:",
+    {
+        "id": "english-8041724470084085338-2",
+        "lang": "english",
+        "summary": "The University admits that the precise origin of the term \"Hoya\" is unknown.[3] At some point before 1893, and likely before 1891, students versed in classical languages combined the Greek hoia or hoya, meaning \"what\" or \"such\", and the Latin saxa to form Hoya Saxa!, or \"What Rocks!\"[4][5] This cheer may either refer to the stalwart defense of the football team, or to the baseball team, which was nicknamed the \"Stonewalls\", or to the actual stone wall that surrounds the campus.[6] Father William McFadden, S.J., campus Jesuit and the team's in-house announcer at the Capital One Arena, has disputed the Greek and Latin origin, suggesting the classical words were retroactively applied to a nonsensical cheer.[5]",
+        "question": "What is the origin of the \"Hoyas\" of Georgetown University?",
+        "label": "unknown"
+    }
+]

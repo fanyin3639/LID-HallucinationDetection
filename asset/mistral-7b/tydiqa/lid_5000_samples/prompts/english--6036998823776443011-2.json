@@ -1,0 +1,15 @@
+[
+    [
+        2002,
+        [],
+        "Suffolk, England"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Robert FitzRoy was born at Ampton Hall, Ampton, Suffolk, England, into the upper echelons of the British aristocracy and a tradition of public service. Through his father, General Lord Charles FitzRoy, Robert was a fourth great-grandson of Charles II of England; his paternal grandfather was Augustus Henry FitzRoy, 3rd Duke of Grafton. His mother, Lady Frances Stewart, was the daughter of the first Marquess of Londonderry and the half-sister of Viscount Castlereagh, who became Foreign Secretary. From the age of four, Robert FitzRoy lived with his family at Wakefield Lodge, their Palladian mansion in Northamptonshire. Question: Where was Robert FitzRoy from? Answer:",
+    {
+        "id": "english--6036998823776443011-2",
+        "lang": "english",
+        "summary": "Robert FitzRoy was born at Ampton Hall, Ampton, Suffolk, England, into the upper echelons of the British aristocracy and a tradition of public service. Through his father, General Lord Charles FitzRoy, Robert was a fourth great-grandson of Charles II of England; his paternal grandfather was Augustus Henry FitzRoy, 3rd Duke of Grafton. His mother, Lady Frances Stewart, was the daughter of the first Marquess of Londonderry and the half-sister of Viscount Castlereagh, who became Foreign Secretary. From the age of four, Robert FitzRoy lived with his family at Wakefield Lodge, their Palladian mansion in Northamptonshire.",
+        "question": "Where was Robert FitzRoy from?",
+        "label": "Suffolk, England"
+    }
+]

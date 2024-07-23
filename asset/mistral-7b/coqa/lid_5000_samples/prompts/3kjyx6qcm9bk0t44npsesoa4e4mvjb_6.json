@@ -1,0 +1,19 @@
+[
+    [
+        6,
+        [],
+        "the shop at the street corner"
+    ],
+    "Answer the following questions:\nContext: The day is like any other day in his life. Tom walks past the shop at the street corner. He stops to look at the front row of shoes, and he feels happy to see that pair of shoes he wants very much is still there. But he feels sorry for himself. He really wants to have them for his birthday. He sadly walks away and thinks how to tell his mother about it. He knows she will give him anything he likes if she can. He also knows very well that she has little money. He decides not to go home so quickly, because he looks worried and his mother will see it. So he goes to the park and sits on the grass. Then he sees a boy in a wheel chair. He notices that the boy moves the wheel chair with his hands. Tom looks at him carefully and is surprised to see the boy has no feet. He looks at his own feet. \"It's much better to be without shoes than without feet,\" he thinks. He smiles and he is happier.\n'Question': Where did he see the things he wanted?\n'Answer: '",
+    {
+        "id": "3kjyx6qcm9bk0t44npsesoa4e4mvjb_6",
+        "summary": "The day is like any other day in his life. Tom walks past the shop at the street corner. He stops to look at the front row of shoes, and he feels happy to see that pair of shoes he wants very much is still there. But he feels sorry for himself. He really wants to have them for his birthday. He sadly walks away and thinks how to tell his mother about it. He knows she will give him anything he likes if she can. He also knows very well that she has little money. He decides not to go home so quickly, because he looks worried and his mother will see it. So he goes to the park and sits on the grass. Then he sees a boy in a wheel chair. He notices that the boy moves the wheel chair with his hands. Tom looks at him carefully and is surprised to see the boy has no feet. He looks at his own feet. \"It's much better to be without shoes than without feet,\" he thinks. He smiles and he is happier.",
+        "question": "Where did he see the things he wanted?",
+        "label": "the shop at the street corner",
+        "additional_answers": [
+            "shop at the street corner",
+            "A shop",
+            "the shop"
+        ]
+    }
+]

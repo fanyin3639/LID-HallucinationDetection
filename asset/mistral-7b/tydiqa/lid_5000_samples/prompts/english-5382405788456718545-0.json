@@ -1,0 +1,15 @@
+[
+    [
+        1153,
+        [],
+        "a group of stars that forms an imaginary outline or pattern on the celestial sphere, typically representing an animal, mythological person or creature, a god, or an inanimate object"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A constellation is a group of stars that forms an imaginary outline or pattern on the celestial sphere, typically representing an animal, mythological person or creature, a god, or an inanimate object.[1] Question: What is a constellation? Answer:",
+    {
+        "id": "english-5382405788456718545-0",
+        "lang": "english",
+        "summary": "A constellation is a group of stars that forms an imaginary outline or pattern on the celestial sphere, typically representing an animal, mythological person or creature, a god, or an inanimate object.[1]",
+        "question": "What is a constellation?",
+        "label": "a group of stars that forms an imaginary outline or pattern on the celestial sphere, typically representing an animal, mythological person or creature, a god, or an inanimate object"
+    }
+]

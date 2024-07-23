@@ -1,0 +1,15 @@
+[
+    [
+        3046,
+        [],
+        "allows Congress to levy an income tax without apportioning it among the states on the basis of population"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Sixteenth Amendment (Amendment XVI) to the United States Constitution allows Congress to levy an income tax without apportioning it among the states on the basis of population. It was passed by Congress in 1909 in response to the 1895 Supreme Court case of Pollock v. Farmers' Loan & Trust Co. The Sixteenth Amendment was ratified by the requisite number of states on February 3, 1913, and effectively overruled the Supreme Court's ruling in Pollock. Question: What does the 16th amendment cover? Answer:",
+    {
+        "id": "english-7188376777808385140-1",
+        "lang": "english",
+        "summary": "The Sixteenth Amendment (Amendment XVI) to the United States Constitution allows Congress to levy an income tax without apportioning it among the states on the basis of population. It was passed by Congress in 1909 in response to the 1895 Supreme Court case of Pollock v. Farmers' Loan & Trust Co. The Sixteenth Amendment was ratified by the requisite number of states on February 3, 1913, and effectively overruled the Supreme Court's ruling in Pollock.",
+        "question": "What does the 16th amendment cover?",
+        "label": "allows Congress to levy an income tax without apportioning it among the states on the basis of population"
+    }
+]

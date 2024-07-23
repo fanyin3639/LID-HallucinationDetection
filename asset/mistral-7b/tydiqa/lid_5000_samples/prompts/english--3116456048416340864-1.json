@@ -1,0 +1,15 @@
+[
+    [
+        2735,
+        [],
+        "1839"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Invented by Louis-Jacques-Mand\u00e9 Daguerre and introduced worldwide in 1839,[4][5][6] daguerreotype was almost completely superseded by 1860 with new, less expensive processes yielding more readily viewable images. In the late 20th century, there was a revival of daguerreotypy by a small number of photographers interested in making artistic use of early photographic processes. Question: When was the daguerreotype developed? Answer:",
+    {
+        "id": "english--3116456048416340864-1",
+        "lang": "english",
+        "summary": "Invented by Louis-Jacques-Mand\u00e9 Daguerre and introduced worldwide in 1839,[4][5][6] daguerreotype was almost completely superseded by 1860 with new, less expensive processes yielding more readily viewable images. In the late 20th century, there was a revival of daguerreotypy by a small number of photographers interested in making artistic use of early photographic processes.",
+        "question": "When was the daguerreotype developed?",
+        "label": "1839"
+    }
+]

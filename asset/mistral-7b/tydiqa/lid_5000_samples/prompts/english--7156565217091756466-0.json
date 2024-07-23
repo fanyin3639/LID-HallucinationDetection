@@ -1,0 +1,15 @@
+[
+    [
+        1932,
+        [],
+        "estimates range from 15 to 19million deaths"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The total number of military and civilian casualties in World War I were about 40 million: estimates range from 15 to 19million deaths and about 23million wounded military personnel, ranking it among the deadliest conflicts in human history. Question: How many died in WWI? Answer:",
+    {
+        "id": "english--7156565217091756466-0",
+        "lang": "english",
+        "summary": "The total number of military and civilian casualties in World War I were about 40 million: estimates range from 15 to 19million deaths and about 23million wounded military personnel, ranking it among the deadliest conflicts in human history.",
+        "question": "How many died in WWI?",
+        "label": "estimates range from 15 to 19million deaths"
+    }
+]

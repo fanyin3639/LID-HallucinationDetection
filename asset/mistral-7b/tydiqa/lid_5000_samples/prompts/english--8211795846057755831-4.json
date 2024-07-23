@@ -1,0 +1,15 @@
+[
+    [
+        3084,
+        [],
+        "Perry received his B.S. (1949) and M.A. (1950) degrees from Stanford University and a Ph.D. in mathematics from Pennsylvania State University in 1957"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Perry received his B.S. (1949) and M.A. (1950) degrees from Stanford University and a Ph.D. in mathematics from Pennsylvania State University in 1957.[8][9] He was director of the Electronic Defense Laboratories of Sylvania/GTE in California from 1954 to 1964, and from 1964 to 1977 president of Electromagnetic Systems Laboratory (ESL), Incorporated, an electronics firm that he founded.[10] He was instrumental in demonstrating the technical feasibility of extracting Signals intelligence on the Soviet Union from the overall Rf background with the then proposed Rhyolite/Aquacade surveillance program.[11] In 1967 he was hired as a technical consultant to the Department of Defense. From 1977 to 1981, during the Jimmy Carter administration, Perry served as Undersecretary of Defense for Research and Engineering, where he had responsibility for weapon systems procurement and research and development.[12] Among other achievements, he was instrumental in the development of stealth aircraft technology. Not all of the programs he developed were as well-received, however. As journalist Paul Glastris wrote in the Washington Monthly: Question: Where did William James Perry go to school? Answer:",
+    {
+        "id": "english--8211795846057755831-4",
+        "lang": "english",
+        "summary": "Perry received his B.S. (1949) and M.A. (1950) degrees from Stanford University and a Ph.D. in mathematics from Pennsylvania State University in 1957.[8][9] He was director of the Electronic Defense Laboratories of Sylvania/GTE in California from 1954 to 1964, and from 1964 to 1977 president of Electromagnetic Systems Laboratory (ESL), Incorporated, an electronics firm that he founded.[10] He was instrumental in demonstrating the technical feasibility of extracting Signals intelligence on the Soviet Union from the overall Rf background with the then proposed Rhyolite/Aquacade surveillance program.[11] In 1967 he was hired as a technical consultant to the Department of Defense. From 1977 to 1981, during the Jimmy Carter administration, Perry served as Undersecretary of Defense for Research and Engineering, where he had responsibility for weapon systems procurement and research and development.[12] Among other achievements, he was instrumental in the development of stealth aircraft technology. Not all of the programs he developed were as well-received, however. As journalist Paul Glastris wrote in the Washington Monthly:",
+        "question": "Where did William James Perry go to school?",
+        "label": "Perry received his B.S. (1949) and M.A. (1950) degrees from Stanford University and a Ph.D. in mathematics from Pennsylvania State University in 1957"
+    }
+]

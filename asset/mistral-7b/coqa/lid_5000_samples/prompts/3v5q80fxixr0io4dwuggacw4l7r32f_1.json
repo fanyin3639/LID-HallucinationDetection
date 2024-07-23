@@ -1,0 +1,19 @@
+[
+    [
+        820,
+        [],
+        "no"
+    ],
+    "Answer the following questions:\nContext: CHAPTER VII \n\nThe Beginning of Troubles \n\nLily, as she parted with her lover in the garden, had required of him to attend upon her the next morning as he went to his shooting, and in obedience to this command he appeared on Mrs Dale's lawn after breakfast, accompanied by Bernard and two dogs. The men had guns in their hands, and were got up with all proper sporting appurtenances, but it so turned out that they did not reach the stubble-fields on the farther side of the road until after luncheon. And may it not be fairly doubted whether croquet is not as good as shooting when a man is in love? \n\nIt will be said that Bernard Dale was not in love; but they who bring such accusation against him, will bring it falsely. He was in love with his cousin Bell according to his manner and fashion. It was not his nature to love Bell as John Eames loved Lily; but then neither would his nature bring him into such a trouble as that which the charms of Amelia Roper had brought upon the poor clerk from the Income-tax Office. Johnny was susceptible, as the word goes; whereas Captain Dale was a man who had his feelings well under control. He was not one to make a fool of himself about a girl, or to die of a broken heart; but, nevertheless, he would probably love his wife when he got a wife, and would be a careful father to his children. \n'Question': was it true?\n'Answer: '",
+    {
+        "id": "3v5q80fxixr0io4dwuggacw4l7r32f_1",
+        "summary": "CHAPTER VII \n\nThe Beginning of Troubles \n\nLily, as she parted with her lover in the garden, had required of him to attend upon her the next morning as he went to his shooting, and in obedience to this command he appeared on Mrs Dale's lawn after breakfast, accompanied by Bernard and two dogs. The men had guns in their hands, and were got up with all proper sporting appurtenances, but it so turned out that they did not reach the stubble-fields on the farther side of the road until after luncheon. And may it not be fairly doubted whether croquet is not as good as shooting when a man is in love? \n\nIt will be said that Bernard Dale was not in love; but they who bring such accusation against him, will bring it falsely. He was in love with his cousin Bell according to his manner and fashion. It was not his nature to love Bell as John Eames loved Lily; but then neither would his nature bring him into such a trouble as that which the charms of Amelia Roper had brought upon the poor clerk from the Income-tax Office. Johnny was susceptible, as the word goes; whereas Captain Dale was a man who had his feelings well under control. He was not one to make a fool of himself about a girl, or to die of a broken heart; but, nevertheless, he would probably love his wife when he got a wife, and would be a careful father to his children. ",
+        "question": "was it true?",
+        "label": "no",
+        "additional_answers": [
+            "no",
+            "no",
+            "no"
+        ]
+    }
+]

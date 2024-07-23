@@ -1,0 +1,15 @@
+[
+    [
+        3165,
+        [],
+        "Dorothy Malone"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Constance MacKenzie (Dorothy Malone, 1964\u20131968, episodes 1\u2013435; 440 Lola Albright briefly played the role in Malone's absence) Allison's mother and owner of a local book and gift shop. Although Constance initially has a good relationship with Allison, their relationship become strained after Allison finds out Constance lied to her about who her father is. Constance later marries Elliot Carson and has a son with him. Question: Who was the main female lead in Payton Place? Answer:",
+    {
+        "id": "english-889682695045550410-67",
+        "lang": "english",
+        "summary": "Constance MacKenzie (Dorothy Malone, 1964\u20131968, episodes 1\u2013435; 440 Lola Albright briefly played the role in Malone's absence) Allison's mother and owner of a local book and gift shop. Although Constance initially has a good relationship with Allison, their relationship become strained after Allison finds out Constance lied to her about who her father is. Constance later marries Elliot Carson and has a son with him.",
+        "question": "Who was the main female lead in Payton Place?",
+        "label": "Dorothy Malone"
+    }
+]

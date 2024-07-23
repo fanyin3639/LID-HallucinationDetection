@@ -1,0 +1,15 @@
+[
+    [
+        2527,
+        [],
+        "1902"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cadillac is among the first automobile brands in the world, second in the United States only to fellow GM marque Buick. The firm was founded from the remnants of the Henry Ford Company in 1902.[4] It was named after Antoine de la Mothe Cadillac, who founded Detroit, Michigan. The Cadillac crest is based on his coat of arms. Question: When was Cadillac founded? Answer:",
+    {
+        "id": "english--4715511546932451150-1",
+        "lang": "english",
+        "summary": "Cadillac is among the first automobile brands in the world, second in the United States only to fellow GM marque Buick. The firm was founded from the remnants of the Henry Ford Company in 1902.[4] It was named after Antoine de la Mothe Cadillac, who founded Detroit, Michigan. The Cadillac crest is based on his coat of arms.",
+        "question": "When was Cadillac founded?",
+        "label": "1902"
+    }
+]

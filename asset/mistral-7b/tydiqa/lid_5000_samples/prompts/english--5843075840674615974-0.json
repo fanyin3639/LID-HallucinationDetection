@@ -1,0 +1,15 @@
+[
+    [
+        419,
+        [],
+        "a social movement which promotes serving local food at restaurants and school cafeterias, preferably through direct acquisition from the producer (which might be a winery, brewery, ranch, fishery, or other type of food producer which is not strictly a \"farm\")"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Farm-to-table (or farm-to-fork, and in some cases farm-to-school) is a social movement which promotes serving local food at restaurants and school cafeterias, preferably through direct acquisition from the producer (which might be a winery, brewery, ranch, fishery, or other type of food producer which is not strictly a \"farm\").  This might be accomplished by a direct sales relationship, a community-supported agriculture arrangement, a farmer's market, a local distributor or by the restaurant or school raising its own food.  Farm-to-table often incorporates a form of food traceability (celebrated as \"knowing where your food comes from\") where the origin of the food is identified to consumers.  Often restaurants cannot source all the food they need for dishes locally, so only some dishes or only some ingredients are labelled as local. Question: What is farm to table dining? Answer:",
+    {
+        "id": "english--5843075840674615974-0",
+        "lang": "english",
+        "summary": "Farm-to-table (or farm-to-fork, and in some cases farm-to-school) is a social movement which promotes serving local food at restaurants and school cafeterias, preferably through direct acquisition from the producer (which might be a winery, brewery, ranch, fishery, or other type of food producer which is not strictly a \"farm\").  This might be accomplished by a direct sales relationship, a community-supported agriculture arrangement, a farmer's market, a local distributor or by the restaurant or school raising its own food.  Farm-to-table often incorporates a form of food traceability (celebrated as \"knowing where your food comes from\") where the origin of the food is identified to consumers.  Often restaurants cannot source all the food they need for dishes locally, so only some dishes or only some ingredients are labelled as local.",
+        "question": "What is farm to table dining?",
+        "label": "a social movement which promotes serving local food at restaurants and school cafeterias, preferably through direct acquisition from the producer (which might be a winery, brewery, ranch, fishery, or other type of food producer which is not strictly a \"farm\")"
+    }
+]

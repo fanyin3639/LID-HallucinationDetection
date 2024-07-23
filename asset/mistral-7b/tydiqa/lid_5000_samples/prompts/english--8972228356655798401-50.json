@@ -1,0 +1,15 @@
+[
+    [
+        799,
+        [],
+        "hingeless, fully articulated, and teetering"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The mast is a cylindrical metal shaft that extends upwards from the transmission. At the top of the mast is the attachment point for the rotor blades called the hub. The rotor blades are attached to the hub. Main rotor systems are classified according to how the rotor blades are attached and move relative to the hub. There are three basic types: hingeless, fully articulated, and teetering; although some modern rotor systems use a combination of these. Question: What types of helicopters are there? Answer:",
+    {
+        "id": "english--8972228356655798401-50",
+        "lang": "english",
+        "summary": "The mast is a cylindrical metal shaft that extends upwards from the transmission. At the top of the mast is the attachment point for the rotor blades called the hub. The rotor blades are attached to the hub. Main rotor systems are classified according to how the rotor blades are attached and move relative to the hub. There are three basic types: hingeless, fully articulated, and teetering; although some modern rotor systems use a combination of these.",
+        "question": "What types of helicopters are there?",
+        "label": "hingeless, fully articulated, and teetering"
+    }
+]

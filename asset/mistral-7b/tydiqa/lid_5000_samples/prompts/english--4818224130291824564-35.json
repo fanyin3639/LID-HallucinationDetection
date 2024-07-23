@@ -1,0 +1,15 @@
+[
+    [
+        986,
+        [],
+        "January 22, 2014"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On January 22, 2014, students at the University of London Observatory spotted an exploding star SN 2014J in the nearby galaxy M82 (the Cigar Galaxy).  At a distance of around 12 million light years, the supernova is one of the nearest to be observed in recent decades.[67] Question: When was the last recorded supernova? Answer:",
+    {
+        "id": "english--4818224130291824564-35",
+        "lang": "english",
+        "summary": "On January 22, 2014, students at the University of London Observatory spotted an exploding star SN 2014J in the nearby galaxy M82 (the Cigar Galaxy).  At a distance of around 12 million light years, the supernova is one of the nearest to be observed in recent decades.[67]",
+        "question": "When was the last recorded supernova?",
+        "label": "January 22, 2014"
+    }
+]

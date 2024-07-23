@@ -1,0 +1,14 @@
+[
+    [
+        595,
+        [],
+        "A post-mortem examination is to be held to investigate the unexplained death of a British woman in Australia, police say."
+    ],
+    "Write a short summary for the following passage:\nLocal media reported Stacey Tierney, 29, was found dead in a strip club in Melbourne on 19 December.\nThe fitness instructor from Manchester may have lain undiscovered for up to 12 hours, the Herald Sun reported.\nHer body was found at the central Melbourne location about 11:50 local time, Victoria Police said.\n\"The exact circumstances surrounding the English woman's death are yet to be determined and a post mortem will be conducted,\" they said in a statement.\nPolice did not say whether Ms Tierney's death was being treated as suspicious.\nAn online funding page set up to help return Ms Tierney's body to the UK has raised more than \u00c2\u00a311,000 ($13,511; A$18,779).\n\"As some of you may know we sadly lost our beautiful Stacey on Monday,\" a message on the page reads.\n\"Stacey was living her life to the full in Australia and she has made a huge impact on everyone who knew her.\n\"On behalf of her mum Michelle and her sisters Stephanie, Kristie, and Kelly-Anne and the rest of her family we would like to thank everyone for their kind messages of condolence.\"\nSummary:\n",
+    {
+        "id": 595,
+        "document": "Local media reported Stacey Tierney, 29, was found dead in a strip club in Melbourne on 19 December.\nThe fitness instructor from Manchester may have lain undiscovered for up to 12 hours, the Herald Sun reported.\nHer body was found at the central Melbourne location about 11:50 local time, Victoria Police said.\n\"The exact circumstances surrounding the English woman's death are yet to be determined and a post mortem will be conducted,\" they said in a statement.\nPolice did not say whether Ms Tierney's death was being treated as suspicious.\nAn online funding page set up to help return Ms Tierney's body to the UK has raised more than \u00c2\u00a311,000 ($13,511; A$18,779).\n\"As some of you may know we sadly lost our beautiful Stacey on Monday,\" a message on the page reads.\n\"Stacey was living her life to the full in Australia and she has made a huge impact on everyone who knew her.\n\"On behalf of her mum Michelle and her sisters Stephanie, Kristie, and Kelly-Anne and the rest of her family we would like to thank everyone for their kind messages of condolence.\"",
+        "summary": "A post-mortem examination is to be held to investigate the unexplained death of a British woman in Australia, police say.",
+        "label": "A post-mortem examination is to be held to investigate the unexplained death of a British woman in Australia, police say."
+    }
+]

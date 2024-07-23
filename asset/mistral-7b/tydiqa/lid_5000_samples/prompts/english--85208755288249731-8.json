@@ -1,0 +1,15 @@
+[
+    [
+        54,
+        [],
+        "28 December 1843"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Thomas Powell had extensive colliery interests in Monmouthshire and Glamorganshire, and he needed to get a transport link to pits he owned at Llantwit Fardre. Failing to generate interest elsewhere, he determined to build a railway himself to the Glamorganshire Canal at Maesmawr from Llantwit Fardre. This was known as the Dihewyd Railway or the Llantwit Fardre Railway. It was completed by 28 December 1843 and a connection to the Taff Vale Railway was opened on 25 April 1844, when a train of Powell's coal was taken to Cardiff. His line climbed out of Maesmawr on a 297-yard self-acting incline at a gradient of 1 in 6.6. The line was later extended to Ystradbarwig colliery.[3] Question: When did the Taff Vale Junction Railway get made? Answer:",
+    {
+        "id": "english--85208755288249731-8",
+        "lang": "english",
+        "summary": "Thomas Powell had extensive colliery interests in Monmouthshire and Glamorganshire, and he needed to get a transport link to pits he owned at Llantwit Fardre. Failing to generate interest elsewhere, he determined to build a railway himself to the Glamorganshire Canal at Maesmawr from Llantwit Fardre. This was known as the Dihewyd Railway or the Llantwit Fardre Railway. It was completed by 28 December 1843 and a connection to the Taff Vale Railway was opened on 25 April 1844, when a train of Powell's coal was taken to Cardiff. His line climbed out of Maesmawr on a 297-yard self-acting incline at a gradient of 1 in 6.6. The line was later extended to Ystradbarwig colliery.[3]",
+        "question": "When did the Taff Vale Junction Railway get made?",
+        "label": "28 December 1843"
+    }
+]

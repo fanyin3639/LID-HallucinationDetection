@@ -1,0 +1,15 @@
+[
+    [
+        1666,
+        [],
+        "one-half"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Ute require a 5/8 blood quantum, the highest requirement of any American tribe. The Miccosukee of Florida, the Mississippi Choctaw, and the St. Croix Chippewa of Wisconsin all require one-half \"tribal blood quantum\", also a high percentage. Question: What is the blood quantum for the Mississippi Choctaw? Answer:",
+    {
+        "id": "english-3431134813409003961-30",
+        "lang": "english",
+        "summary": "The Ute require a 5/8 blood quantum, the highest requirement of any American tribe. The Miccosukee of Florida, the Mississippi Choctaw, and the St. Croix Chippewa of Wisconsin all require one-half \"tribal blood quantum\", also a high percentage.",
+        "question": "What is the blood quantum for the Mississippi Choctaw?",
+        "label": "one-half"
+    }
+]

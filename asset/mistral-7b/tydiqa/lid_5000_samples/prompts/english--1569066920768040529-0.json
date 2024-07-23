@@ -1,0 +1,15 @@
+[
+    [
+        3002,
+        [],
+        "July or August 2020"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mars 2020 is a Mars rover mission by NASA's Mars Exploration Program with a planned launch in July or August 2020.[1] It will investigate an astrobiologically relevant ancient environment on Mars, investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials.[5][6] It will cache sample containers along its route for a potential future Mars sample-return mission.[6][7][8] Question: When is the next rover heading to Mars? Answer:",
+    {
+        "id": "english--1569066920768040529-0",
+        "lang": "english",
+        "summary": "Mars 2020 is a Mars rover mission by NASA's Mars Exploration Program with a planned launch in July or August 2020.[1] It will investigate an astrobiologically relevant ancient environment on Mars, investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials.[5][6] It will cache sample containers along its route for a potential future Mars sample-return mission.[6][7][8]",
+        "question": "When is the next rover heading to Mars?",
+        "label": "July or August 2020"
+    }
+]

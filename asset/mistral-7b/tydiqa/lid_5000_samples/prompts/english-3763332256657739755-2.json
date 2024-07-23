@@ -1,0 +1,15 @@
+[
+    [
+        2637,
+        [],
+        "26.0mi"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The River Swilly rises near Glendore,  a mountain in County Donegal, and flows for around 41.8km (26.0mi) through Letterkenny before flowing into the Atlantic Ocean at Lough Swilly. Question: How long is the River Swilly in Ireland? Answer:",
+    {
+        "id": "english-3763332256657739755-2",
+        "lang": "english",
+        "summary": "The River Swilly rises near Glendore,  a mountain in County Donegal, and flows for around 41.8km (26.0mi) through Letterkenny before flowing into the Atlantic Ocean at Lough Swilly.",
+        "question": "How long is the River Swilly in Ireland?",
+        "label": "26.0mi"
+    }
+]

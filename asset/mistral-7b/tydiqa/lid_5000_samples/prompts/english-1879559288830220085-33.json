@@ -1,0 +1,15 @@
+[
+    [
+        3054,
+        [],
+        "50,263"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Destiny 2 received \"generally favorable\" reviews, according to review aggregator Metacritic.[58][59][60] Some reviewers labeled the game as Destiny 1.5 due to its many similarities to the original Destiny, but praise was given to improvements made over its predecessor.[61][3] Destiny 2 sold 50,263 copies on PlayStation 4 within its first week on sale in Japan, which placed it at number one on the weekly sales charts.[69] The weekend consisting of September 23, Destiny 2 took the number 1 spot on the UK sales chart.[70] Destiny 2 was also the second highest-grossing console game of 2017 in North America (behind Call of Duty: WWII), and was also Activision's biggest PC release based on units sold.[71] Digital downloads for Destiny 2 account for more than half of the total sales of the game.[72][73] Question: How many copies of Destiny 2 were sold? Answer:",
+    {
+        "id": "english-1879559288830220085-33",
+        "lang": "english",
+        "summary": "Destiny 2 received \"generally favorable\" reviews, according to review aggregator Metacritic.[58][59][60] Some reviewers labeled the game as Destiny 1.5 due to its many similarities to the original Destiny, but praise was given to improvements made over its predecessor.[61][3] Destiny 2 sold 50,263 copies on PlayStation 4 within its first week on sale in Japan, which placed it at number one on the weekly sales charts.[69] The weekend consisting of September 23, Destiny 2 took the number 1 spot on the UK sales chart.[70] Destiny 2 was also the second highest-grossing console game of 2017 in North America (behind Call of Duty: WWII), and was also Activision's biggest PC release based on units sold.[71] Digital downloads for Destiny 2 account for more than half of the total sales of the game.[72][73]",
+        "question": "How many copies of Destiny 2 were sold?",
+        "label": "50,263"
+    }
+]

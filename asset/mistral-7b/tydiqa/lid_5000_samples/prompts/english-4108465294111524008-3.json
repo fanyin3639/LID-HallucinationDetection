@@ -1,0 +1,15 @@
+[
+    [
+        1780,
+        [],
+        "Hans Winkler"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: From the Greek \u0393\u0395\u039d[6] gen, \"gene\" (gamma, epsilon, nu, epsilon) meaning \"become, create, creation, birth\", and subsequent variants: genealogy, genesis, genetics, genic, genomere, genotype, genus etc. While the word genome (from the German Genom, attributed to Hans Winkler) was in use in English as early as 1926,[7] the term genomics was coined by Tom Roderick, a geneticist at the Jackson Laboratory (Bar Harbor, Maine), over beer at a meeting held in Maryland on the mapping of the human genome in 1986.[8] Question: Who coined the term genome? Answer:",
+    {
+        "id": "english-4108465294111524008-3",
+        "lang": "english",
+        "summary": "From the Greek \u0393\u0395\u039d[6] gen, \"gene\" (gamma, epsilon, nu, epsilon) meaning \"become, create, creation, birth\", and subsequent variants: genealogy, genesis, genetics, genic, genomere, genotype, genus etc. While the word genome (from the German Genom, attributed to Hans Winkler) was in use in English as early as 1926,[7] the term genomics was coined by Tom Roderick, a geneticist at the Jackson Laboratory (Bar Harbor, Maine), over beer at a meeting held in Maryland on the mapping of the human genome in 1986.[8]",
+        "question": "Who coined the term genome?",
+        "label": "Hans Winkler"
+    }
+]

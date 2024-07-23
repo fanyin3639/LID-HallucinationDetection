@@ -1,0 +1,15 @@
+[
+    [
+        2856,
+        [],
+        "1923"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The city was founded as a trading post by Henry Morton Stanley in 1881. It was named L\u00e9opoldville in honour of King Leopold II of Belgium, who controlled the vast territory that is now the Democratic Republic of the Congo, not as a colony but as a private property. The post flourished as the first navigable port on the Congo River above Livingstone Falls, a series of rapids over 300 kilometres (190 miles) below Leopoldville. At first, all goods arriving by sea or being sent by sea had to be carried by porters between L\u00e9opoldville and Matadi, the port below the rapids and 150km (93mi) from the coast. The completion of the Matadi-Kinshasa portage railway, in 1898, provided an alternative route around the rapids and sparked the rapid development of L\u00e9opoldville. In 1914, a pipeline was installed so that crude oil could be transported from Matadi to the upriver steamers in Leopoldville.[9] By 1923, the city was elevated to capital of the Belgian Congo, replacing the town of Boma in the Congo estuary.[9] The town, nicknamed \"L\u00e9o\" or \"Leopold\", became a commercial centre and grew rapidly during the colonial period. Question: When did Kinshasa become the capital of the Congo? Answer:",
+    {
+        "id": "english--5353425366480988577-4",
+        "lang": "english",
+        "summary": "The city was founded as a trading post by Henry Morton Stanley in 1881. It was named L\u00e9opoldville in honour of King Leopold II of Belgium, who controlled the vast territory that is now the Democratic Republic of the Congo, not as a colony but as a private property. The post flourished as the first navigable port on the Congo River above Livingstone Falls, a series of rapids over 300 kilometres (190 miles) below Leopoldville. At first, all goods arriving by sea or being sent by sea had to be carried by porters between L\u00e9opoldville and Matadi, the port below the rapids and 150km (93mi) from the coast. The completion of the Matadi-Kinshasa portage railway, in 1898, provided an alternative route around the rapids and sparked the rapid development of L\u00e9opoldville. In 1914, a pipeline was installed so that crude oil could be transported from Matadi to the upriver steamers in Leopoldville.[9] By 1923, the city was elevated to capital of the Belgian Congo, replacing the town of Boma in the Congo estuary.[9] The town, nicknamed \"L\u00e9o\" or \"Leopold\", became a commercial centre and grew rapidly during the colonial period.",
+        "question": "When did Kinshasa become the capital of the Congo?",
+        "label": "1923"
+    }
+]

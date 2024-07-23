@@ -1,0 +1,15 @@
+[
+    [
+        2785,
+        [],
+        "United Nations"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Battle of Kyongju was an engagement between United Nations (UN) and North Korean (NK) forces early in the Korean War from August 31 to September 15, 1950, in the vicinity of Kyongju in South Korea. It was a part of the Battle of Pusan Perimeter, and was one of several large engagements fought simultaneously. The battle ended in a victory for the United Nations after large numbers of United States (US) and Republic of Korea (ROK) troops repelled a strong North Korean attack. Question: Who won The Battle of Kyongju? Answer:",
+    {
+        "id": "english--3417475262512861192-0",
+        "lang": "english",
+        "summary": "The Battle of Kyongju was an engagement between United Nations (UN) and North Korean (NK) forces early in the Korean War from August 31 to September 15, 1950, in the vicinity of Kyongju in South Korea. It was a part of the Battle of Pusan Perimeter, and was one of several large engagements fought simultaneously. The battle ended in a victory for the United Nations after large numbers of United States (US) and Republic of Korea (ROK) troops repelled a strong North Korean attack.",
+        "question": "Who won The Battle of Kyongju?",
+        "label": "United Nations"
+    }
+]

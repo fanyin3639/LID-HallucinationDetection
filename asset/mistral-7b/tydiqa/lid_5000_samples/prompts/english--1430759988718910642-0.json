@@ -1,0 +1,15 @@
+[
+    [
+        1130,
+        [],
+        "the apparent contradiction between the lack of evidence and high probability estimates[1] for the existence of extraterrestrial civilizations"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Fermi paradox, or Fermi's paradox, named after physicist Enrico Fermi, is the apparent contradiction between the lack of evidence and high probability estimates[1] for the existence of extraterrestrial civilizations.[2] The basic points of the argument, made by physicists Enrico Fermi (1901\u20131954) and Michael H. Hart (born 1932), are: Question: What is the Fermi Paradox? Answer:",
+    {
+        "id": "english--1430759988718910642-0",
+        "lang": "english",
+        "summary": "The Fermi paradox, or Fermi's paradox, named after physicist Enrico Fermi, is the apparent contradiction between the lack of evidence and high probability estimates[1] for the existence of extraterrestrial civilizations.[2] The basic points of the argument, made by physicists Enrico Fermi (1901\u20131954) and Michael H. Hart (born 1932), are:",
+        "question": "What is the Fermi Paradox?",
+        "label": "the apparent contradiction between the lack of evidence and high probability estimates[1] for the existence of extraterrestrial civilizations"
+    }
+]

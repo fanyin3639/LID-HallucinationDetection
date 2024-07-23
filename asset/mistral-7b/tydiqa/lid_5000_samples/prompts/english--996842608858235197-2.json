@@ -1,0 +1,15 @@
+[
+    [
+        2728,
+        [],
+        "1990"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1990, the U.S. Fish and Wildlife Service  placed the pallid sturgeon on its endangered species list because few young individuals had been observed in the preceding decade and sightings had greatly diminished;[5] the species is now rarely seen in the wild. It was the first fish species in the Missouri River drainage area to be listed as endangered, and a loss of its habitat is thought to be responsible for its decline. The vast majority of the Missouri River drainage system has been channeled and dammed, reducing the gravel deposits and slow-moving side channels that are its favored spawning areas. Until the middle of the 20th century, pallid sturgeon were common and anglers found catching such a large fish in fresh water a rewarding experience. The species is considered to be good-tasting, and its eggs have been used as caviar, although less commonly than those of many other sturgeon.[6] Question: When did the pallid sturgeon become an endangered species? Answer:",
+    {
+        "id": "english--996842608858235197-2",
+        "lang": "english",
+        "summary": "In 1990, the U.S. Fish and Wildlife Service  placed the pallid sturgeon on its endangered species list because few young individuals had been observed in the preceding decade and sightings had greatly diminished;[5] the species is now rarely seen in the wild. It was the first fish species in the Missouri River drainage area to be listed as endangered, and a loss of its habitat is thought to be responsible for its decline. The vast majority of the Missouri River drainage system has been channeled and dammed, reducing the gravel deposits and slow-moving side channels that are its favored spawning areas. Until the middle of the 20th century, pallid sturgeon were common and anglers found catching such a large fish in fresh water a rewarding experience. The species is considered to be good-tasting, and its eggs have been used as caviar, although less commonly than those of many other sturgeon.[6]",
+        "question": "When did the pallid sturgeon become an endangered species?",
+        "label": "1990"
+    }
+]

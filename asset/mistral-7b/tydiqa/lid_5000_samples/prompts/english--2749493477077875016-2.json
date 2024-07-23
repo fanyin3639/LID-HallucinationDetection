@@ -1,0 +1,15 @@
+[
+    [
+        1366,
+        [],
+        "18.015g/mol"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: As an example, the molar mass of water: M(H2O) \u2248 18.015g/mol. Question: What is the molecular weight of water? Answer:",
+    {
+        "id": "english--2749493477077875016-2",
+        "lang": "english",
+        "summary": "As an example, the molar mass of water: M(H2O) \u2248 18.015g/mol.",
+        "question": "What is the molecular weight of water?",
+        "label": "18.015g/mol"
+    }
+]

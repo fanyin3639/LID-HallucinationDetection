@@ -1,0 +1,14 @@
+[
+    [
+        1265,
+        [],
+        "The number of rape allegations in Wales has more than doubled in the last five years, new figures show."
+    ],
+    "Write a short summary for the following passage:\nLast year 1,657 allegations were recorded by police, of these 670 were child victims under the age of 16.\nThe total is more than double the 785 allegations recorded in 2011-12, according to Rape Monitoring Group data.\nSouth Wales Police logged the largest number of allegations, while Dyfed Powys recorded the least.\nThe data is drawn from official figures by the Home Office, Office for National Statistics, Crown Prosecution Service and Ministry of Justice.\nEnd Violence Against Women Coalition said the figures showed rape was not a \"rare crime\".\nIts co-director Sarah Green said the spike in reporting showed the \"desire to seek justice was increasing\".\nSummary:\n",
+    {
+        "id": 1265,
+        "document": "Last year 1,657 allegations were recorded by police, of these 670 were child victims under the age of 16.\nThe total is more than double the 785 allegations recorded in 2011-12, according to Rape Monitoring Group data.\nSouth Wales Police logged the largest number of allegations, while Dyfed Powys recorded the least.\nThe data is drawn from official figures by the Home Office, Office for National Statistics, Crown Prosecution Service and Ministry of Justice.\nEnd Violence Against Women Coalition said the figures showed rape was not a \"rare crime\".\nIts co-director Sarah Green said the spike in reporting showed the \"desire to seek justice was increasing\".",
+        "summary": "The number of rape allegations in Wales has more than doubled in the last five years, new figures show.",
+        "label": "The number of rape allegations in Wales has more than doubled in the last five years, new figures show."
+    }
+]

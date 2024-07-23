@@ -1,0 +1,14 @@
+[
+    [
+        1394,
+        [],
+        "A driver found dead in a car in bushes might be a man who was last seen a week ago."
+    ],
+    "Write a short summary for the following passage:\nA formal identification is yet to take place but it is believed the man found on a roundabout on Saturday morning near Darlington is Darren Bennett.\nDurham Police confirmed the car the body was in belonged to Mr Bennett. They are not sure when the Renault Megane crashed.\nMr Bennett, 28, from Newton Aycliffe, was last seen at a party on 27 August.\nHe was reported missing three days after the party but Durham Police said there had been no information about the possible route his car had taken.\nIt is thought the car was travelling from Burtree Gate on the A68 when it failed to negotiate the roundabout and went through a chevron board before hitting some trees.\nThe driver was confirmed dead at the scene. Durham Police said they were talking to Mr Bennett's family.\nSgt Andy Sutherland from the Road Policing Unit said: \"Although a formal identification has not so far been possible, we can confirm the car belonged to Mr Bennett and has not been reported stolen.\n\"We are pursuing various lines of enquiry to establish when the crash took place, and we would be keen to hear from anyone who might have seen the Megane on the roads at any time since the weekend of 27 August.\"\nSummary:\n",
+    {
+        "id": 1394,
+        "document": "A formal identification is yet to take place but it is believed the man found on a roundabout on Saturday morning near Darlington is Darren Bennett.\nDurham Police confirmed the car the body was in belonged to Mr Bennett. They are not sure when the Renault Megane crashed.\nMr Bennett, 28, from Newton Aycliffe, was last seen at a party on 27 August.\nHe was reported missing three days after the party but Durham Police said there had been no information about the possible route his car had taken.\nIt is thought the car was travelling from Burtree Gate on the A68 when it failed to negotiate the roundabout and went through a chevron board before hitting some trees.\nThe driver was confirmed dead at the scene. Durham Police said they were talking to Mr Bennett's family.\nSgt Andy Sutherland from the Road Policing Unit said: \"Although a formal identification has not so far been possible, we can confirm the car belonged to Mr Bennett and has not been reported stolen.\n\"We are pursuing various lines of enquiry to establish when the crash took place, and we would be keen to hear from anyone who might have seen the Megane on the roads at any time since the weekend of 27 August.\"",
+        "summary": "A driver found dead in a car in bushes might be a man who was last seen a week ago.",
+        "label": "A driver found dead in a car in bushes might be a man who was last seen a week ago."
+    }
+]

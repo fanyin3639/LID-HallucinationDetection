@@ -1,0 +1,15 @@
+[
+    [
+        2121,
+        [],
+        "April 10, 1849"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: After being issued U.S. patent #6,281 on April 10, 1849,[6] Hunt sold the patent to W. R. Grace and Company for $400 (roughly $12,000 in 2018 dollars). Using that money, Hunt then paid the $15 owed to a friend and kept the remaining amount of $385 for himself. What Hunt failed to realize is that in the years to follow, W.R. Grace and Company would make millions of dollars in profits from his invention.[7][8] Question: When was the first safety pin developed? Answer:",
+    {
+        "id": "english--1330125265319419030-5",
+        "lang": "english",
+        "summary": "After being issued U.S. patent #6,281 on April 10, 1849,[6] Hunt sold the patent to W. R. Grace and Company for $400 (roughly $12,000 in 2018 dollars). Using that money, Hunt then paid the $15 owed to a friend and kept the remaining amount of $385 for himself. What Hunt failed to realize is that in the years to follow, W.R. Grace and Company would make millions of dollars in profits from his invention.[7][8]",
+        "question": "When was the first safety pin developed?",
+        "label": "April 10, 1849"
+    }
+]

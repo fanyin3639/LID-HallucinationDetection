@@ -1,0 +1,14 @@
+[
+    [
+        1659,
+        [],
+        "Fifteen people have been injured in a ceiling collapse at a concert venue in the Norwegian capital."
+    ],
+    "Write a short summary for the following passage:\nThey are receiving medical attention and none is believed to be seriously hurt, Oslo police said.\nAccording to one report, some 1,800 students were attending a show by American house DJ Steve Aoki at Sentrum Scene at the time.\nThe premises were evacuated and cordoned off, and firemen secured the site.\nOne student told Norway's NTB news agency \"it was total chaos\".\nAoki said he was \"saddened and shocked\" by the incident.\nSummary:\n",
+    {
+        "id": 1659,
+        "document": "They are receiving medical attention and none is believed to be seriously hurt, Oslo police said.\nAccording to one report, some 1,800 students were attending a show by American house DJ Steve Aoki at Sentrum Scene at the time.\nThe premises were evacuated and cordoned off, and firemen secured the site.\nOne student told Norway's NTB news agency \"it was total chaos\".\nAoki said he was \"saddened and shocked\" by the incident.",
+        "summary": "Fifteen people have been injured in a ceiling collapse at a concert venue in the Norwegian capital.",
+        "label": "Fifteen people have been injured in a ceiling collapse at a concert venue in the Norwegian capital."
+    }
+]

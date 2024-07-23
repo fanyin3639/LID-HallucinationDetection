@@ -1,0 +1,19 @@
+[
+    [
+        774,
+        [],
+        "The walking catfish"
+    ],
+    "Answer the following questions:\nContext: A fish that lives in America can live out. of water for months at a time, similar to how animals got used to land millions of years ago, a new study shows. The Mangrove Rivulus, a kind of little fish, lives in small pools of water. When their living place dries up, they live. on the land, said Scott Taylor, a researcher in Florida. The fish can grow as large as three inches. They group together and breathe air through their skin before they can find water again. The new scientific discovery came during a trip. \"We were travelling for fun. and one day I kicked over a log and the fish came out,\" Taylor told reporters by telephone. He said he would make his study on the fish known to the public in an American magazine early next year. In lab tests, Taylor said he found the fish can live up to 66 days out of water without eating. Some other fish can live out of water for a short period of time. The walking catfish found in Southeast Asia can stay on land for hours at a time, while lungfish found in Australia, Africa and South America can live out of water, but only in a not active way. But no other known fish can be out of water as long as the Mangrove Rivulus and keep active, according to Patricia Wright, a biologist at a Canadian University. More studies of the fish may tell how animals changed over time. \"These animals live in conditions similar to those millions of years ago, when animals began to move from water onto land,\" Wright said.\n'Question': What kinds?\n'Answer: '",
+    {
+        "id": "3npfyt4izc42dgjyfy8tjwf917jgx4_4",
+        "summary": "A fish that lives in America can live out. of water for months at a time, similar to how animals got used to land millions of years ago, a new study shows. The Mangrove Rivulus, a kind of little fish, lives in small pools of water. When their living place dries up, they live. on the land, said Scott Taylor, a researcher in Florida. The fish can grow as large as three inches. They group together and breathe air through their skin before they can find water again. The new scientific discovery came during a trip. \"We were travelling for fun. and one day I kicked over a log and the fish came out,\" Taylor told reporters by telephone. He said he would make his study on the fish known to the public in an American magazine early next year. In lab tests, Taylor said he found the fish can live up to 66 days out of water without eating. Some other fish can live out of water for a short period of time. The walking catfish found in Southeast Asia can stay on land for hours at a time, while lungfish found in Australia, Africa and South America can live out of water, but only in a not active way. But no other known fish can be out of water as long as the Mangrove Rivulus and keep active, according to Patricia Wright, a biologist at a Canadian University. More studies of the fish may tell how animals changed over time. \"These animals live in conditions similar to those millions of years ago, when animals began to move from water onto land,\" Wright said.",
+        "question": "What kinds?",
+        "label": "The walking catfish",
+        "additional_answers": [
+            "The walking catfish",
+            "The walking catfish and lungfish",
+            "walking catfish and lungfish"
+        ]
+    }
+]

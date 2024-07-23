@@ -1,0 +1,15 @@
+[
+    [
+        1700,
+        [],
+        "42.0 square miles"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the United States Census Bureau, the city has a total area of 42.0 square miles (108.8km2), of which 19.5 square miles (51km2) of it is land and 22.5 square miles (58km2) of it (53.61%) is water. The high official figures for water is due to the extension of the city limit into the ocean, including a strip of city reaching out into the sea and inland again to keep the Santa Barbara Airport (SBA) within the city boundary. Question: How large is Santa Barbara? Answer:",
+    {
+        "id": "english--8593075070574975703-25",
+        "lang": "english",
+        "summary": "According to the United States Census Bureau, the city has a total area of 42.0 square miles (108.8km2), of which 19.5 square miles (51km2) of it is land and 22.5 square miles (58km2) of it (53.61%) is water. The high official figures for water is due to the extension of the city limit into the ocean, including a strip of city reaching out into the sea and inland again to keep the Santa Barbara Airport (SBA) within the city boundary.",
+        "question": "How large is Santa Barbara?",
+        "label": "42.0 square miles"
+    }
+]

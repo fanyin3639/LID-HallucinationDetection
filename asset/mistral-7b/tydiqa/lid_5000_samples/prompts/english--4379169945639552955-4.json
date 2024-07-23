@@ -1,0 +1,15 @@
+[
+    [
+        1815,
+        [],
+        "Caribbean Petroleum Company"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Despite the knowledge of the existence of oil reserves in Venezuela for centuries, the first oil wells of significance were not drilled until the early 1910s. In 1908, Juan Vicente G\u00f3mez replaced his ailing predecessor, Cipriano Castro, as the president of Venezuela.  Over the next few years, G\u00f3mez granted several concessions to explore, produce, and refine oil.  Most of these oil concessions were granted to his closest friends, and they in turn passed them on to foreign oil companies that could actually develop them.[8]  One such concession was granted to Rafael Max Valladares who hired Caribbean Petroleum Company (later acquired by Royal Dutch Shell) to carry out his oil exploration project. On 15 April 1914, upon the completion of the Zumaque-I (now called MG-I) oil well, the first Venezuelan oilfield of importance, Mene Grande, was discovered by Caribbean Petroleum in the Maracaibo Basin.[7]  This major discovery encouraged a massive wave of foreign oil companies to Venezuela in an attempt to get a piece of the action. Question: What was the first company to drill for oil in Venezuela? Answer:",
+    {
+        "id": "english--4379169945639552955-4",
+        "lang": "english",
+        "summary": "Despite the knowledge of the existence of oil reserves in Venezuela for centuries, the first oil wells of significance were not drilled until the early 1910s. In 1908, Juan Vicente G\u00f3mez replaced his ailing predecessor, Cipriano Castro, as the president of Venezuela.  Over the next few years, G\u00f3mez granted several concessions to explore, produce, and refine oil.  Most of these oil concessions were granted to his closest friends, and they in turn passed them on to foreign oil companies that could actually develop them.[8]  One such concession was granted to Rafael Max Valladares who hired Caribbean Petroleum Company (later acquired by Royal Dutch Shell) to carry out his oil exploration project. On 15 April 1914, upon the completion of the Zumaque-I (now called MG-I) oil well, the first Venezuelan oilfield of importance, Mene Grande, was discovered by Caribbean Petroleum in the Maracaibo Basin.[7]  This major discovery encouraged a massive wave of foreign oil companies to Venezuela in an attempt to get a piece of the action.",
+        "question": "What was the first company to drill for oil in Venezuela?",
+        "label": "Caribbean Petroleum Company"
+    }
+]

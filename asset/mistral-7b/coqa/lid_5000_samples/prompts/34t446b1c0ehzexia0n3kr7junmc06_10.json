@@ -1,0 +1,19 @@
+[
+    [
+        821,
+        [],
+        "Development"
+    ],
+    "Answer the following questions:\nContext: Buckinghamshire ( or ), abbreviated Bucks, is a county in South East England which borders Greater London to the south east, Berkshire to the south, Oxfordshire to the west, Northamptonshire to the north, Bedfordshire to the north east and Hertfordshire to the east. \n\nBuckinghamshire is one of the home counties and towns such as High Wycombe, Amersham, Chesham and the Chalfonts in the east and southeast of the county are parts of the London commuter belt, forming some of the most densely-populated parts of the county. Development in this region is restricted by the Metropolitan Green Belt. Other large settlements include the county town of Aylesbury, Marlow in the south near the Thames and Princes Risborough in the west near Oxford. Some areas without direct rail links to London, such as around the old county town of Buckingham and near Olney in the northeast, are much less populous. The largest town is Milton Keynes in the northeast, which with the surrounding area is administered as a unitary authority separately to the rest of Buckinghamshire. The remainder of the county is administered by Buckinghamshire County Council as a non-metropolitan county, and four district councils. In national elections, Buckinghamshire is considered a reliable supporter of the Conservative Party.\n'Question': what is restricted in the area\n'Answer: '",
+    {
+        "id": "34t446b1c0ehzexia0n3kr7junmc06_10",
+        "summary": "Buckinghamshire ( or ), abbreviated Bucks, is a county in South East England which borders Greater London to the south east, Berkshire to the south, Oxfordshire to the west, Northamptonshire to the north, Bedfordshire to the north east and Hertfordshire to the east. \n\nBuckinghamshire is one of the home counties and towns such as High Wycombe, Amersham, Chesham and the Chalfonts in the east and southeast of the county are parts of the London commuter belt, forming some of the most densely-populated parts of the county. Development in this region is restricted by the Metropolitan Green Belt. Other large settlements include the county town of Aylesbury, Marlow in the south near the Thames and Princes Risborough in the west near Oxford. Some areas without direct rail links to London, such as around the old county town of Buckingham and near Olney in the northeast, are much less populous. The largest town is Milton Keynes in the northeast, which with the surrounding area is administered as a unitary authority separately to the rest of Buckinghamshire. The remainder of the county is administered by Buckinghamshire County Council as a non-metropolitan county, and four district councils. In national elections, Buckinghamshire is considered a reliable supporter of the Conservative Party.",
+        "question": "what is restricted in the area",
+        "label": "Development",
+        "additional_answers": [
+            "Development",
+            "Development",
+            "Development"
+        ]
+    }
+]

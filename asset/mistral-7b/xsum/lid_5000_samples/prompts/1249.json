@@ -1,0 +1,14 @@
+[
+    [
+        1249,
+        [],
+        "St George's Park National Football Centre in Staffordshire is the state-of-the-art training headquarters of the England football team."
+    ],
+    "Write a short summary for the following passage:\nMedia playback is unsupported on your device\n12 June 2015 Last updated at 07:23 BST\nThe Football Association's \u00c2\u00a3105 million centre of excellence opened in 2012, and it is hoped the facility could help turn around the fortunes of the national side.\nIt has 12 world class training pitches, gyms, and even labs where scientists can analyse the performance of players like Wayne Rooney, Harry Kane and Joe Hart.\nRicky was invited down to take a look behind the scenes.\nSummary:\n",
+    {
+        "id": 1249,
+        "document": "Media playback is unsupported on your device\n12 June 2015 Last updated at 07:23 BST\nThe Football Association's \u00c2\u00a3105 million centre of excellence opened in 2012, and it is hoped the facility could help turn around the fortunes of the national side.\nIt has 12 world class training pitches, gyms, and even labs where scientists can analyse the performance of players like Wayne Rooney, Harry Kane and Joe Hart.\nRicky was invited down to take a look behind the scenes.",
+        "summary": "St George's Park National Football Centre in Staffordshire is the state-of-the-art training headquarters of the England football team.",
+        "label": "St George's Park National Football Centre in Staffordshire is the state-of-the-art training headquarters of the England football team."
+    }
+]

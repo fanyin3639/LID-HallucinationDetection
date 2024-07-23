@@ -1,0 +1,19 @@
+[
+    [
+        1024,
+        [],
+        "Tatum O'Neal"
+    ],
+    "Answer the following questions:\nContext: Los Angeles, California (CNN) -- Farrah Fawcett's son, Redmond O'Neal, visited his mother's grave for the first time Friday, the anniversary of the actress's death. \n\n\"It was very nice, very beautifully set up,\" he said, sitting on a couch between his father, Ryan O'Neal, and sister, Tatum O'Neal. \"I'm just happy that I'm able to be there for her and let her know I'm doing all right.\" \n\nRedmond O'Neal was on a day pass away from the Pasadena, California, sober living facility where he is undergoing court-ordered drug rehab. \n\nThe three O'Neals were near tears as they spoke exclusively to CNN during a private gathering of friends and family at the Beverly Hills, California, headquarters of the Farrah Fawcett Foundation. \n\n\"Redmond is extremely well,\" Ryan O'Neal said. \"He is recovering from a terrible disease. He seems to have cured himself. We are thrilled about that. And that's why he's here, because they let him.\" \n\n\"To show my face and let everybody know that I'm doing good, you know,\" Redmond O'Neal said. \"You can't hide forever.\" \n\n\"And how handsome he is and how much he looks like Farrah,\" Tatum O'Neal said. \"And how proud she would be and how lucky I am that I can at least be here, because he's so awesome. Oh, I'm going to cry.\" \n\nThe foundation has a mission of funding research and clinical trials into alternative treatments for anal cancer -- which killed Fawcett -- and pediatric cancers. \n\n\"We're trying to show that she hasn't left, that her name is still alive and that maybe there will be something good that comes from this,\" said Ryan O'Neal, her longtime companion. \n'Question': Who was going to cry?\n'Answer: '",
+    {
+        "id": "3pm8nzgv8ygtq5dciud5dajb83fxqm_16",
+        "summary": "Los Angeles, California (CNN) -- Farrah Fawcett's son, Redmond O'Neal, visited his mother's grave for the first time Friday, the anniversary of the actress's death. \n\n\"It was very nice, very beautifully set up,\" he said, sitting on a couch between his father, Ryan O'Neal, and sister, Tatum O'Neal. \"I'm just happy that I'm able to be there for her and let her know I'm doing all right.\" \n\nRedmond O'Neal was on a day pass away from the Pasadena, California, sober living facility where he is undergoing court-ordered drug rehab. \n\nThe three O'Neals were near tears as they spoke exclusively to CNN during a private gathering of friends and family at the Beverly Hills, California, headquarters of the Farrah Fawcett Foundation. \n\n\"Redmond is extremely well,\" Ryan O'Neal said. \"He is recovering from a terrible disease. He seems to have cured himself. We are thrilled about that. And that's why he's here, because they let him.\" \n\n\"To show my face and let everybody know that I'm doing good, you know,\" Redmond O'Neal said. \"You can't hide forever.\" \n\n\"And how handsome he is and how much he looks like Farrah,\" Tatum O'Neal said. \"And how proud she would be and how lucky I am that I can at least be here, because he's so awesome. Oh, I'm going to cry.\" \n\nThe foundation has a mission of funding research and clinical trials into alternative treatments for anal cancer -- which killed Fawcett -- and pediatric cancers. \n\n\"We're trying to show that she hasn't left, that her name is still alive and that maybe there will be something good that comes from this,\" said Ryan O'Neal, her longtime companion. ",
+        "question": "Who was going to cry?",
+        "label": "Tatum O'Neal",
+        "additional_answers": [
+            "Tatum O'Neal",
+            "Tatum O'Neal",
+            "Tatum O'Neal"
+        ]
+    }
+]

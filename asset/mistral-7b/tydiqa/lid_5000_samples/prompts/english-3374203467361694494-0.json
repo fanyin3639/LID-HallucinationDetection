@@ -1,0 +1,15 @@
+[
+    [
+        564,
+        [],
+        "Coliseo de Puerto Rico Jos\u00e9 Miguel Agrelot"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Coliseo de Puerto Rico Jos\u00e9 Miguel Agrelot (English: Jos\u00e9 Miguel Agrelot Coliseum of Puerto Rico) is the biggest indoor arena in Puerto Rico dedicated to entertainment. It is located at the Golden Mile of San Juan, the island capital. It is usually referred by Puerto Ricans as the Choliseo, which is a portmanteau of the words \"Coliseo\" and \"Cholito\", in reference to Don Cholito, one of Jos\u00e9 Miguel Agrelot's characters and Agrelot's own adopted nickname. Question: What is the largest basketball stadium in Puerto Rico? Answer:",
+    {
+        "id": "english-3374203467361694494-0",
+        "lang": "english",
+        "summary": "The Coliseo de Puerto Rico Jos\u00e9 Miguel Agrelot (English: Jos\u00e9 Miguel Agrelot Coliseum of Puerto Rico) is the biggest indoor arena in Puerto Rico dedicated to entertainment. It is located at the Golden Mile of San Juan, the island capital. It is usually referred by Puerto Ricans as the Choliseo, which is a portmanteau of the words \"Coliseo\" and \"Cholito\", in reference to Don Cholito, one of Jos\u00e9 Miguel Agrelot's characters and Agrelot's own adopted nickname.",
+        "question": "What is the largest basketball stadium in Puerto Rico?",
+        "label": "Coliseo de Puerto Rico Jos\u00e9 Miguel Agrelot"
+    }
+]

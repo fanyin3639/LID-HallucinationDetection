@@ -1,0 +1,19 @@
+[
+    [
+        1478,
+        [],
+        "she dared him to lick a worm she found on the sidewalk"
+    ],
+    "Answer the following questions:\nContext: There once was a boy named John who was a good superhero. He thought he was a superhero, at least. His mommy made him eat his cereal with yoghurt every morning so he could stay strong. Today he had to go to school and he wasn't very happy about that. After breakfast he walked to the bus stop. There he found his neighbor Ashley, who was also an evil superhero. John thought she was an evil superhero at least. When John got to the bus stop, Ashley made a silly face at him. Then she dared him to lick a worm she found on the sidewalk. John had super powers, so he said yes to the dare. He picked up the worm. It was slimy and gross. It wiggled around between his fingers. John closed his eyes and licked it. Ashley laughed so hard, she fell to the ground. But John felt like a real superhero who had won the day for good kids everywhere. First thing tomorrow, John would start wearing a cape to school. He hoped his mommy would let him wear it. The bus came and Ashley was still sitting on the ground laughing. John had a great, superhero kind of thought. He put the worm in her hair. Now Ashley was screaming! John the superhero got in trouble for that.\n'Question': And then?\n'Answer: '",
+    {
+        "id": "33jkghpfycuxtw1govjfyz88vnknme_6",
+        "summary": "There once was a boy named John who was a good superhero. He thought he was a superhero, at least. His mommy made him eat his cereal with yoghurt every morning so he could stay strong. Today he had to go to school and he wasn't very happy about that. After breakfast he walked to the bus stop. There he found his neighbor Ashley, who was also an evil superhero. John thought she was an evil superhero at least. When John got to the bus stop, Ashley made a silly face at him. Then she dared him to lick a worm she found on the sidewalk. John had super powers, so he said yes to the dare. He picked up the worm. It was slimy and gross. It wiggled around between his fingers. John closed his eyes and licked it. Ashley laughed so hard, she fell to the ground. But John felt like a real superhero who had won the day for good kids everywhere. First thing tomorrow, John would start wearing a cape to school. He hoped his mommy would let him wear it. The bus came and Ashley was still sitting on the ground laughing. John had a great, superhero kind of thought. He put the worm in her hair. Now Ashley was screaming! John the superhero got in trouble for that.",
+        "question": "And then?",
+        "label": "she dared him to lick a worm she found on the sidewalk",
+        "additional_answers": [
+            "Dared him to lick a worm.",
+            "she dared him to lick a worm",
+            "dared him to lick a worm"
+        ]
+    }
+]

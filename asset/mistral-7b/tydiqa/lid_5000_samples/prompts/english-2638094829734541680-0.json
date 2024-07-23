@@ -1,0 +1,15 @@
+[
+    [
+        2095,
+        [],
+        "1849 until 17 March 1861"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Victor Emmanuel II (Italian: Vittorio Emanuele II; full name: Vittorio Emanuele Maria Alberto Eugenio Ferdinando Tommaso di Savoia; 14 March 1820 \u2013 9 January 1878) was King of Sardinia from 1849 until 17 March 1861. At that point, he assumed the title of King of Italy and became the first king of a united Italy since the 6th century, a title he held until his death in 1878. The Italians gave him the epithet of Father of the Fatherland (Italian: Padre della Patria). The monument Altare della Patria (or Vittoriano) in Rome was built in his honor. Question: How long did King Victor Emmanuel II reign? Answer:",
+    {
+        "id": "english-2638094829734541680-0",
+        "lang": "english",
+        "summary": "Victor Emmanuel II (Italian: Vittorio Emanuele II; full name: Vittorio Emanuele Maria Alberto Eugenio Ferdinando Tommaso di Savoia; 14 March 1820 \u2013 9 January 1878) was King of Sardinia from 1849 until 17 March 1861. At that point, he assumed the title of King of Italy and became the first king of a united Italy since the 6th century, a title he held until his death in 1878. The Italians gave him the epithet of Father of the Fatherland (Italian: Padre della Patria). The monument Altare della Patria (or Vittoriano) in Rome was built in his honor.",
+        "question": "How long did King Victor Emmanuel II reign?",
+        "label": "1849 until 17 March 1861"
+    }
+]

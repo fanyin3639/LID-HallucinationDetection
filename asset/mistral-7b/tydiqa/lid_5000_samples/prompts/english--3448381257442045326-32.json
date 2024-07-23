@@ -1,0 +1,15 @@
+[
+    [
+        1515,
+        [],
+        "9,000-10,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: By late 1774 the tide was turning, and the Russian army's victory at Tsaritsyn left 9,000-10,000 rebels dead.  Russian General Panin's savage reprisals, after the capture of Penza, completed their discomfiture. By early September, the rebellion was crushed. Yemelyan Pugachev was betrayed by his own Cossacks when he tried to flee in mid-September 1774. He was beheaded and dismembered on 21 January 1775, in Moscow. Question: How many people died in the Pugachev's Rebellion? Answer:",
+    {
+        "id": "english--3448381257442045326-32",
+        "lang": "english",
+        "summary": "By late 1774 the tide was turning, and the Russian army's victory at Tsaritsyn left 9,000-10,000 rebels dead.  Russian General Panin's savage reprisals, after the capture of Penza, completed their discomfiture. By early September, the rebellion was crushed. Yemelyan Pugachev was betrayed by his own Cossacks when he tried to flee in mid-September 1774. He was beheaded and dismembered on 21 January 1775, in Moscow.",
+        "question": "How many people died in the Pugachev's Rebellion?",
+        "label": "9,000-10,000"
+    }
+]

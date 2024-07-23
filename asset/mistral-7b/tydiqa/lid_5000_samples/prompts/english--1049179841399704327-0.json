@@ -1,0 +1,15 @@
+[
+    [
+        1495,
+        [],
+        "a cinematic genre inspired by and analogous to the crime fiction literary genre"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Crime films, in the broadest sense, are a cinematic genre inspired by and analogous to the crime fiction literary genre. Films of this genre generally involve various aspects of crime and its detection. Stylistically, the genre may overlap and combine with many other genres, such as drama or gangster film[1], but also include comedy, and, in turn, is divided into many sub-genres, such as mystery, suspense or noir. Question: What is a crime drama? Answer:",
+    {
+        "id": "english--1049179841399704327-0",
+        "lang": "english",
+        "summary": "Crime films, in the broadest sense, are a cinematic genre inspired by and analogous to the crime fiction literary genre. Films of this genre generally involve various aspects of crime and its detection. Stylistically, the genre may overlap and combine with many other genres, such as drama or gangster film[1], but also include comedy, and, in turn, is divided into many sub-genres, such as mystery, suspense or noir.",
+        "question": "What is a crime drama?",
+        "label": "a cinematic genre inspired by and analogous to the crime fiction literary genre"
+    }
+]

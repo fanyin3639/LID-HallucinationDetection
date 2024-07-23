@@ -1,0 +1,15 @@
+[
+    [
+        802,
+        [],
+        "Ethiopia"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Tigray Region (Amharic: \u12ad\u120d\u120d \u1275\u130d\u122b\u12ed, kilil Tigr\u0101y; Official name: Amharic: \u1265\u1214\u122b\u12ca \u12ad\u120d\u120b\u12ca \u1218\u1295\u130d\u1225\u1272 \u1275\u130d\u122b\u12ed, B\u0259h\u0329erawi K\u0259llelawi M\u00e4ng\u0259\u015bti T\u0259gray, \"Tigray National Regional State\") is the northernmost of the nine regions (kililat) of Ethiopia. Tigray is the homeland of the Tigrayan, Irob and Kunama peoples. Tigray is also known as Region 1 according to the federal constitution. Its capital and largest city is Mekelle. Tigray is the 6th largest by area, the 5th most populous, and the 5th most densely populated of the 9 Regional States. Question: Where is the Tigray Region? Answer:",
+    {
+        "id": "english--1884742114977587890-0",
+        "lang": "english",
+        "summary": "Tigray Region (Amharic: \u12ad\u120d\u120d \u1275\u130d\u122b\u12ed, kilil Tigr\u0101y; Official name: Amharic: \u1265\u1214\u122b\u12ca \u12ad\u120d\u120b\u12ca \u1218\u1295\u130d\u1225\u1272 \u1275\u130d\u122b\u12ed, B\u0259h\u0329erawi K\u0259llelawi M\u00e4ng\u0259\u015bti T\u0259gray, \"Tigray National Regional State\") is the northernmost of the nine regions (kililat) of Ethiopia. Tigray is the homeland of the Tigrayan, Irob and Kunama peoples. Tigray is also known as Region 1 according to the federal constitution. Its capital and largest city is Mekelle. Tigray is the 6th largest by area, the 5th most populous, and the 5th most densely populated of the 9 Regional States.",
+        "question": "Where is the Tigray Region?",
+        "label": "Ethiopia"
+    }
+]

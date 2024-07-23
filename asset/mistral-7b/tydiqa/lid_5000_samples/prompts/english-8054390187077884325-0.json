@@ -1,0 +1,15 @@
+[
+    [
+        3144,
+        [],
+        "Mustela putorius"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The European polecat (Mustela putorius)\u2013 also known as the common ferret, black or forest polecat, or fitch (as well as some other names)\u2013 is a species of mustelid native to western Eurasia and north Morocco. It is of a generally dark brown colour, with a pale underbelly and a dark mask across the face. Occasionally, colour mutations, including albinos and erythrists, occur.[2] Compared to minks and other weasels\u2013 fellow members of the genus Mustela\u2013 the polecat has a shorter, more compact body;[3] a more powerfully built skull and dentition;[4] is less agile;[5] and it is well known for having the characteristic ability to secrete a particularly foul-smelling liquid to mark its territory. Question: What is the scientific name of the european polecat? Answer:",
+    {
+        "id": "english-8054390187077884325-0",
+        "lang": "english",
+        "summary": "The European polecat (Mustela putorius)\u2013 also known as the common ferret, black or forest polecat, or fitch (as well as some other names)\u2013 is a species of mustelid native to western Eurasia and north Morocco. It is of a generally dark brown colour, with a pale underbelly and a dark mask across the face. Occasionally, colour mutations, including albinos and erythrists, occur.[2] Compared to minks and other weasels\u2013 fellow members of the genus Mustela\u2013 the polecat has a shorter, more compact body;[3] a more powerfully built skull and dentition;[4] is less agile;[5] and it is well known for having the characteristic ability to secrete a particularly foul-smelling liquid to mark its territory.",
+        "question": "What is the scientific name of the european polecat?",
+        "label": "Mustela putorius"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        1869,
+        [],
+        "$2.8 billion"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Overall, the tornado killed 158 people (with an additional three indirect deaths), injured some 1,150 others, and caused damages amounting to a total of $2.8 billion. It was the deadliest tornado to strike the United States since the 1947 Glazier\u2013Higgins\u2013Woodward tornadoes, and the seventh-deadliest overall.  Question: What was the cost of the damages from the tornado at Joplin? Answer:",
+    {
+        "id": "english--2385591145000595815-1",
+        "lang": "english",
+        "summary": "Overall, the tornado killed 158 people (with an additional three indirect deaths), injured some 1,150 others, and caused damages amounting to a total of $2.8 billion. It was the deadliest tornado to strike the United States since the 1947 Glazier\u2013Higgins\u2013Woodward tornadoes, and the seventh-deadliest overall. ",
+        "question": "What was the cost of the damages from the tornado at Joplin?",
+        "label": "$2.8 billion"
+    }
+]

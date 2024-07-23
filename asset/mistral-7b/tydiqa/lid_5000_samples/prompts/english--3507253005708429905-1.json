@@ -1,0 +1,15 @@
+[
+    [
+        789,
+        [],
+        "William Naylor"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: It comprised six 60-minute episodes (reduced to 48 minutes for VH1 Classic), with a final episode of 90 minutes, and was broadcast on Saturdays at 21:00 (repeated on BBC One on Sundays). Each episode focused on one type of rock music, each typified by one or two artists or bands. The series producer was William Naylor, and the executive producer for the BBC was Michael Poole, a former editor of the 1990s BBC music, arts and culture programme The Late Show. The production was based at BBC Bristol and each programme was narrated by Julian Rhind-Tutt on the BBC and Dennis Hopper on VH1 classic.[1][2] Question: Who produced Seven Ages of Rock? Answer:",
+    {
+        "id": "english--3507253005708429905-1",
+        "lang": "english",
+        "summary": "It comprised six 60-minute episodes (reduced to 48 minutes for VH1 Classic), with a final episode of 90 minutes, and was broadcast on Saturdays at 21:00 (repeated on BBC One on Sundays). Each episode focused on one type of rock music, each typified by one or two artists or bands. The series producer was William Naylor, and the executive producer for the BBC was Michael Poole, a former editor of the 1990s BBC music, arts and culture programme The Late Show. The production was based at BBC Bristol and each programme was narrated by Julian Rhind-Tutt on the BBC and Dennis Hopper on VH1 classic.[1][2]",
+        "question": "Who produced Seven Ages of Rock?",
+        "label": "William Naylor"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        303,
+        [],
+        "February 15, 1820\u2013 March 13, 1906"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Susan B. Anthony (February 15, 1820\u2013 March 13, 1906) was an American social reformer and women's rights activist who played a pivotal role in the women's suffrage movement. Born into a Quaker family committed to social equality, she collected anti-slavery petitions at the age of 17. In 1856, she became the New York state agent for the American Anti-Slavery Society. Question: When did Susan B. Anthony live? Answer:",
+    {
+        "id": "english--8251189949199048644-0",
+        "lang": "english",
+        "summary": "Susan B. Anthony (February 15, 1820\u2013 March 13, 1906) was an American social reformer and women's rights activist who played a pivotal role in the women's suffrage movement. Born into a Quaker family committed to social equality, she collected anti-slavery petitions at the age of 17. In 1856, she became the New York state agent for the American Anti-Slavery Society.",
+        "question": "When did Susan B. Anthony live?",
+        "label": "February 15, 1820\u2013 March 13, 1906"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2195,
+        [],
+        "Kenny G"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Kenny G is the debut studio album by American jazz saxophonist Kenny G, released in 1982. It was released by Arista Records in 1982 and reached number 10 on the Billboard Jazz Albums chart. Question: What was Kenny G's first album? Answer:",
+    {
+        "id": "english-551547109281041307-0",
+        "lang": "english",
+        "summary": "Kenny G is the debut studio album by American jazz saxophonist Kenny G, released in 1982. It was released by Arista Records in 1982 and reached number 10 on the Billboard Jazz Albums chart.",
+        "question": "What was Kenny G's first album?",
+        "label": "Kenny G"
+    }
+]

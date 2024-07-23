@@ -1,0 +1,14 @@
+[
+    [
+        869,
+        [],
+        "Poland's Agnieszka Radwanska beat former Wimbledon champion Petra Kvitova in three sets to win her first WTA Finals title in Singapore."
+    ],
+    "Write a short summary for the following passage:\nThe world number six came from a break down in the deciding set against her 25-year-old Czech opponent to win 6-2 4-6 6-3 in two hours and five minutes.\nIt was the 26-year-old's first final at the event in her seventh appearance.\nWorld number five Kvitova had knocked out five-time Grand Slam winner Maria Sharapova in Saturday's semi-final.\nA tearful Radwanska, the first woman to go on to lift the title after losing two round-robin group games, said: \"It means everything to me, in my first final, I get my first win so it couldn't be any better.\n\"I was doing the right thing in the important moments of a really close match. I had my chances in the second set but it doesn't really matter how I won.\"\nSummary:\n",
+    {
+        "id": 869,
+        "document": "The world number six came from a break down in the deciding set against her 25-year-old Czech opponent to win 6-2 4-6 6-3 in two hours and five minutes.\nIt was the 26-year-old's first final at the event in her seventh appearance.\nWorld number five Kvitova had knocked out five-time Grand Slam winner Maria Sharapova in Saturday's semi-final.\nA tearful Radwanska, the first woman to go on to lift the title after losing two round-robin group games, said: \"It means everything to me, in my first final, I get my first win so it couldn't be any better.\n\"I was doing the right thing in the important moments of a really close match. I had my chances in the second set but it doesn't really matter how I won.\"",
+        "summary": "Poland's Agnieszka Radwanska beat former Wimbledon champion Petra Kvitova in three sets to win her first WTA Finals title in Singapore.",
+        "label": "Poland's Agnieszka Radwanska beat former Wimbledon champion Petra Kvitova in three sets to win her first WTA Finals title in Singapore."
+    }
+]

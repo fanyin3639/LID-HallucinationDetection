@@ -1,0 +1,14 @@
+[
+    [
+        468,
+        [],
+        "The UK's newest and largest warship has returned to Invergordon ahead of making its journey to its home base in Portsmouth."
+    ],
+    "Write a short summary for the following passage:\nContractor, the Aircraft Carrier Alliance, has been putting HMS Queen Elizabeth through sea trials to check how the Rosyth-built ship operates.\nIt was at Invergordon for more than two weeks earlier in the summer.\nChecks carried out during that time included an examination of a propeller shaft after debris became caught in it.\nThe aircraft carrier is expected to arrive in Portsmouth by 22 August.\nThe sea trials were conducted off the north coast of Scotland.\nSummary:\n",
+    {
+        "id": 468,
+        "document": "Contractor, the Aircraft Carrier Alliance, has been putting HMS Queen Elizabeth through sea trials to check how the Rosyth-built ship operates.\nIt was at Invergordon for more than two weeks earlier in the summer.\nChecks carried out during that time included an examination of a propeller shaft after debris became caught in it.\nThe aircraft carrier is expected to arrive in Portsmouth by 22 August.\nThe sea trials were conducted off the north coast of Scotland.",
+        "summary": "The UK's newest and largest warship has returned to Invergordon ahead of making its journey to its home base in Portsmouth.",
+        "label": "The UK's newest and largest warship has returned to Invergordon ahead of making its journey to its home base in Portsmouth."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2364,
+        [],
+        "Rh\u00f4ne"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: At Martigny, where it receives the waters of the Drance on its left bank, the Rh\u00f4ne makes a strong turn towards the north. Heading toward Lake Geneva, the valley narrows, a feature that has long given the Rh\u00f4ne valley strategic importance for the control of the Alpine passes. The Rh\u00f4ne then marks the boundary between the cantons of Valais (left bank) and Vaud (right bank), separating the Valais Chablais and Chablais Vaudois. It enters Lake Geneva near Le Bouveret. Question: What river runs through the Rhone valley? Answer:",
+    {
+        "id": "english--6604466440688841141-9",
+        "lang": "english",
+        "summary": "At Martigny, where it receives the waters of the Drance on its left bank, the Rh\u00f4ne makes a strong turn towards the north. Heading toward Lake Geneva, the valley narrows, a feature that has long given the Rh\u00f4ne valley strategic importance for the control of the Alpine passes. The Rh\u00f4ne then marks the boundary between the cantons of Valais (left bank) and Vaud (right bank), separating the Valais Chablais and Chablais Vaudois. It enters Lake Geneva near Le Bouveret.",
+        "question": "What river runs through the Rhone valley?",
+        "label": "Rh\u00f4ne"
+    }
+]

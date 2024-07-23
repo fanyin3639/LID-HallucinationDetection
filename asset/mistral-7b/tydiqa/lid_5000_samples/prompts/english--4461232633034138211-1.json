@@ -1,0 +1,15 @@
+[
+    [
+        1421,
+        [],
+        "September 11, 1941"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The building was designed by American architect George Bergstrom and built by contractor John McShain. Ground was broken on September 11, 1941, and the building was dedicated on January 15, 1943. General Brehon Somervell provided the major motivating power behind the project;[5] Colonel Leslie Groves was responsible for overseeing the project for the U.S. Army. Question: When was the Pentagon built? Answer:",
+    {
+        "id": "english--4461232633034138211-1",
+        "lang": "english",
+        "summary": "The building was designed by American architect George Bergstrom and built by contractor John McShain. Ground was broken on September 11, 1941, and the building was dedicated on January 15, 1943. General Brehon Somervell provided the major motivating power behind the project;[5] Colonel Leslie Groves was responsible for overseeing the project for the U.S. Army.",
+        "question": "When was the Pentagon built?",
+        "label": "September 11, 1941"
+    }
+]

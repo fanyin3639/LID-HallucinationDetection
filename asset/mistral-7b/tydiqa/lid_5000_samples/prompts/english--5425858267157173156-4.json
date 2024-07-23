@@ -1,0 +1,15 @@
+[
+    [
+        1088,
+        [],
+        "data loss"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The most notorious cause of drive failure is a head crash, where the internal read-and-write head of the device, usually just hovering above the surface, touches a platter, or scratches the magnetic data-storage surface. A head crash usually incurs severe data loss, and data recovery attempts may cause further damage if not done by a specialist with proper equipment. Drive platters are coated with an extremely thin layer of non-electrostatic lubricant, so that the read-and-write head will simply glance off the surface of the platter should a collision occur. However, this head hovers mere nanometers from the platter's surface which makes a collision an acknowledged risk. Another cause of failure is a faulty air filter. The air filters on today's drives equalize the atmospheric pressure and moisture between the drive enclosure and its outside environment. If the filter fails to capture a dust particle, the particle can land on the platter, causing a head crash if the head happens to sweep over it. After a head crash, particles from the damaged platter and head media can cause one or more bad sectors. These, in addition to platter damage, will quickly render a drive useless. A drive also includes controller electronics, which occasionally fail. In such cases, it may be possible to recover all data. Question: What's the number one sign of a failing drive? Answer:",
+    {
+        "id": "english--5425858267157173156-4",
+        "lang": "english",
+        "summary": "The most notorious cause of drive failure is a head crash, where the internal read-and-write head of the device, usually just hovering above the surface, touches a platter, or scratches the magnetic data-storage surface. A head crash usually incurs severe data loss, and data recovery attempts may cause further damage if not done by a specialist with proper equipment. Drive platters are coated with an extremely thin layer of non-electrostatic lubricant, so that the read-and-write head will simply glance off the surface of the platter should a collision occur. However, this head hovers mere nanometers from the platter's surface which makes a collision an acknowledged risk. Another cause of failure is a faulty air filter. The air filters on today's drives equalize the atmospheric pressure and moisture between the drive enclosure and its outside environment. If the filter fails to capture a dust particle, the particle can land on the platter, causing a head crash if the head happens to sweep over it. After a head crash, particles from the damaged platter and head media can cause one or more bad sectors. These, in addition to platter damage, will quickly render a drive useless. A drive also includes controller electronics, which occasionally fail. In such cases, it may be possible to recover all data.",
+        "question": "What's the number one sign of a failing drive?",
+        "label": "data loss"
+    }
+]

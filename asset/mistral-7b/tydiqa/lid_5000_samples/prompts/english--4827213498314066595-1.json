@@ -1,0 +1,15 @@
+[
+    [
+        2169,
+        [],
+        "July 1995"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Dreams from My Father: A Story of Race and Inheritance (1995) is a memoir by Barack Obama, who was elected as U.S. President in 2008. The memoir explores the events of Obama's early years in Honolulu and Chicago up until his entry into law school in 1988. Obama published the memoir in July 1995, when he was starting his political campaign for Illinois Senate.[1] He had been elected as the first African-American president of the Harvard Law Review in 1990.[2] According to The New York Times, Obama modeled Dreams from My Father on Ralph Ellison's novel Invisible Man.[3] Question: When did Barack Obama write his autobiography? Answer:",
+    {
+        "id": "english--4827213498314066595-1",
+        "lang": "english",
+        "summary": "Dreams from My Father: A Story of Race and Inheritance (1995) is a memoir by Barack Obama, who was elected as U.S. President in 2008. The memoir explores the events of Obama's early years in Honolulu and Chicago up until his entry into law school in 1988. Obama published the memoir in July 1995, when he was starting his political campaign for Illinois Senate.[1] He had been elected as the first African-American president of the Harvard Law Review in 1990.[2] According to The New York Times, Obama modeled Dreams from My Father on Ralph Ellison's novel Invisible Man.[3]",
+        "question": "When did Barack Obama write his autobiography?",
+        "label": "July 1995"
+    }
+]

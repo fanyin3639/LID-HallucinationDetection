@@ -1,0 +1,15 @@
+[
+    [
+        532,
+        [],
+        "Cale Wassermann"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On November 30, 2018, it was announced that Mario Sanchez had resigned to accept the position of Director of Youth Development and Community Relations for Louisville City FC of the United Soccer League. The search for a permanent replacement began immediately.[4]  On January 18, Michigan State assistan coach Cale Wassermann was named as the Cougars' new head coach.[5] Question: Who is head coach of the SIU Edwardsville Cougars men's soccer team? Answer:",
+    {
+        "id": "english-4276414178565420383-2",
+        "lang": "english",
+        "summary": "On November 30, 2018, it was announced that Mario Sanchez had resigned to accept the position of Director of Youth Development and Community Relations for Louisville City FC of the United Soccer League. The search for a permanent replacement began immediately.[4]  On January 18, Michigan State assistan coach Cale Wassermann was named as the Cougars' new head coach.[5]",
+        "question": "Who is head coach of the SIU Edwardsville Cougars men's soccer team?",
+        "label": "Cale Wassermann"
+    }
+]

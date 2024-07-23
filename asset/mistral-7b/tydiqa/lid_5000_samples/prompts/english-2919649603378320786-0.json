@@ -1,0 +1,15 @@
+[
+    [
+        518,
+        [],
+        "1990s"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: American Indian Model Schools (AIM Schools) is a charter school system based in Oakland, California.[2] Started with the American Indian Public Charter School, a middle school in the late 1990s to serve Native American students, in 2007 it expanded to include another middle school and a high school. The main campus is in the Laurel area and includes American Indian Public Charter School (AIPCS), a middle school of grades 5-8, and American Indian Public High School (AIPHS), a high school (9-12). AIPHS students can also take select classes at Merritt College. American Indian Public Charter School II (AIPCS II) has grades K-8 at a second campus located in Oakland's Chinatown. By 2012 the student population of the AIM schools had become 90% Asian American. Question: When was the American Indian Model Schools system established? Answer:",
+    {
+        "id": "english-2919649603378320786-0",
+        "lang": "english",
+        "summary": "American Indian Model Schools (AIM Schools) is a charter school system based in Oakland, California.[2] Started with the American Indian Public Charter School, a middle school in the late 1990s to serve Native American students, in 2007 it expanded to include another middle school and a high school. The main campus is in the Laurel area and includes American Indian Public Charter School (AIPCS), a middle school of grades 5-8, and American Indian Public High School (AIPHS), a high school (9-12). AIPHS students can also take select classes at Merritt College. American Indian Public Charter School II (AIPCS II) has grades K-8 at a second campus located in Oakland's Chinatown. By 2012 the student population of the AIM schools had become 90% Asian American.",
+        "question": "When was the American Indian Model Schools system established?",
+        "label": "1990s"
+    }
+]

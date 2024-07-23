@@ -1,0 +1,14 @@
+[
+    [
+        649,
+        [],
+        "The UK's favourite toys from the past 100 years are being celebrated in a new set of stamps from the Royal Mail."
+    ],
+    "Write a short summary for the following passage:\nCharacters in the set include the Sindy doll and Action Man, as well as brands like Spirograph, Stickle Bricks and Fuzzy Felt.\nMeccano, the Merrythought bear, W Britain toy figures, Space Hopper and Hornby Dublo trains also feature.\nThe series of 10 stamps will be released on Tuesday at 7,000 post offices and to buy online.\nRoyal Mail spokesman Philip Parker said: \"British toymakers enjoyed a reputation for quality and innovation.\n\"These nostalgic stamps celebrate 10 wonderful toys that have endured through the decades.\"\nHere are pictures of the 10 stamps in the series:\nSummary:\n",
+    {
+        "id": 649,
+        "document": "Characters in the set include the Sindy doll and Action Man, as well as brands like Spirograph, Stickle Bricks and Fuzzy Felt.\nMeccano, the Merrythought bear, W Britain toy figures, Space Hopper and Hornby Dublo trains also feature.\nThe series of 10 stamps will be released on Tuesday at 7,000 post offices and to buy online.\nRoyal Mail spokesman Philip Parker said: \"British toymakers enjoyed a reputation for quality and innovation.\n\"These nostalgic stamps celebrate 10 wonderful toys that have endured through the decades.\"\nHere are pictures of the 10 stamps in the series:",
+        "summary": "The UK's favourite toys from the past 100 years are being celebrated in a new set of stamps from the Royal Mail.",
+        "label": "The UK's favourite toys from the past 100 years are being celebrated in a new set of stamps from the Royal Mail."
+    }
+]

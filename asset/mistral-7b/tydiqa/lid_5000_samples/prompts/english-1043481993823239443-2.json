@@ -1,0 +1,15 @@
+[
+    [
+        756,
+        [],
+        "CBS"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Scooby-Doo was originally broadcast on CBS from 1969 to 1975, when it moved to ABC. ABC aired the show until canceling it in 1986, and presented a spin-off featuring the characters as children, A Pup Named Scooby-Doo, from 1988 until 1991. New Scooby-Doo series aired as part of Kids' WB on The WB Network and its successor, The CW Network, from 2002 until 2008. Scooby-Doo! Mystery Incorporated aired on Cartoon Network from 2010 to 2013,[3] and Be Cool, Scooby-Doo! aired on Cartoon Network from 2015 to 2018.[4] Repeats of the various Scooby-Doo series are broadcast frequently on Cartoon Network's sister channel Boomerang in the United States as well as other countries. Question: On what TV network did Scooby-Doo first air? Answer:",
+    {
+        "id": "english-1043481993823239443-2",
+        "lang": "english",
+        "summary": "Scooby-Doo was originally broadcast on CBS from 1969 to 1975, when it moved to ABC. ABC aired the show until canceling it in 1986, and presented a spin-off featuring the characters as children, A Pup Named Scooby-Doo, from 1988 until 1991. New Scooby-Doo series aired as part of Kids' WB on The WB Network and its successor, The CW Network, from 2002 until 2008. Scooby-Doo! Mystery Incorporated aired on Cartoon Network from 2010 to 2013,[3] and Be Cool, Scooby-Doo! aired on Cartoon Network from 2015 to 2018.[4] Repeats of the various Scooby-Doo series are broadcast frequently on Cartoon Network's sister channel Boomerang in the United States as well as other countries.",
+        "question": "On what TV network did Scooby-Doo first air?",
+        "label": "CBS"
+    }
+]

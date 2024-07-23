@@ -1,0 +1,15 @@
+[
+    [
+        2600,
+        [],
+        "July 22, 2010"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A film adaptation of the comics was proposed following the release of the first volume. Wright became attached to the project, and filming began in March 2009 in Toronto. The film premiered after a panel discussion at the San Diego Comic-Con International on July 22, 2010, and received a wide release in North America on August 13, 2010. Question: When did the movie Scott Pilgrim come out? Answer:",
+    {
+        "id": "english-7694977234054793626-1",
+        "lang": "english",
+        "summary": "A film adaptation of the comics was proposed following the release of the first volume. Wright became attached to the project, and filming began in March 2009 in Toronto. The film premiered after a panel discussion at the San Diego Comic-Con International on July 22, 2010, and received a wide release in North America on August 13, 2010.",
+        "question": "When did the movie Scott Pilgrim come out?",
+        "label": "July 22, 2010"
+    }
+]

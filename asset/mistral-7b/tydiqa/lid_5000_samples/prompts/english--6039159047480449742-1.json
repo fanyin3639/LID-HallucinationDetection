@@ -1,0 +1,15 @@
+[
+    [
+        3088,
+        [],
+        "the chancellor"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Germany has a parliamentary system of government in which the chancellor is the nation's leading political figure and de facto chief executive. The president has a mainly ceremonial role, but he can give direction to general political and societal debates and has some important \"reserve powers\" in case of political instability (such as those provided for by Article 81 of the Basic Law).[2] The German presidents have wide discretion about how they exercise their official duties.[3] Question: Who rules Germany? Answer:",
+    {
+        "id": "english--6039159047480449742-1",
+        "lang": "english",
+        "summary": "Germany has a parliamentary system of government in which the chancellor is the nation's leading political figure and de facto chief executive. The president has a mainly ceremonial role, but he can give direction to general political and societal debates and has some important \"reserve powers\" in case of political instability (such as those provided for by Article 81 of the Basic Law).[2] The German presidents have wide discretion about how they exercise their official duties.[3]",
+        "question": "Who rules Germany?",
+        "label": "the chancellor"
+    }
+]

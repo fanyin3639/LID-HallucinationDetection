@@ -1,0 +1,15 @@
+[
+    [
+        492,
+        [],
+        "Charles Darwin"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On the Origin of Species (or more completely, On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life),[3] published on 24 November 1859, is a work of scientific literature by Charles Darwin which is considered to be the foundation of evolutionary biology.[4] Darwin's book introduced the scientific theory that populations evolve over the course of generations through a process of natural selection. It presented a body of evidence that the diversity of life arose by common descent through a branching pattern of evolution. Darwin included evidence that he had gathered on the Beagle expedition in the 1830s and his subsequent findings from research, correspondence, and experimentation.[5] Question: Who first published the Origin of Species? Answer:",
+    {
+        "id": "english-5241172541283372958-1",
+        "lang": "english",
+        "summary": "On the Origin of Species (or more completely, On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life),[3] published on 24 November 1859, is a work of scientific literature by Charles Darwin which is considered to be the foundation of evolutionary biology.[4] Darwin's book introduced the scientific theory that populations evolve over the course of generations through a process of natural selection. It presented a body of evidence that the diversity of life arose by common descent through a branching pattern of evolution. Darwin included evidence that he had gathered on the Beagle expedition in the 1830s and his subsequent findings from research, correspondence, and experimentation.[5]",
+        "question": "Who first published the Origin of Species?",
+        "label": "Charles Darwin"
+    }
+]

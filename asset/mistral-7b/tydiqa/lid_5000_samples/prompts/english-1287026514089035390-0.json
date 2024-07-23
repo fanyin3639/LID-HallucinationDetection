@@ -1,0 +1,15 @@
+[
+    [
+        2960,
+        [],
+        "formed from the National Assembly on 9 July 1789 during the first stages of the French Revolution. It dissolved on 30 September 1791"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The National Constituent Assembly (French: Assembl\u00e9e nationale constituante) was formed from the National Assembly on 9 July 1789 during the first stages of the French Revolution. It dissolved on 30 September 1791 and was succeeded by the Legislative Assembly.[1] Question: What years was the National Constituent Assembly in France? Answer:",
+    {
+        "id": "english-1287026514089035390-0",
+        "lang": "english",
+        "summary": "The National Constituent Assembly (French: Assembl\u00e9e nationale constituante) was formed from the National Assembly on 9 July 1789 during the first stages of the French Revolution. It dissolved on 30 September 1791 and was succeeded by the Legislative Assembly.[1]",
+        "question": "What years was the National Constituent Assembly in France?",
+        "label": "formed from the National Assembly on 9 July 1789 during the first stages of the French Revolution. It dissolved on 30 September 1791"
+    }
+]

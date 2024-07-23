@@ -1,0 +1,15 @@
+[
+    [
+        56,
+        [],
+        "Willis Carrier"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Modern air conditioning emerged from advances in chemistry during the 19th century, and the first large-scale electrical air conditioning was invented and used in 1902 by US inventor Willis Carrier. The introduction of residential air conditioning in the 1920s helped enable the great migration to the Sun Belt in the United States. Question: Who invented air conditioning? Answer:",
+    {
+        "id": "english--6991778783908000066-7",
+        "lang": "english",
+        "summary": "Modern air conditioning emerged from advances in chemistry during the 19th century, and the first large-scale electrical air conditioning was invented and used in 1902 by US inventor Willis Carrier. The introduction of residential air conditioning in the 1920s helped enable the great migration to the Sun Belt in the United States.",
+        "question": "Who invented air conditioning?",
+        "label": "Willis Carrier"
+    }
+]

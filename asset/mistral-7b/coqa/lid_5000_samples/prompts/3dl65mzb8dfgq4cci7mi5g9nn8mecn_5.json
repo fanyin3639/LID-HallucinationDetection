@@ -1,0 +1,19 @@
+[
+    [
+        1293,
+        [],
+        "behaviour"
+    ],
+    "Answer the following questions:\nContext: I never wanted a dog, but now I'm so glad I have one. About two years ago, my wife, Cathy, got a little dog with a face only a mother could love. We named her Gertie. Gertie is the kind of dog that has to grow on you. So I dicided that the dog would be trained. This didn't quite go as planned. At 15 weeks old, she was nearly made to leave the Petsmart Training School. She spent every night lying in our bed-snoring so loudly that I hardly got a good night's sleep. Then, about six months after she arrived, I felt that something in my heart was taking place, and I was unable to stop it. My behaviour began to change. I began to smile at people when passing them in a street. I returned from neighbours. I started calling my kids, and to my surprise, they started calling me. I even tried to speak to my grandchildren over the phone once. I even was glad to listen to laughter from a 10-month-old granddaughter. The point is that I was changing. My wife and I both agree that it is Gertie who has changed my behaviour. Gertie is now nearly two years old and almost fully grown.I have come to like the pet little by little, though she is my wife's dog.\n'Question': What changed in my life after getting Gertie?\n'Answer: '",
+    {
+        "id": "3dl65mzb8dfgq4cci7mi5g9nn8mecn_5",
+        "summary": "I never wanted a dog, but now I'm so glad I have one. About two years ago, my wife, Cathy, got a little dog with a face only a mother could love. We named her Gertie. Gertie is the kind of dog that has to grow on you. So I dicided that the dog would be trained. This didn't quite go as planned. At 15 weeks old, she was nearly made to leave the Petsmart Training School. She spent every night lying in our bed-snoring so loudly that I hardly got a good night's sleep. Then, about six months after she arrived, I felt that something in my heart was taking place, and I was unable to stop it. My behaviour began to change. I began to smile at people when passing them in a street. I returned from neighbours. I started calling my kids, and to my surprise, they started calling me. I even tried to speak to my grandchildren over the phone once. I even was glad to listen to laughter from a 10-month-old granddaughter. The point is that I was changing. My wife and I both agree that it is Gertie who has changed my behaviour. Gertie is now nearly two years old and almost fully grown.I have come to like the pet little by little, though she is my wife's dog.",
+        "question": "What changed in my life after getting Gertie?",
+        "label": "behaviour",
+        "additional_answers": [
+            "My behavior",
+            "Something in his heart",
+            "began to smile more"
+        ]
+    }
+]

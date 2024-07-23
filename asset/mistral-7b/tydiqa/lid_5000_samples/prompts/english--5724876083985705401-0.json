@@ -1,0 +1,15 @@
+[
+    [
+        1973,
+        [],
+        "Charlton County"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Charlton County is the southernmost county of the U.S. state of Georgia. As of the 2010 census, the population was 12,171.[2] The county seat is Folkston.[3] Question: What is the southernmost county in Georgia? Answer:",
+    {
+        "id": "english--5724876083985705401-0",
+        "lang": "english",
+        "summary": "Charlton County is the southernmost county of the U.S. state of Georgia. As of the 2010 census, the population was 12,171.[2] The county seat is Folkston.[3]",
+        "question": "What is the southernmost county in Georgia?",
+        "label": "Charlton County"
+    }
+]

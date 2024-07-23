@@ -1,0 +1,15 @@
+[
+    [
+        2496,
+        [],
+        "carboxylic acid with a long aliphatic chain, which is either saturated or unsaturated"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In chemistry, particularly in biochemistry, a fatty acid is a carboxylic acid with a long aliphatic chain, which is either saturated or unsaturated. Most naturally occurring fatty acids have an unbranched chain of an even number of carbon atoms, from 4 to 28.[1] Fatty acids are usually not found in organisms, but instead as three main classes of esters: triglycerides, phospholipids, and cholesterol esters. In any of these forms, fatty acids are both important dietary sources of fuel for animals and they are important structural components for cells. Question: What is a fatty acid? Answer:",
+    {
+        "id": "english--7630787588183720678-1",
+        "lang": "english",
+        "summary": "In chemistry, particularly in biochemistry, a fatty acid is a carboxylic acid with a long aliphatic chain, which is either saturated or unsaturated. Most naturally occurring fatty acids have an unbranched chain of an even number of carbon atoms, from 4 to 28.[1] Fatty acids are usually not found in organisms, but instead as three main classes of esters: triglycerides, phospholipids, and cholesterol esters. In any of these forms, fatty acids are both important dietary sources of fuel for animals and they are important structural components for cells.",
+        "question": "What is a fatty acid?",
+        "label": "carboxylic acid with a long aliphatic chain, which is either saturated or unsaturated"
+    }
+]

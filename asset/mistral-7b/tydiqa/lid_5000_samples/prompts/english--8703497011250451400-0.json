@@ -1,0 +1,15 @@
+[
+    [
+        87,
+        [],
+        "late 2011"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Interstate 69 (I-69) is an Interstate Highway in the United States currently consisting of seven disjointed parts with an original continuous segment from Indianapolis, Indiana, northeast to the Canada\u2013US border in Port Huron, Michigan, at 355.8 miles (572.6km). The remaining separated parts are variously completed and posted or unposted parts of an extension southwest to the Mexican border in Texas. Of this extension\u2014nicknamed the NAFTA Superhighway because it would help trade with Canada and Mexico spurred by the North American Free Trade Agreement\u2014five pieces near Corpus Christi, Houston, northwestern Mississippi, Memphis, and Evansville have been newly built or upgraded and signposted as I-69. A sixth segment of I-69 through Kentucky utilizing that state's existing parkway system and a section of I-24 was established by federal legislation in 2008, but only a portion is signposted. A section of the previously existing Western Kentucky Parkway from Eddyville to Nortonville was approved and signposted in late 2011, with the Pennyrile Parkway between Nortonville and Henderson being signed as I-69 in 2015.[2] This brings the total length to about 680 miles (1,090km). Question: When did construction on I-69 begin? Answer:",
+    {
+        "id": "english--8703497011250451400-0",
+        "lang": "english",
+        "summary": "Interstate 69 (I-69) is an Interstate Highway in the United States currently consisting of seven disjointed parts with an original continuous segment from Indianapolis, Indiana, northeast to the Canada\u2013US border in Port Huron, Michigan, at 355.8 miles (572.6km). The remaining separated parts are variously completed and posted or unposted parts of an extension southwest to the Mexican border in Texas. Of this extension\u2014nicknamed the NAFTA Superhighway because it would help trade with Canada and Mexico spurred by the North American Free Trade Agreement\u2014five pieces near Corpus Christi, Houston, northwestern Mississippi, Memphis, and Evansville have been newly built or upgraded and signposted as I-69. A sixth segment of I-69 through Kentucky utilizing that state's existing parkway system and a section of I-24 was established by federal legislation in 2008, but only a portion is signposted. A section of the previously existing Western Kentucky Parkway from Eddyville to Nortonville was approved and signposted in late 2011, with the Pennyrile Parkway between Nortonville and Henderson being signed as I-69 in 2015.[2] This brings the total length to about 680 miles (1,090km).",
+        "question": "When did construction on I-69 begin?",
+        "label": "late 2011"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2258,
+        [],
+        "14 July each year"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Bastille Day is the common name given in English-speaking countries to the national day of France, which is celebrated on 14 July each year. In French, it is formally called la F\u00eate nationale (French pronunciation:\u200b[la f\u025bt nasj\u0254nal]; \"The National Celebration\") and commonly and legally le 14 juillet (French pronunciation:\u200b[l\u0259 kat\u0254\u0281z(\u0259) \u0292\u0265ij\u025b]; \"the 14th of July\").[3] Question: When is French Independence day? Answer:",
+    {
+        "id": "english-8951656927346784984-0",
+        "lang": "english",
+        "summary": "Bastille Day is the common name given in English-speaking countries to the national day of France, which is celebrated on 14 July each year. In French, it is formally called la F\u00eate nationale (French pronunciation:\u200b[la f\u025bt nasj\u0254nal]; \"The National Celebration\") and commonly and legally le 14 juillet (French pronunciation:\u200b[l\u0259 kat\u0254\u0281z(\u0259) \u0292\u0265ij\u025b]; \"the 14th of July\").[3]",
+        "question": "When is French Independence day?",
+        "label": "14 July each year"
+    }
+]

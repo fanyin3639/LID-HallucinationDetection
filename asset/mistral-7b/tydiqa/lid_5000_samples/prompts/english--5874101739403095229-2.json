@@ -1,0 +1,15 @@
+[
+    [
+        1530,
+        [],
+        "2018"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The idea of bringing together alternate versions of Spider-Man was also explored in various video games and Ultimate Spider-Man animated series, with the 2018 animated film Spider-Man: Into the Spider-Verse serving as an adaptation of this story arc. Question: When did Spiderman: Enter the Spiderverse release? Answer:",
+    {
+        "id": "english--5874101739403095229-2",
+        "lang": "english",
+        "summary": "The idea of bringing together alternate versions of Spider-Man was also explored in various video games and Ultimate Spider-Man animated series, with the 2018 animated film Spider-Man: Into the Spider-Verse serving as an adaptation of this story arc.",
+        "question": "When did Spiderman: Enter the Spiderverse release?",
+        "label": "2018"
+    }
+]

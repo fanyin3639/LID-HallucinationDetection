@@ -1,0 +1,15 @@
+[
+    [
+        2166,
+        [],
+        "38,538,447"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: According to the 2011 census by the Polish Central Statistical Office (GUS), at the end of 2011 Poland had a population of 38,538,447[1], which translates into an average population density of 123 people/km2 (urban 1105 per 1km\u00b2, rural 50 per 1km\u00b2). 61.5% of the Polish population lives in urban areas, a number which is slowly diminishing. Poland is the 33rd most populous country in the world (9th in Europe, with 5.4% of the European population). Total population of Poland is almost stagnant (population growth was 0.08%). Average life expectancy was 70.5 for men and 78.9 for women. In 2009, it was expected to be 73.1 for men and 79.5 for women. Population distribution is uneven. Ethnically, Poland is a very homogeneous country, with 96.7% of population being Polish. Question: How many people live in Poland? Answer:",
+    {
+        "id": "english--3845108196257045289-1",
+        "lang": "english",
+        "summary": "According to the 2011 census by the Polish Central Statistical Office (GUS), at the end of 2011 Poland had a population of 38,538,447[1], which translates into an average population density of 123 people/km2 (urban 1105 per 1km\u00b2, rural 50 per 1km\u00b2). 61.5% of the Polish population lives in urban areas, a number which is slowly diminishing. Poland is the 33rd most populous country in the world (9th in Europe, with 5.4% of the European population). Total population of Poland is almost stagnant (population growth was 0.08%). Average life expectancy was 70.5 for men and 78.9 for women. In 2009, it was expected to be 73.1 for men and 79.5 for women. Population distribution is uneven. Ethnically, Poland is a very homogeneous country, with 96.7% of population being Polish.",
+        "question": "How many people live in Poland?",
+        "label": "38,538,447"
+    }
+]

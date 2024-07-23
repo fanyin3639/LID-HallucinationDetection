@@ -1,0 +1,15 @@
+[
+    [
+        2855,
+        [],
+        "October 13, 2016"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Dylan was awarded the 2016 Nobel Prize in Literature on October 13, 2016, \"for having created new poetic expressions within the great American song tradition\".[9][10] It is the first time since 1993 that the Nobel committee has offered the award in the category of American literature.[11] Question: When did Bob Dylan win the Nobel Prize? Answer:",
+    {
+        "id": "english--1460435351221158620-4",
+        "lang": "english",
+        "summary": "Dylan was awarded the 2016 Nobel Prize in Literature on October 13, 2016, \"for having created new poetic expressions within the great American song tradition\".[9][10] It is the first time since 1993 that the Nobel committee has offered the award in the category of American literature.[11]",
+        "question": "When did Bob Dylan win the Nobel Prize?",
+        "label": "October 13, 2016"
+    }
+]

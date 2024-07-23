@@ -1,0 +1,15 @@
+[
+    [
+        456,
+        [],
+        "a mental disorder where people feel the need to check things repeatedly, perform certain routines repeatedly"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Obsessive\u2013compulsive disorder (OCD) is a mental disorder where people feel the need to check things repeatedly, perform certain routines repeatedly (called \"rituals\"), or have certain thoughts repeatedly (called \"obsessions\").[1] People are unable to control either the thoughts or the activities for more than a short period of time.[1] Common activities include hand washing, counting of things, and checking to see if a door is locked.[1] Some may have difficulty throwing things out.[1] These activities occur to such a degree that the person's daily life is negatively affected.[1] This often takes up more than an hour a day.[2] Most adults realize that the behaviors do not make sense.[1] The condition is associated with tics, anxiety disorder, and an increased risk of suicide.[2][3] Question: What's a ritual in OCD? Answer:",
+    {
+        "id": "english--701358161439763741-0",
+        "lang": "english",
+        "summary": "Obsessive\u2013compulsive disorder (OCD) is a mental disorder where people feel the need to check things repeatedly, perform certain routines repeatedly (called \"rituals\"), or have certain thoughts repeatedly (called \"obsessions\").[1] People are unable to control either the thoughts or the activities for more than a short period of time.[1] Common activities include hand washing, counting of things, and checking to see if a door is locked.[1] Some may have difficulty throwing things out.[1] These activities occur to such a degree that the person's daily life is negatively affected.[1] This often takes up more than an hour a day.[2] Most adults realize that the behaviors do not make sense.[1] The condition is associated with tics, anxiety disorder, and an increased risk of suicide.[2][3]",
+        "question": "What's a ritual in OCD?",
+        "label": "a mental disorder where people feel the need to check things repeatedly, perform certain routines repeatedly"
+    }
+]

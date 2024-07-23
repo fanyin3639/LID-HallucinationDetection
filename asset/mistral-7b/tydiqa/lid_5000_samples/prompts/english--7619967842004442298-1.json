@@ -1,0 +1,15 @@
+[
+    [
+        2952,
+        [],
+        "8.4%"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Based on a report from the Asian Development Bank, Vietnam has a total population of 91.70 million as of 2015, about one million people more compared to the previous year.[5] 8.4% of the population lived below the national poverty line. There were 76.2% of the population aged 15 years and above who were employed in 2013.[6] Question: What is the poverty rate in Vietnam? Answer:",
+    {
+        "id": "english--7619967842004442298-1",
+        "lang": "english",
+        "summary": "Based on a report from the Asian Development Bank, Vietnam has a total population of 91.70 million as of 2015, about one million people more compared to the previous year.[5] 8.4% of the population lived below the national poverty line. There were 76.2% of the population aged 15 years and above who were employed in 2013.[6]",
+        "question": "What is the poverty rate in Vietnam?",
+        "label": "8.4%"
+    }
+]

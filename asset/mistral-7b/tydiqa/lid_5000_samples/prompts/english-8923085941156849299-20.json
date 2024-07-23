@@ -1,0 +1,15 @@
+[
+    [
+        2157,
+        [],
+        "three-month"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The cider is ready to drink after a three-month fermentation period, although it is more often matured in the vats for up to three years.[33] Question: How long does cider take to ferment? Answer:",
+    {
+        "id": "english-8923085941156849299-20",
+        "lang": "english",
+        "summary": "The cider is ready to drink after a three-month fermentation period, although it is more often matured in the vats for up to three years.[33]",
+        "question": "How long does cider take to ferment?",
+        "label": "three-month"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        82,
+        [],
+        "A council tax rise of nearly 4% has been agreed by West Sussex County Council, which said it was facing a shortfall of \u00a344.2m in its funding."
+    ],
+    "Write a short summary for the following passage:\nThe authority said it had no choice but to approve the rise - the first increase in six years.\nThe 3.95% increase will mean an extra \u00a345.90 on the annual bill of an average band D property.\nThe council said it was faced with an extremely tight budget for 2016-2017.\n\"It is with a heavy heart but a clear head that we have decided to raise council tax this year,\" said leader Louise Goldsmith.\n\"We have challenging times ahead and we have had to make some very difficult decisions.\n\"I am confident this budget will safeguard critical frontline services and protect the most vulnerable whilst still ensuring the economic prosperity of the county.\"\nThe council said its government grant had been cut by over 20% - above the national average and more than it had expected.\nBut it had been given temporary funding of \u00a36.2m for the coming year and \u00a36.3m for 2017-2018.\nThe council tax increase includes the 2% extra announced by Chancellor George Osborne in his Autumn Statement to help councils pay for social care.\nSimilar increases have already been agreed by East Sussex, Surrey and Kent county councils.\nSummary:\n",
+    {
+        "id": 82,
+        "document": "The authority said it had no choice but to approve the rise - the first increase in six years.\nThe 3.95% increase will mean an extra \u00a345.90 on the annual bill of an average band D property.\nThe council said it was faced with an extremely tight budget for 2016-2017.\n\"It is with a heavy heart but a clear head that we have decided to raise council tax this year,\" said leader Louise Goldsmith.\n\"We have challenging times ahead and we have had to make some very difficult decisions.\n\"I am confident this budget will safeguard critical frontline services and protect the most vulnerable whilst still ensuring the economic prosperity of the county.\"\nThe council said its government grant had been cut by over 20% - above the national average and more than it had expected.\nBut it had been given temporary funding of \u00a36.2m for the coming year and \u00a36.3m for 2017-2018.\nThe council tax increase includes the 2% extra announced by Chancellor George Osborne in his Autumn Statement to help councils pay for social care.\nSimilar increases have already been agreed by East Sussex, Surrey and Kent county councils.",
+        "summary": "A council tax rise of nearly 4% has been agreed by West Sussex County Council, which said it was facing a shortfall of \u00a344.2m in its funding.",
+        "label": "A council tax rise of nearly 4% has been agreed by West Sussex County Council, which said it was facing a shortfall of \u00a344.2m in its funding."
+    }
+]

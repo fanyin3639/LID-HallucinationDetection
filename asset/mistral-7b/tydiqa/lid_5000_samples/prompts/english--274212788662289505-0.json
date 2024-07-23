@@ -1,0 +1,15 @@
+[
+    [
+        1108,
+        [],
+        "Magnus Carlsen"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Coordinates:   The World Chess Championship was a match between the reigning world champion since 2013, Magnus Carlsen, and the challenger Fabiano Caruana to determine the World Chess Champion. The 12-game match, organised by FIDE and its commercial partner Agon, was played at The College in Holborn, London, between 9 and 28 November 2018.[2][3] Question: Who was the world chess champion in 2018? Answer:",
+    {
+        "id": "english--274212788662289505-0",
+        "lang": "english",
+        "summary": "Coordinates:   The World Chess Championship was a match between the reigning world champion since 2013, Magnus Carlsen, and the challenger Fabiano Caruana to determine the World Chess Champion. The 12-game match, organised by FIDE and its commercial partner Agon, was played at The College in Holborn, London, between 9 and 28 November 2018.[2][3]",
+        "question": "Who was the world chess champion in 2018?",
+        "label": "Magnus Carlsen"
+    }
+]

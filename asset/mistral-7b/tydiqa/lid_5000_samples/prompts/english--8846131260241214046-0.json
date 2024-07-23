@@ -1,0 +1,15 @@
+[
+    [
+        804,
+        [],
+        "Kingdom of Egypt, Kingdom of Iraq, Lebanon, Saudi Arabia, Syrian Republic, and Transjordan"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Arab League has 22 member states. It was founded in Cairo in March 1945 with six members: the Kingdom of Egypt, Kingdom of Iraq, Lebanon, Saudi Arabia, Syrian Republic, and Transjordan (Jordan from 1949). North Yemen (later becoming Yemen) joined  on 5 May 1945. Membership increased during the second half of the 20th century. Five countries have observer status. Question: What were the original members of the Arab League? Answer:",
+    {
+        "id": "english--8846131260241214046-0",
+        "lang": "english",
+        "summary": "The Arab League has 22 member states. It was founded in Cairo in March 1945 with six members: the Kingdom of Egypt, Kingdom of Iraq, Lebanon, Saudi Arabia, Syrian Republic, and Transjordan (Jordan from 1949). North Yemen (later becoming Yemen) joined  on 5 May 1945. Membership increased during the second half of the 20th century. Five countries have observer status.",
+        "question": "What were the original members of the Arab League?",
+        "label": "Kingdom of Egypt, Kingdom of Iraq, Lebanon, Saudi Arabia, Syrian Republic, and Transjordan"
+    }
+]

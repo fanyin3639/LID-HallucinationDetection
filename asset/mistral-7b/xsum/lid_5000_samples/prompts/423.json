@@ -1,0 +1,14 @@
+[
+    [
+        423,
+        [],
+        "Bury's League One match against Barnsley has been postponed because of a waterlogged pitch at Gigg Lane."
+    ],
+    "Write a short summary for the following passage:\nHeavy rainfall overnight left the playing surface and surrounding areas under heavy water and a 10:00 GMT pitch inspection was called.\nNo new date has yet been set.\nSeveral other north-west clubs have also had to cancel their Boxing Day fixtures following heavy rain, while the Met Office has issued a weather warning for parts of Lancashire.\nFor the latest on the Boxing Day postponements click here.\nSummary:\n",
+    {
+        "id": 423,
+        "document": "Heavy rainfall overnight left the playing surface and surrounding areas under heavy water and a 10:00 GMT pitch inspection was called.\nNo new date has yet been set.\nSeveral other north-west clubs have also had to cancel their Boxing Day fixtures following heavy rain, while the Met Office has issued a weather warning for parts of Lancashire.\nFor the latest on the Boxing Day postponements click here.",
+        "summary": "Bury's League One match against Barnsley has been postponed because of a waterlogged pitch at Gigg Lane.",
+        "label": "Bury's League One match against Barnsley has been postponed because of a waterlogged pitch at Gigg Lane."
+    }
+]

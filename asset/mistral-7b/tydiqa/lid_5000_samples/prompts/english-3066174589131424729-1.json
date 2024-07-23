@@ -1,0 +1,15 @@
+[
+    [
+        2118,
+        [],
+        "Brighton-le-Sands, New South Wales"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Gittoes was born 1949 in Brighton-le-Sands, New South Wales and grew up in nearby Rockdale, New South Wales, both southern suburbs of Sydney, Australia.  His family, though not rich, was comfortably middle class.  Gittoes\u2019 maternal grandfather, who lived in the area, was a semi-professional racehorse trainer, and was a significant influence in Gittoes\u2019 childhood.  Gittoes' father, Claude, was a public servant, who rose to be Secretary of the Department of Main Roads.  His mother, Joyce, was an artist and potter.  Both parents encouraged George and his sister, Pamela, 7 years his elder, as artists. Gittoes completed his schooling at Kingsgrove North High School, and began an Arts degree at Sydney University.  However, an encounter with the visiting American art critic Clement Greenberg led to Gittoes' abandoning his studies in order to spend time in America.  In New York Gittoes came under the influence of the social realist artist, Joe Delaney, whose work was influenced by his involvement in the civil rights movement.  Gittoes\u2019 art similarly veered towards the political, and in the US he began the Hotel Kennedy Suite, inspired by opposition to the Vietnam War. Question: Where was George Noel Gittoes born? Answer:",
+    {
+        "id": "english-3066174589131424729-1",
+        "lang": "english",
+        "summary": "Gittoes was born 1949 in Brighton-le-Sands, New South Wales and grew up in nearby Rockdale, New South Wales, both southern suburbs of Sydney, Australia.  His family, though not rich, was comfortably middle class.  Gittoes\u2019 maternal grandfather, who lived in the area, was a semi-professional racehorse trainer, and was a significant influence in Gittoes\u2019 childhood.  Gittoes' father, Claude, was a public servant, who rose to be Secretary of the Department of Main Roads.  His mother, Joyce, was an artist and potter.  Both parents encouraged George and his sister, Pamela, 7 years his elder, as artists. Gittoes completed his schooling at Kingsgrove North High School, and began an Arts degree at Sydney University.  However, an encounter with the visiting American art critic Clement Greenberg led to Gittoes' abandoning his studies in order to spend time in America.  In New York Gittoes came under the influence of the social realist artist, Joe Delaney, whose work was influenced by his involvement in the civil rights movement.  Gittoes\u2019 art similarly veered towards the political, and in the US he began the Hotel Kennedy Suite, inspired by opposition to the Vietnam War.",
+        "question": "Where was George Noel Gittoes born?",
+        "label": "Brighton-le-Sands, New South Wales"
+    }
+]

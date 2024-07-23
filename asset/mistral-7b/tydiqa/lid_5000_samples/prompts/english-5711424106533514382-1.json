@@ -1,0 +1,15 @@
+[
+    [
+        1989,
+        [],
+        "1992"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Democratic Party of Serbia (DSS) was founded in 1992 by a breakaway nationalist faction of the Democratic Party (DS), which advocated involvement in the Democratic Movement of Serbia (DEPOS).[5] Question: When was the Democratic Party in Serbia formed? Answer:",
+    {
+        "id": "english-5711424106533514382-1",
+        "lang": "english",
+        "summary": "The Democratic Party of Serbia (DSS) was founded in 1992 by a breakaway nationalist faction of the Democratic Party (DS), which advocated involvement in the Democratic Movement of Serbia (DEPOS).[5]",
+        "question": "When was the Democratic Party in Serbia formed?",
+        "label": "1992"
+    }
+]

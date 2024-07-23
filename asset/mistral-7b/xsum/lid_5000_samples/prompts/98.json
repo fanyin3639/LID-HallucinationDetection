@@ -1,0 +1,14 @@
+[
+    [
+        98,
+        [],
+        "Midfielder Gareth Barry and defenders Leighton Baines and Mason Holgate have all signed new contracts with Everton."
+    ],
+    "Write a short summary for the following passage:\nBarry, 35, has extended his deal until June 2018, while 32-year-old Baines has committed to the club until June 2019.\nHolgate, 20, who was handed his Premier League debut by manager Ronald Koeman on the first day of the season, has signed a five-year extension.\nKoeman said the experienced Barry and Baines were \"leaders in our dressing room and on the pitch\".\n\"For younger players, they are a little bit like teachers. They have that experience and young players need to listen to them for they will learn,\" he added.\nThe Dutchman said Holgate is \"one of the big talents\" at the club.\nSummary:\n",
+    {
+        "id": 98,
+        "document": "Barry, 35, has extended his deal until June 2018, while 32-year-old Baines has committed to the club until June 2019.\nHolgate, 20, who was handed his Premier League debut by manager Ronald Koeman on the first day of the season, has signed a five-year extension.\nKoeman said the experienced Barry and Baines were \"leaders in our dressing room and on the pitch\".\n\"For younger players, they are a little bit like teachers. They have that experience and young players need to listen to them for they will learn,\" he added.\nThe Dutchman said Holgate is \"one of the big talents\" at the club.",
+        "summary": "Midfielder Gareth Barry and defenders Leighton Baines and Mason Holgate have all signed new contracts with Everton.",
+        "label": "Midfielder Gareth Barry and defenders Leighton Baines and Mason Holgate have all signed new contracts with Everton."
+    }
+]

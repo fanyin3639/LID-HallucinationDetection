@@ -1,0 +1,15 @@
+[
+    [
+        2761,
+        [],
+        "Mauna Kea"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Mauna Kea (/\u02ccm\u0254\u02d0n\u0259 \u02c8ke\u026a.\u0259/ or /\u02ccma\u028an\u0259 \u02c8ke\u026a.\u0259/, Hawaiian:[\u02c8m\u0250wn\u0259 \u02c8k\u025bj\u0259]) is a dormant volcano on the island of Hawaii. Its peak is 4,207m (13,802ft) above sea level, making it the highest point in the state of Hawaii. Most of the mountain is under water, and when measured from its oceanic base, Mauna Kea is the tallest mountain in the world[5] measuring over 10,000m (33,000ft). Mauna Kea is about a million years old, and has thus passed the most active shield stage of life hundreds of thousands of years ago. In its current post-shield state, its lava is more viscous, resulting in a steeper profile. Late volcanism has also given it a much rougher appearance than its neighboring volcanoes due to construction of cinder cones, decentralization of its rift zones, glaciation on its peak, and weathering by the prevailing trade winds. Mauna Kea last erupted 6,000 to 4,000 years ago and is now considered dormant. The peak is only about 120 feet (37m) higher than its more massive neighbor, Mauna Loa. Question: What is the tallest volcano in Hawaii? Answer:",
+    {
+        "id": "english-7763606763917208415-0",
+        "lang": "english",
+        "summary": "Mauna Kea (/\u02ccm\u0254\u02d0n\u0259 \u02c8ke\u026a.\u0259/ or /\u02ccma\u028an\u0259 \u02c8ke\u026a.\u0259/, Hawaiian:[\u02c8m\u0250wn\u0259 \u02c8k\u025bj\u0259]) is a dormant volcano on the island of Hawaii. Its peak is 4,207m (13,802ft) above sea level, making it the highest point in the state of Hawaii. Most of the mountain is under water, and when measured from its oceanic base, Mauna Kea is the tallest mountain in the world[5] measuring over 10,000m (33,000ft). Mauna Kea is about a million years old, and has thus passed the most active shield stage of life hundreds of thousands of years ago. In its current post-shield state, its lava is more viscous, resulting in a steeper profile. Late volcanism has also given it a much rougher appearance than its neighboring volcanoes due to construction of cinder cones, decentralization of its rift zones, glaciation on its peak, and weathering by the prevailing trade winds. Mauna Kea last erupted 6,000 to 4,000 years ago and is now considered dormant. The peak is only about 120 feet (37m) higher than its more massive neighbor, Mauna Loa.",
+        "question": "What is the tallest volcano in Hawaii?",
+        "label": "Mauna Kea"
+    }
+]

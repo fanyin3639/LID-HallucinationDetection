@@ -1,0 +1,15 @@
+[
+    [
+        1508,
+        [],
+        "\"the quality or state of being extreme\" or \"the advocacy of extreme measures or views\""
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Extremism means, literally, \"the quality or state of being extreme\" or \"the advocacy of extreme measures or views\".[1] Question: What is the extremist ideology? Answer:",
+    {
+        "id": "english--7961033553264933201-1",
+        "lang": "english",
+        "summary": "Extremism means, literally, \"the quality or state of being extreme\" or \"the advocacy of extreme measures or views\".[1]",
+        "question": "What is the extremist ideology?",
+        "label": "\"the quality or state of being extreme\" or \"the advocacy of extreme measures or views\""
+    }
+]

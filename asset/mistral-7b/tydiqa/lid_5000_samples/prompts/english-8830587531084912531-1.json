@@ -1,0 +1,15 @@
+[
+    [
+        1598,
+        [],
+        "Bengali"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Bengali Hindus (Bengali: \u09ac\u09be\u0999\u09be\u09b2\u09bf \u09b9\u09bf\u09a8\u09cd\u09a6\u09c1) are an ethnic, linguistic, and religious population who make up the majority in the Indian state of West Bengal and Tripura. In Bangladesh they form the largest minority. They are Bengalis adherents of Hinduism, and are native to the Bengal region in the eastern part of the Indian subcontinent. Bengali Hindus speak Bengali, which belongs to the Indo-Aryan language family and adhere to the Shakta and Vaishnava traditions of their native religion, Hinduism.[9][10] There are significant numbers of Bengali-speaking Hindus in different Indian states.[11][12] Question: What language is spoken by Bengali Hindus? Answer:",
+    {
+        "id": "english-8830587531084912531-1",
+        "lang": "english",
+        "summary": "Bengali Hindus (Bengali: \u09ac\u09be\u0999\u09be\u09b2\u09bf \u09b9\u09bf\u09a8\u09cd\u09a6\u09c1) are an ethnic, linguistic, and religious population who make up the majority in the Indian state of West Bengal and Tripura. In Bangladesh they form the largest minority. They are Bengalis adherents of Hinduism, and are native to the Bengal region in the eastern part of the Indian subcontinent. Bengali Hindus speak Bengali, which belongs to the Indo-Aryan language family and adhere to the Shakta and Vaishnava traditions of their native religion, Hinduism.[9][10] There are significant numbers of Bengali-speaking Hindus in different Indian states.[11][12]",
+        "question": "What language is spoken by Bengali Hindus?",
+        "label": "Bengali"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2475,
+        [],
+        "1826"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first carburetor was invented by Samuel Morey in 1826. The first person to patent a carburetor for use in a petroleum engine was Siegfried Marcus with his 6 July 1872 patent for a device which mixes fuel with air. Question: When was the first carburetor invented? Answer:",
+    {
+        "id": "english--5007547183238156069-3",
+        "lang": "english",
+        "summary": "The first carburetor was invented by Samuel Morey in 1826. The first person to patent a carburetor for use in a petroleum engine was Siegfried Marcus with his 6 July 1872 patent for a device which mixes fuel with air.",
+        "question": "When was the first carburetor invented?",
+        "label": "1826"
+    }
+]

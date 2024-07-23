@@ -1,0 +1,15 @@
+[
+    [
+        3086,
+        [],
+        "Gilbert Stuart"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The United States one-dollar bill ($1) is a denomination of United States currency. An image of the first U.S. President (1789\u201397), George Washington, based on a painting by Gilbert Stuart, is currently featured on the obverse (front), and the Great Seal of the United States is featured on the reverse (back). The one-dollar bill has the oldest overall design of all U.S. currency currently being produced (The current two-dollar bill obverse design dates from 1928, while the reverse appeared in 1976). The obverse design of the dollar bill seen today debuted in 1963 (the reverse in 1935) when it was first issued as a Federal Reserve Note (previously, one dollar bills were Silver Certificates). Question: Who designed the US dollar? Answer:",
+    {
+        "id": "english-6828020077818706233-0",
+        "lang": "english",
+        "summary": "The United States one-dollar bill ($1) is a denomination of United States currency. An image of the first U.S. President (1789\u201397), George Washington, based on a painting by Gilbert Stuart, is currently featured on the obverse (front), and the Great Seal of the United States is featured on the reverse (back). The one-dollar bill has the oldest overall design of all U.S. currency currently being produced (The current two-dollar bill obverse design dates from 1928, while the reverse appeared in 1976). The obverse design of the dollar bill seen today debuted in 1963 (the reverse in 1935) when it was first issued as a Federal Reserve Note (previously, one dollar bills were Silver Certificates).",
+        "question": "Who designed the US dollar?",
+        "label": "Gilbert Stuart"
+    }
+]

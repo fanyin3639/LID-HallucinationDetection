@@ -1,0 +1,15 @@
+[
+    [
+        145,
+        [],
+        "Thomas Francis, Jonas Salk, Wilson Smith and Macfarlane Burnet"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 1931, viral growth in embryonated hens' eggs was reported by Ernest William Goodpasture and colleagues at Vanderbilt University. The work was extended to growth of influenza virus by several workers, including Thomas Francis, Jonas Salk, Wilson Smith and Macfarlane Burnet, leading to the first experimental influenza vaccines.[137] In the 1940s, the US military developed the first approved inactivated vaccines for influenza, which were used in the Second World War.[138] Hen's eggs continued to be used to produce virus used in influenza vaccines, but manufacturers made improvements in the purity of the virus by developing improved processes to remove egg proteins and to reduce systemic reactivity of the vaccine.[139] Recently, the US FDA approved influenza vaccines made by growing virus in cell cultures[140] and influenza vaccines made from recombinant proteins[141] have been approved, with plant-based influenza vaccines being tested in clinical trials.[142] Question: Who developed the flu shot? Answer:",
+    {
+        "id": "english-2957880619599400676-87",
+        "lang": "english",
+        "summary": "In 1931, viral growth in embryonated hens' eggs was reported by Ernest William Goodpasture and colleagues at Vanderbilt University. The work was extended to growth of influenza virus by several workers, including Thomas Francis, Jonas Salk, Wilson Smith and Macfarlane Burnet, leading to the first experimental influenza vaccines.[137] In the 1940s, the US military developed the first approved inactivated vaccines for influenza, which were used in the Second World War.[138] Hen's eggs continued to be used to produce virus used in influenza vaccines, but manufacturers made improvements in the purity of the virus by developing improved processes to remove egg proteins and to reduce systemic reactivity of the vaccine.[139] Recently, the US FDA approved influenza vaccines made by growing virus in cell cultures[140] and influenza vaccines made from recombinant proteins[141] have been approved, with plant-based influenza vaccines being tested in clinical trials.[142]",
+        "question": "Who developed the flu shot?",
+        "label": "Thomas Francis, Jonas Salk, Wilson Smith and Macfarlane Burnet"
+    }
+]

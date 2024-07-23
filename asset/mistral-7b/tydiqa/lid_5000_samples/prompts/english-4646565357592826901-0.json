@@ -1,0 +1,15 @@
+[
+    [
+        338,
+        [],
+        "five"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Breaking Bad is an American neo-western crime drama television series created and produced by Vince Gilligan. The show originally aired on AMC for five seasons, from January 20, 2008 to September 29, 2013. Set and filmed in Albuquerque, New Mexico, the series tells the story of Walter White (Bryan Cranston), a struggling and depressed high school chemistry teacher who is diagnosed with lung cancer. Together with his former student Jesse Pinkman (Aaron Paul), White turns to a life of crime by producing and selling crystallized methamphetamine to secure his family's financial future before he dies, while navigating the dangers of the criminal world. The title comes from the Southern colloquialism \"breaking bad\", meaning to \"raise hell\" or turn to a life of crime.[5] Question: How many seasons does Breaking Bad have? Answer:",
+    {
+        "id": "english-4646565357592826901-0",
+        "lang": "english",
+        "summary": "Breaking Bad is an American neo-western crime drama television series created and produced by Vince Gilligan. The show originally aired on AMC for five seasons, from January 20, 2008 to September 29, 2013. Set and filmed in Albuquerque, New Mexico, the series tells the story of Walter White (Bryan Cranston), a struggling and depressed high school chemistry teacher who is diagnosed with lung cancer. Together with his former student Jesse Pinkman (Aaron Paul), White turns to a life of crime by producing and selling crystallized methamphetamine to secure his family's financial future before he dies, while navigating the dangers of the criminal world. The title comes from the Southern colloquialism \"breaking bad\", meaning to \"raise hell\" or turn to a life of crime.[5]",
+        "question": "How many seasons does Breaking Bad have?",
+        "label": "five"
+    }
+]

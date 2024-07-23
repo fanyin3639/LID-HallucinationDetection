@@ -1,0 +1,15 @@
+[
+    [
+        1543,
+        [],
+        "1922"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Ukrainian Soviet Socialist Republic (Ukrainian SSR or UkrSSR or UkSSR; Ukrainian: \u0423\u043a\u0440\u0430\u0457\u0301\u043d\u0441\u044c\u043a\u0430 \u0420\u0430\u0434\u044f\u0301\u043d\u0441\u044c\u043a\u0430 \u0421\u043e\u0446\u0456\u0430\u043b\u0456\u0441\u0442\u0438\u0301\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0301\u0431\u043b\u0456\u043a\u0430, \u0423\u043a\u0440\u0430\u0457\u0301\u043d\u0441\u044c\u043a\u0430 \u0420\u0421\u0420, \u0423\u0420\u0421\u0420 ; Russian: \u0423\u043a\u0440\u0430\u0438\u0301\u043d\u0441\u043a\u0430\u044f \u0421\u043e\u0432\u0435\u0301\u0442\u0441\u043a\u0430\u044f \u0421\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0301\u0431\u043b\u0438\u043a\u0430, \u0423\u043a\u0440\u0430\u0438\u0301\u043d\u0441\u043a\u0430\u044f \u0421\u0421\u0420 , \u0423\u0421\u0421\u0420 ; see \"Name\" section below), also known as the Soviet Ukraine, was one of the constituent republics of the Soviet Union from the Union's inception in 1922 to its breakup in 1991.[6] The republic was governed by the Communist Party of Ukraine as a unitary one-party socialist soviet republic. Question: When did the Ukraine join the Soviet Union? Answer:",
+    {
+        "id": "english--3255171403429309651-1",
+        "lang": "english",
+        "summary": "The Ukrainian Soviet Socialist Republic (Ukrainian SSR or UkrSSR or UkSSR; Ukrainian: \u0423\u043a\u0440\u0430\u0457\u0301\u043d\u0441\u044c\u043a\u0430 \u0420\u0430\u0434\u044f\u0301\u043d\u0441\u044c\u043a\u0430 \u0421\u043e\u0446\u0456\u0430\u043b\u0456\u0441\u0442\u0438\u0301\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0301\u0431\u043b\u0456\u043a\u0430, \u0423\u043a\u0440\u0430\u0457\u0301\u043d\u0441\u044c\u043a\u0430 \u0420\u0421\u0420, \u0423\u0420\u0421\u0420 ; Russian: \u0423\u043a\u0440\u0430\u0438\u0301\u043d\u0441\u043a\u0430\u044f \u0421\u043e\u0432\u0435\u0301\u0442\u0441\u043a\u0430\u044f \u0421\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0301\u0431\u043b\u0438\u043a\u0430, \u0423\u043a\u0440\u0430\u0438\u0301\u043d\u0441\u043a\u0430\u044f \u0421\u0421\u0420 , \u0423\u0421\u0421\u0420 ; see \"Name\" section below), also known as the Soviet Ukraine, was one of the constituent republics of the Soviet Union from the Union's inception in 1922 to its breakup in 1991.[6] The republic was governed by the Communist Party of Ukraine as a unitary one-party socialist soviet republic.",
+        "question": "When did the Ukraine join the Soviet Union?",
+        "label": "1922"
+    }
+]

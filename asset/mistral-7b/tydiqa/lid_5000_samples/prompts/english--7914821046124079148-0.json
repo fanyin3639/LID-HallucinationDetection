@@ -1,0 +1,15 @@
+[
+    [
+        1990,
+        [],
+        "colossal squid"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The colossal squid (Mesonychoteuthis hamiltoni, from Greek mesos (middle), onycho (claw, nail), and teuthis (squid)), sometimes called the Antarctic squid or giant cranch squid, is believed to be the largest squid species in terms of mass. It is the only known member of the genus Mesonychoteuthis. It is known from only a few specimens, and current estimates put its maximum size at 12\u201314m (39\u201346ft) long and weighing possibly up to 750 kilograms (1,650lb),[3][4] based on analysis of smaller and immature specimens, making it the largest-known invertebrate. Question: What is the biggest species of squid? Answer:",
+    {
+        "id": "english--7914821046124079148-0",
+        "lang": "english",
+        "summary": "The colossal squid (Mesonychoteuthis hamiltoni, from Greek mesos (middle), onycho (claw, nail), and teuthis (squid)), sometimes called the Antarctic squid or giant cranch squid, is believed to be the largest squid species in terms of mass. It is the only known member of the genus Mesonychoteuthis. It is known from only a few specimens, and current estimates put its maximum size at 12\u201314m (39\u201346ft) long and weighing possibly up to 750 kilograms (1,650lb),[3][4] based on analysis of smaller and immature specimens, making it the largest-known invertebrate.",
+        "question": "What is the biggest species of squid?",
+        "label": "colossal squid"
+    }
+]

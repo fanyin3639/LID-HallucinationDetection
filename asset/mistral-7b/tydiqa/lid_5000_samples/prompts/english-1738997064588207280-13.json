@@ -1,0 +1,15 @@
+[
+    [
+        1468,
+        [],
+        "\u2212224\u00b0C"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Several solutions have been proposed to explain the calm weather on Uranus. One proposed explanation for this dearth of cloud features is that Uranus's internal heat appears markedly lower than that of the other giant planets; in astronomical terms, it has a low internal thermal flux.[1][14] Why Uranus's heat flux is so low is still not understood. Neptune, which is Uranus's near twin in size and composition, radiates 2.61 times as much energy into space as it receives from the Sun.[1] Uranus, by contrast, radiates hardly any excess heat at all. The total power radiated by Uranus in the far infrared (i.e. heat) part of the spectrum is 1.06\u00b10.08 times the solar energy absorbed in its atmosphere.[23][24] In fact, Uranus's heat flux is only 0.042\u00b10.047W/m\u00b2, which is lower than the internal heat flux of Earth of about 0.075W/m\u00b2.[23] The lowest temperature recorded in Uranus's tropopause is 49K (\u2212224\u00b0C), making Uranus the coldest planet in the Solar System, colder than Neptune.[23][24] Question: What is the temperature of Uranus? Answer:",
+    {
+        "id": "english-1738997064588207280-13",
+        "lang": "english",
+        "summary": "Several solutions have been proposed to explain the calm weather on Uranus. One proposed explanation for this dearth of cloud features is that Uranus's internal heat appears markedly lower than that of the other giant planets; in astronomical terms, it has a low internal thermal flux.[1][14] Why Uranus's heat flux is so low is still not understood. Neptune, which is Uranus's near twin in size and composition, radiates 2.61 times as much energy into space as it receives from the Sun.[1] Uranus, by contrast, radiates hardly any excess heat at all. The total power radiated by Uranus in the far infrared (i.e. heat) part of the spectrum is 1.06\u00b10.08 times the solar energy absorbed in its atmosphere.[23][24] In fact, Uranus's heat flux is only 0.042\u00b10.047W/m\u00b2, which is lower than the internal heat flux of Earth of about 0.075W/m\u00b2.[23] The lowest temperature recorded in Uranus's tropopause is 49K (\u2212224\u00b0C), making Uranus the coldest planet in the Solar System, colder than Neptune.[23][24]",
+        "question": "What is the temperature of Uranus?",
+        "label": "\u2212224\u00b0C"
+    }
+]

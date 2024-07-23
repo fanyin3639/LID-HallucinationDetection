@@ -1,0 +1,15 @@
+[
+    [
+        2857,
+        [],
+        "1643 until his death in 1715"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Louis XIV (Louis Dieudonn\u00e9; 5 September 1638\u20131 September 1715), known as  Louis the Great (Louis le Grand) or the Sun King (Roi Soleil), was a monarch of the House of Bourbon who reigned as King of France from 1643 until his death in 1715. Starting on 14 May 1643 when Louis was 4 years old, his reign of 72 years and 110 days is the longest recorded of any monarch of a sovereign country in European history.[1][note 1] In the age of absolutism in Europe, Louis XIV's France was a leader in the growing centralisation of power.[2] Question: When was Louis XIV king? Answer:",
+    {
+        "id": "english--6318542240339155977-0",
+        "lang": "english",
+        "summary": "Louis XIV (Louis Dieudonn\u00e9; 5 September 1638\u20131 September 1715), known as  Louis the Great (Louis le Grand) or the Sun King (Roi Soleil), was a monarch of the House of Bourbon who reigned as King of France from 1643 until his death in 1715. Starting on 14 May 1643 when Louis was 4 years old, his reign of 72 years and 110 days is the longest recorded of any monarch of a sovereign country in European history.[1][note 1] In the age of absolutism in Europe, Louis XIV's France was a leader in the growing centralisation of power.[2]",
+        "question": "When was Louis XIV king?",
+        "label": "1643 until his death in 1715"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        3026,
+        [],
+        "Theatre of Dionysus Eleuthereus"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Theatre of Dionysus Eleuthereus is a major theatre in Athens, considered to be the world's first theatre, built at the foot of the Athenian Acropolis. Dedicated to Dionysus, the god of plays and wine (among other things), the theatre could seat as many as 17,000 people with excellent acoustics,[1] making it an ideal location for ancient Athens' biggest theatrical celebration, the Dionysia.  It was the first  theatre ever built, cut into the southern cliff face of the Acropolis, and supposedly the birthplace of Greek tragedy. The remains of a restored and redesigned Roman version can still be seen at the site today. It is sometimes confused with the later, smaller, and better-preserved Odeon of Herodes Atticus, located nearby on the southwest slope of the Acropolis. Question: What is the oldest surviving theater in the world? Answer:",
+    {
+        "id": "english-4371459485081111992-0",
+        "lang": "english",
+        "summary": "The Theatre of Dionysus Eleuthereus is a major theatre in Athens, considered to be the world's first theatre, built at the foot of the Athenian Acropolis. Dedicated to Dionysus, the god of plays and wine (among other things), the theatre could seat as many as 17,000 people with excellent acoustics,[1] making it an ideal location for ancient Athens' biggest theatrical celebration, the Dionysia.  It was the first  theatre ever built, cut into the southern cliff face of the Acropolis, and supposedly the birthplace of Greek tragedy. The remains of a restored and redesigned Roman version can still be seen at the site today. It is sometimes confused with the later, smaller, and better-preserved Odeon of Herodes Atticus, located nearby on the southwest slope of the Acropolis.",
+        "question": "What is the oldest surviving theater in the world?",
+        "label": "Theatre of Dionysus Eleuthereus"
+    }
+]

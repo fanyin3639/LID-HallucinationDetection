@@ -1,0 +1,15 @@
+[
+    [
+        2470,
+        [],
+        "2000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: For the next two years Davidson worked in government, with the state legislature and later at the Plymouth County district attorney's office. He began applying to law schools, and was accepted at Whittier Law School in Costa Mesa, California. After moving cross-country to study there, he graduated in 2000 and was admitted to the California bar at the end of the year.[6] Question: When did Keith M. Davidson become a lawyer? Answer:",
+    {
+        "id": "english-2287651621234805044-6",
+        "lang": "english",
+        "summary": "For the next two years Davidson worked in government, with the state legislature and later at the Plymouth County district attorney's office. He began applying to law schools, and was accepted at Whittier Law School in Costa Mesa, California. After moving cross-country to study there, he graduated in 2000 and was admitted to the California bar at the end of the year.[6]",
+        "question": "When did Keith M. Davidson become a lawyer?",
+        "label": "2000"
+    }
+]

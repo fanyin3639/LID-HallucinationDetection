@@ -1,0 +1,14 @@
+[
+    [
+        682,
+        [],
+        "A new design for USB - a standardised connection for data transfers between electronic devices - has been shown off for the first time."
+    ],
+    "Write a short summary for the following passage:\nThe new connector will be reversible, bringing an end to the everyday irritant of trying to force a USB cable in the wrong way.\nThe images were first published by technology news site The Verge.\nThe USB Implementers Forum anticipates the new designs will be finalised in July.\nBut rollout of new ports will take some time as manufacturers gradually incorporate them into their products.\nThe new Type-C standard will be similar in size to the current MicroUSB connector, typically used for charging mobile phones and cameras.\nThe first USB cables were released in the mid-1990s and, until now, could only be plugged into a computer or other device one way round to ensure a data connection.\nOther improvements to the new cable include:\nSummary:\n",
+    {
+        "id": 682,
+        "document": "The new connector will be reversible, bringing an end to the everyday irritant of trying to force a USB cable in the wrong way.\nThe images were first published by technology news site The Verge.\nThe USB Implementers Forum anticipates the new designs will be finalised in July.\nBut rollout of new ports will take some time as manufacturers gradually incorporate them into their products.\nThe new Type-C standard will be similar in size to the current MicroUSB connector, typically used for charging mobile phones and cameras.\nThe first USB cables were released in the mid-1990s and, until now, could only be plugged into a computer or other device one way round to ensure a data connection.\nOther improvements to the new cable include:",
+        "summary": "A new design for USB - a standardised connection for data transfers between electronic devices - has been shown off for the first time.",
+        "label": "A new design for USB - a standardised connection for data transfers between electronic devices - has been shown off for the first time."
+    }
+]

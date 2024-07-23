@@ -1,0 +1,15 @@
+[
+    [
+        2625,
+        [],
+        "29"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Utah State Senate is the upper house of the Utah State Legislature, the state legislature of the U.S. state of Utah. The Utah Senate is composed of 29 elected members representing an equal number of senate districts. Each senate district is composed of approximately 95,000 people.[1] Members of the Senate are elected to four-year terms without term limits. The Senate convenes at the Utah State Capitol in Salt Lake City. Question: How many state senate seats does Utah have? Answer:",
+    {
+        "id": "english-2140710999991007712-0",
+        "lang": "english",
+        "summary": "The Utah State Senate is the upper house of the Utah State Legislature, the state legislature of the U.S. state of Utah. The Utah Senate is composed of 29 elected members representing an equal number of senate districts. Each senate district is composed of approximately 95,000 people.[1] Members of the Senate are elected to four-year terms without term limits. The Senate convenes at the Utah State Capitol in Salt Lake City.",
+        "question": "How many state senate seats does Utah have?",
+        "label": "29"
+    }
+]

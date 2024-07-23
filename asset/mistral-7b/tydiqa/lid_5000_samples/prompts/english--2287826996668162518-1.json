@@ -1,0 +1,15 @@
+[
+    [
+        941,
+        [],
+        "Dundee's Western Cemetery"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On 16 March 1915, Watson gained his Royal Aero Club Certificate No. 1,117 (equivalent of a pilot's licence) with the London and Provincial School at the London Aerodrome, Hendon, having sought a commission with the Royal Naval Air Service with the outbreak of war in 1914.[6] Sadly, on 30 June 1915 he lost his life when the Caudron G.3 aeroplane he was flying disintegrated in flight and crashed in Dunlye field, a few miles from the Cross-in-Hand Hotel, Sussex. Watson is buried in Dundee's Western Cemetery.[2] Question: Where is Preston Albert Watson buried? Answer:",
+    {
+        "id": "english--2287826996668162518-1",
+        "lang": "english",
+        "summary": "On 16 March 1915, Watson gained his Royal Aero Club Certificate No. 1,117 (equivalent of a pilot's licence) with the London and Provincial School at the London Aerodrome, Hendon, having sought a commission with the Royal Naval Air Service with the outbreak of war in 1914.[6] Sadly, on 30 June 1915 he lost his life when the Caudron G.3 aeroplane he was flying disintegrated in flight and crashed in Dunlye field, a few miles from the Cross-in-Hand Hotel, Sussex. Watson is buried in Dundee's Western Cemetery.[2]",
+        "question": "Where is Preston Albert Watson buried?",
+        "label": "Dundee's Western Cemetery"
+    }
+]

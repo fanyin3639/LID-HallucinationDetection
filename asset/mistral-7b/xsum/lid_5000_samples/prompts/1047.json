@@ -1,0 +1,14 @@
+[
+    [
+        1047,
+        [],
+        "Reading striker Yann Kermorgant will miss the start of the season after having surgery on his hip and groin."
+    ],
+    "Write a short summary for the following passage:\nThe 35-year-old scored 19 goals for the Royals last season, helping them reach the Championship play-offs.\n\"We are now looking at a rehabilitation process which will stretch across weeks rather than months.\" Reading's head physiotherapist Jon Urwin said.\nReading start their Championship campaign with a trip to Queens Park Rangers on 5 August.\nSummary:\n",
+    {
+        "id": 1047,
+        "document": "The 35-year-old scored 19 goals for the Royals last season, helping them reach the Championship play-offs.\n\"We are now looking at a rehabilitation process which will stretch across weeks rather than months.\" Reading's head physiotherapist Jon Urwin said.\nReading start their Championship campaign with a trip to Queens Park Rangers on 5 August.",
+        "summary": "Reading striker Yann Kermorgant will miss the start of the season after having surgery on his hip and groin.",
+        "label": "Reading striker Yann Kermorgant will miss the start of the season after having surgery on his hip and groin."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2526,
+        [],
+        "on an island that he named Dominica"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On November 3, 1493, Christopher Columbus landed on a rugged shore on an island that he named Dominica. On the same day, he landed at Marie-Galante, which he named Santa Mar\u00eda la Galante. After sailing past Les Saintes (Todos los Santos), he arrived at Guadeloupe (Santa Mar\u00eda de Guadalupe), which he explored between November 4 and November 10, 1493. The exact course of his voyage through the Lesser Antilles is debated, but it seems likely that he turned north, sighting and naming many islands including Santa Mar\u00eda de Montserrat (Montserrat), Santa Mar\u00eda la Antigua (Antigua), Santa Mar\u00eda la Redonda (Saint Martin), and Santa Cruz (Saint Croix). He also sighted and named the island chain of the Santa \u00darsula y las Once Mil V\u00edrgenes (the Virgin Islands), and named the islands of Virgen Gorda. He continued to the Greater Antilles, and landed on the island of San Juan Bautista, present day Puerto Rico, on November 19, 1493. His men rescued two boys who had just been castrated by their captors.[52] Question: Where did Columbus land in his first voyage? Answer:",
+    {
+        "id": "english-6107147228424692144-38",
+        "lang": "english",
+        "summary": "On November 3, 1493, Christopher Columbus landed on a rugged shore on an island that he named Dominica. On the same day, he landed at Marie-Galante, which he named Santa Mar\u00eda la Galante. After sailing past Les Saintes (Todos los Santos), he arrived at Guadeloupe (Santa Mar\u00eda de Guadalupe), which he explored between November 4 and November 10, 1493. The exact course of his voyage through the Lesser Antilles is debated, but it seems likely that he turned north, sighting and naming many islands including Santa Mar\u00eda de Montserrat (Montserrat), Santa Mar\u00eda la Antigua (Antigua), Santa Mar\u00eda la Redonda (Saint Martin), and Santa Cruz (Saint Croix). He also sighted and named the island chain of the Santa \u00darsula y las Once Mil V\u00edrgenes (the Virgin Islands), and named the islands of Virgen Gorda. He continued to the Greater Antilles, and landed on the island of San Juan Bautista, present day Puerto Rico, on November 19, 1493. His men rescued two boys who had just been castrated by their captors.[52]",
+        "question": "Where did Columbus land in his first voyage?",
+        "label": "on an island that he named Dominica"
+    }
+]

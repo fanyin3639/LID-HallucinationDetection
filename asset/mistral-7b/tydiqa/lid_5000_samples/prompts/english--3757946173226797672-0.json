@@ -1,0 +1,15 @@
+[
+    [
+        1580,
+        [],
+        "Latin: cuprum"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a pinkish-orange color. Copper is used as a conductor of heat and electricity, as a building material, and as a constituent of various metal alloys, such as sterling silver used in jewelry, cupronickel used to make marine hardware and coins, and constantan used in strain gauges and thermocouples for temperature measurement. Question: What is the origin of the symbol Cu for Copper? Answer:",
+    {
+        "id": "english--3757946173226797672-0",
+        "lang": "english",
+        "summary": "Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a pinkish-orange color. Copper is used as a conductor of heat and electricity, as a building material, and as a constituent of various metal alloys, such as sterling silver used in jewelry, cupronickel used to make marine hardware and coins, and constantan used in strain gauges and thermocouples for temperature measurement.",
+        "question": "What is the origin of the symbol Cu for Copper?",
+        "label": "Latin: cuprum"
+    }
+]

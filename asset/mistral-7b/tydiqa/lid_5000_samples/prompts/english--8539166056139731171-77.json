@@ -1,0 +1,15 @@
+[
+    [
+        2192,
+        [],
+        "heart attack"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On 20 June 1970, two days after the Conservative Party's unexpected election victory, Macleod was appointed Chancellor of the Exchequer by the new Prime Minister, Heath.[74] Despite being in pain, he made his one and only major speech on the economy as chancellor on 7 July 1970.[1] In the speech Macleod bemoaned the high level of inflation and, at the same time, the highest level of unemployment since 1940.[51] Later that day he was rushed to hospital with what was thought at first to be appendicitis, but was in fact a Pelvic Diverticulum.[75] He was discharged 11 days later; yet at 10.30pm on 20 July, while in 11 Downing Street, he suffered a massive heart attack and died at 11.35pm.[1] Question: How did Iain Norman Macleod die? Answer:",
+    {
+        "id": "english--8539166056139731171-77",
+        "lang": "english",
+        "summary": "On 20 June 1970, two days after the Conservative Party's unexpected election victory, Macleod was appointed Chancellor of the Exchequer by the new Prime Minister, Heath.[74] Despite being in pain, he made his one and only major speech on the economy as chancellor on 7 July 1970.[1] In the speech Macleod bemoaned the high level of inflation and, at the same time, the highest level of unemployment since 1940.[51] Later that day he was rushed to hospital with what was thought at first to be appendicitis, but was in fact a Pelvic Diverticulum.[75] He was discharged 11 days later; yet at 10.30pm on 20 July, while in 11 Downing Street, he suffered a massive heart attack and died at 11.35pm.[1]",
+        "question": "How did Iain Norman Macleod die?",
+        "label": "heart attack"
+    }
+]

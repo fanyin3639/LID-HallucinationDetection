@@ -1,0 +1,15 @@
+[
+    [
+        211,
+        [],
+        "Punjabi"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Punjabi (/p\u028cn\u02c8d\u0292\u0251\u02d0bi/;[5] Gurmukhi: \u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 p\u00e3\u1e49j\u0101b\u012b; Shahmukhi: \u067e\u0646\u062c\u0627\u0628\u06cc pa\u1e49j\u0101b\u012b)[6] is an Indo-Aryan language with more than 100million native speakers in the Indian subcontinent and spread with the Punjabi diaspora worldwide. It is the native language of the Punjabi people, an ethnic group of the cultural region of Punjab region of the Indian subcontinent, which  extends from northwest India through eastern Pakistan. Question: What language was spoken in Punjab? Answer:",
+    {
+        "id": "english--3741952477774923025-1",
+        "lang": "english",
+        "summary": "Punjabi (/p\u028cn\u02c8d\u0292\u0251\u02d0bi/;[5] Gurmukhi: \u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 p\u00e3\u1e49j\u0101b\u012b; Shahmukhi: \u067e\u0646\u062c\u0627\u0628\u06cc pa\u1e49j\u0101b\u012b)[6] is an Indo-Aryan language with more than 100million native speakers in the Indian subcontinent and spread with the Punjabi diaspora worldwide. It is the native language of the Punjabi people, an ethnic group of the cultural region of Punjab region of the Indian subcontinent, which  extends from northwest India through eastern Pakistan.",
+        "question": "What language was spoken in Punjab?",
+        "label": "Punjabi"
+    }
+]

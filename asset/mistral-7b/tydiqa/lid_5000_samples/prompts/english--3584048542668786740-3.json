@@ -1,0 +1,15 @@
+[
+    [
+        1204,
+        [],
+        "2,000 years"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Banu Abs originated almost 2,000 years ago, branching from the Ghatafan clan, and inhabiting the outskirts of Medinah in modern Hejaz, an area called today Hurrat Bani Rasheed. Question: How old are the Banu Abs? Answer:",
+    {
+        "id": "english--3584048542668786740-3",
+        "lang": "english",
+        "summary": "The Banu Abs originated almost 2,000 years ago, branching from the Ghatafan clan, and inhabiting the outskirts of Medinah in modern Hejaz, an area called today Hurrat Bani Rasheed.",
+        "question": "How old are the Banu Abs?",
+        "label": "2,000 years"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2491,
+        [],
+        "It involves a comprehensive approach of countering the threat networks that employ improvised explosive devices (IEDs), defeating the devices themselves, and training others"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Counter-IED efforts are done primarily by military and law enforcement (led by intelligence efforts) with the assistance of the diplomatic and financial communities. It involves a comprehensive approach of countering the threat networks that employ improvised explosive devices (IEDs), defeating the devices themselves, and training others. Counter-IED, or C-IED, is usually part of a broader counter-terrorism, counter-insurgency, or law enforcement effort. Because IEDs are a subset of a number of forms of asymmetric warfare used by insurgents and terrorists, C-IED activities are principally against adversaries and not only against IEDs. C-IED treats the IED as a systemic problem and aims to defeat the IED System. Question: How does Counter-IED work? Answer:",
+    {
+        "id": "english--3684425849148926137-0",
+        "lang": "english",
+        "summary": "Counter-IED efforts are done primarily by military and law enforcement (led by intelligence efforts) with the assistance of the diplomatic and financial communities. It involves a comprehensive approach of countering the threat networks that employ improvised explosive devices (IEDs), defeating the devices themselves, and training others. Counter-IED, or C-IED, is usually part of a broader counter-terrorism, counter-insurgency, or law enforcement effort. Because IEDs are a subset of a number of forms of asymmetric warfare used by insurgents and terrorists, C-IED activities are principally against adversaries and not only against IEDs. C-IED treats the IED as a systemic problem and aims to defeat the IED System.",
+        "question": "How does Counter-IED work?",
+        "label": "It involves a comprehensive approach of countering the threat networks that employ improvised explosive devices (IEDs), defeating the devices themselves, and training others"
+    }
+]

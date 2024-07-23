@@ -1,0 +1,15 @@
+[
+    [
+        363,
+        [],
+        "1964"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first-generation Ford Mustang was manufactured by Ford from March 1964 until 1973.  The introduction of the Mustang created a new class of automobile known as the pony car.  The Mustang\u2019s styling, with its long hood and short deck, proved wildly popular and inspired a host of competition. Question: When did Ford first produce the Mustang? Answer:",
+    {
+        "id": "english--8665768662332764121-0",
+        "lang": "english",
+        "summary": "The first-generation Ford Mustang was manufactured by Ford from March 1964 until 1973.  The introduction of the Mustang created a new class of automobile known as the pony car.  The Mustang\u2019s styling, with its long hood and short deck, proved wildly popular and inspired a host of competition.",
+        "question": "When did Ford first produce the Mustang?",
+        "label": "1964"
+    }
+]

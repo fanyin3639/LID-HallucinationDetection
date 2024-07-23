@@ -1,0 +1,15 @@
+[
+    [
+        2520,
+        [],
+        "Pemberley"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pemberley is the fictional country estate owned by Fitzwilliam Darcy, the male protagonist in Jane Austen's novel Pride and Prejudice. It is located near the fictional town of Lambton, and believed by some to be based on Chatsworth House,[1] near Bakewell in Derbyshire. Question: What was Darcy's estate called in Pride and Prejudice? Answer:",
+    {
+        "id": "english-8659348919677073082-0",
+        "lang": "english",
+        "summary": "Pemberley is the fictional country estate owned by Fitzwilliam Darcy, the male protagonist in Jane Austen's novel Pride and Prejudice. It is located near the fictional town of Lambton, and believed by some to be based on Chatsworth House,[1] near Bakewell in Derbyshire.",
+        "question": "What was Darcy's estate called in Pride and Prejudice?",
+        "label": "Pemberley"
+    }
+]

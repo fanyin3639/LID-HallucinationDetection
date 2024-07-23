@@ -1,0 +1,15 @@
+[
+    [
+        990,
+        [],
+        "April 26, 1909"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Heinz Steinitz (April 26, 1909 \u2013 April 28, 1971, Hebrew: \u05d4\u05d9\u05d9\u05e0\u05e5 \u05e9\u05d8\u05d9\u05d9\u05e0\u05d9\u05e5\u200e) was a senior Israeli marine biologist and herpetologist, Professor and Chairman of the Department of zoology at the Hebrew University in Jerusalem. He laid the foundation for research and teaching in marine biology and oceanography in Israel. In 1968 he founded the Marine Biology Laboratory of the Hebrew University near Eilat, serving as its first director. He also served as a founding member of the Zoological Society of Israel and a co-founder of the Society for the Protection of Nature in Israel. Question: When was Heinz Steinitz born? Answer:",
+    {
+        "id": "english--9215384714976750031-0",
+        "lang": "english",
+        "summary": "Heinz Steinitz (April 26, 1909 \u2013 April 28, 1971, Hebrew: \u05d4\u05d9\u05d9\u05e0\u05e5 \u05e9\u05d8\u05d9\u05d9\u05e0\u05d9\u05e5\u200e) was a senior Israeli marine biologist and herpetologist, Professor and Chairman of the Department of zoology at the Hebrew University in Jerusalem. He laid the foundation for research and teaching in marine biology and oceanography in Israel. In 1968 he founded the Marine Biology Laboratory of the Hebrew University near Eilat, serving as its first director. He also served as a founding member of the Zoological Society of Israel and a co-founder of the Society for the Protection of Nature in Israel.",
+        "question": "When was Heinz Steinitz born?",
+        "label": "April 26, 1909"
+    }
+]

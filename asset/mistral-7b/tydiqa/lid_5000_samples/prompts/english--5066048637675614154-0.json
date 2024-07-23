@@ -1,0 +1,15 @@
+[
+    [
+        2872,
+        [],
+        "St Audoen's"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: St Audoen's Church (/\u02c8\u0254\u02d0d\u0259n/) is the church of the parish of Saint Audoen in the Church of Ireland, located south of the River Liffey at Cornmarket in Dublin, Ireland. This was close to the centre of the medieval city. The parish is in the Diocese of Dublin and Glendalough. St Audoen's is the oldest parish church in Dublin and still used as such. There is a Roman Catholic  church of the same name adjacent to it. Question: What is the oldest church in Ireland? Answer:",
+    {
+        "id": "english--5066048637675614154-0",
+        "lang": "english",
+        "summary": "St Audoen's Church (/\u02c8\u0254\u02d0d\u0259n/) is the church of the parish of Saint Audoen in the Church of Ireland, located south of the River Liffey at Cornmarket in Dublin, Ireland. This was close to the centre of the medieval city. The parish is in the Diocese of Dublin and Glendalough. St Audoen's is the oldest parish church in Dublin and still used as such. There is a Roman Catholic  church of the same name adjacent to it.",
+        "question": "What is the oldest church in Ireland?",
+        "label": "St Audoen's"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        2556,
+        [],
+        "calamity"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Names of the Holocaust vary based on context.  \"The Holocaust\" is the name commonly applied in English since the mid-1940s to the systematic extermination of 6 million Jews by Nazi Germany during World War II. The term is also used more broadly to include the Nazis' systematic murder of millions of people in other groups, including ethnic Poles, the Romani, Soviet civilians, Soviet prisoners of war, people with disabilities, gay men, and political and religious opponents,[1] which would bring the total number of Holocaust victims to between 11 million and 17 million people.[2] In Judaism, Shoah (\u05e9\u05d5\u05d0\u05d4), meaning \"calamity\" in Hebrew, became the standard term for the 20th-century Holocaust (see Yom HaShoah).  This is because 'Holocaust' connotes a sacrifice, and Jewish leaders argue there was no sacrifice. Question: What does the word Shoah mean? Answer:",
+    {
+        "id": "english--5925539045356951666-0",
+        "lang": "english",
+        "summary": "Names of the Holocaust vary based on context.  \"The Holocaust\" is the name commonly applied in English since the mid-1940s to the systematic extermination of 6 million Jews by Nazi Germany during World War II. The term is also used more broadly to include the Nazis' systematic murder of millions of people in other groups, including ethnic Poles, the Romani, Soviet civilians, Soviet prisoners of war, people with disabilities, gay men, and political and religious opponents,[1] which would bring the total number of Holocaust victims to between 11 million and 17 million people.[2] In Judaism, Shoah (\u05e9\u05d5\u05d0\u05d4), meaning \"calamity\" in Hebrew, became the standard term for the 20th-century Holocaust (see Yom HaShoah).  This is because 'Holocaust' connotes a sacrifice, and Jewish leaders argue there was no sacrifice.",
+        "question": "What does the word Shoah mean?",
+        "label": "calamity"
+    }
+]

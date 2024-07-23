@@ -1,0 +1,15 @@
+[
+    [
+        854,
+        [],
+        "Levi's Stadium"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Levi's Stadium is a football stadium located in Santa Clara, California, in the San Francisco Bay Area. It has served as the home venue for the National Football League (NFL)'s San Francisco 49ers since 2014. The stadium is located approximately 40 miles (64km) south of San Francisco and is named for Levi Strauss & Co., which purchased naming rights in 2013. Question: What is the name of the home stadium of the San Francisco 49ers? Answer:",
+    {
+        "id": "english-6138998362481789677-0",
+        "lang": "english",
+        "summary": "Levi's Stadium is a football stadium located in Santa Clara, California, in the San Francisco Bay Area. It has served as the home venue for the National Football League (NFL)'s San Francisco 49ers since 2014. The stadium is located approximately 40 miles (64km) south of San Francisco and is named for Levi Strauss & Co., which purchased naming rights in 2013.",
+        "question": "What is the name of the home stadium of the San Francisco 49ers?",
+        "label": "Levi's Stadium"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    [
+        729,
+        [],
+        "Hundreds of students had their GCSE exams disrupted following a series of bomb hoaxes in the South East."
+    ],
+    "Write a short summary for the following passage:\nPolice have appealed for information after a person rang Canterbury Academy warning of an explosive device.\nCalls were also made to Ringmer School, near Lewes, Cranmere Primary, in Esher, Barming Primary, in Maidstone, and Kingsham Primary, in Chichester.\nThe Department for Education said \"clear emergency arrangements\" were in place.\nAbout 20 schools across the country have received warnings from anonymous callers.\nSummary:\n",
+    {
+        "id": 729,
+        "document": "Police have appealed for information after a person rang Canterbury Academy warning of an explosive device.\nCalls were also made to Ringmer School, near Lewes, Cranmere Primary, in Esher, Barming Primary, in Maidstone, and Kingsham Primary, in Chichester.\nThe Department for Education said \"clear emergency arrangements\" were in place.\nAbout 20 schools across the country have received warnings from anonymous callers.",
+        "summary": "Hundreds of students had their GCSE exams disrupted following a series of bomb hoaxes in the South East.",
+        "label": "Hundreds of students had their GCSE exams disrupted following a series of bomb hoaxes in the South East."
+    }
+]

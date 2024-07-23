@@ -1,0 +1,15 @@
+[
+    [
+        2028,
+        [],
+        "1996"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The TI-83 series is a series of graphing calculators manufactured by Texas Instruments. The original TI-83 is itself an upgraded version of the TI-82.[1] Released in 1996, it was one of the most popular graphing calculators for students.  In addition to the functions present on normal scientific calculators, the TI-83 includes many features, including function graphing, polar/parametric/sequence graphing modes, statistics, trigonometric, and algebraic functions, along with many useful applications. Although it does not include as many calculus functions, applications (for the TI-83 Plus\u2014see below) and programs can be downloaded from certain websites, or written on the calculator. Question: When was the TI-83 released? Answer:",
+    {
+        "id": "english-4343275526205414036-0",
+        "lang": "english",
+        "summary": "The TI-83 series is a series of graphing calculators manufactured by Texas Instruments. The original TI-83 is itself an upgraded version of the TI-82.[1] Released in 1996, it was one of the most popular graphing calculators for students.  In addition to the functions present on normal scientific calculators, the TI-83 includes many features, including function graphing, polar/parametric/sequence graphing modes, statistics, trigonometric, and algebraic functions, along with many useful applications. Although it does not include as many calculus functions, applications (for the TI-83 Plus\u2014see below) and programs can be downloaded from certain websites, or written on the calculator.",
+        "question": "When was the TI-83 released?",
+        "label": "1996"
+    }
+]

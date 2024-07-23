@@ -1,0 +1,15 @@
+[
+    [
+        443,
+        [],
+        "nest in the soil, often near moist areas, such as river banks, pond shores, watered lawns, and highway shoulders"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Fire ants nest in the soil, often near moist areas, such as river banks, pond shores, watered lawns, and highway shoulders. Usually, the nest will not be visible, as it will be built under objects such as timber, logs, rocks, or bricks. If  no cover for nesting is available, dome-shaped mounds are constructed, but these are usually only found in open spaces, such as fields, parks, and lawns. These mounds can reach heights of 40cm (16in),[4] but can be even higher on heavier soils, standing at 1.0m (3ft 3in) in height and 1.5m (4ft 11in) in diameter.[12] Colonies are founded by small groups of queens or single queens. Even if only one queen survives, within a month or so, the colony can expand to thousands of individuals. Some colonies may be polygynous (having multiple queens per nest).[13] Question: Where do fire ants live? Answer:",
+    {
+        "id": "english-2282981132276512490-6",
+        "lang": "english",
+        "summary": "Fire ants nest in the soil, often near moist areas, such as river banks, pond shores, watered lawns, and highway shoulders. Usually, the nest will not be visible, as it will be built under objects such as timber, logs, rocks, or bricks. If  no cover for nesting is available, dome-shaped mounds are constructed, but these are usually only found in open spaces, such as fields, parks, and lawns. These mounds can reach heights of 40cm (16in),[4] but can be even higher on heavier soils, standing at 1.0m (3ft 3in) in height and 1.5m (4ft 11in) in diameter.[12] Colonies are founded by small groups of queens or single queens. Even if only one queen survives, within a month or so, the colony can expand to thousands of individuals. Some colonies may be polygynous (having multiple queens per nest).[13]",
+        "question": "Where do fire ants live?",
+        "label": "nest in the soil, often near moist areas, such as river banks, pond shores, watered lawns, and highway shoulders"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        364,
+        [],
+        "Halimah Yacob"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The President of the Republic of Singapore is the country's head of state. Singapore has a parliamentary system of government. Executive authority is exercised by the Cabinet led by the Prime Minister of Singapore. The current president is Halimah Yacob, who was elected unopposed at the 2017 presidential election.  She is the first female President of Singapore and first Malay head of state in 47 years since the death of Yusof Bin Ishak, Singapore's first president. Question: Who is the current political leader of Singapore? Answer:",
+    {
+        "id": "english-4605082866019686712-1",
+        "lang": "english",
+        "summary": "The President of the Republic of Singapore is the country's head of state. Singapore has a parliamentary system of government. Executive authority is exercised by the Cabinet led by the Prime Minister of Singapore. The current president is Halimah Yacob, who was elected unopposed at the 2017 presidential election.  She is the first female President of Singapore and first Malay head of state in 47 years since the death of Yusof Bin Ishak, Singapore's first president.",
+        "question": "Who is the current political leader of Singapore?",
+        "label": "Halimah Yacob"
+    }
+]

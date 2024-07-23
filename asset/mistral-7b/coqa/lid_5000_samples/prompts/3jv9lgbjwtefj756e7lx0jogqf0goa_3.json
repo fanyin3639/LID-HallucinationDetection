@@ -1,0 +1,19 @@
+[
+    [
+        673,
+        [],
+        "atop the rim"
+    ],
+    "Answer the following questions:\nContext: An atoll (, , , , or ), sometimes called a coral atoll, is a ring-shaped coral reef including a coral rim that encircles a lagoon partially or completely. There may be coral islands/cays on the rim. The coral of the atoll often sits atop the rim of an extinct seamount or volcano which has eroded or subsided partially beneath the water. The lagoon forms over the volcanic crater or caldera while the higher rim remains above water or at shallow depths that permit the coral to grow and form the reefs. For the atoll to persist, continued erosion or subsidence must be at a rate slow enough to permit reef growth upwards and outwards to replace the lost height. \n\nThe word \"atoll\" comes from the Dhivehi (an Indo-Aryan language spoken on the Maldive Islands) word \"atholhu\" (Dhivehi: , ), meaning an administrative subdivision. Its first recorded use in English was in 1625 as \"atollon\" \u2013 Charles Darwin recognized its indigenous origin and coined, in his \"The Structure and Distribution of Coral Reefs\", the definition of atolls as \"circular groups of coral islets\" that is synonymous with \"lagoon-island\". \n\nMore modern definitions of \"atoll\" describe them as \"annular reefs enclosing a lagoon in which there are no promontories other than reefs and islets composed of reef detritus\" or \"in an exclusively morphological sense, [as] a ring-shaped ribbon reef enclosing a lagoon\".\n'Question': where is the coral?\n'Answer: '",
+    {
+        "id": "3jv9lgbjwtefj756e7lx0jogqf0goa_3",
+        "summary": "An atoll (, , , , or ), sometimes called a coral atoll, is a ring-shaped coral reef including a coral rim that encircles a lagoon partially or completely. There may be coral islands/cays on the rim. The coral of the atoll often sits atop the rim of an extinct seamount or volcano which has eroded or subsided partially beneath the water. The lagoon forms over the volcanic crater or caldera while the higher rim remains above water or at shallow depths that permit the coral to grow and form the reefs. For the atoll to persist, continued erosion or subsidence must be at a rate slow enough to permit reef growth upwards and outwards to replace the lost height. \n\nThe word \"atoll\" comes from the Dhivehi (an Indo-Aryan language spoken on the Maldive Islands) word \"atholhu\" (Dhivehi: , ), meaning an administrative subdivision. Its first recorded use in English was in 1625 as \"atollon\" \u2013 Charles Darwin recognized its indigenous origin and coined, in his \"The Structure and Distribution of Coral Reefs\", the definition of atolls as \"circular groups of coral islets\" that is synonymous with \"lagoon-island\". \n\nMore modern definitions of \"atoll\" describe them as \"annular reefs enclosing a lagoon in which there are no promontories other than reefs and islets composed of reef detritus\" or \"in an exclusively morphological sense, [as] a ring-shaped ribbon reef enclosing a lagoon\".",
+        "question": "where is the coral?",
+        "label": "atop the rim",
+        "additional_answers": [
+            "rim of an extinct seamount or volcano",
+            "atop the rim",
+            "atop the rim"
+        ]
+    }
+]

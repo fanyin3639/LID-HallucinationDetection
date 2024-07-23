@@ -1,0 +1,14 @@
+[
+    [
+        625,
+        [],
+        "Angus Macpherson has been re-elected to the role of Police and Crime Commissioner for Wiltshire and Swindon."
+    ],
+    "Write a short summary for the following passage:\nThe Conservative received 45% of the first preference votes.\nHe was elected after the second preference votes were counted, when no candidates received more than 50% of first preference votes.\nMr Macpherson received a total of  68,622 first and second preferences compared to his nearest challenger Labour's Kevin Small.\nMr Small received 39,365 of the first and second preference votes.\nTurnout was nearly 25%, up from 15% in 2012.\nMr Macpherson described the result as \"a vote of confidence in local policing\", but added: \"That is not to say everything is perfect.\n\"In my second term I will be focusing on the issues raised by the public during the campaign. We can do more for our communities and my job for the next four years is to make sure that we do.\"\nCandidates are listed alphabetically by surname.\nSummary:\n",
+    {
+        "id": 625,
+        "document": "The Conservative received 45% of the first preference votes.\nHe was elected after the second preference votes were counted, when no candidates received more than 50% of first preference votes.\nMr Macpherson received a total of  68,622 first and second preferences compared to his nearest challenger Labour's Kevin Small.\nMr Small received 39,365 of the first and second preference votes.\nTurnout was nearly 25%, up from 15% in 2012.\nMr Macpherson described the result as \"a vote of confidence in local policing\", but added: \"That is not to say everything is perfect.\n\"In my second term I will be focusing on the issues raised by the public during the campaign. We can do more for our communities and my job for the next four years is to make sure that we do.\"\nCandidates are listed alphabetically by surname.",
+        "summary": "Angus Macpherson has been re-elected to the role of Police and Crime Commissioner for Wiltshire and Swindon.",
+        "label": "Angus Macpherson has been re-elected to the role of Police and Crime Commissioner for Wiltshire and Swindon."
+    }
+]

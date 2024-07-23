@@ -1,0 +1,15 @@
+[
+    [
+        2141,
+        [],
+        "Christian de Duve"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The name \"autophagy\" was coined by Belgian biochemist Christian de Duve in 1963 based on his discovery of the functions of lysosome.[3] The identification of autophagy-related genes in yeast in the 1990s let researchers figure out the mechanisms of autophagy,[8][9][10][11][12] which eventually led to the award of the 2016 Nobel Prize in Physiology or Medicine to Japanese researcher Yoshinori Ohsumi.[13] Question: Who first identified the process of autophagy? Answer:",
+    {
+        "id": "english-7431579500952605579-2",
+        "lang": "english",
+        "summary": "The name \"autophagy\" was coined by Belgian biochemist Christian de Duve in 1963 based on his discovery of the functions of lysosome.[3] The identification of autophagy-related genes in yeast in the 1990s let researchers figure out the mechanisms of autophagy,[8][9][10][11][12] which eventually led to the award of the 2016 Nobel Prize in Physiology or Medicine to Japanese researcher Yoshinori Ohsumi.[13]",
+        "question": "Who first identified the process of autophagy?",
+        "label": "Christian de Duve"
+    }
+]

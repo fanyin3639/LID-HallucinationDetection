@@ -1,0 +1,15 @@
+[
+    [
+        881,
+        [],
+        "Montreal, Quebec"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Auf der Maur was born in Montreal, Quebec to journalist and politician Nick Auf der Maur and journalist and literary translator Linda Gaboriau. Auf der Maur's father's family was Swiss\u2013German and her mother's was mixed European-American. Gaboriau was born in Boston, Massachusetts in the United States. As a result, she holds dual Canadian\u2013American citizenship.[6] Auf der Maur's surname translates to English as \"on the wall\", as \"maur\" was derived from the German word for \"wall\" (die Mauer). She has stated that her grandmother, Theresia Schaelin-Auf der Maur, was \"always pounding my heritage down my throat\u2014reminding me that I'm the last one in North America to further the name\".[7] Question: Where was Melissa Gaboriau Auf der Maur born? Answer:",
+    {
+        "id": "english--7380189518825580457-4",
+        "lang": "english",
+        "summary": "Auf der Maur was born in Montreal, Quebec to journalist and politician Nick Auf der Maur and journalist and literary translator Linda Gaboriau. Auf der Maur's father's family was Swiss\u2013German and her mother's was mixed European-American. Gaboriau was born in Boston, Massachusetts in the United States. As a result, she holds dual Canadian\u2013American citizenship.[6] Auf der Maur's surname translates to English as \"on the wall\", as \"maur\" was derived from the German word for \"wall\" (die Mauer). She has stated that her grandmother, Theresia Schaelin-Auf der Maur, was \"always pounding my heritage down my throat\u2014reminding me that I'm the last one in North America to further the name\".[7]",
+        "question": "Where was Melissa Gaboriau Auf der Maur born?",
+        "label": "Montreal, Quebec"
+    }
+]

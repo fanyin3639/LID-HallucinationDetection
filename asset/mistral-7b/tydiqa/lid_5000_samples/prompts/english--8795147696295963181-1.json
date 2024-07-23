@@ -1,0 +1,15 @@
+[
+    [
+        758,
+        [],
+        "3.8km"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: One end of the canal leads into the lagoon near the Santa Lucia railway station and the other end leads into the basin at San Marco; in between, it makes a large reverse-S shape through the central districts (sestieri) of Venice. It is 3.8km (2.4mi) long, and 30 to 90m (98 to 295ft) wide, with an average depth of 5 metres (16 feet). Question: How long is the Grand Canal in Venice? Answer:",
+    {
+        "id": "english--8795147696295963181-1",
+        "lang": "english",
+        "summary": "One end of the canal leads into the lagoon near the Santa Lucia railway station and the other end leads into the basin at San Marco; in between, it makes a large reverse-S shape through the central districts (sestieri) of Venice. It is 3.8km (2.4mi) long, and 30 to 90m (98 to 295ft) wide, with an average depth of 5 metres (16 feet).",
+        "question": "How long is the Grand Canal in Venice?",
+        "label": "3.8km"
+    }
+]

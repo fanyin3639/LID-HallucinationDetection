@@ -1,0 +1,15 @@
+[
+    [
+        99,
+        [],
+        "a class of organophosphorus compounds with the general structure O=P(OR)3"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Organophosphates (also known as phosphate esters) are a class of organophosphorus compounds with the general structure O=P(OR)3.  They can be considered as esters of phosphoric acid. Like most functional groups organophosphates occur in a diverse range of forms, with important examples including key biomolecules such as DNA, RNA and ATP, as well as many insecticides, herbicides, and nerve agents. Question: What is an organophosphate? Answer:",
+    {
+        "id": "english--245695108658199045-0",
+        "lang": "english",
+        "summary": "Organophosphates (also known as phosphate esters) are a class of organophosphorus compounds with the general structure O=P(OR)3.  They can be considered as esters of phosphoric acid. Like most functional groups organophosphates occur in a diverse range of forms, with important examples including key biomolecules such as DNA, RNA and ATP, as well as many insecticides, herbicides, and nerve agents.",
+        "question": "What is an organophosphate?",
+        "label": "a class of organophosphorus compounds with the general structure O=P(OR)3"
+    }
+]

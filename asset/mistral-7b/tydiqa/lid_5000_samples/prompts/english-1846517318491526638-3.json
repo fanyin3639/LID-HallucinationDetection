@@ -1,0 +1,15 @@
+[
+    [
+        2968,
+        [],
+        "February 2008"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: GitHub was developed by Chris Wanstrath, PJ Hyett, Tom Preston-Werner and Scott Chacon using Ruby on Rails, and started in February 2008. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.[11] Question: When was github created? Answer:",
+    {
+        "id": "english-1846517318491526638-3",
+        "lang": "english",
+        "summary": "GitHub was developed by Chris Wanstrath, PJ Hyett, Tom Preston-Werner and Scott Chacon using Ruby on Rails, and started in February 2008. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.[11]",
+        "question": "When was github created?",
+        "label": "February 2008"
+    }
+]

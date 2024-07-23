@@ -1,0 +1,15 @@
+[
+    [
+        2744,
+        [],
+        "Leona Maguire"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Leona Maguire (born 30 November 1994)[1] is an Irish professional golfer. She was ranked 1st in the world on the women's World Amateur Golf Ranking from 2 August 2016 until 28 February 2018 and was also ranked first for the 52 weeks from May 2015 to May 2016. Maguire's 135 weeks at the top is the longest in history. [2][3] A native of County Cavan, her parents are schoolteachers Declan and Breda Maguire. At the age of 9, she gave up a promising swimming career to concentrate on golf. She is 15 minutes younger than her twin sister Lisa Maguire who is also a professional golfer. Question: Who was the first woman golfer in Ireland? Answer:",
+    {
+        "id": "english-2426789539171432870-0",
+        "lang": "english",
+        "summary": "Leona Maguire (born 30 November 1994)[1] is an Irish professional golfer. She was ranked 1st in the world on the women's World Amateur Golf Ranking from 2 August 2016 until 28 February 2018 and was also ranked first for the 52 weeks from May 2015 to May 2016. Maguire's 135 weeks at the top is the longest in history. [2][3] A native of County Cavan, her parents are schoolteachers Declan and Breda Maguire. At the age of 9, she gave up a promising swimming career to concentrate on golf. She is 15 minutes younger than her twin sister Lisa Maguire who is also a professional golfer.",
+        "question": "Who was the first woman golfer in Ireland?",
+        "label": "Leona Maguire"
+    }
+]

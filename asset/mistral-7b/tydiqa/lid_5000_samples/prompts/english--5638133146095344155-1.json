@@ -1,0 +1,15 @@
+[
+    [
+        1527,
+        [],
+        "5 liters"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A typical adult has a blood volume of approximately 5 liters, with females and males having approximately the same blood volume.[1] Blood volume is regulated by the kidneys. Question: What is the average volume of blood in an adult human? Answer:",
+    {
+        "id": "english--5638133146095344155-1",
+        "lang": "english",
+        "summary": "A typical adult has a blood volume of approximately 5 liters, with females and males having approximately the same blood volume.[1] Blood volume is regulated by the kidneys.",
+        "question": "What is the average volume of blood in an adult human?",
+        "label": "5 liters"
+    }
+]

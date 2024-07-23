@@ -1,0 +1,15 @@
+[
+    [
+        1490,
+        [],
+        "30 May 1431"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Joan of Arc (French: Jeanne d'Arc; French pronunciation:\u200b[\u0292an da\u0281k]; 6 January c.1412\u2013 30 May 1431), nicknamed \"The Maid of Orl\u00e9ans\" (French: La Pucelle d'Orl\u00e9ans), is considered a heroine of France for her role during the Lancastrian phase of the Hundred Years' War, and was canonized as a Roman Catholic saint. She was born to Jacques d'Arc and Isabelle Rom\u00e9e, a peasant family, at Domr\u00e9my in north-east France. Joan claimed to have received visions of the Archangel Michael, Saint Margaret, and Saint Catherine of Alexandria instructing her to support Charles VII and recover France from English domination late in the Hundred Years' War. The uncrowned King Charles VII sent Joan to the siege of Orl\u00e9ans as part of a relief mission. She gained prominence after the siege was lifted only nine days later. Several additional swift victories led to Charles VII's coronation at Reims. This long-awaited event boosted French morale and paved the way for the final French victory. Question: When did Joan of Arc die? Answer:",
+    {
+        "id": "english-460109291925976177-0",
+        "lang": "english",
+        "summary": "Joan of Arc (French: Jeanne d'Arc; French pronunciation:\u200b[\u0292an da\u0281k]; 6 January c.1412\u2013 30 May 1431), nicknamed \"The Maid of Orl\u00e9ans\" (French: La Pucelle d'Orl\u00e9ans), is considered a heroine of France for her role during the Lancastrian phase of the Hundred Years' War, and was canonized as a Roman Catholic saint. She was born to Jacques d'Arc and Isabelle Rom\u00e9e, a peasant family, at Domr\u00e9my in north-east France. Joan claimed to have received visions of the Archangel Michael, Saint Margaret, and Saint Catherine of Alexandria instructing her to support Charles VII and recover France from English domination late in the Hundred Years' War. The uncrowned King Charles VII sent Joan to the siege of Orl\u00e9ans as part of a relief mission. She gained prominence after the siege was lifted only nine days later. Several additional swift victories led to Charles VII's coronation at Reims. This long-awaited event boosted French morale and paved the way for the final French victory.",
+        "question": "When did Joan of Arc die?",
+        "label": "30 May 1431"
+    }
+]

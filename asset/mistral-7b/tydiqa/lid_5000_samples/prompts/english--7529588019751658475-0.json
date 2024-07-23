@@ -1,0 +1,15 @@
+[
+    [
+        435,
+        [],
+        "Akan Drum"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Akan Drum is a drum that was made in West Africa and was later found in the Colony of Virginia in North America. It is now the oldest African-American object in the British Museum and possibly the oldest surviving anywhere.[2] The drum is a reminder of all three continents' involvement in the estimated twelve million people transported across the Atlantic as part of the slave trade.[1] The drum is normally displayed in room 26.[2][3] Question: How old is the oldest surviving drum? Answer:",
+    {
+        "id": "english--7529588019751658475-0",
+        "lang": "english",
+        "summary": "The Akan Drum is a drum that was made in West Africa and was later found in the Colony of Virginia in North America. It is now the oldest African-American object in the British Museum and possibly the oldest surviving anywhere.[2] The drum is a reminder of all three continents' involvement in the estimated twelve million people transported across the Atlantic as part of the slave trade.[1] The drum is normally displayed in room 26.[2][3]",
+        "question": "How old is the oldest surviving drum?",
+        "label": "Akan Drum"
+    }
+]

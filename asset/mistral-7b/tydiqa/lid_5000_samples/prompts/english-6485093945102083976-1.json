@@ -1,0 +1,15 @@
+[
+    [
+        2191,
+        [],
+        "a legislature, an executive, and a judiciary"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The separation of powers is a model for the governance of a state. Under this model, a state's government is divided into branches, each with separate and independent powers and areas of responsibility so that the powers of one branch are not in conflict with the powers associated with the other branches. The typical division is into three branches: a legislature, an executive, and a judiciary, which is the trias politica model. It can be contrasted with the fusion of powers in some parliamentary systems where the executive and legislative branches overlap. Question: What are the branches of government? Answer:",
+    {
+        "id": "english-6485093945102083976-1",
+        "lang": "english",
+        "summary": "The separation of powers is a model for the governance of a state. Under this model, a state's government is divided into branches, each with separate and independent powers and areas of responsibility so that the powers of one branch are not in conflict with the powers associated with the other branches. The typical division is into three branches: a legislature, an executive, and a judiciary, which is the trias politica model. It can be contrasted with the fusion of powers in some parliamentary systems where the executive and legislative branches overlap.",
+        "question": "What are the branches of government?",
+        "label": "a legislature, an executive, and a judiciary"
+    }
+]

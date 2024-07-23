@@ -1,0 +1,15 @@
+[
+    [
+        530,
+        [],
+        "German victory"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The quick German victory over the French stunned neutral observers, many of whom had expected a French victory and most of whom had expected a long war. The strategic advantages possessed by the Germans were not appreciated outside Germany until after hostilities had ceased. Other countries quickly discerned the advantages given to the Germans by their military system, and adopted many of their innovations, particularly the General Staff, universal conscription and highly detailed mobilization systems.[74] Question: Who won the Austo-Prussian war? Answer:",
+    {
+        "id": "english-4403598667040430824-55",
+        "lang": "english",
+        "summary": "The quick German victory over the French stunned neutral observers, many of whom had expected a French victory and most of whom had expected a long war. The strategic advantages possessed by the Germans were not appreciated outside Germany until after hostilities had ceased. Other countries quickly discerned the advantages given to the Germans by their military system, and adopted many of their innovations, particularly the General Staff, universal conscription and highly detailed mobilization systems.[74]",
+        "question": "Who won the Austo-Prussian war?",
+        "label": "German victory"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        11,
+        [],
+        "July 1960"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Guardians of the Universe are a fictional race of extraterrestrials appearing in American comic books published by DC Comics, commonly in association with Green Lantern. They first appeared in Green Lantern Vol. 2, Issue 1 (July 1960), and were created by John Broome and Gil Kane.[1] The Guardians of the Universe have been adapted to a number of films, television programs, and video games. Question: When did DC comics first introduce the Guardians of the Universe? Answer:",
+    {
+        "id": "english-854290644129079030-0",
+        "lang": "english",
+        "summary": "The Guardians of the Universe are a fictional race of extraterrestrials appearing in American comic books published by DC Comics, commonly in association with Green Lantern. They first appeared in Green Lantern Vol. 2, Issue 1 (July 1960), and were created by John Broome and Gil Kane.[1] The Guardians of the Universe have been adapted to a number of films, television programs, and video games.",
+        "question": "When did DC comics first introduce the Guardians of the Universe?",
+        "label": "July 1960"
+    }
+]

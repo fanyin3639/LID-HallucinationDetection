@@ -1,0 +1,15 @@
+[
+    [
+        351,
+        [],
+        "nine"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Canadian Football League (CFL; French: Ligue canadienne de football, LCF) is a professional sports league in Canada. The CFL is the highest level of competition in Canadian football. Its nine teams, which are located in nine separate cities throughout Canada, are divided into two divisions: the East Division, with four teams, and the West Division with five teams. Question: How many professional football teams are there in Canada? Answer:",
+    {
+        "id": "english--5476065021321214249-0",
+        "lang": "english",
+        "summary": "The Canadian Football League (CFL; French: Ligue canadienne de football, LCF) is a professional sports league in Canada. The CFL is the highest level of competition in Canadian football. Its nine teams, which are located in nine separate cities throughout Canada, are divided into two divisions: the East Division, with four teams, and the West Division with five teams.",
+        "question": "How many professional football teams are there in Canada?",
+        "label": "nine"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        474,
+        [],
+        "Goat milk"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cow milk (fluid, raw or pasteurized) - 3.2 to 3.3 Soy milk 5.1 to 7.5 Goat milk 4.9 to 9.9 Almond milk 1 Question: Which milk has the highest protein content? Answer:",
+    {
+        "id": "english--6078798576164742592-3",
+        "lang": "english",
+        "summary": "Cow milk (fluid, raw or pasteurized) - 3.2 to 3.3 Soy milk 5.1 to 7.5 Goat milk 4.9 to 9.9 Almond milk 1",
+        "question": "Which milk has the highest protein content?",
+        "label": "Goat milk"
+    }
+]

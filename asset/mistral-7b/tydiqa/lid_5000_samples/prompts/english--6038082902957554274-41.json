@@ -1,0 +1,15 @@
+[
+    [
+        1852,
+        [],
+        "four"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Victoria and David Beckham have four children: sons Brooklyn Joseph Beckham (born 4 March 1999 at Portland Hospital, London),[129] Romeo James Beckham (born 1 September 2002 at Portland Hospital, London),[130] Cruz David Beckham (born 20 February 2005 at Ruber International Hospital, Madrid);[131][132] and daughter Harper Seven Beckham (born 10 July 2011 at Cedars-Sinai Medical Center, Los Angeles).[133][134][135] Elton John and David Furnish are reportedly the godparents of Brooklyn and Romeo, and their godmother is Elizabeth Hurley.[136] Question: How many kids does David Beckham have? Answer:",
+    {
+        "id": "english--6038082902957554274-41",
+        "lang": "english",
+        "summary": "Victoria and David Beckham have four children: sons Brooklyn Joseph Beckham (born 4 March 1999 at Portland Hospital, London),[129] Romeo James Beckham (born 1 September 2002 at Portland Hospital, London),[130] Cruz David Beckham (born 20 February 2005 at Ruber International Hospital, Madrid);[131][132] and daughter Harper Seven Beckham (born 10 July 2011 at Cedars-Sinai Medical Center, Los Angeles).[133][134][135] Elton John and David Furnish are reportedly the godparents of Brooklyn and Romeo, and their godmother is Elizabeth Hurley.[136]",
+        "question": "How many kids does David Beckham have?",
+        "label": "four"
+    }
+]

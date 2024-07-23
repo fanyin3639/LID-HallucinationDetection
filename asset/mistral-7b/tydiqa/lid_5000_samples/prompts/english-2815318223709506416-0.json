@@ -1,0 +1,15 @@
+[
+    [
+        3107,
+        [],
+        "Lyceum Theatre"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Lyceum Theatre (/la\u026a\u02c8si\u02d0\u0259m/ ly-SEE-\u0259m) is a Broadway theatre located at 149 West 45th Street near Times Square between Seventh and Sixth Avenue in Midtown Manhattan, New York City. Question: What is the oldest Broadway theater? Answer:",
+    {
+        "id": "english-2815318223709506416-0",
+        "lang": "english",
+        "summary": "The Lyceum Theatre (/la\u026a\u02c8si\u02d0\u0259m/ ly-SEE-\u0259m) is a Broadway theatre located at 149 West 45th Street near Times Square between Seventh and Sixth Avenue in Midtown Manhattan, New York City.",
+        "question": "What is the oldest Broadway theater?",
+        "label": "Lyceum Theatre"
+    }
+]

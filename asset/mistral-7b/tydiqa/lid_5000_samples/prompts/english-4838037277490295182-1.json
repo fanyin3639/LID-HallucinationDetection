@@ -1,0 +1,15 @@
+[
+    [
+        2899,
+        [],
+        "William Henry Fox Talbot"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In the mid-1820s, Nic\u00e9phore Ni\u00e9pce first managed to fix an image that was captured with a camera, but at least eight hours or even several days of exposure in the camera were required and the earliest results were very crude. Ni\u00e9pce's associate Louis Daguerre went on to develop the daguerreotype process, the first publicly announced  and commercially viable photographic process. The daguerreotype required only minutes of exposure in the camera, and produced clear, finely detailed results. The details were introduced as a gift to the world in 1839, a date generally accepted as the birth year of practical photography.[1][2] The metal-based daguerreotype process soon had some competition from the paper-based calotype negative and salt print processes invented by William Henry Fox Talbot. Subsequent innovations made photography easier and more versatile. New materials reduced the required camera exposure time from minutes to seconds, and eventually to a small fraction of a second; new photographic media were more economical, sensitive or convenient, including roll films for casual use by amateurs. In the mid-20th century, developments made it possible for amateurs to take pictures in natural color as well as in black-and-white. Question: Who invented photography? Answer:",
+    {
+        "id": "english-4838037277490295182-1",
+        "lang": "english",
+        "summary": "In the mid-1820s, Nic\u00e9phore Ni\u00e9pce first managed to fix an image that was captured with a camera, but at least eight hours or even several days of exposure in the camera were required and the earliest results were very crude. Ni\u00e9pce's associate Louis Daguerre went on to develop the daguerreotype process, the first publicly announced  and commercially viable photographic process. The daguerreotype required only minutes of exposure in the camera, and produced clear, finely detailed results. The details were introduced as a gift to the world in 1839, a date generally accepted as the birth year of practical photography.[1][2] The metal-based daguerreotype process soon had some competition from the paper-based calotype negative and salt print processes invented by William Henry Fox Talbot. Subsequent innovations made photography easier and more versatile. New materials reduced the required camera exposure time from minutes to seconds, and eventually to a small fraction of a second; new photographic media were more economical, sensitive or convenient, including roll films for casual use by amateurs. In the mid-20th century, developments made it possible for amateurs to take pictures in natural color as well as in black-and-white.",
+        "question": "Who invented photography?",
+        "label": "William Henry Fox Talbot"
+    }
+]

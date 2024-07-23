@@ -1,0 +1,15 @@
+[
+    [
+        829,
+        [],
+        "a largely historical British social class consisting in theory of landowners who could live entirely from rental income, or at least had a country estate"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The landed gentry, or simply the gentry, is a largely historical British social class consisting in theory of landowners who could live entirely from rental income, or at least had a country estate. It was distinct from, and socially \"below\", the aristocracy or peerage, although in fact some of the landed gentry were wealthier than some peers, and many gentry were related to peers. They often worked as administrators of their own lands, while others became public, political, religious, and armed forces figures. The decline of this privileged class largely stemmed from the 1870s agricultural depression; however, there are still a large number of hereditary gentry in the UK to this day, many of whom transferred their landlord style management skills after the agricultural depression into the business of land agency, the act of buying and selling land. Question: What are landed gentry? Answer:",
+    {
+        "id": "english-5507337463314690026-1",
+        "lang": "english",
+        "summary": "The landed gentry, or simply the gentry, is a largely historical British social class consisting in theory of landowners who could live entirely from rental income, or at least had a country estate. It was distinct from, and socially \"below\", the aristocracy or peerage, although in fact some of the landed gentry were wealthier than some peers, and many gentry were related to peers. They often worked as administrators of their own lands, while others became public, political, religious, and armed forces figures. The decline of this privileged class largely stemmed from the 1870s agricultural depression; however, there are still a large number of hereditary gentry in the UK to this day, many of whom transferred their landlord style management skills after the agricultural depression into the business of land agency, the act of buying and selling land.",
+        "question": "What are landed gentry?",
+        "label": "a largely historical British social class consisting in theory of landowners who could live entirely from rental income, or at least had a country estate"
+    }
+]

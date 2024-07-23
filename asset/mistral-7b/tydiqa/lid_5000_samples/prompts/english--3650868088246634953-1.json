@@ -1,0 +1,15 @@
+[
+    [
+        1713,
+        [],
+        "2014"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The first two games in the series, Castle Wolfenstein and Beyond Castle Wolfenstein, were stealth-based and featured a 2D top-down perspective. The third game in the franchise, Wolfenstein 3D, developed by id Software, introduced a first-person perspective with faster-paced action. Because of this, it is widely regarded to have helped popularize the first-person shooter genre. In 2001, the series was rebooted with Return to Castle Wolfenstein, developed by Gray Matter Interactive. It was followed in 2003 by Wolfenstein: Enemy Territory, by Splash Damage. Raven Software's Wolfenstein followed in 2009. After ZeniMax Media acquired id Software, Swedish developer MachineGames released Wolfenstein: The New Order in 2014 and a standalone expansion Wolfenstein: The Old Blood in 2015. A direct sequel to The New Order entitled Wolfenstein II: The New Colossus was released on October 27, 2017. Question: When was Wolfenstein: The New Order first released? Answer:",
+    {
+        "id": "english--3650868088246634953-1",
+        "lang": "english",
+        "summary": "The first two games in the series, Castle Wolfenstein and Beyond Castle Wolfenstein, were stealth-based and featured a 2D top-down perspective. The third game in the franchise, Wolfenstein 3D, developed by id Software, introduced a first-person perspective with faster-paced action. Because of this, it is widely regarded to have helped popularize the first-person shooter genre. In 2001, the series was rebooted with Return to Castle Wolfenstein, developed by Gray Matter Interactive. It was followed in 2003 by Wolfenstein: Enemy Territory, by Splash Damage. Raven Software's Wolfenstein followed in 2009. After ZeniMax Media acquired id Software, Swedish developer MachineGames released Wolfenstein: The New Order in 2014 and a standalone expansion Wolfenstein: The Old Blood in 2015. A direct sequel to The New Order entitled Wolfenstein II: The New Colossus was released on October 27, 2017.",
+        "question": "When was Wolfenstein: The New Order first released?",
+        "label": "2014"
+    }
+]

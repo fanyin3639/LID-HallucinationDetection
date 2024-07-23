@@ -1,0 +1,15 @@
+[
+    [
+        2037,
+        [],
+        "Ronnie Spector"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Ronnie Spector (born Veronica Yvette Bennett; August 10, 1943) is an American rock and roll singer known as \"The Bad Girl of Rock & Roll\". Spector was the lead singer of the rock/pop vocal girl group the Ronettes, who had a string of hits during the early to mid\u20131960s such as \"Be My Baby\", \"Baby, I Love You\", and \"The Best Part of Breakin' Up\". Subsequently, Spector launched her solo career and has since released five studio albums (Siren in 1980, Unfinished Business in 1987, Something's Gonna Happen in 2003, Last of the Rock Stars in 2006, and English Heart in 2016) and one extended play (She Talks to Rainbows in 1999). Question: Who was the leader singer of The Ronettes? Answer:",
+    {
+        "id": "english--7668270689411376314-0",
+        "lang": "english",
+        "summary": "Ronnie Spector (born Veronica Yvette Bennett; August 10, 1943) is an American rock and roll singer known as \"The Bad Girl of Rock & Roll\". Spector was the lead singer of the rock/pop vocal girl group the Ronettes, who had a string of hits during the early to mid\u20131960s such as \"Be My Baby\", \"Baby, I Love You\", and \"The Best Part of Breakin' Up\". Subsequently, Spector launched her solo career and has since released five studio albums (Siren in 1980, Unfinished Business in 1987, Something's Gonna Happen in 2003, Last of the Rock Stars in 2006, and English Heart in 2016) and one extended play (She Talks to Rainbows in 1999).",
+        "question": "Who was the leader singer of The Ronettes?",
+        "label": "Ronnie Spector"
+    }
+]

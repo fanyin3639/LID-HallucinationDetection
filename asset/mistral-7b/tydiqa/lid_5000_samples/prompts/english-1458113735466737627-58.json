@@ -1,0 +1,15 @@
+[
+    [
+        3109,
+        [],
+        "killed in the accident"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On 30 June 1915, Flight sub-Lieutenant Preston Watson of the Royal Naval Air Service was flying Caudron G.3 3266 between Eastchurch in Kent and Eastbourne, East Sussex, England when his aeroplane \"suddenly dived from a great height to the ground\", and crashed in Dunlye Field, a few miles from the Cross-in-Hand Hotel near Heathfield. Watson was killed in the accident. He was 34 years old.[7] Question: How did Preston Albert Watson die? Answer:",
+    {
+        "id": "english-1458113735466737627-58",
+        "lang": "english",
+        "summary": "On 30 June 1915, Flight sub-Lieutenant Preston Watson of the Royal Naval Air Service was flying Caudron G.3 3266 between Eastchurch in Kent and Eastbourne, East Sussex, England when his aeroplane \"suddenly dived from a great height to the ground\", and crashed in Dunlye Field, a few miles from the Cross-in-Hand Hotel near Heathfield. Watson was killed in the accident. He was 34 years old.[7]",
+        "question": "How did Preston Albert Watson die?",
+        "label": "killed in the accident"
+    }
+]

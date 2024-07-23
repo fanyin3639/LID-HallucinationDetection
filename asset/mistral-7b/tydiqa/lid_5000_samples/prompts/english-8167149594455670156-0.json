@@ -1,0 +1,15 @@
+[
+    [
+        2410,
+        [],
+        "3 May 1921"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The partition of Ireland (Irish: cr\u00edochdheighilt na h\u00c9ireann) divided the island of Ireland into two distinct jurisdictions, Northern Ireland and Southern Ireland. It took place on 3 May 1921 under the Government of Ireland Act 1920. Today the former is still known as Northern Ireland and forms part of the United Kingdom, while the latter is now a sovereign state also named Ireland and sometimes called the Republic of Ireland. Question: When did Ireland and Northern Ireland separate? Answer:",
+    {
+        "id": "english-8167149594455670156-0",
+        "lang": "english",
+        "summary": "The partition of Ireland (Irish: cr\u00edochdheighilt na h\u00c9ireann) divided the island of Ireland into two distinct jurisdictions, Northern Ireland and Southern Ireland. It took place on 3 May 1921 under the Government of Ireland Act 1920. Today the former is still known as Northern Ireland and forms part of the United Kingdom, while the latter is now a sovereign state also named Ireland and sometimes called the Republic of Ireland.",
+        "question": "When did Ireland and Northern Ireland separate?",
+        "label": "3 May 1921"
+    }
+]

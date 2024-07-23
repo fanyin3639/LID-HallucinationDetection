@@ -1,0 +1,14 @@
+[
+    [
+        930,
+        [],
+        "People in 1,250 properties on the Isle of Lewis have been told they no longer need to boil their tap water as a precautionary measure."
+    ],
+    "Write a short summary for the following passage:\nScottish Water said the issue in Uig, North and South Lochs and Achmore was resolved .\nIt followed reports of an \"unusual microbiology result\".\nA spokesman for Scottish Water said: \"We want to thank the affected customers for their patience and understanding over the past few days.\"\nHe added: \"Public health is of paramount importance and that is why we have such robust procedures to monitor and analyse water quality.\n\"Our staff on the Isle of Lewis have worked round the clock to make sure this problem has been resolved as quickly as possible.\"\nThe advice to boil water was issued on Saturday and taken following consultation between the company and NHS Western Isles.\nCustomers had been advised to boil water for drinking, preparing food, babies' feeds and disinfecting feeding equipment, cleaning teeth, pet food and drink, and washing open wounds.\nSummary:\n",
+    {
+        "id": 930,
+        "document": "Scottish Water said the issue in Uig, North and South Lochs and Achmore was resolved .\nIt followed reports of an \"unusual microbiology result\".\nA spokesman for Scottish Water said: \"We want to thank the affected customers for their patience and understanding over the past few days.\"\nHe added: \"Public health is of paramount importance and that is why we have such robust procedures to monitor and analyse water quality.\n\"Our staff on the Isle of Lewis have worked round the clock to make sure this problem has been resolved as quickly as possible.\"\nThe advice to boil water was issued on Saturday and taken following consultation between the company and NHS Western Isles.\nCustomers had been advised to boil water for drinking, preparing food, babies' feeds and disinfecting feeding equipment, cleaning teeth, pet food and drink, and washing open wounds.",
+        "summary": "People in 1,250 properties on the Isle of Lewis have been told they no longer need to boil their tap water as a precautionary measure.",
+        "label": "People in 1,250 properties on the Isle of Lewis have been told they no longer need to boil their tap water as a precautionary measure."
+    }
+]

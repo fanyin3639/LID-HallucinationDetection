@@ -1,0 +1,15 @@
+[
+    [
+        2046,
+        [],
+        "Sir Nigel Kim Darroch"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Sir Nigel Kim Darroch KCMG (/\u02c8d\u00e6r\u0259k/; born 30 April 1954) is a senior British diplomat, who since January 2016 has been British Ambassador to the United States.[3] Question: Who is the UK ambassador to US? Answer:",
+    {
+        "id": "english--2089302528292171965-0",
+        "lang": "english",
+        "summary": "Sir Nigel Kim Darroch KCMG (/\u02c8d\u00e6r\u0259k/; born 30 April 1954) is a senior British diplomat, who since January 2016 has been British Ambassador to the United States.[3]",
+        "question": "Who is the UK ambassador to US?",
+        "label": "Sir Nigel Kim Darroch"
+    }
+]

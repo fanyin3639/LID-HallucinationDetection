@@ -1,0 +1,15 @@
+[
+    [
+        2957,
+        [],
+        "Mahathir Mohamad"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Prime Minister of Malaysia (Malay: Perdana Menteri Malaysia) is the head of government and the highest political office in Malaysia. The Yang di-Pertuan Agong appoints Prime Minister as a Member of Parliament (MP) who, in his opinion, is most likely to command the confidence of a majority of MPs. The Prime Minister chairs the Cabinet of Malaysia, the de facto executive branch of government. On 18 October 2018,    7th Prime Minister, Mahathir Mohamad, announced a two-term limit (10 years Max) to all Cabinet Profolio. Question: Who is the current president of Malaysia? Answer:",
+    {
+        "id": "english-8977694387598139887-0",
+        "lang": "english",
+        "summary": "The Prime Minister of Malaysia (Malay: Perdana Menteri Malaysia) is the head of government and the highest political office in Malaysia. The Yang di-Pertuan Agong appoints Prime Minister as a Member of Parliament (MP) who, in his opinion, is most likely to command the confidence of a majority of MPs. The Prime Minister chairs the Cabinet of Malaysia, the de facto executive branch of government. On 18 October 2018,    7th Prime Minister, Mahathir Mohamad, announced a two-term limit (10 years Max) to all Cabinet Profolio.",
+        "question": "Who is the current president of Malaysia?",
+        "label": "Mahathir Mohamad"
+    }
+]

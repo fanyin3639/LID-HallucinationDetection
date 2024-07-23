@@ -1,0 +1,14 @@
+[
+    [
+        1336,
+        [],
+        "Footage showing a dummy being destroyed by powerful fireworks found dumped in Manchester has been released by firefighters."
+    ],
+    "Write a short summary for the following passage:\n28 October 2015 Last updated at 13:22 GMT\nThe fireworks, discovered in Textile Street, Gorton, are so powerful people must be at least 25m (82ft) away, said the Greater Manchester Fire and Rescue Service.\nAssistant county fire officer Geoff Harris said whoever dumped them was \"incredibly irresponsible\".\n\"Thanks to the vigilance of our staff these fireworks are in a safe place, but the boxes were open and we fear some of them may have been taken.\n\"They are very large and very powerful explosives - the consequences for any young people, who may have taken these fireworks and decide to light them, don't bear thinking about.\"\nSummary:\n",
+    {
+        "id": 1336,
+        "document": "28 October 2015 Last updated at 13:22 GMT\nThe fireworks, discovered in Textile Street, Gorton, are so powerful people must be at least 25m (82ft) away, said the Greater Manchester Fire and Rescue Service.\nAssistant county fire officer Geoff Harris said whoever dumped them was \"incredibly irresponsible\".\n\"Thanks to the vigilance of our staff these fireworks are in a safe place, but the boxes were open and we fear some of them may have been taken.\n\"They are very large and very powerful explosives - the consequences for any young people, who may have taken these fireworks and decide to light them, don't bear thinking about.\"",
+        "summary": "Footage showing a dummy being destroyed by powerful fireworks found dumped in Manchester has been released by firefighters.",
+        "label": "Footage showing a dummy being destroyed by powerful fireworks found dumped in Manchester has been released by firefighters."
+    }
+]

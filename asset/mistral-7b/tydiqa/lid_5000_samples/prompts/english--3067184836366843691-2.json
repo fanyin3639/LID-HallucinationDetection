@@ -1,0 +1,15 @@
+[
+    [
+        3112,
+        [],
+        "layers of fiber and then covered with a  surface made either from leather (traditional), rubber, or a synthetic composite"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Nearly all basketballs have an inflatable inner rubber bladder, generally wrapped in layers of fiber and then covered with a  surface made either from leather (traditional), rubber, or a synthetic composite. As in most inflatable balls, there is a small opening that allows the pressure to be increased or decreased. Question: What are basketball's made out of? Answer:",
+    {
+        "id": "english--3067184836366843691-2",
+        "lang": "english",
+        "summary": "Nearly all basketballs have an inflatable inner rubber bladder, generally wrapped in layers of fiber and then covered with a  surface made either from leather (traditional), rubber, or a synthetic composite. As in most inflatable balls, there is a small opening that allows the pressure to be increased or decreased.",
+        "question": "What are basketball's made out of?",
+        "label": "layers of fiber and then covered with a  surface made either from leather (traditional), rubber, or a synthetic composite"
+    }
+]

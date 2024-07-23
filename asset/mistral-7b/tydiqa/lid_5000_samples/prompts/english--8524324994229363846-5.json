@@ -1,0 +1,15 @@
+[
+    [
+        1112,
+        [],
+        "182"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: A total of 182 episodes of Scrubs were broadcast over nine seasons. All nine seasons are available on DVD in Regions 1, 2 and 4. Question: How many episodes of Scrubs aired? Answer:",
+    {
+        "id": "english--8524324994229363846-5",
+        "lang": "english",
+        "summary": "A total of 182 episodes of Scrubs were broadcast over nine seasons. All nine seasons are available on DVD in Regions 1, 2 and 4.",
+        "question": "How many episodes of Scrubs aired?",
+        "label": "182"
+    }
+]

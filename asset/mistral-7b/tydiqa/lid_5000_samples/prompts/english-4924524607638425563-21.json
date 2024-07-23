@@ -1,0 +1,15 @@
+[
+    [
+        1479,
+        [],
+        "Qatar"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Qatar currently enjoys the region's highest per capita GDP at $101,000.[42]  It has derived its wealth from exploiting its natural gas reserves.  With the revenues from its hydrocarbon industries Qatar has established a rentier economy.  Qatar has also established the largest per capita sovereign wealth fund in the world.  With a population under one million, the government has not found it necessary to diversify its economy. Question: What is the wealthiest country in the Middle East? Answer:",
+    {
+        "id": "english-4924524607638425563-21",
+        "lang": "english",
+        "summary": "Qatar currently enjoys the region's highest per capita GDP at $101,000.[42]  It has derived its wealth from exploiting its natural gas reserves.  With the revenues from its hydrocarbon industries Qatar has established a rentier economy.  Qatar has also established the largest per capita sovereign wealth fund in the world.  With a population under one million, the government has not found it necessary to diversify its economy.",
+        "question": "What is the wealthiest country in the Middle East?",
+        "label": "Qatar"
+    }
+]

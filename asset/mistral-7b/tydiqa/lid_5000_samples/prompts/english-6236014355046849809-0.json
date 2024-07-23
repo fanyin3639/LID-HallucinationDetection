@@ -1,0 +1,15 @@
+[
+    [
+        1574,
+        [],
+        "Cestoda"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Cestoda is a class of parasitic worms in the flatworm phylum (Platyhelminthes). Most of the species - and the best-known - are those in the subclass Eucestoda; they are ribbonlike worms as adults, known as tapeworms.  Their bodies consist of many similar units, known as proglottids, which are essentially packages of eggs which are regularly shed into the environment to infect other organisms. Species of the other subclass, Cestodaria, are mainly fish parasites.  Question: What kind of parasite is the tapeworm? Answer:",
+    {
+        "id": "english-6236014355046849809-0",
+        "lang": "english",
+        "summary": "Cestoda is a class of parasitic worms in the flatworm phylum (Platyhelminthes). Most of the species - and the best-known - are those in the subclass Eucestoda; they are ribbonlike worms as adults, known as tapeworms.  Their bodies consist of many similar units, known as proglottids, which are essentially packages of eggs which are regularly shed into the environment to infect other organisms. Species of the other subclass, Cestodaria, are mainly fish parasites. ",
+        "question": "What kind of parasite is the tapeworm?",
+        "label": "Cestoda"
+    }
+]

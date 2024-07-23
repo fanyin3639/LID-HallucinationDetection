@@ -1,0 +1,15 @@
+[
+    [
+        3076,
+        [],
+        "Vinatieri"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Adam Matthew Vinatieri (born December 28, 1972) is an American football placekicker for the Indianapolis Colts of the National Football League (NFL). He has played in five Super Bowls: four with the New England Patriots and one with the Colts, winning with the Patriots in 2001, 2003, and 2004 and with the Colts in 2006. He holds NFL records for most Super Bowl appearances and wins by a kicker. He also holds NFL records, among all players, for most points scored (2,598)[2][3], most postseason points scored (238)[4], most field goals made (582)[5], and most overtime field goals made (12). He is the only player ever to score 1,000 points with two teams. As of 2018, Vinatieri, 46, is the oldest active player in the NFL and 4th oldest of all time.[6][7] Question: Who is the oldest player in the NFL? Answer:",
+    {
+        "id": "english--6583231313235432910-0",
+        "lang": "english",
+        "summary": "Adam Matthew Vinatieri (born December 28, 1972) is an American football placekicker for the Indianapolis Colts of the National Football League (NFL). He has played in five Super Bowls: four with the New England Patriots and one with the Colts, winning with the Patriots in 2001, 2003, and 2004 and with the Colts in 2006. He holds NFL records for most Super Bowl appearances and wins by a kicker. He also holds NFL records, among all players, for most points scored (2,598)[2][3], most postseason points scored (238)[4], most field goals made (582)[5], and most overtime field goals made (12). He is the only player ever to score 1,000 points with two teams. As of 2018, Vinatieri, 46, is the oldest active player in the NFL and 4th oldest of all time.[6][7]",
+        "question": "Who is the oldest player in the NFL?",
+        "label": "Vinatieri"
+    }
+]

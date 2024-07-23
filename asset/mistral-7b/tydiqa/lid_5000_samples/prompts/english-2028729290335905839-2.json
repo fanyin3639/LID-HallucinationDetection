@@ -1,0 +1,15 @@
+[
+    [
+        161,
+        [],
+        "533\u20134"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: After the Visigoths invaded Iberia in 418, the Iranian Alans and Silingi Vandals voluntarily subjected themselves to the rule of Hasdingian leader Gunderic, who was pushed from Gallaecia to Baetica by a Roman-Suebi coalition in 419. In 429, under king Genseric (reigned 428\u2013477), the Vandals entered North Africa. By 439 they established a kingdom which included the Roman province of Africa as well as Sicily, Corsica, Sardinia, Malta and the Balearic Islands. They fended off several Roman attempts to recapture the African province, and sacked the city of Rome in 455. Their kingdom collapsed in the Vandalic War of 533\u20134, in which Emperor Justinian I's forces reconquered the province for the Eastern Roman Empire. Question: When did the Vandal War end? Answer:",
+    {
+        "id": "english-2028729290335905839-2",
+        "lang": "english",
+        "summary": "After the Visigoths invaded Iberia in 418, the Iranian Alans and Silingi Vandals voluntarily subjected themselves to the rule of Hasdingian leader Gunderic, who was pushed from Gallaecia to Baetica by a Roman-Suebi coalition in 419. In 429, under king Genseric (reigned 428\u2013477), the Vandals entered North Africa. By 439 they established a kingdom which included the Roman province of Africa as well as Sicily, Corsica, Sardinia, Malta and the Balearic Islands. They fended off several Roman attempts to recapture the African province, and sacked the city of Rome in 455. Their kingdom collapsed in the Vandalic War of 533\u20134, in which Emperor Justinian I's forces reconquered the province for the Eastern Roman Empire.",
+        "question": "When did the Vandal War end?",
+        "label": "533\u20134"
+    }
+]

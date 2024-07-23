@@ -1,0 +1,15 @@
+[
+    [
+        1826,
+        [],
+        "296"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Roman Catholic Archdiocese of New York covers New York, Bronx, and Richmond Counties in New York City (coterminous with the boroughs of Manhattan, the Bronx, and Staten Island, respectively), as well as Dutchess, Orange, Putnam, Rockland, Sullivan, Ulster, and Westchester counties in New York state. In these ten counties in the state, there are 296 parishes, along with a number of parish missions.[1] Question: How many catholic churches currently exist in New York? Answer:",
+    {
+        "id": "english-1349862627856824736-0",
+        "lang": "english",
+        "summary": "The Roman Catholic Archdiocese of New York covers New York, Bronx, and Richmond Counties in New York City (coterminous with the boroughs of Manhattan, the Bronx, and Staten Island, respectively), as well as Dutchess, Orange, Putnam, Rockland, Sullivan, Ulster, and Westchester counties in New York state. In these ten counties in the state, there are 296 parishes, along with a number of parish missions.[1]",
+        "question": "How many catholic churches currently exist in New York?",
+        "label": "296"
+    }
+]

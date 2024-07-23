@@ -1,0 +1,15 @@
+[
+    [
+        2161,
+        [],
+        "1910 and 1970"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Official government estimates are that in certain regions between one in ten and one in three indigenous Australian children were forcibly taken from their families and communities between 1910 and 1970. Question: When did Australia kidnap Aboriginal children? Answer:",
+    {
+        "id": "english-2187956904870850397-1",
+        "lang": "english",
+        "summary": "Official government estimates are that in certain regions between one in ten and one in three indigenous Australian children were forcibly taken from their families and communities between 1910 and 1970.",
+        "question": "When did Australia kidnap Aboriginal children?",
+        "label": "1910 and 1970"
+    }
+]

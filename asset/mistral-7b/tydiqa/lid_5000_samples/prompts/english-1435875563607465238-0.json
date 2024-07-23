@@ -1,0 +1,15 @@
+[
+    [
+        2705,
+        [],
+        "Chinchorro mummies"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Chinchorro mummies are mummified remains of individuals from the South American Chinchorro culture, found in what is now northern Chile. They are the oldest examples of artificially mummified human remains, having been buried up to two thousand years before the Egyptian mummies. While the earliest mummy that has been found in Egypt dated around 3000 BC,[1] the oldest anthropogenically modified Chinchorro mummy dates from around 5050 BC. Question: What is the oldest human mummy? Answer:",
+    {
+        "id": "english-1435875563607465238-0",
+        "lang": "english",
+        "summary": "The Chinchorro mummies are mummified remains of individuals from the South American Chinchorro culture, found in what is now northern Chile. They are the oldest examples of artificially mummified human remains, having been buried up to two thousand years before the Egyptian mummies. While the earliest mummy that has been found in Egypt dated around 3000 BC,[1] the oldest anthropogenically modified Chinchorro mummy dates from around 5050 BC.",
+        "question": "What is the oldest human mummy?",
+        "label": "Chinchorro mummies"
+    }
+]

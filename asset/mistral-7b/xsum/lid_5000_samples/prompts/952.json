@@ -1,0 +1,14 @@
+[
+    [
+        952,
+        [],
+        "Partick Thistle defender Ziggy Gordon has signed for Polish top-tier club Jagiellonia Bialystok."
+    ],
+    "Write a short summary for the following passage:\nGordon, 23, joined Thistle in the summer from Hamilton Academical and has appeared 19 times for the Firhill side.\nJagiellonia Bialystok are currently joint top of the Ekstraklasa and it is believed Thistle did not demand a fee for the versatile defender, who has a Polish mother.\nGordon came through the ranks at Accies and made his top-team debut aged 17.\nMeanwhile, the Jags signed defender Niall Keown on Tuesday.\nSummary:\n",
+    {
+        "id": 952,
+        "document": "Gordon, 23, joined Thistle in the summer from Hamilton Academical and has appeared 19 times for the Firhill side.\nJagiellonia Bialystok are currently joint top of the Ekstraklasa and it is believed Thistle did not demand a fee for the versatile defender, who has a Polish mother.\nGordon came through the ranks at Accies and made his top-team debut aged 17.\nMeanwhile, the Jags signed defender Niall Keown on Tuesday.",
+        "summary": "Partick Thistle defender Ziggy Gordon has signed for Polish top-tier club Jagiellonia Bialystok.",
+        "label": "Partick Thistle defender Ziggy Gordon has signed for Polish top-tier club Jagiellonia Bialystok."
+    }
+]

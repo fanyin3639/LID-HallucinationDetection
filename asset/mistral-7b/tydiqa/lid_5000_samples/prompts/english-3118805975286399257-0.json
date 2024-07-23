@@ -1,0 +1,15 @@
+[
+    [
+        226,
+        [],
+        "65,000"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The History of Indigenous Australians began at least 65,000 years ago when humans first populated Australia.[1] Question: How old is Aboriginal culture? Answer:",
+    {
+        "id": "english-3118805975286399257-0",
+        "lang": "english",
+        "summary": "The History of Indigenous Australians began at least 65,000 years ago when humans first populated Australia.[1]",
+        "question": "How old is Aboriginal culture?",
+        "label": "65,000"
+    }
+]

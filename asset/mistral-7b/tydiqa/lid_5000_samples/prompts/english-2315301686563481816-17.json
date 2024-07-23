@@ -1,0 +1,15 @@
+[
+    [
+        534,
+        [],
+        "in the neighborhood of 6m (19.7ft) long, fully grown"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Pararhabdodon most likely was a bipedal-quadrupedal herbivore, in the neighborhood of 6m (19.7ft) long, fully grown. The dorsal and sacral neural spines were elongate, so the animal would have had a tall back, like other hadrosaurids.  Because the material is sparse, more specific conclusions cannot be reached.[1] Question: How large was the Pararhabdodon? Answer:",
+    {
+        "id": "english-2315301686563481816-17",
+        "lang": "english",
+        "summary": "Pararhabdodon most likely was a bipedal-quadrupedal herbivore, in the neighborhood of 6m (19.7ft) long, fully grown. The dorsal and sacral neural spines were elongate, so the animal would have had a tall back, like other hadrosaurids.  Because the material is sparse, more specific conclusions cannot be reached.[1]",
+        "question": "How large was the Pararhabdodon?",
+        "label": "in the neighborhood of 6m (19.7ft) long, fully grown"
+    }
+]

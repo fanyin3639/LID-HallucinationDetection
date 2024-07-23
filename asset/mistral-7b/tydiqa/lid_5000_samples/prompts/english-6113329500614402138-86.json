@@ -1,0 +1,15 @@
+[
+    [
+        1217,
+        [],
+        "15 August 1947"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: On 3 June 1947, Viscount Louis Mountbatten, the last British Governor-General of India, announced the partitioning of British India into India and Pakistan. With the speedy passage through the British Parliament of the Indian Independence Act 1947, at 11:57 on 14 August 1947 Pakistan was declared a separate nation, and at 12:02, just after midnight, on 15 August 1947, India also became a sovereign and democratic nation. Eventually, 15 August became the Independence Day for India, due to the ending of British rule over India. On that 15 August, both Pakistan and India had the right to remain in or remove themselves from the British Commonwealth. In 1949, India decided to remain in the commonwealth. Question: When did India gain its independence from the British Empire? Answer:",
+    {
+        "id": "english-6113329500614402138-86",
+        "lang": "english",
+        "summary": "On 3 June 1947, Viscount Louis Mountbatten, the last British Governor-General of India, announced the partitioning of British India into India and Pakistan. With the speedy passage through the British Parliament of the Indian Independence Act 1947, at 11:57 on 14 August 1947 Pakistan was declared a separate nation, and at 12:02, just after midnight, on 15 August 1947, India also became a sovereign and democratic nation. Eventually, 15 August became the Independence Day for India, due to the ending of British rule over India. On that 15 August, both Pakistan and India had the right to remain in or remove themselves from the British Commonwealth. In 1949, India decided to remain in the commonwealth.",
+        "question": "When did India gain its independence from the British Empire?",
+        "label": "15 August 1947"
+    }
+]

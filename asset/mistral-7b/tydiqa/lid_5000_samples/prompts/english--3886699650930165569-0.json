@@ -1,0 +1,15 @@
+[
+    [
+        2323,
+        [],
+        "Draken Harald H\u00e5rfagre"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Draken Harald H\u00e5rfagre (English: Dragon Harald Fairhair) is a large Viking longship built in the municipality of Haugesund, Norway. Draken Harald H\u00e5rfagre brings the seafaring qualities of a warship from the old Norse sagas to life. It is a ship that combines ocean-crossing sailing capabilities with a warship's use of oars. Question: What was the largest Viking ship? Answer:",
+    {
+        "id": "english--3886699650930165569-0",
+        "lang": "english",
+        "summary": "Draken Harald H\u00e5rfagre (English: Dragon Harald Fairhair) is a large Viking longship built in the municipality of Haugesund, Norway. Draken Harald H\u00e5rfagre brings the seafaring qualities of a warship from the old Norse sagas to life. It is a ship that combines ocean-crossing sailing capabilities with a warship's use of oars.",
+        "question": "What was the largest Viking ship?",
+        "label": "Draken Harald H\u00e5rfagre"
+    }
+]

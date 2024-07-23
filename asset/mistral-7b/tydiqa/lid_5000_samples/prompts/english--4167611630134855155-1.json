@@ -1,0 +1,15 @@
+[
+    [
+        883,
+        [],
+        "25 and 30years"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Horses' anatomy enables them to make use of speed to escape predators and they have a well-developed sense of balance and a strong fight-or-flight response. Related to this need to flee from predators in the wild is an unusual trait: horses are able to sleep both standing up and lying down, with younger horses tending to sleep significantly more than adults.[4] Female horses, called mares, carry their young for approximately 11months, and a young horse, called a foal, can stand and run shortly following birth. Most domesticated horses begin training under saddle or in harness between the ages of two and four. They reach full adult development by age five, and have an average lifespan of between 25 and 30years. Question: What is the life expectancy of a horse? Answer:",
+    {
+        "id": "english--4167611630134855155-1",
+        "lang": "english",
+        "summary": "Horses' anatomy enables them to make use of speed to escape predators and they have a well-developed sense of balance and a strong fight-or-flight response. Related to this need to flee from predators in the wild is an unusual trait: horses are able to sleep both standing up and lying down, with younger horses tending to sleep significantly more than adults.[4] Female horses, called mares, carry their young for approximately 11months, and a young horse, called a foal, can stand and run shortly following birth. Most domesticated horses begin training under saddle or in harness between the ages of two and four. They reach full adult development by age five, and have an average lifespan of between 25 and 30years.",
+        "question": "What is the life expectancy of a horse?",
+        "label": "25 and 30years"
+    }
+]

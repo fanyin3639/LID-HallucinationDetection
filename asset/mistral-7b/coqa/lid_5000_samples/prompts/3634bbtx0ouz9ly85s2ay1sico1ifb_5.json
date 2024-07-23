@@ -1,0 +1,19 @@
+[
+    [
+        966,
+        [],
+        "she blew on her knee"
+    ],
+    "Answer the following questions:\nContext: There once was a little old lady who had no friends. She rode her bike to and from the store and didn't say hello to anyone along the way. One day she saw a little girl crying in the street. No one else was around to take care of the girl so the little old lady stopped her bike and asked the girl, \"What is wrong, Dear?\" The little girl said, \"I hurt my knee when I fell down!\" \"Oh dear!\" cried the little old lady and bent down and looked at the girl's knee. \"It looks to me like you have a scrape,\" she said. The little girl cried and the little old lady said, \"Don't worry, all boo-boos hurt a little but it's the medicine that makes it go away.\" The little old lady bent down and blew on the girl's knee and whispered, \"Go away, go away, no boo-boos here today!\" The little girl smiled and that little old lady found her first friend.\n'Question': How did the woman help her?\n'Answer: '",
+    {
+        "id": "3634bbtx0ouz9ly85s2ay1sico1ifb_5",
+        "summary": "There once was a little old lady who had no friends. She rode her bike to and from the store and didn't say hello to anyone along the way. One day she saw a little girl crying in the street. No one else was around to take care of the girl so the little old lady stopped her bike and asked the girl, \"What is wrong, Dear?\" The little girl said, \"I hurt my knee when I fell down!\" \"Oh dear!\" cried the little old lady and bent down and looked at the girl's knee. \"It looks to me like you have a scrape,\" she said. The little girl cried and the little old lady said, \"Don't worry, all boo-boos hurt a little but it's the medicine that makes it go away.\" The little old lady bent down and blew on the girl's knee and whispered, \"Go away, go away, no boo-boos here today!\" The little girl smiled and that little old lady found her first friend.",
+        "question": "How did the woman help her?",
+        "label": "she blew on her knee",
+        "additional_answers": [
+            "Blew on the girls knee",
+            "she blew on the girl's knee",
+            "blew on the girl's knee"
+        ]
+    }
+]

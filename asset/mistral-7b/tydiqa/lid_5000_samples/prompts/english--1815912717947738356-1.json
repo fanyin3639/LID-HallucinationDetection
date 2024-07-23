@@ -1,0 +1,15 @@
+[
+    [
+        1722,
+        [],
+        "He"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Snoopy is a loyal, innocent, imaginative and good-natured beagle who is prone to imagining fantasy lives, including being an author, a college student known as \"Joe Cool\", an attorney, and a British World War I \"flying ace\" in the Royal Flying Corps. He is perhaps best known in this last persona, wearing an aviator's helmet and goggles and a scarf while carrying a swagger stick (like a stereotypical British Army officer of World War I and II). Question: Is Snoopy a girl or a boy? Answer:",
+    {
+        "id": "english--1815912717947738356-1",
+        "lang": "english",
+        "summary": "Snoopy is a loyal, innocent, imaginative and good-natured beagle who is prone to imagining fantasy lives, including being an author, a college student known as \"Joe Cool\", an attorney, and a British World War I \"flying ace\" in the Royal Flying Corps. He is perhaps best known in this last persona, wearing an aviator's helmet and goggles and a scarf while carrying a swagger stick (like a stereotypical British Army officer of World War I and II).",
+        "question": "Is Snoopy a girl or a boy?",
+        "label": "He"
+    }
+]

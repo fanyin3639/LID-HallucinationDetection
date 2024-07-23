@@ -1,0 +1,19 @@
+[
+    [
+        1002,
+        [],
+        "by foot"
+    ],
+    "Answer the following questions:\nContext: Chapter XVIII \n\nThe Hound Restored \n\nOn the third day after his arrival at the camp Archie received orders to prepare to start with the hound, with the earl and a large party of men-at-arms, in search of Bruce. A traitor had just come in and told them where Bruce had slept the night before. Reluctantly Archie unfastened the chain from the pole, and holding the end in his hand went round with Hector to the front of the pavilion. He was resolved that if under the dog's guidance the party came close up with Bruce, he would kill the dog and then try to escape by fleetness of foot, though of this, as there were so many mounted men in the party, he had but slight hope. Led by the peasant they proceeded to the hut, which was five miles away in the hills. On reaching it Hector at once became greatly excited. He sniffed here and there, eagerly hunted up and down the cottage, then made a circuit round it, and at last, with a loud deep bay he started off with his nose to the ground, pulling so hard at the chain that Archie had difficulty in keeping up with him. Pembroke and his knights rode a little behind, followed by their men-at-arms. \n\n\"I pray you, Sir Earl,\" Archie said, \"keep not too close to my traces, for the sound of the horse's hoofs and the jingling of the equipments make him all the more impatient to get forward, and even now it taxes all my strength to hold him in.\" \n'Question': How would he get away?\n'Answer: '",
+    {
+        "id": "3z3zlgnnsiuha76yy56h6uu71bh3q1_14",
+        "summary": "Chapter XVIII \n\nThe Hound Restored \n\nOn the third day after his arrival at the camp Archie received orders to prepare to start with the hound, with the earl and a large party of men-at-arms, in search of Bruce. A traitor had just come in and told them where Bruce had slept the night before. Reluctantly Archie unfastened the chain from the pole, and holding the end in his hand went round with Hector to the front of the pavilion. He was resolved that if under the dog's guidance the party came close up with Bruce, he would kill the dog and then try to escape by fleetness of foot, though of this, as there were so many mounted men in the party, he had but slight hope. Led by the peasant they proceeded to the hut, which was five miles away in the hills. On reaching it Hector at once became greatly excited. He sniffed here and there, eagerly hunted up and down the cottage, then made a circuit round it, and at last, with a loud deep bay he started off with his nose to the ground, pulling so hard at the chain that Archie had difficulty in keeping up with him. Pembroke and his knights rode a little behind, followed by their men-at-arms. \n\n\"I pray you, Sir Earl,\" Archie said, \"keep not too close to my traces, for the sound of the horse's hoofs and the jingling of the equipments make him all the more impatient to get forward, and even now it taxes all my strength to hold him in.\" ",
+        "question": "How would he get away?",
+        "label": "by foot",
+        "additional_answers": [
+            "on foot",
+            "by fleetness of foot",
+            "by fleetness of foot"
+        ]
+    }
+]

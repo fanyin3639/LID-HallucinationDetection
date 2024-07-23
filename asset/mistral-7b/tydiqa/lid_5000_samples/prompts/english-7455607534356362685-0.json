@@ -1,0 +1,15 @@
+[
+    [
+        2622,
+        [],
+        "1989"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The Communist rule in the Hungarian People's Republic came to an end in 1989. The events were part of the Revolutions of 1989, known in Hungarian as the Rendszerv\u00e1lt\u00e1s (lit., \"regime change\" or \"system change\"). Question: When did communism end in Hungary? Answer:",
+    {
+        "id": "english-7455607534356362685-0",
+        "lang": "english",
+        "summary": "The Communist rule in the Hungarian People's Republic came to an end in 1989. The events were part of the Revolutions of 1989, known in Hungarian as the Rendszerv\u00e1lt\u00e1s (lit., \"regime change\" or \"system change\").",
+        "question": "When did communism end in Hungary?",
+        "label": "1989"
+    }
+]

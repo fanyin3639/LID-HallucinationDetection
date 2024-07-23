@@ -1,0 +1,14 @@
+[
+    [
+        1488,
+        [],
+        "Preparations are under way to let as many people as possible to see and smell a rare flower that emits a horrible \"stench\" in Cambridge."
+    ],
+    "Write a short summary for the following passage:\nA titan arum is expected to bloom for the first time at any moment at Cambridge University Botanic Garden.\nThe last time one flowered there was in 2004. The bloom lasts a few days and gives off a horrible smell.\nWhen it flowers, the garden will be open late to enable visitors to smell it \"at its night-time stinkiest\".\n\"Amorphophallus titanum is a very unusual plant. It lives mostly in an underground tuber which every year puts out one gigantic leaf several metres tall that lasts for the growing season,\" Prof Beverley Glover, director of the garden, said.\nLast month the same flower bloomed for the first time in Scotland.\nSummary:\n",
+    {
+        "id": 1488,
+        "document": "A titan arum is expected to bloom for the first time at any moment at Cambridge University Botanic Garden.\nThe last time one flowered there was in 2004. The bloom lasts a few days and gives off a horrible smell.\nWhen it flowers, the garden will be open late to enable visitors to smell it \"at its night-time stinkiest\".\n\"Amorphophallus titanum is a very unusual plant. It lives mostly in an underground tuber which every year puts out one gigantic leaf several metres tall that lasts for the growing season,\" Prof Beverley Glover, director of the garden, said.\nLast month the same flower bloomed for the first time in Scotland.",
+        "summary": "Preparations are under way to let as many people as possible to see and smell a rare flower that emits a horrible \"stench\" in Cambridge.",
+        "label": "Preparations are under way to let as many people as possible to see and smell a rare flower that emits a horrible \"stench\" in Cambridge."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    [
+        442,
+        [],
+        "Fox"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: As some of the most highly available channels, FNC, CNN, and MSNBC are sometimes referred to as the \"big three\" with Fox News having the highest viewership and ratings. While the networks are usually referred to as 24-hour news networks, reruns of news programs and analysis or opinion programming are played throughout the night, with the exception of breaking news. Question: What is the most watched news network? Answer:",
+    {
+        "id": "english-1183082244164602244-1",
+        "lang": "english",
+        "summary": "As some of the most highly available channels, FNC, CNN, and MSNBC are sometimes referred to as the \"big three\" with Fox News having the highest viewership and ratings. While the networks are usually referred to as 24-hour news networks, reruns of news programs and analysis or opinion programming are played throughout the night, with the exception of breaking news.",
+        "question": "What is the most watched news network?",
+        "label": "Fox"
+    }
+]

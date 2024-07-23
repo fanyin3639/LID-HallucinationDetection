@@ -1,0 +1,15 @@
+[
+    [
+        1511,
+        [],
+        "Hamilcar"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: In 480 BC, following Hamilcar I's death, the king lost most of his power to an aristocratic Council of Elders. In 308BC, Bomilcar attempted a coup to restore the monarch to full power, but failed, which led to Carthage becoming in name, as well as fact, a republic.[1] Question: Who was the last ruler of Carthage? Answer:",
+    {
+        "id": "english--1391293353312606811-4",
+        "lang": "english",
+        "summary": "In 480 BC, following Hamilcar I's death, the king lost most of his power to an aristocratic Council of Elders. In 308BC, Bomilcar attempted a coup to restore the monarch to full power, but failed, which led to Carthage becoming in name, as well as fact, a republic.[1]",
+        "question": "Who was the last ruler of Carthage?",
+        "label": "Hamilcar"
+    }
+]

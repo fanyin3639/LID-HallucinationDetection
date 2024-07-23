@@ -1,0 +1,15 @@
+[
+    [
+        2236,
+        [],
+        "November 18, 1928"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Louis Lombardo (November 18, 1928 \u2013 June 11, 2001) was a Major League Baseball pitcher who played in two games for the New York Giants in 1948. Question: When was Lou Lombardo born? Answer:",
+    {
+        "id": "english-5965806013224565025-0",
+        "lang": "english",
+        "summary": "Louis Lombardo (November 18, 1928 \u2013 June 11, 2001) was a Major League Baseball pitcher who played in two games for the New York Giants in 1948.",
+        "question": "When was Lou Lombardo born?",
+        "label": "November 18, 1928"
+    }
+]

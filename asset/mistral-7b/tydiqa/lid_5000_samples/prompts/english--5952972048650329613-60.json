@@ -1,0 +1,15 @@
+[
+    [
+        2558,
+        [],
+        "Herwart Dilly"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Wolfstein's mayor is Herwart Dilly, and his deputies are Paul Schmelzer, Gerhard Spaugschuss and Christian Nickel.[20][21] Question: Who is mayor of Wolfstein, Germany? Answer:",
+    {
+        "id": "english--5952972048650329613-60",
+        "lang": "english",
+        "summary": "Wolfstein's mayor is Herwart Dilly, and his deputies are Paul Schmelzer, Gerhard Spaugschuss and Christian Nickel.[20][21]",
+        "question": "Who is mayor of Wolfstein, Germany?",
+        "label": "Herwart Dilly"
+    }
+]

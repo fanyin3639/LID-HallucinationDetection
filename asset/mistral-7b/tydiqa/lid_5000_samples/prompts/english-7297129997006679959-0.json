@@ -1,0 +1,15 @@
+[
+    [
+        1293,
+        [],
+        "Hubert Hermans"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The dialogical self is a psychological concept which describes the mind's ability to imagine the different positions of participants in an internal dialogue, in close connection with external dialogue. The \"dialogical self\" is the central concept in the dialogical self theory (DST), as created and developed by the Dutch psychologist Hubert Hermans since the 1990s. Question: Who developed the concept of the dialogical self? Answer:",
+    {
+        "id": "english-7297129997006679959-0",
+        "lang": "english",
+        "summary": "The dialogical self is a psychological concept which describes the mind's ability to imagine the different positions of participants in an internal dialogue, in close connection with external dialogue. The \"dialogical self\" is the central concept in the dialogical self theory (DST), as created and developed by the Dutch psychologist Hubert Hermans since the 1990s.",
+        "question": "Who developed the concept of the dialogical self?",
+        "label": "Hubert Hermans"
+    }
+]

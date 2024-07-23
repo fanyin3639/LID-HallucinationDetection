@@ -1,0 +1,15 @@
+[
+    [
+        2465,
+        [],
+        "Chile and Argentina"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The region of the Beagle Channel, explored by Robert FitzRoy in the 1830s, was one of the last to be colonized by Chile and Argentina. The cold weather, the long distances from other inhabited regions, and the shortage of transport and subsistence, kept it far from the governmental task. Question: Which country colonized the Beagle Channel? Chile or Argentina? Answer:",
+    {
+        "id": "english--2048143349498870886-0",
+        "lang": "english",
+        "summary": "The region of the Beagle Channel, explored by Robert FitzRoy in the 1830s, was one of the last to be colonized by Chile and Argentina. The cold weather, the long distances from other inhabited regions, and the shortage of transport and subsistence, kept it far from the governmental task.",
+        "question": "Which country colonized the Beagle Channel? Chile or Argentina?",
+        "label": "Chile and Argentina"
+    }
+]

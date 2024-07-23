@@ -1,0 +1,15 @@
+[
+    [
+        761,
+        [],
+        "Hittites"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The extraction of iron from its ore into a workable metal is much more difficult than for copper or tin. The process appears to have been invented by the Hittites in about 1200BC, beginning the Iron Age. The secret of extracting and working iron was a key factor in the success of the Philistines.[5][12] Question: Who started metallurgy? Answer:",
+    {
+        "id": "english-492363911938839380-12",
+        "lang": "english",
+        "summary": "The extraction of iron from its ore into a workable metal is much more difficult than for copper or tin. The process appears to have been invented by the Hittites in about 1200BC, beginning the Iron Age. The secret of extracting and working iron was a key factor in the success of the Philistines.[5][12]",
+        "question": "Who started metallurgy?",
+        "label": "Hittites"
+    }
+]

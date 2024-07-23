@@ -1,0 +1,15 @@
+[
+    [
+        2333,
+        [],
+        "August Sicard von Sicardsburg and Eduard van der N\u00fcll"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: The opera house was the first major building on the Vienna Ringstrasse commissioned by the Viennese \"city expansion fund\". Work commenced on the house in 1861 and was completed in 1869, following plans drawn up by architects August Sicard von Sicardsburg and Eduard van der N\u00fcll. It was built in the Neo-Renaissance style by the renowned Czech architect and contractor Josef Hl\u00e1vka. Question: Who designed the Vienna State Opera House? Answer:",
+    {
+        "id": "english--8654972544689081303-1",
+        "lang": "english",
+        "summary": "The opera house was the first major building on the Vienna Ringstrasse commissioned by the Viennese \"city expansion fund\". Work commenced on the house in 1861 and was completed in 1869, following plans drawn up by architects August Sicard von Sicardsburg and Eduard van der N\u00fcll. It was built in the Neo-Renaissance style by the renowned Czech architect and contractor Josef Hl\u00e1vka.",
+        "question": "Who designed the Vienna State Opera House?",
+        "label": "August Sicard von Sicardsburg and Eduard van der N\u00fcll"
+    }
+]

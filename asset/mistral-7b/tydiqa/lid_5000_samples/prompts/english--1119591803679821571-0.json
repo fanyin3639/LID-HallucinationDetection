@@ -1,0 +1,15 @@
+[
+    [
+        2668,
+        [],
+        "civil deliberative or administrative council"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Junta (/\u02c8h\u028ant\u0259/ or /\u02c8d\u0292\u028cnt\u0259/) is a Spanish  and Portuguese term for a civil deliberative or administrative council. In English, it predominantly refers to the government of an authoritarian state run by high ranking officers of a military. Military juntas can refer to either a government in which a coalition of military officers rules in conjunction or to a military dictatorship in which a leader's government and administration is staffed primarily by military officers. Juntas, like military dictatorships, are often the result of military coups. \"Junta\" literally means \"union\" and often refers to the army, navy and air force commanders taking over the power of the president, prime minister, king or other non-military leader.  Question: What is a Junta government? Answer:",
+    {
+        "id": "english--1119591803679821571-0",
+        "lang": "english",
+        "summary": "Junta (/\u02c8h\u028ant\u0259/ or /\u02c8d\u0292\u028cnt\u0259/) is a Spanish  and Portuguese term for a civil deliberative or administrative council. In English, it predominantly refers to the government of an authoritarian state run by high ranking officers of a military. Military juntas can refer to either a government in which a coalition of military officers rules in conjunction or to a military dictatorship in which a leader's government and administration is staffed primarily by military officers. Juntas, like military dictatorships, are often the result of military coups. \"Junta\" literally means \"union\" and often refers to the army, navy and air force commanders taking over the power of the president, prime minister, king or other non-military leader. ",
+        "question": "What is a Junta government?",
+        "label": "civil deliberative or administrative council"
+    }
+]

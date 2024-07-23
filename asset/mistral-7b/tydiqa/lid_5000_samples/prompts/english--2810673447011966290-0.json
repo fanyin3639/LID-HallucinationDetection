@@ -1,0 +1,15 @@
+[
+    [
+        2134,
+        [],
+        "Petrie to Redcliffe"
+    ],
+    "Answer the following questions:\nAnswer the following question based on the information in the given passage. Passage: Anzac Avenue is a heritage-listed major arterial road lined with trees in the Moreton Bay Region, Queensland, Australia. It runs 17.8 kilometres (11.1mi) from Petrie to Redcliffe, with most of the route signed as state route 71. The route was formerly the main route to the Redcliffe peninsula, until the Hornibrook Bridge was built. Question: Where does Anzac Avenue begin? Answer:",
+    {
+        "id": "english--2810673447011966290-0",
+        "lang": "english",
+        "summary": "Anzac Avenue is a heritage-listed major arterial road lined with trees in the Moreton Bay Region, Queensland, Australia. It runs 17.8 kilometres (11.1mi) from Petrie to Redcliffe, with most of the route signed as state route 71. The route was formerly the main route to the Redcliffe peninsula, until the Hornibrook Bridge was built.",
+        "question": "Where does Anzac Avenue begin?",
+        "label": "Petrie to Redcliffe"
+    }
+]
